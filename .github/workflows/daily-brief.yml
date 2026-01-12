@@ -2,9 +2,8 @@ name: Daily Security Brief Update
 
 on:
   schedule:
-    # Run at 7 AM West African Time (UTC+1) every day
-    # GitHub Actions uses UTC, so 7 AM WAT = 6 AM UTC
-    - cron: '0 6 * * *'
+    # Run every 3 hours (UTC). Use '0 */3 * * *' to run at 00:00, 03:00, 06:00 ... UTC
+    - cron: '0 */3 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:

@@ -11,7 +11,7 @@ const parser = new Parser({
   }
 });
 
-// Security-related keywords for filtering
+// Keywords for filtering (security + traffic)
 const SECURITY_KEYWORDS = [
   'banditry', 'bandit', 'kidnapping', 'kidnapped', 'abducted',
   'attack', 'attacked', 'gunmen', 'gunfire', 'shooting', 'shot',
@@ -24,6 +24,13 @@ const SECURITY_KEYWORDS = [
   'niger delta', 'piracy', 'kidnap', 'ransom'
 ];
 
+// Traffic-related keywords to include in the report
+const TRAFFIC_KEYWORDS = [
+  'traffic', 'accident', 'road', 'crash', 'pileup', 'gridlock',
+  'congestion', 'vehicle', 'motor accident', 'roadblock', 'roads closed',
+  'collision', 'fatal crash', 'traffic jam', 'traffic update', 'flooding'
+];
+
 // Threat categories and their keywords
 const THREAT_CATEGORIES = {
   'Banditry': ['banditry', 'bandit', 'armed robbery', 'rustling'],
@@ -31,7 +38,8 @@ const THREAT_CATEGORIES = {
   'Insurgency': ['insurgency', 'insurgent', 'boko haram', 'iswap', 'terrorism'],
   'Military/Security Operations': ['military operation', 'security operation', 'operation', 'army raid'],
   'Armed Conflict': ['attack', 'gunfire', 'shooting', 'ambush', 'conflict', 'violence'],
-  'Law Enforcement': ['police', 'arrest', 'arrested', 'security officer']
+  'Law Enforcement': ['police', 'arrest', 'arrested', 'security officer'],
+  'Traffic': ['traffic', 'accident', 'crash', 'road', 'pileup', 'congestion', 'gridlock']
 };
 
 // Google News RSS feeds for Nigeria
@@ -48,9 +56,10 @@ const NIGERIAN_OUTLETS = [
   'https://www.thecable.ng/feed', // The Cable
 ];
 
-function isSecurityRelated(text) {
-  const lowerText = text.toLowerCase();
-  return SECURITY_KEYWORDS.some(keyword => lowerText.includes(keyword));
+function isRelevant(text) {
+  const lowerText = (text || '').toLowerCase();
+  return SECURITY_KEYWORDS.some(keyword => lowerText.includes(keyword)) ||
+    TRAFFIC_KEYWORDS.some(keyword => lowerText.includes(keyword));
 }
 
 function categorizeHeadline(title) {
@@ -67,9 +76,44 @@ function categorizeHeadline(title) {
 
 function normalizeTitle(title) {
   // Remove common prefixes and normalize
-  return title
-    .replace(/^[\d\s\-\:\.]+/, '')
-    .trim();
+  if (!title) return '';
+  // Strip leading junk
+  let t = title.replace(/^[\d\s\-\:\.]+/, '').trim();
+  // If title ends with " - SourceName" (common in Google News), strip that
+  const parts = t.split(' - ');
+  if (parts.length > 1) {
+    const last = parts[parts.length - 1].trim();
+    if (last.length > 0 && last.length < 40 && /[A-Za-z]/.test(last)) {
+      parts.pop();
+      t = parts.join(' - ').trim();
+    }
+  }
+  return t;
+}
+
+function extractSource(item) {
+  // Prefer explicit source fields
+  if (item.source && item.source.title) return item.source.title;
+  if (item.creator) return item.creator;
+  if (item['dc:creator']) return item['dc:creator'];
+
+  // Try to parse from title if it ends with ' - Source Name'
+  const title = item.title || '';
+  const parts = title.split(' - ');
+  if (parts.length > 1) {
+    const candidate = parts[parts.length - 1].trim();
+    if (candidate.length > 0 && candidate.length < 40 && /[A-Za-z]/.test(candidate)) {
+      return candidate;
+    }
+  }
+
+  // Fallback: attempt to extract domain from link
+  try {
+    const u = new URL(item.link);
+    return u.hostname.replace('www.', '');
+  } catch (e) {
+    return 'Unknown Source';
+  }
 }
 
 function getSimilarityScore(str1, str2) {
@@ -137,16 +181,19 @@ async function generateReport() {
     const allItems = await fetchAllFeeds();
     console.log(`Fetched ${allItems.length} total items`);
     
-    // Filter for security-related content
+    // Filter for relevant content (security + traffic)
     const securityHeadlines = allItems
-      .filter(item => isSecurityRelated(item.title || ''))
-      .map(item => ({
-        title: item.title,
-        link: item.link,
-        source: item.source?.title || item.creator || 'Unknown Source',
-        pubDate: item.pubDate,
-        category: categorizeHeadline(item.title)
-      }));
+      .filter(item => isRelevant(item.title || ''))
+      .map(item => {
+        const rawTitle = item.title || '';
+        return {
+          title: normalizeTitle(rawTitle),
+          link: item.link,
+          source: extractSource(item) || 'Unknown Source',
+          pubDate: item.pubDate || item.isoDate,
+          category: categorizeHeadline(rawTitle)
+        };
+      });
     
     // Remove duplicates
     const uniqueHeadlines = removeDuplicates(securityHeadlines);
