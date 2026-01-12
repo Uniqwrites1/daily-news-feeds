@@ -1,0 +1,23 @@
+{
+  "name": "nigeria-daily-security-brief",
+  "version": "1.0.0",
+  "description": "Daily Nigerian security news aggregator dashboard",
+  "main": "fetch-news.js",
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-news.js",
+    "dev": "node fetch-news.js && python -m http.server 8000"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "nigeria",
+    "security",
+    "news",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}

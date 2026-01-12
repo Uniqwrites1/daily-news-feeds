@@ -1,0 +1,37 @@
+name: Daily Security Brief Update
+
+on:
+  schedule:
+    # Run at 7 AM West African Time (UTC+1) every day
+    # GitHub Actions uses UTC, so 7 AM WAT = 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-brief:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch and process news
+        run: npm run fetch
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Daily Brief Bot"
+          git add data.json
+          git commit -m "chore: update daily security brief - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" --allow-empty
+          git push

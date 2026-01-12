@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nigeria Daily Security Brief</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.95);
+            border-left: 4px solid #3b82f6;
+        }
+        .stat-box {
+            background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+            color: white;
+        }
+        .threat-badge {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            font-size: 0.875rem;
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        .headline-item {
+            transition: all 0.3s ease;
+            border-left: 3px solid #cbd5e1;
+        }
+        .headline-item:hover {
+            border-left-color: #3b82f6;
+            background: #f8fafc;
+        }
+        .source-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 0.25rem;
+            background: #f1f5f9;
+            color: #475569;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .timestamp {
+            color: #64748b;
+            font-size: 0.875rem;
+        }
+        .status-indicator {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            display: inline-block;
+            background: #10b981;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+    </style>
+</head>
+<body>
+    <div class="min-h-screen py-12 px-4 sm:px-6 lg:px-8">
+        <!-- Header -->
+        <div class="max-w-6xl mx-auto mb-8">
+            <div class="flex items-center justify-between mb-6">
+                <div>
+                    <h1 class="text-4xl font-bold text-white mb-2">Nigeria Daily Security Brief</h1>
+                    <p class="text-slate-300">Aggregated Nigerian security news headlines</p>
+                </div>
+                <div class="text-right">
+                    <div class="flex items-center gap-2 justify-end mb-2">
+                        <span class="status-indicator"></span>
+                        <span class="text-green-400 text-sm font-medium">Updated</span>
+                    </div>
+                    <p class="timestamp" id="lastUpdate">Loading...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Insights -->
+        <div class="max-w-6xl mx-auto mb-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div class="stat-box p-6 rounded-lg shadow-lg">
+                    <p class="text-blue-100 text-sm font-medium mb-2">TOTAL HEADLINES</p>
+                    <p class="text-4xl font-bold" id="totalHeadlines">0</p>
+                </div>
+                <div class="stat-box p-6 rounded-lg shadow-lg">
+                    <p class="text-blue-100 text-sm font-medium mb-2">DOMINANT THREAT</p>
+                    <p class="text-2xl font-bold" id="dominantThreat">—</p>
+                </div>
+                <div class="stat-box p-6 rounded-lg shadow-lg">
+                    <p class="text-blue-100 text-sm font-medium mb-2">THREAT BREAKDOWN</p>
+                    <div id="threatBreakdown" class="text-sm mt-2 space-y-1"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Headlines Feed -->
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-2xl font-bold text-white mb-6">Security Headlines</h2>
+            <div id="feedContainer" class="space-y-4">
+                <div class="card p-6 rounded-lg shadow-md text-center text-slate-500">
+                    Loading headlines...
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadDashboard() {
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) {
+                    throw new Error('data.json not found. Run: npm run fetch');
+                }
+                
+                const data = await response.json();
+                
+                // Update timestamps
+                document.getElementById('lastUpdate').textContent = 
+                    new Date(data.generatedAt).toLocaleString('en-NG', {
+                        timeZone: 'Africa/Lagos',
+                        weekday: 'short',
+                        year: 'numeric',
+                        month: 'short',
+                        day: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    });
+                
+                // Update stats
+                document.getElementById('totalHeadlines').textContent = data.totalHeadlines;
+                document.getElementById('dominantThreat').textContent = data.dominantThreat;
+                
+                // Update threat breakdown
+                const breakdown = document.getElementById('threatBreakdown');
+                breakdown.innerHTML = Object.entries(data.categoryCounts || {})
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 3)
+                    .map(([cat, count]) => `<span>${cat}: <strong>${count}</strong></span>`)
+                    .join('<br>');
+                
+                // Populate headlines
+                const feedContainer = document.getElementById('feedContainer');
+                
+                if (!data.headlines || data.headlines.length === 0) {
+                    feedContainer.innerHTML = '<div class="card p-6 rounded-lg shadow-md text-center text-slate-500">No security headlines found for today.</div>';
+                    return;
+                }
+                
+                feedContainer.innerHTML = data.headlines.map(headline => `
+                    <div class="headline-item card p-6 rounded-lg shadow-md hover:shadow-lg">
+                        <div class="flex justify-between items-start gap-4 mb-3">
+                            <a href="${headline.link}" target="_blank" rel="noopener noreferrer" 
+                               class="text-lg font-semibold text-slate-900 hover:text-blue-600 transition">
+                                ${escapeHtml(headline.title)}
+                            </a>
+                            <span class="threat-badge flex-shrink-0">${escapeHtml(headline.category)}</span>
+                        </div>
+                        <div class="flex justify-between items-center">
+                            <span class="source-badge">${escapeHtml(headline.source)}</span>
+                            <span class="timestamp">${formatDate(headline.pubDate)}</span>
+                        </div>
+                    </div>
+                `).join('');
+                
+            } catch (error) {
+                console.error('Error loading dashboard:', error);
+                document.getElementById('feedContainer').innerHTML = `
+                    <div class="card p-6 rounded-lg shadow-md text-center">
+                        <p class="text-red-600 font-medium mb-2">Unable to load headlines</p>
+                        <p class="text-slate-600 text-sm">${error.message}</p>
+                        <p class="text-slate-500 text-sm mt-3">First time? Run: <code class="bg-slate-100 px-2 py-1 rounded">npm install && npm run fetch</code></p>
+                    </div>
+                `;
+            }
+        }
+        
+        function formatDate(dateString) {
+            if (!dateString) return 'Unknown date';
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffHours = Math.floor((now - date) / (1000 * 60 * 60));
+            
+            if (diffHours < 1) return 'Just now';
+            if (diffHours < 24) return `${diffHours}h ago`;
+            
+            return date.toLocaleDateString('en-NG', { 
+                month: 'short', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Load on page load
+        loadDashboard();
+        
+        // Refresh every 5 minutes
+        setInterval(loadDashboard, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
