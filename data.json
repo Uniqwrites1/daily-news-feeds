@@ -1,32 +1,102 @@
 {
-  "timestamp": "2026-01-13T09:10:38.932Z",
-  "generatedAt": "13/01/2026, 10:10:38",
+  "timestamp": "2026-01-13T12:12:12.099Z",
+  "generatedAt": "13/01/2026, 13:12:12",
   "totalHeadlines": 158,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Traffic": 9,
+    "Traffic": 8,
     "Security News": 110,
-    "Banditry": 5,
-    "Armed Conflict": 10,
-    "Law Enforcement": 6,
-    "Military/Security Operations": 8,
+    "Banditry": 4,
+    "Law Enforcement": 7,
+    "Armed Conflict": 9,
+    "Military/Security Operations": 9,
     "Kidnapping": 6,
-    "Insurgency": 4
+    "Insurgency": 5
   },
   "headlines": [
+    {
+      "title": "Airport Police nab driver in fatal hit-and-run at Ikeja",
+      "link": "https://www.vanguardngr.com/2026/01/airport-police-nab-driver-in-fatal-hit-and-run-at-ikeja/",
+      "source": "Nwafor",
+      "pubDate": "Tue, 13 Jan 2026 11:50:32 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Again, gunmen attack Otobi Akpa, kill four, scores missing in night raid",
+      "link": "https://www.vanguardngr.com/2026/01/again-gunmen-attack-otobi-akpa-kill-four-scores-missing-in-night-raid/",
+      "source": "Nwafor",
+      "pubDate": "Tue, 13 Jan 2026 11:42:28 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Portable arraigned in court over car theft, assault; remanded in custody",
+      "link": "https://www.vanguardngr.com/2026/01/portable-arraigned-in-court-over-nine-count-criminal-charges-remanded-in-custody/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Tue, 13 Jan 2026 11:27:07 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Turji’s fresh threat empties villages, rekindles fear in Sokoto",
+      "link": "https://www.vanguardngr.com/2026/01/turjis-fresh-threat-empties-villages-rekindles-fear-in-sokoto/",
+      "source": "Ayobami",
+      "pubDate": "Tue, 13 Jan 2026 11:24:50 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria reopens some schools in the north despite kidnap threats",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTJpMVlRaU9vaTcxeXVybS14RGNadHMtU0VLOUR6cVcxNnlVbkF1Vl81dF9fbjFWbkVQaUVEa3ROUTREaTRVbHZybnlyTjcybE9JZ21RY1Fta1V0aUJzakVTcDVVanNEMmNQV2JsakZTVkU2Wmw4UFNIcXdmTGhDZkN0RXo2N1B3Ym55eUk3cFVieEgxOFNZ?oc=5",
+      "source": "France 24",
+      "pubDate": "Tue, 13 Jan 2026 11:19:13 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria hires US right-wing-connected lobby firm for $9m as Trump threatens more strikes",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFlyY3VRTWx6NnBZMG5xX1lXOExOVE1sSWFYcmlDY1d1aWFkQk93YWsxM1EzWGpBTDFYeTcyZTY3WGpzSGQ2cEJIVDY4VVpIbjJOaFNSZGJsVVBQUDcwOVNXSWh1ODI0X2FXOG4xbkVjeldDb1ltQVR5NmlyQlQ1M01obzdBZEloMHR1dUdUbFR2d0Jhd2RvLW16WUU3N19KUGNmTVlRV2ViYUtMRF93SDdxZnpMdW9PdWh1UDlQY3VqZlIyVkE?oc=5",
+      "source": "The Africa Report",
+      "pubDate": "Tue, 13 Jan 2026 11:15:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Death of Chimamanda Ngozi Adichie's son sheds light on Nigeria's quality of care",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek5ROWNxX0QzSzdQVmszN25xRGUyRi0tMjVxZ3dRbVdEd25TSUZJbExaZGpJT2RuYlpfNzdTS201ZHVEdE9PN0pnRTdodUdNYk9iU0tkLWV3WmpUaWNvYmNiRDEzUmFNVUpySzlWYUNZd0tBT3VCRVAyQkZqWXRMM0RiaGJ6NDVCQmkyVW9WdE85OVFvMzdzOUVWdkJqZTVNRmRRMmVfb0tYenUz?oc=5",
+      "source": "France 24",
+      "pubDate": "Tue, 13 Jan 2026 11:08:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Mama Onabanjo’s death ends glorious era – Abiodun",
+      "link": "https://www.vanguardngr.com/2026/01/mama-onabanjos-death-ends-glorious-era-abiodun/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 13 Jan 2026 11:03:22 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "‘$9.7m terrorism financing’: Judge returns Bauchi commissioner’s case to CJ",
+      "link": "https://www.vanguardngr.com/2026/01/9-7m-terrorism-financing-judge-returns-bauchi-commissioners-case-to-cj/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 13 Jan 2026 10:40:38 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Wife of Ogun’s first civilian gov Lucia Onabanjo is dead",
+      "link": "https://www.vanguardngr.com/2026/01/wife-of-oguns-first-civilian-gov-lucia-onabanjo-is-dead/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 13 Jan 2026 10:23:20 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Your absence amid rising poverty, insecurity in Nigeria troubling — Obi tackles Tinubu",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeldvSmlTelpVTzhMaHVKWGJ1UDN5cTh2WE5ldncxbGtYZG1pVjN2YmRrZzQzcTBJS0Rrd0Z6eWFjZGVvNWt3WHJGbF9lZWVfNERadXp1dUQ3a3pqay1JMU5Dbk9RVl9URWRqZy1tNHB5c1Utam5wZU9Fc0MzUFRZTzVsNXZMR05RQ0k2SUdsSEhfSGhRZ3dYSUQ4S3FOeXBhSmpjdGZrSjdCQ2ZpcDhNOA?oc=5",
+      "source": "ThePointNG",
+      "pubDate": "Tue, 13 Jan 2026 09:13:45 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Nigeria Records 57 Electricity-Related Accidents in Three Months |",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG1FRDJWOVN0MnJ6d3B1U0ItRmpacjRBcHFvTEtfTU9fWXRaT3hrWDhwMlhHN0x3VmszQzdSZ1VwQ2RmODRDLS1tT0t0akppUlFsdVBmb012VTFWWVphVG9YYUxhal9wOTRjZHZFbGg1eDBZRFFmN2M1TlgwTzJZUnNFYUhuWXMyZDFMd0s3bWQ3YTRacm1pR2lxSTcwZw?oc=5",
       "source": "Business Post Nigeria",
       "pubDate": "Tue, 13 Jan 2026 08:40:29 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "Again, terrorists attack Otobi Akpa in Benue, kill four, scores missing",
-      "link": "https://www.vanguardngr.com/2026/01/again-terrorists-attack-otobi-akpa-in-benue-kill-four-scores-missing/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 13 Jan 2026 08:34:13 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria reopens some schools in the north, defying threats of kidnap – Reuters",
@@ -36,11 +106,11 @@
       "category": "Security News"
     },
     {
-      "title": "CDS unveils plans to boost pay, welfare of military personnel",
-      "link": "https://www.vanguardngr.com/2026/01/cds-unveils-plans-to-boost-pay-welfare-of-military-personnel/",
-      "source": "Ayobami",
-      "pubDate": "Tue, 13 Jan 2026 07:44:38 +0000",
-      "category": "Security News"
+      "title": "Ex-COAS Buratai calls for expanded, well-equipped police force for internal security",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWZYX2ttVzlmeUlZWlI2Mk10N0J1YUNuVFA4b2RPbnlDWXBCV3lGa0FfV2UyQ0diYjNuNklabE5CYmtPTFBRSlZfMW9UN3BFZ3VnX18tZ2hGZ1dlSGdEOU9VMHB4SGp1N1RiUXBGUFBFS1dkTkNLVTIyRzBPYVNBZnZxbzVkMzEwVFhlYkt0a0tGOEdkbkN2TXhZMWNQLW9DQ2xsQmRJQ1Rnd3JDOVA0TG12ME0xc0E?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 13 Jan 2026 08:02:32 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Obi faults Tinubu’s UAE trip, says Nigeria can’t be governed from abroad",
@@ -50,11 +120,11 @@
       "category": "Traffic"
     },
     {
-      "title": "FG orders night repairs on failed Lagos–Ota–Abeokuta road",
-      "link": "https://www.vanguardngr.com/2026/01/fg-orders-night-repairs-on-failed-lagos-ota-abeokuta-road/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 13 Jan 2026 06:48:49 +0000",
-      "category": "Traffic"
+      "title": "Police foil attack on Obajana operational base in Kogi",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGVfXzhVLWtycS1tNGRQTEJ1TDNCLUdrTHBGQ0dKRnRYeEVJLVBNNFF1RE5qMTdReTdvZGRnLVo1S0c0eDdoZWJsZFZEWHZvX0tOR2VLUmd2LWk0RmU0OW95TUplaUZKQlhIRUN3VEo3TV9kaFdybExFSjVpekdKMGUtQWN3bkhSaHV2UTBmTWJBS3ROeUhPYWJvdmNFMXg5WkFBd1dIZlU5eHo1NTFpZU93?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Tue, 13 Jan 2026 06:56:56 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Okwori: Military Has Taken Over Police Duties In Nigeria",
@@ -62,13 +132,6 @@
       "source": "Arise News",
       "pubDate": "Tue, 13 Jan 2026 05:54:26 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Insecurity: Okpebholo postpones school resumption in Edo Central",
-      "link": "https://www.vanguardngr.com/2026/01/insecurity-okpebholo-postpones-school-resumption-in-edo-central/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 13 Jan 2026 05:01:37 +0000",
-      "category": "Security News"
     },
     {
       "title": "Why security outlook is set to improve under Oluyede",
@@ -85,13 +148,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Sanwo-Olu extols Army for sustaining peace, security in Lagos",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWNMNmp0R1VqNU1VamwzdmxGdkRYNG5tMWJiazFnQXFlallvOE9QOGh6b0c2X1Rya3RRNUM2SnJNd0h4RUZBdGNTYUdjdkFTc2hBUHoxQlhQVFZlYWgwZjd5V0RHX3lZSWZwdXBPTHZBT0FZSWFjSGQwZC1uLWxpd1RlR0xhbWN0OE03Y1VxNlM4d09wMHVNRi1jb0szYXhpZnc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 13 Jan 2026 04:10:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "From Ballots to Battlefields: Nigeria can repurpose election tool to fight terrorism",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSFhFUjl3dEFTM1R3cnJYSURVQnU3WGJ1VWJhXzFyOWlzRlBIOXIyUTFDNncyRVBnYjNYZXpfc2UzeXNuc0dranRtVmgwdEZxMUtQM0JUd3dlTUU1WElvclNqMEJiODRqVDZXVFN4SlJJOG1ZREJWQnVNSFluQWpwVXRpZmo2ZXdaY0J1dkxiZGNFMzJhMXUxeElma3JCU0h5NGo2akNnTktpQVdMeEhWNVBtQXlfYWU0NkNPZEdXZl9MZzZoRmwtTnRDVGxsbkJlVkYzbzl3RjU?oc=5",
       "source": "Premium Times Nigeria",
@@ -104,13 +160,6 @@
       "source": "ReliefWeb",
       "pubDate": "Tue, 13 Jan 2026 01:06:24 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "State Police and the questions Nigeria can no longer avoid",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlE5WWk1QWM5RVkyMGFjMTdvdkJ5aVRkMUs1cHRuY2oxY2N2bl9NdXJ2Mks5bWpxM3p1YnVtclNxejd6c19JMWZuN29wUW01bkhOcU84cHBXUmtWd3UxUGp4blM5NkNyU0dUNmVRRUhQeHRJYW1fM2Z5dThpcjVvaUpZVmUwS0hqbGVZSGRud0JKeEY5enRhUHAwVmVaQXM?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Mon, 12 Jan 2026 22:07:30 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Disquiet, heavy security as Kano Gov joins APC",
@@ -127,13 +176,6 @@
       "category": "Traffic"
     },
     {
-      "title": "Reframing Nigeria’s banditry crisis: From emotional narratives to strategic clarity, By Samuel Aruwan",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObk9VWV9FVWlzdFE3VVVqdTN6WkVOaXlWaHB3UEhhWGs5UHRfd0RBeTZtNWNoX1BfOE5MX1VuUVdGMzEyMGNnNHhuWEl6OERtR3RZejNRQ0dfQ2tza2NKUHRrUDJPWTZkMXlwWElDWnNlcVNEN3I3LTgxZXRjallhZzBMWFl2TG83aW04aDJ5c25vQXR0ejRQenNHZVlJSzJJZGJWcGtZaC1iYll3V01sbDlVYURmXzdRWU05dlp3enlkX1BIYzJzSDZXTHpaaHZDczlzUmNRQXluV0QtbzlqMzNlbw?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Mon, 12 Jan 2026 19:30:23 GMT",
-      "category": "Banditry"
-    },
-    {
       "title": "\"Military Overuse For Internal Security Is Weakening Police Capacity\" — Buratai Warns Of Long-Term Damage To Civilian Security Institutions",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWVRrQ3dMUDRibTRRRDNGWGFSRGtzTHROcmNwb0M4ajcxWDlKUUN6VnFyelJJZGh0Unh0ZVNxYXo1TDJJVTd4YnJaY2JFQ1pKVnRILXNBQTdBZlQ3R1AxZjhKa01oTUdkcDRLRnhua3VqTGFCUkkyeUhzYWxUblVCQ2Y5U2p6WGdyV2Y5Vl9aeDQ0b1dsb1FmUXZzWWs1UXZmT1VTUl8yWjQycGlEMEppLTNvOUU5Yk0wbmNnbUs4VXpoMDlTTUg4bU15OWJFSWUwR2RxVkdqcE53WmJKOWEtRnk4aGZzT0hXMmxiMmJWLS1hVTBxOHpWSg?oc=5",
       "source": "TheNigeriaLawyer",
@@ -141,18 +183,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigerian Army Rejects Pipeline Vandalism Claims In Niger Delta",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFFDQWxZRzdqV2NSZnB3T2x0ZUNoWG8xSVlOVXhrTVVvYVJISkZzeFV0RExMYTdRdURWcXlCM0dQSE1GWHN3Ykg4ZXI5RUZScGlZNnk2dEx1UkF3STFTVm81STJHdS10c1JlVGhkV29pdkpyMTJOYk1sYktzckFQUEEyZmlheXdzZ2c?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Mon, 12 Jan 2026 19:08:36 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Some kidnapped from Catholic school in Nigeria were kept in cages",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFBPODNPcU1BRFM2cENPRWR1YS11X3dPcEZCSFNEX0VKTHB5aHRHMEFCaDczd3RydmVSUUZHT1F6SW8yeExFM0ZBZVFESDVIby1yWkNlV3R2d2xWZVo1VHI5WTFFV19tRGJETl9WeTUxNWNqM0phN2xwV3NnV3RDMTcyMEYxbk9YUEYtSFpCeDYycWk4amFMZGJ4VQ?oc=5",
-      "source": "Church in Need",
-      "pubDate": "Mon, 12 Jan 2026 18:53:16 GMT",
-      "category": "Kidnapping"
+      "title": "Military Deployment for Internal Security Operations Weakening Police Capacity — Buratai Warns",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90X280R3JMY3JYcFY0WWsyRzNGM09Jd0RFbEdoalVNMmE2RVVkNDl0MU16T3YzYkZlaDdGZ09qbGFCOFZRTjQwWHlreTJxeTBPNWdfOTRtQm1MdTFuSjJhb202aWRlN3Zfa2tHdllSSQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Mon, 12 Jan 2026 18:54:05 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "AFCRD 2026: Buratai calls for overhauling of Nigeria’s security architecture",
@@ -188,13 +223,6 @@
       "source": "The New Humanitarian",
       "pubDate": "Mon, 12 Jan 2026 12:32:57 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "EXCLUSIVE: Nigerian Soldiers In North-East Demand End To \"Repentant Terrorist\" Integration, Link Deadly Attacks To Leaks",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWZUTlA4T3pIa0s1V3lpWFY1MGJhbVZTdUs2TVhMeE5hRHEwMXRVSE1YaVVLQkcxbzlEekxrZmpMYlFoaGtDSHFBWVI3LTBoN0hsWXhzbTFBRF9TLWI3ZkE1QkNhZU9ydHhIMWY4WFBCcWxXTU9UM2pFRVVoclhEWWdQZWtTRWp6SFUyUzl6VDhDRlB6Y0JRWmhOM3VSRDlocXdCSW43R0pIQnZoOTFKZWgwcEd5SFkzbVVua2pkdjZmYkk?oc=5",
-      "source": "saharareporters.com",
-      "pubDate": "Mon, 12 Jan 2026 11:56:29 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Defence minister reaffirms commitment to stronger, self-reliant armed forces",
@@ -251,6 +279,13 @@
       "source": "The Sun Nigeria",
       "pubDate": "Mon, 12 Jan 2026 01:55:09 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "Armed Forces Day: FG, govs hail soldiers’ sacrifices",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93LVkxcnBheU1DeWREUHFNWDNUZzFtR0NybFZ2MmZkbzI4TDVlaXRFR3pyTUlQS0ZYMk9lNHJnSnRVNjVDcXM1OTBMa1kwdjdtTmxkYUlyclFyVjZxVWVpX0FVeEFXTm8zS19RN3BXLXpGWDdrdjJQZ3dn?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Mon, 12 Jan 2026 00:37:17 GMT",
+      "category": "Security News"
     },
     {
       "title": "Bandits Kill Soldier, NSCDC Officer in Benue State Attack",
@@ -327,41 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFFQVGtrX3VSakx6bTAxM3NDREZPVXNMZGhsUlYwQ2I3Z2lUWGlZZE5ISGp6c1BpNGFvaHZtYkFybUNyS0lEZy1KRDBFMl8tc0N4bE9aa0xxZGhjLU1FVlUteWpjMDEwQ2ZrWmRqbWxYRzNNdUp3Q3F0ZS0tNkpOUDZSWlI0a0I1OHI2bFc3dVVJeFJkWlg5SFZ0aTgtUXFua0FmcVdVWmh1NU5Va1M2blZqc2taTWtBeWpxTnRZY1pmTnJE?oc=5",
       "source": "Businessday NG",
       "pubDate": "Sun, 11 Jan 2026 06:56:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s security challenges deepens as terrorists push beyond traditional strongholds",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEdrelZodWMwa2VTX0FaMURDcnAydkpsQ0QzaWtJMHVSN1U5UDJyQXY2cUxJNk02OTEwVzVMQUNwMjk5c3RVeUdWQzNhclNncTJvU0NTeHpKeWl6Z3RvNEpyUzVkQmhBM2ZmN0VTVFNnWkhrZ0FnZTZCZGNCR2dvZFIwUDd3M0RIRjY1dGxEbmY2Y0JWUnh6clZCeFlMajJyRDN6cXc4UzZNRjItUEFWbDlMM3lWY214ZnZuWDN3VV8?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Sat, 10 Jan 2026 20:10:48 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Corps NSCDC Removes Kano Divisional Officer After Suspect Died In Custody",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRExYSGdOZGV4VzU5bW1heEFCUnpMSXROOXI0VWxlZjJwdXNsdFlOQUlmZG9zQkFnVm80bF9kMUdqQnlLUlF1b2lCUnJhYnJKeWJPZmxBSlp1aF9LaXhiQnhGVEt3Tndick9VcjBheXZEc1pvS3pfdXpLd1RLd3BpTmdFRC1hdVVRT3V4R2hwYkc5UlFIR2FtS1NLOVBoMXp3TWNsUGMzak9SNW4wcFItRmZ2c2VrYUxBYlE?oc=5",
-      "source": "saharareporters.com",
-      "pubDate": "Sat, 10 Jan 2026 12:59:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC Removes Fagge Divisional Officer After Suspect's Death In Custody",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnRXaV91clBZcUV0VnZVSDlzNVR2bERHZGFoZ1RlNWRaNWNlZlI0aDBMZ1dhYVhxOE4yU2Fhd0NNUjN5UFFHaHZQaU82ZFQ2TV9FUGExMDd0T2l2TEFrS3hadFowQndkenZySTBISzRzanFmS2xEZ2VCSG9NSmdjbDZyM1NMX29XcjNROTc1U1phTlEtTmNrc0d30gGfAUFVX3lxTE9nY0FsWXduNVlsRzNPYi1JalhyUWVGdHdvTUJKUFlrS2JGUkt5RnZkWXh2VXBHdWJWTmNCOGxlajJxQklaM3pZNVlHMGw3WEo5Ym1pNlptOEJJZTZ2THJJYXN2WnZRNzBvdUlLX09IWXl1aDNKTE5aVTlpVkpqV1RxMDJwU3JQakdlLUFFVjExTHpGb3lLUHA2UllnRWMtRQ?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Sat, 10 Jan 2026 11:12:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security Demands Unity, Abiodun Tells Nigerians",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVS1zUjJmQnFNSVVXaDk2b2xramE4TGc2NFR3S0ZXeGljTWJQTTZxeVJYNENTa2RFRW5MMkNCSHVjcVhFeDJzNXZZcDcyZlFKdThuQWdMOGlCQVJpcXlXZTZxcXR4VlpMTll3dVJ5WTlGOHNIWW1qWTN1eXA2UzJaWXkxWi1CS2hCOVV0NklKQl9adFFwSjVv?oc=5",
-      "source": "Radio Nigeria Ibadan Zonal Station",
-      "pubDate": "Sat, 10 Jan 2026 10:09:04 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "December 2025: The Giant Strides of Nigeria’s Security and Intelligence Agencies",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxTjdjS09LcnV1S1FZRmpGTWR6NkZfNnoxbC0ybFJjTnkwVC1hSW9HY2c5a0JZTzUzYklxS3hPWFI3bW5fWTQ1bDE2MDl3THFOeDVkME1tb1lVeGViTm5HSExQY2I1UQ?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Sat, 10 Jan 2026 06:36:42 GMT",
       "category": "Security News"
     }
   ]
