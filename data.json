@@ -1,19 +1,117 @@
 {
-  "timestamp": "2026-01-18T15:06:12.835Z",
-  "generatedAt": "18/01/2026, 16:06:12",
-  "totalHeadlines": 154,
+  "timestamp": "2026-01-18T18:08:15.569Z",
+  "generatedAt": "18/01/2026, 19:08:15",
+  "totalHeadlines": 157,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 110,
     "Insurgency": 10,
-    "Law Enforcement": 7,
     "Banditry": 5,
-    "Armed Conflict": 9,
-    "Military/Security Operations": 6,
-    "Traffic": 3,
-    "Kidnapping": 4
+    "Armed Conflict": 12,
+    "Traffic": 6,
+    "Military/Security Operations": 5,
+    "Law Enforcement": 6,
+    "Kidnapping": 3
   },
   "headlines": [
+    {
+      "title": "FCT Police arrest six armed robbery suspects linked to nightclub attacks",
+      "link": "https://www.vanguardngr.com/2026/01/fct-police-arrest-six-armed-robbery-suspects-linked-to-nightclub-attacks/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 18 Jan 2026 17:35:17 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "IPOB denies involvement in killing of two Enugu policemen",
+      "link": "https://www.vanguardngr.com/2026/01/ipob-denies-involvement-in-killing-of-two-enugu-policemen/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 18 Jan 2026 17:13:08 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NCC licenses Amazon’s Kuiper, BeetleSat to provide satellite broadband services in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjFDM1A5STRsX1lXaGlKNXZjNGtsVGtJRTZBZFdvS0pHWUU2MndLWFRmN3hneXk5YmlLLWQ5M1RGc05PWXhSeWt4cTRERThweUVCUlFIOHUzU0I3Z1NFVVFfWVpqVlVqT0lwalRwNUhKMUtqZmFWRXpFV1ZzUlFUc1ZydktOYmNGdW1GWWJrakMyWlpLV1ZZS2N5dVBvNjlESGg1NHdFRWFUUEJkOWhBNWdFbw?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sun, 18 Jan 2026 17:12:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "One killed as gang attacks motorcyclists in Osogbo",
+      "link": "https://www.vanguardngr.com/2026/01/one-killed-as-gang-attacks-motorcyclists-in-osogbo/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 18 Jan 2026 17:07:30 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Group Backs FG's U.S. Lobby Contract To Combat Security Threats",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX25YYkJPdkE2R3pKVDRHSkhPN2Vyc3Z6WmRIZE9WUmRwUmNhNUJnc1BfVWVEMURicDVnTzVHQXJWemlBOHVXNF9hSWVmT0VScUpvbHU3M2JiQW1IWE1qSDVaNDBkS3R5SEF3cC1SSUdvY0dEMm5BOW1iSFJacWtGT2djcXR1aFRaYVQ3VjdB0gGTAUFVX3lxTE5aS2JwZ09saUg5UDdiTnZlRDhDTjdfTFV0MlBOcFVpYVNHZ1A4VDY3VTlNbTExYnBKeWpKcGVuTkdza0JaWVVsdUREM015bzVsZWJJa1JGMEFFdFJxRzlTTFFSNmhyUDdMNWg3blFOZGxfV0kxMUUyUFNiZGtDbi1IM2ZNU0NpZmJJcXExQUs5TVF5TQ?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sun, 18 Jan 2026 16:38:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria's FATF Exit: NFIU Credits Tinubu, MDAs, Security Agencies for AML/CFT Breakthrough‎‎",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGk5a1IzS0JQcElGMGRObWJVak5QaTZkVEtXM0dhNk41b3dDMWVDM2s1VE1iSnRPQ0pRYUhuMHdpSWpuOC1IdnJKSlVDNkNFRFAzN0pRblZVQzJPal9KUjZLR2kwbFdrSExCMkRENEtwMGF4RkRTOUZ4WXRwbDFpclgyNl9QZFB4amU3OTl2dnhCZEMxMm40SkZiXzNTTGV4R3RLMVZiRXdvVm0tLVFEaG1vZkxYUQ?oc=5",
+      "source": "NewsDiaryOnline",
+      "pubDate": "Sun, 18 Jan 2026 16:32:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Conflicting US-Nigeria Health MoU, ADC expresses sovereignty concerns, demands full disclosure",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZU9UUjFEWVFYckRBZ0RpeHBQbFF1d0cxQ1ZIakVOeGxoSzFEOXFMaURTNi1scmNzdjZhT3VrOFhiWXFxeGFOMEgtRThxSnVFb2s4WUI3U2VjRGFZdm5wYTRYWTdzUWEzMUo5N0I1TE1va3kteTQ2b3hCZElRSThpMzFnN2NndzhRU01QcDlFVnFtdk5qWklRUVN4WFFUU3ZmWklmODlxcVlkVFFuSzhGZ3RPRzM3Tkczb0tXYXpCVVN3bC1GdXdXQw?oc=5",
+      "source": "the authority news",
+      "pubDate": "Sun, 18 Jan 2026 16:17:11 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Iran president says any attack on supreme leader would be declaration of war",
+      "link": "https://www.vanguardngr.com/2026/01/iran-president-says-any-attack-on-supreme-leader-would-be-declaration-of-war/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 18 Jan 2026 16:16:28 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Air Force Records Major Success Against Terrorists in Borno",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnduM0hWb0JYdnA3eFoxdGRab0E2WTdLZGtmNl9naG96NlBHc1g0RmFQYmNDUGhEc09hM1gzVkdqU3hOV25ha015b2VoZ25GQTUyR1hYTUpKTHctZlhtbF9ORVEtbFBQNkhWZTViZW11blFCSHVQT3NSa2lUMVMtR0pkTDFWUQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 18 Jan 2026 16:15:23 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Threat to peace: Anambra may ban masquerade groups",
+      "link": "https://www.vanguardngr.com/2026/01/threat-to-peace-anambra-may-ban-masquerade-groups/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 18 Jan 2026 16:02:02 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nasarawa Police rescue suspected human trafficking victims, begin investigation",
+      "link": "https://www.vanguardngr.com/2026/01/nasarawa-police-rescue-suspected-human-trafficking-victims-begin-investigation/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 18 Jan 2026 15:57:59 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Gov. Ododo donates N9 million to wives of fallen soldiers in Kogi",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ3k4T1lWMU1Ib0tzZ2ptdTVpQ19reURzZVFRNmRSVkFhbUZXWG1hOG9rbFQwb21qakZzR1RsYVQtRlF1Z0dpSTJXczNxM1oxM2xpN0haUGZSb05EdzFmTWI5YTZNSV9vZ2Y4cFB2RkY1UXVINkNNRWhmdGIzanVhRW5HMnJYVDhOenlibzMxSG1kQQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sun, 18 Jan 2026 15:37:13 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "years after: PENGASSAN pays tribute to deceased president in Sosoliso crash",
+      "link": "https://www.vanguardngr.com/2026/01/20-years-after-pengassan-pays-tribute-to-deceased-president-in-sosoliso-crash/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 18 Jan 2026 15:35:06 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "‘LGs are better positioned to handle road construction in Nigeria’",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFRWV190b0VvMVJ5MnIxVElqTFdBNDBhSlhRNktrdTE4T2xJTDhua3J5dXhpc1JsblBIalR2UFBTTGpXUmlTSDFpY2tURnBlN1Z4eUxvOVFfNHRWeUF4VkhOX01QN0FueFktQmpvVEltUG9obm5hYnlJSWhHUVhlVEdlOFI4WlhEU3MwcU9IbnFJdGVGWnpCejZXYXEtbkdodW44?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Sun, 18 Jan 2026 14:56:15 GMT",
+      "category": "Traffic"
+    },
     {
       "title": "The dragon at our doorstep: Understanding and confronting escalating banditry in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSDcxS3E5cDNqT0xDTDU1M3lGT1l3THNReWw1bmx0WUYxZGtEUDBEU29IdEZ4eHg0LXRyRjJpdzN1R2R1RTRvSldsLVVWOFdHX2Y0OWY5OG5id0oycUNtaXVWTnpUQlZNNjh5bll6RmdaTXpITXpSYXM3b0NwSEJNTHhhTmp3Sm1uMjJ2dXRMZmdGODZRY2NhRVcxQU9acm4yOXZFTVBXWThoSnZFaWdPRy16YlFrWEJFQURRMElIQkFvUQ?oc=5",
@@ -26,27 +124,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1BMenNGVWU5d1BYZEs4ZHNVa2U0SVJlSE1RV3VENzJUeTF4NVhLOWFJbHNZRFJpVnNmQjJNRXB6WUZMN2pOY05rdHRUQUJfeThoOEk4VUhfOXVIQkZYZlVQZWNiQS13eEowWGJsR1gyRXhDRVNwUVJsSXlHeW14UkN6X3kwTkxXejNSaGJSc3p3TWs1dGx0cGZuSG1EbG1KTlR3X3pBY2NBRXgxQWs3Tg?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Sun, 18 Jan 2026 14:46:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Night Club Attacks: Police arrest six wanted armed robbery suspects in Abuja",
-      "link": "https://www.vanguardngr.com/2026/01/night-club-attacks-police-arrest-six-wanted-armed-robbery-suspects-in-abuja/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 18 Jan 2026 14:15:51 +0000",
-      "category": "Banditry"
-    },
-    {
-      "title": "Police rescue 17 suspected trafficked children in Nasarawa",
-      "link": "https://www.vanguardngr.com/2026/01/police-rescue-17-suspected-trafficked-children-in-nasarawa/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 18 Jan 2026 13:51:26 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NDLEA nabs wanted drug kingpin 12 years after killing three officers",
-      "link": "https://www.vanguardngr.com/2026/01/ndlea-nabs-wanted-drug-kingpin-12-years-after-killing-three-officers/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 18 Jan 2026 13:07:06 +0000",
       "category": "Security News"
     },
     {
@@ -64,27 +141,6 @@
       "category": "Security News"
     },
     {
-      "title": "Police arrest three suspects over alleged murder of woman, six children in Kano",
-      "link": "https://www.vanguardngr.com/2026/01/police-arrest-three-suspects-over-alleged-murder-of-woman-six-children-in-kano/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 18 Jan 2026 11:34:19 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Police crack down on viral ‘self-kidnapping’ schemes in Lagos",
-      "link": "https://www.vanguardngr.com/2026/01/police-crack-down-on-viral-self-kidnapping-schemes-in-lagos/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 18 Jan 2026 11:30:17 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "NAF airstrikes neutralise over 40 terrorists in Borno",
-      "link": "https://www.vanguardngr.com/2026/01/naf-airstrikes-neutralise-over-40-terrorists-in-borno/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 18 Jan 2026 11:14:57 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "How one child’s death has put Nigeria on trial",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnV2MUJqTjZIaVRBaDJjblY2Wmw1bU53dWk4WXRRcC01MzIxVW1KVC1hSTlfNndQeVRsZUYzeUZITHFLNDR6RlVQZ2hWakhGc1c4WGRES3RETW5VaWs2SU5GTGs0Z0pINkwyanZMaUJnS0tvRnFyQUVEU3d5QVZzaUYzOUpUVEl1N1JMWFd3?oc=5",
       "source": "Businessday NG",
@@ -96,20 +152,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlNlUjUzcFczZmtzOV9fa2RVclRRMGpkbmxxa1ZZdTREOWgxTXpXX3h0ZEVzMmVVME1iczJfMVlZdUZNNXFLMHJFWEVFUzA3VGpaM3Fobl9saHBvajUzc0M4cmNUOThNTHhMemJwRkR0ZklaY2U2dlloX1BQc1JReWVwbTlrUWhpZTRPOUNSQWRmczRQcVJRTEhvWUFwOXRkU3Z5cGlpV2hiWTQ?oc=5",
       "source": "TheNigeriaLawyer",
       "pubDate": "Sun, 18 Jan 2026 08:52:44 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Niger State Governor Commends Nigerian Army at 2025 WASA Event",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlJZSTFUQ2NMN2s3bFotcEFnZzNzU051aGh4TV9BTXZUS0s5OW9oRkJLRW5VNTg5TUt6TFZldkZKRFVMUjFscUhPdG1mcGVUbVhSZERiTWZVZ3E5VnhnLVdaazJOLXlOTFB1d1NoMnYweGd4YTkzbV80eUJHSkl2aE9uSmFXS1ZTb1E?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sun, 18 Jan 2026 06:41:08 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "COUPS, BIAFRA, INSECURITY: Nigeria won Civil War but didn’t know how to win peace – Gen Alabi-Isama (rtd)",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkY1dVI3OXNsOU9ST2tjZUE5a3J3eUdQU3Vqcm5FUy1zcHlEOXBNUFZnTHc3VkNzRVlwMzN5dWNIR0RIRGwxdTlGZjJUeGlodVp5RnR0NnVBSWN0ZmFDdE1OSTJJb252YmxWQmtJQ0ZNbkJoV2dQWEJRdlVmZmhPd3NmY1M3M0gwNHJTQ1N0b25aaEcyb09YMG1ibWtxVnF0MTF5YXpLdFBDQkEyeVpqVHQ0NXlOZ19RVm9mOWlJOXplaHRqZ196X0E0MWFZY3fSAdQBQVVfeXFMT0dnU1Jld24zdk9EXzBIXzlBeElYMy01SFRkd0QycGg1RzA5dlJHdmc1V3JyVjhDMTQwa0Z1N2F1N2ZYY1ltdEVSTGRISTRBaHRSaW9HMzEtMnlHdzJZWFRwRWc3ZHk5cEMwaVZjUmpfRGpNTk1hblYxWi1KM1pZZklWVUFWTmRWWmRJQ1JPenVVZ2owajVQSkRwYVJ2Wm5MU3ZUZXFONjNkdEZQTDNMWlV1TVlTZW1rVTlDbW5QNm0xQ2ZmR01qcXVyeG91Y2plUlNhQ3c?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sun, 18 Jan 2026 06:37:53 GMT",
       "category": "Security News"
     },
     {
@@ -204,13 +246,6 @@
       "category": "Security News"
     },
     {
-      "title": "will be year of improved security across Sokoto State —Ahmed, gov’s SA on security",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3A1allZNG5Ca1NHUWVDaDdDRU83Y3ozck1maWR4d2VLcW9OdnJvUWtERHRlUUF6N3J3Ql96dFNvSUw0V3N5VkZhWW1FV1hJQzc3Q2JXZnkxYmQxZ2Q2a2dvQzdvdkFsSjc0MTUtRkZqM0tiVTRBMXN3LXIyUDkzdmRwb1JISDRYSU13VXVzZXZDX1FTa2hNd19QcTRITDhkMVg4bFAxaU9wd05Ccm9yWGprbw?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sat, 17 Jan 2026 04:45:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Insecurity: Interior, Defence Ministers Push For Unified Military – Paramilitary Front",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGZnMWt2RjhISkh3NFYydGNQMHp6bzBfOE03X1ZGLTJzaXhUSWNldlRBdjRCRVNjSlR2QXhjdnh2WFgxLXh1dnYyTnAxaHlKaGJQeUVZYU1xM1d6dkZSdVp3QUt3ekN2Q1RvbVZhbVV0dTVMV1NGaThkNXVfX3llVkM4M3U4YVZENlJsX3M5cWI4dmt2R09EX2FuS1ZST3dPUjU5WFJhTTQ?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -229,6 +264,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWRWNjJqQWJxSUI3eUlneEthaEhablRFUF9qQ1A4YXYyTk1zRk9PV3VjU0x1T2JkSTlIVEROWl9QQ3pGbVAzTW5iWVVWRFdoYWZka3BEUEJoTkw4NjB4REpIcWxjMGMteFFNdEppWG56bm5WZFdSb0M5M29ETFEwNkF6N1RUTXRJakg0aGNR?oc=5",
       "source": "News Agency of Nigeria",
       "pubDate": "Sat, 17 Jan 2026 02:07:45 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Interior, Defence Ministers meet to strengthen national security",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajVDVlZ3Vl9KVjdmNkNyM1R6cUY3dUZtQjNWX3BySEJXSV9DdnZMaS1JS2IxdkszOXh4U05xNGNPMS1TdEljWGM0MWdnbjliV2RKcWU0Z0tDWXRKbTc3Q2U3a0Vkbnk4V3FFVGJwSU9Jd3dFX25sY2psTHhKblYyRVctRkZFUDBiZ0Y3cnk0bi1xZW45UHp0bklNaUrSAaIBQVVfeXFMT0ROY09qYlNnR25fbmRzS3NYYzU1c3A4dko3aDNBOE1vRS1wYVROSnFBNDdJNXpUR2kwLXZXRmI2dWdUQTBYa05HZG1KQWx4Rm1lQy1iNy1SZkRIYTZITkF6cnVRYi1scDFmNXVTb1I1cF9USDg4akVJaW5ZZjdrd215QTZkeVV1UGZUVjAyZjZlT1VJdDZ1X0QzM0JsNUltaUVR?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 17 Jan 2026 01:36:45 GMT",
       "category": "Security News"
     },
     {
@@ -302,13 +344,6 @@
       "category": "Security News"
     },
     {
-      "title": "Interior, Defence Ministers meet to strengthen national security",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUURJclRTM2VYaldIWmJ6UnJhaDA1S2hzTk5BbFl2OGNuNUhQWnNPbEZ5Z1FDcVptVTVSSEJ6STd0WXJWeXZPazlkU083OEZNbzZubFc4dm9IRU9HVnBoRlA0X3dyLTJXcDNHSWRaaVktUGtVSU1VUllFaU9qOW5XOVMyVWJrUFpSR2c1eWRnaS0yZlZIX0dudERR0gGfAUFVX3lxTE9RdlVrOXNQWHpXQVhyaC1nMEdNZ1IyMGVwYk5FLVFLZGpYNFFTRmhFX3p5WlZPODBBNndnT0N5RW8zYlRCcFJjNVFpZjd6aHVOaUpER000NVpWVXBjMGVkQXh6SWprbVlNTVdYWGxLcUZXRHRhMndHcGg2YWRXajFTVFhvSktYLWM0N2EtZmdHaWdHS3p0Tkh6NmtMcG9vWQ?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Fri, 16 Jan 2026 17:15:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "US Approves $413m Security Funding for Nigeria, West Africa as Insurgency Threats Intensify",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHpIZ2k2dWRzS0hVeGNzbjdoNFBDOVQ5U0gtMTBiazdLRW80ZEJWLVpNSVZUSXBqaXA2aFFsN1lreWozcTNNeWFkaVRXSDg5VWtjdHF5a25ua3hDcHZMdlIwN1Zzak1zUThhQlRNc0RzdFhDRndJT00wRzVYdFpHeG9oeGFiM2NiNHZFOFVNS3pZTGs0SzdDbVVmSXdXcGg1N0tFT0ZZODE1ZEV4QUVKelB5bGtXaUVWUXJMaGtDVzJ0SFVU?oc=5",
       "source": "Pointblank News",
@@ -327,41 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQlVWNVp6WXZBSVZIY0pFV1BTRjgxR1J3U3JxMXhncW5jSUFpYjVjcDdVTE9URWJyYkxPVlVpT042cTFyZzRnejgzX0g1bGJPYzNiTFBBTUxsaHV4QlRzX0Fwa3lBRS0zTUdwcXdCTTB3eDVKa0xIdXE0amszTU93c1hTYVExUWNoZEZv?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Fri, 16 Jan 2026 16:25:18 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Defence, interior must act as one to fix Nigeria’s security gaps – Musa",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTJ3eVhYa21QcHpNN2g0YzZtQjNQMFJ2TldXQzNDRFg5NGhYQVZLVXBoSW9wbl9UM25jZkYteS16SzBEYUg3LWU3STlKSzFPanNSYmtGLXRGTGtvT2RWMXRzQ1RrWVE5VEdZcFZZYzJsdVFQTE9UekhYMnNkUnhuMVVTNHlrY3oxc3JnTEZ1bTd3TVd4YkRDTE01LWdyRlFPMFlOOVdQeEJsY19x0gGsAUFVX3lxTE1pMnd5WFhrbVBwek03aDRjNm1CM1AwUnZOV1dDM0NEWDk0aFhBVktVcGhJb3BuX1QzbmNmRi15LXpLMERhSDctZTdJOUpLMU9qc1Jia0YtdEZMa29PZFYxdHNDVGtZUTlUR1lwVlljMmx1UVBMT1R6SFgyc2RSeG4xVVM0eWtjejFzcmdMRnVtN3dNV3hiRENMTTUtZ3JGUU8wWU45V1B4QmxjX3E?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 16 Jan 2026 14:49:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "U.S. Backs Nigeria’s Fight Against Terrorism With $413m Regional Security Fund",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGIyLXNCRXVCR1c3dnRHNG5nZXllcnZHLWJibC1UMXVmNWdFcWM3Ukt2OVY0aDRtMFdHUTZMeFVHZGx6RUNzZjZPLUJVM3ZZMFBWUVM0LVAyNGFubTRMQVhRdG4zZVFZemxIOFI5aGhtX2gwdmFIelJYRWRPVHVBUTlIRENrZERsV0NiMGRVZU1VSFJFdF85WmhqR1JQWnd10gGmAUFVX3lxTE5YOEh2Qmg3U1V3dllOaW9vbkpCM1JpZlNDTW1mMksxR1A0VWNzNTFCdmRPbEpiWXRkM3NOc2N4X2pZX0dwNTlLVWJfZUFPNU1uVV9pbVIyeFZ2a3JYT3ZxUmtlUEpDNWl5TmtmWmJ0RjRLLXBVZlRhMDllSE1sNVpNQ3pzWW14WnVUTlp2N0NTVXRCOG1FV1BvZmo1SGtzdUxQZDU3THc?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Fri, 16 Jan 2026 14:44:13 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Lawrence Alobi: Nigeria’s Government Must Act On Porous Borders, Security Is Its Primary Duty",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGpQQnpwbWRSMVViSmdPb0VVemN6M2l1MFV5aXV4UVNpTmNNRmJrQkhrQlFFVFdJZ2ZjdFVxbmZNeFVuM1p0dHFKbHg2WktiT3U3c2dEUENMRHZFX29PZHZpNjlmZmkyMUxhNndfQ3FCWFNXaFdVTmJkd09mUERLNGFHMDlOVlo0TzZHajdUcjNTUHlQTG9xTUpWald1WkliMnVKa1Blcjhkc2ZLM2Z2SzV3?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 16 Jan 2026 14:33:28 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US approve $413m for security, anti-insurgency operations in Nigeria, West Africa",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSVlUbGdPYWFUUWV2SnMtZWp5M0JNZURxd2dpa1ptY2FUN1drV0d6WVFRRHVOSDJscGZaQ29jY2hMd2k2RjN5aXhVdkRpSkt4WU1KdW8zSE1jczI3VzBsM3ZsQkUtMWgtMzc1ZkExV24zNUxKYlliSC1TWTd3OGQzLVR0YjlnYzFXaFNMMlBlQnN0UHJCQklrSVl1ODRmdk45X2hUZS1jR1l2b2o5?oc=5",
-      "source": "thestreetjournal.org",
-      "pubDate": "Fri, 16 Jan 2026 14:16:41 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Ministers Of Interior, Defence Meet On Security",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRGJCTDNsWlV4UXFWLU0zcXlhYjFrVUUwaTdYVEprV2JuQzE5TFZYYzRtNlE1Tm5uZnhzLVUybTdCNmY4dDI5cElUb1VhM1loSDFCdkNTVkticm1WbDc5UmVVb1NZY1N0S0NuTjdubEh5ZDVKbmF2bkNISVZ2TUd6M0ZEYw?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Fri, 16 Jan 2026 14:10:50 GMT",
       "category": "Security News"
     }
   ]
