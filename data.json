@@ -1,25 +1,88 @@
 {
-  "timestamp": "2026-01-21T12:12:37.110Z",
-  "generatedAt": "21/01/2026, 13:12:37",
-  "totalHeadlines": 175,
+  "timestamp": "2026-01-21T15:11:34.182Z",
+  "generatedAt": "21/01/2026, 16:11:34",
+  "totalHeadlines": 177,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
-    "Law Enforcement": 14,
+    "Security News": 120,
+    "Law Enforcement": 15,
     "Armed Conflict": 10,
-    "Insurgency": 5,
-    "Traffic": 7,
+    "Insurgency": 6,
     "Military/Security Operations": 10,
-    "Banditry": 4,
-    "Kidnapping": 9
+    "Traffic": 3,
+    "Banditry": 3,
+    "Kidnapping": 10
   },
   "headlines": [
     {
-      "title": "Alleged $9.7m terrorism financing: Bauchi commissioner, 3 others secure N400m bail",
-      "link": "https://www.vanguardngr.com/2026/01/alleged-9-7m-terrorism-financing-bauchi-commissioner-3-others-secure-n400m-bail/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 21 Jan 2026 12:00:08 +0000",
-      "category": "Insurgency"
+      "title": "NSCDC Decorates 216 Newly Promoted Officers In Anambra, Emphasises Discipline",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0s4dFBaRE1QTTJMYTk1VGhzZG12YUw1LU9FQUJfSXpCX25xLVoweEdaZ1oycHlZZHhVWmxTOEQyaVRHOGRjNGRMamE1WDNXSXM4WTlwSHJ4enVBbENTaFhMT21SQWZDMUt5X2dYNWhBUm1sTWpHR3VSa0FEbnZzRlVzX1pqVjQyN09GX19Md1cxclNfTlF5TkhPRnUxWG9KNVHSAacBQVVfeXFMTkVjLTJmTUN3dEEzRXFhdFZhVnMweDVydjZiVTVFY1FuRHY4a1p1YXRfUmFac29sb3Z5c1h3cDZDQ29BOTZnZElRTjFaaHRHbmhESXpyTEdmMFFvV2pvS1JCdFJGbUxkVzYwWE9vekJBaEdvYklnNnNtaVJXREtHaS13Vldud09yc0dCUVdQd3F3T1JkNFdTZmN2RkFTT3o1QWRTT1prUGc?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Wed, 21 Jan 2026 14:45:46 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria: Will the latest church kidnappings prompt Trump to strike again?",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmlkaURQcksxN2d1bEs3YkJ3R1pDZ29Fd1hEUGtqbHFrbXljNGV5U0hJbFQ3d19MQUc2dVliQm5RQl9KcklfeGNfaXRLZWt5bWxoWjQ1a0NkLUpzZVlXd3lwWnN0LURvSDhIaktfZDNtaEFSbndmR0lkQlVGZ2JhQVJzQmdNMmJpdDlPTTluMnNsODRhcUVpcnBKenhTV0c4OHRtcE13ZjBXWExvTGZtQQ?oc=5",
+      "source": "The Africa Report",
+      "pubDate": "Wed, 21 Jan 2026 14:39:48 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Delayed payments threaten jobs and economic growth, contractors warn",
+      "link": "https://www.vanguardngr.com/2026/01/delayed-payments-threaten-jobs-and-economic-growth-contractors-warn/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 21 Jan 2026 14:34:45 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Catholic Bishops endorse federal insecurity fight, call for human-centred tax reforms",
+      "link": "https://www.vanguardngr.com/2026/01/catholic-bishops-endorse-federal-insecurity-fight-call-for-human-centred-tax-reforms/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 21 Jan 2026 14:31:33 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Senate hails Police on swift arrest of murderers in Kano",
+      "link": "https://www.vanguardngr.com/2026/01/senate-hails-police-on-swift-arrest-of-murderers-in-kano/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Wed, 21 Jan 2026 14:28:43 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Bayelsa community hands over man to police over alleged sexual abuse of minor",
+      "link": "https://www.vanguardngr.com/2026/01/bayelsa-community-hands-over-man-to-police-over-alleged-sexual-abuse-of-minor/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 21 Jan 2026 13:58:58 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian troops rescue 62 hostages, kill two militants in northwest operations",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmE0eGVsaTlCNVZZc29abVZpQWR5bFJ0clFIT0VFZWFnQlFBTEtwTm5rVkYzTXdlUW5fNXE5TVlMcHNISk5lT2FUcDNudkJGS2NkbGZWREM1eldMVWFOc2VOMzZHQWI5Y2E1RjNjalcwTlpXa2c0Z3daSXNBRGFub0NHSXhERk5IaVJOTmFVeklBUlpGTDdxQTI5WlhHWEs3UHRObmdMSnJPSldldXpqZWdwVkpITTFDaFZEOGhwTGcxdm5lWVlRbG0zbzN5TWZh?oc=5",
+      "source": "thecitizen.co.tz",
+      "pubDate": "Wed, 21 Jan 2026 13:52:44 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Fuel Scooping, Death Trap, Not Freebie – NOA Warns Nigerians",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWtQQmItQXJ4Vk5FTXRFZmRoa1QyR2gtT2hxekJZN25SMjgzQWg1UEtZMnctdWpiZW1lbTJLOHh4MHhUMW1UdlR3Mk52M184em0zSmJvUXBhdm5yOHVHMXplcXJjcXYwSUM0YUtMbFBPcWpaMXpXWUdjVDB1dnhNbnFXbW8tYWc?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 21 Jan 2026 13:12:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Fear grips Nigerian village after mass church kidnapping",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzBGUWFWX1RwRjJKdWZXYkl2T040eWpxYkh4Vmk0VmNEUmg2SEV5MmhrTmwyaS1WSG1veTlBUkNkRE5ncXNwLXVBTTVGV19tLXNMa2tuTG5Nb0RTVTRNSUdkTnFaWnNTODduekgxaTNyVEx0aG5FTlFqOHd3Q3lYU2xleHhPdXFONjhnZ01uVzRMOUo2SHlXelVSMzdVRjQ1dkJEeGREcGc2ZHfSAbABQVVfeXFMUG1TOEFLdnQwZlUwVFRrRm9UR2VnbmRjMGR6ek82U0ZQVHZmckNoOXpVd0NuMFdnT3pKOHNXSGxKbHBZNzJvenE5Qk0yRkdjVWNwUm9Ta0NRRVA4NTBTSXYzREF5TU5SS1o4NjNxenJrX0N4ZVFaVGxKWUd6bHhXdE85b0hUWTFhVjZVXzBUVlFuVmxVbi1RcDBEMTJKTFJ6T3hERVFnWEtqUHJfdXVwcFY?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Wed, 21 Jan 2026 12:54:07 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Kaduna state kidnap: Nigeria police confirm church abductions after earlier denial",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Y0pEYlpLN2lOTlRGTGhZRXdPZW52NHBhdzgzTUd6Qy03UVdwdVpvdkY1aXF4RkNicVl5ZEZYaFBlU0E2ZWFpaXNGWUhwMVpOR1FIdi1SZEFUZ9IBX0FVX3lxTE5TcTM5ekQyUHNwQnF4SEx1Mmhoa2lscDNpZlpoWjIwT0VTOGdJX1lneFNFLW1MTFA2ZjVhTEJWTWxqbnZ0X2VLZjZNb2VLaVBnRnJCM0gwcjljaTYtVkJV?oc=5",
+      "source": "BBC",
+      "pubDate": "Wed, 21 Jan 2026 11:53:29 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Heavy security at Awujale palace as Ogun halts selection process again",
@@ -43,24 +106,10 @@
       "category": "Traffic"
     },
     {
-      "title": "Ogun govt halts Awujale selection process over petitions, security reports",
-      "link": "https://www.vanguardngr.com/2026/01/ogun-govt-halts-awujale-selection-process-over-petitions-security-reports/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 21 Jan 2026 10:25:12 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Wale Tinubu: Over 50% Of Nigerian Vehicles Will Be Electric In 20 Years",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFMtZHZUcXI0WHZBN1ZIZmhEU0VRT0lYVXRNS24zT1AxeWVZUlFKMUE3bF9hMUlLY2RhZEdXaHFPMG9xUk1DQ3BHRGhUZ1VHVzJZcURzby0wazgydEduTDRuU3RpYmtCaGxqLUNHVFdMZmxIZjVUWG5NLTRBb2hNRnlodmZUdE1rUkVxa2RIQTVHUjFrNVE?oc=5",
       "source": "Arise News",
       "pubDate": "Wed, 21 Jan 2026 10:23:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunman, who killed Japan ex-PM Shinzo Abe, jailed for life",
-      "link": "https://www.vanguardngr.com/2026/01/gunman-who-killed-japan-ex-pm-shinzo-abe-jailed-for-life/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 21 Jan 2026 10:20:09 +0000",
       "category": "Security News"
     },
     {
@@ -99,13 +148,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria police deny reports of mass church abductions at weekend in north",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Y0pEYlpLN2lOTlRGTGhZRXdPZW52NHBhdzgzTUd6Qy03UVdwdVpvdkY1aXF4RkNicVl5ZEZYaFBlU0E2ZWFpaXNGWUhwMVpOR1FIdi1SZEFUZ9IBX0FVX3lxTE5TcTM5ekQyUHNwQnF4SEx1Mmhoa2lscDNpZlpoWjIwT0VTOGdJX1lneFNFLW1MTFA2ZjVhTEJWTWxqbnZ0X2VLZjZNb2VLaVBnRnJCM0gwcjljaTYtVkJV?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 21 Jan 2026 09:28:39 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "PeacePro Calls For Abolition Of Almajiri System, Cites Insecurity",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXdWZDFkdmZicFUwRHBDSF9wQU90TVUzYU13TVdWZTB5RlpvQnBmOTlyZXZDYzNCeV9mS2EwRGkzVG9MQzMwYjBVSmNPblRCY1NSWVd1ZE1lemJWQl92bzBVR3JoMk01TExORzVuWVRqNlF4b2dHZUlBQUtuQndfSjZDNnNtM28yZHJmMDZ0LWw3dw?oc=5",
       "source": "- TVC News",
@@ -120,11 +162,18 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "ADC opposes proposed release of 70 suspected bandits in Katsina",
-      "link": "https://www.vanguardngr.com/2026/01/adc-opposes-proposed-release-of-70-suspected-bandits-in-katsina/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 21 Jan 2026 07:56:51 +0000",
-      "category": "Banditry"
+      "title": "Wale Tinubu: 50% of Nigeria’s vehicles will be electric within 20 years",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTVOTVdjOVlKRUE5ZU82Y3gyOXliSV8zOFZFTWNwQlVWM2txMm5JbVNZVVYwcXV3bkZQbWgtTHRteGl4ZkctWUdzeFNlYldwVU9MOWxJWmdiQkpnYzN2akdUT0dxRFNHeTdZV2swd2kwaEpadlFBb1ZIcGxBV3lsWHFjV0ZGX0R3aHpVOWxPd3RkLXc3NjJSMg?oc=5",
+      "source": "TheCable",
+      "pubDate": "Wed, 21 Jan 2026 08:26:33 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "End Almajiri in five years or Nigeria faces deeper insecurity — PeacePro",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDBEMjM3QnF4OU9WSEdwWDJmNkMtOVQ2UkdMbFd5QW1EUnVpaGVTbFd4N1pSSDNuR3BoWFdmaGtLaHZueWpaTWZjaURkSmFJSGs4MU9yblUySnJmOHpWSTU3OFVIbklTTVFsa3EwZ3FEQ2hFc3VNVlYzLTA2bUVDV1NUMmVueE1tdk50bG9BNjhJVmg5WWY2V2dZUG0?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 21 Jan 2026 07:52:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Mass kidnapping at Kaduna churches adds to pressure on Nigeria – Reuters",
@@ -134,32 +183,18 @@
       "category": "Kidnapping"
     },
     {
-      "title": "FG, OPS on collision course over NSITF levy hike",
-      "link": "https://www.vanguardngr.com/2026/01/fg-ops-on-collision-course-over-nsitf-levy-hike/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 21 Jan 2026 07:19:13 +0000",
+      "title": "We’ve crippled oil thieves, boosted pipeline security in Niger Delta – JTF Commander",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzlGbmtUdUxORzZFUFBjcHByQ3VBcjhkcTRBZUV6MHBOLUhSYmI1YWF1SVVXNWJiaXplYzNlN3VUTzdpS1htY0c1VUVmSU85aTRSdlFvRGlYWl9FNVNNVVV2ZVdWdkFTN21WeTRvRy1JdnZMcG1HQ0ZocDdDQ2RvT3lCUC1UcFY1bnpUUlBxdEZPSFZXQnk1Y3ZRSnpLUGpMNFBEQXN4X2ViZE4xdnJF?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Wed, 21 Jan 2026 07:03:18 GMT",
       "category": "Security News"
     },
     {
-      "title": "End Almajiri in five years or Nigeria faces deeper insecurity — PeacePro",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDBEMjM3QnF4OU9WSEdwWDJmNkMtOVQ2UkdMbFd5QW1EUnVpaGVTbFd4N1pSSDNuR3BoWFdmaGtLaHZueWpaTWZjaURkSmFJSGs4MU9yblUySnJmOHpWSTU3OFVIbklTTVFsa3EwZ3FEQ2hFc3VNVlYzLTA2bUVDV1NUMmVueE1tdk50bG9BNjhJVmg5WWY2V2dZUG0?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 21 Jan 2026 06:57:55 GMT",
+      "title": "Hypertension: The Silent Killer Threatening Millions Of Nigerians",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDRKWHR5b25PYUlVd2otNnpObjM5RTJQYllSUXRPc0VVMk1zYmtBcWd3b3hMczJQbi1seWV3MlBIVWdMcWsxT0ZYRE5mVnVlQ2pqeUJZendCRkJ4ajQ5d1NPMEZGZVJRRzdadmo3YVdFZm9GQXdzYXIzT0U2OXVTcnBvU1YxMU5TbUlFUThraW4?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Wed, 21 Jan 2026 06:16:51 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Regulator Approves Satellite Broadband Licences For Amazon’s Project Kuiper",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZURiUVNnUUhmMnpjM2ZSZngyRmltSWl5WTFMY3hId3RITklfZkU1MXg0enVrcERFTjV3TDMwaklRSlVBcElBaFM2c25sY3lzXzlRbEIxWE9nVW5uSXdfaDdBQTZFYWlrbEh3VGRxMlhveE5hR05PVmJiUHZUZlpLdHZDVWprVFo0T05rNHozVFNvbGkwYTIzdDRUekRsd1JFbkVIUXR2ekNzcXJyaDEyV09QYng3d1BEbnMxTEpsQ3dfZGdNa3hZeWFUN1A?oc=5",
-      "source": "Broadcast Media Africa",
-      "pubDate": "Wed, 21 Jan 2026 06:10:27 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Is North-Central becoming Nigeria’s kidnapping capital?",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUNlTHpMWUMycUdoYXZzWDFDMlZ1REhRYndOZm5UdmNKd3ppYmFtTWhFNDRqMW1rOF9LYnRPUFJyZDZDa0ZRMWxudXI4Zjdhbk9pNEFLZEtZd2w4bmU1UGpPMzhKV0ZpRnZyMzRnb3l0N3ItR1BObThqcDl6N0ZqNnF3V3I5cDRzN2c?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Wed, 21 Jan 2026 05:50:00 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "Five soldiers and police officer killed in fresh ambush in north-west Nigeria",
@@ -197,13 +232,6 @@
       "category": "Security News"
     },
     {
-      "title": "In truth, the Nigeria Broadcasting Code needs more than a review",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjVhU0MzcXU3Mm5YblJWYXZTenNkQ3JBa2hlZTRmdjRjOWgwZF9XZlhZcTVfRXBXWHNzc2NtY0p2S1VTbmtEeDFYXzBHWGNRVnJoRVNGOHJPVGZoeWlkSUNVdUlTb25jczZLTWt5ZzB1RUVGdVV3RlE4Q2N6TXZlWlZwUmd3azRKbUcyc1Y2RFNTQQ?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 21 Jan 2026 04:40:00 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "NSCDC FCT Decorates 402 Officers, Pledges Stronger Security in Abuja",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnRGZ1hjeE1ndWhianowTTJUVFJ5SHVRU19pTUp5c3g4clVDeG1qa2lEZnItaWxiZ2E1TXNDQXFTZ0l4V051VlhGOU1hWmM3YkJVQ3V2NlJUeXAySnVvSU9PYzNUNWRuRjlXWG1SYWIyWTFMU0ZjMkJtbDF0UDQxSlIzdU1ncFZFeG9fMGNvcS12OGwyVUcxNnA3RGI2aVFVTm5TSXFLWWliWFk?oc=5",
       "source": "THISDAYLIVE",
@@ -225,32 +253,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria’s indigenous defence platform debuts at Doha expo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajMzejI3Sk5wOUI4cHVBUFlkMXRCandhUlc5ZzJxUTctaXREX0ZuUG95YUZDQXJDYUFYQm51aFVYM3BxdVA0WkJSa2l2ZlNvb3ZqTEo1TTcyck9LSVJzdWx6YVhmX0xncmNLQk5mbi1DOGNCX01PcFdYeE9OYlVLVHZCdV9heFp5VUNMdFVYRGzSAZYBQVVfeXFMT1ltWm9taGFDaFU1NjNUenlFTnVLVVl2eVVjX0dOdjhZRnZKaGRwWVA5d28wQ3dKRFNWbmticG12NnY5ZjZzTThVX1VacmFCdGpLajZpTExnUzdwWmtyMlpyZHZ5bkllZG5uZGJ2YnlCQUgxQTBGUTN6ZXp1My15Ym94X2ItcVJQOEZoOVJKRk91RC10VHRR?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Wed, 21 Jan 2026 04:01:50 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC arrests 112 suspects over vandalisation of critical infrastructure in FCT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2taQkZJZG4zRGx2X3NUS085U0NKaWVOQTNjNWwtX3RqMWJaSGhOQ0RWOWdsSUpZaHFPSENSaWtWZ0ZORFUzR09JX0FrY0o0VXNRNE1xeVVndG5CRm1NWU9LVjU5Q3piNy14cWNYQkFWRFozaUdabEVmcFNQUVRvRy1LU3V4SGhrai1jeXVOSTNJRGYzSWVFLW5uY3RoQjNuSEozNFZKQ001R01ycG9KUnE4RWdiODU2cG5F?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Wed, 21 Jan 2026 03:03:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "NIGERIA, OIL AND THE NIGER DELTA",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42LXJhMUZ3M2hBYi00Z1FiRGk4SHZRZlA3eF9jcDZMNjV6S1NwTnJqQWtadldPQ0lFZ1BoLU9BVm9PVkRSVUhud2NST1N3LTJtcEIxVUxuVEtfVWM3RUxrZEpyWFQ4bjljcDdmX3BaYzZjVW5pSE5keWZPUQ?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 21 Jan 2026 02:56:59 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Trump’s Christmas Strikes in Nigeria: A Turning Point for Security and Faith",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnN1cG9YNDNETmFIMS1hLUhFbVZWN3BtcjFuNlQ5bW9IT0k1Z0tHUkI2ZnljY0VLeENpMW9CM05hUnNHWWYwekFOaTllV2tVajJsVlVhT0NnbTI4aktMbVhLV2tDRTUzMEstV2MzR3Z1TDAyampnQUVuREYySDlSMTEta1d4cDlDR281eHVKMDBlRTlnZVpFX0wxMlluUG5NbGM1Nk9hZWw4a3pSdVhnblNkOUw?oc=5",
-      "source": "The Daily Signal",
-      "pubDate": "Tue, 20 Jan 2026 23:31:18 GMT",
-      "category": "Security News"
     },
     {
       "title": "NSCDC Abuja decorates 402 newly promoted officers with new ranks",
@@ -267,11 +274,25 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "Death of Chimamanda’s son exposes Nigeria’s chronic healthcare issues",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMERSYVI2Mnk0RUxPVFRCYzR1cG9QSkRSU29zQllkUlZSOU96OTREcnd5cm45ZC1MRmd6LTdINEVuaEh2bm1DU0xhaHlDRnFJa3BzTVRJS204cktMUk1kV09ZWGxleGNyU05qRW52NE1vbTZZdm1QQnNTOVkyWWdGd3BicXBnVTlmQVdONTZmQmdtTmF5TlhST2FGWFRZc2htMnNVd1pUSVV6UTQ?oc=5",
+      "source": "The Africa Report",
+      "pubDate": "Tue, 20 Jan 2026 14:32:35 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "NSCDC Arrests 112 Vandals In FCT, Pledges Enforcement In 2026",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjRUZ0RrTFFHbWF1LVUyR3VzMi1wQUpBVE1UdDl1WVFacEcxOF96b1pROUREbDA2NDRHUWt0MWl3ZGpRSFVjS1dvakZIbDBRM2tLOUNYdWRpeW1xRmRvaklVbzNPZ2FtblFlX0RXdUVFVzFLVUNXM09lWkNtSnhJTzlyQWdIVFp5SzI3S9IBkgFBVV95cUxPODE0RVo5bGhtYWxKV2NWR3JnVlFOQmswM2ZMdzBjd1V5MjFEWWp5Tjl2U0pVb3owYnA0Z2cyS1JIcDc3QS1zZXdMckhGNV96LVdvbHNqbHUwNXJvQzV5WXRSYkNxQWdSZ3NYcmMtLTNaZkp4cmdvYVdsdFI5VWp0SEJFTnZmekdIZFo3MHI0dTNkUQ?oc=5",
       "source": "The Whistler Newspaper",
       "pubDate": "Tue, 20 Jan 2026 14:05:32 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "COAS vows to ensure peace, security in Plateau",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUtROGpYZDdQWEJYbVh1TTRFSExJeGk5c3VrSmpHcDhWZVoyRTVSOUdWMll6NFZ1a1RJMmU1X0JtQlF6dERsUDZHZTRiMHhzVVJWWnB0dGNxWXZPNy1DU1pYQlo2Mk5wMFN2QUZqa3hCYjdDb3JxWk00ZjBISnVBS0lDRHQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 20 Jan 2026 13:02:37 GMT",
+      "category": "Security News"
     },
     {
       "title": "NSCDC decorates 402 newly promoted officers, prosecutes 50 illegal miners",
@@ -323,6 +344,13 @@
       "category": "Security News"
     },
     {
+      "title": "Worshippers Abducted from Two Churches in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0NTc0prR25jYlh1ZzkwVW1vTWJ5RERDTnBSWXBCamlpUmJGbW5tMDZYV09Kcng5TmlIc1BYTkk0V0s5c0J3WWJkX0xOX3RhVGszbkhzaFV4eVRpYUViUHEtQjJjQ01idTBJeHJ1a2FWQnozalBRTGtTRS0tYTM0RkVEbkprQzBWd0UxazR6STdRbVE?oc=5",
+      "source": "International Christian Concern",
+      "pubDate": "Tue, 20 Jan 2026 02:34:27 GMT",
+      "category": "Kidnapping"
+    },
+    {
       "title": "Defining Conflicts, Strategic Shifts, And Nigeria’s Security Crossroads In 2025",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRVMXhRZllqbDQxSF9CQWVkMjN2U2o0d242SmtpV2RZYy1GbEJuX3I4RGY2SnkxRUV4Q1VlR1U2LUVWaldPRFhOTTJoZGx4R1dmR1psM2NTR29QVDU2ZjZ0YjRiRnduZXF5cUU2WkNsNEExZ2l2ZlgxOUFSbGlDal80cmV4SFFDUWpSVWZueC1faGxrVktISDE2YlNKdXB1?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -335,34 +363,6 @@
       "source": "dw.com",
       "pubDate": "Tue, 20 Jan 2026 00:00:00 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Kano Murder: Swift police action shows Nigeria can defeat crime — Obi",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjQzamdFcUJUQ2VPM1pYMkUwYlZZd25CeUh2eWFNWWJVUncyaXZfemo4R0FoU2xyLTBuUFBqVjlzZTlBcEtFZmxjZ2pFZHN3cGRUTmRFWEo5VldOVmRfcWdlb3ljMWhEZWk4WkxROGR5Vno4bFh2cllIYWZ0T2xwaWRFN0dfbW01OXRZc09QRWx6V3RkbEhGcy1SU0JUSGZ5NkJlWU1n0gGrAUFVX3lxTE1QN0l3R2lheWl2eFBNVkhNOUZpUmNUZzg0WHNHOHRGQ3YtTEZvZzdmM2g3cjJ6WHJ3RHFhZUc2dm5Jc0V0WW0zLU1nRW5pVkZTMjlNLW1VdFpqNnhBWHpiTlFzbXp1RlFiVmswdExGUlRMUDZVaUtkRHQyS1pUOG9qWk5BVGFPRUpXbVpNOU1nQjl5U2NydHB1a25zeHpsaTR5YW5pTEFYc2VrQQ?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Mon, 19 Jan 2026 18:40:59 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Security Operatives Arrest NSCDC Personnel, 16 Others In Yobe Criminal Hideout",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmFrVmx1MEU2X1Y3X3EwVUdMdTZNOGpZUFZldWFDOVF1MEVJYW5QVXhCNEtrMlg1c0tsU2JKUFlwY2FGREtLU1E1YnpaUkFXRzQ5WVJ0UzJWVU5lcHRHVVdzenZpMnNGOEM3b195VC1SYkVQWjRlSF8yRG1pU0JPTmwyYm5LWjV3dnFKbEJLNjBxcDFCY3BwVTZzbVVJVGl0LW5ZN0d5bm1zOVdnbXZnSlFxbw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Mon, 19 Jan 2026 17:56:13 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Kogi Leads Nigeria’s Security Innovation – Army Chief",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkpkaVN3SDNKTjRJS0dwNVFnWVFGNHJvZHVORU0yc0NENXQ1MW95dXlkUHRTNXpfYjQzamFoamZrOWpteGwwUGdXUHItd0t2eHp3V1Q1Z2dRWGxkSDEyNGpSX0VCU1ZDbU1xVEVPMEEweWd1Z2FqNC1BQ2lsemZkVA?oc=5",
-      "source": "kogireports.com",
-      "pubDate": "Mon, 19 Jan 2026 17:56:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC officer among 17 arrested in Yobe criminal den bust",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2pSdENfbldPR2dyMXNjLUNHczJkclB3VXBSSm41bWRkekJrM2RDVW5tQ1NEZHpiMm80X0p5MUZ1V1EzNGdvcC02cGJSMnl1Qml6ZnczS1ZyTkJCclpjWU5FVzFsNV9zX2RlS3BicFh6YmMtbGFiTVl0cFRpamhVWGJwd2NhaHRBZDgxYzhxZE1sN1Vy?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Mon, 19 Jan 2026 16:24:54 GMT",
-      "category": "Law Enforcement"
     }
   ]
 }
