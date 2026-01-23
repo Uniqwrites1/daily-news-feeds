@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-01-23T09:11:06.620Z",
-  "generatedAt": "23/01/2026, 10:11:06",
-  "totalHeadlines": 149,
+  "timestamp": "2026-01-23T12:12:24.450Z",
+  "generatedAt": "23/01/2026, 13:12:24",
+  "totalHeadlines": 162,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 104,
-    "Military/Security Operations": 8,
-    "Law Enforcement": 11,
-    "Armed Conflict": 12,
-    "Insurgency": 4,
-    "Traffic": 4,
-    "Kidnapping": 5,
-    "Banditry": 1
+    "Security News": 115,
+    "Military/Security Operations": 10,
+    "Law Enforcement": 9,
+    "Armed Conflict": 10,
+    "Insurgency": 5,
+    "Traffic": 7,
+    "Banditry": 1,
+    "Kidnapping": 5
   },
   "headlines": [
+    {
+      "title": "Insecurity: NSCDC seeks TETFund’s support to secure Nigerian schools",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEZWOGhXTXcyQjlkaHp5bjNyRWo2Ymp2Z05oX2EyV3c5NmRjZnpEZ3Y3MmE4bFZiS3NwejhVR3JKNEM1VlkzWDI5Vmh2ZjlZdVVPVXZmUVZZUGRtMHZaRWNWZkZaRnl1d0JaaXREcXNuaFlpRFRxV1BXQW9VeUtZMzhpUVBxNzByMVk0SUE1MDZLNEhEcUhad3dTQ1ZuZFRY?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Fri, 23 Jan 2026 11:10:08 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, US strengthen security cooperation, pledge protection of religious freedom",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ29yY0JuZ2JxSmdzOWlzc2RxTjhhQVpNWkhmeTg5dHhFdEYxel9TQTlrYzJ2NmtSZ2l3WmZNMU8tVXFOTWViTFQ2MWl4MWZHcnFpQ0JCREVZS2c3djd3YXZMNVVfM3RSWnR1ekpIT09OZEJyMzJDQVFMSHo2bjA5SFc5MEFpTUhodG96bFhudjlBdmNkQjhpWGdZTFRpaFVyalRpOWRHTDFhSUhoZlV0eEdZQQ?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Fri, 23 Jan 2026 10:25:25 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "How ‘Christian genocide’ label distorts Nigeria’s conflict reality",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzMwYXZBQUNmRUJEMENySWZIQjA3a0xnZ3NCWTZLNGpNNm1LV0xXWDhGUjkycURVX2IxUzg5YzlrUlVnTFVHS1VIdDFxT1EwOC1GVTdSVG4wb0pBZ1B1M3QzSUFVN0dLelBReGRMTEgwS01WXzhLMXdkRk9GeDAxenVyQkNiVUdBUVJRanBtQm90Zw?oc=5",
+      "source": "TheCable",
+      "pubDate": "Fri, 23 Jan 2026 09:53:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Kajuru abductions: PFN demands immediate rescue of over 100 kidnapped worshippers",
+      "link": "https://www.vanguardngr.com/2026/01/kajuru-abductions-pfn-demands-immediate-rescue-of-over-100-kidnapped-worshippers/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 23 Jan 2026 09:50:33 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigeria Customs Backs Africa’s First Defence and Security Exhibition",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LcllNbTNrenk3LXBoUDlBSm1GUHdYY3dIZ2x2Tk0wUXRkTE9mTmdOdFl0bE9OZHgzUnZWSnU4TGhKVzlnRHBidHYwLUlZNi1FSXhMSEthU2dxX0tpSlVGM21ET0ROU1otOU0wN0FtNA?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Fri, 23 Jan 2026 09:23:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "TikTok establishes joint venture to end US ban threat",
+      "link": "https://www.vanguardngr.com/2026/01/tiktok-establishes-joint-venture-to-end-us-ban-threat/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 23 Jan 2026 09:17:48 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "One dies in multiple truck crash at Otedola Bridge",
+      "link": "https://www.vanguardngr.com/2026/01/one-dies-in-multiple-truck-crash-at-otedola-bridge/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 23 Jan 2026 09:12:36 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria, US launch new counter-terrorism group",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFhHY2FLY2FIbU5KNW5JNV9VNDNnYTI1VlFBVmJISUJwR2pYT0M4clJHbXhQaUxfMVh6bFhia3lORkhyVTNlejc0b2pyZmVVeGN5Yzhadl8tcW1TT1B4WVIwNmpfMldWaWMyYUxvdjh3dkY1QTE3WlBqanBaVWFzOWs5VFRfNzFqMWQ00gGTAUFVX3lxTFBHZGxsOG90ckJaekRlV3ozZUdDbnM2Tzc1ajdOS0hxc0F2TTNWMkdGREQxVGJxN2xCZzQyZTN3UjFWSFpUVVpPN2xxVGlqVWwwZ0hjRVJrVG1iRFg3SFp6ejcxaEhCVWEwTXRrLWF6UUJHS3JVdERMVkZpX3dIOExsdFFWZFFrU05lU25pd2x1TkNoQQ?oc=5",
+      "source": "P.M. News",
+      "pubDate": "Fri, 23 Jan 2026 09:11:15 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigerian Navy and NIMASA move to deepen cooperation on hydrography and maritime safety",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZElEUkM3V1JuQ3pjaGZjWXg4Ym82Z2lidUFoNzItV1BsNXJNa3Jxdks2Nk1iR21acG5zekFQZzlvOFExN0hvX1RNUXJKVHd6VFZSNUZaUjRzWTNHVFZCYVh2RmlybC1OUjVMZkVQTEdnNTNaakNnOHRlb3lieHJYdEEwNFREd29KcURQUTNuTGNYM2JITXdBeWlrcEdmSlpNWURxNl9lcG1sMXdySVczc0lfN3ZNVUNDVDd5bXI4RGZnRV8tMEhSZHdhdXNHTWVN?oc=5",
+      "source": "hydro-international.com",
+      "pubDate": "Fri, 23 Jan 2026 09:07:00 GMT",
+      "category": "Military/Security Operations"
+    },
     {
       "title": "Food Security: Shettima unveils Nigeria’s macro-strategy at Davos meeting",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXVXQVhPQ3VGNUl4bkN6Q01INkwtVjVuZmE1NUt6WE9zbGZGZFBkWU5YTU5WSHkzOHRtOWhveXZrc1VTY084b0pfNE1DWHhBSjk2NUFEN2RTSXBWVUFreXhVWVVzOUM4RU9xUVBpc2U4dTBBaWg4dXpsRmNsNXEtV1FlVmhQVlh3Q3ZBX21MYW5tUk1hYjVCdEZYYXNsNkNQRElxNWJMY2l2dThM?oc=5",
@@ -29,53 +92,11 @@
       "category": "Security News"
     },
     {
-      "title": "How ‘Christian genocide’ label distorts Nigeria’s conflict reality",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUi1YM1hNVWlSSGJpdER0eWxPOXI2WUpuNGVBTjlfNy1qOEJqLTRkR2NJSzMwcnQxaDVVWUMwOGQxRUpXTGtSU05uMUdISjNENkdBSjRIT1JwLUI4VVJyN1hEQU9ZQm1yTENfallHZlFTdmtWS0JzSFFkRDVfbWhLRDRraDF1M3BBUFdKWEFUQ2xVVl9CbFJPT1hoOHRtcmFpTWx5WmdqSjdpeHBZcEE?oc=5",
-      "source": "zagazola.org",
-      "pubDate": "Fri, 23 Jan 2026 08:21:16 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "HFM Facilitates Capacity-Building Training for Nigerian Police Investigators on Digital Trading and Scam Detection",
       "link": "https://www.vanguardngr.com/2026/01/hfm-facilitates-capacity-building-training-for-nigerian-police-investigators-on-digital-trading-and-scam-detection/",
       "source": "akintayo eribake",
       "pubDate": "Fri, 23 Jan 2026 07:57:24 +0000",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "NSCDC CG visits TETFund, seeks assistance over attacks on schools",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGk3anZlTUJLcXl3Q19lbHplM3RLbm9GMDBOaUVleGdPNTBxOVp3UGZUT0QwQlJZZnBjNFVTZExONV9VSXItOGVBd3Z4QUxIQ3phQmNaNGZ3eUZnMjM1eTJtYXYxWTdoakcwdTVkOWtOcUtfOU5leW1Bei02c19iUXhlTWhKM0NoNXJuaGE1UQ?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 23 Jan 2026 07:50:26 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Insecurity: Nigeria – U.S military partnership yielding operational fruits – NSA, Idris",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDEzb3JwUDN2bnZFNHQ0dXUtdW4tWGN4SG1Eb0JaUHJraW5TV2tsNE1OSm0wRXNyVmRoWWZod0R2M0hXSGdNV2tWeWJ4R2kxNFpBYkxvZkVCVHBLRHc5WHpqTzhBXzl6RUFuYlY5ek1EV2F0VjBpMVpEcjNzTmpwcU5ic0t3eTJjeDFrbTd5UkJGXy1EMnhSdFNYMzV0MGpwTjZZam13?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 23 Jan 2026 07:36:40 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigerian gov’t unveils new macro-strategy to tackle food insecurity",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEVCSjlYSVZDMEFia2Z0UC1nTm5KS3Bka085aUNJb3dDNWthWVRxd3JTX2FXTUNENmt5V0QxTDBIVDdSdWV4WFZoWXBDSk9oTjlVR2hNWTRZV1VWS2NKMHBZU2ZEWE5sekF6YXR3a0JvaHVLeEFOSjE2QWsyMC01eFdzcm1LbU5ZSDgtQUlhODBPMnhBWGtuNVEtWjNybFQzUGxYdE1GN3R0dTdMLVJfTWZsempOZXhLWFhDd3d2MFBVU3paMU1ma2lPU3g?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 23 Jan 2026 07:32:58 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Government pledges food security as UN says 35m Nigerians at hunger risk",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWtiUVZEc2JnWWhVd3lkYnUtQlBxTkV5V2JCSF9ya2NHcjduTHpxdm9Mc29FT05Dbk1MU2htREhLV1hqeHlfMGlhRVFZNWRjRmRmemFCcFM3R2NsZWZQMUxEZ2RsR19sZVJwTER0YW9JY0lTUnBiMTFqMHgtbVIwVXltQUNoYXJpRXhrT2FFUHJKWkFaWllyTXpsRDFVR3c?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 23 Jan 2026 07:31:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US Commits Military Hardware, Helicopters, Drones To Strengthen Nigeria’s Counter-Terror Efforts",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREladURTa2xxNXFtbVNzYmNwN01QVU9fdjREUGZ5YlFBcVVPYkkwRHlnWGd4Z2ZtcHlTcGo3NXk3dTF1N3R2ekR1aVFrQmFJNkhOREFVR0pLeWd0X3RjbGxoblNHaDFHTk5iNWVrOUlncUxjcElxNUlodHB3bGw0R0VvZFlxdUJTdzd2a1hxd1BrcElTelBwZmVUS25GUVVIT3AzMWdEOVlRSjkxUkdTMXExdXk1Zw?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 23 Jan 2026 07:29:13 GMT",
-      "category": "Security News"
     },
     {
       "title": "El-Rufai Condemns Arbitrary Arrests, Warns Nigeria’s Democracy At Risk",
@@ -90,20 +111,6 @@
       "source": "FRCN HQ",
       "pubDate": "Fri, 23 Jan 2026 07:19:29 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Thai Police arrest 11 Nigerians over alleged international romance scam",
-      "link": "https://www.vanguardngr.com/2026/01/thai-police-arrest-11-nigerians-over-alleged-international-romance-scam/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 23 Jan 2026 06:34:59 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria: Seven New ISPs Licensed To Boost Services Competition",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2FxVUR2Zzd2UXk1Ulp2RWgySk5qRTZJbjloZGtfVXhjaFU3N2tMRkxsMDFTRU41OGNyeHhWQndCUzM4MV9YYzgwZmJzd1lTNHpXaFZIS1RWWUYzSXE1cTY2cEpEeWk5YjY0SjdYOHFYLVVkcDA1WEw1UXY0LTljOF9hUkR3QTR3UVdfS2Q4VW9VcDgxQ0pDb2lqN0FPenV3bmtoZVg5SXRnRm5vWDNNLQ?oc=5",
-      "source": "Broadcast Media Africa",
-      "pubDate": "Fri, 23 Jan 2026 06:31:01 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Nigeria, US Deepen Security Ties to Address CPC Designation",
@@ -127,24 +134,17 @@
       "category": "Security News"
     },
     {
-      "title": "IBEDC’s outcry: Kwara NSCDC, police onslaught on vandals",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTdPMmFSa2d3M1o1YzFyOXkwSEpielR5WnQzWkhoU0Z4anczd2lQSEZtX0RjNzY5OTNXZ09pai1aVkIweS1QaDllSzU1d0xyVlZYNWEybDJRQkpvMFpsNmhpaE8xMmdpME1sbVJMQWlwNXpkT1d1cUR5c1pvMFo4Tg?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 23 Jan 2026 05:54:08 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "US-Nigeria Joint Working Group re-affirm commitment to strengthen counter-terrorism cooperation",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDJFMWxtOFdzbGFOdHJsdnl1TFRFbkg5cy03UkhuUTNKbFdPZjB5Nmk5ZFQ5ZVRYX0dhTlR1UlBTN0lwTFJlNFlaaDR3OEY3Q3hJb1kwY29uV1pQQmV6cGQ1aTlPNHBqamJINzRYcG1qRkpBcTJSaEhBSmotTktXMHpCOGJseG5veHZQVjhYWUFfZzhibHRXcVk1RGZsNU9ha0RhUHNpajdGa3pHWDlrVlV1eW00M0hG?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 23 Jan 2026 05:22:18 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Nigeria-U.S. security talks yielding results, says Fed Govt",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkFhbFV2dnUzbnhzWml2cjNXcWgyNDl5S29iN095WFY4Z3FCWjRod2htdVdZNFY4T0JpWXlmUDBlV1VIeDhUQ0ExWVZiNVNVbXNUNTBGRzFla2xVWndSOWtob2xBRFRnRVdoZ1lCVDJMdUFvOUI5Z3ZXTlJJaEpLUGtkaWszcnlpVV9zd3Y4cHlKZ9IBlwFBVV95cUxOamtCTTJOQTRiUWpwUmNzQ09CM1NVdG8yZHBDZkNrM1pPZ1RuaWhubWFzLXpFWC1rdE9jUzhyc3RBb1c2cnVhc3FxV2dfMlowNGFQcC1qbFpMeXh6SmdYTktIQVRkVGtyX2VtRTdFWXpzQl9iWHVPRWdDRTFBYkdZbUxCTHFRSm5rSEU4SU9USUdpNVZiZXFN?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Fri, 23 Jan 2026 04:52:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Drifting Unprepared Into Demographic Explosion — Gambari",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXY2aHZFT1E2VFJkM2ZHa3JKT3ZoTHR4aFUwNGRKVEFMajJlaEN1MjJXV29oV0FXUEdhRDJ4eDRJeEJSLVZYRXh5NWNRcy10N21FbGFsYjU3ZVg0WDZ3djRlR0x1XzVEbUxVVV9kNjlORGlPbWRyLVh4TGlNQS1WQ0ZYenNqTUllSzAxM2h1MA?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Fri, 23 Jan 2026 04:08:24 GMT",
       "category": "Security News"
     },
     {
@@ -155,13 +155,6 @@
       "category": "Security News"
     },
     {
-      "title": "Internal security: Withdraw military, reform police",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KcDVmTl9rYmdLWmhXTzJJeG9rdkNwby1OT0xVTGY3YUFQREo4N1JSdndfQ1JfWWNoV05KVEZ0ZEEyMkN2UmRvaDVwVHRCZW9TNjdWZkZzckFpM210dGQ2Wk96MWlHeWJFdi1DNnJiSnk3Tzc4SUV1TVVn?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Fri, 23 Jan 2026 00:31:44 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "NSCDC Nasarawa strengthens collaboration with INEC on electoral security",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjZndXZYSElEa09BNDRDdDgyN2MzeHNRb2RKaFBQSXVZSFlGNjZlNWhSNHZpSG9YS3MtTjZtRjlILVpyQ0hrODVtdlZyNnRJUXRwU3paZ2l3Si1WUXFtN3NPUjVjV1E4aE9RZ2lMc21tclZFNWNYUUtFajI3SklFZjE3RmUyY1liSGhHcTBKVi1KVlItTTBxV0NhclJleUdKZ2Y5T21yUFN2MHdNRkHSAbMBQVVfeXFMTXNmVTV4NlY1dmdnM1F5bnFkcGxIeHBwLWNyNU1ETGZEc2tCNUtYNE8zbTBDbWIydHcwbXd6dFFhbHNZd005VHV0c1pzNVZMS0pCZlBZd1NBcGxFRXE5c0ZVcGNMcGtDd3VydnNNVWVobnBVeHUyRlZZcklOeTRUbFl4WHVJTjVSWms5bDM4Z2MtQkxOVkNUcVltUExyYm1yZXJObm5iYzZjbFpwRVg5WnZOMWc?oc=5",
       "source": "Vanguard News",
@@ -169,11 +162,11 @@
       "category": "Security News"
     },
     {
-      "title": "Ogun Governor Lauds Nigerian Navy for Strengthening Border Security, Safeguarding Nigeria’s Territorial Integrity",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORS1HV2FFR1FwNWY2TFdNZUdGUFlKVWlwVF9XVTdWTVZPeXB2cHJGeUhuWVI4YzVKN0JPR3Ezb1oyVm0wWnJVMTQwNmpaWnl5N2dwTEZ2S0NfMUJVVTdoYWMwMXp4Mlh6MExnQV9rTUFqTEpEWFcxNi10RHJxeUxJa1dmc3FrZEZaYUNYQWFLODZtVGxVTFVVNk9RdlpSUXFGblFOaENmU3N1RWNHd0V5NzhFOXVuOUZHQ1l4ZlZHbVdNUnpZSG9ibTBGZ2d3NGZndVAzcHlGOXpJR09QVHFXd0pQSGhwdw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Fri, 23 Jan 2026 00:27:59 GMT",
-      "category": "Security News"
+      "title": "Kaduna kidnapping: woman escapes Nigeria church abduction",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDWDVGOGdQOWZCZmNDMk5lalE5OHY3TUUxMHhjcTVmWG1VY2I2RlpNOV9qeXIwZDZoeEMzLXJoQXZUM2stclBCMUlxZXdpY0JoeTd1RlJGR3NuQdIBX0FVX3lxTE5ZR0h0LThvbjBUYTd4eDhnYlEzTlRldmsxeGtBbUhqaVJlSk5mLTUzWHJxMW5iaGFOdlRPM2g3blFaRTBjMi1PajRUbkF4VTRCUEFuRFBBd1NmYm9kazlR?oc=5",
+      "source": "BBC",
+      "pubDate": "Fri, 23 Jan 2026 00:20:27 GMT",
+      "category": "Kidnapping"
     },
     {
       "title": "US demands Nigeria must ‘protect Christians’ at security talks",
@@ -190,11 +183,25 @@
       "category": "Kidnapping"
     },
     {
+      "title": "Troops repel terrorists attempting to cross into Nigeria from Cameroon",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkxOc0dMOW9oU1p1NF9rMjdtWktuNFA5Q09zR1BTeVV6QU0tckx3cExobmVMSzE5cG9seFNJaDZMbV9zdjB3Ti1GaWp2anE4NmNya0U5OHQ1WVhxN0k0NmlVUGt2QXpmSjRUUWFxZHliMVpZZ1I3emJWejJpYUtaYmU3c0Q2SEw4UGFwVlVOVlN1aThzRnpaaUtnQm9HcERsckNMZVB4S2VSQ29uSy16a1dEeFA5QQ?oc=5",
+      "source": "zagazola.org",
+      "pubDate": "Thu, 22 Jan 2026 18:51:08 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "U.S. urges Nigeria to strengthen protection of Christians amid terrorism",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamxVY0R4bGkxeC04SlY1VXdwd3dYN0xsTWFPWkZ3SDZSTFQxQUpSMkl0bkItTUt3UE12dk9PbFZjZHowWExDMTRkMjhOdFc5TXRaVHd4bi02bzhURmFEVU5vbHVGNGx1T3NWMWs0bEZ1M1Z1SW1va2J0WkoxNkdQcmdTdGVGQWIwVnZEc3dOcVpGSlJhTjFxVVU1Rlpocm50Yzk2NTQ5MjdjZ18y?oc=5",
       "source": "Businessday NG",
       "pubDate": "Thu, 22 Jan 2026 18:31:23 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Nigerian bandits who kidnapped 150 churchgoers demand motorbikes in return",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHkwMXgxYUswcDFpS2VGZWE5aW9qTFgxQ3dabWJoaW5wWkM5RTAxVUhIZXlrY0pQa2UwZzUteDYtU1hENzQ0cXc0QkdFVFV3M0dIUmVtb19FbTdZbTZWY09RWGhkdkJQazZNYVMtUmdzMDQwbzktWEY2ODR3MDJTYzVEQTZEcVdqYjFfaEVLUnBUTEhBVjRRTGtjZ1J0cW54OXNLNVdvbm9scTE3RWJn?oc=5",
+      "source": "Sky News",
+      "pubDate": "Thu, 22 Jan 2026 18:28:55 GMT",
+      "category": "Banditry"
     },
     {
       "title": "Nigeria strengthens security with early-warning systems, national database — Minister",
@@ -248,7 +255,7 @@
     {
       "title": "Ribadu lists gains of US – Nigeria security engagements",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkZjMGJMeDlhdlJNUmYwZ19hYlJPeUdFUG1pUEtKTVM3MkJSbmdWb2szWGU2RTBjOFZBTHlHRzlzV2JtaWlROGZEajRCLW9iaDdUOWt1NE91Qm5BMzBmZUV6T3VaQWVub1lUQjRjYzR2bUdGNC1qenRIQ2RwTUJwWjVac1ROSjdRRERKVVVvZGJKYm9YcGc?oc=5",
-      "source": "PM News Nigeria",
+      "source": "P.M. News",
       "pubDate": "Thu, 22 Jan 2026 16:41:15 GMT",
       "category": "Security News"
     },
@@ -281,13 +288,6 @@
       "category": "Security News"
     },
     {
-      "title": "NDDC Strengthens Collaboration with Niger Delta Security Agencies",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajF5RWkydFVhakh3Vk1KVGJ3ZFAtSDFwbVlCaUN6amNsY2xnSVlXbVdCSVlkamNxVUcxUXFYQ0tGUDBobU9Cb0oySHRRUzN6LTNmZ3VBbzFRM0kzWWZKU1dtUU5Xam84V3Bfcm5OdzNRb0NEb2phcVZzbjRuSFVaa0NXNVhUejl3WHBfVFJR?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Thu, 22 Jan 2026 16:03:54 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria, U.S. deepen security partnership, promote religious freedom",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm00MXJ0eGJyZVBVT1E3aEVEZjBFQTh6TVZvSnFkQXVZSTBQNVRnb294el92ZjJ3X1U2RmpiaTFCaVVOdEhheW1hRnBKbjQ0eTNjZ2pwdmVDVV9ISy1NUy1ZOFhwN05DcDlmc2xfWjVUVllBMUZqbFFyWE1vWTRVcWJ5akxINkgzZzR4UjN6TDRMTlRvRmlDVkd2aGVnREFPRzk1aUVTRVc?oc=5",
       "source": "The Guardian Nigeria News",
@@ -309,13 +309,6 @@
       "category": "Security News"
     },
     {
-      "title": "FG, US pledge stronger action on security, religious freedom",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHd6RExyM3pRUHRuY3F2Z0dBWDlRM2p5SDlzLU54bTZtMGprSHZxMDRpZF83bHhXcHlpMktHSVJaVWQ0TS1yNy04eGZMVVBtRS1lZlZ4NXR0RHotMVBuV0xuUlFYbGhzejR2OFlUY0R2QmxUSUExRDF1bTZGNHl6LVZrZ2dHZw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 22 Jan 2026 14:19:09 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria Adopts Broader Approach to Food Security- VP Shettima",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUZYYmd2TTBJUE13UkVnazNheWN6TGRYZlNaTW1oQlNuNUxzend5cXBiUTZWa1N0SFk4UXBSUmNDaVVFaUticVFFeGx1T0JDRUl3dHZCRVJqSmJ6THRBXy1rc1d2cTloQXVSYmVYYnUzXzNPbUt1OVd6X0xqTUVoRHUtUzIyT0k?oc=5",
       "source": "Voice of Nigeria",
@@ -327,6 +320,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzhmWDFBbkRacWdYc1NXSGExd1ZyUGJfRk1ya0VObEE5WnRHNVR0VzA0NFBOU2JYTVktMHpjVHlHcFZ6ZVRDWWhqMzl6eFdLX3MtTUJ3akFQcHlFRjIyVG45NEljaTl2emlGaE12cFg3c2gta2lNRG81QTJJU1hsMVVMeWNsTEhBb1pqVENR?oc=5",
       "source": "TVC News",
       "pubDate": "Thu, 22 Jan 2026 14:06:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s insecurity lasting too long — Olubadan",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVhac2d4aGZzaVBhR1BUbGhzekNUUTNSbkVPT19NcmlySWxOV1huVzZuWS16T19FbF9VT3JISnNUclZsU2tBbHVFS0ZSV3ZkT1RXaWI2RVlMN1kyNXBqQzRyclBoRHdTaGt0X2RnQVNfZHdyZHpYblFvNXlUd2stZzdfV2VRYTdWcDlkQTc5UTBpUG8tUjUwRElGTjRkYnowZkFHUQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Thu, 22 Jan 2026 14:05:59 GMT",
       "category": "Security News"
     },
     {
@@ -344,13 +344,6 @@
       "category": "Traffic"
     },
     {
-      "title": "Insecurity has reached its peak, Nigeria will not get worse — Bishop Adelakun",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0RkcEozT29DUkxBU0JKRFNMR1BFOUZkaGRWLW03MTdjR3o5WUs1c0tsbXVPWGJqM0xqeFo4RDlXMG1vaE8xbzZUYUU5bWhlb0lacDFMTEx2dXFzOEo5UjZZa1QteXRGblBncTBsX05TalEydmJyVENuM040LVBFNV9oQkIzUFBUVHZHNmJ5VDV2eTZYNjYzRTkwcXNKQkNXTWVHZkNTc1hmcW9ibU9RZmF6QUI?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 22 Jan 2026 12:58:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Shettima in Davos: Nigeria reframes food security as macro-stability strategy",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWDBieTFBcGVUdVNRbm5nS2FIa19aOHNzVUF4R00tbmtVOEswTWtZVlBEWHU2SDFIdUdFZ1JtV04tWUFXczBFbF80SjdVVS00Q2hRclR6Q2lzeFRiZ0ZaVXNmUjNSV2g0eFBEMkplRTE4bHN6OGQ0cWFUM0JxMFVoamp0QU51Sm5mZWtzTml0ekdoaUpjd0xudFdGcHBFbUZuR19sd3lfTWQxNEnSAbABQVVfeXFMTmduZ0Q0S0k3eWloUDdfWk5nMGY2Tl9oVnNnVWxxSnpYT2ZFcV9VS3lNd1Jod2V5SHc0eXpoa01HbF9DZ0JYODJDQnBNbVcwREJtb041RXV0UkhKbUJ5SG4zS1MwWjRwZDEyc0xLRlNzcnluVjZqWFJxVGNER1RpOHZ1c2VhdER0TF9rblh3bHhZNnpiYXdYTmFUYmdQNnFJNGNhOG1mTGJQQnhZZnNXX00?oc=5",
       "source": "The Nation Newspaper",
@@ -362,6 +355,13 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaExQZC1jNS1BeWR4TmlhZU1McVVKM21aR00tS0ZxeTQ4TlNXWVp1SjdCZTdmc21mT1ZiRVktc3cwTWk2ZHE4WUZyODZhYU9OSUdXSldvaDVyTGNhTnJLSUF2UzFvN0U1SG00YTluellsbk1VWVMxMnI2SDVDQThSV2ZvdHF0QkotOGZHeER5X0pQOEFuRVB1SA?oc=5",
       "source": "TVC News",
       "pubDate": "Thu, 22 Jan 2026 12:55:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US says Nigeria must ‘protect Christians’ at security talks",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGp3SzBoLXpoeEh1cHljamN0TE5SWDBBWGhiZzNOa2wwcUZma1ZrVXhhZ29TQ0U4LXNiSEoxbGR6VVY2dHN4YzVmOWhfY0tXZGpDdHJhZkJRQTgxN182a1UzYVQzdE1CTDRZdDhKZUltMmg0WVpWZ3VJb29YbGlmeVdZcjAyRXdnRHZkOUg2bW5SN0N3OVQ2UlhR0gGfAUFVX3lxTFByQ0d0SmM4UDJ0Si1JQ3Vza25VeEtyYTdwOTN0bkRJVllzUXdZbm5XRi1sdFRPS0hqX3ZBVVgxZS1wdEluUEdnUVFXMWdxdkpiSnNjUUdnTTFZZ2FvdjVid19JVUctSnZleUl4YXN6Yi1Ca2ZSamNaN2pJdWtVbzFWTHlBZENMU1Qzd0l3M3hLbFJQc01MdWZ5TmlFTXhVZw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Thu, 22 Jan 2026 12:53:22 GMT",
       "category": "Security News"
     }
   ]
