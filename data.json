@@ -1,24 +1,108 @@
 {
-  "timestamp": "2026-01-26T00:30:36.615Z",
-  "generatedAt": "26/01/2026, 01:30:36",
-  "totalHeadlines": 172,
+  "timestamp": "2026-01-26T03:41:48.720Z",
+  "generatedAt": "26/01/2026, 04:41:48",
+  "totalHeadlines": 170,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Kidnapping": 10,
-    "Security News": 117,
-    "Law Enforcement": 8,
+    "Kidnapping": 9,
+    "Security News": 112,
+    "Law Enforcement": 12,
+    "Banditry": 5,
     "Military/Security Operations": 12,
-    "Banditry": 7,
-    "Insurgency": 5,
-    "Armed Conflict": 9,
-    "Traffic": 4
+    "Insurgency": 6,
+    "Armed Conflict": 11,
+    "Traffic": 3
   },
   "headlines": [
     {
+      "title": "Police arrest 3 over mob killing of robbery suspect in Calabar",
+      "link": "https://www.vanguardngr.com/2026/01/police-arrest-3-over-mob-killing-of-robbery-suspect-in-calabar/",
+      "source": "Idowu Bankole",
+      "pubDate": "Mon, 26 Jan 2026 03:19:30 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Oyo Acid Attack: Husband, wife dead; children struggle for survival",
+      "link": "https://www.vanguardngr.com/2026/01/oyo-acid-attack-husband-wife-dead-children-struggle-for-survival/",
+      "source": "Idowu Bankole",
+      "pubDate": "Mon, 26 Jan 2026 03:18:20 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Military arrests 65-yr-old woman supplying drugs to Boko Haram",
+      "link": "https://www.vanguardngr.com/2026/01/military-arrests-65-yr-old-woman-supplying-drugs-to-boko-haram/",
+      "source": "Idowu Bankole",
+      "pubDate": "Mon, 26 Jan 2026 03:15:06 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Again, bandits abduct 6 Kajuru residents",
+      "link": "https://www.vanguardngr.com/2026/01/again-bandits-abduct-6-kajuru-residents/",
+      "source": "Idowu Bankole",
+      "pubDate": "Mon, 26 Jan 2026 03:11:31 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Police intercept truck load of 40 bags of explosives in Oyo",
+      "link": "https://www.vanguardngr.com/2026/01/police-intercept-truck-load-of-40-bags-of-explosives-in-oyo/",
+      "source": "Idowu Bankole",
+      "pubDate": "Mon, 26 Jan 2026 03:08:48 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Boiling Point: Can State Policing Halt Nigeria’s Security Challenges? Retired DIG, Ex-US Major Weigh In",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2h5TW95TGdBRC1CRmhQUnlRdGF0T1NZZjU2RGwyWnJqWENhZEVfLUpOMVdDWEtER2M0RkdZczhwZHlXMnZoVGs4YkVySXhKdkN0Y0x1dmJiR2N5RS1nUDh4c2pHcm9Ya0VucENTckRJY2hGTkwtamVrT01Cb1Fpd3ZDR2FZS21vX1VUQzdkR3NLZGE2emlGWG55TEZmZDV3RGtpMHAxUkk3cE42YmgwNmJzcjRNOTdHdmZFeUp2NXA?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 26 Jan 2026 03:07:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "SNG Lauds Inauguration of US–Nigeria Working Group on Security, Religious Freedom",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPamN6T3JER2NibnNBcVZ0OFc1ZEo1T1dpTlp6a0R4MzBkdjBnRUxxUE00YXhWbng4b3pDbjFZWnBDcG0xdjBGTzNuaXM1YXBSRnc0VkNVemRPSDB6b1NzRkYwNTQxSnltdlY1a1NBYVRadENSeTl0TDFuTnZtM2otckh3SkM5eDBjWWhTazl0dUFVYjk1ajZ2ak9EcW0teGRFcDgwTVdoZm9QVGk3dUNJU2ZPTnNzMmNYRmg5dA?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Mon, 26 Jan 2026 02:26:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "The Sustainable Food Security Trap",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44UG5rQnl5dHRCeDVpNzk3djY1SlJXVTBPLXlCUWs5QmFyRXcyZ0tjdFVRVGhub1RWb0hXRXJEWTRQV3BWZWFvVWNWX2kxWkcxUzZvVl9kd2pUZzRiVjV2M0NJcFN2TjlqMVE?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 26 Jan 2026 01:02:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Identifying The Real Conflict Entrepreneurs",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KYzJxV3BoZDdsZzY5Zk1FS2lQTEl2elp2QUFlUTdLV2lOTkFuYXBPTVZIQzhORk1iaENMU0g3eDBoV3p5VWVVVWtqcHBGeUVnTEFtUU9HcFRsektJNkM1UXNsSE9RR3RBS3dwRzVjb2x1OUhKZ3c?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 26 Jan 2026 01:01:51 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria’s security partnership with the U.S",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxVkhpdk9LUlU4UUtvWDZQLWlpaVU0VXlBS2E5dmlDOG05WVg5dm9JX29GTDY0WWhQRlpsY0tCcHZrM0ZhcVJrYjJtOGEtRVh3aThzVzBpQlEwcUtXQjlxYmotYTdocUpPWXMtLTNfMFJrSGYwNDAwdVNDTWQ5QdIBgwFBVV95cUxNUHprOXJWV1VaOW1PdFVJYlFIbTFGNVNqRWJGaGozbXJpUHpRVWVJSF9JWFF0TVctSi00N25mNzE5cU5mRTdzcjFGLW92QVhReTFPdXNGbjM4YUVPQ00tSDVvQXl3WTE1MDJFQmVEeXpuN1VvYS0xM1FMODN0OHNaSVRwbw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 26 Jan 2026 00:45:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Rural insecurity behind Nigeria’s food crisis",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1BQQVZHd0JpODJLTHRWNzM4ZnRfS2x0SXJnUmtTSG1xS0pKWGg5X3o2UUF1TGRodFNLenhBQk9wQ2hUYTNRUGlNdjFWbHBnbVMtaWtZcVFJaDJuS3BBcUJTd2ZkRU1PdjVhMEd1LVU2WHFlN1dUTGNReVFPdndxTtIBhgFBVV95cUxNTFpMZ0ktODZ2WENsTGlRZ2pnYjZ4MkdXR2ZXLW1kM05nWk9FWWlkZXNWaXpOaWNNaFJPajhtM1JDY1hvVmRENW9GN1B4a2tVckR6QjdKYzU5Vmh2Q3JLSDlKNUYySVVneVNCVFhOazdNUlhtb3BFMS15ZllFd055YjdZaWJzUQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 26 Jan 2026 00:15:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Lekki property dispute: Parties yet to respond to police invitation",
+      "link": "https://www.vanguardngr.com/2026/01/lekki-property-dispute-parties-yet-to-respond-to-police-invitation/",
+      "source": "Idowu Bankole",
+      "pubDate": "Sun, 25 Jan 2026 23:20:00 +0000",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Weak borders fueling Nigeria’s insecurity, says ex-CDS",
-      "link": "https://www.vanguardngr.com/2026/01/weak-borders-fueling-nigerias-insecurity-says-ex-cds/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 25 Jan 2026 23:12:00 +0000",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlAxdVJLMWUzZEI4WUxkaWo2NVhyQnl6anE2MFQ4UGJRN3NtRjRaTXhTQ2owc2JvRWhCUlB3ci1ubmZHOTVlX2o3S0g3aXFYMjRSb1Mwc3lGckVkZndfUUlrU2lCVXhRN1R1TVQwcDh4ZlMxcmdIYzJtT3RDUmFSYkVVbzhoZW1DWTl1UktManhTRFXSAZgBQVVfeXFMTlgzYjFLbzJoOVBRVklBdVlpaUYyTzB1WllYWWZMTG5KRldDd2F1LWR1UEJlbHZ6U3lWVkpoU1UwaERnNklxVGQ0SWgwdTNUd1lrSWZ5RElmQUtMb1VMV19Vclg1azVYZHFpNUpSWV8xeC1HRXdvVU53WFBsMDZOT3Y3XzE4RXhyQlpyOWk2VzRwYmgxUC05dlo?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sun, 25 Jan 2026 23:13:40 GMT",
       "category": "Security News"
     },
     {
@@ -36,39 +120,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Deputy Senate President tells troops to flush out bandits terrorizing Kano communities",
-      "link": "https://www.vanguardngr.com/2026/01/deputy-senate-president-tells-troops-to-flush-out-bandits-terrorizing-kano-communities/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 25 Jan 2026 22:06:49 +0000",
-      "category": "Banditry"
-    },
-    {
-      "title": "Minneapolis killing ‘wake-up call’ that US values ‘under assault’ – Obama",
-      "link": "https://www.vanguardngr.com/2026/01/minneapolis-killing-wake-up-call-that-us-values-under-assault-obama/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Sun, 25 Jan 2026 22:05:43 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigerian Military Credits Defence Chief for Recent Successful Operations",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFNBeml6VkZVNHRHYkp5TDA0VjIyUldoRi1VRVpoZWJsTU1DUjRnTzhvZWZQOUpwcTRESngwZWhuWFV1bl96X3dmMGhPbXBubWhZWDZVY0Q1WmIwa1RDZXdvcVhVTHppTGE5bWFwOFRERDh6cU5TWXdLTTZhRl83NWZ3ZTJaWS0xVWhFeGstbERBMFd0Z0lv?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Sun, 25 Jan 2026 21:55:08 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Man arrested for defrauding 170 job seekers of ₦1.5m in Kebbi",
-      "link": "https://www.vanguardngr.com/2026/01/man-arrested-for-defrauding-170-job-seekers-of-%e2%82%a61-5m-in-kebbi/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Sun, 25 Jan 2026 21:18:13 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Minister warns contractors against delaying Sokoto-Zaria road project",
-      "link": "https://www.vanguardngr.com/2026/01/minister-warns-contractors-against-delaying-sokoto-zaria-road-project/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 25 Jan 2026 20:34:39 +0000",
-      "category": "Traffic"
     },
     {
       "title": "TRAVELOGUE: Following Nigerian Military to Benue’s Ghost Villages",
@@ -89,13 +145,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVhS3hzcjhycmRpVS1BRHVUSWxYRUg1b3d2dTNzSkJidmxzUHZ3RXlfTVhBY0VvV3RuTEVXMldBMFYyN3k5VEwxQUdpVU5EZEFFSXNyeFlfVEExMFhTc0k5LXJ1dzFtTWdMT0xsQW04dFcwTExFZjBSZWo5Q1lwR0lWTTdXS1NRLW96MVF0WlpWXzZ3TkJndlVGUUc2X0pHOUxkMkNmQdIBrwFBVV95cUxNNlk3ZDZSQXNQazFHLXN1SjlMVkVocGdKbTRQc0Nsdi0yMFJGLWctRVl4MzFNZmtvSy1OLVY2alFCcnMwcWxHcHUtYzZQd1RmajhRUHNsTlNvdnpvaUhkRFVQNkZLak9wQ3I3cHd5bXJxZGhtZlhDSk9RNURZZkFnV3I4WUxPeDg1Um05XzRsS0dCTkFabFhmdHhvXzVjMlhJNklvdmFoT3RZUWZ2Mmdr?oc=5",
       "source": "P.M. News",
       "pubDate": "Sun, 25 Jan 2026 17:52:46 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US, Nigeria hold security talks after Trump CPC designation",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Nd1doX1ZDTUVXTFRlcllwb1ozM2ZwMXZ0U3VrSG4xeV93ellReEVTN09WREo3V2JrVkUwZ3g3UDlsUl9iNU5jQXJHWWh0TWhXZzJPWEtB?oc=5",
-      "source": "Fox News",
-      "pubDate": "Sun, 25 Jan 2026 17:07:55 GMT",
       "category": "Security News"
     },
     {
@@ -141,25 +190,11 @@
       "category": "Kidnapping"
     },
     {
-      "title": "State police necessary for Nigeria’s multifaceted society: South-West Stakeholders",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2p5dU12SnFMSHlmeDZPeDhhSHh0N3FSR01jT3gzS1YwbTdJT0xHUmpXc2lndG12dUt5UUZFXy1FRFdwemRITzBIb2RQS3FMZ01DdHlfbzNGZkwyYk5QY0F5TF9KWTlvUHRNOGR2c0E2d1JjclRiTkZjLUoxeHFLci1iXzBJSWRoaTZJUHFzM3BuME1NMjZKWnZCZXlIckpVTWZWb1JhQQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sun, 25 Jan 2026 14:26:19 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigerian Army Foils Bandits Attack In Kaduna",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ob0pzb256aUg3amVyZ0Vnbkh0SDUtM3pnZ0UwVWZEc3N3OWxUYmdIR041STBIbWdPV3BEYXhNTzZRUUNLQW5qd0w3SWxuWDNrSGFwNFJrX2dpbXBlLTQ4eVRqS2tsejI0ZU5IT2JnN3I0dw?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Sun, 25 Jan 2026 14:10:39 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "Kajuru Kidnapping: Ex-Presidential Candidate Hashim Accuses Nigerian Govt Of Complicity In Abductions, Cover-Ups",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW9HT2lQNVVrd3pyYTUzUWY2RHJlTGs1VWpNcG1QMEh2VTRwV29GRy14WjBFSjVmblkwOTNYTzlIMVM0MVlUbU5VelVuRWJDbDRJWWdTVW9kS1ZCdkNkeWVSRW8wd1Vkb3gwbUR6aF9NVm9tQncwM3lEQ0UtTEV2OVFoaklBNnZpUWNBRUhCbUlwRmtxZUpDWVdUbE9RdDJtdXg0TW1nc3NUdlhnVVBQV3R4YkZieWFkQ2h0SlVkdw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Sun, 25 Jan 2026 12:32:28 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "NRC restates commitment to ensuring safety of rail operations",
@@ -204,13 +239,6 @@
       "category": "Security News"
     },
     {
-      "title": "Exposing the rural insecurity behind Nigeria’s food crisis",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRE1LUmxFMDZmRUZwQ0MyWGFEU0x3MGtGZUJMcWt1QmVwRVYxMXpnd1dMcWNMV3JVRmtJeHJfVGlOVnlzMkVHS2FlUDFGTl9ST2laRXNsX2g3eC1OSS04NFBpSDRkcEF4dldQVzlxdUNEeG15cUp6WU55NUhRb1hObF9wdUFNTEs2c1E?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sun, 25 Jan 2026 09:00:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Northern CAN Chairman Warns Nigeria Not To Celebrate Security Gains Amid Continued Kidnappings",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmM2N2hYQkhHUEZFRDNSSzV4RFVSYWZIWElFUk5zLUpmTTNseXQ0RWk5QU9UZi1iTEVxUDR6RG9oREpIMTVMS2ZiUG4wQTZITEpzWWhkNFdxSXVZX1ZrQ2haWGhHLTFfM0dvSERkcFdtU0FSNEpidy1memlSUDFHSC12WnNQYkM0VGFyZnFycEhTUWszaFRyVVhaazY3dHo3WW1meGUtaW5hU1E4clVVY0M5eHVlZDg?oc=5",
       "source": "Arise News",
@@ -230,13 +258,6 @@
       "source": "thesouthernexaminer.com",
       "pubDate": "Sun, 25 Jan 2026 03:26:31 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Ruthless Bandits: How Nigeria ignores early warning signs, pays dearly",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGJKXzZnenpURmV5VUE2aE9sM0c2Rm9GWnlVQjlleHJYUmVSSmt4dTVxMkoyanBPZHBKbjV3ZE5XTDctMVdxVm1JWHhYYS1TNDR4cTFZWEltU1dnMkN3OTctaXBvSnhOYlh2d1pZcnYwQXlEZGMwZnZIdUNvQ0t5NHAxU1h6eDhSVWx5b0FHZDI5a1kzRFJrSW5sTENHdTBjQjV1WmxiOWLSAa4BQVVfeXFMTWIyX3FiNGhOWm11dTFFR2lUbmNfZU1QS0xFX2E3TGMyNDRJOW1Qb0VUM0NEVU5sY2JxSUl6V1JKSnZCUGFwcVZHZDMwckZ0ajVDZkpNZWVFYThfVk1EN0RBOHIyWDhzMk9KMGtNTm04TXpDTFduTldJSGtCVlN6aU1CS0JxbjlvRDluVXNsWHU1THNadUxXcm5tSXU1Nk1LRGdmaXUydlQ2YTlxUWxR?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sun, 25 Jan 2026 02:33:37 GMT",
-      "category": "Banditry"
     },
     {
       "title": "US Congressman Commends Nigeria-US Security Cooperation",
@@ -295,24 +316,10 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, Austria strengthen strategic partnership on trade, security – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQak1ZbWJTMV9fVG9qV3JjMUk3ZVFTRlNiTFhtb0w0UUpNV1V6YXpkSUtFUGNlVjJiU0NISFVaby1WeUN3dk9ZZ1RSM2lvQkh5OGNWaWx5VzlqczF6QmVVcFhlb044MWJyeTFpWjlWQXhaSlRNTUZDZkJPYmZNNUhhME5ya1hyeko4RFZLekdiTUVlSzFaNjZqSVUxckNLcW83QTdST196UEozWk0?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Sat, 24 Jan 2026 11:22:45 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Ambassador-designate Present As US-Nigeria Working Group Holds Strategic Security Session In Abuja",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHVvRmcwc0h0NDE1bUt4ZHRDdnozbS1WY3lvemkzMkRseFVwMXF6R1FuUTZseHFVdEZPY29aWDdLeDF4bm5xbXhKLWNHeVlvOVVzMElYVUpWdlVUUThlTEphRGlubXY5QWxtNjd5alhraG8yUUMxU1dZMjlTTHpWU1ExSHpkUlZGMVRBcFFZanpadEdTTnNWd0gyS0FSUDBvT0dzWmNiUmNzTnVfeUtXc3dMelNsRUl0TzVwd2pR?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Sat, 24 Jan 2026 10:29:36 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "After FIJ’s Story, Immigration Officers Return N200,000 Extorted From Mali-Bound Nigerian",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmM1b1dmTlpsT2hIdXE1VzRsU2oxNVlqWmdWUmUyalhpWHpITG80SXl1MGVrTWl5c0NwdnF5LTdlQk8xZVExREtiZndDZDhtdVY0c0RDSVByM1FXUURZNTRNSTFiMnhZSmUwTU1DS01BVWNLamUxbk1vOUE4S3d1NmlUWWtxTGFNX25jM1E3dUZBTG8tSWEtOGVYcjVpczhxRnVSRExBT3ExWmh1cDcw?oc=5",
-      "source": "FIJ NG",
-      "pubDate": "Sat, 24 Jan 2026 09:55:21 GMT",
       "category": "Security News"
     },
     {
@@ -344,24 +351,17 @@
       "category": "Security News"
     },
     {
+      "title": "Northern Nigeria crisis deepens after US strike with 183 dead and 366 kidnapped since Christmas",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObFVaY29SdWVvU2M4RGYyVmV0Mi1VekdmUUlxMGxpN0IySE1NVWZsbWRYUjhQUVlWWjZkcnRsd2FrNklyQjduUnB0X1hFSk1oUUJZNzdRMno2RUNYZXR0eWdXY2JJV1QtUWVfNDB3eFR0UDU4anM3OU1xblJKcTJOVVp0MDNIZlhKRkM4QVdLX2ZidUtrNTF6aUZ2MHQwVEZpaXViSXY4blk4dGNtYS10Wkk1Umx0RWFGdlhZOUh6R2dXZmpDNHVWSEtTN2U?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Sat, 24 Jan 2026 07:07:30 GMT",
+      "category": "Kidnapping"
+    },
+    {
       "title": "Nigeria’s security challenges not insurmountable — Olubadan",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQalV2cS13TU5HNEw4b3FxajcwaGZTN2djTkp6emRyRWljT2xQclhmX3Z0VnBma3RETGdQVFpSLVl1UHo2Y0pwWmt3aEQ4WlZab3o4aXlRUVltUE43dEZGeGpoYzE4RXdtSXpRWWFEMDNIaHRvWFZfWDZ1OTExUEU4OHdPZnU4OTZlX1JRbDZB0gGTAUFVX3lxTE93SDNUQTl0V1VONlNxbUhjOEtsZC0zYkdkMm5rbkVXZkJTamNmcTlkWTVFMW5rbVQtQVZfZmhFUU5GUTdXSUUzUERjVzd0VGxZMUxaLURQREduUlExYnlzbWhXZERXU3IyRnpvbjBEYnBBcWFDSUNzdTdscWM4eXRTYVdXQmZBVmhJcmsyRXN6b19Gaw?oc=5",
       "source": "Tribune Online",
       "pubDate": "Sat, 24 Jan 2026 06:38:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US, Nigeria Launch Joint Working Group On Religious Freedom, Security",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGdFNUFqMjhtYUZRX2QyRlBENjFZd2RNRk5iSnJDR1oyZG01RE9tcG1VcU5yRXdQUWxpMWFfc2JFVVNmSk5FWktsRFAybkFpN19MQ21PMlRoeGtpSWUwZEdwMTRrdkIwQWhCOW1BOWI3d3lZV1M3ZGEybDA2c0hZcjhmTl9CUG5adkdRektnTlhQbURhNlE?oc=5",
-      "source": "- TVC News",
-      "pubDate": "Sat, 24 Jan 2026 06:14:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FMAFS, IITA sign MoU to strengthen soil health, food security in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWFKbDcxa2JfRzZBakw4dGFYQmRBVC1YS01qRFBjN2ZSOFBWTjhaTkQyYkw0UnZtaHJvVEpNcDFOZmtsVHhUSXhVNEdGOE81Ui1SNTlKOGpENWhjc3JhdGVWajU4MHc3eFh6S3JkdXBGUUZiNEJveEdwNnNOQzM0TmJ0Vmw5OVgxZHRHTVhvcXh6dEdkeW5WRUZ5cnNQcU9UdDlKc0Q3VlVOdE9NbXFBcXVpTl9DeEVTRmNv?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 24 Jan 2026 03:44:00 GMT",
       "category": "Security News"
     }
   ]
