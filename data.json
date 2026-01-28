@@ -1,19 +1,103 @@
 {
-  "timestamp": "2026-01-27T21:06:00.574Z",
-  "generatedAt": "27/01/2026, 22:06:00",
-  "totalHeadlines": 178,
+  "timestamp": "2026-01-28T00:28:35.475Z",
+  "generatedAt": "28/01/2026, 01:28:35",
+  "totalHeadlines": 174,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 121,
-    "Insurgency": 9,
-    "Military/Security Operations": 10,
-    "Armed Conflict": 12,
-    "Traffic": 5,
-    "Law Enforcement": 5,
-    "Kidnapping": 12,
-    "Banditry": 4
+    "Security News": 116,
+    "Insurgency": 10,
+    "Military/Security Operations": 11,
+    "Traffic": 4,
+    "Law Enforcement": 6,
+    "Armed Conflict": 14,
+    "Kidnapping": 11,
+    "Banditry": 2
   },
   "headlines": [
+    {
+      "title": "FG, Northern leaders, lawyers differ on amnesty for terrorists",
+      "link": "https://www.vanguardngr.com/2026/01/fg-northern-leaders-lawyers-differ-on-amnesty-for-terrorists/",
+      "source": "Idowu Bankole",
+      "pubDate": "Tue, 27 Jan 2026 23:45:07 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "US Senate summons immigration chiefs after Minnesota shootings",
+      "link": "https://www.vanguardngr.com/2026/01/us-senate-summons-immigration-chiefs-after-minnesota-shootings/",
+      "source": "Oboh",
+      "pubDate": "Tue, 27 Jan 2026 22:53:54 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Türkiye, Nigeria Sign Deal For Cooperation In Media, Communication",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmN3eE9HcUFsUkNidzRoZXlaUzBWaXNYTWMxNWxHSk9vaHBtYTlWVkhRTmFhSXNlVm82Y3VmY1NNQzNIZ3BJWjc1M3JiX1hqUmtmOEN6Z1V6ZzlORkMwUFBDVGtheW9Cbmc0M1V4bl92aHhETVhQeURnclk5cE1DR0ZFa2l5WV9UMllHUEhLcUdrZ0xEVnl1RkRqbw?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Tue, 27 Jan 2026 22:10:54 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Igbo Marginalisation Threatens Nigeria’s Unity, Says Investment Banker, Nnaemeka Obiaraeri",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQlpsMDAyc0VMLThkZi1LcVVBY3c2QWY1UGxUN3gwNDRJYVU5dlREd0VUMXVzUW9UZ1UzbVgtMnFvaHFRX3NoNFVfRzV1djB4c2ctaWlvbzY3anRWUTUybEw2bzBLZ0huQVQ0S0VlOHJFdHlubk45SzN2bnBuZFNEQlRuTDdST3ctZlBhOHV0dGRXbklBYzF0YXdkak5nRVVoYVFJZmxwd1AtMWRkdEV3dmhEMlhWcjd0TDFHMzBhMFR4WHli?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 27 Jan 2026 22:08:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG to begin reconstruction of Akwanga-Jos road soon – Shettima",
+      "link": "https://www.vanguardngr.com/2026/01/fg-to-begin-reconstruction-of-akwanga-jos-road-soon-shettima/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 27 Jan 2026 22:02:14 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Türkiye Stands With Nigeria In Fight Against Terrorism — Erdogan",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnoxVTZXbjRjRXJvcVNpS3E3UWlDS2hqV2VuLTRQZGo1WlhLNEp4VFY4V2lYQ3Z5a3dPNTFfTDRsZnhncnBtMDVZRUEtYkFqQ3g1TXFva2llM2J5LVo4VzAwaERvYTlkblFUYXUwUWNnOEJlSUd0ZW9McGJfVXpEZG45cDRFUlp4aUp1elVwQXp2RVBNanFKMUFxdlh0UQ?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Tue, 27 Jan 2026 21:55:03 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Police nab traffic offenders on Lagos-Calabar coastal highway",
+      "link": "https://www.vanguardngr.com/2026/01/police-nab-traffic-offenders-on-lagos-calabar-coastal-highway/",
+      "source": "Oboh",
+      "pubDate": "Tue, 27 Jan 2026 21:51:57 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Turkey Stands By Nigeria In Terrorism Fight, Says President Erdogan",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUpNQ0thWlhOLV94eFp4SG9oTzF2MWpTU09VM01RVWM5WVliZllLdHNhS3NpUHJ4TjlRT05lZzZfYWoyNk96SjNxNUQ1b2ZlS1Joak9UOTFNYVA4YUo1U0wyZGJsdElKQUhZa2YtWlA1RGdBdWI1WWtuN2VUZ1I5akdvNndGR05uc0dYZWIxa01zX3otYnVwS1BIM3BvMXNuZ1BWV002NXHSAbwCQVVfeXFMTXEzNmhDWnpWOHRxZ3hEMER6b2lSTDBrR00xVkVyRHNiNHhMcndsM0pyVlZqMjgybzlNUGwtRHBoQUJkMnVOeVpTc0ducHYtdzU5N0RGMEpwS1ZyUFpCa25iY3RLUUdSU19jWHJlUUpnbjRTcVdlcU1XY0FhZm5hZ3NnM1hqajlDXzFLTFFOVUg2VVJ2Y0lyUENZY1gtRU1NTHZsejJuNFVYYk9RMTd1LWFFVi1zYjVSUm5hX25NV0dPMkl3VHRkRTJucUhTTF9kX2RlSk5pOWk5Y3RCeGoyTjlmd0RXMTgySEVlQnZHS2NRUkIzcEFKanRiTDRfakVVNG8wVEpRTXhBNjBaTHAzZjJPZlRZT3FpNVViTzJzeWotNVZtM2Jrd2drSF9Ua1JyR1V2ZVdYMUJvT3dWZA?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Tue, 27 Jan 2026 21:48:58 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigerian Military Affirms Coup Plot 4 Months After Initial Denial",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmhrN0NsRzVFbGhRcnp3Zk8wSkU0UVkyN1dEZ2s4X2ZVYVBXQTBBWVRqd2pSSk44bjN2RmdyOTZaRVhVYVAtOXVEY19EQTRCQjk5N2pYN0RVd3dweGg0Vkt1cllJR2dYMmZ0cXVUME10Nms2cW5lbUxYNndpZWNMbk9EcVVqZXVESzdlN1htZllBWFI1d1VfYmEzc05zQUV5?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Tue, 27 Jan 2026 21:27:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Otti launches maiden South-East shooting competition in Abia",
+      "link": "https://www.vanguardngr.com/2026/01/otti-launches-maiden-south-east-shooting-competition-in-abia/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 27 Jan 2026 21:21:15 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Recurrent grid collapses threaten manufacturing, MSMEs – LCCI",
+      "link": "https://www.vanguardngr.com/2026/01/recurrent-grid-collapses-threaten-manufacturing-msmes-lcci-2/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 27 Jan 2026 21:12:22 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Türkiye target $5bn trade volume, sign agreements on defence, others",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXBtanp4dXc0amlVczBzblF0TXJCYkwwekN0c0R4UUVQcTVCTDVUT2ZGTUUwSjU4eGNUOURGNTRyMTA2MWRMN0l3ajFVLVB5T24wblNQczhHNTRvREF5cndjVlJ5THJxQnVybkotSWVUb05SQXQ5b2J3RGdUYlJpOVFQUm5uR0swUWtkTFkzQzVWR29SckdFM1NR?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Tue, 27 Jan 2026 21:11:00 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Nigerian Army Rescues Kidnapped Victims",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xU3pRUUNGZnFpeU94ODhmdTIxMk90TWhNcUZuYjNJMXVEcHlMNnhJck1pSWlVRjRIX04xSkprVTRJYUhWUlMySlFPNDhOWGlqVFRiZHZ0QzFzWDdMT2hMMGR5MVlYV1hZeDJV?oc=5",
@@ -29,27 +113,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Troops neutralise two bandits in Benue ambush, recover AK47",
-      "link": "https://www.vanguardngr.com/2026/01/troops-neutralise-two-bandits-in-benue-ambush-recover-ak47/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 27 Jan 2026 19:42:55 +0000",
-      "category": "Banditry"
-    },
-    {
-      "title": "Three to die by hanging for conspiracy, armed robbery in Ekiti",
-      "link": "https://www.vanguardngr.com/2026/01/three-to-die-by-hanging-for-conspiracy-armed-robbery-in-ekiti/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 27 Jan 2026 19:35:41 +0000",
-      "category": "Banditry"
-    },
-    {
-      "title": "Recurrent grid collapses threaten manufacturing, MSMEs – LCCI",
-      "link": "https://www.vanguardngr.com/2026/01/recurrent-grid-collapses-threaten-manufacturing-msmes-lcci/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 27 Jan 2026 18:58:13 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "US intensifies strikes in Somalia after Nigeria bombardment",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2M3WGFXZUtCSGdqTmFTRkNSTVZPeTctbW9DX2F2cGFObFRjd3g0Um9MSEI0Wld3X0NXcmFScmpCUlRIV1dpSGJpUlVZcDdPLU0xZ0IyZUkxVndZeVRqamtxZFlyTHhEVjgweERCVTFuUjJVYU5BQktEdnFYRE1uSTZqWG16aTQ?oc=5",
       "source": "Punch Newspapers",
@@ -57,32 +120,11 @@
       "category": "Security News"
     },
     {
-      "title": "Oborevwori charges police to go tough on criminals, firearm bearers",
-      "link": "https://www.vanguardngr.com/2026/01/oborevwori-charges-police-to-go-tough-on-criminals-firearm-bearers/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 27 Jan 2026 18:34:32 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Experts warn against police deployment to political elites, private persons",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjhaZUtQY2Z4ZFBxMkxWOFkybDJLcnhETHNGOXVxT3B3eVdPX0pyaGpnQ2x2b0I4Sk5Mb1ZBRkhqZEdvakRyaGdFUW45dHVEb2ZCdUJTWjM4R0ltQUNxM0loWno4ODJ3a3pJQzBBZXpJVHd1bHU1SDJZU2V4dU5MRlpIc0pPR3B5RkpTZTJNMGZuUG4zN1FsMlNKd1FxbUVCLWUyRnM0RlY?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 27 Jan 2026 18:18:15 GMT",
+      "pubDate": "Tue, 27 Jan 2026 18:26:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Why governors can’t grant amnesty to terrorists– Lawyers",
-      "link": "https://www.vanguardngr.com/2026/01/why-governors-cant-grant-amnesty-to-terrorists-lawyers/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 27 Jan 2026 18:15:40 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "SACHET ALCOHOL BAN: NAFDAC’s crackdown threatens survival of concerned manufacturers – MAN",
-      "link": "https://www.vanguardngr.com/2026/01/sachet-alcohol-ban-nafdacs-crackdown-threatens-survival-of-concerned-manufacturers-man/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 27 Jan 2026 18:10:52 +0000",
-      "category": "Security News"
     },
     {
       "title": "Atiku: APC misrule worse than military dictatorship — but ADC will salvage Nigeria",
@@ -92,11 +134,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria’s power grid crashes again, twice in four days",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjc1Zy1JaktMbkJ4MlJ5VW1YR0tHRXJoYmdyT3FfblBzRlpRU2Z3NFAtTWt6aU9OVkJHTldYQ3Vva01KVHpnS0NQUERYX2dzUzVYZmpvOGhWRzgydFBVMmFVY2JFQmRMTGU4OHBMNFdTZGN1UTROLTdiV2RCV2hrWmZMRGdVbTdqMXJ1R0pXbS1Oa1nSAZgBQVVfeXFMTWJvMHNXZ0lKQUM5OTVhaGQyUVZ0NDBPNENBN3dpUHAwbEYzdHFfQUstSmwtUE5XVGVGQ09tbm9vZUNCY3hfV2puRHpiMVpZTFlaaFlTbnlVVWo5WFoxRFFOek1mNFpZbXFfUEpGV3JIWFFlOVZ6WVdIRzV6NDJPM1puY3VVVXpGVFUyaVJjQTZjRVJvYTVVVnA?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Tue, 27 Jan 2026 17:25:38 GMT",
-      "category": "Traffic"
+      "title": "Tinubu’s Türkey visit strategic window for counterterrorism,, says security expert",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2MwbU52VVZqY2ozcTEyeTVkWG9oNGFGZDN4LTRrWW5xeGZHRjlSODNOLTBUcUU1MmdWVXFUYUlQWnFLZjBvdktXMzVpMk44OHFIYWo1dVE0Y1B5dF80MEdReHJsalZWNkJFbW92a2lSVXEwSWdkZG4zVVdGTVh2Uk1rSE5pc05JUG1yRXhTbFZNU1ctS0djdGxCb0pZNXhvbkQ3RWRKOTY?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 27 Jan 2026 17:26:00 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Army, Taraba Govt Forge United Front Against Terrorism",
@@ -104,27 +146,6 @@
       "source": "thefact.ng",
       "pubDate": "Tue, 27 Jan 2026 17:18:40 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Tinubu’s Türkey visit strategic window for counterterrorism,, says security expert",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2MwbU52VVZqY2ozcTEyeTVkWG9oNGFGZDN4LTRrWW5xeGZHRjlSODNOLTBUcUU1MmdWVXFUYUlQWnFLZjBvdktXMzVpMk44OHFIYWo1dVE0Y1B5dF80MEdReHJsalZWNkJFbW92a2lSVXEwSWdkZG4zVVdGTVh2Uk1rSE5pc05JUG1yRXhTbFZNU1ctS0djdGxCb0pZNXhvbkQ3RWRKOTY?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 27 Jan 2026 17:18:00 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Türkiye backs Nigeria in counter-terrorism push as Erdogan hosts Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uNndkTVZYR1BnWm1BTU1QUnBnNm5hTVBOY3NuYUFmRURTYVgzdnRjUE1FWktHY09MMWRCNDhVTDNQQzBQMGpRb1NaQVBTcGRwUERiZ0ZZR0vSAV5BVV95cUxPYnp1YVdTYnVIX3pJZTdkb2c2dGRBb0h3WEhGNldoSWUtOVlzSVU3VjI5R1M2TDFGeDREaXVLdG9kcFVkVjRhQUpTRkRaQVg4RGtFLVAzSHljZ2JkMzNn?oc=5",
-      "source": "TRT World",
-      "pubDate": "Tue, 27 Jan 2026 17:10:45 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Traders, Security Clash Over Soludo’s One-Week Shutdown Of Onitsha Main Market",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEhiUDBlQ1lPM2x1Ulp4V1lMTUs0cTVSYmNJdHhBaVpsMTFpMjRQbk9oZTh4d2RMVndKMDFxbXJ5YmlZNURocl9WT3M1ejloOFhORDdUOFJBOXU1YVh6MTdBUHMwWWduTm4yRC1QelFQOWdHOU4yR2dHZkRWa2t3dTR4UGpYUk01YWtGZkNqZnhHVnZtME80VThOMU5jNkFtcTkwRA?oc=5",
-      "source": "osundefender.com",
-      "pubDate": "Tue, 27 Jan 2026 16:16:49 GMT",
-      "category": "Security News"
     },
     {
       "title": "Unhealthy Governance Fuels Nigeria’s Security Crisis – Political Science Association President",
@@ -145,13 +166,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFFCcnRQQ2c0Y2VYcV9uSWhuRkdwOTNaUFNLdVByX3YtUUt5Vm1URlpLLXFVMi1WQlJmX19FQkVtdE5GX1duV3lZc1pqSFFQNDctZWNYdlBCaEdGTk80TjBOU1BJM0wzZ2dzdmU4b1ZfQUJrTkZlVXZlM01HbzVnV1JhWTlPWjRCTFRES0J4U3BQNW01NkhYTkZQbjhJSUlFazVHNl80Ykc0Q3E0SlNtcmZUb2ktSlVDVUdNeWpwWUtHMlU?oc=5",
       "source": "Sahara Reporters",
       "pubDate": "Tue, 27 Jan 2026 14:44:21 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Senate commends US military support, mourns terror victims",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEpISnMzTThBa3JYVVRMbjE0QzlSbFlnRERKU2N3c1hNeEV3T3ZwdVhrVTFmTVI1RVJVNVhhZUdTLWJGR2FKcUdlR3NpalVYb1NKUXk0bkU1RFdVd1haM1AzTXlGRVlhN3pURXJuckFiMW1QMHdLRm1LaXY5ZFRZVHlDR1E?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Tue, 27 Jan 2026 14:38:50 GMT",
       "category": "Security News"
     },
     {
@@ -212,9 +226,9 @@
     },
     {
       "title": "Can the US halt jihadist violence in Nigeria?",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XaVd1eWtVTHBVcll2dGlqNEljNWpiVHBjTkpuV1ZtaHlSSXNES055LUlCVDlMV0p6NlZ4M1d5MU5FSUpVaFhaTlotYmVMU29oSHJMNFA5THk2Y0tjRjlyMF9JXzJubDh0TGJsTDBzRTVJWWhs?oc=5",
-      "source": "eNCA",
-      "pubDate": "Tue, 27 Jan 2026 11:10:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKUmtZQ0tmTjBBVmU5U1JWU0xndlJueWhZZkpZUExRQU1IeXR5Q2dXa3E2YVFGT1hUYjUzbWszbkpxb2hadlVIOVBselFpNWp0S1pCUEpLNHA5M2wwTlQxNkFYTGxyY3g4ZFdjTUJTNFRDOFNJdTJwdnVR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 27 Jan 2026 10:52:00 GMT",
       "category": "Armed Conflict"
     },
     {
@@ -264,13 +278,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblpIcE5hNXlsd2xsMFNsRGlRSS1BdF9CNkxudTVITGY4QzhiMU91RTlLb0FDSFFzbGhDNmk1eTVHeWVFaXA4OUJvVk85UW02ZzgtWjNSWXQwWTFHMGF6dGVXb0xfS3N0MHBwTU9JeXd2ZUZXSzFaR3pBcF95NHpnNjlveE1zOU5adnVhR0hYVUcyaWl0?oc=5",
       "source": "Business Post Nigeria",
       "pubDate": "Tue, 27 Jan 2026 08:01:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Coup: Nigeria’s Military Concludes Probe of 16 Officers",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lM2duWWIxQ2M4aHFVTE9feW5rMkFmTW5EVVZIYVEyYjhFSFNYUVBuSklVN2drY1FwZUg1VzF1ei01MHVMR3J6TlNUWm1IVXdCRXVOS3VPZmsxVGJiTmRwN3JIMDdDNGNxblIxYUk2bG9GOE9USnlwYUlNZnA0Zw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Tue, 27 Jan 2026 07:42:40 GMT",
       "category": "Security News"
     },
     {
@@ -327,13 +334,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzQ2NGhUSWJUWEVxd0piaW9DYkdtb3UzX3l1THNBSDJSU0VqM0N5RjJEOUtPdnB0NWQwanJNZEFpMldjRkpvRWxKNkxsWU4wNjNMbzZMR2tzdFlNQmlqaDBWZ3JKWHZvX1JuQTk5dDRlYWItdjBFeXlJUV82czBfSThsaXNjeUk1UlhxOTBpd1U5Q1RRa1ltbg?oc=5",
       "source": "Peoples Gazette Nigeria",
       "pubDate": "Mon, 26 Jan 2026 19:56:54 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Soldiers face trial for alleged Tinubu coup plan",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlRfOWU0Z1Z5aUU1ZzdvWDIyZHc3VmpzcHUzZGgyMVZxTW9LNTlCR3FMaHBSV012RURfdHpORGMzTHdrRHVrTTN4VHpQWVBEOEFnWDZSLXNNakM5bnkzS2s3UC1OZ2R5cXVWTUFmQnMwRVduVklsZVdBb0hvZ0VCSHpxUEhnbjhrdkpqeUhfOXBjc1hwRTJ5MTh3UdIBoAFBVV95cUxQNlJ6ZVd3TFB0aVZoVVF2eDdrTnFndURCWUJnOGR6S1ZKdEZJS2oySG9Oc09ydTVxZ1Z2R3plQWxoMGlxLU9kOTk5X3JVbFdTMzlNTGY2cjFvWnc4ZWdzdGQxMWc3Zk1DQlFsUm5lbE1sOUdhbG1sR2xMNnpISWJsMlpGRi1LSGVORnpMLVFlYkRhWGZTcmFTSGt3TGNKN3VR?oc=5",
-      "source": "africanews.com",
-      "pubDate": "Mon, 26 Jan 2026 19:42:46 GMT",
       "category": "Security News"
     },
     {
