@@ -1,32 +1,53 @@
 {
-  "timestamp": "2026-01-28T00:28:35.475Z",
-  "generatedAt": "28/01/2026, 01:28:35",
-  "totalHeadlines": 174,
+  "timestamp": "2026-01-28T03:36:24.169Z",
+  "generatedAt": "28/01/2026, 04:36:24",
+  "totalHeadlines": 173,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
-    "Insurgency": 10,
-    "Military/Security Operations": 11,
-    "Traffic": 4,
+    "Security News": 117,
+    "Insurgency": 8,
+    "Military/Security Operations": 13,
+    "Traffic": 5,
+    "Armed Conflict": 11,
     "Law Enforcement": 6,
-    "Armed Conflict": 14,
     "Kidnapping": 11,
     "Banditry": 2
   },
   "headlines": [
     {
-      "title": "FG, Northern leaders, lawyers differ on amnesty for terrorists",
-      "link": "https://www.vanguardngr.com/2026/01/fg-northern-leaders-lawyers-differ-on-amnesty-for-terrorists/",
+      "title": "Lagos taskforce busts syndicate selling stickers to shield drivers from arrest",
+      "link": "https://www.vanguardngr.com/2026/01/lagos-taskforce-busts-syndicate-selling-stickers-to-shield-drivers-from-arrest/",
       "source": "Idowu Bankole",
-      "pubDate": "Tue, 27 Jan 2026 23:45:07 +0000",
+      "pubDate": "Wed, 28 Jan 2026 02:32:33 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria At The Crossroads: The Politics Of 2027",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Da21iOFgtSUFpbWVlTmFBZFVqXzNLZ2dPVWhtRGlxcWNOOFV4RkQ1WE50VU5PbTAtek5XZzFDSGpaa1ZTNWxyU0szUXVnWmkweU5Lc2hVZjd1ZEZqQ2FiTFRuWVhGcXRpd2JTbHRNakNsVlhidmpJcTln?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Wed, 28 Jan 2026 02:03:52 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Terrorists kill 2, abduct over 50 women in Katsina community",
+      "link": "https://www.vanguardngr.com/2026/01/terrorists-kill-2-abduct-over-50-women-in-katsina-community/",
+      "source": "Idowu Bankole",
+      "pubDate": "Wed, 28 Jan 2026 01:54:43 +0000",
       "category": "Security News"
     },
     {
-      "title": "US Senate summons immigration chiefs after Minnesota shootings",
-      "link": "https://www.vanguardngr.com/2026/01/us-senate-summons-immigration-chiefs-after-minnesota-shootings/",
-      "source": "Oboh",
-      "pubDate": "Tue, 27 Jan 2026 22:53:54 +0000",
-      "category": "Armed Conflict"
+      "title": "Military denies neglecting wounded personnel during combat",
+      "link": "https://www.vanguardngr.com/2026/01/military-denies-neglecting-wounded-personnel-during-combat/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 28 Jan 2026 00:43:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Father of Nigeria captain Wilfred Ndidi dies in car crash",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblVOSDk1REtGbVAtN05FYzJNSk8xUHdFWTVHXy1BN0hISTUxTE96bTRST3g4Wm14bkhreWM5UGJ5RnI4R0ktWFIwTDNVNnV3SkZfaVl1QVE2Nl9aVUJBT2NPSUxxMHFlSVJEYm1ZdE5EVjZqaVNfcVFpZmhqNThkX3ZDNFZ3amlrcFhYZnhUQkNBdmlJTVloTW9WeWNHNV9KZ01pV1ItYw?oc=5",
+      "source": "ESPN",
+      "pubDate": "Tue, 27 Jan 2026 23:05:41 GMT",
+      "category": "Traffic"
     },
     {
       "title": "Türkiye, Nigeria Sign Deal For Cooperation In Media, Communication",
@@ -43,13 +64,6 @@
       "category": "Security News"
     },
     {
-      "title": "FG to begin reconstruction of Akwanga-Jos road soon – Shettima",
-      "link": "https://www.vanguardngr.com/2026/01/fg-to-begin-reconstruction-of-akwanga-jos-road-soon-shettima/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 27 Jan 2026 22:02:14 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Türkiye Stands With Nigeria In Fight Against Terrorism — Erdogan",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnoxVTZXbjRjRXJvcVNpS3E3UWlDS2hqV2VuLTRQZGo1WlhLNEp4VFY4V2lYQ3Z5a3dPNTFfTDRsZnhncnBtMDVZRUEtYkFqQ3g1TXFva2llM2J5LVo4VzAwaERvYTlkblFUYXUwUWNnOEJlSUd0ZW9McGJfVXpEZG45cDRFUlp4aUp1elVwQXp2RVBNanFKMUFxdlh0UQ?oc=5",
       "source": "News Agency of Nigeria",
@@ -57,38 +71,10 @@
       "category": "Insurgency"
     },
     {
-      "title": "Police nab traffic offenders on Lagos-Calabar coastal highway",
-      "link": "https://www.vanguardngr.com/2026/01/police-nab-traffic-offenders-on-lagos-calabar-coastal-highway/",
-      "source": "Oboh",
-      "pubDate": "Tue, 27 Jan 2026 21:51:57 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Turkey Stands By Nigeria In Terrorism Fight, Says President Erdogan",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUpNQ0thWlhOLV94eFp4SG9oTzF2MWpTU09VM01RVWM5WVliZllLdHNhS3NpUHJ4TjlRT05lZzZfYWoyNk96SjNxNUQ1b2ZlS1Joak9UOTFNYVA4YUo1U0wyZGJsdElKQUhZa2YtWlA1RGdBdWI1WWtuN2VUZ1I5akdvNndGR05uc0dYZWIxa01zX3otYnVwS1BIM3BvMXNuZ1BWV002NXHSAbwCQVVfeXFMTXEzNmhDWnpWOHRxZ3hEMER6b2lSTDBrR00xVkVyRHNiNHhMcndsM0pyVlZqMjgybzlNUGwtRHBoQUJkMnVOeVpTc0ducHYtdzU5N0RGMEpwS1ZyUFpCa25iY3RLUUdSU19jWHJlUUpnbjRTcVdlcU1XY0FhZm5hZ3NnM1hqajlDXzFLTFFOVUg2VVJ2Y0lyUENZY1gtRU1NTHZsejJuNFVYYk9RMTd1LWFFVi1zYjVSUm5hX25NV0dPMkl3VHRkRTJucUhTTF9kX2RlSk5pOWk5Y3RCeGoyTjlmd0RXMTgySEVlQnZHS2NRUkIzcEFKanRiTDRfakVVNG8wVEpRTXhBNjBaTHAzZjJPZlRZT3FpNVViTzJzeWotNVZtM2Jrd2drSF9Ua1JyR1V2ZVdYMUJvT3dWZA?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Tue, 27 Jan 2026 21:48:58 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Nigerian Military Affirms Coup Plot 4 Months After Initial Denial",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmhrN0NsRzVFbGhRcnp3Zk8wSkU0UVkyN1dEZ2s4X2ZVYVBXQTBBWVRqd2pSSk44bjN2RmdyOTZaRVhVYVAtOXVEY19EQTRCQjk5N2pYN0RVd3dweGg0Vkt1cllJR2dYMmZ0cXVUME10Nms2cW5lbUxYNndpZWNMbk9EcVVqZXVESzdlN1htZllBWFI1d1VfYmEzc05zQUV5?oc=5",
       "source": "Truth Nigeria",
       "pubDate": "Tue, 27 Jan 2026 21:27:10 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Otti launches maiden South-East shooting competition in Abia",
-      "link": "https://www.vanguardngr.com/2026/01/otti-launches-maiden-south-east-shooting-competition-in-abia/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 27 Jan 2026 21:21:15 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Recurrent grid collapses threaten manufacturing, MSMEs – LCCI",
-      "link": "https://www.vanguardngr.com/2026/01/recurrent-grid-collapses-threaten-manufacturing-msmes-lcci-2/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 27 Jan 2026 21:12:22 +0000",
       "category": "Security News"
     },
     {
@@ -111,6 +97,13 @@
       "source": "Voice of Nigeria",
       "pubDate": "Tue, 27 Jan 2026 20:08:08 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Türkiye, Nigeria vow to deepen trade, security cooperation",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SbWJDZE1SbnU0aUFqQl8xcnI2eVdWSGNRdXQyV2gtaFVOYURmUVhreUZRUW9mNWszbDlVS1dRbjEtYlZPVkR0YjBOcGVlNWk1dzI1c09LcWRKUkF0SENjVGNFNHBvQ1RranVuLU90cmtwQzQ1bWFOa2t3a2E?oc=5",
+      "source": "Xinhua",
+      "pubDate": "Tue, 27 Jan 2026 19:20:45 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "US intensifies strikes in Somalia after Nigeria bombardment",
@@ -146,6 +139,13 @@
       "source": "thefact.ng",
       "pubDate": "Tue, 27 Jan 2026 17:18:40 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Türkiye vows deeper anti-terror cooperation with Nigeria | Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjBrQktqZlV0VnhncXBqelFpWHFlSk1uWkJYZHZXbGxEZzdobDVCRmdKY1F6eS1oX01KcEJFaXhHeGkwejRWN1hBOHdqcm1yYXZKY1NySWdlQzlzUjlpVEZpYk01dGlIamw2ZjQtY0J0YzdzYTlZck9GbFRzMm12ZkRkNFM2NkxCT0x1ai1KU1JsTG45WjdFczFrbDkwMzdWUFJQaNIBqgFBVV95cUxQZlh1UWo1R3M1ZGk2M2ltYU5hYWNZVXZ6bXBlNHRRWGlCNGdSczVsTUFBdkw1R1lSbWQwSWFZTlZRM0dHeDRBYjNIUm5zdExCNFRqSTh5QXgxX1kzWTktNERET3RwajZlVnVBa2hmUXN3bDdGaER5aENLa1pUMW92aEZFeXFiaTM2cl9OM21ES28tUE5VRFNfelNjTVF0d05xRVpMV0E4NDVkUQ?oc=5",
+      "source": "dailysabah.com",
+      "pubDate": "Tue, 27 Jan 2026 17:05:00 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Unhealthy Governance Fuels Nigeria’s Security Crisis – Political Science Association President",
@@ -253,13 +253,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Bwala: Defence, security, economy top Tinubu’s Turkey visit agenda",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmszWVlWdjc0U2FtdjJyUnVHM2dLNmtkLTM3ZVhjMjZIYzVBZEhPVHNaeWx2eGVIUmFtNWdfekdLTFp1OFJtRHdwU2RILXhwdzRwRzF5dTRycEl4YlZRcko4UTcwcVRoZi10YjdSeXNCZkllaEl0aHQwSDRQZFkzTWswMkRnOVpDRkUta3E1UGw?oc=5",
-      "source": "TheCable",
-      "pubDate": "Tue, 27 Jan 2026 09:38:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Defence Chief Reaffirms Commitment to Ethical, People-Centric Military",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTR2VnVTZFBVZnptRjRhUDU3X19sOUtMc0g5RW5LeU43cE1sNGhkLUw0azktNGVPdDFIRmpieDRMNlNmREtyOEw2Znp5c2tPTkFXUGtEXzctUmg4VnZhTkZyX0xVU0gyVG5IRjdOMzZSZ25DTmQ5U2ZsdGZkQ1RBdjhNVmF4cGR5OEwyZEtpRlNNVHc?oc=5",
       "source": "Voice of Nigeria",
@@ -312,7 +305,7 @@
       "title": "Nigeria: Military officers to face trial over coup plot",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlA1U2pac3E4TlEzYXc4UHpjRjdqRlE4ZVBRWkZocHNzXzFsVWFPTkJpT3hjR2NDNndZMnUxV1dqRlJ2b3hVTVNWdkliMGgyQlVqcGJRUHFEeEdGUGJ4Uk5fekZTdV9pUjUzaW1ZdGdBaDUwNm82QjYwMEM3YkZHeGFLc2t5Q29iSU95N2FPZm3SAZABQVVfeXFMTmhJcGptRng2eV8tcVFBdHRpTURmTXowUmFPYjFoM0xTTV93RmpTVExTMnlFRmQ2eTF3UVI2Xzd0M01LWHpwdzd2X242cFYxcU01RmtDX2U2QUItNDhubG1QWUZwZkk4QU9aOUc0bjcwcnZYN29mU0haTmhiTGczemNfcWJ1alNGaU5RdmpyMlhC?oc=5",
       "source": "DW.com",
-      "pubDate": "Tue, 27 Jan 2026 00:33:58 GMT",
+      "pubDate": "Tue, 27 Jan 2026 01:30:09 GMT",
       "category": "Security News"
     },
     {
@@ -362,6 +355,13 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZFRoYlRXblpCQWMwSlgwUXh0dkcwTlVzb2xUX2NSTi1xZ2xPVUpEZDlSRmZ0Zks0U1pDdHBLZVJPUS0wOGpmdEhYOFRsRGxhdjRsdGhNbHoza0hVZ01Nd196VHNKMGE4WDhKaklNUlNVZTdtNWp3bzM2eFJDdzRFY1U4Z195Y2RsT0pEWlM4R1BoYWlrdVpDZlhDUE1xeVJQQkNvYnJ1QzNXbXp5Ym15ZWdZOUV4SUF5YnBqXzhEQWpuX2FEcGhyUHo5Skh6X1E?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Mon, 26 Jan 2026 17:45:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "WEF 2026: Nigeria weighs on food security, power, housing to drive jobs",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVhDMFd6bEVfVGJiU1FoaW1qVHdBeUxaSnZjelpNMWlheVlwRHdJQl9LRTZHSEJHck1DNGZQd05Ec1JPVDFGYTZ4YXNYcUlYY1d3ZmRzVEpUa1l6ekRVUF85Mnl1Ti0tRjVNS0RpUUdJSU9pSEtfMllBTUkwWWhjTzUzV0xsVFp5Wnc0RHZQRnd0VFY2UzRxSHBwczZxZThWWnRuZmxDV2s?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Mon, 26 Jan 2026 16:30:48 GMT",
       "category": "Security News"
     }
   ]
