@@ -1,32 +1,67 @@
 {
-  "timestamp": "2026-01-29T03:49:15.580Z",
-  "generatedAt": "29/01/2026, 04:49:15",
-  "totalHeadlines": 179,
+  "timestamp": "2026-01-29T06:19:38.930Z",
+  "generatedAt": "29/01/2026, 07:19:38",
+  "totalHeadlines": 170,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 119,
-    "Insurgency": 13,
+    "Security News": 109,
+    "Insurgency": 12,
     "Banditry": 5,
-    "Military/Security Operations": 11,
-    "Traffic": 4,
-    "Law Enforcement": 9,
-    "Armed Conflict": 8,
-    "Kidnapping": 10
+    "Kidnapping": 10,
+    "Military/Security Operations": 10,
+    "Traffic": 5,
+    "Law Enforcement": 10,
+    "Armed Conflict": 9
   },
   "headlines": [
+    {
+      "title": "Police vow to enforce order in Anambra market",
+      "link": "https://www.vanguardngr.com/2026/01/police-vow-to-enforce-order-in-anambra-market/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Thu, 29 Jan 2026 05:45:31 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NAF begins probe as accidental airstrike kill two, injure children in Niger",
+      "link": "https://www.vanguardngr.com/2026/01/naf-begins-probe-as-accidental-airstrike-kill-two-injure-children-in-niger/",
+      "source": "Nwafor",
+      "pubDate": "Thu, 29 Jan 2026 05:23:00 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria’s ransom crisis: Funding the terror we fight",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVJ5dDFuaDIzTnotVmxEa2lvY0owdTJFRzZVMUNfYnRHMVVjUXEwTE9sYnowcFBtNzJLeW1aVnFfLVdRcFgzbGpIa1ZZdjhOTjl2TnpEN1MyTlA3ODhFVDdJR1gwWHdZbzFKaFA4QWl3MThUSDNxbUI0dlVJMUJ6SkVnTC13eTd5SXdyRl9DM1JGaVU?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 29 Jan 2026 04:22:00 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Security Matters Not For Open Market, Akpabio Tells Senate On US Airstrikes",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2ltUmhxS29USjVwVS1vdVlaYlc5VW5tbWowRWdkVmREOFM1RnlBZV9tWVpIREEwR3J0a1dxQi1ub2x0VEhEZW1XclJVWkFYRkZnVnQyWVozZXlYU2VVYlZ0WUhUdVUwUmlSNHRUa1Z4MHQ1UWl3U2ozUHdPWGY1QUZhYTZMTnVVa00wTF83U0EtcEFzUVpJM0FWRGM0UQ?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Thu, 29 Jan 2026 04:14:56 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Police arrest 2 dismissed soldiers for armed robbery in Ibadan",
+      "link": "https://www.vanguardngr.com/2026/01/police-arrest-2-dismissed-soldiers-for-armed-robbery-in-ibadan/",
+      "source": "Idowu Bankole",
+      "pubDate": "Thu, 29 Jan 2026 04:11:37 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Police arrest two dismissed soldiers, recover stolen vehicles in Ibadan",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFJkck44RUxYZjdmRk0wUkhRTmZiRFNIV3VVdmMyQTNNeHVURUhZUXNybE1yU2E5S1ZmdGFYRWNzbm55RklleVhSVjk1dVpZOFRNTl9FeVNzRDdBbTZLSjNfWUE5WHVNV1BmSXQzeGk1M3pudlc0Mkd6SXJ5aHdWcTRVWmZJVndJQktvZC1XT09uMjBDZ1JMOFVvVXN3eEdtejlKa3hzYzk5YWJSTU1R?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 29 Jan 2026 04:05:00 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "Lassa Fever: Nigeria Records 93 Cases, 28 Deaths In 3 Weeks — NCDC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzB1bjdCWGNxMl9aNkRkTGVTOFJmZlJLR0JBVVhDUzFTMHl0RTk3U1VqSUxRQUxGZlhPX2RBWnJmZndJcDM2WlVZdXhIR01UN2VDbmlHcHNWZG16S0NpeDc2ZnRralJMOFhfUllqYXQ2cXRoQUNOeVRyVFJXWkg1RXZmdEJEdHBvNnVzZUln?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Thu, 29 Jan 2026 03:46:06 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Police arrest man over possession of suspected explosives in Zamfara",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVltdmlSVldCd05IaW1TNW12N1BydkJHRng0Yk5SbWlEdHR4TlB3bGNjUUtjYTJSek4xWG9yd3JHd0Z1SW1NNmljNFNOQzRkNl9xYkh3WHkzU0ZGR1BTN080WENSYzRTUzRCQm5LMEVwOHpRUFdlVTh3aWx2cTRpeUtGOU4xUWt5b2gxaVQ3LW53cjhMSmQ1VEtxVy03cGprb3dBTGJmOE9mZExX?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 29 Jan 2026 02:55:00 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Accountability: Group to sensitise Nigerians on Police Act 2020",
@@ -57,32 +92,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "Police arrest 2 dismissed soldiers for armed robbery in Ibadan",
-      "link": "https://www.vanguardngr.com/2026/01/police-arrest-2-dismissed-soldiers-for-armed-robbery-in-ibadan/",
-      "source": "Idowu Bankole",
-      "pubDate": "Thu, 29 Jan 2026 00:51:37 +0000",
-      "category": "Banditry"
-    },
-    {
       "title": "Tension heightens in Ondo community as gunmen kidnap another pregnant woman",
       "link": "https://www.vanguardngr.com/2026/01/tension-heightens-in-ondo-community-as-gunmen-kidnap-another-pregnant-woman/",
       "source": "Idowu Bankole",
       "pubDate": "Thu, 29 Jan 2026 00:46:01 +0000",
       "category": "Security News"
-    },
-    {
-      "title": "Troops rescue kidnapped victim in Taraba",
-      "link": "https://www.vanguardngr.com/2026/01/troops-rescue-kidnapped-victim-in-taraba/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 29 Jan 2026 00:40:00 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "NAF begins probe as accidental airstrike kill two, injure children in Niger",
-      "link": "https://www.vanguardngr.com/2026/01/naf-begins-probe-as-accidental-airstrike-kill-two-injure-children-in-niger/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 29 Jan 2026 00:23:00 +0000",
-      "category": "Traffic"
     },
     {
       "title": "NIGERIA’S MINES OF BLOOD AND DEATH",
@@ -113,13 +127,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Cornerstone Insurance Reaffirms Trust In Retirement Security",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW1LUlJXWHVNVFRoTGhLSUtYdXBXZXB3OTVGY1JxazdCd1drTGZuZm9YRHVwODJWeFptRUxldkx3UjQzbFJiSTF1UUNpbjBBNlZWZTZFYi0zelBfeFZ3eFl3MlBPMEZ0cG40cTlGZFBDUUtic00yaE4wLVA3ak11ZUpJaGlHb2dQZGhQNg?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Wed, 28 Jan 2026 21:50:51 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Fulani Ethnic Militia Hold 1,400 Hostages in Southern Kaduna, Survivors Say",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTFTbmx6em1XQXBrQ1BSaEdjQktPMHlCVkFIRld4VHFmcTVXWGl1NkRfMndXN2F6NmdFSzJ0YklpQ0tnS29ZMi0xNEdhbGNvQldGcDRSRk9tUmNNRE53RE0zdmVDaWVFRVpXS3hfdW5sNGtlZ0FEaEc0VmJCWlpUZ0diemRscy0yc240bnNFRnIyMHYwX0lDVzNySDQxa3ZRQTVnMTd4REJCbkE?oc=5",
       "source": "Truth Nigeria",
@@ -148,32 +155,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Senate to discuss Nigeria/US security partnership behind closed doors-Akpabio",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDhFUG1EUWtra1FfUXE3cVRzQS00UWQ4dndEVjVHeFNqdEpCLWltaHUxcndBSkkzaU92eWswd2VZUWNCSXFDbjRtbkEyMm9JcTdnaEZiT3JXTDJ0eVJldGZfN3lmZi1LdHhlNkpNT1B1VDJXYzl5ekhRUmthNnNxMkVILWFtZVczRXItdzdWVUhRdWQ1RnFCM0I2WUh0dWVNZjI1cWg2WFp5eEE?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Wed, 28 Jan 2026 18:05:01 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria records rising lassa fever cases, deaths in early 2026 – NCDC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2hfb2kzZmxPOFhXOTJpRXFPR054LVVfdE5MeFoyUmRtbXctSG9iQ1pRMHcxTzQxdjBNREQ5Y2FnTzJjZjhOVVFiOWRoYjNLemE4MUkxb3QtcEhwQ2Fxb21fQkQ3XzJrTG1nQmJKa3lRWkEzVTgwT0duSXExZHZOR0hHeHdibnZxWkQzMDdIcFdXTVF4S001SDJLSWk3QTVXQnUzVEVB?oc=5",
       "source": "Businessday NG",
       "pubDate": "Wed, 28 Jan 2026 18:02:46 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "FEATURE: How Nigeria Immigration Officers Frustrate Passport Reforms",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjJRMnNCck5xSFg1bFdUYVZkRG5ZQ0gtbzF3bDcwRm1YSGQ4UW00QUtPNEVXQmlDRW11N1pBV24tWmJ5ekZyU1RJQnJ1MTlpRVpVaENPUHJVemJQZnNldFNveGg2X2MzQ1RDUjBWanBQOUFLUHpUdS16R0pubDQxR1EyZDcyQVZoSDlFbU8yRTBBQUFvQ2fSAZsBQVVfeXFMTzVkdlZWVmRtbUI2TDEzQ2NodVN5ai1Wb2JHdmFxN1RpRkUxQUR2bGpiOUZlRHlLNFoxdnA3NzJZOE95SXpyMU1tRlFhZGpoSXdZaVdCbEUzSVBnckZFY1lUQ2pvYXpVY2xRRTgzNzE3YUFYaXBmT2VTaWtZT2dud0dpXzBLMGxmQTgwcE50Y2pidEJWMldJVmRwVDg?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Wed, 28 Jan 2026 17:45:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Refugees in Cameroon Repatriated Years After Boko Haram Displacement",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkxPc1BJQldKR3FTM3ZrTG5QSlVzOWYtMWN6WjhRdmZPOFh5R0tucXEtVnJEVnBna1BCUUppOVhoZjhHLVg3NlEyTjh3eEQ3NlF1cm5UMHhaRDV0UHpsRG9rcU5obFpldjBZeGllTVB3OThLQm5fWW9kNW1ZRF9DaTZOazVKTVF1aWJIZzgyZTFzVkFUcEpRVC1QM3llOFZmTUJBTkh2SQ?oc=5",
-      "source": "HumAngle",
-      "pubDate": "Wed, 28 Jan 2026 17:17:25 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "Insecurity: FG to deploy military retirees to secure ungoverned spaces",
@@ -246,13 +232,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "What account security mean for Nigerian customers",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNak5OYlhXZ2Nta0wzVHd0OVFLYk11VE1ocWtDeXQ4dm1lTjZHTm1pZnRPZjVuYUtmWTBFb1YzSWwwY1gtbUQ1eTdhWWl3RVZTVzIyNXhkcGtkbDR0RWVORFhTeDlORGhpVlo0U1pSbFpIZU9Eejd1Um9EYUpmcXpBcEN1YlE4T2RKU2Y4UXZ1R204VFhfdUYw?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Wed, 28 Jan 2026 10:16:54 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Tinubu fall video: Turkey to train Nigeria Special Forces against Boko Haram and oda highlights of President Tinubu visit to Turkey",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MzZHYl9KMl85OWNxYnBDd2V2TDBGS05YN1NMcHhCM0NURkplbWdEUlBlUXFycHotQ29xeTMxaUpEZUZzWHZnNDFMcVVZZnIyaGZSYjFubXBFa1Zy0gFiQVVfeXFMT0YyV0lqNl9xbGw3VktBTVp2QXZaaHFISnVtT3F0QjUyTng1RUg4b0Y3OFVkTjJydERDeHlUQjNuUzVXMWhoSUxDYzJIeGRFM0dlR0NUNnhlQkhqSmktZDRLVkE?oc=5",
       "source": "BBC",
@@ -274,13 +253,6 @@
       "category": "Security News"
     },
     {
-      "title": "Court orders forfeiture of N1bn Bombardier jet to Nigerian govt over unpaid customs duty",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeUZ0dUN4MlZlRkRCZWtta0FzVTRVZ0FlZFlZeUFoVlM1NnFTMFJYWXI2S3JXZ0tKbE5WVFVacHdMaVNSU042OG1HTllvalFSQWpRNFpiZ29xVVUyNkM2enFUUms0aHR6aEpjYklIQlktYWtEdFBmZFJlWTRFNEx4OERDaXlVcVIyTTB5eVJ4RXVZOFJ3X2lubHlYSGZ6QTltX3pWWTd6a1BNdHhmaE5ETUhCcFpaWl9zLWdZYm5HTEdELXlKcF9rWEk0Qko1Y1E3UHIzZFl0RTd3cXNBaVRN?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Wed, 28 Jan 2026 09:22:25 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FG deploys military retirees to secure ungoverned spaces",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckpMcmZKU3I1a0tVdEZHcUdNb2xneUsxck9xV1lUUnFNN3laX0Zta1ktUkJaT2pfY21KVzBBRWdQbHZRSGh0MUhvMWVfX01fSThUUEJxTUJHX2V5X0JmczZST3RHbXE3UG5NT21oQjVXdEh4d1FnMUIxOHVFclVhMHMtcw?oc=5",
       "source": "Punch Newspapers",
@@ -295,24 +267,10 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "NASENI Funded UniAbuja Agric Incubation Centre: Pathway To Nigeria’s Food Security",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0ZhX0pxMW1iQkN6S1d1Q1pXd3JCTFlVUHN3dTdGZUxPMDFvamVNLWlFbWtHVEpjdTJ5MV9TYTZUM0paUW5kV2QxV0hQa3dOVkZZN1NjcVBsVHUwTU5qVk5TYXhaUktuX3lRMWNBMmJ6dlFmMHNqdUUyWnVIS3hOYzhRcG1qZzhkTmpwX1FJc3MxTm5YamZiV09ObVFrMlNKU2Z5X3l3?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 28 Jan 2026 06:15:04 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Tinubu pushes defence, economic ties in Türkiye as aides dismiss health fears",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0RLQm5RSXRUamdTYWpoMGtuMHBFeGs0UDFweWVoQWNoSkt3NFNjd1ZtcVFDeGFfRmVjU2JlMWdsd1BZUEZxLVhoTEY1cVdqeHNrS1RxNVBfVVBkUEdZdDJ6Y29mNGZIeWd0WVIwWXhBS21UT29WOV9yYmp4ekkxVzZsVExYUzBXaDNnMldNVXBRVllDNVY0WDhybG16Si1WVGlCdA?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Wed, 28 Jan 2026 06:09:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria army rescues 11 kidnap victims on Kaduna–Abuja highway",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkw4TjRMNnhJdzdMQUtoVXpqWGVEUlVjdHNWWG8xWjZXd1JZemJoYVpwbkdwckwtMkUxamlnQmNncGVSTno2WHZmNGxqN21nVExGWG9tX2stVER6NmxpT1c4em0yaDVfQ0dyeUZRMThwMU9zWDNPc2dPQ3VMNklMRWV1LUItaGpzYm5zV1FXZnJCcU1jTWpmTXFJdWdyMFYwSGfSAacBQVVfeXFMT3o1R3FOV0p5X01XcUpsQlBNZXNHaHJrMmJURVdTNFdueXBMN2lRVWY1bHgyV2lCRnJPd0sxVmhsQW4zWmxKa2xRYk9rWFJEYVpkem95ZVFjM1FQcV91S3o2Q1hXUUlFb0wwcGxUUk4yX0d4bVZIdDh5MHpZVjlHaDdsQWFrWmZiaFdvb1dRMzZuUEtNamZ5dWxudEtRR0F0U0hUZ0I0M0U?oc=5",
-      "source": "africanews.com",
-      "pubDate": "Wed, 28 Jan 2026 05:50:21 GMT",
       "category": "Security News"
     },
     {
@@ -337,13 +295,6 @@
       "category": "Security News"
     },
     {
-      "title": "Father of Nigeria captain Wilfred Ndidi dies in car crash",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblVOSDk1REtGbVAtN05FYzJNSk8xUHdFWTVHXy1BN0hISTUxTE96bTRST3g4Wm14bkhreWM5UGJ5RnI4R0ktWFIwTDNVNnV3SkZfaVl1QVE2Nl9aVUJBT2NPSUxxMHFlSVJEYm1ZdE5EVjZqaVNfcVFpZmhqNThkX3ZDNFZ3amlrcFhYZnhUQkNBdmlJTVloTW9WeWNHNV9KZ01pV1ItYw?oc=5",
-      "source": "ESPN",
-      "pubDate": "Tue, 27 Jan 2026 23:05:41 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Tinubu Pledges To Deepen Nigeria’s Collaboration With Türkiye On Security, Trade",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVgxZ256eDhTWWZmRFdRcnRoamhBTklFcjQwa01TejhtdGtadjVVVlptZXlPbjNaUjlzN3RaR1piNkd0YXBCbktJYW40VHNRNzdOelgtazVZWVB5LXNBTzdORm9lNlF0YmZxTUhzalFrVjJHSWltbHBqZUNBcTVJZkhBeURIbEd4SmlhSl9BYnVHNDlzdjZ6SEdOcTZxZ2pSOHJHRmM2djJGa0ducEZ0c1YwS3NGeXVtSWhV?oc=5",
       "source": "News Agency of Nigeria",
@@ -363,6 +314,55 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Tue, 27 Jan 2026 17:26:00 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Unhealthy Governance Fuels Nigeria’s Security Crisis – Political Science Association President",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazgxdHdGQk5HeThqNjVDY1J1SXp5Tm9BWG1DVFdBbjI5c3UwSnRZeTFXM2Ryd1pQRmk3aTZXRnA0UXRvaHY2dldfSDVwZTNGNHRDTjFUOU43OXdtUGNhQ1oyTmFtLV9Yb3hwa041Vk1XUjNvYlNaaWVqOUx5cXY2YVpCT0tsT09relNlZFpZQUZKOW0xSzZmU2dqa2RnUDVmRktRSG9nTHA0TjRTSjYtVkhTOFc?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Tue, 27 Jan 2026 15:28:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Attacks on Nigeria’s energy systems weaken the country – research unpacks costs, risks and ways forward",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFJoeHFvZVgtbUszNm14Yi1iTUhrMFRoU3JwT2tBUGczVjNDSV8yV2Q4Rld2NTVVNTRxdVlvamZRZHZETWJ0aVVwdmFHMmNkblZrLS1sUHZXWGZrRU9ZTk93ckJfRXBidFNVZS00a3ByZDcwcDdKM0FZd083VzgxeDlpME5sYzFFa2pwRHF6aWFvajdRdFNKZThQZWRHeU1DTkVoVWxvR2dheUdwUHZwbWlmYXR4Vi1XaWZyTXd5eUVzY01CQjhua3YyVXNGVjA?oc=5",
+      "source": "The Conversation",
+      "pubDate": "Tue, 27 Jan 2026 14:28:29 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria’s insecurity crisis is a data governance failure — not a firepower gap",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmVzYmxneTR2M05kSG5HRVNzTkFOZ0trUDhYWXBEOURCZ19GZm1YRzFmTFMxNnVuNjJoQl8tM2xyMWgzR1FHVm5Jd2NKZVUyMHRya092SE5vbUpoVEktT3pKc2hMWTVZZ2tkZVNSNzNKZGZzSWRYdFdEYm54THpiVmkxREt1Umk0a1pzcXprUk00T21veW9nMWxHNkVGZlFpYXc?oc=5",
+      "source": "TheCable",
+      "pubDate": "Tue, 27 Jan 2026 14:17:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Heavy Security Presence At Onitsha Market As Traders Voice Frustration Over Closure",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmZkYk5PN1NEOE1NZE1RU1dsbFBJdDRNV3JjdklPb3V5MW1YdFRnS19EYUFFcFc1dDNQS0dCU3VmY3k2aHhFdnhNY3ZEZVpkcm8wRGdWTFRBSExfRElTUFhwSFRwM19SRzl5cnRObVowVHY0UWxWNklrcVNXdFMtZ3BPU2VTX1U3UTZ3VkFpb0c0cFRjaFNEdEVxM0xFUWtUemlXWklwdUd4N1FfdUFybDBrRlFvMDdxb0N3R1Bqb9IBxAFBVV95cUxPSF8tTmtyM2FsVFFTZkRjVUo5dkFhb2ptd0NtSERTczFrNDlMa0tLendXRFF4WHNpTDl2OGRBQXVmTFpmMGttUEpIek9hMUh6bDQ0NzJpS1lZMWVpWXNkTy1PMk1iWksyaG5ZWFNSWFJtRS14NFZSX1VVdXpjZGpQc29sa3Ryc3pRek41XzN0WmFvRDRybVVHa0ZaaVNmeDZTZ2dnN1RTWXpPREFPMFYtMXVSU185WmRJX0V6M2JyZlJmWTlk?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Tue, 27 Jan 2026 13:22:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Can the US halt jihadist violence in Nigeria?",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKUmtZQ0tmTjBBVmU5U1JWU0xndlJueWhZZkpZUExRQU1IeXR5Q2dXa3E2YVFGT1hUYjUzbWszbkpxb2hadlVIOVBselFpNWp0S1pCUEpLNHA5M2wwTlQxNkFYTGxyY3g4ZFdjTUJTNFRDOFNJdTJwdnVR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 27 Jan 2026 10:52:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Bago Commends NAF For Upholding National Security",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWtoSjVGOFNRMm1xckZWTzc3V2lIeTFiOTBNaGpUYWdVS21ONjlQZFhsbDFiazBDeWNsSy1DZVFhN0wwajZycThvbElFYktLZDBKbzZ1R2dEejJTMnpvWDl2QjZ0WVQyUDRLRk5uWmtuZ1ZEenRjUGl5dnZnekd1cHdXa1owNmc?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Tue, 27 Jan 2026 10:44:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "BREAKING: Tension In Onitsha Market As Heavily Armed Policemen, Others Enforce Governor Soludo’s One-Week Shutdown",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1REWUlXdXFWT0NpV1NnQjBwZTdSMUlDMlBhUEZpaS16ek9wbXhyY3BPb3lOVi1RX3gxMVFFYktmQTdHWmZTbGZHMWNVcVR4cVV5MVNjUUU5clgzdWozTXJsYmh6ZGVNZmo1NGtPTjdIVk9YdXZLVjgtUm9qQVB4VXN4MnRkYlFmT2o1SC1JMGM1REJNMkdUT015NFRUSExYQUh6NlNNZ3MwdkJicVMyNDd2V1ZqcFZNaF83Wm1pd1dycHhG?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 27 Jan 2026 09:53:45 GMT",
+      "category": "Law Enforcement"
     }
   ]
 }
