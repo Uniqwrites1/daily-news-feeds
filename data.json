@@ -1,32 +1,74 @@
 {
-  "timestamp": "2026-02-01T06:21:33.416Z",
-  "generatedAt": "01/02/2026, 07:21:33",
+  "timestamp": "2026-02-01T09:11:26.129Z",
+  "generatedAt": "01/02/2026, 10:11:26",
   "totalHeadlines": 171,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 115,
-    "Armed Conflict": 10,
-    "Military/Security Operations": 12,
-    "Insurgency": 16,
-    "Kidnapping": 7,
+    "Security News": 117,
+    "Armed Conflict": 11,
+    "Insurgency": 12,
+    "Military/Security Operations": 13,
+    "Kidnapping": 8,
     "Traffic": 5,
-    "Law Enforcement": 4,
+    "Law Enforcement": 3,
     "Banditry": 2
   },
   "headlines": [
+    {
+      "title": "World Bank operations chief visits Nigeria to push jobs, energy reforms",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1VSUjNxeTlvcEdNWXlWaDN6aW1Ham1vRHdIM0RVVk1seWpTMGxiQ3dBSmc4MmlKVXNKQTJYcHJIbnBRMkM0LVdaY0xqT1lNaGZXLXZ1VjJsTWJBUUdBUEhHNkxBVXZPT19BeDVqWFhfZUM3a1MxakhCQzREbTJZaURNVHFPY3NJcFBDUFUwWElzQ1NMYXBRQnJXc2M?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 01 Feb 2026 09:02:18 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria Shooting Federation Unveils Roadmap For Grassroots Development",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXBPb0xZSlJNR1NwVl90aHYwbWJjNzk2aUZmc0xmbkZka0xRWjVEMVlqWWVhNDJ6QmNMekNWT1EwVm9GbnZReGhCWTZra185ZmJ6eWFmNmJYMkRaM0FBbkZ2dkozQnE4cWdRaWpYdDhQLTI2dFdSMEtyMjR6Rl9PY29KQ21lRG9UOEoyZHB2blVpN1hU?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 01 Feb 2026 08:45:04 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Troops eliminate another top Sambisa terrorists’ commander, Abu Khalid",
+      "link": "https://www.vanguardngr.com/2026/02/troops-eliminate-another-top-sambisa-terrorists-commander-abu-khalid/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 01 Feb 2026 08:04:04 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria set for electric vehicle manufacturing, eyes Africa leadership",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUld1ZGhnWUtwdDlUOHd3clk1R3R1STVmOFlFSUU1SFJqUkFBM2ZETGJDQzlmckxNNEFCcmlNMDJjSWhTcVYzNUlPUUNsS3BzOGhYZnh5NHZPdUFkQ2RUMy1nSjNHYTlwdHpiVlc3akp1R3Y2VDRTNHk1a0hEZFc0cEw0SlBJdkpyUHEyVldUZmlFTldzd3ZwZXFwX1FFNXpv?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 01 Feb 2026 07:57:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu returns after Türkiye visit, secures trade, security deals",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1hOSVBhTW43Z05jWU95VVRfeHQ1NFFCSWtfMlkwTWM4YmpFYWx6UHBEdURJcEhRalpiaUZKTlk5QVBjVUFmZ1hTRnBjdm9POWtGSElpRXYzWWg0aEt5ZHFkZ0JvMVNUSGMzelM3WEZkSkFpenNTdkpQanFRQkdGNi1DSE1qX0FTNVNCbUUyUmdsNnBfSGRqaldTNEtNNGQ5LTdGbVhtT3FXdw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 01 Feb 2026 07:25:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria must fear God to overcome insecurity in 2026 — Pastor Adeosun",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjJ3WmJwUmNWbGV3SHhONmY0QVc4aWtKNExUWTZHRUpWWGkyWXJzVVZqWU81VWdXUl83aFpENzhxRGl6MWR0M0JTNDB1V196cWktTVZkcXN2YW1yVGZ2MkYtLTJ5YzRrZ01nbUZFUENyNFhtZzNDc1YxY2hyMXBiNEFNZEpBTW5Qb29uM2p1YWMwMzJ6TFNCcXlLRS0?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sun, 01 Feb 2026 06:35:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "State Police: Kaduna, Kano, Katsina residents speak",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWFGNWlfWXRiTWdVdFlBZVFqMVQ3b3NOQkhkZjlsTkNUelptOTNwTU5LcVdkRHhkZ01mR1BrYXNXb29FTWxjX0hNTWhTUEdFUHhPUmdPTFdMQzdZNmRfa1BlZFYyTU9TVVREb3RlUGVIZDM5bzFBVXh6TnZLTWM2bEd1R0RqbXRXQzNGak83bw?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Sun, 01 Feb 2026 06:23:50 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "Why insecurity is thriving in Nigeria - Defence Minister",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEZiMkpLNno5Q0k2T1FPNXdxRGljcjg2M3dZeWxzMzV1c05NVWZGWEU2eW52Q1ZhTENzQUR2MWpIaWtnb3RKV19rQURlMk1lMkg0VmNwc3NOQklnUTBLbHBPNm51ejlFVWZDaGRBOThTY2hSeS0tY0N4WGplTXI1dWdLbkVKOG1VT1NibWZxVk5MS0x0QTA4?oc=5",
       "source": "PM News Nigeria",
       "pubDate": "Sun, 01 Feb 2026 05:46:03 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Concern grows over activities of Islamic police in Northern Nigerian states",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWRISWR6RnBsWnBuU1lDcVR6bVZtQXJzSklyVHR4WWQwT2FLeVR1VlY5elVsdHFmTXJXY2IxaXQxdENqeXI1ZFphRWtFVGg5TFhkeWVkd3k0bnBXSFpWZDZ2ODFHc1NwcU5kcEJkVnBXM3FVVEhWWGpoSGVqM2JJdl9CZ2RuT3ZZcVJiWGw0RzQ5d0paVW9fY2pPOTdfUGNiUllHcm8yYkpuM2pX?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 01 Feb 2026 05:26:28 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "suspected transnational human traffickers arrested, 14 victims rescued in Ondo",
@@ -50,18 +92,18 @@
       "category": "Insurgency"
     },
     {
+      "title": "Humanising Nigeria’s insecurity crisis",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tMDlXR01VODd6NzhVT1JNaXlIc2tVbG9FaU4yTi1zc2V0Qks5cDJWVVhxODVfSWJWaFkyY210UDB0X052UDhkLVpGSmc0ZkpHbFBOMXEybVB2OTFKQTQ3UkptZ08xVURhM0I4OUZGVlB4d0dJ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sun, 01 Feb 2026 04:35:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Devaluation Of The Green Passport: Nigeria’s Foreign Policy At The Crossroads",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3JzRDFGRzJzTDRsNENUbVRMNGE1UkcwNV9fOVZhUHQwTUVYbDFyVXlJQk1YVEozSjNKOG5OYVU5ZVZObFBSSzg5dE1CZmlwQkFyYVVLM2R1bFBOczNkQ25kMHp2aWhzRExzZ2twN2hzellVR0tjZlhYeG5fT3B0V1Y1MEZWYzhnRkQzYTVORE8xeUVtal9ZMWZSTGVCY3FK?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Sun, 01 Feb 2026 02:00:35 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "Why Governors Are Negotiating With Insurgents",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNFV3WW1GSDRRRWk3NlJ6WU14dXVPUnBnTXdCck1nVFZuODdmbDAwX1pUTkNGMHBMOS1Qa01rN2txY1BEb2c2TW5GY2NPby10SHp1ZkNXZi1OSWtESms3RURGWmVodUlaeXA4NjBaNnlTSUpJai1wUg?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sun, 01 Feb 2026 01:40:15 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "Group Applauds Nigeria’s Evolving Security Ties With US",
@@ -89,13 +131,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmJ6WWVIR0hYQV9rZHdsRHAzRGc5STBPT2hKd2hYeWpNT2ZDSWpmNEU0YURkdTVMVFhCeXZOQWhZR0d4SnFFQjFWRUkyN05VVU5oY1pORUpoV1huY24zSFltYTJ1UldReG5OTzNtcG5YdVJPRUE3WHFrSjBTVmJwSEQ5UG5Vcldfb0E?oc=5",
       "source": "Agence de Presse Africaine",
       "pubDate": "Sat, 31 Jan 2026 16:50:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian governor sacks aides, dethrones traditional rulers over deadly land dispute",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSllON1p1TEdfSHlLWktNTnZPYS1vVTdpQ0g4Q3c4dnY5THJlOFNpMWEyVWk2Wk5zWmFrTUdtd2pUbDc0SlA2dkZ6Ukl3WU1TLS1xM3hQTzRKOWw5RVdsT2hpd0lXbzliOVk1VFo2V1NZb2N3MFlFck84ajBLcG1TNW1ia3pqcDBxR3ZVQ25sLTY2Zml0U2hzUFdrcjgwU1Y0SjFUY2xsQ1NOaDhwMENiQ05DWENyajJMdlBmSW51dE5MaHRVSDhUM3IzX21VTWRBa3A4TU5xeVI?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sat, 31 Jan 2026 16:39:36 GMT",
       "category": "Security News"
     },
     {
@@ -134,18 +169,18 @@
       "category": "Security News"
     },
     {
-      "title": "Nigerians Self-Deport Amid Trump’s Deadly ICE Raids",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YaGFwcHBvSDJOREdOdjRIdXYxdGhfSU5NWWhsTzYwMDEwc0tLRjlENVY0blV4aU95Sld2OXVDcDhnWXpUWmNJYzktdkRnakVBdWxZQ3hmaVRjTTQ2eHFCT0dBamoxZGVIY01tbjl2b0N2OWFQQjJUay1tZw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sat, 31 Jan 2026 00:25:26 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "IGP Egbetokun Seeks Deeper Legislative Partnership To Strengthen Nigeria’s Border Security",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanRnbXo5T2N6S0tma1k4dEZ1dzlJbElQLTEyTVN6VkJSeEQza3NfZWFXMVFhUko0ck5RNXhqdHFvbndvcGVSck5jZnhtZjFqUkp6NERDSjZkWEdWYTlHMGRReUpiVzRXLUpJaXVxM3RWdWFPOXhKMURBT21lbThDQkpMb0F6UElqei1uTGw5bG9BSFdwUklROERfXzhsb1Rfb0xNTWhvZWN0eC1mdFB3Yg?oc=5",
       "source": "Arise News",
       "pubDate": "Fri, 30 Jan 2026 21:38:21 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "US Attack: Ningi describes strike as grave breach of Nigeria’s sovereignty",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFdxOWREX0ctNXhHR082M3RENUY2R2l6RFJHZm5Ba3dmVmZodG9zenk2NTlHdk1BR3pyS2p5bWMwMjBQX2VlODNoamZJSWRPR25sLTN3dlpvOFJLbGtRbmdyVi1wd1JJbkFkZkp2NHRnNzZ0b01QVzhXSkJtdmM2eGtKVG90VGQ5LTdGMEFmdjNTY0RGdXFPVVBoRVRjOVRjdUdQWURQbmhSN3lxenfSAbMBQVVfeXFMTUQ5bjJDT1I5M3YxRGhiR2dXRV96VFBjVHRsLXBUdkpra2tDNGV1cm4tYno1dHFBTUpNR2UyUTcyamJFcGdfRVZVa1hROEt5YXF4TDF1d25zc3FsVzlkdGVER0tUN0VnYmIyNU42VjBzOGpjXzNsU1E5VHhTUTl3YnNRbnF5UkNnWFpsdkd1bm5hVUtaNXBJTFlVRUx4eXFreXNXUGFRNWFqSFlNZEFtNzIwSVU?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Fri, 30 Jan 2026 21:33:28 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Lagos Governor Seeks Support for Security Trust Fund",
@@ -169,13 +204,6 @@
       "category": "Security News"
     },
     {
-      "title": "EIB Group Showcases Security, Tech Capabilities to Immigration Service in Abuja Tour",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUFVUllqWUEwMWpMa0tMOGJ6RXJKRURmSnV0VUZvVjNKNlRDbWhidnUwOWZRbUpmSTVNdEY5ZTZNa3QwRUF4b1RObGVvQndnTFdIdHZnUHpteFVJTTFVTjBEdWpTMU1RZTgxb0RKVEFJZ2x2a3UwVU0xTEc1R1JMR3lCaVhaZUZ2RFNuMjdRT2ZydXJSVURFUmtGdDBLSERaaDNNSXNhQ0RqUEItYmlaclBNV3k2S0pfUTJxOV9BUlQ?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Fri, 30 Jan 2026 16:38:06 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria food security struggle: gender gaps, disasters take toll",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDdQYVlNMl9Ya0twWXFPcl9mRUVaa0NuZy1GTTVKNnlDeW9VNUg2bE9BTUFvX3NLRU5LR0lCRnVoYm1adWY1ZXVmX1kwSXVpck4tcExkemZTNVBKQXpfUWJDODFKUE0zWEZmT0xXODRqMkVvSVVpcTV0Y0FvMDd6Q3JvLVJ0eDhlbFh1VTVsZTFxSVFVRUE?oc=5",
       "source": "The ICIR",
@@ -187,6 +215,13 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanN6aTJLSHcweVZWNmp4MGtlUUVhWXF2clNXaGRkLXZHUGhXR1U2NkYzYWZwOHdUNkhXZk53VjA3c0ZCMGJQc0JkVTRGRkJ1cFhXcGxHeTRxckhaX3ZlSVpTVGZFMXFQRDlGNS1pNnZ1dXZMNnhXcjl6ZXBWLTRLdVRfTjF0S3ZHN1daMVJWQlNrQVRZYWJPQW5uSS1naGEyRmxyQVV3SkVVOGFKOHU4YjAzOXpFX1hmeDJBSmVubGMwemNaZFE?oc=5",
       "source": "CSAAE",
       "pubDate": "Fri, 30 Jan 2026 15:51:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Sanwo-Olu Meets US Envoy, Explores Partnership on Food Security, Trade - Federal Ministry of Information and National Orientation",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1BuREd6Y2Q0VUxvQ0tmd1NmeHJQSnJVNjk4Qm1wTk5oTGtDYmNtRkFBZFhJZnpFV1FZbTZtZ3hBS1l6TG5oSU9nWEF3d3huLWlpeDNhWFNNUER4RGhIVDhlZXVKQjJfS1R2Qk1GUXNSejI4OGkxLVZOZjY0Qkl4UVBqOHVvbFBBMWxrV1g5aEQyV1hC?oc=5",
+      "source": "news.google.com",
+      "pubDate": "Fri, 30 Jan 2026 14:20:00 GMT",
       "category": "Security News"
     },
     {
@@ -227,9 +262,16 @@
     {
       "title": "Defining Conflicts, Strategic Shifts, And Nigeria’s Security Crossroads In 2025",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRVMXhRZllqbDQxSF9CQWVkMjN2U2o0d242SmtpV2RZYy1GbEJuX3I4RGY2SnkxRUV4Q1VlR1U2LUVWaldPRFhOTTJoZGx4R1dmR1psM2NTR29QVDU2ZjZ0YjRiRnduZXF5cUU2WkNsNEExZ2l2ZlgxOUFSbGlDal80cmV4SFFDUWpSVWZueC1faGxrVktISDE2YlNKdXB1?oc=5",
-      "source": "leadership.ng",
+      "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 30 Jan 2026 11:12:25 GMT",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "EIB Group Showcases Security, Tech Capabilities to Immigration Service in Abuja Tour",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUFVUllqWUEwMWpMa0tMOGJ6RXJKRURmSnV0VUZvVjNKNlRDbWhidnUwOWZRbUpmSTVNdEY5ZTZNa3QwRUF4b1RObGVvQndnTFdIdHZnUHpteFVJTTFVTjBEdWpTMU1RZTgxb0RKVEFJZ2x2a3UwVU0xTEc1R1JMR3lCaVhaZUZ2RFNuMjdRT2ZydXJSVURFUmtGdDBLSERaaDNNSXNhQ0RqUEItYmlaclBNV3k2S0pfUTJxOV9BUlQ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Fri, 30 Jan 2026 11:05:38 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria, UK Conclude Joint Aviation Security Review to Boost Airport Safety",
@@ -269,9 +311,16 @@
     {
       "title": "Insecurity: Nigeria, Switzerland Strengthen Defence Cooperation",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjZlMTFqalQta1lfTlZoeWxCWkVYSFBHSm1STi1vcnlTNXlvSlgzOE9TNmdlN21aeXduT0dPMFUyX0p5bGc0VVh6Wkg3VWxGTk5ueUZmU0MweGVHaWdxamNPQlBGNXNzZTJmR3lzR3pjRlVOTkk3dUN4cFRVYWJZU1BQUTYxY3JvWVg1MA?oc=5",
-      "source": "leadership.ng",
+      "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 30 Jan 2026 04:34:07 GMT",
       "category": "Military/Security Operations"
+    },
+    {
+      "title": "‘Turkiye trip will boost insurgency battle’",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKSnlZeUJ6QnlzcEpia1FDVUVGaE9FT2gtczVaVC1WMi1qV2NRR0NzMThCV05DQVdHMVl1OGFLaHFuXzExd2ZaYTdYZGJhQU91QVVoT1o5LWV4ZFhYZ29nN1ByYUpNa05HZjZDZkhlMnlseWdnSTJqSTh0OF_SAYIBQVVfeXFMTVBncG8wb2xQRGFGWDNuaTJlVE1SQ3NfVGZDb0kxOEd1V0xkTXJaaUZXUDVLR01BQ0dfaEpJM2xxampqMHlLNmkxY2wzOFl2MUJnYlVELWZ0QW8wSG41NEo2VFRCeks0d19rTnlJV2pyYVA3anNFalQtaU5YTXJYTnl3QQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 30 Jan 2026 04:18:50 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Nigeria Strengthens Defence Ties with Türkiye to Modernise Military, Says Aneke",
@@ -304,7 +353,7 @@
     {
       "title": "Unhealthy Governance Fuels Nigeria’s Security Crisis – Political Science Association President",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazgxdHdGQk5HeThqNjVDY1J1SXp5Tm9BWG1DVFdBbjI5c3UwSnRZeTFXM2Ryd1pQRmk3aTZXRnA0UXRvaHY2dldfSDVwZTNGNHRDTjFUOU43OXdtUGNhQ1oyTmFtLV9Yb3hwa041Vk1XUjNvYlNaaWVqOUx5cXY2YVpCT0tsT09relNlZFpZQUZKOW0xSzZmU2dqa2RnUDVmRktRSG9nTHA0TjRTSjYtVkhTOFc?oc=5",
-      "source": "leadership.ng",
+      "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 30 Jan 2026 01:03:28 GMT",
       "category": "Security News"
     },
@@ -314,55 +363,6 @@
       "source": "France 24",
       "pubDate": "Thu, 29 Jan 2026 22:40:39 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria, Switzerland to strengthen non-kinetic security collaboration",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3JYd3ZUVkRuYjNaUGc5RFNNYm5sOFI5VVV3NzNaUjkzMmtBTVZTR0IyaXQtU0pOa1VlN0pyS2g3UGlfQlROMlduX2gtWXpNUklxYjZKVzJBTW1aTlV3T3BsZEVJVlBhbTFYd0hpZEVBS0lHQmFZQ1VCY2hiMXVBa2hTQVk3NFRKZ1c1OVpOMDQtdVl1RWxn?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Thu, 29 Jan 2026 20:15:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Violence roiling Nigeria extends beyond religious lines, amid a deepening humanitarian crisis",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUWk9XS0VyemlOUFlySTgzQklMLVVVNWxRWng5TjVwY3lKaUxOZk9jdnlzZEotTVdUZTN6cHJnWktsR20xeEtXTm9xVWI1aXZmZEZ3SVc0bw?oc=5",
-      "source": "UN News",
-      "pubDate": "Thu, 29 Jan 2026 20:12:52 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Tinubu’s Türkiye visit shows resolve on security: Nigeria’s defense chief | Daily Sabah",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObl92dHdVMWFYYUZyM2NWUy1YQ05ZOW13QnZjZ1ViNzZCTUpqQVAtVzdQc2pZN1pQcmR1a2Q0UkF0RXhScUdhSjdKRUlUU0VjYkdJUkJOUko0RVFjNUtQa2JadHluS1NpcTcyV0VQRUFxVl8wTzM1c25KblFTSDJwMHFlbHAzZ0ViaEVGRElEczA5NTVDQ3J5WjZkLWcySEtjb3I1dWtqMEVPcUpfSzg5UFQxcTZRZFHSAbwBQVVfeXFMT1FLcnJmdzEtcmZzc1l0Wmc3d05fcU1NOWhySW9LUDNtQmlvcDZLNjk3TjE4eHhzVTVwaEJXSUEwSjROV3VkbDNZZmVoY3RPbGhqdURhZHU5NTVDQ3MyRUlNcjJ3N3NuZXkzbkZxY1otMVpHYnQ5QmdZd1JCTXlGNzdiQkNBUW9sY2lyS0pEdW1MSFBfSThLcm1QYVBfSmVKYTB0UENQeWhqZVI1RDlUODVhaDM2cFpGZU8yVjQ?oc=5",
-      "source": "Daily Sabah",
-      "pubDate": "Thu, 29 Jan 2026 18:17:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Dangote Refinery reaffirms commitment to energy security in Nigeria - APAnews",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2NIWUwxckVaeDJXS3Z4cHJJT19Ob1drTGJaXzFRS3JoWE1JdTI4Vk03Z2hsX2VRT1JyZFhMSTdBaTdjeFZVTTJtbkR2Ym8wRVp5WGxNTVpseWF5QVBBbnFRMkwyLU5IMlBRaERfQTg2WjRCSl90elRKV2dRcHJKXzB1WWNoZ1RxV05LbDE0OFdTZw?oc=5",
-      "source": "Agence de Presse Africaine",
-      "pubDate": "Thu, 29 Jan 2026 16:49:30 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "How Nigeria’s Ransom-for-Arms Pipeline Fuels Terrorism and Kidnapping",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVVMSXZnZ0hOVjA2LTA3SHY5NmpFdVpDU203SFN5VXVVeWVHV19KTWI0TG84Q08tQTVueVNXcjFlQ1E4VkNTTWt3eEJ3dDRvdEgtdEJMZHNwdjl5bVhLa2Z5WkpLLUg0TXZ5bDk3Y3VIeXlDN0NYNUVTcXRMcXhqQ21wVTVpMjVVWGxJdXVkNGd5SE1GekhhSm1WTnRWaGFWVWNZcA?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Thu, 29 Jan 2026 16:44:05 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Nigeria Will Save N5tn Annually When Importation Of Military Equipment Stops — FG",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0VkVHNDR3lnLTRoZlIzV3RzbDItZHJ5R1hPSU9FVXk3QUJibHM1SmhZdzRWNUwzRzNnUjVnWmo3dXlGMUJ4UGpmVVhzN01wc2NVSDh3aXlTRjZVNHZ4MTJfcXI1Ykx0VXI0MFBoRTZqR1JvR2xzMnFSSFJhQkUteFR0cllsY1praHNzTkM4U1MwZ0RoVVFZbHNIMjhCZVV1bm03Zlp30gGrAUFVX3lxTE5FdDJ5NUdiRk9tVFdUU2d3VUhzcnFYRXpEeDhWazlGeUhkTjVIUjlCN2NJS1dQRGM0SXBrSDlBUWdjTndXZWVVVXF3Tndqd2JPa1lFQ1h5cmdlVjlSVVFOeERBQmhqTGsxaTJucFcwbXppUmtyN1Y2MHVsaWQwM1RMZlZPZjJfVTZWMjlpMThJSFRXMkhVcEZjaS1lbWVhOHNvY0NNeF9oNy1WTQ?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Thu, 29 Jan 2026 16:07:48 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Defence Ministry Calls for Quality Standards in Export Contracts",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRnJqOEU4TXl4OGQ1Q2I4Qkd0UFhpZmpUZzVTYjdSNENxQ1hJbG9JYTA2ZGNTY0lqV0wtOVdqNi1BTzJMb3VXT29veHpwandPSHl2YjJWeFM2bE9aUV92ZktVSk84OVI1eklyLWNmelZORVFUTFNnRl82ZmNlX3NRZlI4M3pfUE45Q0V2dg?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Thu, 29 Jan 2026 16:05:50 GMT",
-      "category": "Security News"
     }
   ]
 }
