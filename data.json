@@ -1,45 +1,73 @@
 {
-  "timestamp": "2026-02-03T21:13:42.455Z",
-  "generatedAt": "03/02/2026, 22:13:42",
-  "totalHeadlines": 172,
+  "timestamp": "2026-02-04T00:31:24.724Z",
+  "generatedAt": "04/02/2026, 01:31:24",
+  "totalHeadlines": 164,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 123,
-    "Law Enforcement": 6,
-    "Military/Security Operations": 11,
-    "Armed Conflict": 8,
-    "Banditry": 6,
-    "Insurgency": 7,
-    "Traffic": 5,
-    "Kidnapping": 6
+    "Military/Security Operations": 9,
+    "Law Enforcement": 4,
+    "Banditry": 7,
+    "Insurgency": 6,
+    "Armed Conflict": 6,
+    "Traffic": 4,
+    "Kidnapping": 5
   },
   "headlines": [
+    {
+      "title": "Why coup plotters cannot be tried in a military tribunal",
+      "link": "https://www.vanguardngr.com/2026/02/why-coup-plotters-cannot-be-tried-in-a-military-tribunal/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 04 Feb 2026 00:07:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Malnutrition threatening Nigeria’s Future, HEI, Cardgoal warn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYmdaSDd3WUtRVWdXdXBWWmtpbWpCOVRaTXhmODN2eU5UUkkzUHFKVUptTzJRQXgtcUZVQ3ltR2h4UlV6UnhIcHRCSkI0QWZYWEt4QzR1ZW5EVHdDUFZVVkdPdTdobUZvNU1fMEprc0kxYkFsaWlXMGtjb3ZLNnNxcm1WQXUxQ1RIVjdVX295Z2ZYbkNLeW9JLXhqUdIBoAFBVV95cUxPbUhKNWFxcThZa2lrRVJNcDdZN2ZXekF2bk93ZVp1aDMzZ0Y5ZFJNTjVTSkF1X0VsdzEwYVlWY2xLbU1XM0UzdWpxVUs0UWx5dS1hMnRlT2ZzTjhGMUt2eDQ4UTlZX2pNZFBMcTlPenpTX05oRm5HY0xkTzZJOEJhZkotdDUzVWtlbFBqTU5DZ1BaLU56bjkwN1h4LU82THhn?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Wed, 04 Feb 2026 00:06:36 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "The US says it has deployed a small military team to Nigeria to strengthen the fight against jihadists",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ05ZZ245VWoyT0lhSEhCTDF4YXVhT1VxUnp2aUMzVUZRZGFMME1qV0VxUkpwRlNYSVZkc2R0cktaY1ZzNVp1UWRzSGF5dkN4M1F3Zk1nM1Z3Z09ZZmwwVFQ4dlR2RlFid3dPb0l2bmZMcmtCMDZLSUZ2TzltaHVWdHh5eDlKX1RBUzVFU0xfUHY1TEhLMGdzMEU3bHMxU3BKT3lLcjFxN1RScGFtMGU4R0QxUGFkLUt3S3VvcWNreXhFZmdIdHNySDVZSFdOX1ZEcXZ2ZEhWcmxDc1lpaEd0Q1hjVDAwdno1MVFlZzhBUy1JajhoZm96M2JyRnc5MzA?oc=5",
+      "source": "Le Monde.fr",
+      "pubDate": "Tue, 03 Feb 2026 23:44:06 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US Military Deploys Team To Nigeria Amid Counter-Terrorism Cooperation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3JHelJHa3pENFJzRFNjcVVjY3Z0NjlDN1gxVG84Z3R0VVRtZnFXdDFYeVQ3VUxTMFBwM0M4RTh3bDhnUjQ3U2VqM1k0TFR5SkVmQU9SMXQ4b2cxbjBhRTFXeml0cTlSSjdpSnFpc1NOdmRNUG1oTUFuWFRQTjZHalkxVFRzZlMzVE44YU9uaXA4aTNYNE9j?oc=5",
+      "source": "Arise News",
+      "pubDate": "Tue, 03 Feb 2026 22:44:07 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Son of ex-Libyan leader Muammar Gaddafi, Saif al-Islam, reportedly killed",
+      "link": "https://www.vanguardngr.com/2026/02/son-of-ex-libyan-leader-muammar-gaddafi-saif-al-islam-reportedly-killed/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Tue, 03 Feb 2026 22:04:31 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s Democracy Under Threat As Voter Turnout Slides To 27%, NCP Says",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVo3ZENFSnJKUl9pUFZ5TGJCVXNHRUR2d0djNVFCZ19nX1E4NVN0NXFFX1hmUG9kaGlEMFVKcFBYaUNuR21jZjVsYVpxV1lPblVXSUFwUkM3QVN1SGk4Um1ZV3hCSUs3RWdfb1Y3cWNDVXppZHF3aV9haUFaMTFaenYtMS1ESXVjcC1SVWRlMGgtSURiU3U5SUpvTURudXRLa2F0ejln?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 03 Feb 2026 21:53:08 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Bus accident kills at least 15 pilgrims in north-east Brazil",
+      "link": "https://www.vanguardngr.com/2026/02/bus-accident-kills-at-least-15-pilgrims-in-north-east-brazil/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Tue, 03 Feb 2026 21:32:43 +0000",
+      "category": "Traffic"
+    },
     {
       "title": "US Builds Stronger Military Ties with Nigeria Amid Rising Security Concerns",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc1lFVm5KQUpYOXpnZ0hCQy1pTEFoaUgxaUozSG15WXc5LWVTYVNCSXNVeGYwMjk0YVk2b2t3MnR6VlZRanBuNE1fS2RiUUtwTHBvVzRKS05XNWU3U05MNTgxTVJlYkplQURFRGl0SzdCQXlyb2Zybm9YaVZPNDVHdjdlQU52SUVpWEl2Z193TFAwQlF6eUktMnhYekVtcEtmdU1kY3hTVFpqOTJ5NHgxbkcwMXRFMHpjZVVkUVZJNUE1VmkweVZ1VC1R0gHPAUFVX3lxTE44UmZpUzhRVS1vR3FHMkx1bkhfSGhCWEluVkZkSzA1WjdqU3JOQU5HVlFPbzNzQTdNZ3BDd0wzdXlvRkVOcUlzT1B5OUhGLUZ3RGg0aUVoYXpHQ1RtTjlyZGw5WUc3X1hoR29CaUhHMXpNN0JxNzAyUHlwS0h3eDYyYmM3dm1wOVZvV2tDMGlzRXdNak9sd1d4TUI4SFA5N0xBaUFMZXdVY3V2ZV9tMkJOZzZfQ0RkTjZlOTkwazlhVGxuMkVRYnhQVkwtQmx0VQ?oc=5",
       "source": "Devdiscourse",
       "pubDate": "Tue, 03 Feb 2026 21:02:21 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Bayelsa: Outrage over 24-year-old’s death after release from police custody",
-      "link": "https://www.vanguardngr.com/2026/02/bayelsa-outrage-over-24-year-olds-death-after-release-from-police-custody/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 03 Feb 2026 20:08:44 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Army assures Onitsha Main Market traders, others of security, safety",
-      "link": "https://www.vanguardngr.com/2026/02/army-assures-onitsha-main-market-traders-others-of-security-safety/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 03 Feb 2026 19:55:09 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "C’River: Magistrates threaten Indefinite strike",
-      "link": "https://www.vanguardngr.com/2026/02/criver-magistrates-threaten-indefinite-strike/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 03 Feb 2026 19:44:11 +0000",
       "category": "Security News"
     },
     {
@@ -50,31 +78,10 @@
       "category": "Security News"
     },
     {
-      "title": "ISWAP Turns to Armed Drones",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtRnduTlo5cUpUN1pUcE14b2ZYRjRhWTQ3Nk5mYXljaUJZRXF4aHZsWWpIZFo5bnBSazF0VEszM2tQbFh0aFRPNHMxSEZzSk5NdmZJTEJyeENVSlR6MVREZ19qdmYwUzF6c0FmQ2h3?oc=5",
-      "source": "Africa Defense Forum",
-      "pubDate": "Tue, 03 Feb 2026 19:26:45 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Centre trains security personnel on hate speech, disinformation – FRCN HQ",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXFUV09nYjR0ZWVUN0xzdlpEaU52eVBpQWg0NUJHQ0gxVktaRlhyMzZCYXNqS0JkR0dYY0daMXBxX09vZ3JpQ29RUWZXWHNZNENsb2lRSllSQTllTXUxd3VxX3ZPV3JkdUdoUEhEN3NzV1Y2a3VkM29VdkJkbTNvSldmcTNWbUY1al9kRDV4aWNoS1lrUjh5Q0tZYW1mTndBYUFiZQ?oc=5",
       "source": "FRCN HQ",
       "pubDate": "Tue, 03 Feb 2026 19:16:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu directs FERMA to adopt preventive road maintenance",
-      "link": "https://www.vanguardngr.com/2026/02/tinubu-directs-ferma-to-adopt-preventive-road-maintenance/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 03 Feb 2026 19:07:58 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Death has been unkind to the 10th Senate – Akpabio",
-      "link": "https://www.vanguardngr.com/2026/02/death-has-been-unkind-to-the-10th-senate-akpabio/",
-      "source": "Idowu Bankole",
-      "pubDate": "Tue, 03 Feb 2026 18:47:47 +0000",
       "category": "Security News"
     },
     {
@@ -113,13 +120,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Africa Energy Bank to Start Operations June as Nigeria Hands Over Headquarters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHlyWEthb0lfWGs3YWpkaVJQd1JxVlRXeUkyclhJbDVHNC1rbXpRdE96a3hZSld2NnJFY0NzcGdjZVFUN09ZMUp5aGc0VkpOTU04SHRKSW1LUWlmYVR0SDNkcS1seXhyZ3NjQ1c1TTVsNElUUDlhLVlnU1BuSE5fZFJXTFhzSGExeGZlci12U1FtYXA1ZWhVenFTSHpINVhCRXFTY3pSeU4xLVkxd1gxZw?oc=5",
-      "source": "Business Post Nigeria",
-      "pubDate": "Tue, 03 Feb 2026 14:40:27 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "What to know as African Energy Bank begins operations in Nigeria by April",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVoxNFAtVHdVQVRvWmhjLVZlZlFUWTByRmVzNnp1YldhS0RBTEtCUlkzVDJIZks5Tk95WXJOeTZvVzA4a3RYYXZUbzMzaDQ1V1JYYy1NckpwVGVVUTJDWXlBS0xqWGhtSzFCUlBTOW81LU95TzBpV094ZG5aZmw5RXJ3aHpSTzhCTkNNYnZvSjlERFA5ZzJ2a3JJa3dRUm5sRXQtag?oc=5",
       "source": "The ICIR",
@@ -132,20 +132,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Tue, 03 Feb 2026 14:35:40 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria’s fintech regulators seen as neutral referees, not roadblocks, new CBN report finds",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN0N4R3FrQTIzdHA2X01oZXVSMENfdE9DVjZpdTJDT0xGVXRpZTg3TG1nVU9POTE5QmpybXhzcVBsRVNVYUJlY3c4ZDVPZk1DX2lTTHQ5RzRDNzVfQXFlUEVjaGVUY3Q4enlXM1NqeE16dnBfRGJQa2FyYnhoV3Y1S0hreXlzLU44dnMyLVRBYw?oc=5",
-      "source": "Techpoint Africa",
-      "pubDate": "Tue, 03 Feb 2026 14:22:48 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "US arrests 79 Nigerians in ‘worst of the worst’ immigration crackdown",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQazlVYldVMkhwMm9qZ3NvWUpKdm5qdjZLSjdfcWFFbVlLYnpFVll0bGFaUUY4VWc1aHdkQXdwQ2hwemhPdUxFd3hRQU5pVTZqbjJKU3NmWnlmbmxZVHhYWVR5NlZPY0hmem1FRnZtOFFKM1JscF9zcFJRanBId2FtVTBXdDNldDh2bWw4Ui12bUFHcUc2VEJKZWh0aFY?oc=5",
-      "source": "The ICIR",
-      "pubDate": "Tue, 03 Feb 2026 14:06:45 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Third snake bite death sparks fear in FCT",
@@ -162,18 +148,18 @@
       "category": "Security News"
     },
     {
-      "title": "AFRICA/NIGERIA - Bishop of Sokoto: “Every day there are massacres in Nigeria: How can such a country move forward?”",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRHNVVDhpSUxUd3ctWDltWk9VNmZUbWtIaGNkbUlHbWhFU3diVVRQdUE3SXNxWFQxek5PRHgtTDR6Zkx0blZTS1AzcXdIXzE4NVlBN3VpRUxZeUlxSkJWVnM0aTMydGNuV0hWSi1yXy1tanhKMmNxX21YTjVzS2VtTG1qckJLeE1EbjdOZDA0eTlqeC05a3k2bXlsTTV6YVo4al9uLU05aFVNMUJhY1ZURGJrc1Vwam1UZ0w4eHNjalY5MHc0Yy1MRDhOY1BLZll4S1hOY3BVZDNxaUxF?oc=5",
-      "source": "Agenzia Fides",
-      "pubDate": "Tue, 03 Feb 2026 12:42:50 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Anger in Bayelsa as police allegedly torture man to death",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZm9kXzI1NFFiUGxLNzBkaFBBNG92ZlRNbDJMZzNJUDB2b01xRG1BYWhnVWoySW43RGE3Tl9CZ19tTmY1blRHbE5kc24wNGtkekVDaHl3MzFiM1AxNzR2X0M1YlZodmxPX3VWQzUtbVV2WjFuZXU0WGJUMDl4MzB0d0hNRVUyZm5xQkQ0YUFpbHVWOC1aZmlFMi1vSW82QQ?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Tue, 03 Feb 2026 12:40:00 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Christian Persecution in Nigeria: From Bandit Massacres to US Strikes – A Call for Global Solidarity",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWC04NHFoRjA0dkx6dm4tWWx5aWlqdkJVN1dwNWI5ZUlyV0FaUTBLSGxrbW1IVzJ1azdJUU1jZUFJX3RCZXlhTXhuZDBHVFpTcW81ZmhJY1JyeGVsRVZxVXFSRWxOR28xN3FpUVgtYzNFazY2TS0xOTlsWjdpcnRjUU96LUpwUU5NckpJNlBHVVNnZy1zM1ZQdGs4YXdNUmVwUk5sMEpiLVdQSVg1b2JKNzRqa0RFRHlwQ2J4YVpkWQ?oc=5",
+      "source": "Kogi Reports",
+      "pubDate": "Tue, 03 Feb 2026 12:31:00 GMT",
+      "category": "Banditry"
     },
     {
       "title": "Bandits Kill One, Abduct Several Others in Attacks on Communities in Nigeria’s Kontagora Catholic Diocese",
@@ -281,13 +267,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigerian army announces death of Boko Haram commander Abu Khalid",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2l0YWpyV2VoMkJPcFdYeW1XZlgyNnFzWlJCWmJWRzU0SDJtY25JN2pORFVwTHhnV1UyV0lRM24wTVNIZ0dFSnFEa1J3UDYySXZkQUptRG5IQ0FlUl9ad2RHeUFfNS1yUE9DMTZMMVlWdzc0RGtfdy1fS3RVWERvR2NnN0tvYS1sVTJYdlRFcG56OUxEeHE4Wm55dVctSWppXzk0aVJn0gGrAUFVX3lxTE1CUDluNFFkVW9nUmVQZkJfcFJ3MFFkVVVod19lN2F4b21OajNBWE9oYmp1bWdDOUp6S1hhTkxVY0hsVVdZYkt3YWZabG1MWC1zS3ViRVVQZ283eVBadTJGT3dCZmxfRXJEYmh6OW1DWE1TVW9PbWpWU3VjTjVheUdTQW5VY3pjMWdNVmItemdkcVYxU1NMT2ZqNUVXRkFDOGRON1FyYVZpeHdjdw?oc=5",
-      "source": "africanews.com",
-      "pubDate": "Mon, 02 Feb 2026 16:09:52 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "NCDC seeks structured private sector co-investment to strengthen Nigeria’s health security",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWxhdjAyRHB2MkNVcFQ2ZEEyX2xuMGU4S3RHbG8zZ3B3UXRmdGI0elRGLUppUnRSbEZuejVCcS1wbTV0Z1lJY050NUZZWE95cngxRTk5a2xiV2lDcXA4eGtLX3hFbnNJczhZcWN3S0RsbVpPZWtxbW9DVFNfNkZ5Mm1kUmwwdFI3cERlQ3plLXRON3docDhUeWFaXzZOWS1YaVI1djA5Y0NDTEpQaXNXU2VTdw?oc=5",
       "source": "Peoples Gazette Nigeria",
@@ -362,6 +341,27 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3lib3dIa2ZSLU9rVkdTQVMxTmRnSVlGdXRIaWtLZV9aUFNFWmpWRV9OX2lucklXNGdkRnprVTNPZUVQc3FmOElsVmpGcUN6VHl2SzE2UjVMa2c0eEJQZnpFa3hWbXdUU1piRTlhWmtBdEkzT3R2YVdWU2p4X1Q1MUlqV3pNNkU3MkRaTFI5NXhkbDlDTXpXU1NoWkkwTFFVM0dRUXJjX2dpV3M0UVlEVmRQT0k2MXhFVUZ6c1ZKNFFtd9IBxwFBVV95cUxNb0xPTmU1dE01bTdJMHoxYTRVcGtib3dIS2VuNmEtM1NOU2RmSHVrNTYxdHZLMzRqeWgzb3FzNnQ1TjNhZHA5dDhqWXZaaWZDWDU3R2IyU1I4UHpnUENaZHBycEtXUXBWLXY0Z3JCdEZzUC1zVnF5Ui1FdTN6eUJsV3hJUi1fbF96MnVWOEdTV1QxcW9Qd1FxbkViTzlIekktZWhxRTdpaTczRzU5c042SFo2QTl0TkduNlg5d04wekowYXdBSzRz?oc=5",
       "source": "Channels Television",
       "pubDate": "Sun, 01 Feb 2026 20:51:29 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NATIONAL STATEMENT AT THE CONFERENCE ON SECURITY SITUATION, OPERATIONAL CHALLENGES AND FUTURE RISK TRAJECTORIES IN WEST AFRICA AND THE SAHEL, ACCRA, GHANA",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVW1QblF2V2IwUXNrZ3lKUk1CTHJnaUh2MDg2bkhvOUw3aGVFdDZWMnVWaXVNTU4tczVJTndYY0k1MHU4NEtGNlZYVjRlQTJyT2xoVE85c0dfTkJPYW53WTdyWDRuMEM0NnZtZTZnWG5QREpJcnBlaGZEZW9sYThrM1hCb2M2dFUzNFNBMTFJaVRuOW9IdnUteGM0S0hzZk9YTjVwT0Jqdl8tYTlUNEExNGhreTBncXZfdzhDZTVuMFJBZHhmWEVSd3NrTmNCMm1jY1pnUEZ2S3ZUTlRFMG5POHNvcENkbThMQ1lSY2RyR0JtLTM3dHg1LTJVMWFwbkRzeTE2TFoyQ05CUQ?oc=5",
+      "source": "The State House, Abuja",
+      "pubDate": "Sun, 01 Feb 2026 18:37:25 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Security Expert Faults Training Patterns Of Enugu Forest Guards",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVRYbGRUS3lheGhVMVZSQVRPX1pWRUNzZGJaTjdpNnNveFF1QVVhX1BlN01OSTFCVm5zbmsxSFU5clc1akNmamJxWEZVbjhxT0FaY2FUcUFhREhtTHA1bTE1WWxhNTgwNldrWUdwNEZyM21TNTJYa3VNLW05YUZPa0xENEIzblRrTm9od2EycGTSAZYBQVVfeXFMTWNhRWtFRnBIdkpMNHEwR3BoT0djVDY1WlNseHcxY0l6eDBtbElIWWpDakNiY2llRVM4Y1V6ZVZZdGVQNEFyYVo4LW1FUlZHbTRTTF9RaGtUVEdPaEw5Yjk4V25ZaDNJQUw3OWlfRGdwUnNFZHh4NzctZmlxWXJWWWpPSzBlMFAtWTktYTkwTjZQUXhTSHZB?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sun, 01 Feb 2026 15:03:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Balami: Aeronautics Varsity to Boost Nigeria’s Security, Cut Foreign Dependence",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2xzWENLRmI2emZQNnBrd0JhZFVVX3ozcTZqWmtMVDhhWWdNWEVfdno5dDEzZlAyX0ZqTndCQTBSc3lGek4zTFBNbG5BaW5CWmItZWhXTmhQRnIxYi1kLWtIdHM0Y0hxUk9yZVNIdldXenFPbUNLcFV0Z0pTSGVNcE1xeHA4b0djc3JVYl9zSTNRdXFUUk5yR2VacnJuOG1seGtLNVdKWWFGMlMyeG1KdW5aai14Szg?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sun, 01 Feb 2026 14:49:09 GMT",
       "category": "Security News"
     }
   ]
