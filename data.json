@@ -1,23 +1,100 @@
 {
-  "timestamp": "2026-02-12T09:21:37.390Z",
-  "generatedAt": "12/02/2026, 10:21:37",
-  "totalHeadlines": 151,
+  "timestamp": "2026-02-12T12:19:38.432Z",
+  "generatedAt": "12/02/2026, 13:19:38",
+  "totalHeadlines": 152,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Insurgency": 7,
     "Security News": 107,
-    "Armed Conflict": 11,
-    "Military/Security Operations": 9,
-    "Kidnapping": 6,
-    "Law Enforcement": 6,
-    "Traffic": 3,
-    "Banditry": 2
+    "Insurgency": 6,
+    "Law Enforcement": 5,
+    "Armed Conflict": 10,
+    "Military/Security Operations": 11,
+    "Kidnapping": 7,
+    "Traffic": 5,
+    "Banditry": 1
   },
   "headlines": [
     {
+      "title": "Trucks kills motorist, injures wife in Lagos road crash",
+      "link": "https://www.vanguardngr.com/2026/02/trucks-kills-motorist-injures-wife-in-lagos-road-crash/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 12 Feb 2026 11:22:23 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Five Arab Israelis shot dead",
+      "link": "https://www.vanguardngr.com/2026/02/five-arab-israelis-shot-dead/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 12 Feb 2026 11:18:30 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s edible oil producers seek protection as import surge threatens local market",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkQ3Z0tZYzUtRGljdUNSTmNFYWpHOE1ndjkwYjZnWm4wRHl3X01famtvVFpxSG1SLXJTSHltY3J4NllKUVJCM3cwMFRzUk0zRS1FaGxBY3Q3YUxnSXNLbXdqZlhhTmRvakZ6Ry1YdTRKYXNnVFVFcnpRSkNiUlJFZWpQdjVydXB6ZFlCWGRrdGxqY1Q2X1pNOV9WRmhlUUh6RlRtTExnUVdLVlJXV1FmWWJBR1NSTzZnU1N6bkxR?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Thu, 12 Feb 2026 11:16:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Membership card linking “terrorist” to Nigerian president’s political party is fake",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pX2RLekR3WDF0MS1XVDRWbk9rVGs2eHU1c2Q1XzN6QV9OcndJSV9icTNVRWs3cUh1dFpTZF8wQWR6S3FXdjMwTWlpUEkyVG5BakNQLWNrcWg?oc=5",
+      "source": "AFP Fact Check",
+      "pubDate": "Thu, 12 Feb 2026 11:00:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Troops rescue eight abducted wedding guests in Kano",
+      "link": "https://www.vanguardngr.com/2026/02/troops-rescue-eight-abducted-wedding-guests-in-kano-katsina-joint-operation/",
+      "source": "Ayobami",
+      "pubDate": "Thu, 12 Feb 2026 10:36:53 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Open Letter to the President of the Senate: Police pension reform is a test of justice, leadership and national security",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQlphQWpCT1gwNVZNSlZGSnhQY1E3MkROcDViY3VTTUpDenVQWkVHMUF3UW80akVoaTBiQ1JINlZNV1FtdTFNYVJrd0FrcnFnQUNld2xDRXF0SE4wbUN6RUh0OS0zM21BcHVuYmhUdHRBRXdFdmx2RVVUWFA3dTNtU05MdVVwX29ab05Xekgwa0RIb085WUs3ZTVCUzVZenFKTkxDWWJENFdYNkhOWUhwemwybDZEbGpJUnRVWW1iNW9qU3Rxc0QtWlZFemF1ZTREd3N2UGlGeFNrdw?oc=5",
+      "source": "TheNiche",
+      "pubDate": "Thu, 12 Feb 2026 10:10:11 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Anambra Intensifies Security Crackdown, Dismantles Criminal Camps",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzFyWVRTX3htZE40QWNUcklFQU1wOGRUZkV1aThQNlREbHlaSkEyanFPV1dvLXZvaXdIWmNjY2k1Szk4VUhjd20weFBmOVhEdGFaYjRINFdsOUU0bndJSFZRYmVKcEVXUjNOQ2RJaHU3WkEzX29LWW5VNnFIVlFiZE9yMlE3MlF0MVVCNQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Thu, 12 Feb 2026 09:51:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US bill targets illegal Chinese mining operations in Nigeria for ‘funding Fulani militias’",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVdrQ294ZERpMnpKT1BQUmpWOHpNN0xZOTNCYUlaRDBSS3I3RmFzc2gzMXYzaVRyd05nYWU1TFhXNTl2N3hweVBXZkl5RkJGa3VsZUNCdi1IZU9FMGs0OVlOQ3VHaTBaTzZfalM0blQ3eGdtX0xEeUV2SHczOXNsazlfNjRweDJ5cEJQZjFfNXNvWkE0bkpsalp1YXBkUTk2aWtQd1hUaG4yZC1mY1pSd3Nn?oc=5",
+      "source": "TheCable",
+      "pubDate": "Thu, 12 Feb 2026 09:49:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Police summon PREMIUM TIMES reporter in Kano",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjVBNGo3OGpRaUxFUE9Cb0RkX3Izdm1kTjd5ZnFZQ2o1cXFYUENYVEV5WFgxSjg5ZWJ0TWk3UnAzQXFSUkpSWnB3NDZFUHN1c1RFSTVFRHZZS0RrNngwblo1Qm9INGhXU09UTUFfcDJSa1YyM0RvWnRRQmUyMEM1dllDbzU3alZmZ0RCYXdXa0xhZGFkNlc3VEdsNGxzbHNPUmRMUw?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Thu, 12 Feb 2026 09:22:30 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria’s Blood, Resources Helped To Prevent Liberia From Collapse – Army Chief",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbDFVbTU1cmNYZVpoUnRSeFQtOTd3T1JxSkdseXprVVBRNjNYblJWMmIyU0tmUU9yU0Q0RWhhSzdvcEVzRnhyMmZMS1g4eG9fZ2hoZFVSdlkyTFJSWEljSmhZX0FpNGs0V1hfMFdnU2JIejA5dXNmQVdHYkpjdzNGeEJ0YmxwYjZZZWR2VVc4ZFBGSDRjekJnTXNSVUZDSkU?oc=5",
+      "source": "leadership.ng",
+      "pubDate": "Thu, 12 Feb 2026 09:19:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "COAS: Nigeria remains dependable partner in tackling transnational security threats",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1RFUk8wRDFaZUpTdVVZdTZWMFZVUHlNY0ptcXI3OWZ2U2pqS0ZZZHI5cDZZMk5tUjRhUVlGa3hmVFFib0FfcmxUR0pyazFqbF9tMWpuU0VQSFlweHFHc0pLM0s3Q2NGUm5QeWh1WllzZTJKOFd4eUs3SDN1SHEwY3RIMklteTE1VHVRMGVuRlNXRWdoam1DbmdseGpQelpKMHlZaWlvUzZqUm5melhIWTdfb9IBuAFBVV95cUxON3RlaGM1aDZnZW5DUnpJeDd4TDVlODNhRHcyaWJVeTJQcWZQNnFiQVlkZV84dlBIMk5OUU5nRjl4VmNYZG9LeHVkaVByd1ZEWXpCdFpfWS1hOEl5UWFQbUlHR3R4c3pmcWRXbHBfLVdlckRDMkdZYllhbTJzbWQ3Q0ZQMUdSYnV0SHU4aGVIbU5scFBPYlBNTy1vY0d4b1dEcEVKVzl3WXRwWFQ1U1JXN3Yzc0RMUTZR?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Thu, 12 Feb 2026 09:12:52 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Violence Claimed 4,654 Lives, 3,141 Kidnapped In 2025 – Report",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOTFjTHhnTEVLNE5GRHFkUXQwNGNKTXN1aFktRmg4VjdmVC1LNTZzMUlvR203Rjc0ZXdpZTRRNVlXZFdrVEJhd2xsZ3BTLW1rMDBDQ20wdUxnUlJwWlF1dW9PTjloLWE2T3BWWWVIM3hLVHVpb1R3dFpwM085ZlVFTG10T19iTzg?oc=5",
-      "source": "LEADERSHIP Newspapers",
+      "source": "leadership.ng",
       "pubDate": "Thu, 12 Feb 2026 09:01:06 GMT",
       "category": "Kidnapping"
     },
@@ -50,27 +127,6 @@
       "category": "Traffic"
     },
     {
-      "title": "Muslim group condemns attacks in Kwara, urges proactive security measures",
-      "link": "https://www.vanguardngr.com/2026/02/muslim-group-condemns-attacks-in-kwara-urges-proactive-security-measures/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Thu, 12 Feb 2026 07:13:00 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Canada probes mass shooter’s past interactions with police, health system",
-      "link": "https://www.vanguardngr.com/2026/02/canada-probes-mass-shooters-past-interactions-with-police-health-system/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 12 Feb 2026 07:09:09 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Kidnappers abduct Police officer, 4 others in Edo",
-      "link": "https://www.vanguardngr.com/2026/02/kidnappers-abduct-police-officer-4-others-in-edo/",
-      "source": "Idowu Bankole",
-      "pubDate": "Thu, 12 Feb 2026 06:43:37 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "U.S. to Deploy 200 Troops to Train Nigerian Military",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BcW16QlRCTE9kX3ZobWVqWjd3NXotaDRjYjRnQ3paeWtZTzhIS0dudWdOdE9Ma3BtUGtqZXJBSnNwSHg2X1BLTGl3QTlTMFZaYmZGTF9VT2Q5OWtET1BUbk85VGY4X1ZTcXdV?oc=5",
       "source": "allAfrica.com",
@@ -99,17 +155,17 @@
       "category": "Security News"
     },
     {
-      "title": "Bandits kill two police inspectors, four civilians in Benue attack",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzlSdjBjRWN1MEp0cHRtb2tEdE9zV05BdThZVmNTbWNYQktYNnp1S3BmV0c5M2dEdkQ3N3Y5NGFtbGhsU0I0M0paZGx3RG1qSm1yeXBtdUN3dTlBeEFzU185QWVkdDV6QmZHcmhwU1E0UVNMMDFZOVhoM09iQ1FIZTVoeW1zaUMzZWtWSDNwOE1NMlJrRnhzZzlwLTFtZnRBZVNoNFEzZGU?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 12 Feb 2026 04:47:00 GMT",
-      "category": "Banditry"
-    },
-    {
       "title": "Post-Harvest Crisis: Farmers’ Incomes, Food Supply Under Threat",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEdDYlpzWmhkMXlpejNFd3FIOXZDNlNXdHJ6bllKWW8wdXA3U2NnWVFrd04yNXFmVlNjQUxKYkR6YVBVSVRpb3gtaEVuMExldWdrY2s4YUk5TzRZcVBEYWRJZWxwejUwNGJVRElkak5HeUlCVDJvWGNCWFBoS0xfdzhCajUtc1ZreTNwaw?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Thu, 12 Feb 2026 04:18:49 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG leverages technology to tackle school threats",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU2pWaS1FOF9WdmhsS1VQdjYtRDZPcjAzajBWMVNVN3RSX0FhdGo3NDJqWXBnc1BlVTByQmtZN2lBWnBleVlfRTkzaWFBNGlkTkcwZjV3cmNNeFAwa0VQMl90VEZuQXQtVEJqbTJmMlZzSWM2WjFMamI5QUZibHAweHJHRFNSQQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 12 Feb 2026 04:12:00 GMT",
       "category": "Security News"
     },
     {
@@ -123,7 +179,7 @@
       "title": "Dawes Island Ruling is a Judicial Overreach Threatening Nigeria’s Marginal Field Reform, AEC Laments",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYVBxQTR0SXJ1V3ZsZzZ2YlNIR21VeXFYUTJfMThuSGRtUnAzWTU1VjVRcFNqamlLX29MTGVabEt1ZUU0ZHg0NDFvd2hmcHpnc0NLdC16Wm9rRHpDdkxuY1BqVHZBeXJpeVlWN1htYl95cktyNFZrRVJYbzBzWnhjVF9CTTBWc19hdDNqTHJfTG93S2ExektBTC1tTTI2aXJqeWJwMVNZZVFOdE5mZV9LT2lNYzBlWS1ldXpUaWNHemZuWmREaDNoMHhDVm9LZTRUY0F6NDV0VWcwVk54UnZiTUliMkpxM1pDZzVJ?oc=5",
       "source": "africaoilgasreport.com",
-      "pubDate": "Thu, 12 Feb 2026 03:39:15 GMT",
+      "pubDate": "Thu, 12 Feb 2026 03:44:08 GMT",
       "category": "Security News"
     },
     {
@@ -132,20 +188,6 @@
       "source": "Blueprint Newspapers",
       "pubDate": "Thu, 12 Feb 2026 03:29:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "FG leverages technology to tackle school threats",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU2pWaS1FOF9WdmhsS1VQdjYtRDZPcjAzajBWMVNVN3RSX0FhdGo3NDJqWXBnc1BlVTByQmtZN2lBWnBleVlfRTkzaWFBNGlkTkcwZjV3cmNNeFAwa0VQMl90VEZuQXQtVEJqbTJmMlZzSWM2WjFMamI5QUZibHAweHJHRFNSQQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 12 Feb 2026 03:28:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Police Have No Role in Debt Recovery - PWAN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3hSQ2pKX2ZwSEVqVHpQeV9SLTJsV0VRbE1BR183U0d0Q1N5aW5UdDhaRXBxZTh4RnlXaldra3c3azl4Sy1icHlGN09RVUJTQk1vWGdma2ZYNjVxWFkzMWVQZi1jTGg4Um5HRldFUlhWSGl1ZFlLY3hmNVRXUnlNSjZ4dE5zNWdQWkU0cmFUQkJuWjRsakozZmFn?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Thu, 12 Feb 2026 03:14:00 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Stakeholders solicit deeper Nigeria–China partnership anchored on global south cooperation",
@@ -165,7 +207,7 @@
       "title": "FG vows continuous security presence to stem school attacks",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2dheVRfcnZQNVpjcU0wSVhmaWxLQ3ZZVXZkVnI4eEY5UEF3SmJFWGdBblNydGhpQTh2bG5RaElINWZBeGU1ZVh2TERuSUphazYycHRVXzc5RlpTV3hMWW1pS2JuN19rcF85cGVPTm5Xck9FLVpKR25lNlNELW9mM1JTejBBTGs?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Wed, 11 Feb 2026 23:34:30 GMT",
+      "pubDate": "Wed, 11 Feb 2026 23:38:45 GMT",
       "category": "Armed Conflict"
     },
     {
@@ -218,13 +260,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigeria remains dependable partner in tackling transnational security threats – COAS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlFNV3A3dFFQQ2RURDlYQXhmdEJnSmtJZjJjQU14VkNUTkpvMWVkSGdObVN0UTNZRVZVUUpCMGVCVW41S2VxMk02VlBjLXNMc2pidnQ5VkRLaUdFMDRlMWpDby11Q2hiaUFhcVNMQ3NaQkVTd0dLYzhob1FZd28yMWpiNlB5bndnSXM4eWtXQnphUUF4M290bnp1eFJ5VDhFaHo1ZTM3Uk9ESU9CVDloVHNMNNIBuAFBVV95cUxQQTRFYVc4Z0xBcXVzckFlbmhjMlJzeUN2RHVZV0VzQmdudXozNmw5VVJnVlZITm9SY1BEQ2ljUjMxQ2NqcmU5OVowREhVQzNRaFNQd0ZQN1hOSzlJYm4wT2FlOWxNam1GRTlOTGNLSmF5akpCbFNMWHhLd0s0ZWZzRE5GUURVMkNsREg1X29ab24zbFgxT0FKcmEya3B3V2FvLXhZbW1iTlUtNFNYc3lWYmFxU0xtSjhZ?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Wed, 11 Feb 2026 18:10:36 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Kogi Govt Set To Sanction Churches Violating Security Protocols",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDNBUDZfVUNjWEdTUHdPbmpZcDNXeEZnVDZzWlVaVjRzaUVDdS1faVdvb3lIVVRKOEkyeTFFM0RFMWhGT1YtYl9pVEFOMzJpS2t6WUpPbTg3SDNaM2ZGZ29TS2pMRE4ySTRVTkFwcVRKZ1JLbWh4cTVtamxvWUtPWUtEdHloTGxmczNIZXVEZi0?oc=5",
       "source": "Independent Newspaper Nigeria",
@@ -255,7 +290,7 @@
     {
       "title": "COAS Shaibu Reaffirms Nigeria’s Strategic Security Leadership In West Africa",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjk3bDdtVFRwa3BRTmdNZXR1MkZNWEQzYUMwbnl3dk5JMlhZRjY1VjJuODFXeWtqUFR5ZWVxdThmSFhLUzRSOXhFaEFrX20tSHlZTWpXcV9zYWFRckRLVFVkU3ZvQ0pYYjl5R3oxVzVPWWFzZVRBMkRjZjZYSlZXbkswU3oxUFViSjEzb0VEUWdZSmZfXzAyTFlJMFFURnM?oc=5",
-      "source": "LEADERSHIP Newspapers",
+      "source": "leadership.ng",
       "pubDate": "Wed, 11 Feb 2026 14:39:48 GMT",
       "category": "Security News"
     },
@@ -323,45 +358,10 @@
       "category": "Security News"
     },
     {
-      "title": "Insecurity: What I’d do differently if I were president — Sowore",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0k1VjdtOERKRk82dXptSjMtZGJxSVJHcC1SRzk4cHRtVENaaE5jUktxcHZrYk05ZkNMekRlcGV5bkgxSHlnQlpPejVGcjZXQU1rMFNIVFNrRWtTWWR5TV9iZUJpM0Y4Uldma1FLZkNIdmlpY2pQY3k1RncwQm9pMkNjby1OekxJQkxuQkFaU3J1R3NMcVpHZ1FnWV8xd9IBowFBVV95cUxNU3lrTlllaTR1QTAxNFA3bjBRWXpkaWFqbXZtV2x6Y2JjYVdJTU5wYXZSV01NaS1kZzR3QXFGMXdSdHJfUThoTDc1eTMxNmVpWl9WRkZGWWJMNUNXSFptWUtlR1M4QmZURWc2aWZQc1paSzdRbk5JUXpyQnh2TWxQNm1sVVgyQS1PY1ZFUGREbUFjTzZOYm5EYXM0OUh4b1pJVHB3?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Wed, 11 Feb 2026 08:40:03 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Insecurity: Underfunding security agencies risky, NASS warns FG",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVFiVVZIWEc5eHE1RkdPR3gtZ1diQUVJbkh2bkdMbFJTWnkwSWlDWnM3amtVbjNrZmYzTmRITDVNOXJKZ05vMVFzRVg5R0RUZ1pmSTNFY01jQXdoM3M3dUU3dEJsdzF3aFhNM3lJdU94T19xcFNzQkdWRGswYVlYLVA2U2NCZHA5dnQxdVVtelZvMmM?oc=5",
       "source": "ThePointNG",
       "pubDate": "Wed, 11 Feb 2026 08:26:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Edo NUJ Commends 4 Brigade Nigerian Army for Combat Readiness, Security Gains",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nT2E3R0p6Vml3VXZNQ2VvM0FFelZja0dRMzhCRGJ4bk5ETS11enlHZG5pTWJ6b05WN1pOSlNxbG5aVUNmNkFMVkVsQWNSVzZ5bktMdDcxdWZGdUF5cVBIQzh0Rlk2NEdLaUE?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Wed, 11 Feb 2026 08:09:51 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Police, NSA harp on joint operations, intelligence sharing",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2c1Vm04VVVBWThMZ3JWa05UaGNLRFJlWlFVQXBzcWcxenNQNVB2WEctUVQzVHEyTXR3bElJRVJOUVAwTTBQWFlGbzZ4d2JUaUlUTFJCZHFmcjE0T25zYkpLZDJWbEZKWDgwaW9lSjdwUm5mOHJHS2FWbzNKaFp3TVlZV1BTTDdjM0E?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 11 Feb 2026 06:18:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "CDS seeks urgent police, civil defence overhaul as military warns of capacity limits",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXl0WVlmNEhjM1BtbURDV1NFcVhPUWtVbVlQejFBRUdwTnllUURmSnRlWXJ2dlBzYV9ZTmo3WmZVcjZ2ckNUTWNiWGVqRU9vMTF3OXROVW5OYjVNdUtoaGpxOHFUZDRlaVliV19nb0d0VGROdFkzZFozQUpONGZ0R2hQbWxOU1lwRDg5alVSMnNrMmJtaUx4VmIzRGt0WW9Rb19QVE5JdVZYZlh5aFI2N0dQSVlEOThVbWpOMtIBwgFBVV95cUxPZ3JNZEJJUUFBbTUwdDZacW1hUE1MVzJWcGV2WTk3ZFl0UC1JRGtpRGt5UGJmX25jNVVwM0g2cnNBaGpCSUVNLThya21nSGxuc3lGMTNvM1dURW95dzZzUDc1bURqdldYQy1RV3JycGwzRFpiTnRIM05GaEdLR2hXSXhoeElvaG14OUNOa3E5S2Y4MWhvWTJlTnN2VFR0VGE0cnZmVEJoaW0zWDdFQ0xub0ZhancwQjQ0MDl5RjdkMC1NUQ?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Wed, 11 Feb 2026 03:08:03 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Oluwo flags US interference in Nigeria’s security",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52YmdoQ0pCaW9OQW5yUUxRcmpGUXFzbmZGNkdUNUc3LUp5QWdJS3p1eXoyZ3IwUVFvZXVIUEEzcWhMOUZQWmtnTEVUc0tpT1NCRlNkQXo0UDQxUU94QVo1RF8wOXdsdzJOTHU3YmNsZWZwYlNLSkRlWg?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Tue, 10 Feb 2026 23:51:16 GMT",
       "category": "Security News"
     }
   ]
