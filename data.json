@@ -1,19 +1,47 @@
 {
-  "timestamp": "2026-02-12T21:12:43.555Z",
-  "generatedAt": "12/02/2026, 22:12:43",
-  "totalHeadlines": 156,
+  "timestamp": "2026-02-13T00:36:39.648Z",
+  "generatedAt": "13/02/2026, 01:36:39",
+  "totalHeadlines": 153,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 105,
+    "Armed Conflict": 11,
+    "Security News": 103,
     "Insurgency": 6,
-    "Armed Conflict": 12,
-    "Law Enforcement": 9,
-    "Kidnapping": 5,
-    "Military/Security Operations": 12,
-    "Traffic": 5,
+    "Law Enforcement": 11,
+    "Military/Security Operations": 9,
+    "Traffic": 4,
+    "Kidnapping": 7,
     "Banditry": 2
   },
   "headlines": [
+    {
+      "title": "Nigeria customs partners with military to strengthen border security – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUFDWXJ4dTJpRHQ2VFVxUjhQdERoN0ptZ0FiUnZ0R3JTQW1rSWEyc0RtX3ViV3libXlLdnBrVGxQYmFJcDRSdDl0VVc3LVVDN2RVNUo1dEZaSXJDMFRBWS1jV3czQXZTMUhyeU5qSTFHa0k0U2Nld2FWVkVJQTg1Uk1tVjNIWF9RODE0ZzE4M3c0SjJrb2xYcWxrS1ZlRFRrUnllTDh2N2FYWVdD?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Thu, 12 Feb 2026 23:48:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kwara PDP chieftain defects to APC, cites security concerns",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSWVFVmx3M3FKTTJVbkNNMkhITkUyb29YMm1qMVN6Z3AwWXVBbW5TSEItUG53R2p2UkVnMFdObDRzeDdzNG9DbUxZV3RQRzBfZDV3ZTBJTDRkakszSXl0UjhCOUZLNl8yV3U1c0pzSDNubk5NSm5jNnd6WmdwX2tBMVB4MVpRSDNJMmNz?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 12 Feb 2026 23:26:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Anthony Joshua honours late friends with tattoos after Ogun crash",
+      "link": "https://www.vanguardngr.com/2026/02/anthony-joshua-honours-late-friends-with-tattoos-after-ogun-crash/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 12 Feb 2026 22:06:09 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Osun monarchs decry renewed kidnappings in Ora-Igbomina",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTZEdTM5OXZtejBRbVhlUlhhYTREU3Rfc21ZbHFUZDdHOFJONlIwcXI1cTBvbzkyT19CSEtIcmxDVURuNUdxSDF5X01UaWdkZFdyeG5ia0MwcXBmQXZ1TWpSdmZqcUFlWHh6aEFiemtpRm5NM0VTaHZrWjNFaWlYcjVwUDRGR29qVjhKVWtxY3NKZw?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 12 Feb 2026 21:35:04 GMT",
+      "category": "Kidnapping"
+    },
     {
       "title": "Army exposes man parading as retired Major General",
       "link": "https://www.vanguardngr.com/2026/02/army-exposes-man-parading-as-retired-major-general/",
@@ -34,6 +62,13 @@
       "source": "TheCable",
       "pubDate": "Thu, 12 Feb 2026 19:37:00 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Attempted Arrest: Nigeria Must Outgrow Disregard For Rule Of Law - El-Rufai",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXU2eFlaZmFxeWQwaGZ2dWNBTFA3dEpvaVh1aFFPS1MtcXlwRXQ5ckJERWpwVThsUWtfTXpDR0N6UV9BSjZoNERsTTVadHQtVktpX2l3ZEhCV2xrUWROLTJKY0llOFJRa1dxNE04b1lXV3pKXzAwYmVSX1B6RC00Zm5zR21RMmhNbGZ3WDZERlBWaUlKSHpscTI4dUM?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Thu, 12 Feb 2026 19:28:35 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "From ‘Unknown Gunmen’ to ‘Bandits’: Nigeria’s Terror Lexicon Masks Jihadist Violence",
@@ -57,25 +92,18 @@
       "category": "Traffic"
     },
     {
-      "title": "Ukraine declares two Nigerians killed as Russian mercenaries",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGNQdlNTU0JkVUZSUVpCUXFZbWNlc1FWR2FLUUFGMlplNWJGNzM1RlYyZzdBaS1CM0ZNOWRvVGtkc0UydnBhVUQ2dkJkekUzVUEwcXROWDNyWDJWQ2lTeTNuRHdkTFFPWU1RNVZCa2FiTDgwQUp5M0s5SXk0Um01OW4yeFcwSUdHYktiVkE5RQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 12 Feb 2026 18:58:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Don’t romance President Trump – Oluwo warns Tinubu",
-      "link": "https://www.vanguardngr.com/2026/02/insecurity-dont-romance-president-trump-oluwo-warns-tinubu/",
-      "source": "Idowu Bankole",
-      "pubDate": "Thu, 12 Feb 2026 18:17:01 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Insecurity, Disease Burden Limit Livestock Potential In Nigeria – NVMA President",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmxQaUItbnk0bF84RFFVNlBFVzR1d21adXpMUE9ZMmp3ZTRDQmsyc3hJUUxrb011WkFWV0Ryb3FfRDZuY0FDQk13eE9iSnlQTDRmWlhXNFBqSC0yNExLTnNBQUprZW03RnkyS3N2UEVUSjFHcl9kcFNuQlBFb1Rpd0lQaV8xVlFfT3gwRGtiVWRWZVo4a1NYYUUyR3NIYXJNMXFF?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Thu, 12 Feb 2026 17:41:50 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Nigeria must outgrow executive overreach – El-Rufai on attempted arrest, seized passport",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkl1SDB2eFU4eVdPVGk2YUNMa1pTTWxvZmVuX2x4MUF5LVdKV3dURWl6blFlb19vLUh4NmZXUkxtWjZEdUkyTzFlSDlEVjl4eFVIb2NsOEFlYmRyMU4yNUVPckdndUU1c1pUOTFBNFVHQUZiQmNCWGNCb3ZaRGZEbWk4cUVCQk1saU5ZRXJCMUs1amw0ejVNbDRsdUVaejlFeHdnajAxMGlHLTRWTm5XTHNUN2JPTHJRcVE?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 12 Feb 2026 17:30:22 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Former Nigerian VP Osinbajo Calls for Africa’s Operational Sovereignty",
@@ -88,15 +116,22 @@
       "title": "Onyali, Abdullahi sound alarm on insecurity",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85blB3LTZmblVjLWR3N0E1NWpiOU9GX09xbUpkS1NDaHJ2cWtaYzh3bTFxa3U5OElHNTRWVl9oU3NZWnpkNUZNU2Vkb3VMbS05QjhEekV0ck9WX0VyUkpuOGtrZmZWQ1Q3YUxGOWhsalotZVh6YnRF?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 12 Feb 2026 16:34:44 GMT",
+      "pubDate": "Thu, 12 Feb 2026 17:10:00 GMT",
       "category": "Security News"
     },
     {
-      "title": "Show me any road that has lasted 10 years in Nigeria – Umahi challenges citizens",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2pObHBtSkVKb0R2YUpfTElRZVZ1bmt3X2NYTkVOR1JEdXdjZXp2VzdoZlNDdm03bXFPUktqYVg2eE9GZl9iTVVORFFXb1dWM3ltUDd6bXhYZHFUM19mLTFQSUlGWGcwV2ctQVAtLWk3WDktdERLMU84MzBXOWFkSk92aFJPVTMtVkI4aks1Rks5SGdTZUZENVRORTZ0QmJaTEdWbGRBbGJIdENpSERBSg?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 12 Feb 2026 16:24:52 GMT",
-      "category": "Traffic"
+      "title": "Security agents attempt to arrest El-Rufai at Abuja airport – Aide",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2dpQnNmazVIMEpZeGxyRVRueGQxT2RFdzY0QlRnV1E3M0d1M2RocC1pOWxuQThhejJNUnhPR0hOOEpKTTJYVG5HYnltZVdXbEpKTTRkeXZpLXp3eTNzVFN6Q0dscUxoY3Y3YUNleWZYZHlFbFFyOFV3YXVkLUNjU3hkeWo0R3pvNVJBNGNCbjRneXRXWWtzTS14Tzd2dEpFWmF1R3NMbXMwYU9faURKNC0tSXpEVXNUc09wcmRR?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Thu, 12 Feb 2026 16:20:33 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria's security crisis: What's the way out?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
+      "source": "DW.com",
+      "pubDate": "Thu, 12 Feb 2026 16:18:33 GMT",
+      "category": "Security News"
     },
     {
       "title": "Unemployment Poses Security Challenges In Northern Nigeria – VC",
@@ -113,14 +148,7 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigeria leads Africa in cyberattacks with 4,701 weekly hits per organisation",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORFRaTFF6eDBYeXRVNFBkUEt2OFlUSWpTeGUwYkJ6cy0zdGF3aWVISFJtUlFONHA5RTJCbEF0SnBzV2pwZHRrZGZGU3R4OUVxb08yLTdQYmxXNmRQMHZGTEpBMmwyQnMxOVJuYTFKZURKZldmRXlRcTZNTlJPVUFFV2NJbUdVRVR5alFxaTUzZE9QbTZGNDhpQ05MaDRxMWoyQnNKYlV3?oc=5",
-      "source": "Businessamlive",
-      "pubDate": "Thu, 12 Feb 2026 15:42:36 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "El-Rufai arrest: Security agents attempt to arrest di former Kaduna State govnor for airport",
+      "title": "El-Rufai arrest: Security agents attempt to arrest former Kaduna State govnor Nasir El-Rufai for airport",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZHFuMEtrWTFxUTVQQWlOalgwVk9JTXJfXzdhR04ybGZOemE3RkR3YmswaW5CR1ltUEM5bzg3S2ZDalhjbkxtN0JsdGxwajhwUVJKYkNSSEVKVEJS0gFiQVVfeXFMUEZOVTNxOTFxN2pqMUtJdWRLMUprejBnb2Fqd3ZSVDVIcUN2WWlZcU54dUtCeHpVdlp6YWNfb2lmQnpfeU1MNGJ5Ul82bUozSjV3bWQ0V0prMWkySkRiZmx4Vnc?oc=5",
       "source": "BBC",
       "pubDate": "Thu, 12 Feb 2026 15:39:04 GMT",
@@ -162,18 +190,18 @@
       "category": "Security News"
     },
     {
+      "title": "National security, justice, and the people’s wellbeing: Reclaiming the purpose of power, By Nasir Ahmad El-Rufai",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUjN0dzdGYkQtMi1UZFpibHRac1RpemV5dWppc3c0MXRLeVhXZndPTURqVHUyRURjQ2QzQjdFcVR5clpKdGN4TVFXcnJKV2hjcjV0S0RrNkpHVkIzWWM0TmdTRXBVWWhfWHJJdkhjV3BlZUVtNjFHLTdqWjJPTEdwLXZxLXI4c3ozemZWZ2hEdC1UTVltOFJxR09qM1lDeHZsV3JDNEZZUlE0NFBSWVlPUktCWVlnNzdFSUU3bWZodVpkeHBFcGxGNm85aXhUenJaeFIyOVd4ZDJCNDlzZVkyVG5NMmN3Q3RkR1ZoY1pSNA?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Thu, 12 Feb 2026 14:38:38 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "NSCDC Officer Killed As Illegal Miners Attack Joint Security Team In Niger State",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWNjRHhJWlg3azNwVnhfZFFBZEQtbFhySVJBNXA4OU9ZMHRjU0xtT2JuZUlZc3laNmFRekNMWUNUVmtEZ044eklIZkp6T1dSbGM5N05yVUdENVBReS1NektRd0RaMHhRRThXUlg2SkQ3RkhkMGNlNlR4VHFnaUpGTHd0N1Y3R0VXZG9aSW05VGh1N2d6ci0wTmdjcl9aVWg0MUgwSGtqREV3Q0lNSFRhMGlhOW5IQktsWVJr0gHcAkFVX3lxTE1uS0tzZl83V0lhbEtfN3Foa1FWM2Y0c3VVelN0aFdLZk5vQXJ0TlFBYXBTQ1Z4dENkcUtWSGt0aVBTN29xSW96TGRSbGNjUXRqbWw5d1k4YUdyX0FsMVp4TTJ4LVhfZF8yRGFvbkpkUGRQXzU1TWlPQVQtQ2J4SXlYR2FFTXFVdC1RWm4wZ2NYWlZ5UjY0RmdYRmlycG5xSDZTYTZHR2Y5Z0JqNWduSXl2LVlKYXpXNWFOckdnYVVkM2FlU19odFR1QWZvTF95Zm81TUZCajgtY01ncEZYdnA3SGE2QTBCSnR0RkNsaTdIYW9rZlY1VWdINTh5VGtQLVlHNEluQnVtQUxiYVpZNmNPUUNsX1p0UjF5VTN2eVluNW55eEtWU0FVM2FQUVJWTlloUW9nNHNxeDlBOFRvMnRIUjhWTnFCek1XVEY4cVl6bjRJV1Z2WmRHWEZtRg?oc=5",
       "source": "Channels Television",
       "pubDate": "Thu, 12 Feb 2026 14:36:41 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "'Help Nigeria Address Insecurity, Gender, Religious Tensions', Ex-First Lady Patience Jonathan Urges LEADERSHIP",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmVjRkdLb0IwQWE1YzJxVGZoMGh4YVpDUUxNXzcyLS1EQTVjMGNMV0p1bDhqOGZGLWk3cWc1RkNhaDhPNXdxMWx0YjVWTWMtY0h4bTdzVUVKZWpMZFBudEVXSzVzellmSS03MUZ1LU9LeG9pTkcwelZDYjhuMC0yZV9JY3NJSTRWM1hsbXl2d1FVTTl6Um1ndG5SbXppd25rekptYUlWMjJqNDVMblRqa0Zhb204OHUyOFdyMmxIMmxwSkROVVQwTw?oc=5",
-      "source": "leadership.ng",
-      "pubDate": "Thu, 12 Feb 2026 14:16:49 GMT",
-      "category": "Security News"
     },
     {
       "title": "FG prioritize food security, distributes inputs to farmers – FRCN HQ",
@@ -212,9 +240,9 @@
     },
     {
       "title": "Nigeria’s edible oil producers seek protection as import surge threatens local market",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkQ3Z0tZYzUtRGljdUNSTmNFYWpHOE1ndjkwYjZnWm4wRHl3X01famtvVFpxSG1SLXJTSHltY3J4NllKUVJCM3cwMFRzUk0zRS1FaGxBY3Q3YUxnSXNLbXdqZlhhTmRvakZ6Ry1YdTRKYXNnVFVFcnpRSkNiUlJFZWpQdjVydXB6ZFlCWGRrdGxqY1Q2X1pNOV9WRmhlUUh6RlRtTExnUVdLVlJXV1FmWWJBR1NSTzZnU1N6bkxR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYVgtcE9WVXZFRjByQkJIR2xjUzhkNXhxYTY2NVFPTEZoamJ2WEIzVFRDWFl4a0VqUHlpR2NxRzM4TTZlM2c3dHBfemFGRlh0Wm9yUHZtZGpQY3pZNnVGODdFOVE3a2hJSnZULTI1dXJ3UnhGRF9mazdvTktXZmhkajBPVzVYREd0dzdVUnJNWDZzZGpab290Y3JMblkyRkdCa3Nzb2piaXhWQlpJY2xLM0hCVE15Y2dpOE5Cb2RDaHg5eV9ZWDZzZmhZOEJsNGhYSkkxMmNlZTROajhCQXBVTkdsWk9aUjNsTno3ZU54LTA3M3Rw?oc=5",
       "source": "Businessday NG",
-      "pubDate": "Thu, 12 Feb 2026 11:16:28 GMT",
+      "pubDate": "Thu, 12 Feb 2026 10:49:55 GMT",
       "category": "Security News"
     },
     {
@@ -243,13 +271,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1RFUk8wRDFaZUpTdVVZdTZWMFZVUHlNY0ptcXI3OWZ2U2pqS0ZZZHI5cDZZMk5tUjRhUVlGa3hmVFFib0FfcmxUR0pyazFqbF9tMWpuU0VQSFlweHFHc0pLM0s3Q2NGUm5QeWh1WllzZTJKOFd4eUs3SDN1SHEwY3RIMklteTE1VHVRMGVuRlNXRWdoam1DbmdseGpQelpKMHlZaWlvUzZqUm5melhIWTdfb9IBuAFBVV95cUxON3RlaGM1aDZnZW5DUnpJeDd4TDVlODNhRHcyaWJVeTJQcWZQNnFiQVlkZV84dlBIMk5OUU5nRjl4VmNYZG9LeHVkaVByd1ZEWXpCdFpfWS1hOEl5UWFQbUlHR3R4c3pmcWRXbHBfLVdlckRDMkdZYllhbTJzbWQ3Q0ZQMUdSYnV0SHU4aGVIbU5scFBPYlBNTy1vY0d4b1dEcEVKVzl3WXRwWFQ1U1JXN3Yzc0RMUTZR?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Thu, 12 Feb 2026 09:12:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Kogi to Sanction Churches Violating Security Protocols",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSktIWmxRRjJhYXJiTTh2Nl9aLUkydGg1RjlpcGdxWXFzN21EckJxekpzRlhIUmJ3QW9QcUlibHlVcXZmSGFWcUY5dFlVWHhHOE1OOW0tcWJHX3BrMU84Rm1HMmFBaTFHRkthMkNJdFpkUDc3cDBIVm1rWk1TNzN6NEVmRlA?oc=5",
-      "source": "THISAGE",
-      "pubDate": "Thu, 12 Feb 2026 09:07:20 GMT",
       "category": "Security News"
     },
     {
@@ -302,13 +323,6 @@
       "category": "Security News"
     },
     {
-      "title": "FG introduces panic button system to tackle school threats",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1g0c3V4UDN3Y0pvdVNid1hiYnZhVVVVYXY0OWNRWFZqclBDU2RhZHpsaXFqa2YzOUJaN2x0YXhYMmVJWmtUQks0bnhfRERka2lzZGZRYzRHWTl3cGlsX1ZBQjYxaXNGMzRUVHd0czN3bHNqUmJjT0tDcWd1aWdyWGpQV1lWbmVJM2lqSU43bGpfUGs?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 12 Feb 2026 00:33:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FG vows continuous security presence to stem school attacks",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2dheVRfcnZQNVpjcU0wSVhmaWxLQ3ZZVXZkVnI4eEY5UEF3SmJFWGdBblNydGhpQTh2bG5RaElINWZBeGU1ZVh2TERuSUphazYycHRVXzc5RlpTV3hMWW1pS2JuN19rcF85cGVPTm5Xck9FLVpKR25lNlNELW9mM1JTejBBTGs?oc=5",
       "source": "Punch Newspapers",
@@ -349,20 +363,6 @@
       "source": "Punch Newspapers",
       "pubDate": "Wed, 11 Feb 2026 18:15:33 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria remains dependable partner in tackling transnational security threats – COAS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlFNV3A3dFFQQ2RURDlYQXhmdEJnSmtJZjJjQU14VkNUTkpvMWVkSGdObVN0UTNZRVZVUUpCMGVCVW41S2VxMk02VlBjLXNMc2pidnQ5VkRLaUdFMDRlMWpDby11Q2hiaUFhcVNMQ3NaQkVTd0dLYzhob1FZd28yMWpiNlB5bndnSXM4eWtXQnphUUF4M290bnp1eFJ5VDhFaHo1ZTM3Uk9ESU9CVDloVHNMNNIBuAFBVV95cUxQQTRFYVc4Z0xBcXVzckFlbmhjMlJzeUN2RHVZV0VzQmdudXozNmw5VVJnVlZITm9SY1BEQ2ljUjMxQ2NqcmU5OVowREhVQzNRaFNQd0ZQN1hOSzlJYm4wT2FlOWxNam1GRTlOTGNLSmF5akpCbFNMWHhLd0s0ZWZzRE5GUURVMkNsREg1X29ab24zbFgxT0FKcmEya3B3V2FvLXhZbW1iTlUtNFNYc3lWYmFxU0xtSjhZ?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Wed, 11 Feb 2026 18:10:36 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Kogi govt vows to sanction Churches flouting security protocol",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODVOYzdyM1lhVVdoSEVmNUxvQjlCcVE3b18yNW9wZDhPNmtQT2x0Y0daV1FxUHJNSFNuUFNRdnliNHlXVnpoNnM1NTk4ZU9EemNuWGpiM2FSZVA3T1R0allTSG5JMVVPaWFkaVFya1p1QVlRcFl6MFZuQnh4UWFsbm1hQk1wTWFidDR3dnpWRXB3ZlNaeGZyY2RvTQ?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Wed, 11 Feb 2026 17:29:45 GMT",
-      "category": "Security News"
     }
   ]
 }
