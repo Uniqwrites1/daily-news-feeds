@@ -1,44 +1,94 @@
 {
-  "timestamp": "2026-02-14T12:11:59.649Z",
-  "generatedAt": "14/02/2026, 13:11:59",
-  "totalHeadlines": 156,
+  "timestamp": "2026-02-14T15:08:29.829Z",
+  "generatedAt": "14/02/2026, 16:08:29",
+  "totalHeadlines": 162,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Armed Conflict": 16,
-    "Security News": 108,
-    "Insurgency": 6,
-    "Law Enforcement": 9,
-    "Military/Security Operations": 11,
-    "Kidnapping": 4,
-    "Traffic": 2
+    "Armed Conflict": 13,
+    "Security News": 109,
+    "Insurgency": 8,
+    "Banditry": 2,
+    "Law Enforcement": 11,
+    "Military/Security Operations": 14,
+    "Traffic": 2,
+    "Kidnapping": 3
   },
   "headlines": [
+    {
+      "title": "NSCDC arrests village head, 33 others linked to police officer’s death",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNEV5OFl1QW5VN3NGSWNZbUg0TkpwS3I4NS1aTXRxdzJNd1RYcm9nU2ZmN1RoSm5MdHNQQl9UZ3hLUXZPLWctTnNHRVZkNEhHOFMwMVZMdE1KX3kwSnBVNWVVaHFpWXpKaXRycDAtU1VUY2tHM1VBUFlvMm9Mc05hVHlDZkFMbWg2ZFNqS0gzX2pQZ0lkcVRJaUE5QUNWY1Fua1E0ekhPdjROT1lFTkZMRFJ6WTVxeTBLZVc1bEhIaWJJOUl3TUcwazgyeV9wSGdoWXFrTDZVOTZJbjlfSm1tbGJveC13ZkNleDlaMS1ZN240TWc2dExDX21kUzZNWEhiSWwwV0djQQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 14 Feb 2026 14:53:52 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Again, troops eliminate scores of Boko Haram terrorists",
+      "link": "https://www.vanguardngr.com/2026/02/again-troops-eliminate-scores-of-boko-haram-terrorists/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 14 Feb 2026 14:45:16 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Bandits kill 26, burn homes and police station in Niger",
+      "link": "https://www.vanguardngr.com/2026/02/bandits-kill-26-burn-homes-and-police-station-in-niger/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 14 Feb 2026 14:32:02 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigeria reaffirms commitment to global anti-drug war as NDLEA officers graduate from U.S. DEA academy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDhRQ2ZBcmdKMnhxb3lGUUN4OVVhX093S3cwMzdpQzNPbVFLYmIxUGs2UExtZTkzS1RmYmcxZ0NpRmtkbHlyaDRSRWF0S0loU3ptTmxpRWRmNmVJbUlTblc4aV9xS1d2d0p6b0hES29CWHpNMUstdTc4c2NGNjR3QUowRk0zcXZNbUx6WnFPRU95NlRFcmdXNDVwWlBWcThqTTU2WHpydkdtNUpzbXZzYUdMaktHRzhjY1BYd1VXVQ?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Sat, 14 Feb 2026 13:16:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Zero-tariff opportunities: Elevating China–Nigeria cooperation to a new level",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDRNZzRTX0xlNWFNRjA3WS1uX25fVTh5OE5WcmU2Wi1td1ZjcWRTVUdnYjh3Y0RjOXE2UkJJMEt3aWRidkpZVThXTjhRaWxLV19uR3p4RndSUnJ0YUgtRmZHN2tmTHByWndoQkZCN2xjU05JU3hkUVlOOUMxLTUxeC1QWXE2NkVGeG5wXzdoeGlSOG45SGdfa2ZBTUw3RmM?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Sat, 14 Feb 2026 12:52:46 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Fear grips Southern Kwara as residents flee over bandit threat letter",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNko4YjNPMG4wejRMQ2tXTVdzRVNtcm9hMlV1aXJoU25YSmt4aTVwZjNXSXZSeDNqaXpaVkczb3MwRW11NngxMFBjaENhVGUtRy04ODJFUTRaZUo4ZFNiYmFLOVNvRDhEQlo4ZkxQN0FGMzBSamdPY3dSXzhlbTltNU8tTjFsMWoxRnBkZ0QydUxpb2xnbTN2aW11NGY3T01iSi16UGZheVExZ9IBrwFBVV95cUxNN05vNHRPOHdKN2xneG9Ed2M2enZjRGpLUXgyUXB1ZzdYTF9KSzJTbDNBcjd5X2p0bVVISjZLNGl3dGh3a1JoaUR2bFBOeXZUY1RQRTNiRlVwcnlod1dtbUpXRGFJQ1AwTkdEUzlWdW93QXE0WDNuQWRmcG1jZW52WUZBTDU5THNNRXZpX0I2NlZmb1pkTVpSOTRHRWo5N3JGZFVvSDhxaTBhTU5ZU1JB?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sat, 14 Feb 2026 12:30:42 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Police bust illegal morgue, recover eight bodies in Cross River",
+      "link": "https://www.vanguardngr.com/2026/02/police-bust-illegal-morgue-recover-eight-bodies-in-cross-river/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 14 Feb 2026 12:26:42 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Kaduna Group responds to El-Rufai’s arrest claims, calls for due process",
+      "link": "https://www.vanguardngr.com/2026/02/kaduna-group-responds-to-el-rufais-arrest-claims-calls-for-due-process/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 14 Feb 2026 12:16:57 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "QNET Unveils Strategies To Deepen Operations In Nigeria, Seeks Media Support",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVZDMlRnUWMzZ2xkTTdOVzdyaUJHQnJQaDE4TjFGVEFoU3czbmMwN1N1Vnl0TVZLRXVxVGY1SDJGM1JHNHdoZERHUHVZTmx5NXY2cUJyejd0UU5lZU13eEZwVExpVGhOaldXdjBHNDUyeE52dHlPX2dLSmVnQWtLR0k5d0JWR1VlU2xubnpqTWtfRWFZcElOWXR6N3hodlFt?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 14 Feb 2026 12:12:57 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Jimoh Ibrahim Seeks Support for Nigeria’s Permanent Seat Bid on UN Security Council",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1ZGUUFCZjhzQTRjSUQtNGdlVm9fR3NSc0JIRVU2U3BYSFM1YjU0eXVRUEEyQ0JUZ1lzdWwyVzAwWWk4MVpDb3lFbFYyX1FIcmw2TzdDM24xdzZkdWxjQl9oVEt5T3BxUjNEMjhMMkpjZFh0U0VIc1pMUGxmQ1Zfb2wydXdpaURiZXZrMllEZklKYlp1dGtGeW5lNTRSMzE4cG9sXy1ORkxiRHRRQmFQdDdLNHI2Mm1jakxlWGNKRQ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 14 Feb 2026 11:12:12 GMT",
+      "category": "Security News"
+    },
     {
       "title": "El-Rufai links US sanctions bill naming Kwankwaso to domestic politics, questions security failures",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzZjMkNlMk9qeGRPY0NjcEVxT09PRU96eFVSUTh1MEY3UnEzT3pXaXB1SDV3a09ETE5ScEpXNnQtanUzQS1mb3VRTndXakV4WW9PQS1OS1VqTjVjLXh2cjBMLXBuams4YUd1XzVlMFVrQ255RThDOW8xTnpncDBQWUZ4LTAtbTBENWxLdzFaNlZtSUlJY29ESTM5RlhDdGRvTHl4UFBMYTF3aEp2Wm9QN3hCVmh4c0FHd0ZFOWo0TGNWRG9KeTMwb2pSVExCVzduRk8wSXNubGF0TGZ3dEhmTkVUSkhzZjVmNmV6c3lSUmo2XzhxbE8wWWs1SHNtX3FWNVZldTF1NA?oc=5",
       "source": "Businessday NG",
       "pubDate": "Sat, 14 Feb 2026 10:45:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Why I stopped paying tithe after relocating to UK – Nigerian prison officer",
-      "link": "https://www.vanguardngr.com/2026/02/why-i-stopped-paying-tithe-after-relocating-to-uk-nigerian-prison-officer/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 14 Feb 2026 10:36:23 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Edo Police Command vows to rescue kidnapped officer, others",
-      "link": "https://www.vanguardngr.com/2026/02/edo-police-command-vows-to-rescue-kidnapped-personnel-others/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 14 Feb 2026 10:33:29 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Patriots star receiver Diggs pleads not guilty to assault charges",
-      "link": "https://www.vanguardngr.com/2026/02/patriots-star-receiver-diggs-pleads-not-guilty-to-assault-charges/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 14 Feb 2026 09:43:05 +0000",
       "category": "Security News"
     },
     {
@@ -63,13 +113,6 @@
       "category": "Security News"
     },
     {
-      "title": "South Africa Police arrest woman in brutal murder of Nigerian driver",
-      "link": "https://www.vanguardngr.com/2026/02/south-africa-police-arrest-woman-in-brutal-murder-of-nigerian-driver/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 14 Feb 2026 08:37:17 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigeria Seeks Health Security Sovereignty in Africa",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TQWJlRDRNNUgxWXdqdUZCbXI0Ykx5eE5TbUYza0VwRVB4TmROMWhWT0JYendOTHpJckRUSmxTVzF4QTRKUW41bmpuQVp0WlZCV2V6TWxQM3dXVEdiRUxKbzRhQWlaVHFuMHMzbVkxbGhaSTZFMm42c01zYw?oc=5",
       "source": "Voice of Nigeria",
@@ -77,17 +120,17 @@
       "category": "Security News"
     },
     {
+      "title": "Blame generational grievances, not Tinubu, for Nigeria’s insecurity — Jimoh Ibrahim",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlhsbVMwQlpsd2FKYjZJTjZfMklQcFVtTGJuVG9Rampua2RuSDM3clNnZzdJV21lWkxXNEFlcUdCc1ZBRnk4cXdwQURGMGRxX19yT1hDS090YWlCQU81YmJoMTUyQ0RLdWpmTUxuTDdaQkRpWEQzQVB1Q0FvbklnNE1ocDIwckU4N2hhVmtvSkExS2lwMjdoWmtzb21QendKVVRsVXRJcw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 14 Feb 2026 08:23:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Defence Chief Urges Delta Safe Troops on Professional Conduct",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXpSc1dtQXpBNmo3SmozVW9TVVJvMWhaSDBFeUF2b2g5dGMtMHJFWE5xWkVuWnBtTUw0Y1d4R1pIT3Y4SldHdExmamVrd2V6Q3k4cnVXVGVjWXEtbUR6SjB1RkFWQ21lUkNsV3B3YkhwS25XcG1mcmpYQkFqQzRSSGU5a1FSTFha?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Sat, 14 Feb 2026 07:57:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Blame generational grievances, not Tinubu, for Nigeria’s insecurity — Jimoh Ibrahim",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlhsbVMwQlpsd2FKYjZJTjZfMklQcFVtTGJuVG9Rampua2RuSDM3clNnZzdJV21lWkxXNEFlcUdCc1ZBRnk4cXdwQURGMGRxX19yT1hDS090YWlCQU81YmJoMTUyQ0RLdWpmTUxuTDdaQkRpWEQzQVB1Q0FvbklnNE1ocDIwckU4N2hhVmtvSkExS2lwMjdoWmtzb21QendKVVRsVXRJcw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 14 Feb 2026 07:54:47 GMT",
       "category": "Security News"
     },
     {
@@ -108,7 +151,7 @@
       "title": "Nigeria pushes health security sovereignty at AU Summit",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFJTNmdJNmlfZkoydTVvbmFUUHNzVGhxT0lDeFEtRFRweUlMcUFZOHRmRVhZNXJyU1JuNEw0ZGZNRmhHbGFlTWZmQUl0SmVvVjAtay1zdVpDanBsVXEzVkFKM1c2S1RwM2YxZjlXbno2T2diY1lCejNRNHRBVjV3ZGpSQ0FLZFl5?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 14 Feb 2026 06:39:10 GMT",
+      "pubDate": "Sat, 14 Feb 2026 07:07:00 GMT",
       "category": "Security News"
     },
     {
@@ -116,13 +159,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3R5MjBtMTNpVDNOV2NGZnF5MUFwZUFvbHJWWFNDRlViN1kwakFIaXhYUmRGWHRsY0FlejhsTW03RUVod0F0dkhJbktwcW1vcmtCRXZfY0pwV2VKb0tFQUYyX1dwU3VLZWFTRXVObnQ4WFlJbXZJNHFFcTQxQktOR2s1MG1HOWJKS2tuelhoS0VJRGZ6aUVja2p4UlZJQkwyNi1z?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 14 Feb 2026 05:29:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Kwara: Untold Story Of Nigeria’s ‘Safe’ State Facing Rising Violence",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUlzcWhBSlJjbnd4THpBOWNuRng0SFR3UklJNTFmQURfazhacVNUaDI2bV9ISWxrRzNpbXE2Y2ptR1hnZFoyOEI3VkkzWVB3M0pvN2RVVm5LYTJkTUVYaHU0QUhKTTdTTDBidzFyM0ZyTVJINTQ0QS1jbnN0dHlBU0hSSndnYVBmcDk2eHRrSTV6QQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 14 Feb 2026 04:51:25 GMT",
       "category": "Armed Conflict"
     },
     {
@@ -170,7 +206,7 @@
     {
       "title": "IGP Designates Banks National Security Asset, Orders Crackdown on Cyber Frauds",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTRMTlp0RG9Dc214Y2paVTR6eEZGdHZnQzZhekdXSTNzOHUxQU9yS1VYQVJvdW5tY21uNVp2cmRFeEx5LXc5Z1UxRmNvVHFBRUZjN2hsQlIwOWh0MUdtai1LSHE2UFRkZko1ZG5jNm5PNDFsX1BnNm5RWm9XNW9WekhOdjluQkZ3NzFheDFVY0tKRzhlYTA3dUQzVHJZVW42aHJSRGpzMkdPdkVnZUhHODRqU091NGJBRFJyS0Z0RWg?oc=5",
-      "source": "Nigeria Communications Week",
+      "source": "Nigeria CommunicationsWeek",
       "pubDate": "Fri, 13 Feb 2026 23:13:14 GMT",
       "category": "Security News"
     },
@@ -203,13 +239,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "FG redeploys police from VIP escorts after Kwara attack",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVdzdDZoV1Zob2VBV2dLSUZIamZVb19wQ3ZSdnlNY1V5bkFLOHc3YXBLdGNoN0U1R2JUWU1Gbnd3SUMxdEhWYTNoRVJEUUZoZ0xheE9TRzFXb1RPZ1V5alkzT2g1SExsc0N1R0pDYmRyWElrVVVLZzdDZDUzZFIzSkF0cEJ4RXZVbzhNYjd4LV94ZXBXOGVJ?oc=5",
-      "source": "Nairametrics",
-      "pubDate": "Fri, 13 Feb 2026 18:06:09 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Illegal Miners Attack Security Operatives, Kill One, Burn Operational Van in Niger",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWZfY21iOW9YM3h5akROa2xIUmlFWDdJUXJQRWk2UFdkd0xzUDczZ3haUGRCbVJ6dmtuWEtpM1ltdm9ZZHpRbC1PMnBmUndheGZ5cG5tRmJmeFFzZzNoU2E3S2IxSklSUEt5X0xQRnc3dHFnMzJfY1RaVnBRNWdzY2tzWWhselN6NTV2SWNmdTRoMVliTTJhbmpKcnd0WGZiTzgzdy1MaUpmeFZLUUxVSXBrYk8zQkVSVnVLMw?oc=5",
       "source": "THISDAYLIVE",
@@ -222,13 +251,6 @@
       "source": "news.google.com",
       "pubDate": "Fri, 13 Feb 2026 17:38:00 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "AUDA-NEPAD Nigeria Records Successful 2026 Budget Defence at National Assembly - Federal Ministry of Information and National Orientation",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0kxYm1UUGdkaWVOdzZncnlULUh4b194aF9NRV9Tc050LWtlbEdLMG96a0ZkdjFQT1k2eWZRTDltQ0pSbEFXanRwUVNtV08tbDlSRnZ2bHQydHdRcEJrcW9aY0M1VXpJSlJSYnhjWUtRMHFZLW9vX0tqbENfOWtEUVd1S252VDc0aWNIZW5ZOC1nM1pxbHhiazdfSFBwUE54MGc?oc=5",
-      "source": "news.google.com",
-      "pubDate": "Fri, 13 Feb 2026 16:39:00 GMT",
-      "category": "Security News"
     },
     {
       "title": "NSCDC steps up security for FCT area council election – FRCN HQ",
@@ -247,7 +269,7 @@
     {
       "title": "Nigeria’s Recent Deadly Attacks Point to Spreading Violence",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFlZeWRiOVlIMjlGMk9fSHV4TFlFX09fSlRsZG5ETnU1NnBCQ05Pb25MSjdmSEpONFNNcEd0WThnNloyeldmU09Kb0dOR0FRZW5pY0VhTFR0X3k0MU93TnJVNWx1T2ptQnJpNVRiWVplMG1PU3YzcnBFRmFXRVdTZVRPcllDbzNtZHNDbzB2S2pYSk1obzJtT1pCam1kc3RhVkNHTG4ySkx4QXdvckZz?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "pubDate": "Fri, 13 Feb 2026 15:26:14 GMT",
       "category": "Armed Conflict"
     },
@@ -287,10 +309,24 @@
       "category": "Military/Security Operations"
     },
     {
+      "title": "Nigerian alleges forced recruitment into Russian army",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1Z1T3RrbkNyMGNSa2JwOXpvZjlReExxTWdpM01fV2NNTU80UklydlBQWUxMOFhhelBuNUdZbmNjYUdxTmtUY2pSb0FkSnVaWDBxV1AyUkFNbTdUajFJMDEtT2RjaE5SRG9NQjB4cC1DTGF4V092MU10RWxaZGhNWkZYUzE?oc=5",
+      "source": "TheCable",
+      "pubDate": "Fri, 13 Feb 2026 09:08:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Customs seek stronger synergy to boost border security",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODM0ejhYWm1tTGN6M1Z2cVg0RVNUMm1oN2lrZDJPTlJoS0pJUTZrSkVOVVhsM3RJdjN1N0ZEcEZhNkZfdkVpRi1HQ040NU95aDU1S2hRYzYzeEdZcnZTanpzcVZWZjFneXF2WnpnZHFxT2VsNWZZUGM4Rkt3a0FIaQ?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Fri, 13 Feb 2026 07:13:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ukraine identifies two Nigerians killed fighting for Russia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbE91UEp4OFhLR011VDFtNXFxWXhyM25qdGg5bW5MVjZfN2tZNnhHRHh5eEVKTXRoM3Rib3FfRWItNzdhcFBabzVjdzBCc09RTk9RRmZ5dzFBRkc1aTEzOW1xcWhDZDJ5UVg3cWZ6Z2pEU2hTSk9kOXJSejR5WUg0U0hKRER1eS1SUmlDeGdsaGlhclhIb3RXUHRGUjRyWlIzb2d4R0FUcXUwR3ZPNzl1b19MMzNLajJzemMyVGxaeHRwdw?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 13 Feb 2026 06:44:05 GMT",
       "category": "Security News"
     },
     {
@@ -326,41 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjhTWDJCbkY1MUt3S1hIaXJuZWFxUk9qSUtaeDZRTUQ5dVVQODZkbWpSSzhLcWhQbnc3WHd4RGRfY3lPRFVyYjV0RWJ2R3NGR19GbnlScW1tSUZZcFZERm9aWXpJZ0hGbFozNTFlZlI0Y01rXzRzeS1tUU44YVNJYmVLYmw1bmg0OE9WY25VX2JOZjl3YTk0TF9jUy1FVXRu0gGmAUFVX3lxTE9lRU9fZ0lwRi1hMDRFc2tGU3pPUVdSWTN0UHNUQ1NBd1RyT2lxbnVlMDZ3Rm50WjB2d1ZvRE1LNC1TYUtvcGFySWF4aXFiVEZlcHVGUTRFNnltWUVUZ0wxRkNQZ2dPWkFoUUZvM0RMcTN1dVpaM0NKc3RHNGhiaU9JNGs2X19XQkVYVlIzMGJtcjRvek5yMW5NQll4dm9ndUgzVTE3RHc?oc=5",
       "source": "Vanguard News",
       "pubDate": "Fri, 13 Feb 2026 03:08:25 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Lagos strengthens campus security with vehicles, boots donation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDNSbmRacXVJNTZ2eFRONzh0Z01CVWVDa20wQkp6cVQ2SjI1M2JBOUppcF82ZUNtaEpBbGstNTBmUmtaVXhaY0NHR1Rubmk2VWdrT3c2T2xPdDhieWotR0hTRG1oYlFDTms3UzZyTnhYRXc5dXNROFJTR3RuVGI3R1RqQ3NRSFdDT0sxWVBLSU1TUGNxek5NOXdheVRFYzlXLXBZTQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 13 Feb 2026 02:43:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Akume, Otti Advocate Coordinated Security Framework Ahead Of 2027 Elections",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTNYT0F3MFFJLWtfYTl5VUxWNm5RRjBBTnNRQlRkTC1LQ0thWVJJTGhYbTNWLURkZXcxWlFiNUkyaTlVQXEzaC1Da0sxXzN0VTdWYk1NWkNPb0lDOHFucW9KRUJoRU51NS04aEtNbGR2ZWRoLW5nRWxfMldiMHdKLVBYQVpUcWVFa3hJX2U2YWFkZkhiTEN4amo4cENJdDTSAaQBQVVfeXFMTmF3aTZweDJGLTVnOXFmRWE3QUNObVVxV09OcVRXRk9lNVJNaXBicENGLV9EMDVrLS1jWmF2RkZiazBzNHFLY24yaEhCWUVORk9YN2s1dFdEdi1RQWtzeFByUGhzX1pLTFZ6YWszTFVxdVNVZnlYR1JTa3pjNTBsaEI5MWd1WTF5eWlkWGZYQXkzVS1YYnVfMGVUYXFfeV85dkw5RXc?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Fri, 13 Feb 2026 00:40:59 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria customs partners with military to strengthen border security – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUFDWXJ4dTJpRHQ2VFVxUjhQdERoN0ptZ0FiUnZ0R3JTQW1rSWEyc0RtX3ViV3libXlLdnBrVGxQYmFJcDRSdDl0VVc3LVVDN2RVNUo1dEZaSXJDMFRBWS1jV3czQXZTMUhyeU5qSTFHa0k0U2Nld2FWVkVJQTg1Uk1tVjNIWF9RODE0ZzE4M3c0SjJrb2xYcWxrS1ZlRFRrUnllTDh2N2FYWVdD?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Thu, 12 Feb 2026 23:48:30 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian govt, states hold strategic security meeting in Abia",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWV5Rlg3alFhaElNcFRUS3RtU3IzaExXODRueWNpTVRodXl6M2VncnJOMmlBUzk0QnBaUV9PZFBtZ3pNQnhyNFVubHNnNTBuRkdzOEhxTFFBTFdKRGdrYk1sSkVIX0Nubkp1djFuTXdfakdIaWFmSE5pb2UwR3ZPNDNsSnd0a2s1ODhzZHhad2NMaGdxNFozTA?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 12 Feb 2026 20:45:22 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security is key to development in Abia – Otti – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFFRblc3OTA3M05meDFDX2U3ZmFQZUZMU192ZzNTemFvbTE2VkhzQ2RBS0FnYXotdE5uQmE0c3VQd2RTenRDMHJ4QUZDZTNXNHZYQmR2NFUyZkU4aU1OblNUTzFKMUtTRldnTUg4UnVuc3MxYnVnMW5XUmhyTkRES2VFTmhMWk8zTzNV?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Thu, 12 Feb 2026 19:39:56 GMT",
       "category": "Security News"
     }
   ]
