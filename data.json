@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-02-19T06:27:37.017Z",
-  "generatedAt": "19/02/2026, 07:27:37",
-  "totalHeadlines": 164,
+  "timestamp": "2026-02-19T09:20:01.639Z",
+  "generatedAt": "19/02/2026, 10:20:01",
+  "totalHeadlines": 159,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Banditry": 3,
-    "Security News": 117,
-    "Kidnapping": 6,
-    "Law Enforcement": 11,
+    "Banditry": 2,
+    "Security News": 113,
+    "Kidnapping": 5,
+    "Law Enforcement": 14,
     "Military/Security Operations": 7,
-    "Armed Conflict": 11,
-    "Insurgency": 5,
-    "Traffic": 4
+    "Armed Conflict": 10,
+    "Insurgency": 6,
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Tragedy: Gunmen kill Ondo monarch in foiled kidnap attempt",
+      "link": "https://www.vanguardngr.com/2026/02/tragedy-gunmen-kill-ondo-monarch-in-foiled-kidnap-attempt/",
+      "source": "Nwafor",
+      "pubDate": "Thu, 19 Feb 2026 09:07:28 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "From US threats to ‘holding hands’: Did Nigeria disarm Trump on security?",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVBMc0J3dGxlYzRXWWh3Z1BhZDlpeDBiRmI5ZXhaR2duR2Zhd0lCUzkzTXJlbFRzQi03TlMyMUVBZWo4VE4wVVlGeGtmSjQyaU94Q2VpelNPOVBVanZ3bUQxdG1iSHAyLURhOFZ6akhCUlhNRU16eXBaSldDam1jN0hjcklaUENWelpMRVJfTE9uaUhMRk9EVXdVNVIwcXdCNFBvNTR1YTVpX19udnNF0gG0AUFVX3lxTFBrSW5vSzMyaE5MU0U5aEVGTzktTE11TnQwaHpzYkVFUzBXU2tTVDhMcE5qTWtINlNRbkdGT0J0a0Vib0lPVGhRU0l0RlY0djBGeFg1VkJZMHo4bkZOa0sxOVcycGpNb1JuMjh5Mjhwb0FXNHBXNXN1cGpvUHZhVkx2bWhhcXlYemNwNDFRS1REU2ZEVndveWROcWlvU2VPR25Cdk1mT29POWFnRE9qbzBzeG9nUA?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Thu, 19 Feb 2026 08:35:17 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "At least 37 killed in Nigeria mine carbon monoxide poisoning: Reports",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGR0em13LWRsY2R2emlsWG9SUkFyV1IxT09sVnd1bEhqRDdUTEpiVVJyeWVDb1U3dmlxTXpaaFlQUUpwQXFUNFlsSzBKR3BUMmxpNkVpVzhFbElFNkFlSmNQbGZsV0hBZHhOTVpaRkJzNnVhamhBSWRXaFY4Zjk5VGM1SkpOb24ycUExVDJqbWEycUR3bUl0blJUSWQ3eUpxaTlrb0xlb3pUN21LclHSAbMBQVVfeXFMUE1MbTUwSDdJbDNPY2IxMldqU0Zpa3JzaGh5Y2VsQ3ByeEhkMEc5V2NDY3VDZGo3TTlYaDNwRTFpLXZ1bl9YaEhPTG5CX2Y4Nm0xbTgwVjVwSzJ5S3FWVks3ZWdhaWJFX184Yzg2ai1STVcxbThCN3lrWTJ2NUhfcU0yNld3Q0dWNWw3Wi0yS2pfLTdEbERuemo1OWZqemF0UzRZS3F0X3JLVkQyWm12c1luUUE?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Thu, 19 Feb 2026 08:26:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Zero capital release for NDLEA threatens Nigeria’s security — Group",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR25IRmI4TzJhU09RS0ZyRURNSTBvWG9jbGYzbjVpWnpwLWJRSXlwanlvdlBvQm1iTGdkc1RpR3UxSlI5aUd0Z0lLN0NRMDFVdkFzTUNsM1RUM0xrM094TDF6aGFKZG50czl6WElBOU1ydU9mQllUeWg3SDlqX0NnSGl0Z21PWldGck9ISjRn?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 19 Feb 2026 08:07:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FCT council polls: Police restrict movement on Saturday",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2FJTXZXbWx1ZmEyczUwY0ZzQjNqb1RHMHYxaHhEZWRjS2pzeFduRWdlSTZpMTlaSzI5dlM5d0hmOUN6RVBPTm9KbXBoYWNzVFI1cFh1UDBfS1M2cEliVGgxcC11Ulh5Zi14a1ZOX0ZqZGJYVUpOZThOZzlKN0VyeDdmOWxZZzNZM2530gGQAUFVX3lxTFB1Uldfb0ZMMHN0THlFdjdORDZGTkl5eWU3MXctZTVHMHJUX3p6LVpNejZ0T2lDYmNhM1pyOXpFR19Mb2tIZ1B2TF9UVVc1eFN3SXRPT19NZ2IzNHJOY2tIbHVYWjk1bDV1QVhvWGQxNjF4aW9lUzg4Y0lPbFdFbndSYWdQcW5xbGZ4aEVBQk5mVQ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Thu, 19 Feb 2026 08:04:57 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Türkiye Backs Nigeria’s Counterterrorism Fight, Offers Defence Cooperation — Envoy",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGxlRXpYSWR2dWZBQWVRaGpFMWFHSVo3NDlDVi1hM3RERlVxbHVwZlVuQUVXdG44MEN1U29IbWFsQUZGVF9JZzZRTkJ4N2NDVEVLNGhnbGY5X3RIdXRFNWl2SjZRZjhLSGZEMmVJTF9pdmhKQXhObWF6a0xDZEkwNWwyRjNIeVFkZWtuRWNnRXNwbTZIalR6RjZKV2x1QjJ3dndBZTA2VmEtOS1nOVhySUJ0RTkweTR1U3hKNFNjN2YyUHg5djE0aktQVQ?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Thu, 19 Feb 2026 07:40:48 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Event Risk Management: Building resilient event operations in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVp4SzJqU1A1YzBFeEtUYTdiR2dyZjlQaFlXZ25hRDk3SEsxSWV6b1VxUmIwX1BtSjZyNkRPV3JVYjhRSmtWaDl3dGJFaU4xMUsxMHpYRmVsU05LaGFrZFFVVFZPN0NTQjFSOHBmTHZIQ0diTFUzalhOQXluaFRWc3lhamw1TmpYcC1zTVhPU1JQTE5WZnRxU1pkdnI2bi1nLVlz?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 19 Feb 2026 07:14:53 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "FCT council election: Police restrict movement ahead of Feb 21 election",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQi1kcndEQUsweGVmSmgyN0pMcnNYSGFNbnEtbnNqVmkxWm43bDR6andnQnUyU21zYWVNMlI5VGV6b2cwb01pRzFwU0kwTTFldldEdU85LWJTbGxTTzV2MElpWklZUW53cjNOUDA1MFZENno2RHd3MEZIRzRJMDFON0FhOUdSQlJFbjc4OE1tVDNaN25INjUtNUxzeFh3bzJnVVFTRFFn?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 19 Feb 2026 07:06:16 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Spain, NCTC seek coordinated support for terrorism victims in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmxoeDVEVlo1MWJwM1A1TGdCUUtKNnhPV0U1RGVZRXVscEc3MGNCbWdLTzAyOVV2WUFPSEp4V3J1WTFaLUJSY251NEVDZENKMlJEdDljQURUd0hETzQ5VWlRd3FXRWhmRzBtcXdacUNURnctNGRNYy1EUDRBaFI4WnNFUmZhZEJKME80WmZJa1VEY2JFYWw2MFVHVWxxOUFE0gGmAUFVX3lxTE5zb0lRNGZBRDFRR2pmQm1FNHJBRnZ4b3dKME9QbWt0bWUzVzE1dUYzRS02Q0lrWkwxaGIxYkh2LUlvOERQS0l3OUtxanZBZWk5am1QS1I1U0owOF94WUhiakZoaFdtVHhvc0RkclQ2TVVtZU9WdC1qTGMzZ1UtZG9LM19IdFFhYzlpN3lIVm9FVnQ4VlRnaHk5cUQ4MGlfNjBtWU1FM1E?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Thu, 19 Feb 2026 06:41:59 GMT",
+      "category": "Insurgency"
+    },
     {
       "title": "Utomi, Bugaje, Ezekwesili, Falana, others to sue NASS, Police over brutality at NASS",
       "link": "https://www.vanguardngr.com/2026/02/utomi-bugaje-ezekwesili-falana-others-to-sue-nass-police-over-brutality-at-nass/",
@@ -22,10 +85,10 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Autopsy rules out food poisoning in death of Nollywood crew members",
-      "link": "https://www.vanguardngr.com/2026/02/autopsy-rules-out-food-poisoning-in-death-of-nollywood-crew-members/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 19 Feb 2026 06:17:01 +0000",
+      "title": "Nigerian govt orders closure of Plateau mining site after death of 37 miners",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlpRM3hlTUlZNmVCMF9WSTk2VU5qay1yV0NjcGxKNUllYXZvUTB6WDFKMVFmMS1RWkxTd21KU01YMkFRYTVWTVpXdkdnS192UXYyV3MtVGFWRWZka0g4MkZmX1BaY2RCaTJTRWFhSElaWlRDLXppc3ZnYW8tLXRFNmtHN2xTMk9rZlpLNU1EQ0dwY1NKVzNUV0ZUQnlwbzlVY1p0dFZybHZ3VE5PekE?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 19 Feb 2026 06:18:52 GMT",
       "category": "Security News"
     },
     {
@@ -36,17 +99,10 @@
       "category": "Security News"
     },
     {
-      "title": "Planned Kwara attacks: Time to act is now — Gani Adams",
-      "link": "https://www.vanguardngr.com/2026/02/planned-kwara-attacks-time-to-act-is-now-gani-adams/",
-      "source": "Idowu Bankole",
-      "pubDate": "Thu, 19 Feb 2026 05:58:34 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Zamfara’s security reinforcement wins Defence Minister’s commendation",
-      "link": "https://www.vanguardngr.com/2026/02/zamfaras-security-reinforcement-wins-defence-ministers-commendation/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Thu, 19 Feb 2026 05:57:26 +0000",
+      "title": "OPINION… The Emerging Threat: JNIM’s incursion into Nigeria’s security landscape",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY09EQTJpUjRjR1MyOXhkcGM3VGtXUW0zMjV1aFpmWlN4aHR0N01aLTVKUDE5NkpSUDN1ZmJqcXZpOHotajV0TkoxTG5jNzBhaFVFcTJaNUFqcVdoSzg1b2RJLWdjQzVfTXowMzR0SWNrY1lSVzlrLTByYUxxV09fZFBLbmZRZE5FNGUxSkRoV2RqbG1NVGhERmxjYWVEbUlmTFJVVUt2QWZQYkFp?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Thu, 19 Feb 2026 05:53:51 GMT",
       "category": "Security News"
     },
     {
@@ -57,24 +113,17 @@
       "category": "Security News"
     },
     {
+      "title": "miners die in gas explosion in central Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGllSWtkWnM5Q0dxZDl2ZWhFYTlmVzZxTzdaZURZWGl6S3g2WXl2Tk14RGt2ZHRaS1BOeVM5NG1EY2xsVXdHME55NDlsYWl4cllHUFo4YmFpb1YwYXluaENmcnBnUVpzZW00OGpBdkt5TGxrME9BNjNmdFlzNGRSZ0NRbDFTektmYmRB0gGLAUFVX3lxTFA5WHJRbjVzNXprOWxRMUUzclczWEVxVlZPSVBWN2tqLXZMR2RQOUpNd0FYNmNJdUNmUHZsZ1lFQ0RTYVhhQVVRaFZjaUhIa3JfS3A3Z3dEbWJ2R0J6SEQ0LXYxd01URTNNMU5EUGpINk8xWi1DR2RqTFVEaW93b1dTc29KUk1NdEI5OWs?oc=5",
+      "source": "Qazinform",
+      "pubDate": "Thu, 19 Feb 2026 05:52:32 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Navy reaffirms capacity to defend national security, assets",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkUzcVBjWjZRREFsTktGMWVhN2MwOFg3a3kyYzA4bWFkRENnUTRJNzRaR3ZrY2ZuTGp6YXBGZ0lRSDFlandlRlhJblRwVkRId0VnSGgxSWhHNHM3WTdrWHJWeWpKN2tzT3ZDdU5CZzVKYmVTRU1rc2FIZnhCdUt4Rmc2TFNJanhBcnloQQ?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Thu, 19 Feb 2026 05:08:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "At least 37 killed in Nigeria mine carbon monoxide poisoning: Reports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGR0em13LWRsY2R2emlsWG9SUkFyV1IxT09sVnd1bEhqRDdUTEpiVVJyeWVDb1U3dmlxTXpaaFlQUUpwQXFUNFlsSzBKR3BUMmxpNkVpVzhFbElFNkFlSmNQbGZsV0hBZHhOTVpaRkJzNnVhamhBSWRXaFY4Zjk5VGM1SkpOb24ycUExVDJqbWEycUR3bUl0blJUSWQ3eUpxaTlrb0xlb3pUN21LclHSAbMBQVVfeXFMUE1MbTUwSDdJbDNPY2IxMldqU0Zpa3JzaGh5Y2VsQ3ByeEhkMEc5V2NDY3VDZGo3TTlYaDNwRTFpLXZ1bl9YaEhPTG5CX2Y4Nm0xbTgwVjVwSzJ5S3FWVks3ZWdhaWJFX184Yzg2ai1STVcxbThCN3lrWTJ2NUhfcU0yNld3Q0dWNWw3Wi0yS2pfLTdEbERuemo1OWZqemF0UzRZS3F0X3JLVkQyWm12c1luUUE?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Thu, 19 Feb 2026 05:01:47 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "miners die in gas explosion in central Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGllSWtkWnM5Q0dxZDl2ZWhFYTlmVzZxTzdaZURZWGl6S3g2WXl2Tk14RGt2ZHRaS1BOeVM5NG1EY2xsVXdHME55NDlsYWl4cllHUFo4YmFpb1YwYXluaENmcnBnUVpzZW00OGpBdkt5TGxrME9BNjNmdFlzNGRSZ0NRbDFTektmYmRB0gGLAUFVX3lxTFA5WHJRbjVzNXprOWxRMUUzclczWEVxVlZPSVBWN2tqLXZMR2RQOUpNd0FYNmNJdUNmUHZsZ1lFQ0RTYVhhQVVRaFZjaUhIa3JfS3A3Z3dEbWJ2R0J6SEQ0LXYxd01URTNNMU5EUGpINk8xWi1DR2RqTFVEaW93b1dTc29KUk1NdEI5OWs?oc=5",
-      "source": "Qazinform",
-      "pubDate": "Thu, 19 Feb 2026 04:40:14 GMT",
       "category": "Security News"
     },
     {
@@ -148,13 +197,6 @@
       "category": "Security News"
     },
     {
-      "title": "FRSC Marks 38 Years Of Transforming Road Safety",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDRWZnZRUURKWjJHdTVTNmxwRjg0X2kwdVIxMkcwTi16MklFZG5nSFA4Qm9oUGgtemJWZHN1YWdLTFF5Y0NxeXZpeTltaDN0MmxkSV90WW9zeHBDN09IY3FiLUVRcnEwTzFuZ1hSbTNzNmY3NEN6REZaWEJQeGZNcnoxQ2k?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 18 Feb 2026 19:07:46 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Nigeria’s Churches Confront Tinubu as Attacks on Christian Communities Surge",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREJLbjNyU0NmaXNaTjVWYjJjdWZJbVFxU1dqcUE2U2tIZUZGdkUzSHBzSXVxU29CanQtRlJsNU5xUDFFME0ta3RBX1lsVTdIMVpkb2pBbFVKUUJMX2xZemVIUkNzRkJCN0pPQjlldVh2Q2I2T1g5M1V4RDRaTmw3WDMyZVA5bDhfcEY2eGxQUG5DT0QtT1JXd21mQVRTdHBnaElRVGNvdU8yRUlIcWc?oc=5",
       "source": "Truth Nigeria",
@@ -169,25 +211,11 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "“Maybe Nigeria should question our broadband capability — how technically ready are we today, and how technically ready will we be tomorrow to answer the call for real-time or not?” — President Tinubu speaking on electoral law. #trusttvnews #2026Elector",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhaVJQQ2U3dG50RE5vQ3VIQ3RQaWdTYlhoN3pwZmluUVZ0NW1LQ3I5czlGS0RTQ1NTaGtzZXNCYlowY3dIaUlUaHBLbjZSWWVhWFNiRzJB?oc=5",
-      "source": "instagram.com",
-      "pubDate": "Wed, 18 Feb 2026 18:31:26 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Nigeria mine accident: Suspected gas leak kills miners in Plateau state",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oeUhUdUZZWm1iRzY2d3paRzlHaTVseTZOTm9PZ240YXp5RnVmUzhGdTlNWXBDMXhhblM4NDVsZ2FuZHBhRUpMMHZjM2F4VldrTGVWMG1mWmw2UQ?oc=5",
       "source": "BBC",
       "pubDate": "Wed, 18 Feb 2026 17:29:23 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "Spain, NCTC Seek Coordinated Support For Terrorism Victims In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MREdibDhEdDRQYWlraURfT19kR1dyQ0lMT0Zvcm1tUkN5TGlVZWhBYmFsUXNrYXY5WDZBaHg0Q1F0QVZJcFdCX1duOFhIVjA?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 18 Feb 2026 17:11:33 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "FCT Polls: Police confirm deployment of DSS, Army, Navy",
@@ -218,13 +246,6 @@
       "category": "Security News"
     },
     {
-      "title": "Dozens killed after suspected gas explosion at Nigeria mining site",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1dXS0JjM3lxT3FiZ2paeXd5M1k5a0pfRG5NN052RDRDbktPeTM0QTZaNUNPbFdocndkZ1QyY2xXVzl4dzlJYl9wZUxOamVXbWFSdXdXQjJhWTlxMXBaWlVNeVZnQTk0UnFfQVljdU13bVprd0MzaXIxVXgxWUVFTEJ3OGc3VkE4TGFxTl9rVExXQzhhLTdGSG5pVFFiWjZCQVBnTDY3cXpNdw?oc=5",
-      "source": "Anadolu Ajansı",
-      "pubDate": "Wed, 18 Feb 2026 15:58:31 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FAO Deepens Food Security, Employment Drive in Borno",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rZGJjVmVyaTIxTmloMG1MS2RVaEEtSTgzU09XbkxsbUJ4N1NlaDVXYTVRSFZ2a2dTclExeGlRcDJJRmhyNlZpMVdXbEJMLV9wSzl0TFFMeHc1OVJZTFZramsxSEhnUGozZ2FsVW9hblBXUTdUWkxja0VNWQ?oc=5",
       "source": "Voice of Nigeria",
@@ -248,7 +269,7 @@
     {
       "title": "UN Security Council Condemns Deadly Terrorist Attack in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNWtkUlZjVDZKNFdfS3N0N1JmMVlwQ1YtVmJJc1hucS1aSTdlWWcxLTVkdl9CTElobHlnZGxoNW9LazdVaEpwZ2NWdUtxQXJUZU5qRW8tRUlQNDlWNUFMcnNhNU8xV3F2NktFZ3V6SVV3cmkxYjJ2Ql83TWZuY1lraFd3dDZkS1BCTTNZM2ZnSnlKUk9ERUtzblgxNlIzM2xTcE5Z?oc=5",
-      "source": "Barlaman Today",
+      "source": "BarlamanToday",
       "pubDate": "Wed, 18 Feb 2026 13:00:43 GMT",
       "category": "Armed Conflict"
     },
@@ -258,13 +279,6 @@
       "source": "TheCable",
       "pubDate": "Wed, 18 Feb 2026 12:30:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Zero Funding For NDLEA Threatens Nigeria’s Security – Group",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWZFY3paYzEwWHdDQ2dkT2J5aXN4em9MYXdEOFFqR1FCdjJpQ29vdnN1aXpqcUdVZWZvTll4UnhYd0w3ZjBSRVpKR1UxeXZieDR2cWt1SkxnZ2xzWnVaNnQ5NTFZUEZzWno0emxOYW1GamhVaG1CQXBkOUhMUmFHTG9WdmltUTQ?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Wed, 18 Feb 2026 12:24:49 GMT",
-      "category": "Security News"
     },
     {
       "title": "Ex-lawmaker Sani backs US-Nigeria security partnership |",
@@ -316,13 +330,6 @@
       "category": "Security News"
     },
     {
-      "title": "Falana, Jibrin, Bugaje, Others Condemn US Military Presence In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQW9pZGxLYlJtUFhRY1hySUtVMTFyVW5JMm9NX2gybG9IbUlVZHlPZE1QMkVXZmU1M1JOcUtnMUxmaDBGMDFWVFRPT2Nsb29OVVgxY0dpMGJobEtVR1p1eDdvQm9RaUZhLVBNZmlSbk9sSVVoUXJONE5ZaG90VUlnRXRCOEtKNEVHVE1McE1Gb3BxUlN1RGc?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Wed, 18 Feb 2026 02:34:04 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Insecurity: Bells varsity VC seeks overhaul of cities",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XY2l0d1BNVGRsV2ZCdGZPeHFpTFBrWU9NX3hKeWhfOVNCbnVlY1VOUVduX0NjZDVVNmYtaEJYZDdreUhqN3ViM2ZmZGFjUXM4X3o0d2pnVkZVVENBUFI1WjFhU0t1V0NCQ2FtZ0RMbzRVSWg5SFl0dXZIYk9hUQ?oc=5",
       "source": "Punch Newspapers",
@@ -344,13 +351,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Security Expert Advocates Community Policing to Combat Crime",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21Lb2VjVDBXOEQ1eHBTckJzSmNlRC1KX1VKdjJZMWsyWVgtcFktcFBuYTFzYUM1emx4WTRNWlYxUWZ6OGZUWW5PMFhoX0g5SU45cjQ4Q0c3YnRVZ0RzVUJfcUtaczlNcDdaTEl1c0Nob3o1VG43TXFpNC1sZEIyWFlRM3MtTFU?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Tue, 17 Feb 2026 20:13:37 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FG, Security Experts Push For Modern Shooting Ranges To Boost Marksmanship",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelZrVGlYNVlnSWxLR2IxaGJlZzRSTGx2U3Z1OTVxWFByY3FSZGFkVVpKQzM0MFhNUk9WXzUyeFVqT0djZE5xdHFGeGZqMEJLZGtzSXNUbENEYmhUYWExZVpSRlg5ems3YVYzZ1BTaDdkMUhOWXJ1M3AyWTNFbC1Sd1JyQ2hmNmg5YmdYRFFfUXM4OFFPNVBFTWVwOA?oc=5",
       "source": "Arise News",
@@ -358,11 +358,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigeria must prioritise medicine security: NIPRD",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9paVZURkVpMmtSTzRHNnVLMVZxM2xTcDVva1V4RGFZYmptZnRrU3lTejl0bjg3QWpvZndaUHN1Z3V0X25wSnUzVWh2cmJoaUtqU0RZODFlZDNxRzR2YWUyYmtqN0hyYWVnb0lza2ZUZFRLUDlHV2NmTjZLdw?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Tue, 17 Feb 2026 19:31:09 GMT",
-      "category": "Security News"
+      "title": "UN Security Council strongly condemns deadly terror attack in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0JsYkdObFRIR3NJT0p5ZU8xV0VYX0NSdUh5VmpwOFEzSm9fejdqaG81V0pJMTc0OXk4dXZ4akVieTVfY0lhM3poRFBBRUo2NzV1Wk81YnhzWjNHb2VzekFHTnBEeGRMR3VYaEhfc0RsUG1TTU9mVHVHZnc2TFJnUjRpbzE4OHNHSVJMN01mUnpWVXlhQUU4ZlpmN3pWNTBsc2loZm9ldnFfOGFQQ0E?oc=5",
+      "source": "Anadolu Ajansı",
+      "pubDate": "Tue, 17 Feb 2026 19:22:30 GMT",
+      "category": "Armed Conflict"
     }
   ]
 }
