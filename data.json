@@ -1,46 +1,116 @@
 {
-  "timestamp": "2026-02-20T06:23:47.544Z",
-  "generatedAt": "20/02/2026, 07:23:47",
-  "totalHeadlines": 171,
+  "timestamp": "2026-02-20T09:17:39.034Z",
+  "generatedAt": "20/02/2026, 10:17:39",
+  "totalHeadlines": 176,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 113,
-    "Law Enforcement": 12,
-    "Insurgency": 12,
-    "Banditry": 4,
-    "Armed Conflict": 12,
-    "Military/Security Operations": 10,
-    "Traffic": 5,
-    "Kidnapping": 3
+    "Security News": 116,
+    "Law Enforcement": 17,
+    "Banditry": 3,
+    "Armed Conflict": 9,
+    "Insurgency": 11,
+    "Military/Security Operations": 9,
+    "Traffic": 7,
+    "Kidnapping": 4
   },
   "headlines": [
+    {
+      "title": "Dedicated rail security service long overdue in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1BpbnVJcGc1b19zRXRfaFRXdmN5dVFoc1F3TG5fNEhFQWV2elptUnBqaXJaOGEwRUxFUUFTU09fVmRfMWZuZ0h5MHpnSFRRTDJGVXBqdk9vbTdQeDRvczJnOTlKbTJLenhfMVhnclN5aXQ4WmdPekZkT1FSdDBhVTc2R0Z1X0xuMHJBTlYydjRzR212S0E?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Fri, 20 Feb 2026 09:00:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Iran warns US bases, assets legitimate targets if attacked",
+      "link": "https://www.vanguardngr.com/2026/02/iran-warns-us-bases-assets-legitimate-targets-if-attacked/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 20 Feb 2026 08:58:31 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "The road to \"A Doctor’s Nigeria\", By Azu Ishiekwene",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VbnpYbGZwUGtxM1BwYnpEeGlUS3U4VWpxRUFZVmtCQ0lSQ2NiMExaeVRYTXlfNnpybXNxdFJWZjM0eFBwbDRqcHBvcGF3STYzaGc?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 20 Feb 2026 08:58:08 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigerian Government Launches Sexual Assault Referral Centre in Abia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDktX01hTVZGNXU0bkw2cnZUM2pSSTZ3SzdsOENwTFJfTG1ORVRGTmdQNVM1LTBiQVk1RVBtdGJ3dWI3NlA3QmxGOXhfdUVSTHphOGJnX1BfalZvRUtSRkZNVHBqdDRZQ2Vrc0VsR0RRenl6dW1zMmppeklrVHM1NFhBc3hPME9ucEpqWVRFQmU?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 20 Feb 2026 08:52:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s multi power security deals risk multiplying internal vulnerabilities",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGp4Vk9sVjdwRDQwNFNtVGhRM1Q2c295a3I1UWZwUE5wMW9KbUVuZWRyejJmUjlfdk1DZnNmZnZpeWQzSld6eHBJdkhMMmowU1RMWmZiTTB1WndIS3ZDa1BqdEhCTm9CNlJLcU1YbklLeUh2clk2UHBvOTZZall5ZURIcUNUczhnRk5HQUx0N0E3eVVrM3dZZVZuWGV5TzV3MmRYb2ZVN1E1TUZVdmVhUTZCRQ?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Fri, 20 Feb 2026 08:50:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Lent, Ramadan: Police begin 24-hour patrol in Plateau",
+      "link": "https://www.vanguardngr.com/2026/02/lent-ramadan-police-begin-24-hour-patrol-in-plateau/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 20 Feb 2026 08:31:20 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FG launches probe into Wase Mining tragedy as death toll hits 37",
+      "link": "https://www.vanguardngr.com/2026/02/fg-launches-probe-into-wase-mining-tragedy-as-death-toll-hits-37/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 20 Feb 2026 08:00:41 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Beyond bank’s recapitalisation: Strategic treasury management as Nigeria’s new corporate defence line",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSm1rMTdndDhPTS15YzMwSVNYeHViMWc4Qmg0NDlEWjhRdDV4czdJZnVZM0tKa2Nsdmw1OVpKb0x3Vy1kMlF5eWpRLWVSWFNoSXdWbEVjbVR6M2FqSGNDbl95Ym9HX0V1YUNoOVFGalJOcndsZDZ0UEhmS2t0YTlWUnRsdllsU0FVVXhhaDdxTVpsMHRjUHZMcFpFaktGQ2F4RExYWGJ6WDI5TzNDaFpfVm5JVFoxeFBNamUxd3F4WkNCbXhaSW1sd0gxMHFPd1ZrMjVGMzBDNjk5SU55TUR4SWh4ZXpoV2docHFpY1ZOdV9oOXI5M1BJcGZWRW14U3d0TGRvYkpOYmFVNXRz?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Fri, 20 Feb 2026 07:55:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Civil Defence, NYSC To Partner With Imo Foundation On Clean Environment",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRU1tdU1OLTVfRFo1Tm5HLTNSSUVGc0xtamhSMWJoV2piV0o5aFQ5NU5BSnpCNGZLVkZFejVNdzBQS0gyci0td2FVcTZYZVQ4X3cwbm1QNTNrNVR6VERzdVRNSkZ1OEJnSi11Qm1tMzJDWkNVTGg4RjZpVTd1WGRQUnRBTXdadFBZLWVVcFpla2Uzc3JCOHBJMg?oc=5",
+      "source": "leadership.ng",
+      "pubDate": "Fri, 20 Feb 2026 07:41:42 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: Troops arrest alleged drone supplier",
+      "link": "https://www.vanguardngr.com/2026/02/insecurity-troops-arrest-alleged-drone-supplier/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 20 Feb 2026 07:20:57 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FCT poll: Police deploy security personnel, Wike declares public holiday",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3M2M3A4MmJlU2VyV3czOWFmQ182STZjaDlSdW82X2M5RkhkSkZIX3JlRXNXMmxQYVJ5OFlmcGVfSEN4TzNRQzM3WWoza1BKU09CRGg2aFpxTUltTWZIZjNRMHRmUzZKd0hnMFUzUG5BY3RuUXpvRlNvaFhRaFY3V3ZhVk9NeGNnejlyN3pVZ1Z1TFlLTjZMaGhSaFgtSHM?oc=5",
+      "source": "ThePointNG",
+      "pubDate": "Fri, 20 Feb 2026 07:18:26 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FCT Police impose 12-hour movement restriction for Abuja Area Council Elections",
+      "link": "https://www.vanguardngr.com/2026/02/fct-police-impose-12-hour-movement-restriction-for-abuja-area-council-elections/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 20 Feb 2026 07:17:52 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, Kenya to revitalise Joint Commission for Cooperation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUlQMUVLbUpKOG5ibjYxOU95bll6S2ZGNFpJdVNmbjhFNDRCLUtURWwwRFRZVWpSczJnc1NBOEVCZ21yRnZzODJzZGxJRzhSM05WRG9NWnlQeE84d1ktb0JsdkpocW80UzladWFMTDJtWnhFSHprc1U4N2MxUWs1SnM2dHJMN29mdUh2bQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Fri, 20 Feb 2026 06:42:35 GMT",
+      "category": "Military/Security Operations"
+    },
     {
       "title": "Epstein, Ex-Israeli PM exploited Boko Haram insurgency for profits — Investigation",
       "link": "https://www.vanguardngr.com/2026/02/epstein-ex-israeli-pm-exploited-boko-haram-insurgency-for-profits-investigation/",
       "source": "Idowu Bankole",
       "pubDate": "Fri, 20 Feb 2026 06:00:55 +0000",
       "category": "Insurgency"
-    },
-    {
-      "title": "Terrorists kill 34 fasting Muslims in latest Kebbi attack",
-      "link": "https://www.vanguardngr.com/2026/02/terrorists-kill-34-fasting-muslims-in-latest-kebbi-attack/",
-      "source": "Idowu Bankole",
-      "pubDate": "Fri, 20 Feb 2026 06:00:35 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "ICPC raids el-Rufai’s residence in Abuja",
-      "link": "https://www.vanguardngr.com/2026/02/icpc-raids-el-rufais-residence-in-abuja/",
-      "source": "Idowu Bankole",
-      "pubDate": "Fri, 20 Feb 2026 05:55:00 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Plateau arrests bar owner, another woman for trafficking 3 girls to Ghana",
-      "link": "https://www.vanguardngr.com/2026/02/plateau-arrests-bar-owner-another-woman-for-trafficking-3-girls-to-ghana/",
-      "source": "Idowu Bankole",
-      "pubDate": "Fri, 20 Feb 2026 05:42:46 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC arrests two over alleged meter tampering, illegal power vending in Osun",
@@ -74,7 +144,7 @@
       "title": "Nigeria deepens strategic cooperation with Spain as Minister of State hosts Amb. of Spain",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0hteHRCNXpiZHNqWkFSa1NhY2RyV1VQSVhjODVyRVEwYl9lTlhmUFVXNVZnWmlFRzJyWU1oN0tfTlBaMEc2TUpXUFRiSmFGbW9oTnRDaFg1clRrcEN4WkpqVXBfd19tdWVBeEw3dU5fNFZpaTRzeExkU0JZOTRPV2lMdUtzRjl0bWRndFFmbG4yUHQwNndEN3kyMDRYUHZTXzloeUU5dlUwVGZGVXlxZ0p1akw2T1lEa2ZiTW5mTmVvWUtzM0tR?oc=5",
       "source": "Champion Newspapers LTD",
-      "pubDate": "Fri, 20 Feb 2026 05:03:45 GMT",
+      "pubDate": "Fri, 20 Feb 2026 05:04:22 GMT",
       "category": "Military/Security Operations"
     },
     {
@@ -88,15 +158,8 @@
       "title": "UK, Germany join forces with Nigeria on war against terrorism",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWZrTTRteU53LVZDRThELXhYbzVXU1J0Mk9rSUlzVEd0VXlBdVk0TXk3R2lGRzFpeU9EWEdDTGxLTWFoRWVEdll2RzZrRlhEbHlTaWJLT2dESjl3LWxGaFI0OW9vMmZPR3RQYkNDcVdLOGFKRDJsemlxNS1ZTFVtWkxlTkg1NGtoLWVIc1htWi1Xd0NLNV8yTDdRNjd2M1l5b3c?oc=5",
       "source": "Champion Newspapers LTD",
-      "pubDate": "Fri, 20 Feb 2026 04:29:47 GMT",
+      "pubDate": "Fri, 20 Feb 2026 04:30:47 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "How we tracked, arrested Owo church attackers, DSS witness tells court",
-      "link": "https://www.vanguardngr.com/2026/02/how-we-tracked-arrested-owo-church-attackers-dss-witness-tells-court/",
-      "source": "Idowu Bankole",
-      "pubDate": "Fri, 20 Feb 2026 03:32:29 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "How Menace of Bird Strikes Impede Safe Flight Operations in Nigeria",
@@ -139,20 +202,6 @@
       "source": "Businessday NG",
       "pubDate": "Thu, 19 Feb 2026 19:47:49 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Governor, Security Chiefs Launch Operation Savannah Shield in Kwara",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkZIa3gzV010aHZHZkR5Q2M5VnZ6MjZ1YjlZMVRZTEJDTjVzYzJ1YkpoT1NDTGpvY05FQUlRcVVNRXFhSTVuV3ZwNkttQWhyQkZaa29BMlluS2V5eVNEd0lrcnZrVks5T3N2OXRtS0VJaEdfTU9QV3RTN3hqVzV0aTg1eVJzSUp3MFUxNzN4VQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Thu, 19 Feb 2026 19:25:28 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria: Defence Minister urges troops to sustain pressure on bandits, terrorists - APAnews",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2pUY0I3LTE1YTJkdVYtdGFXRkV4aXBLSGUzSVVkZHByWFkwTXg0RkdOcWl5TkFhaFdXTWpzQVFGT1E2OGZSZy15M0c0VlNkZGFfNG1uVEU5SF9DLUpfQzZWMGc2NXpnQ0lBU0tYLU1nZlg1eWZGaXFXSHI5VXRaN1FOS3Rjc09JUVp3Ny1oTHNDTXF5SUhNM25mcGhaUnhrWlE?oc=5",
-      "source": "Agence de Presse Africaine",
-      "pubDate": "Thu, 19 Feb 2026 19:00:55 GMT",
-      "category": "Banditry"
     },
     {
       "title": "Author lauds Egbetokun for strategic deployment, improved security in Lagos",
@@ -246,17 +295,17 @@
       "category": "Security News"
     },
     {
+      "title": "Nigerian content creator Kolu reportedly arrested in UK [VIDEO]",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXc3el9peDMyS3NmbUNtSHl5UE5QTk9mNmVLMTNidnEyNFZ0V1gwSkd6NVZZYzdXUHRFbnJOZW9KTVY0eEtHQzNZX21oVENFZ1hSQVI1T0xNZWNXbkYzdmkxME1sUDBTcDN5eXk4MUlmMkhPdnE5OEdoRFFRc0w0U1VBbThGd3ZLWFhFRGxEMjA0TlVtZDA4amV3?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 19 Feb 2026 15:29:52 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Defence minister applauds Zamfara gov, Dauda Lawal for procuring advanced military equipment (Photos)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTG1oRzF0ck8tcjNuWm5icW9ETnFib2JjVXVraXNLWW1UQ05neVltakFyQkE5NHlFN0JmLTFVRnRGV25MVVFHaXZWX3dLT0NzQlhHel9weEYteExBeDFjYllXbE55RUtIbndpU3UzOUc2OVQ4dWxCZ2lZc1JkRFcxc1F1YVA5a1JvcGNUVVhzM21qWVpUaUJob05IMlhYUHltVHZvV1FHbGVQVXZUZ2tnSWtqd2VCczdkWk9FNHdHTTNmcEI3N0ZV?oc=5",
       "source": "thestreetjournal.org",
       "pubDate": "Thu, 19 Feb 2026 15:18:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Senator Mpigi Barinada is dead",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSUl9lT1BzSndXaXowWWR4aHJmS1pHemc0SFVBSVhnRjBtVUxjNTFJY3lOalVUZzBsUXpHZ0NzSThLWjhuVTR4SG9aWFp2ckhKUU1xUl9UUlVfU0pjMkhaaTl0ZVRHV3l2NG02bjVvVkY?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 19 Feb 2026 15:05:12 GMT",
       "category": "Security News"
     },
     {
@@ -269,16 +318,9 @@
     {
       "title": "Banditry: Kwara Community Donates 3 Buses, 4 Motorcycles To Security Agencies",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0NsYlFMeDFIZHpDOEl6ekpFRHlHcmNOZ0w1N1VES29ET1htZUtYT3NNMktRZmpnRFJDc0czbWdLb25PMldXc0c1cVZGRlF6X2ktSHdxY3NPeGpDcFp6bnFFVkdsTEMxRE5XUnJpX1NaTkw1Q29xVy1nakk0blgyUWZNWnlfRnNnU2VEN3VkZGNyc1AwZjFPMlpUWXNhSVk?oc=5",
-      "source": "LEADERSHIP Newspapers",
+      "source": "leadership.ng",
       "pubDate": "Thu, 19 Feb 2026 14:49:37 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "At least 30 killed in attacks in northwest Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0NTUFgyM0g0elBaeEJCMk9xSlYtTjExRk5oMlhTT0lzOWJzTGQ3aVNBSHlJdDJSSXhFbEF0WDQ3RFlnTWdwcFJza3c1Sjg1aTlucDJrdkNZem81ODBjZlF6bjN3alVRSzNULW5UclhEZjFoQjlpVEVKaUdzTTVjRjRaS09LX3FZUTR3VjktbXhCX3hW?oc=5",
-      "source": "Anadolu Ajansı",
-      "pubDate": "Thu, 19 Feb 2026 14:24:17 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria's Tinubu, Germany's Merz talk security, power deal in phone call",
@@ -290,7 +332,7 @@
     {
       "title": "Arrival Of 100 US Soldiers Marks Turning Point In Nigeria’s Security Crisis – Hon Agbese",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkNIRGRUck92VTZ1NERtM2w1N1l1WkE1eGUtbzdaR094Y3F6b19ZSzVsY2pxQ0swRDZ2a0tfQXpBM09hWXY5ME1oUlloWHVZeWwzdFQ1djdxY2ZzR0JDS0NfMG9PM1JFUWNiQ0tFRk9kRG0zdUY3OHZqbDdzUmFJRktiOGVkZW1DbGxGOWx1eGRIVGdhcC0waUtWV2luNURTSHV2dm1nY3d2bG5n?oc=5",
-      "source": "LEADERSHIP Newspapers",
+      "source": "leadership.ng",
       "pubDate": "Thu, 19 Feb 2026 11:42:49 GMT",
       "category": "Security News"
     },
@@ -321,48 +363,6 @@
       "source": "BBC",
       "pubDate": "Thu, 19 Feb 2026 10:51:03 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria, Germany to collaborate on security, power",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanNMVkFMaV9iaDNBcmRpMWhabmZMUHo0bGV0blZhTC0wNHdyRnJFOWRiYU4zWGFBdlgtZnNScW1XYUU2S2hQLXhiYl9OR2RWUXpMNTZycVhsalpmaWFZSEVhaHlYd09nbDBieTVIZ2E4TDhzYThUcnZwQTBpSDRNclhCWjVSbmhhWVhhUHVB?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Thu, 19 Feb 2026 10:16:32 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "United States, Nigeria security partnerships will address evolving security challenges – Group",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnBfLUFkc3RaZmI3SFhIZ1M3bG5SMjk4Y2U5MW9QaEJfTVJCNXYzM194dzhTb3RDYmNCQVg5bV96V0FKaWpnWkFlUVlUVUxnUTFlR1lyM0FIMHFxZTFWRXFCOFFBTWhLOUkzcUpwMEVUQlJ4QTRIX3VuRG9hb0h2THYyM19GWlJORXgyN2R3TVlsR1MxSUhiWlZfZFp2WVZvN3pKQmJzdC1Qa0tsUWpLNzExYw?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Thu, 19 Feb 2026 09:53:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Turkey to deepen military ties with Nigeria over shared terrorism threat, says ambassador",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2hVWGVfVkY2VHVDcnZCOW1kZnljVVpZbFduejJQZ1ItNS1TbzlfSlF0ektIWkRmRU1GNFV6WkpBU3B5VXg3OXlsTWdPYm0wVWtmeFhOVmdtUk5jLUd1aGVEdlVkWks3eXY2bmtYRXRkNU9ydzlRakJLM0QzWkxpUlpHOEhNRVZfZUZTSmZIS2M5U3dkZi1Oa2xrVXZuaVpsX25OeEV4VUtwcE5OSmNzLWk5Zw?oc=5",
-      "source": "TheCable",
-      "pubDate": "Thu, 19 Feb 2026 09:35:00 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "ADC Chieftain Applauds Nigeria-US Security Partnership, Calls For Stronger Domestic Counterterrorism Measures",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFA4LW1iNnV5VnFHeTc4cFpIaU5ObEZ1NEZpbG9OZ0FlNFBhQUp2Y3ZOZFIwd3FXUW82S3M0aUlMWjExQ2swb0ZTNHJuVnlPbS00aW45T0tPN3JmT1BFVV9aNkE2eVliSU5CUkd6MWR6UnFzQXZiRkhiRmwzT3ZudHlsYkFEZnNCX3NqRDAzRzFLTkFNd0o1dmQ2Sy00a3ZZdUtSeEdjX0Eyc0ZNMDFFdlQ0UDVmbTJmNENPb3BGTUVwZEY4Z2lhd2lR?oc=5",
-      "source": "Arise News",
-      "pubDate": "Thu, 19 Feb 2026 09:28:20 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "‘Holding hands’: How Nigeria turned Trump’s threats to military partnership",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVBMc0J3dGxlYzRXWWh3Z1BhZDlpeDBiRmI5ZXhaR2duR2Zhd0lCUzkzTXJlbFRzQi03TlMyMUVBZWo4VE4wVVlGeGtmSjQyaU94Q2VpelNPOVBVanZ3bUQxdG1iSHAyLURhOFZ6akhCUlhNRU16eXBaSldDam1jN0hjcklaUENWelpMRVJfTE9uaUhMRk9EVXdVNVIwcXdCNFBvNTR1YTVpX19udnNF0gG0AUFVX3lxTFBrSW5vSzMyaE5MU0U5aEVGTzktTE11TnQwaHpzYkVFUzBXU2tTVDhMcE5qTWtINlNRbkdGT0J0a0Vib0lPVGhRU0l0RlY0djBGeFg1VkJZMHo4bkZOa0sxOVcycGpNb1JuMjh5Mjhwb0FXNHBXNXN1cGpvUHZhVkx2bWhhcXlYemNwNDFRS1REU2ZEVndveWROcWlvU2VPR25Cdk1mT29POWFnRE9qbzBzeG9nUA?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Thu, 19 Feb 2026 08:35:17 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "At least 37 killed in Nigeria mine carbon monoxide poisoning: Reports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGR0em13LWRsY2R2emlsWG9SUkFyV1IxT09sVnd1bEhqRDdUTEpiVVJyeWVDb1U3dmlxTXpaaFlQUUpwQXFUNFlsSzBKR3BUMmxpNkVpVzhFbElFNkFlSmNQbGZsV0hBZHhOTVpaRkJzNnVhamhBSWRXaFY4Zjk5VGM1SkpOb24ycUExVDJqbWEycUR3bUl0blJUSWQ3eUpxaTlrb0xlb3pUN21LclHSAbMBQVVfeXFMUE1MbTUwSDdJbDNPY2IxMldqU0Zpa3JzaGh5Y2VsQ3ByeEhkMEc5V2NDY3VDZGo3TTlYaDNwRTFpLXZ1bl9YaEhPTG5CX2Y4Nm0xbTgwVjVwSzJ5S3FWVks3ZWdhaWJFX184Yzg2ai1STVcxbThCN3lrWTJ2NUhfcU0yNld3Q0dWNWw3Wi0yS2pfLTdEbERuemo1OWZqemF0UzRZS3F0X3JLVkQyWm12c1luUUE?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Thu, 19 Feb 2026 08:35:17 GMT",
-      "category": "Security News"
     }
   ]
 }
