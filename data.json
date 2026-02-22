@@ -1,19 +1,75 @@
 {
-  "timestamp": "2026-02-22T18:10:42.414Z",
-  "generatedAt": "22/02/2026, 19:10:42",
-  "totalHeadlines": 167,
+  "timestamp": "2026-02-22T21:08:26.866Z",
+  "generatedAt": "22/02/2026, 22:08:26",
+  "totalHeadlines": 164,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 128,
-    "Traffic": 4,
-    "Law Enforcement": 6,
+    "Security News": 127,
     "Armed Conflict": 9,
-    "Insurgency": 6,
+    "Law Enforcement": 8,
+    "Insurgency": 7,
     "Banditry": 1,
-    "Military/Security Operations": 8,
-    "Kidnapping": 5
+    "Military/Security Operations": 5,
+    "Traffic": 3,
+    "Kidnapping": 4
   },
   "headlines": [
+    {
+      "title": "Gunmen storm Plateau community, 7 persons feared killed",
+      "link": "https://www.vanguardngr.com/2026/02/gunmen-storm-plateau-community-7-persons-feared-killed/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 22 Feb 2026 21:02:02 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Sen Akume links illegal mining to rising insecurity in Nigeria – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHgya1I3TkVYVWJkaTFvS3lHSTh3Vi00bnk3bk9nY0d1STVnRktScGJEcUF0QlAzZEczMl9fSHMtNUllQlFoX0M2N3phM2JZSDNROXBpdDBXR3NhOEg0ZHpFVVBMZHc0ekpXcG1MM3V2OXRoMTVLMW44Q1BwbTZTa3hEWjVnTldKcm5NRE1VUnlUbU9ua043bEEzT3hleTRGenNreQ?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Sun, 22 Feb 2026 20:33:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Mexico’s most wanted drug lord ‘El Mencho’ killed in military operation",
+      "link": "https://www.vanguardngr.com/2026/02/mexicos-most-wanted-drug-lord-el-mencho-killed-in-military-operation/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 22 Feb 2026 20:32:15 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Boko Haram’s 15-Year War on Education Targets Christian Children",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1lKam9YWTRuUmItcjc3TUxGRFFhcXQ5NjBpZmplaU9lMzY2UEZ5ay0tamwyZGVseklIdk9veGFjdnRzU2lnNzQ0c0FFOHM0S0hOSVhOY3JmQnRRWmxRR2MyRkotLTJheEdOREFHQmNoN2hDUG00Z3k0ZGVWUHFWUWhGQWFJT1NTT01Gem9IY280UnJ4eHJILTNsRERDQQ?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Sun, 22 Feb 2026 19:18:33 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Southern Nigeria sees Surge in Fulani Militant Attacks",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkREbE03WFdFS1BkZzM2RE1vZEc4RE1TTUE3aHdOaUV4U2JVekhSZ2hudWd1cHNBeUNTZzZCV1lSeHNoNXV0Wm9iTkQ1QVRIZVY1Y0ttVHRyaVdpMEl1TVl5ZVUwZm1kMjJMRDkyUGNGSFZrNlF1NFl5TTR0ZnZncmV1am9zV0h4Q1I0NFBMTmpxQQ?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Sun, 22 Feb 2026 19:09:57 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Dangote–NNPC Alliance To Redefine Nigeria’s Energy Security, Deepen Industrialisation – Ojulari",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWlqV3N4bVhpSnJDODJ0N0JyclNWb1paY0xROGJaOUsyZEpCdF9GQkF3S09YZFZ6RncxQ29SaVh6OC1OZWVvQU4wV1cyb2lIWEZYZkxpOHc2Uk1WeXdzLS0tbGl2M3l3Y2U0UW9iSENEdVVnVF9sc292b1Fmdm9zUkF1cURIdmVwUnRNTkQwZ192S0JNemVwTUJnV1Q5akdUenJ5UjZiTGdGQml0eTdMc2w4cHQ?oc=5",
+      "source": "leadership.ng",
+      "pubDate": "Sun, 22 Feb 2026 18:49:14 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FCT Polls: EFCC arrests 20 suspects for vote buying, electoral offences",
+      "link": "https://www.vanguardngr.com/2026/02/fct-polls-efcc-arrests-20-suspects-for-vote-buying-electoral-offences/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 22 Feb 2026 18:48:39 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Most terrorists killing Nigerians are foreigners — FG",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa214OUY3UV9lS0lTUk5qZkFQRWhUUUs4dklOYWEtMlJVZXFEUG00a01JMGJ4WXhKLXE0ZlJHTkt1RGVWb3Qyc2tjTTFDaFdYM2xXZnRfT1lXenFvTnBiWFF0Mlc1S3Z1U0pLTWJxYXVtSEg0ZkpMTTNhWU5uZ0REdlB1MlBSZlXSAYwBQVVfeXFMTXM0V19RWXVtaE11S1BkQjNXa3RFbm9HbmUxNHFza083TGdoLUt3WkhIc3BIMVk1UE9QcHVkcG5rbUxtTThGNmRGemdnc1dmWElCRnRBa285dXEzQTZIMUNZOWdrSW91bnUtekRRNlhMaGY1UTAtT1RGUVVTVC1LMXBuTWctcnc3aU9CWmw?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sun, 22 Feb 2026 18:45:21 GMT",
+      "category": "Security News"
+    },
     {
       "title": "OPHK troops foils multiple attacks on fronts, neutralize scores of ISWAP fighters",
       "link": "https://www.vanguardngr.com/2026/02/ophk-troops-foils-multiple-attacks-on-fronts-neutralize-scores-of-iswap-fighters/",
@@ -29,39 +85,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Dangote–NNPC Alliance To Redefine Nigeria’s Energy Security, Deepen Industrialisation – Ojulari",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQndjNDF4UkJKQkJYTFh4OFZNblZWR0kwaGE5RGZ3alpWRlRDOGdGVWFNeE5rWDlCYVhQYkFJSThTUjNSWmozeFhrTk93MUZxYTN4SG1udHpkc0VVLTNmYkFtb0gxMnlxOTJEcW9UZnh3WEtHYmF6WTdVNzVHVUVpeGViRHJ4alY1R3lfOUdkY3BmWXNOa1kwZWxEaENtSjlJZW1nSEktcUNSYzNsdnNPd29QTENlNnA0dU9feGk5MXRoMTZ3SlRRVnAwWQ?oc=5",
-      "source": "Champion Newspapers LTD",
-      "pubDate": "Sun, 22 Feb 2026 17:50:24 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "ANALYSIS: Intelligence and the Cost of Slow Security Response in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93bkZJWVVZZTRUNWFpbFB0UjRyN1B0YW5LVDcwWmJ5WVg4aExKYXRZS3ZsSVQ3YmxxSG81V01vTkZCZE1WcTZGa29RQzlWdU9xV29fM1hHMXBiWDR2QXRzdVljaTBJemxOcDR3dA?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Sun, 22 Feb 2026 16:53:53 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Reps Deputy backs Operation Savannah Shield against North-Central Terror",
-      "link": "https://www.vanguardngr.com/2026/02/reps-deputy-backs-operation-savannah-shield-against-north-central-terror/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 22 Feb 2026 16:53:34 +0000",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Lagos impounds 17,000+ vehicles, rescues 1,075 crash victims in 2025",
-      "link": "https://www.vanguardngr.com/2026/02/lagos-impounds-17000-vehicles-rescues-1075-crash-victims-in-2025/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 22 Feb 2026 16:46:45 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Ten injured in suspected thugs’ attack in Ebonyi community",
-      "link": "https://www.vanguardngr.com/2026/02/ten-injured-in-suspected-thugs-attack-in-ebonyi-community/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 22 Feb 2026 16:36:32 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Borno Police disburses ₦20.14m to families of fallen officers",
@@ -74,7 +102,21 @@
       "title": "$214Bn Missing, Institutions Silent: Is Accountability Dead in Nigeria?",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQci1PdExWY2JGclNNWUJaa3ZEV1VseWh3VFFnQ1hqV3NpNVBraktqZmM2YjFacFlkM1VjellTdjZIZEJlNEJDYzFfZENoVUpra1lkZkxVM05XWnJad1RNYm1jczJoZ2xCR2toWjByRmM4VnU3Wl9WaHMxNk5iS3U0akV0V05QZUZYcHp2NGFFbkVLSFlNODRnNE1RckNJMDNLa2hzYUFYYw?oc=5",
       "source": "Business Post Nigeria",
-      "pubDate": "Sun, 22 Feb 2026 14:19:37 GMT",
+      "pubDate": "Sun, 22 Feb 2026 15:18:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Balami: Aeronautics Varsity to Boost Nigeria’s Security, Cut Foreign Dependence",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2xzWENLRmI2emZQNnBrd0JhZFVVX3ozcTZqWmtMVDhhWWdNWEVfdno5dDEzZlAyX0ZqTndCQTBSc3lGek4zTFBNbG5BaW5CWmItZWhXTmhQRnIxYi1kLWtIdHM0Y0hxUk9yZVNIdldXenFPbUNLcFV0Z0pTSGVNcE1xeHA4b0djc3JVYl9zSTNRdXFUUk5yR2VacnJuOG1seGtLNVdKWWFGMlMyeG1KdW5aai14Szg?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sun, 22 Feb 2026 14:50:46 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US-based Nigerian fashion designer shot dead in New York nightclub",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjlEaDVrTGhsNEV6NG1GQXBxek5yOVRiWVpEdzJaLTVCLThBQ1B5MGZPaHVOQk5NcHJJY2d6NW1EVkJ6YzFWMlBGT1hvY2tLajJoaDh6QWR1emt6VGFKX1dSMGxmQzNHbzk1TVBteVNsVmF3V2s2dTF5Y3BzM2Y3UmwzanZQc3g5SW1wN3gzeWE?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 22 Feb 2026 13:30:20 GMT",
       "category": "Security News"
     },
     {
@@ -127,24 +169,10 @@
       "category": "Security News"
     },
     {
-      "title": "NDDC Commits To Future of Niger Delta Games",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUnEyWEZjX3pteElfN1Q5aW55akRReEhzZGtLOV9vR3E5RkJyMDV5R1I3bFp1aU9ad3pjSXhxUkdLSzAtSDZqSTdSV1B5enFOTGdkRzFpTUlZS2syb2xNbnU1emoxaS1ablk1UGwzMkM?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sun, 22 Feb 2026 07:25:12 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Terrorists kill 50, abduct women, children in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXluOUFITXFpSHpBY25oT0wtQWRvNVpOQ0kwaGh5Mm9qRFI5eXU2dW45Y0lOMFIySkkwcDdpbTh2dVBCYk80T2FXZnE1NENuRi1hbW1TcVYtLTFLdVB6Q1czcXJIbi0wQzV6ZUVpWHc1aktVcno1MHdtUXdvY2szMWpHVGFwazJwbDJ6UzRIaHA?oc=5",
       "source": "Mehr News Agency",
       "pubDate": "Sun, 22 Feb 2026 05:35:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Civil Defence Cautions Against Post-Election Unrest In Abuja",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQelN4NjJoWE03REU1Ty1BTlEtMmFLUldhSmlyTjkyZXhwSWREdUNWYWFCWmpCMUpwRXFGTC1Fa0JTTG9HVXhyUlNzNTZ5MmljS0QzV2VfeXdtdmdqSVktZmdRclFXNXRER29rc25qNXRGeWxkdEF0ckU3M3V0NHcyQy10eVhHVVBqZjhJ?oc=5",
-      "source": "leadership.ng",
-      "pubDate": "Sun, 22 Feb 2026 04:22:16 GMT",
       "category": "Security News"
     },
     {
@@ -169,11 +197,18 @@
       "category": "Security News"
     },
     {
-      "title": "Security forces rescue 21 kidnapping victims, arrest four suspects in Katsina",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3NEZzN3TlR2N2Jac0FLdE5NLVFFckxlYW5kaTE1Zjk5cXpKWnU1Yms0ZWV2eDROMjZLVFcxbVBhZzRvcW5nUFYtYTJ5Z05CSDZkVDV4NlZyOWJsNFI4dThuOHlLSER6dWc1ZEtIdFU1Mm1nZjluUWlmQ3VXSVByM1dxcWQ5Qmh2T25Mc2JmU2I5MjlHc0tmdlJNZVFtdVRUMlc1V1YzRFpMNC1va2c?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sat, 21 Feb 2026 19:45:14 GMT",
-      "category": "Kidnapping"
+      "title": "NNPC Ltd, Dangote Group forge strategic alliance to accelerate Nigeria's energy security, prosperity",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTN1am15MHNDNlpPNVhDa0NTQ1dsNXpTRzI4ZVg5Mk9mZnpSSEYxZTRSajBPcEZod3hmaVFlZUlZdVVzSVVvS3FpdURPVXhCbGJWLU1JYTNldUNwN3BBMUlrdVNvbnc4X2hIOTZpT0R4OTlXS0JTZjJmLWZpc3RrV3B0d2k5N09sZXFnNGhkVk5ab19iV1RnbmFDMlpBa04tQXkwS2lWRFZFX0Q4SmZuYWZHelRsTUk5WU1pUDUxQlRxNUpTbEE?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Sat, 21 Feb 2026 22:02:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Security analyst urges U.S. to expand police training programme in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDUxdnV0Wm4zMDQ0WHZ4N2NwWTZpc2xCY1lTOWNGenMycEVIWmtXQ0NJbzJXQVByNDZWQ0ZGY2poRjRBNTVacWdNeGdGbEI5OEdPQi14V0prZE1hTEhOcU1NdWI4RDMwdV9Mam5GeVM4eHphT08wQW9NZ0hrUDJ2eDZ4bnlLNTBtWE10N0FNZWJ1QVI1V3JfSlBQUDE2VjlYNTdtdjBESdIBrAFBVV95cUxPSVNlZnFTVkpQYmltVVNmZWxjbWlWUzFBYW5SM1ItNlM1cFpjeGI5d0o2cnlud0Z1UFh2UUlObWhma1VCRmFJejl6dlFLSjJlVUtOZFNlM1ZTU19tX3JJZUhwc0xxT0hZM0hBekN6M1owRkxyaHNtSHF2clBkS2xxN3hJNXpDQXpLMEJLZksydVI3WEx4RWF6bXNkTGRTMjZ1SkFtWWxKcThmWU5j?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 21 Feb 2026 17:56:24 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC Ready To Crush Post-Election Violence, Says FCT Commandant",
@@ -225,13 +260,6 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC warns officers against harassing voters during FCT area council polls",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXIxTEtHcmc0ME9HRzRvSXZ1TFZHWG91bUFiaXg4Vkp1NHdVbW1sZjJvQVNVc3FwcVFXZmtuNkROZDZxS0RLM0xVOFF2SnF2LUhkUjZVempxdTFBZ0wxWVFPc2xtaEJYLWhNcERsV2J4ZEdPUEVXd1hpQXprR2d3d2NuT2l5UjdJSTN6czNxNklabkI2Mk1nTjBEcHYwRW9sV1E?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sat, 21 Feb 2026 10:05:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria–Pakistan Deepen Military Alliance To Counter Evolving Security Threats",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlJNbzRMek5lYVIxNkVpaFhtU0c1OU5CY3h1TGJyc1lublp0bnMzUTZBV2lZdzZnMWZvQ0VTMkc2dm1kNXk2UlQyRV9ZYWo1b3dOT0pLSzJINGVMdlBsY1htWURoY2hkeTVPTTJfazZDR2ZhTWt3eXVyVHctcWl1UWVxbXFlUU9fTWZ0N3JhWUV3QjhsRHpneGp2NldGenh0Zko3OA?oc=5",
       "source": "Independent Newspaper Nigeria",
@@ -244,13 +272,6 @@
       "source": "leadership.ng",
       "pubDate": "Sat, 21 Feb 2026 09:00:24 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "FCT Poll: NSCDC mobilises officers, warns against accidental discharge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdENYdzRGVGtRNW9mWEk5a3FkdHZVTFd6eUZBaFp5ZzUxT0tJMXV6RHB1RkU5V1d5aGp6QnI3elB2WGF4eFR6d2I0RmRqamRjRkNwSlBaUXY0dW9GTVJPS1FJbk9PdG9GRUN2Y0xLSERWOENLNGhiaHRHQUpnRXRPYTJXdDFtZ25oeFdzVk1vOXJuVzg?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sat, 21 Feb 2026 08:32:09 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Nigeria and Risks of Multi-Power Security Deals",
@@ -278,13 +299,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWhWdlE4ODQ4bEJpeENvTE9UMjVBVXhlSFVkXzFYYzZiZWlQdlM0RXdTc1lCN2RkZUQ5TGQ5Ymw2Q01EeFRCMlViVG53RFFCazN5Smp2YmM5Mk9qNWJqZTZ5UTVWV2h1NUQzeV9FQVc3UmlpcENUdkVsbThVMUpGVTcwVWNDQk5LOWJCNC1vcGliakd5VlE?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 21 Feb 2026 04:41:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Jeffrey Epstein & Ehud Barak: Profiting from Nigeria’s Security Challenges",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnVJWE1vd3ZEVmliS3owRjcwT0FCT2hKYXowaW5sNTJCNm5vUTFZVVdDNFFKNHdUOVduT21Zd0VSNDBlRTd6UFBvZzJUNXNiekQzT3RrRWFKQUw3S2J2bjhyUFlYQmxSaFh0bXg5bjRCM3JFblpmSDdqXzdITWxPNFp2cm5BaWRHTjBuVkQ3YzNZRWtxcGcyNNIBlwFBVV95cUxObTNrM1FhZlJycHBpT1o0WjAySko1SjR1YjBkZlAtOWoyX2xtblBUWUhQT2Jodm9DTkxHMzAyLXBMblJaZ0Y5UEEwcWFYeEVEdTBORjZ4QnJoMkxTaDFjc1dDaDRpRFhJNGpWZTg1M1ZldHo1R0p5RjZXbkhrMThiU1c2REpobG1yMFlvbTRydEhqTWhkUThn?oc=5",
-      "source": "Modern Ghana",
-      "pubDate": "Fri, 20 Feb 2026 23:43:00 GMT",
       "category": "Security News"
     },
     {
@@ -348,20 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVBMc0J3dGxlYzRXWWh3Z1BhZDlpeDBiRmI5ZXhaR2duR2Zhd0lCUzkzTXJlbFRzQi03TlMyMUVBZWo4VE4wVVlGeGtmSjQyaU94Q2VpelNPOVBVanZ3bUQxdG1iSHAyLURhOFZ6akhCUlhNRU16eXBaSldDam1jN0hjcklaUENWelpMRVJfTE9uaUhMRk9EVXdVNVIwcXdCNFBvNTR1YTVpX19udnNF0gG0AUFVX3lxTFBrSW5vSzMyaE5MU0U5aEVGTzktTE11TnQwaHpzYkVFUzBXU2tTVDhMcE5qTWtINlNRbkdGT0J0a0Vib0lPVGhRU0l0RlY0djBGeFg1VkJZMHo4bkZOa0sxOVcycGpNb1JuMjh5Mjhwb0FXNHBXNXN1cGpvUHZhVkx2bWhhcXlYemNwNDFRS1REU2ZEVndveWROcWlvU2VPR25Cdk1mT29POWFnRE9qbzBzeG9nUA?oc=5",
       "source": "Al Jazeera",
       "pubDate": "Fri, 20 Feb 2026 03:05:26 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Author lauds Egbetokun for strategic deployment, improved security in Lagos",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSExDZVpodzUzMENiOWZ4bFp6ZTNNUmpWcDdwcWctQU04Sl8tdjd6TFE0aGVEdDZ4VWRMWnl4eHFJZnd4VzM0WS1CX1JTVl9ZMlluZGRCYlFqbUFZZElfNmpaQXZtOWJiS3lRMF9vY1BvcVlRU3pOTGZPYTc2LWRqdV8wVHhmaGtUemFpQ3A1UGhCZERNR2FCdU1TYlJDREFtSVE?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 19 Feb 2026 18:26:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Uniting for Forest Security: Why Harmonising NFSS and NFG May Reshape Nigeria’s Fight Against Rural Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2hSLUVSUXBEZ3FOV3BuOU9ReC1EdmlZRnNhcUhTQkRuRnJGaW1UVk9rOTFYNlRFU0o4UVl4Y2ZwV1ZoZEd6OVRFT0Z3eWw4cFBxSzdRSUotNlFEM1dBYTZKR0Fmdll1ekg5TmRiSm5fSlNoUXpmLVktSnQ5OEc3Nm1Sb21qY1J3YTN5b24yNEdpX2lMN0FQYTRnR2FDRXB6ejd3clAwRFVIcTEwaTRVdV8wdWxjd0p2ZFRxMG4tbk13WFI1SVFjUEc5U1A5QQ?oc=5",
-      "source": "Kogi Reports",
-      "pubDate": "Thu, 19 Feb 2026 18:24:00 GMT",
       "category": "Security News"
     }
   ]
