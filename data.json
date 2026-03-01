@@ -1,39 +1,193 @@
 {
-  "timestamp": "2026-03-01T15:07:08.433Z",
-  "generatedAt": "01/03/2026, 16:07:08",
-  "totalHeadlines": 151,
+  "timestamp": "2026-03-01T18:09:55.015Z",
+  "generatedAt": "01/03/2026, 19:09:55",
+  "totalHeadlines": 155,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 102,
+    "Security News": 107,
+    "Traffic": 6,
     "Law Enforcement": 15,
+    "Military/Security Operations": 6,
     "Armed Conflict": 12,
-    "Military/Security Operations": 8,
-    "Banditry": 1,
-    "Kidnapping": 6,
-    "Traffic": 3,
-    "Insurgency": 4
+    "Kidnapping": 5,
+    "Insurgency": 3,
+    "Banditry": 1
   },
   "headlines": [
+    {
+      "title": "Gunmen kill at least 15 people in northern Nigeria, Amnesty says",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1hMZjRhOFd1Q254RUpFbzlDT2p5UW4wUkU2N052eXFmeks4dFlZM0FHYUpxR2lwaVFSa2hnMm1pSHNJVXo3Q1NwVU9HWG04dWVTWVVXNjY3a0tuWWE4SDBvaTNVeU9TcElSeUhDa1BxU0NfRWdVMG1vWkUxRjNIN2hEUzNwejBjcG03clpNOGE1NjlIOVU2OTVIbGhSR3d4YXRheklUdm9XLUlLZzdxN2hrbkxLb0FVZUZPQjBsVU9FczZo?oc=5",
+      "source": "The Washington Post",
+      "pubDate": "Sun, 01 Mar 2026 18:07:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC mourns loss of officer in accident",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDUxclBWbktObjFOUHdISWxIV2t3TFNxUUtabklqYngxV2pYaFFHNDFUTXJsSmxLaE1qVjFOWFZWblB1ekJvTVZTaUpDMC0zS1F6T2VURnBjZk54ZDNXQXVSV1c5VWdZY1RVbkZ0eGN4VHZlbW1RTWJQZXEzQnJQRE1ObnJSbDA?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 01 Mar 2026 18:01:21 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "NSCDC Mourns Female Officer Killed During Civil Defence Day Drill",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN18zbHA1VFpIcU5GTnFINWktT0ZmNTlWbUM3RERlcDY2dmIxOUJhYk93UG90S2JtOTRHSGRyX2x5QmZGYXhPVlhQQllyeV94X3F4OE9KMHJSU21PdGZLbGYtdWItWm93MGFpZjcyN2dfamYzdjVoQms3MGVtdkRib3o1RW1Rd2JuQTJfZ0tOeVlFLWfSAZgBQVVfeXFMTm94aVFRanltVlN0WGlSOVNneDAtYW5IZU1Odi1uTkE3OVlrUzVfdHNRUHNCZ3hJSlN4QVR5TWtCeVpuQ0FsM01XNHoyZGliTGVLQmpydWFfT0RSWHkyeDRIeXFnd3RxUnNYLUtqa1h6ZFlzMWE4WW8xalFCT1BhbzhxNy1yUkNYWWZHUEJKcFNUV3hpSDN2eWE?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sun, 01 Mar 2026 17:50:56 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Lagos to close Super-Ilepo section of Lagos-Abeokuta Road for 3 months for rehabilitation",
+      "link": "https://www.vanguardngr.com/2026/03/lagos-to-close-super-ilepo-section-of-lagos-abeokuta-road-for-3-months-for-rehabilitation/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 01 Mar 2026 17:50:40 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria, Spain deepen food security partnership",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUUzR0t1OThQeVkzZzZ3MXhWTzlRbmhhUnZBQXR1NE9FVmVDM3RYNnFIRkhfcWdOM2lLY3o1R3BFNmlZZG9iUTM4ZEQ2bGYzTHcxYU5famppUjgwc09qNUxaaDJSTEtIMzc4SUhiNUYtSHByZ0Y4SVJUOUh0Ml9aUlJtc01NbXp6THdj?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Sun, 01 Mar 2026 17:49:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Must Treat Global Conflict As Wake-Up Call",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pc2hfdzlHdjRoZTc3dTBYVi1TR2FBSmhfV0FvVWh2NG5iY0hVX1ZaR1lIZ3pQS1Y3WjhjTTRXNS1YM1BDcTdld0I3dkxhVGh4Ni1HTTRvQlVCZEVxQVNNZzQ5WDZFMGROSFRMUGJtLXloTDd3bVUxNlZoWkw5VE3SAYQBQVVfeXFMUFkwTFZlTml3YmEyWjItNXpfb2lvVUJYanlNQnk3aWZGX1I2alFwd1FiTGxseTBDRTFnN0IwYWszdUFwOXNLd1dESXltRnBQR1hURkJwWnR0cE16bEVDbEtHa3Fkb0ZMb2RrbEFHdXp6V2J3eUlwYTFtSy0wMWNPVXpFZG0w?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sun, 01 Mar 2026 17:47:36 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Abia PDP slams Otti over alleged attack on journalist",
+      "link": "https://www.vanguardngr.com/2026/03/abia-pdp-slams-otti-over-alleged-attack-on-journalist/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 01 Mar 2026 17:37:15 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "FAAN Seeks Patience as Cashless Rollout Triggers Airport Gridlock",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORTNFVHpUNmpQbVRkeGNRUC1iN2gxbF9rejNsM1BlS29pbHJFbENhU21DSk5BTHJzcVNkaEZYQUdYc3lNams4UTZDMGFVX0JwTDlSWnZQVDF0bEJlZ3ZfVE9DUEhWUHFmZXZxaGZodWtiTGswTjJyUm55N2E2cTJPSklfbnY2RWNRQ1lBNGdOTFFqTTRRVWFSR2ZWaTg1VFAzbEZhcGNfaUNLTTlJSW9xZUJNb1JpQ3pkcFE?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Sun, 01 Mar 2026 17:24:20 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "One dead, three injured as truck crushes tricycle in Epe, Lagos",
+      "link": "https://www.vanguardngr.com/2026/03/one-dead-three-injured-as-truck-crushes-tricycle-in-epe-lagos/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 01 Mar 2026 17:08:04 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Ambassador Oluwapelumi Receives Nigeria Forest Security Services Award, Pledges Drone Support",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTg0QjUyWUdXNjFqU1RtbWhkZGUycUVJNmhWS3lSRUdMX0ZLaFdEY2xtN0VmaTNrUTRJOElrSG8xQmtMeGFJWDBSM29DVHcxakktWGdrLWhHcm82cWI1Um9HU21hZzJhelZVOEJjWm4yUU1WdGdjLWVCQy04WFJTb0FRdGhwTzMyVGcxRUZtQkRCWkdubXRFRWJZVjN3aG1wd29uQzRSN0xSS3VvemltY2RFZE5qSlk?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sun, 01 Mar 2026 16:37:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nasarawa Police recover stolen DAF truck cabin, arrest two suspects",
+      "link": "https://www.vanguardngr.com/2026/03/nasarawa-police-recover-stolen-daf-truck-cabin-arrest-two-suspects/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 01 Mar 2026 16:37:18 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NSCDC mourns female officer killed in accident during simulation exercise",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVpsclBwNGxMaGtiYi1IOHcwaG5MdUFqMnR4dllqRUdLLXNrM2lGaDBjX1ZoN2dtaDFjNlk3akx2dU52WTVjM0NOTFdoZHlBUER5aGg3UDVlLVk4YnpJYUJSNVRQOHdVUEM4ZVN0eTFuYmRVUkM4eXBsYjJ2SVRndXotb0l3Mm9lb0J5dURqODJ6Wkg4bU1LVGY5OA?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Sun, 01 Mar 2026 16:35:40 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Three US military officers killed in Iran operation —  Pentagon",
+      "link": "https://www.vanguardngr.com/2026/03/three-us-military-officers-killed-in-iran-operation-pentagon/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 01 Mar 2026 16:34:43 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "NSCDC female officer, Ogbodo Victoria killed during simulation drill in Abuja",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTZwcHp2Y0h3eUx2NDhqN3F6Zld6RFJiOXVMVkpJRWRVc1o4N2QzRzd1MmxwczBoMUJ3b0YzaXZZUkxtSGxmVWRfNWxkVExXenFpVk5CV2JTSVNNazNRUHB0NnlGWHZnM0hIcEI4TVlBS3o5VlhTbnFCc2tVa2M5X1ZXb3Q5NkR1blBSTEVRVGNvWDFyS0pIUGdqWHdlVnNPYkVLZ3RPTDFXRGZ6Y3kwcTJnQQ?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Sun, 01 Mar 2026 16:31:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Extreme flooding and intensifying rainfall variability in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeF96N1BQRHNULVVmdTNQdTRicVVKTUFtVTFtQ182d2N1WlZ0NUpTUjBSTzhYd0VtM2RhSHJmYjByb0lYdnJ3TmxheUVNMDVWbGUwTXQwRU5ueVd6bHVBZkJHWEZ0TURTTGlPQTFwaVRRQWJIbDZsTWd1cW9VWUZZT05UaDItNEpzZjA5dzQ1MjlWeDlORmpjVDE2OHlWalBDTWc?oc=5",
+      "source": "EnviroNews Nigeria",
+      "pubDate": "Sun, 01 Mar 2026 16:29:29 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Middle East tensions: Acting IG orders security around worship centres, public spaces",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0QyR19EcU1VUmNFYmZ6U0ZielVIVkNtalF3R0ppWFB5cENJdnAxVTk5Rl9zOXNRcjg2TU9iclpLRnkyM2tSTm90cjVZVnNyREpBZ0xEZTRybEZGOU5vS0I1OFA1c1hmOTQ3cno2T2lFRXBELWQtc2FSNDdnQzNTZElLU3k0VGVOSjVJTTlNcDVvVkpSN2djMEpNRVNGQnFicm9WcFNaZ3gwekhK?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 01 Mar 2026 16:20:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Middle East war: We’ve heightened surveillance, intelligence gathering – Nigeria Police",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWhRd0M5S09GNDQ4TEZUMURzUTJhNksxQ1Zud3IwN3R3WVV2UXBaVWw3bG9WWjBwVk91NXkzMjJGbWY2MDRoMDIwU2E4X0t1eGwySGpadjA0d2pscWlEdzZQbkF5VW9QaTZNcVE1NFhONEE3YzU4ZWxRYzQ1aFczN0hfU19fbTd2dTVTNUNDVUNyZmlFcGpoT3JQVWxCTDRickdTT0ZuTTZqQW5nM2RBU25KNmdIdw?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sun, 01 Mar 2026 16:20:08 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Gunmen abduct father of former Ebonyi deputy governor",
+      "link": "https://www.vanguardngr.com/2026/03/gunmen-abduct-father-of-former-ebonyi-deputy-governor/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 01 Mar 2026 16:18:06 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Security Forces repel bandit attack in Wase, Plateau State",
+      "link": "https://www.vanguardngr.com/2026/03/security-forces-repel-bandit-attack-in-wase-plateau-state/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 01 Mar 2026 16:16:56 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Police reassures Nigerians amid Middle-East tensions, warns against incitement",
+      "link": "https://www.vanguardngr.com/2026/03/police-reassures-nigerians-amid-middle-east-tensions-warns-against-incitement/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 01 Mar 2026 16:12:15 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Iran–U.S.–Israel Conflict Offers Nigeria Oil Revenue Boost — CPPE",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjBETHlIekpXdTJMaUNodXNVVkhKUDc5NnUyWEdsRENOVHk2QXE4VlNUTUVtMjBFbFNUNXJjWEhGS28tUXlGLVhKU3kweEdxWW5kd2hXN2xhV2xubVpSbFBmQTNsQXoycU9NN210OTJHS2YtZ0VjRGg5Qmc5bWdOUkVLQ2ZNdlBGRThJdldSa9IBlAFBVV95cUxQbEdQMWdWUVA2cWcwTEpfcXhFdU0zLXM1TGY0cXpvb1JzdWlGTEZJMXk5d3Z4Wkt4cTN4ZWFiMGRnZVFxa3JOb2NUem5OemRwc2hseUpVUzl6eElFdUZ6cnluLWpETXNGYlBTc0s2akhSek01b0tHaE13ZzBTeXNXX19UUWJBMlJvRFh5cVdWa2dsT0NH?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sun, 01 Mar 2026 16:06:48 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigerians lament gridlock at airport gates as FAAN rolls out new cashless payment system",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkVnN3lnakJWY1ZQQ0Rqc1pHRU1hTl94Vy1ySmJkeXo2MnhyNW1SQURuVUdXU1hlNlotbHFHR3QxU3JldVVhQUREUmNySDFJZk5Md3k2dk5iazgzZWdoMmlFWVVRZHN1bnFnSlZib2pQcENsVkw2QTNfb09mUjZsdWVfcTBhVkNVdmVmWE9rYW1CS2o2YWxTMDhfN3UxNGxsRmFER0ItdHBNNTRSWFpGa2Fzaw?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sun, 01 Mar 2026 15:58:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Simulation exercise: NSCDC boss condoles family of deceased female officer",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHJ5T1ZtRW1pMFdOYXVEQW91blVkbzRfX0FnMlUwZzdqeWVxVmNCT3BseWUwTjRqS01sRjJOdG95RjZod3RzRGozSXc4dTQxQTFPOXJqckk3b0RDcnNjM2ZsUUJfdHFIWllZcVI1M0JPSVhfeE1DMmR6T21LYUpoUXpjWEZVNVg5eGd1ZW9BYzE5Rkg3RDlCclVIZWsxdFFoQ3ZGMFQ4Y9IBrAFBVV95cUxQSWM0U1EtdHQ0Qzg4WmVMSjVYN1MwQ0pvMktIcHNhUm5zeWFnYXNTT29MSTRCRkU5anlDZDdNZXZRNlNGUm42S1RzbUkwLWZwRk56Rkg1aXFra1lLeHVPRXV3X1N4aV9JbVFhSTVQc2x4SjdYWjl3enBNQkpsTFZ2d3RTVDc0WmlvTWE2UzdlMXFvd2x6QnE3eDVDTElic0UxcXdBMGs0a29SdC1K?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sun, 01 Mar 2026 15:30:33 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US Coast Guard begins security audit at Lagos ports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTEyQUY1Smt1Qmkzc1pwZG1zN0lfR3dfTFp1Y0NFR1B1QktwMHNpcmZYNllhYkRTT096M21VNWk5cnlRUEpVMmtaM25zYndyMDdEQ25CWU1UQWlNMkZoNXhqTjJvcm4zY19oVTh6QkhXNVlucmNMRENVejk0LVBId2VvSF9SVU9aV2owag?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sun, 01 Mar 2026 15:30:12 GMT",
+      "category": "Security News"
+    },
     {
       "title": "NSCDC CG condoles family of officer who died in simulation",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1M2WEtweWVlbWhNb1FFZ2owcGRjZWdSMHFxcVhaNWVES3lPZTV1QWwyNnZfOFNpOWxULXlQaXZZYnd3REtGcHZpWVI1YnNQMXFnbzdkeVpUUldyN3pSZThiWEFSTlVYWXhCOEFFbk9UUmR3Ym1hc29vc3B0QTdWZ0xCdW1UZTB4dGJTQnJ1b25BbGE1Tnc?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Sun, 01 Mar 2026 15:05:42 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Ramadan: Four killed in stampede during distribution of alms in Katsina — Police",
-      "link": "https://www.vanguardngr.com/2026/03/ramadan-four-killed-in-stampede-during-distribution-of-alms-in-katsina-police/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 14:50:22 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Former Ebonyi Deputy Governor’s father, Igwe, abducted – Police",
-      "link": "https://www.vanguardngr.com/2026/03/former-ebonyi-deputy-governors-father-igwe-abducted-police/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 14:43:40 +0000",
-      "category": "Kidnapping"
     },
     {
       "title": "Injustice, abuse of power fueling insecurity in Nigeria – Lt. Col. Lawal",
@@ -43,39 +197,11 @@
       "category": "Security News"
     },
     {
-      "title": "Khamenei: Jubilation as Israel celebrates Iran leader’s death",
-      "link": "https://www.vanguardngr.com/2026/03/khamenei-jubilation-as-israel-celebrates-iran-leaders-death/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 14:25:58 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nine killed in Iran missile attack on Israel – First responders",
-      "link": "https://www.vanguardngr.com/2026/03/nine-killed-in-iran-missile-attack-on-israel-first-responders/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 14:21:46 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nigerian military shares February operational wins",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZXlVWVhia1pZNXdseUlzSzBTLThDMTJXNzA1OXk0ckl2TjRHYmo5ZmltdmwtQUpFckpHWF9CdXJHRi1ZNXI4WHZwU25UbTVhcnhGZHA3Z0t5YngzSmhNZUQ2R3pTXzZFNkJqcEZzcUUtQXItRDNWeDA1TVNFZmtfeGRjWnU0UlhkY21aVzZYZ0FVRmlqei03WVltbTdQR3N4b1c2blUtRURVVTA?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Sun, 01 Mar 2026 14:18:59 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Deaf and dumb girl trafficked to Côte d’Ivoire is missing",
-      "link": "https://www.vanguardngr.com/2026/03/deaf-and-dumb-girl-trafficked-to-cote-divoire-is-missing/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 14:07:49 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "China condemns attack, killing of Iran’s supreme leader",
-      "link": "https://www.vanguardngr.com/2026/03/china-condemns-attack-killing-of-irans-supreme-leader/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Sun, 01 Mar 2026 13:22:24 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria deadly for Christians but not deadliest – Clerics",
@@ -85,32 +211,11 @@
       "category": "Security News"
     },
     {
-      "title": "One dead, 11 injured after Iranian missiles hit UAE airports",
-      "link": "https://www.vanguardngr.com/2026/03/one-dead-11-injured-after-iranian-missiles-hit-uae-airports/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 12:56:06 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Insecurity: Over 1,000 Nigerians Killed This Year — Peter Obi",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjlVOE5zLWFUbk12b1lNSzlVaF9ZTkFsaVhNczkwU3BuaEwzdkM3YWFJTTFrSlBmNWprUm81SzlaQWxWUVpwQzlsVlZ1Y3h4bkxCdHZzWlMzeDhDcFB1RlNra0FscFBHekhmc1ZiVGVQSHdCcGEtbkczbDFqQ0N6bWF3OWNMVU84cVduZXNlNFUxOWR6b3diS1M2S0fSAaIBQVVfeXFMTjlSVHR0enRXVEtIaUFUUkN4WU8yUjRJZU5QTUl5OU9LbUktQ1huNTZuUk5PcE83SHRfWVRRRktWUXFfa05hVlBKbV9yS3dKU3NGRTRscGtnVzJZZU05ZlNZcWlaWlZiRlNsNVhrUTFsUFBJNDRCb2VUeWhUa3lRdFNZTzh3RTctcW5zMU9RMGdLNGVDWTZvSnBEMlJvTi1JUi1B?oc=5",
       "source": "Channels Television",
       "pubDate": "Sun, 01 Mar 2026 12:21:47 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Bangladesh voices deep concern over escalating Middle East conflict",
-      "link": "https://www.vanguardngr.com/2026/03/bangladesh-voices-deep-concern-over-escalating-middle-east-conflict/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Mar 2026 12:14:09 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "MMIA INFERNO: How ‘50-year-old’ sprinklers saved the day — Director of Airport Operations, FAAN",
-      "link": "https://www.vanguardngr.com/2026/03/mmia-inferno-how-50-year-old-sprinklers-saved-the-day-director-of-airport-operations-faan/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 01 Mar 2026 12:13:00 +0000",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Defence stakeholders push for modern shooting ranges to strengthen national security",
@@ -190,18 +295,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "At Ramadan Lecture, Information Minister Says Fake News is a Major Threat to Nigeria’s Stability",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMzdSRG05ZndTV21vT2RWaWUxcjJ1YkRYcFBFMXp5Z05TYmxXLWxWbTdod2JVNkJoMEszV2k2eFFzYk5TanZvLV9uZHdQYkxkWmdQTUc2ek9HV3RrRmJsLXpLTEhWMk9lZmlMejVHOXZnUVhGLXkwcGRTTFF0RTZvMDk0aEpUcGJNX2dtQk9HOE92QnUwd3oydno2Y19BazZZX0d1ZHRtTTZqa0FMQktKQVlQaGR5UnlqVDZvdlAxSmQ5YTJjVktCbTV4UHNCeUU?oc=5",
+      "title": "US Military Support Not Threat to Nigeria’s Sovereignty, DHQ Clarifies",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1A5MVBzaXdXY1AwUTNDX3J1N2RIQk5nLXFFVV95NGhuRXlHZ2FRXzFRdlNKY0c0UzNBTlY0WlhtSDAxanp3YXRVUll1ZnA5VTlFOHdCdHlmVko5RkY0S3RwVloyU2FZbnFlSTFmQnRzMFJmUHktMmNINXNHRkJQS1lwbUh3LWFRZTVsNHd1QjVqNkVGLXN4SDFaQW1VMEZyRm9vZU52cDZjLTVK?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Sun, 01 Mar 2026 03:30:29 GMT",
+      "pubDate": "Sun, 01 Mar 2026 03:42:52 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Why governments should engage, treasure retired police officers – Akinfenwa",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORldEeHNyb2ZtbEVsQkhNdmZNR01NdkpvcGxnMmd2UEtnTXBNendLeHBZMTVqQ3VxUDZKMkx2S0JQOUc0ai0tcUpZSVBqYUtjZ0lQU1pmdGQ5ZnBsckt4cGJ0OEhZX3hoc2tvYkxqRzVqd3NmNGpSX2EzZm96VmE0Q1ZIbVpnYm5CUnM2a2RYRS03Zw?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Sat, 28 Feb 2026 20:07:18 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria Issues Security Advisory To Citizens In Iran, Gulf States Amid Rising Israel–US–Iran Tensions",
@@ -239,13 +337,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "VIDEO: Female officer dies after NSCDC vehicle ran over her in Abuja",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnVWWDVnOWRFQVVvUWlwUUZudE5RdjFUcy1aT1NQbjdPR2F3WWtrNHR6dW5lMTJnWFdBM1RtYWhiM2RyM1REeFJMVkdEaHR4RmxYNy11UzQtRTUzTzh3YU02NG5DSFh3MEc1ckVmaG5zVXBoLVJRemJjYmlmTDVWZGpDdkszOUZOZEt6Tlk4WnNaWTVGTHBIdzNhRC3SAecCQVVfeXFMUEZTQ0czTzdzd1ZRZHZ2SC1VV21OVzB0Mi1MSldMallVRUpHZTNqZ2JVSDFHalJPci1HeHBoNXgtNzBuSnRRc1otVWdSMVgxOFp3MnlqSlpqQmdJQzlBa2dQRlBUYU1DbDJKbGZvYnM1ZlZnT1pmNHZIc1QwZjU1OHYwaGFILUM1aW9QSEozSFdkdDRoOXVCZ2dtY29JX1ZkNW55YlkxZC12dEEwQUUyUXI3Z19Ud2NZYUxxNFloUjN5UUZsNzk0LXd2MnhXTnQ1T3hRV2dudFIyVkdpSS1CLWI1UWctVEs2emZMUW1PQ2NJQTVYcUVXRzdnQXM1RFlNQkFQTEVqODZWLUwwQnVMV3FBQkFVeUNpSV9wSFlHT01meUJOYV9QanNhU3drcU5FOFdGbjJvbnVLeU9lb0tVWDVvc2hzcklzZ0lUVUNFQ2cyTUZWR1VBTUtyS3FKdG5HQkFuLW9Gd3M?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sat, 28 Feb 2026 14:13:39 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC generates N4.47bn, foils 48 kidnap attempts, destroys 283 illegal refineries, in five-year security push",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakNrcDltNlU4cUhJaUpFQ2FQMXdkdjg2RW1pdHJkbE5TNXRnb1F4azRGVmVPQ1BJaWtVM0UxS1ZscmhtOG5VRERYOHh4M1hrMmJJam55a3ZhNFgwM3pIdV9vVkRvc3VJTUZGbWZ0OHlTcVB1aGNsSDZ5TE5GVzlCY250cDB2dW9UaklYOEIzMUpzUHFYM2JrdjJlU1lDNUozNWluX1NMQlU3MklRVHREclBfSF95V21wUVBiUXkxVkVzWUVSWV9VMXNVUGs1azNkWGtYY0k5S2I0Q0M2?oc=5",
       "source": "Businessday NG",
@@ -271,97 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjdPTHIycGpWUF9obDRQOEpadC0wLTA3VjlJX2tGaXFJajhCQ0NCamJMS0JPejItZ25yMzBHVERTQ01rVmFjNHJZRkh5T0ZwQk5mTFF2a2Qtc0J1eHlhU2JQaURpeDFUYy0zaGdjMFNQejJMQ0hsemoxdFBoQV84YWhveTZfOTFXUV9rOWkxZWlweExxMkdrRE1rcE1hckxmT1VfbFR5RFh3YmlrUGdhSXZzMGY1cTU4Y3JyV0RkWDRjTUZZ?oc=5",
       "source": "TheCable",
       "pubDate": "Sat, 28 Feb 2026 11:58:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "CDS Tasks Newly Graduated Nigerian Navy Marines on Tough Deployments to Boost Maritime Security",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYmpjaUFoc19OMjVhay1KajlPTXBDM3dPX25YbWNkYXhHcDJwNl9fZm1uYVNKb3ZETHZyT3RWMHgzZ09Wd3pLdWduR0ZnanZ4UDE2dlg2anJsMWw2bm92RXRWOExRQ2FXLWlldHhjWmpET0tWS3liVUF6Mlk2d1gtOXBfZTI1RmplbWs3dm83WGVKdVE4UVAwRTlaUlp6WHBuLVZwSWNjUHY4OHVoZkpqOEdRVjczRWM5TXdvM0hxc2FnS081aG5rUA?oc=5",
-      "source": "Radio Nigeria Lagos",
-      "pubDate": "Sat, 28 Feb 2026 11:24:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ICDO Day 2026: Lagos NSCDC Canvasses Collaboration for Safer Society, Strengthens Community Security Drive",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMWpoZkZfd3U2RE9uenM3QTV1RFJmNHpqSk9aQThLcHhUbmlMQU1yYXJoOFBqY3dRaVVwZUczSDJJUzZESHMzazVjUEpyamFia3p4WWZYQ3hTeW42UTdaUUZEeWpNU0xQWmhudFdSME1BbDg3QlJpQ2hVU2lKRzRRdzdKQWxCcWtqcnMtVW1ETEVHeWVqUnNhYnc4SjFDTDh3eDV1YTFGT0s1eXBpNVk3V3dSa0JhWUpyaUFOM00waFl4cHZpc0FRZGFldDZ0NFlaNDBMNQ?oc=5",
-      "source": "Radio Nigeria Lagos",
-      "pubDate": "Sat, 28 Feb 2026 10:51:18 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Compulsory retirement of senior security personnel: Challenges on Nigeria’s security.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEQ2LUNLUmZ6MklFQmMzbF9fYlFhQ2owVlZOdldBcTU2bDJ0XzhpMVdLd3lQbzVMVVg4Y3VqelY0ZWlVRU1RM2dJWVNWRml1aW5QcEFVNmd3NVdTRWF5LWNiQTBlOThNaEVxTUJZTmJBUU5TYTRabUtHZE96QVFGQUl1T2FFdENXZlZyNE5ja214aDVDODBVcC02VjZJQVdVTk5WMWdIdFNUN2NDaDY3YWln?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Sat, 28 Feb 2026 07:22:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "State Police: Senate to accelerate constitution amendment as Tinubu pushes reform",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakYwYlJsRWEyZWVUTWFxbXloY2hOUnVmRWFwWDZaZzVCcldzaDBEcEwwXzA4TlYxRFRxQVRJUUhtX1ZFcTB0a1RjTjhDSFA0alBlMFhJLTJkd3RoUkhGYkdKblFRN1V2aV9IYVVDXzVEbkxtS1BfSG9WRndLVTExaHQ2ZHVrOS1iYzR2RE9mcFNsek1naS1OM0JYRGVGYnR3eXJ3R1V6U0RhQWdlRDFR?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 28 Feb 2026 05:03:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "US Troops: Security Lifeline Or Sovereignty Gamble?",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbHFRWDlpUXdkOTY1MExSbGI2ejVIUDFiRllqQ1ZodTNzRXBrS2cwck0xTTc2UkFCU21adWhVN1JNeHJoREFHNUNqZXMtcktmenNnMF9fTW9vRnQtMFNKUTZ3LUNISmdCQjJjbFJUaVNSYXpfOFI0N09CVTViQQ?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Sat, 28 Feb 2026 04:42:48 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Navy inaugurates first Marines to boost maritime, land security",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZkWnh3TGE5NkVZYVJnU1dwc0JLOHdrMnpCdFBsdEw0anYyTTdCS0M5dzRHSEVHX1l6UUNTbjM5YlBEVmxvMXV3TVBWcEwtOVdOVGZtTU9PanZ1amx5ekJHSnlZb3R5SlpSOUNMU1A4ZmlzUVFEb1BHOGllOGhfaTBKb1hYVmF4dE9NQ1c2Y0NkVmR1U2puRnQ3YlFsZmtKYTd2ay1oZUx4Ykdz0gGyAUFVX3lxTE5ob3Y0N2dpbDQxUmNkV190NVQ2a1BYNGhPRm9XZlEtb3NHNXdMYlZXYkJJbEUydV9CSVdLaDlzbmx2Zm9mSy1kWW1PZ3FYeER0UjZEU0FHX2c3QmFXVXlVSjU2R3VwdU9xMnBSTWszYkZ4ckJQV2w2Y1FMNU1YTHhQdURqYkY3ZmMyU0lpMmtrOVZnRkpLdExTOXpEMlNBNmxXeDU4bDVzS1lIdm1yVVdENnc?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sat, 28 Feb 2026 01:04:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘Security Is Local’, Tinubu Speaks To Reps On State Police",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzVNNElMMmVVWkhlYjE1U3lEMGlWdGh2SWIwR0htUGxQSmFwZGJFcUlSQ29BZjB2eWhqVkZPN0RtVXNUbWZBVnFjV2pTNW9hV09TOS1TWW9mYXJaMldPRjJSbE9zQUlIVDZpSEc2VHA0VmFsckFZSC1oZ3BjNFdZMlZVT0M?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 27 Feb 2026 23:33:42 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Compulsory Retirement of Senior Security Personnel and The Challenges It Poses on Nigeria's Security -By Tochukwu Jimo Obi",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ25YT2hTSzBfYnZIMDhwNEk3bFF0aFRaVHFNZ0lZZnZ5cFhFWWRTOXpFa1o5cGZjNXBNYzREcXF5UElhcTdXSzM3VVhPRVlSclR2Nkl5a1VYNVM1RUdRNVZkZ3U0b19jMEVCSUFEYjdVWnAwYnVMRzU0SEFPbHByT0lIWW5NU29wZXlWZTlkcnJrcEJ6TGtCNkhMdVJjd29UdllyMXVfWXJQc3hRMWh4ZUd6NGEtU29PSHdsZlJDVW1OWHhnX0NmU09XVVJONmw4VDhra3BxY3MtRkdrYVFXbW1BTTBjcDQ?oc=5",
-      "source": "Opinion Nigeria",
-      "pubDate": "Fri, 27 Feb 2026 17:56:11 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Arrival Of 100 US Soldiers Marks Turning Point In Nigeria’s Security Crisis – Hon Agbese",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkNIRGRUck92VTZ1NERtM2w1N1l1WkE1eGUtbzdaR094Y3F6b19ZSzVsY2pxQ0swRDZ2a0tfQXpBM09hWXY5ME1oUlloWHVZeWwzdFQ1djdxY2ZzR0JDS0NfMG9PM1JFUWNiQ0tFRk9kRG0zdUY3OHZqbDdzUmFJRktiOGVkZW1DbGxGOWx1eGRIVGdhcC0waUtWV2luNURTSHV2dm1nY3d2bG5n?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 27 Feb 2026 17:43:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NEMA Uyo Participates in 2026 International Civil Defence Day The National Emergency Management Agency (NEMA), Uyo Operations Office, on 27th February 2026, participated in the 2026 International Civil Defence Day celebration in Uyo, Akwa Ibom Stat",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWUkyakpmdHp4b0ZqUHlOTGRFTGlLS2RtUmlBWGFoN2VKU3F2OHoxb3FOMTQ1LVlhZVZHMjBKbFdiQXZOU29IS1FkbVdwcThfQmxNS2tlS0RIVVR1R1BpNFlGU3VFeXoxaXdkdWt0SUpmaHVOV2pINnloWHBUV3pFeEFwTzhJcTJDZlBqZDlfVk1meGs0Rmh4RE9DR0djNW5lUVNwM3lBRHhjY1hURDNDSXlzclJJVWtVb2E5bl84VklpZGxOMmZ5NkhTZUMzMXBsd1lDemVUN0E?oc=5",
-      "source": "facebook.com",
-      "pubDate": "Fri, 27 Feb 2026 17:19:39 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Community Builds, Donates Office Buildings To Police In Kano",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2Z6a0FnVUNjOFc5UGpTcFBDWVlDRXlxMk9TeWRQNTN0azZvVzhoR2JlaFQwb1FjZDR4bFVrOHdNX283M1NURzNxNENGRWk3VGFwSWJBRTFRM2RkVGZaRERJNXhPOWNCanNxbVQzQ2NpMzB3MzluVzcya202X0JZemc1c2ZWcW1veHNJ0gGQAUFVX3lxTFBabzNISFdycXJQNFd1UUljNkpSWXcybEZpOVJ3ckZ0WE5rU19oNmctbndTWWtsUzBaRl92U21OWEVfdE55TVBZdVUwSTM2M0prWk9lSHpXdVhpblQyQWJsZGNKakhSX0RYMG5XaE5wRnNRcXFsM3B3VmRNNElneXRYRWt1WGhaWmVSZXRZWGtNUw?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Fri, 27 Feb 2026 10:11:21 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Kogi govt hails Tinubu’s commitment to establishment of state police",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDhIWlBNYTA5MTRCak9HNzYwLWhxejBJMmdpeVUxVXB0TTBLcHdZUFZkZE5hVXhfalAtTXhncGhoWWNnWHhYRnJ2WWFDY1BqV1l0dlIwU2R6OWVCU3lQcDNwSk1oVm5WQ3I3SlhoeXg5R2ZmWWtfNzdMSUVRSG1oSkkxcDJ6RTdsN1oxOHVwbmhxcGYwUFZHaDduTk9GM0I1NW5zUmtQeFI?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Fri, 27 Feb 2026 07:10:32 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria’s rising insecurity: Don’t expect immediate results from U.S. military – Security expert",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVhIc3c4c0NXa0xaVlF6N0xkbW1mel9BOXdmZzk5dGFkaU4tdFFBRVNPY3pRaHF6V1M0NjVPV3B2WTNWdjFfU2tWTWF2aERuMk1pTV80UXFYLU9YNk1XOW1vZEg2TU1FYV80V0EyalF0MFdZeFhtMnBXbjAyOGJfRVhzenp3R1NQTEVrXzlURG5Tb3FTN0p1LURhdmlKdDM3ODhOOGI5RGsxNm9XeE5GS1RoZXVNdkJqVjhLSnlZQmg?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 27 Feb 2026 06:40:08 GMT",
       "category": "Security News"
     }
   ]
