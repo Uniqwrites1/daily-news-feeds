@@ -1,31 +1,101 @@
 {
-  "timestamp": "2026-03-02T06:24:27.465Z",
-  "generatedAt": "02/03/2026, 07:24:27",
-  "totalHeadlines": 154,
+  "timestamp": "2026-03-02T09:22:16.878Z",
+  "generatedAt": "02/03/2026, 10:22:16",
+  "totalHeadlines": 151,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 114,
-    "Traffic": 3,
+    "Traffic": 5,
+    "Security News": 107,
     "Law Enforcement": 10,
-    "Military/Security Operations": 5,
-    "Armed Conflict": 15,
+    "Military/Security Operations": 6,
+    "Armed Conflict": 13,
     "Banditry": 1,
-    "Insurgency": 4,
-    "Kidnapping": 2
+    "Insurgency": 5,
+    "Kidnapping": 4
   },
   "headlines": [
+    {
+      "title": "Stop Demarketing Your Country Abroad, Rafsanjani Tells Nigerians",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3pHMS1vSWVKbWpjOTVHTmw5UEFLR2tsTzExVncyUDR1bjlJUWhCOTFWVlJ3amF0VGh3YkVRQUpKMGVpZGtRNXlqRUR3LU13X1owMXFtdGJVcTRtQ2ZiTGx1QVMtcjI1X3VYQjRZRURyYlBLam83VHpDN1FHcG9pWDJia2swUVBlSzFkWDNrOEpUdEFWempXT09R?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Mon, 02 Mar 2026 09:19:55 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Military launches Navy Marines to tackle maritime, inland threats",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclBqRlp4Y216ZXJLMndSck1fRzdsVk5KV0JkUWZKdEtrNllZdFNkeXFfNWlXbV9UMnRqdjktUW5FVThTeE1rQXp1N2hPNXhVUVFBVEhvZzJFM0tPU2Fza3pJblc2Y21vbFhHMk1YQzRSelMxVXF0a1BXZzVCc05wRmp4U0Q1NjBWNG5JV0NkZTVkOFEyY3Bmd0VMUXl6OEE5bmh0VWtxcw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 02 Mar 2026 09:18:29 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian female football player kidnapped",
+      "link": "https://www.vanguardngr.com/2026/03/nigerian-female-football-player-kidnapped/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Mon, 02 Mar 2026 08:53:29 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Iran threatens to withdraw from 2026 World Cup after US strikes",
+      "link": "https://www.vanguardngr.com/2026/03/iran-threatens-to-withdraw-from-world-cup-after-us-strikes/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Mon, 02 Mar 2026 08:47:26 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Middle East conflict seen worsening housing crisis in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTTA3X2dxMmhRTzdWbG0tbjgwc1J0YlVhcXlfT3FpbzRpeldNT3VEQXhMWjYydTE3MVdYQjZUaU05bm9fZ2YyNi1GNG53bXVCMmNnRGZXX3ktNmZBZF9Fb1lZQW5uTTFXWXhRaFVpbm1oVUFLSUY0djF0WV9RYk9FNzd0NDdqRE5GMG9ncGwxdFQ3Yi02R0R0c20xX0lrUDJtQldWT1BuQ2VQaDFxVmRPRW9HRk1pQTdDRXRIcGo2LTVnZlJ3eVNLXzRDNGFaT2RQN2QwUDBCZllyRUw4UjBz?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Mon, 02 Mar 2026 08:36:59 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria Issues Urgent Security Alert For Nationals In Kuwait, Bahrain Amid Middle East Crisis, Launches Emergency WhatsApp Line",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblY3Z01RbHlQT2Y4cE9QZzA2SFlHblNhaHVXemZSUkgzaFdSQU9fa0dhT1dyRldBTl9GOUxrYV80S3A5c0ZzdjBra1FWb1AxVDdia29IdG1YOE95NXlxdHlhYnJwa0M3eXZFMlBsdHdsMUNrb29jUlptYzJhZ1VGRTJRazV1SnkzZU1TRnoxcGNOamdBTU9RZXZkNmdEWEp2aF96QkF6LWRwV1JPMVlHSlozR1pmSENGcGtyNkgxSVV1UQ?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Mon, 02 Mar 2026 08:14:14 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Eyes Oil Windfall as Brent Hits $80 on US-Israel-Iran Conflict",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDBoSHA0dEU4VzFtc2dxeXJuaUpDOTdoRmVjUm9ZOE9LWDNMaW82SUFld01OOHROMmFnVXNjRk9makN5UFRwcF9ZRmIwZ3NFbm9QelI3Snk5SmMtZ3dmVUZ3bjd0UzZ2SS1SU1Z1cXpkbWFnRHFBdFhpVTVvZmE1M1daYWlsa3ZfcmtCYUlFQ2J0VXo0Y1paWF95SWlIdzhtTzV3Ng?oc=5",
+      "source": "Business Post Nigeria",
+      "pubDate": "Mon, 02 Mar 2026 08:00:21 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigerian Troops Repel ISWAP Attacks, Seize Heavy Weapons",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXFLbGl0YUZNaWlIcHkxYk1vbjZHSWxvSGZpU2JTOEotak9pTmNfV0llS2F3SGJwUXpZVHdEQTUxLUJMczBUTWNRamNYWm5nVENUUXdqVWUyQlcxUnR6UGN3S1MzRVV6TWd6TEl6T0t3Q2xrZVdBcEdyVUExZnBrZU9TRXk5OFluZkRsc25Rd1hPMG80dS1iYmFnbE54OUJHUE5MOQ?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Mon, 02 Mar 2026 07:49:45 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria urges de-escalation, restraint in Gulf region conflict |",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlZ2SWZzWWNaTHVqZ2VBcS1UVGc3Qm51Y19MTHBJMWR6WGhEVFdoeE1kQ2dKNUtxXzVlUWRiSXVlemFpNDNBQzVEQ2gzcHYwNWE4aEM1bFNwS3FGZ1hKTDc3eHRBSmNFUWZ6N29qSjBpUUlQaHUtM1JjTzJ4Q2FxemNRZXRTQnJibEk1ZWxyRWJ2Zl9HUWdV?oc=5",
+      "source": "theeagleonline.com.ng",
+      "pubDate": "Mon, 02 Mar 2026 07:14:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Safety Of Nigerians Will Be Better Guaranteed With State Police – Sagay",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczd5dG9lMGtrdXd3ZWtpamdZNWE1WHNmdlhGX29kSG15MmdmSTBUaGZOWHdtRkZKMms1UDVISDkzN1RvcUN6TkFzN2t1WDViX0lEdDdqU2Y4aDFWZnh0dzlRMkVmZm10YXRyNjhWR0tUYUE1VUlwMFBwUzNDX0Z5QXh6d1VoMVc2TEdya2FCMC1HVUI5VGM1MUZSQQ?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 02 Mar 2026 07:11:18 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Police tighten security around worship centres amid Middle East tensions",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb242MG5tTjVkNmw1bzN5eW9BdHl1MU5xMU4wV0tXVWJyV1lHREJibk5rVk0wREpwSE1QcFExd3Iyd05sOW44MHRzTUxMWTFfMmFmM29wSFFLbFBaeFVXeS1UaWllZXU0ekhYSG5RcjFYZTgxV1pTYkNpNDVwTnJvR05acEpEOVZHOUZ4MEFiUEVfaExzTlBwOF8zV3NqYmRGeDM5M1BFSQ?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Mon, 02 Mar 2026 06:57:04 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "NSCDC Boss Consoles Family, Colleagues Of Female Officer Killed During Simulation Exercise",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTNhZ0xwREpOVDJ4akZEeUhiVTVMRzUxMUFVcWVFUWFNNGR4TXhFeFAwaGpZMVB1STFfX3NwQWxOVnFfS2hUMTJmRjVuem1uMUttcXp5TXdmTWU2MnRiVW8wZEtOeEsxM25NLUdtQ2J2SktlWm5ybDZ0NlJ4Rmc4V2t3Y2N4NG5BY25yM1FRc1M4TE5fVE5QVGxNTkxmaHBOeGZfTjVieGNGaWlBY1VkVXZwMlA?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Mon, 02 Mar 2026 05:48:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US, Israel wipe out Iran’s top military bras",
-      "link": "https://www.vanguardngr.com/2026/03/us-israel-wipe-out-irans-top-military-bras/",
-      "source": "olufemiajasa",
-      "pubDate": "Mon, 02 Mar 2026 05:43:17 +0000",
       "category": "Security News"
     },
     {
@@ -36,25 +106,11 @@
       "category": "Security News"
     },
     {
-      "title": "Iran: Trump says conflict with Iran could run for four weeks",
-      "link": "https://www.vanguardngr.com/2026/03/iran-trump-says-conflict-with-iran-could-run-four-weeks/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Mon, 02 Mar 2026 05:22:34 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Israeli military warns residents in southern Lebanon to evacuate",
-      "link": "https://www.vanguardngr.com/2026/03/israeli-military-warns-residents-in-southern-lebanon-to-evacuate/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Mon, 02 Mar 2026 05:19:46 +0000",
+      "title": "NIGERIA DAILY: What The U.S. Military Presence In Nigeria Really Means For Security",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3JzVVlqVTR2YmJvbkkwZE13NXJBMC1SUi1aN2lWbE44cUZXWVFEUUYtVTdVVHZRcWNmcUY4dnE0QlVXUkZyUmRzUjJMb1RPTGRULXRFTS1JSFRlN25rUWRoTnJ3dlkwbjlQNjhKVGhpdzNjTmVlUml4bVhIdVdJLUNrUnNUTHozbWNoUEkyb09XZ1dTaThkMXRNT2NYZlg1RU56SzhHUGk?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Mon, 02 Mar 2026 05:00:50 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Ex-basketball player who worked in Maduro govt arrested in Venezuela",
-      "link": "https://www.vanguardngr.com/2026/03/ex-basketball-player-who-worked-in-maduro-govt-arrested-in-venezuela/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Mon, 02 Mar 2026 05:16:12 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "Dutch attacker wants to represent Nigeria",
@@ -85,18 +141,18 @@
       "category": "Security News"
     },
     {
+      "title": "NSCDC Mourns Female Officer Who Died During Abuja Training Simulation Accident",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2F5M1JtTU03d3BILTBZY29JX2djclZNOFhvOUdMRlI3OE8xWWl1eGhnR2dOc3BqV2RKbzhwZUpqTjZTN2g4dzRwaGZRbzVSdUIzc0pPTlVuQzR2ZW84anh4dDZZSVVaUE1sSmNwTU4yTlVjS3ByeEs5VjBrVE5iaGNTeWYwc2trNTF1WFpMc3ZTdDliRXlLNF9jWVBEWHJIMnotamdOX2pUQlZ5UGs5WjRNNkdrR0xiaHc?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Mon, 02 Mar 2026 02:10:11 GMT",
+      "category": "Traffic"
+    },
+    {
       "title": "The Task Before Inspector General of Police Olatunji Disu",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkQya2hKdE5naGFwUDFPWEJ0S1luWmgwUGFfOVFtQTRNRFh4UU1pWDFkSzkxQVVFMnVzTGFJdmU2OWliOV9hei1vSnpCbUgteTBXYWkyNThPWXNpS3g0ejZmRXpLMm8xSTg2MkI5SmZwZEhmUFhJaU1peWZlclN1aW1DVzdxaDNWdGJlUlFYLTdBTm1zb05KdlRMaW1jZw?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Mon, 02 Mar 2026 01:58:33 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "NAPTIP takes anti-trafficking campaign to Edo schools",
-      "link": "https://www.vanguardngr.com/2026/03/naptip-takes-anti-trafficking-campaign-to-edo-schools/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 02 Mar 2026 01:43:00 +0000",
-      "category": "Traffic"
     },
     {
       "title": "NSCDC Mourns Female Officer Who Died During Training Simulation In Abuja",
@@ -106,24 +162,10 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria urges de-escalation, restraint in Gulf region conflict",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3lMak5oMlEySmw1SmctMnVoXzN3NnhoalBnU0xGa2tRU3hZYUtzMnVtVTNmbjRXYU1tWFdJUjc4ZUpxcjlUSDJvZVhEaDk0Qzg5NkMyQjNQRUt6QU1Rb2EtdHlFNm9UTklsYnZqSTN6Slh2MnVuQkJ6S04xOUpxOFNLcXJFWm1BbXlZNERkSlVmbDJ2bm5QazFnaw?oc=5",
-      "source": "21st CENTURY CHRONICLE",
-      "pubDate": "Sun, 01 Mar 2026 23:28:49 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nigerian shippers brace for rate hikes as Middle East conflicts force shipping giants’ reroutes",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMTJzRlJGVlJyRTR3cnRMYUsydFlzLTlBX196dkxFOXZ6Ymo3RjNzUTdPMGt2VlJfSzlHR1RrdUR1TEFLN3hLSmMtdVo2bmZaQ0pzcmp3UTFtUGFrMlVSUmhMRVJUU1ZUSHpWUHFDWmg4MWpOeXZ2OEYwNFhXc19TMmFqaV9oS0l1amptcnY2STMxTmRJOG9wR254Mkpmd1lTR0hkUVdOYWdwQzg2NGpRaWJDTWlSR0NUTGlPRjNnWnByTzhQYXc1SmRtUQ?oc=5",
       "source": "Businessday NG",
       "pubDate": "Sun, 01 Mar 2026 23:06:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria advocates peaceful resolution of U.S.-Israel-Iran conflict",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUg4bTBZbk95ZFJEckZXS0NrZVlOVlJrRDlLamdqWnR0V1lNV1ZtcUl6WmE0UE5OR0RYWDdJX3BRLWRCa1djNkZrcEpST21CRzMyTDFsTGN1VUNlUHpfZlZGb25tZUJ5VUF1emUyMmVudHBFYjEtNmNXMDFzbFYydkpxLTBmTEFMaWNLOWFWMlA3T3c?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sun, 01 Mar 2026 21:53:21 GMT",
       "category": "Armed Conflict"
     },
     {
@@ -145,20 +187,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN18zbHA1VFpIcU5GTnFINWktT0ZmNTlWbUM3RERlcDY2dmIxOUJhYk93UG90S2JtOTRHSGRyX2x5QmZGYXhPVlhQQllyeV94X3F4OE9KMHJSU21PdGZLbGYtdWItWm93MGFpZjcyN2dfamYzdjVoQms3MGVtdkRib3o1RW1Rd2JuQTJfZ0tOeVlFLWfSAZgBQVVfeXFMTm94aVFRanltVlN0WGlSOVNneDAtYW5IZU1Odi1uTkE3OVlrUzVfdHNRUHNCZ3hJSlN4QVR5TWtCeVpuQ0FsM01XNHoyZGliTGVLQmpydWFfT0RSWHkyeDRIeXFnd3RxUnNYLUtqa1h6ZFlzMWE4WW8xalFCT1BhbzhxNy1yUkNYWWZHUEJKcFNUV3hpSDN2eWE?oc=5",
       "source": "The Whistler Newspaper",
       "pubDate": "Sun, 01 Mar 2026 17:50:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Must Treat Global Conflict As Wake-Up Call",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pc2hfdzlHdjRoZTc3dTBYVi1TR2FBSmhfV0FvVWh2NG5iY0hVX1ZaR1lIZ3pQS1Y3WjhjTTRXNS1YM1BDcTdld0I3dkxhVGh4Ni1HTTRvQlVCZEVxQVNNZzQ5WDZFMGROSFRMUGJtLXloTDd3bVUxNlZoWkw5VE3SAYQBQVVfeXFMUFkwTFZlTml3YmEyWjItNXpfb2lvVUJYanlNQnk3aWZGX1I2alFwd1FiTGxseTBDRTFnN0IwYWszdUFwOXNLd1dESXltRnBQR1hURkJwWnR0cE16bEVDbEtHa3Fkb0ZMb2RrbEFHdXp6V2J3eUlwYTFtSy0wMWNPVXpFZG0w?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Sun, 01 Mar 2026 17:47:36 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria Super Eagles Friendlies in Doubt Over Middle East Security Tensions",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEhoUm4wYktGcmQyWVVwSVJsMGI5R21DdUt1QlV5a3FfU1o1ZXBFdWJCenVFeGlvMFd0S2toUVk0VDhycUpSdmxkS09rMkxXVnUtRXFqMXlmN2o4eXlJU3RVVnYtZGdEUUJ6RGFvNVk4NE16ajNQTmdWN2xWODhreE1OZjJTaGpIdkstUzNRMW80ZXR4Mnk5b3A4cGQ5ZTJfWjNaVGlYQkhQa2RpOXlV?oc=5",
-      "source": "Africa Top Sports",
-      "pubDate": "Sun, 01 Mar 2026 16:48:43 GMT",
       "category": "Security News"
     },
     {
@@ -190,13 +218,6 @@
       "category": "Security News"
     },
     {
-      "title": "Simulation exercise: NSCDC boss condoles family of deceased female officer",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHJ5T1ZtRW1pMFdOYXVEQW91blVkbzRfX0FnMlUwZzdqeWVxVmNCT3BseWUwTjRqS01sRjJOdG95RjZod3RzRGozSXc4dTQxQTFPOXJqckk3b0RDcnNjM2ZsUUJfdHFIWllZcVI1M0JPSVhfeE1DMmR6T21LYUpoUXpjWEZVNVg5eGd1ZW9BYzE5Rkg3RDlCclVIZWsxdFFoQ3ZGMFQ4Y9IBrAFBVV95cUxQSWM0U1EtdHQ0Qzg4WmVMSjVYN1MwQ0pvMktIcHNhUm5zeWFnYXNTT29MSTRCRkU5anlDZDdNZXZRNlNGUm42S1RzbUkwLWZwRk56Rkg1aXFra1lLeHVPRXV3X1N4aV9JbVFhSTVQc2x4SjdYWjl3enBNQkpsTFZ2d3RTVDc0WmlvTWE2UzdlMXFvd2x6QnE3eDVDTElic0UxcXdBMGs0a29SdC1K?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sun, 01 Mar 2026 15:30:33 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "US Coast Guard begins security audit at Lagos ports",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTEyQUY1Smt1Qmkzc1pwZG1zN0lfR3dfTFp1Y0NFR1B1QktwMHNpcmZYNllhYkRTT096M21VNWk5cnlRUEpVMmtaM25zYndyMDdEQ25CWU1UQWlNMkZoNXhqTjJvcm4zY19oVTh6QkhXNVlucmNMRENVejk0LVBId2VvSF9SVU9aV2owag?oc=5",
       "source": "Daily Post Nigeria",
@@ -208,20 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1M2WEtweWVlbWhNb1FFZ2owcGRjZWdSMHFxcVhaNWVES3lPZTV1QWwyNnZfOFNpOWxULXlQaXZZYnd3REtGcHZpWVI1YnNQMXFnbzdkeVpUUldyN3pSZThiWEFSTlVYWXhCOEFFbk9UUmR3Ym1hc29vc3B0QTdWZ0xCdW1UZTB4dGJTQnJ1b25BbGE1Tnc?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Sun, 01 Mar 2026 15:06:35 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian military shares February operational wins",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZXlVWVhia1pZNXdseUlzSzBTLThDMTJXNzA1OXk0ckl2TjRHYmo5ZmltdmwtQUpFckpHWF9CdXJHRi1ZNXI4WHZwU25UbTVhcnhGZHA3Z0t5YngzSmhNZUQ2R3pTXzZFNkJqcEZzcUUtQXItRDNWeDA1TVNFZmtfeGRjWnU0UlhkY21aVzZYZ0FVRmlqei03WVltbTdQR3N4b1c2blUtRURVVTA?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sun, 01 Mar 2026 14:18:59 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria deadly for Christians but not deadliest – Clerics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUJQQ3ZYTHlhRE5JbHdFQWotZ290Y0RQNHBVVnVDdUFnY1BfdTM1QnlsOUwzYWp6TlVYbk1NRE4zS0pReVVGQ0RTdTIzR25oLWxubmd4aF9WaUo0aHkyRUdEdlVQWlI4Z1hhYzE1c1hOQkU0d3JCN1I1UmpMWk5keWg0Q1pJTzc0V3VOTGwzVnFON09Qdm5N?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Sun, 01 Mar 2026 13:17:14 GMT",
       "category": "Security News"
     },
     {
@@ -244,13 +251,6 @@
       "source": "Daily Post Nigeria",
       "pubDate": "Sun, 01 Mar 2026 07:30:12 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigerian air travellers stranded as US–Israel–Iran conflict grounds flights",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjd6c1N0R2JxaXh4bVJDV2VZV3M5LTRUN0NsY1NUeG5SVXBnTVR4Z3phbUE0d2NGbkxuQVlXMUdMTW9tN3dRajBUekZGR1ZWb09WSTUySFQzdlc2NUpHZW1fZUx4d0VyLXFmVHp3SndXYVBKN2kzVmdteXNnWlRoUG9jbGV0b19HeDgwQURZc0loUDZrMGVfLXd2SExmU2IyNFVN?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 01 Mar 2026 07:13:00 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "US/Israel-Iran conflict: Why it matters to Nigeria",
