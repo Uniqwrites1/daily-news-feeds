@@ -1,24 +1,88 @@
 {
-  "timestamp": "2026-03-04T03:49:02.849Z",
-  "generatedAt": "04/03/2026, 04:49:02",
-  "totalHeadlines": 152,
+  "timestamp": "2026-03-04T06:19:40.330Z",
+  "generatedAt": "04/03/2026, 07:19:40",
+  "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
+    "Security News": 119,
     "Traffic": 4,
-    "Armed Conflict": 9,
+    "Armed Conflict": 12,
     "Law Enforcement": 8,
-    "Military/Security Operations": 3,
-    "Kidnapping": 5,
-    "Insurgency": 7
+    "Military/Security Operations": 6,
+    "Banditry": 1,
+    "Insurgency": 6,
+    "Kidnapping": 5
   },
   "headlines": [
     {
-      "title": "Insurance Reform: Step Forward, Billions Still Flow Abroad",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWx5VndYeDhPaUZidFVSWUJzanZBUWdCSDdHTG8zWHMyVDBvcHdGWVFiazNjX1lIa2hVNlRranI0OS1qWTFoOGFJcHBUUU1sWXZFRXZ2WnhWUVJoTVY3QmlfUzJrNjJOcTV0bGxxbmhFYmx0cllPTklRb0hYYmVCbURtSmJobjlWRVowVmdB?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Wed, 04 Mar 2026 03:00:56 GMT",
-      "category": "Traffic"
+      "title": "Bribery Scandal Rocks Security Agencies After Failed El-Rufai Arrest",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmViZWwtb3BYX2JydzFSelEtVjBhWFJ0TlZ1VlRtalg3akRrSWxXOTRjazN1cFBFT183b1F4Vmdxem9Hc2NsbENwNUUxRWlha29VWUZDXzh2VEhvbm1nV0FtakViRC1iSVB4N0xwX0hLYU5wdm4ya0xaODNCZVZ3b1FuNUZZd0dUQ0s5VVlfMW1KTWJkaDFXcjRYcXFjZFowZjBETjhvRlE?oc=5",
+      "source": "Pointblank News",
+      "pubDate": "Wed, 04 Mar 2026 05:26:44 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "US military says it has struck nearly 2,000 targets in Iran",
+      "link": "https://www.vanguardngr.com/2026/03/us-military-says-it-has-struck-nearly-2000-targets-in-iran/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Wed, 04 Mar 2026 05:16:15 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Iran missile attack triggers sirens, sends Israelis to shelters",
+      "link": "https://www.vanguardngr.com/2026/03/iran-missile-attack-triggers-sirens-sends-israelis-to-shelters/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Wed, 04 Mar 2026 05:12:23 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Lassa Fever: Nigeria Records 82 Cases, 20 Deaths In 1 Week",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2FZQlp4ZFRXSEZCTVlXSWVQeVdKSHd4VFJCY2FzbTdYQURrZExRZkV2UU9VNnBaR21sclVEM0tqVldoOU1VXzQ2TDBwSGQweFgwMFhQVXd0UW9QbENTcnNOS2xlQWtoY2FOczJZU0ZjRjh0dW1YeTJpX2V2Rl8zTGhtWWlsR09J?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Wed, 04 Mar 2026 05:06:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria suspends Christian pilgrimages to Israel amid Middle East conflict",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa3JuWV90ZHV4YlFlZ1Y0ZzZlRTA0bUMtWnN6dDdMQzM5U2VDb3ZWY3FoWWpWZVZteDhnMjR6a0pUTjRKSnJCVUFlM1Y0dFZ2Z0x0LTNfU0R4SkNndDRhZHlFZkFKaFJMSnJHOXQzRW9LWV9WQTFEdy1fUUR3a0tjcjc4ZDIweEhiZDlNUnY0cktERVY5Q0MxcHJoTVVhenNBTndFWkFIb2w0RGNJWlMyRHY1bFJITVFhWDNFS0NQNUt5bFo2VzluNjg0djJhZHVtaHZjek1aN0ZPUFhRdDI3TGcwaGd4aXM?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 04 Mar 2026 04:52:34 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Medical Council suspends three doctors over Chimamanda Adichie’s son’s death",
+      "link": "https://www.vanguardngr.com/2026/03/mdcn-finds-prima-facie-negligence-in-chimamanda-adichies-son-death/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 04 Mar 2026 04:31:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Preventing explosion of Nigeria’s urban population ticking bomb",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFBZOFJkN2pUNW5YeGNBMEx3SEFZa1N2VC1kcFZISXVPeWdHdTVPVVAzWkNMWmpCM2Y4UkJkaUxCZ2NJdmtBbnR5Wk81NlRBZnQ1ZXRZVThkSTc0RjNCOFAyckNEVmgwRmxQSEc1NkthdnF2ZDVnMS01S2VKcEdjaHVIN2NCdEdOTlBQajc1bzM4QVItb3poVXJlZDVIWDZBR09J?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 04 Mar 2026 04:16:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC commandant tasks officers on environmental safety, professionalism",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzlCQ2JYM0lmVVQtcWw0V3Vsd254UkZzZlR4SkpQQ0dTMjZEa2pyc2VWZm95THBnQi1IZ1RFVElHTnBRZWpLR0FzamJsM1JhRW9PSll4ZVVibXRpRHRUQ0hxSE9fQzBPRWFSRGpLZjlLcHRjbDFkSmxaX0t6bjhaMVRRRmNiZ0QzYzFKTFZuMkRNaWY2R3Vseg?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Wed, 04 Mar 2026 04:16:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Enugu: Two neighbourhood watch members killed, others abducted in failed kidnapping",
+      "link": "https://www.vanguardngr.com/2026/03/enugu-two-neighbourhood-watch-members-killed-others-abducted-in-failed-kidnapping/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 04 Mar 2026 04:00:00 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Gun attack on ADC leaders in Edo",
+      "link": "https://www.vanguardngr.com/2026/03/gun-attack-on-adc-leaders-in-edo/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Wed, 04 Mar 2026 03:40:00 +0000",
+      "category": "Armed Conflict"
     },
     {
       "title": "Rethinking U.S.–Nigeria military engagement",
@@ -42,39 +106,11 @@
       "category": "Security News"
     },
     {
-      "title": "Enugu: Two neighbourhood watch members killed, others abducted in failed kidnapping",
-      "link": "https://www.vanguardngr.com/2026/03/enugu-two-neighbourhood-watch-members-killed-others-abducted-in-failed-kidnapping/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 04 Mar 2026 00:55:00 +0000",
-      "category": "Kidnapping"
-    },
-    {
       "title": "TUNJI DISU AND NIGERIA’S SECURITY CHALLENGES",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjA0bDRSUDVjNjJ0ak9rSE15T2RZajZKcXZMZ01UX2h4NHNubTc0SFVpWEVnQkdKY2lVMF9KYlFiazRYaElQS1U1R0I3Sk55SGZSS1NiQ0x1T0V0SG1WT0VrOXp3ODNRX24wamlZOWFuV3JXbGFCaFlTbk96bGpxbXpGc1ZuTFVfWTQw?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Wed, 04 Mar 2026 00:49:31 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "The Nigerian Public Officer as a Receptionist -By Ike Willie-Nwobu",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeF9hMDVzUnh5TXFXUm90X2lFOHFwSUtFNGs2TnY5MElwb29XVHhSczVHcDJBVi1VU0I0Z3JRTkktNlpCb2FXUW5Ld0thZWNhcVB3SXQxWFhGdzZpQjNFbVh5eGFLVHZKYUlVWmtqSkxCcmRrX3BDSVVwZU9nYlNGNVFYVVFIU3U1cnJlR04zZEkydHpoYlJ4NzdXLWVBdw?oc=5",
-      "source": "Opinion Nigeria",
-      "pubDate": "Wed, 04 Mar 2026 00:46:21 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Verve’s tokenization solution to boost transaction security, curb fraud",
-      "link": "https://www.vanguardngr.com/2026/03/verves-tokenization-solution-to-boost-transaction-security-curb-fraud/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 04 Mar 2026 00:41:00 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Gun attack on ADC leaders in Edo",
-      "link": "https://www.vanguardngr.com/2026/03/gun-attack-on-adc-leaders-in-edo/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Wed, 04 Mar 2026 00:40:00 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Ensuring food security in Nigeria",
@@ -91,17 +127,17 @@
       "category": "Security News"
     },
     {
-      "title": "COAS tasks Army Special Forces on decisive dominance against terrorists",
-      "link": "https://www.vanguardngr.com/2026/03/coas-tasks-army-special-forces-on-decisive-dominance-against-terrorists/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 03 Mar 2026 21:58:48 +0000",
+      "title": "Lassa Fever: Nigeria records 82 cases, 20 deaths in one week– NCDC",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTi1MT3B6UTExdFFoOTRIZG43U3FuM0hWbFg2UTdCLXR3MExqWFV1Z21CMEsycndLZzd4a2MwZUlTSnNKRmhPN0h5bnE5bGc2SGxiYlFzelhpazhFQ3dPWS1kYVFGVWZ2dEhBMVM0RGVUWlk4SEQwclhGLTNISV9FS1Jzc1poX1hHT3F2ckx5UDlFMmQ1eGY1SFVvVDRiYnhIU1lVLVJEeFZ0VW1uM0FjTHVkWnQ4M3BwNUgwQWJLdERHNGs?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Tue, 03 Mar 2026 22:43:12 GMT",
       "category": "Security News"
     },
     {
-      "title": "COAS promises improved security in Benue",
-      "link": "https://www.vanguardngr.com/2026/03/coas-promises-improved-security-in-benue/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 03 Mar 2026 21:34:54 +0000",
+      "title": "Security Alert: Possible Protests in Abuja - U.S. Embassy and Consulate in Nigeria (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LOGJydVFuMUFRYXg5dG90RkdfUUNMZE0wMzFCSm9qMjFWZ09kNHd1TktscTNaLUtmbHhVeC1uNE0xc3JLcDQ4aV9oM18zQmNnNXl4V3NfSnRMNzUzS1FrUVhENmVaQ0h4QnZGaFkzdDU5V0RzN2c?oc=5",
+      "source": "news.google.com",
+      "pubDate": "Tue, 03 Mar 2026 21:57:27 GMT",
       "category": "Security News"
     },
     {
@@ -119,10 +155,10 @@
       "category": "Insurgency"
     },
     {
-      "title": "Lassa Fever: Nigeria Records 82 Cases, 20 Deaths In 1 Week",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTktiTl9JRUhBUVNpRUFJZFQ1QXFRcVJhbmxVbWl3SF9IZjRQd3BMX0I4aW9rVjRuOTI4amtnRTlFekt0NUozN2hrYlRxbFlUU3hSMERja2lRcVVfVXZqNzFxbFExREhRMUlDWmYzWEdEYVBjcWU0Z0oxYXNpNExyOWhXTXEyUQ?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 03 Mar 2026 18:39:44 GMT",
+      "title": "Lawyer urges FG to sustain Tompolo’s pipeline surveillance deal to protect Nigeria’s oil revenue, Niger Delta stability",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRUF4emhjaEFxdnpCSFMtc3UwcFZzVTZqUjBnaldlRDRUWk9xWWtIY2F6NEdIYzNtX3BNSzNEemJ6bEJBMEhNQUpxWDhjbXVKV2VZTUV5NGdncjI0eDVtRWJqc25vQWtQVDNmdHkzVWdNVzd0U3BaOWRqRzVFMVdvelVBTk9UUkRwZnpKbkZPZVlNeC1fLUNIMUF0RkNwSTN6cTZmbzhTeWJjeTgzdXpBdVZ6WlJQVTRZTlp1MVJQOHo1VmNjX1BrVTVVb0l6R0lhNmhiWEYtd1V4LTVkNnE2dtIB5gFBVV95cUxQTHdGVmM2RDQyYVNaWkhUZlZfRVJYdnVCZF93NXpFcHZhTWs2d2h0XzRQTGZUZkMzbERnay1HMDB1QTZxeFpPTENodXlNdG83cF9MSmV0WW0zZ2dSNXkxbml0NEtUWVZFdlhQdWtlUkdFdkNzYVpDamdhSS1lRjdMbTF1aHU1T0NiS1RJMkdjWTRJQU8yV3VYQ01UUXFLSU1vMUFCU25GRjBobDN2dFREZ3F6T0JVQUNrTzhBS25VMGxSQkdvQk9WQ0RhbV8tQlBZTXA0ekxxeG1iVDRseWRPbmFwWF9Kdw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Tue, 03 Mar 2026 18:59:47 GMT",
       "category": "Security News"
     },
     {
@@ -224,13 +260,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "BREAKING: DSS arrests police, immigration officials ‘implicated’ in El-Rufai’s return to Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHhaWExvVzVCLUdVeERxcEFydHB3Uk9RbnVzQmNMQmdVNi1QeVdfNXAzRWYtenpoMHJzdFZ6dnJHanltVWlBcFVDUjJxdmltb2plQnhaMFJzVzVvVENvUndQdDg3SzNadU1uekp0enZWXzlWOVVyeGFCV24wT2EtYU9CbEtaS2dXZ0ROUzNfNHpESkxYWDRyTTZLbVZDd0wtdV9IZzA5VGU0TE9oRU4wanN3cWs0Zw?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Tue, 03 Mar 2026 12:45:48 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "US Issues Security Warning To Citizens In Nigeria, Others",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWZ6Rzh1ZVp4Mk5ySG9xRTZPMDA0ZWlTcGxjOGFZRTNTTk1YaEllMHFRcEk3a1hxTEJfc2VvMUFsSjV1UUpoNlJDbXBZUW16X2diQVpYcVJab1BGRzhkaWF2bzV1Mlh1QVJveHd2NDlRRmdNVUFRZTIyRnVIRnd0ZHR4d2VrQQ?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -287,13 +316,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria’s Quest For Food Security Depends On Quality Seeds – NASC DG",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmhwcDROTVdxVFF5a2hxX1VxVllVS2FhX0hScXJZZGM4VDh1QTF0cHhSZ28yMTltQmxpM3Jub3NlSzFjX2xNWlVwNnJ3ZnZjTGx2aVgxZFlmQndtMXotelE5SFhBbHN0c1E4T0F2eXlveW1HZHhuSFEwQU96dWdkd29NTko5RXVOcGxHTkRmTXVrY3c?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Mon, 02 Mar 2026 17:12:48 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Plateau police reassure residents of sustained security vigilance",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdC1yQnQwNWF4ckhwcEZzQUFlQnB5VHdrYndQMEFQSWFiallyYUtQTjlIcUd0RG5NSGFwWElCcUtmUDlSNTNrNkxsSzZPV3F6b05TODVzNDd1MzJCRnN3dmxjWkZ6eU9LaTdXZlhXdjh4MVA5TkhyZGg5OFoybjFmWGhFM2l6M2JhNmY4anNmbzI1cWJpa0FUanVYdnF4Wl9vbjJfcmdwdmE?oc=5",
       "source": "The Guardian Nigeria News",
@@ -341,27 +363,6 @@
       "source": "Business News Nigeria",
       "pubDate": "Mon, 02 Mar 2026 11:12:14 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria Issues Urgent Security Alert For Nationals In Kuwait, Bahrain Amid Middle East Crisis, Launches Emergency WhatsApp Line",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblY3Z01RbHlQT2Y4cE9QZzA2SFlHblNhaHVXemZSUkgzaFdSQU9fa0dhT1dyRldBTl9GOUxrYV80S3A5c0ZzdjBra1FWb1AxVDdia29IdG1YOE95NXlxdHlhYnJwa0M3eXZFMlBsdHdsMUNrb29jUlptYzJhZ1VGRTJRazV1SnkzZU1TRnoxcGNOamdBTU9RZXZkNmdEWEp2aF96QkF6LWRwV1JPMVlHSlozR1pmSENGcGtyNkgxSVV1UQ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Mon, 02 Mar 2026 08:14:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NIGERIA DAILY: What The U.S. Military Presence In Nigeria Really Means For Security",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3JzVVlqVTR2YmJvbkkwZE13NXJBMC1SUi1aN2lWbE44cUZXWVFEUUYtVTdVVHZRcWNmcUY4dnE0QlVXUkZyUmRzUjJMb1RPTGRULXRFTS1JSFRlN25rUWRoTnJ3dlkwbjlQNjhKVGhpdzNjTmVlUml4bVhIdVdJLUNrUnNUTHozbWNoUEkyb09XZ1dTaThkMXRNT2NYZlg1RU56SzhHUGk?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Mon, 02 Mar 2026 05:00:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "The Task Before Inspector General of Police Olatunji Disu",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkQya2hKdE5naGFwUDFPWEJ0S1luWmgwUGFfOVFtQTRNRFh4UU1pWDFkSzkxQVVFMnVzTGFJdmU2OWliOV9hei1vSnpCbUgteTBXYWkyNThPWXNpS3g0ejZmRXpLMm8xSTg2MkI5SmZwZEhmUFhJaU1peWZlclN1aW1DVzdxaDNWdGJlUlFYLTdBTm1zb05KdlRMaW1jZw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Mon, 02 Mar 2026 01:58:33 GMT",
-      "category": "Law Enforcement"
     }
   ]
 }
