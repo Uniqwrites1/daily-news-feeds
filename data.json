@@ -1,39 +1,74 @@
 {
-  "timestamp": "2026-03-06T06:20:01.785Z",
-  "generatedAt": "06/03/2026, 07:20:01",
-  "totalHeadlines": 173,
+  "timestamp": "2026-03-06T09:15:47.748Z",
+  "generatedAt": "06/03/2026, 10:15:47",
+  "totalHeadlines": 176,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 124,
+    "Security News": 122,
+    "Law Enforcement": 15,
     "Military/Security Operations": 9,
-    "Law Enforcement": 14,
-    "Armed Conflict": 10,
-    "Banditry": 2,
-    "Traffic": 4,
+    "Armed Conflict": 13,
+    "Banditry": 3,
     "Insurgency": 5,
-    "Kidnapping": 5
+    "Traffic": 3,
+    "Kidnapping": 6
   },
   "headlines": [
     {
+      "title": "Nigeria Terror Attack: Dozens of Nigerian Soldiers Killed in Two Separate Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXVRV0FHSUxGMDBIcHl0MDl1aTVOOUhmQWtsM3oxWGdOQ0NzeEpNSWVXV3dUNDk5TkIyc00zemFQNEpHMUZqZEt1Z2ViM2R4V05IbHQzZzFpRnlDX0JqR2lWNlEzMXBkMU1LekswNF9VOHVGU09tMi1PYlpxVENncGxwTVpwbzVUekVrN1NQLXZrRWFLYlRRajJMWnhIaEoyNHM4ak9EWmxlQXJCdkVqY0JBWXpEYXE2TXFOT0V4ZDJvaVHSAcgBQVVfeXFMUDJvSGRhNEplX2FyQ2s4SGdJRlRUVzJCbGRjcUU0MUV6MVZqOFpxVlVvdHZVTzZEcE1YaGt1cFJjV1RuaExmWkxBWEJ0c2tfRGtEdEhNQm9WMUVvd0UwLVV5NEZfRXYtUElMUEFtdzlBTVBzWVpBcWdFSUdEOG12RkxzRjJCSjdvNnE2aV9EYjhDS0Q3QVpGeWRMZVJwUTlvRm50RU15SFdIV0M4cUhTQmFLeEsxUVlJamV6WkJVckRQRDVXR0plcTg?oc=5",
+      "source": "WION",
+      "pubDate": "Fri, 06 Mar 2026 09:00:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria: Government and oil firms must expedite investigation of gas leaks threatening to destroy Nigerian community",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNGE1aFRqQm9tTy04UWZSb0VKOTNUMVFUUWxTV2oza2hEZmFNS0phbFdxLVRqR3o4eHhxN0tuVWx2RlBSbTZWeW5QSTZWZVozT2NWeVBId0xpS3FwNlVfWHhQTHpwa19VNUwyRFgybzZIMDhGSi1kYVl4MGxKNHFla3kzVEdSVnBXZU9DY1ZpR3JyV2JUMkIwZ0stVmFoZ0p0bHBXQmtKMnhLZ0xVaFdDdzE0cy1TamRFa3VkZG1UNlhNdzFweHBjcTV5a0pkRWxyOEhnWmVPXy1MN1c0UHNUWFRNaXY5bGt6dkc0RUtqR29GUk8yR3c?oc=5",
+      "source": "Amnesty International",
+      "pubDate": "Fri, 06 Mar 2026 08:53:36 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "CAS Commissions Projects, Reaffirms Niger Delta Oil Security",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkppOUY3cHAwX2RpTW12cTk2Qk1tYXJEN3piOVp0VUo3UG82TUVCRGZKM19XSUdfZi1qUndMV0lRTXJjeEFuODhLTGRrOUs2Zlp5TkdxNko2WHZsRGZoMzZxbE92emtFOUNtV01QUGk1TlFZMHB0Q3VLUmhxNmUwY0x5WmNvZw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 06 Mar 2026 08:40:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Plateau police quell fears over alleged violent protest in Jos",
+      "link": "https://www.vanguardngr.com/2026/03/plateau-police-quell-fears-over-alleged-violent-protest-in-jos/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 06 Mar 2026 08:01:12 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "How bandits are moving freely across Nigeria’s North-Central forests",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeUJ4elVVUDdodUJ4NE5TQldiQ2RUc2cwSnluRTRPY2JWV2hkQTBnVG8tdVVtRHFraDc5S0dwdTJkM1NUSWdFSVByUy1iVWVlOUhNNUVRZWpqSmc4a2Yxa1ZiWml0OE40R3k1RHRISElSUkRFNkFPLVZzRENTQl9WcWlRNWF0SDc1WDRfVzQ2eTJ4ekdIRUUtVzdncFozT2RkZmxBNnlSRGk3VmUtdktOTWNCZVVYejFkUlp6bV9VRl9oVzMtSjBKMVZBT2JmRVhzaGM5d25BNU1UNGpjT3c?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Fri, 06 Mar 2026 07:14:05 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Tinubu's Oil Cash Blitz: Direct remittance Executive Order set to shake up Nigeria's Oil and Gas giant, the Nigerian National Petroleum Company Limited, (NNPCL) and reduce funds available to fund its operations",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQa3FIb25sdk05NkxYemxkZHp5U3ZOLWppenFiWHZKOUp5dFVnbHZlbzVUYzhpd2ptR1pBQ193NDB6VUJONDNFamlIelhLNG9MYkVHR3owcHR1el9XVmt1OXg2RWt1UUJYLWVKS21kUkdwM0NJeUMyOFJyZWRiVXBmbFZYb19hYlE1V1ZYSWhJTkp4RHdOc0ZLWEEtLXVpa0JTLW5PaWhIV1AySGt2UnVGVlA0UGVKNWpOWlpxdjd6ZVdVVzBfclp3ZmtqbnRXZUVnZ2h2ZXJLckp1VnV1YllNOXNHS19nenhudThUOXdMdzBhWEFnQkFOUW9UeHVOZ1VtNEJyQi1DUW5oeW9Qc1BnRHB3WUFleVJneEdSN09lYTJoX0piamN4QVBmclExX0p5bldTXzc2YnVJSTFYZHBoZnZOR3kxQ0Z2WXhtZEwtYlZoUQ?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Fri, 06 Mar 2026 06:15:51 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
       "title": "Nigeria paid Boko Haram ransom for kidnapped pupils – Intel sources",
-      "link": "https://www.vanguardngr.com/2026/03/nigeria-paid-boko-haram-ransom-for-kidnapped-pupils-intel-sources/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Fri, 06 Mar 2026 05:11:58 +0000",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRV8yZGJ3RmI2YnNWVkgxd2lTREFvT1k1amoxZVJVNDdWZzRLYjU1Q2tpalo5b2dvWGc0RjhpMXdZNWZuczZWWU02OGJWb3FKRTh1WjJmc0FFR2FwbHZiRUE5Qmk2bUx4Z3hNbF9yUjhOem5oSS1waXpzVWVpTUNqVVZTVDdrbGV2ZnBzN3ZHeEtzOGFWcU5Ibk5xaUpDd2tPdkJ5VdIBqgFBVV95cUxNc1poTmxuVmtmWDlRbWZGaXI5Z1JQV3dHV1R5TjB1Y3dKQkZnU2J6UFZnVlBjMGhMWG5DXzYxZ21QT0ZFWXpwVC1MYWU3cWtpWVE2dFlLeXpBblZNc3JlT0RUWk1yRGV1UEk2YzhmZ2F2NC1IdVY0bVNJWVRENlBTNXpmV3NIbFVqcFl1LXRkaF9iM3dHcEFFUEljNDA4ZkotcjhmNHlXbEpDQQ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Fri, 06 Mar 2026 05:14:18 GMT",
       "category": "Kidnapping"
     },
     {
       "title": "NIGERIA DAILY: Challenges Ahead For Nigeria’s State Police",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFVrS1NYODQyM0pfd2I1Q1VVeU9rQTlCalp6aG4yV0FEampVNjZuSTFwQVJwVWNSb1JoY0tFa056VG5zN1FjVVVvalZucjBGSzgxdTVucFVva3IwSkNkbWQ1bUpPcUlKb2NRT2Y4SmdqNWpBU3lqZWZ6eFFxWl9xYlV4VHBNOTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV1A2Yng1Z21rdE42eWk3bkNLOS0zd1RBMXRPTExpdmo1YzBtS2dFaGJtMlJjM1ZJajBpVUlieC1iN1F3YXIzbmFYNWFMbDEtMHRTSEhKWm1lM19wZV94cW9ZbGpCZnA2a2lyVk8wXzU0cDRYVlBsZ1RSUmJCYVV3NnRFa3pSZw?oc=5",
       "source": "Daily Trust",
       "pubDate": "Fri, 06 Mar 2026 05:02:19 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Space Engineers call for review of national space roadmap",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWN6OWpwTTBNTjFobUt2dHFTRmh5b25xZXlzWUpiblU0d3lFX0NvcW4xOXBHY0F4TDVCMkY5cEFGRlZ2aHZlR05iajdnSjRpcml6b19mZ3hrSFNIelZvdWc3TmdOaEx4clItMXN0SmcyTGItY2RKSmlMSzRlMmRLaFVNdGU3RUpiU0JaWVFfM1FGVk9PWVlKWi1lQllqQQ?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Fri, 06 Mar 2026 04:50:40 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Iran assures Nigerians of safety, security, says envoy",
@@ -50,11 +85,11 @@
       "category": "Banditry"
     },
     {
-      "title": "Police move to replace Hundeyin as force spokesman",
-      "link": "https://www.vanguardngr.com/2026/03/nigeria-police-move-to-replace-hundeyin-as-force-spokesman/",
-      "source": "olufemiajasa",
-      "pubDate": "Fri, 06 Mar 2026 04:00:00 +0000",
-      "category": "Law Enforcement"
+      "title": "U.S./Israel attacks on Iran: Impacts on Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUMxa0xMcWVfdE5VM1lLbVpYTkRQVWVDaTZldzNLaUN6QjB2bGM1Vko1R3lXbUFjeEtJVnVhT3kyZjZtUHRubkZ4elEwTDdmcGpqd2tjRTdkZGNiMHY5a1Y5VS1BUlhfcWJ0THVaWXhTZl9BZF82MndVNVRONzZEQjNn0gGHAUFVX3lxTE53Zk03czkwQzB2bUdEQk9TOFpmQ01WT3lBdHNNWm1kLUxWMnJndTFrdHBTejVzVUNOLWxpWHNlR0NXSWdhdkpRdFJBZGYwYW9EWXpVV3Fkb2hrbFNaSEpPcmNtaGx3QklzdWJnM253TEcwcFFEU1l0UnFnSjg2NUFmNG1yV2hkQQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 06 Mar 2026 04:14:42 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Road Running: A Catalyst For Nigeria’s Economy, Youth Development, Says Itemuagbor",
@@ -76,13 +111,6 @@
       "source": "PM News Nigeria",
       "pubDate": "Fri, 06 Mar 2026 01:45:10 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Terrorism Allegation: NNPP writes US congress to defend Kwankwaso",
-      "link": "https://www.vanguardngr.com/2026/03/terrorism-allegation-nnpp-writes-us-congress-to-defend-kwankwaso/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 06 Mar 2026 01:40:00 +0000",
-      "category": "Insurgency"
     },
     {
       "title": "Drug abuse major threat to social stability in Jigawa, says NSCDC",
@@ -120,25 +148,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "How Nigeria spent over N8bn on abducted school children in a decade",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0pjOWh3bDJveHJKRzZjTHpNSXVNN1VJSmhOSzFvNVNEQWZaaldaelh4R2Jwak1KQ0wzS2RXV2w2UVlieXBxbkVCUHBYc2tCRHpURDdUaXdDNlUtQjdHajJiQTg4aHlOSkZzYlRtVDBzYXNFek1ad1RCTmwyLVJYZk5TcEhEaWxuT3lNZ3RUbU9qR3AyQVEzSjRYcHpia0JYTHNaNlNaNA?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 05 Mar 2026 18:59:33 GMT",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Up Your Game On Security Or Face Consequences, FG Warns Paramilitary Heads",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVN2cHpjVENqdHdGYTg1NDRUaXNUT0Z3WFdpZTkwcllPY0lYY3FWaVlPU0QxdkpoWkk2VGRfZzFwc0xDLTNCOXl3VG1FOTFqSG90UjVtYWlwZ3VMRnlCLUdRSVRhNTZibENsS3VKZ0J3UnMyWmx6U3dJWmQzeUg5VGhDYWlBS3R1aEphTTdWUzFiZjhhMHY1bEEybjE?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Thu, 05 Mar 2026 18:52:13 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "NSCDC arrests suspected gunrunner, seizes six firearms in Kano",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGxzQy11ZmtyZE5mN2pXSUtRbkh6VFZrNURnRnpxS3o0REhaYVZYdE15RjdLSTNTdWxlRHdCODFrWmtzeWVxajd6bktiX0M3MzBhSm9RQ2wtUWpEanA5VXFuTzBRM3VxQ1QwU1JWR25KUEcza3hGc3dQZWpSOXZfU3BiMXNxNjVEX2ozd0ZiTENpS09F0gHfAkFVX3lxTE56T3dkZldSQWJESzRTMWJkNHFNSWE3NWl1Z0VUdXkzMG50b2V3R0VQVTZEWGxfa3JfNWY3aUdNZmVpRWxvclo0dmFSRUNualBVRmxMRG95QUdwTE1SWnB3alhSX1h0VGNkRHI0ekNIN0tvbWNUY1ZwN0pHTUEzcGtqM3F1ZlhfaDlYLXNfZHZDQlFYc0oyTHB1bnNVUTBSNDJLa09vZUM0NDdzd0gxbDQyWWd0Y29lUzRIemtVeV9xYjZlWHNxYmNEcGx5S0g4dkRPVV9GdVVqSkZmUmg5dTBMQlZpdHJVb2I4WE9hRmtwQ1hDdGRTNlNfWVlyYWlCdEMyZVJrNlJzQ3BNZzRqeGhZczdndW9yUGhDcUNDNGVDdDNQYW9pNWlYNTlhd2llZHhYN0FaZmFoMC1pVUJJaFkwcV9IRkZQTmRmUVpRUGNCTHJRcUlYcEJxWm5WNXJxRQ?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Thu, 05 Mar 2026 17:39:59 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC celebrates civil defence day, inaugurates quarter-guard in Kano",
@@ -218,24 +232,10 @@
       "category": "Security News"
     },
     {
-      "title": "The 35m Nigerians at risk of food insecurity in 2026",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtazAyQmdadTgtN0FvU01jMlQ3YmdkdEczd3U0TnVIYzA1ZVczSUVKUW9nY1ZadVVJTy1FQzlNVjZyRTdjRlI5WHBqdk1BQTlDWjVYNHptWkszZHdDS1N5TU5Tdk1MY21OVEh0ZXFJSnlBTkg5VGFoTThjR3hSU1U?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Thu, 05 Mar 2026 09:15:15 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Security Beefed Up In Abuja As US Warns Of Possible Pro-Iran Protests",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1FmYVdCS0p4UjRzbmVCaHQxRzVNM0o2a1hIN1VmLXNqQzVBRnJPWG9aZHZPRnQ2ODMtTnhZSjd6V3FxTlB2MmpTREpQWWEweEdENHVlSWVxM1dianY4NUlQRXN1SHRGc0FDVmJMWGk2dEthcmc0TnZrc0xRSXVxaVVLdFZqMTYyOVBKVVJ2MUwtWmlJMV9J?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Thu, 05 Mar 2026 09:12:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘Remove terrorists hiding in Aso Villa’, ex-US mayor, Mike Arnold, tasks Nigeria’s military",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDRxVy1zNUU1cURlSGZIMERUdUNsaTdzb0pNVTd6aWoxY1J4aXZJNmxwNVl0d1dwNEl2RjQzZko2N2ppVDIwVzF2enVqdzYzcEVzUkw0b0M5Y2ZsdHJaUEx3dFNFUUpWVDNCZGZUa2F2bnFFbmlvZklJbFpReVhHMDRXX1JXaVlaX29jRnI2Szg5bEMxazllbTdBSVF6aFBfc1FSbVdJYkdJaE1iektBWm1NUVZmbG9R?oc=5",
-      "source": "Ripples Nigeria",
-      "pubDate": "Thu, 05 Mar 2026 08:53:44 GMT",
       "category": "Security News"
     },
     {
@@ -316,6 +316,20 @@
       "category": "Security News"
     },
     {
+      "title": "NSCDC Arrests Suspected Gunrunner, Fraudster In Kano",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb1BDdi1TQmlOVmFfbE5FVmZUa3Yzdmdrdk1xWXpRRUowTnlfcUJnVVJTalF5cGp3Y3d1alVxWXRBRmZaaHIxZzFTVWxKQ1FPOWxXOGpZV005RUhYYTBFaHc0MTBwYzJJTjRxNG9fQi0tVGN1OC1uQ0hzbjl5MVZuQ9IBhgFBVV95cUxOcjhQdnFzX1FkcVlXTG5tdkJGMkJiZUlaMW1fcUk4YldZOVlWVEtFZmlVV1I1SkdCYkR0UUFlM3lnWk4tUVRCUS1DSENzeF9SZHJVVGhudzFjNzZMcFpiOWVmUkFrM2lLNFVVSnl6dlVzOGNOd3JUMmRtQlFVMVZTR1ZkQU82QQ?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Wed, 04 Mar 2026 17:28:06 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NSCDC arrests suspected gun-runner, fraudster in Kano",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ1FBaEVUV20wa1ZVMHN5VHkyUExyRHp4SEYyaGpoZXNIVklqMkpXQXRCT3NvZkIxNkhoVHhwMzZGR1QyeFJyRjV1UWlONC1NX1MzUXFOcEVKWUV3YVFTM2xIZHBJSTd0aXc4aDNmZTdxUFgtc0R5RUd6a0RnRnItWWZn?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Wed, 04 Mar 2026 16:23:19 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Nigeria halts Christian pilgrimages to Holy Land over Middle East conflict",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xS0hpVUcwY3liRDZKd0RNU2VWQ1NfVjRrcFZzeHdMa3VkYWt6ZE1kMjNTYTFyQXZaMEk4QmFKV21lMm1uRVdrVmxMY3NVSGRIelJRZmcxSWFUdw?oc=5",
       "source": "BBC",
@@ -348,20 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZllXTmN0emxmeVEyTVBobktVeUgwdk1HcFdtNE1kTFUwNXZBUmVHT2xuNWJCZVA1U1lqOU9NZ2FuXzZZWmlUVHJuZ3NRb1YtcWNmeVFuNE93UGdkLVNJY1BmcGZmUkJXZWRkV2NlMlIwSm9UcC0yemhaQnZTeVZvek5Hd2ZwZw?oc=5",
       "source": "naijapreneur",
       "pubDate": "Wed, 04 Mar 2026 13:02:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security Expert Warns Of Drone Proliferation As Major Threat To Nigeria And Africa",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWhIMjdJQ3ZVUlhpaW1zbXVmc3ZWU1ppd0N2OWRoUXVXZ0l1QzJ0YjN3LWl0UmNtUThlcklXWEF6NXhTdlRZWTZGdFFsaVZuN3lkWnFEcXpfWEYyYUk2YnVWTGptNlZHbnNaMGlCR1BQNHlEa0FLUDZJUUMxRE9XYXU4S0dqcTNJTGRLZzhZS295ZEZyc0NxNWl0clFxdHZEU081cTNJQTFSZw?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Wed, 04 Mar 2026 12:36:41 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "APC Chieftain warns of growing drone threat to Nigeria and Africa",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHV4QzhNcFBZZkdRQ1hNbnVyRkxVUG1LUFp4V0FGdmd5aURpc2lzV01fVVdmLTMydXo2Q21uR0VXUVpSSS1kWklzbjY3TVZET19YTFozc01OODlPdDJOUlpyRzIyUXZXVmU1ajFmeWhneW1RQXRfNWtKWXc1TzNFYzRPZjlaa1h1T1k1UTVOZ01CeVljcExPVDRPbENhVEFDeS1QdtIBqgFBVV95cUxNRUdqTUV5MlM3S2o4Rl9TOTBUNlhvQTBZcVZzZnY2Zk5lM0tzWkhHWDV6M2FDazl4WUFZSDZMMVNXUm5LMUJjdUdtdm1JamQyOFlodTZuVHI3aFhqVjhuMUN6dTYxWjVwWjRKM3R0SmVGMl93LU01T3pnWHU2bDV4Z292MGxxWUtVWm55bmhXd19nWFhZejFJM2FyRGs0UDhLbjlEY2tacTRCZw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Wed, 04 Mar 2026 12:14:41 GMT",
       "category": "Security News"
     }
   ]
