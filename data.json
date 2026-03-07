@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-03-07T18:09:47.121Z",
-  "generatedAt": "07/03/2026, 19:09:47",
-  "totalHeadlines": 187,
+  "timestamp": "2026-03-07T21:06:54.376Z",
+  "generatedAt": "07/03/2026, 22:06:54",
+  "totalHeadlines": 183,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Banditry": 5,
     "Security News": 126,
-    "Law Enforcement": 13,
+    "Law Enforcement": 12,
     "Armed Conflict": 13,
-    "Military/Security Operations": 13,
+    "Military/Security Operations": 9,
     "Traffic": 3,
-    "Insurgency": 9,
-    "Kidnapping": 5
+    "Insurgency": 8,
+    "Kidnapping": 7
   },
   "headlines": [
+    {
+      "title": "A Psychologist Reflects: Nigeria’s Leadership Under Global Scrutiny Over Insecurity and the Memory of the Past -By Professor John Egbeazien Oshodi",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOS1U5OVFOYzQ5WWNzMnpHd000aHp4UG1YYkEzLVhKcTR3ektIVWFnRzU5di1FeE5fY01rRE5JbS1PbFdCSVY5QkRGeHUwYmw3RkEzUFBwN3FfNU1zMzJMTE05LW9KSVk3RGhYTURCV2ZQamZnRUhaOXJNRi1SMUhpSGFDbXZQaDh3WldTeXFjSWhyeHc1YzZxTGl6NFBlV3ZfUkRQWDVrcVBHNDQ3U1ZQZkhsREwyOHlsLVFDclV4Sy1JU0lQRGZyMjZfSEp4S3dsTFF1WGZRc3VnbFFjZjRsRFFhanVOdWRrTGhFMm45Wko3elVLUUZxNU9ReHROWG5JNnZNRWJn?oc=5",
+      "source": "Opinion Nigeria",
+      "pubDate": "Sat, 07 Mar 2026 20:56:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Six killed, 12 injured as Benue Links bus, truck collide",
+      "link": "https://www.vanguardngr.com/2026/03/six-killed-12-injured-as-benue-links-bus-truck-collide/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 07 Mar 2026 20:19:17 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "APC expresses shock over member’s alleged role in Ebonyi kidnapping",
+      "link": "https://www.vanguardngr.com/2026/03/apc-expresses-shock-over-members-alleged-role-in-ebonyi-kidnapping/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 07 Mar 2026 20:09:53 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Obi defies threats, insists on right to visit any part of Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmM0MnRCOHdBdVNKMXpEbkhkY2MzSkVsNnFJYzNsTzNscmtsTE5BU1JsaFdkdVJOVTRUWjFIN2h6dURJZUpDLW5HNUcwLWszNmp2dXBDUWhkM2VuQ0Q0ZXM3U0pKR2tsb282RHVqWkNYQ252Q0FDaXFoR0ZUcVhRcjVxdDdDb2hwQzFkbjJTRENuV21lNXBrbGt0WDhUUUdsM2VuMA?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Sat, 07 Mar 2026 20:07:17 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Terra, DICON engineering Nigeria’s Autonomous defence future",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3A4akM4cmNicTF3bVlMMFNrSVhiZGlVTDRDWlFjTENwc3I1dWZOZHotTlNYNHpNVGtLN04yV0RZTTdiRlZEdnRJX0R5dnpuM3Y3MzVYOVNOZEVrU3VXZlVhWkNMc0xLSjJoamNlWGZiOTRtcjVncnNwOGpHNVFLeUNXaFlYRFJObkw2SHd3RHVQRG9Ha0k5NlRwNA?oc=5",
+      "source": "Military Africa",
+      "pubDate": "Sat, 07 Mar 2026 19:44:14 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Bwala fires back: Bring questions on security, not my past",
+      "link": "https://www.vanguardngr.com/2026/03/bwala-fires-back-bring-questions-on-security-not-my-past/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 07 Mar 2026 19:42:19 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Edo attack: Nobody has monopoly of violence – Peter Obi",
+      "link": "https://www.vanguardngr.com/2026/03/edo-attack-nobody-has-monopoly-of-violence-peter-obi/",
+      "source": "Oboh",
+      "pubDate": "Sat, 07 Mar 2026 19:39:42 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Kwara NSCDC arrests two suspected bandits in Patigi",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2JGaUlta2N2VUlCS19HMGpGemVLZXJncC1WY2w5Q1pCRGZSY3VxQWRLLWZVZG1DYzFTaFI1RnRHd1ZwSk9YdHY5Ti1CS05iZ0hzRlBrakFpZ0hRN25KczRMS0s4c3phcjRlN1ZVd0lNYnY4MkFCN1JfSHhpYzBuZGNPcVVEbWtDem54V2JTa28zRlZVQlE?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Sat, 07 Mar 2026 18:51:59 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Atiku’s camp slams Bwala, alleges presidential aide requested fake life-threatening alert",
+      "link": "https://www.vanguardngr.com/2026/03/atikus-camp-slams-bwala-alleges-presidential-aide-requested-fake-life-threatening-alert/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 07 Mar 2026 18:11:38 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Guards Brigade troops rescue 19 kidnapped victims, kill terrorists in FCT",
       "link": "https://www.vanguardngr.com/2026/03/guards-brigade-troops-rescue-19-kidnapped-victims-kill-terrorists-in-fct/",
@@ -41,13 +104,6 @@
       "source": "TheCable",
       "pubDate": "Sat, 07 Mar 2026 17:05:07 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Police probing attack on ADC office in Rivers – Spokesperson",
-      "link": "https://www.vanguardngr.com/2026/03/police-probing-attack-on-adc-office-in-rivers-spokesperson/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 07 Mar 2026 16:45:23 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Women recommend prayers for Nigeria’s security challenges",
@@ -78,32 +134,11 @@
       "category": "Security News"
     },
     {
-      "title": "Police expand counter-terrorism capacity, approve new bases",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHU4QnJDZldVNW5KSGFvaVNKa0lpMDFWNkFWSUtUZzQzdy14cGMwR3Qyb0otaGkxWUZSeEotNUJRZzF2elE5Q0piSkdnR1hVYkRQLWVBekYzeUtwUXZsQ0FhWHBreWNHTUU0V2E1cXVJYXJhajkxMTJoNndXdnd1bWNiczFUZw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sat, 07 Mar 2026 15:13:09 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "US starts using UK bases for ‘defensive’ Iran operations",
-      "link": "https://www.vanguardngr.com/2026/03/us-starts-using-uk-bases-for-defensive-iran-operations/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 07 Mar 2026 14:55:59 +0000",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Civil Defence Corps Arrest Two Suspected Bandits in Kwara",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzF2R2VZV1czS0FYYW52WE9VWUp3ai13MkJtSm16OVdyWVpoaW03OXVIWmkzTXFZTHRYQVJxQkJqSUhsZFdkUkRncjJqZjVqVFQtdnFVNTlicl91S0dlQU5MOENWaGozb3BrYUVlV3lmYXBpUV8zbVBCYlozaWhucElqaUhnUlN4RUFid2p5NkRuaWVYbEFxSkRNMEl5Zw?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Sat, 07 Mar 2026 14:38:42 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "UK child killer Ian Huntley dies after prison attack",
-      "link": "https://www.vanguardngr.com/2026/03/uk-child-killer-ian-huntley-dies-after-prison-attack/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 07 Mar 2026 14:23:57 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Army, NSCDC intensify collaboration to tackle insecurity in Katsina",
@@ -127,13 +162,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nigerian army kills 45 bandits in renewed militant clash in Katsina",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVBfdWVETUl5THljajJ5bG5OZl81RVJGTnRwVE5PSzZtN3dRU2ZiUjJGbEdCdGEzN2ZXVTB4MzQzeC13WTU4NlhZOU4wc202UEhPWVdGWGJKR04yNldqNWxhXy1Fckd3NEt2NU5kS3JQMlJfUkVIZk8wUDRwZjFoeXRzc0lOWW9yb21HZGs4NHhGU0ZzUWpXOTlObGZ6bXczTDN1Vi1iYw?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Sat, 07 Mar 2026 12:47:45 GMT",
-      "category": "Banditry"
-    },
-    {
       "title": "Friday Ekpo Urges Nigeria to Avoid Jordan Tournament Over Security Concerns",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWhmRHVlcXRUa01yeDFITFhiX21rUVFsUEhTYThUQ1lNTzU0dGVhZzhSU0Nwek5Hdy1oTnlmVG9rNnFpV1o0VUpuRXlEOUZzSVFaSFdDTm93R0s3bnY0Z1BFdERVMWhFZWVGUURyNHRjT2M0a2paX2hiT3EzSlVqcU9rdWluVHppSjd6dHhTc1FfY0JhRy1lS0JOU1l2WjlUZ204?oc=5",
       "source": "Sports247 Nigeria",
@@ -148,24 +176,10 @@
       "category": "Security News"
     },
     {
-      "title": "Defence manufacturing: DICON-D7G boss leads inspection of Nigeria's first military jetty in Lagos",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWm4xNHFQeFI3eUNWVDQ3dG9fQXF3NUJjRXNYbGlRQk5UMlVJOFNza2FIOXZ3N3FJNUVzRHFiREpzT20xTE9LTXp4YWJuMlZqSlVmQjdOcFlWa1ZPQThLWUFUNDBpNVhGN3ZZLWUtMnh0Z1M3RERHdlpaeEFiWF9sb21ITC1fYmVvNTdnSmZZQURFcXQyeFNxRzBJdmQwMGJnNDB0T1RlV180UUl2Sm5Xc1ZMYllPSWRm?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Sat, 07 Mar 2026 11:34:09 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "MPAC dismisses Israel envoy’s claim linking Iran to terrorism in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDFFamwzV1AwVGVxSWY5bWt4V0JXcjFOZ1ZIaGdlanl5LVJ0a0FnMWdVYzRIbV9yRmtjZVM4SWdxb0pfUXF4dDZ4c1VBVGxFYlB3TGVKTHpYUExZYjYzR0c1MUhuYlVWWjRNWHg5bFpxcXRyZkROQS0wQWw3Yk1xUnp5X1JNVzNwc25YWUJ1WXJyZzlvRW5wNnd2TnFuU2l3QUlkcFQ1aS1ZUzExZ1JjTC1QYVc?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 07 Mar 2026 11:20:00 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Your sacrifices will not be in vain; Nigeria will triumph over insurgency, Tinubu assures military",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlM1bWxNVkxIN2V6ZU96dE5iUE54b3E3OEpyN05UZlhwV3VYakFzVzJCZWdVbFF2M1BKSHFHbkRaZnlhaUJDelZZZmFIcS0yTGVjMlJVZ3FfZVJuVnl6OVpQd0RLSVJXVVRhb1dyY1VvQ19IUXlEQlRxcnpld1pCeFg1c09SWHdVMmtIMGpWRXJtLVUtZzZXaG96RC1GWU1CLW9XVmo2eWRCbVdwOUxLUEZ1bHdNdTFnSW5tOQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sat, 07 Mar 2026 10:58:49 GMT",
       "category": "Insurgency"
     },
     {
@@ -227,7 +241,7 @@
     {
       "title": "Nigeria Says 30 Banks Meet Capital Threshold Ahead of Deadline",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFJpTFZTSEFPbzFnV1R1cDgweXNJdW92QjU3Q28zbVd4QWlyUnhsM2hiLXZ3NkNLcmxyWS1WbWRyQTdQWkxuejdxRWNxOFJGZ0k0X1RxNWpuTk5tNFllM3lqRXhneGl5elBXNVlKNmREMFY3bUU4VFJXdnkxaHpyR3RPeVFOUTBleE51UllQQmxuWEVqQVZLR1JYb3ZhdVFwcUZRSkRhaG1xU2I3Ui1IZzhqdw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "pubDate": "Sat, 07 Mar 2026 08:23:43 GMT",
       "category": "Security News"
     },
@@ -236,13 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1RBMWJ5Q1I1NHdWWGxpWm0tOFRwUDZBU2NlMzFtS0dwZVNIaVlDMnNuTWlneUI3bWRxcjJuSkVYM1lxUklibXhWVkZSdGppOVd6Q1VMQWhLNDk3cTE5QjdkOFdISVZkT1FDQ0J0LWpEZlNfZzc0STJkcTFJWTVVdThSc2l0REh6QWdMdQ?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Sat, 07 Mar 2026 08:21:47 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Tinubu’s Visit: A New Momentum In Nigeria And The United Kingdom’s Cooperation",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmdzNkc0WUx4Ynp3UFg5OVl2WWlCeG8xNTlHV0pOamVHRVBRdzczcXFMWnNHelhVam43R1NfSEFvQk5xYjRiZmJNNXpCNWExRVFmalRTSW1lNkJoR3c2WUo4TnBXLVpoWlR2SUdiY0JhVGFNZW5oWGFxT0hnUWQ1NjVnd09uY3pHOEc2UzhGOEJYVC1sV3ozckJ5LXI5Nms?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 07 Mar 2026 08:04:18 GMT",
       "category": "Military/Security Operations"
     },
     {
@@ -330,6 +337,13 @@
       "category": "Security News"
     },
     {
+      "title": "NSCDC Arrests Two Suspected Bandits In Kwara Community, Recovers US-Made Pistol, Tramadol",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhyZjVxeE92WWVFeW9uS3RzUTZPaXdtcnNZRDlHMllmeUJfZ2tzdEF1R3JpYzdleE1YSndvd05HeEZVd25aRTI2VHNoUmMzTVlJZWhUNl9IT0NtVVdCVk82R3RpMnNJa0JTYmdSSG5icjQ2Q190c0ZsRzJla0FKQlpMajZTMjAtRFZlVWtrd3ZnbnBGMkI5aDJtNXhaVW9oVndYWWE4WmRQX01oSnk5dmwzYWRKMnFGR3FERlJPX1M?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Fri, 06 Mar 2026 20:34:35 GMT",
+      "category": "Banditry"
+    },
+    {
       "title": "Kaduna Govt Assures NPRW 2026 Delegates of Tight Security",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MFI1MHkzVkoySHUwRzBRU2g0bjhpa2pRRVFkb24yTHU0dzlhbEQxMXd1cTVQR1JZUDJoYnRwNUEtM2R6bjFvTmVNUkxfTHN1aWhadTczbGdpYVV2TFlNLUlIRUZyczd3ZFE?oc=5",
       "source": "PRNigeria News",
@@ -349,20 +363,6 @@
       "source": "Champion Newspapers LTD",
       "pubDate": "Fri, 06 Mar 2026 17:07:08 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DeVNDblljVnFYYkdiVzgzNVFkamlHYnkyRGdPQjdlVV9LbmxHdG1VcnhfeDhPeE9LUHhWU0NVSHBnNC1DM2hMYzBHb3djd1JScDR3MjFJZVFkZw?oc=5",
-      "source": "BBC",
-      "pubDate": "Fri, 06 Mar 2026 17:06:14 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Breaking: Kogi strengthens security architecture, deploys patrol vehicles to Police, NSCDC and Correctional Service",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0dVdV9hN1VvSWlGeDBsNjZWOXJjcWpBUkZHSzA2Qm9kMTRkYVowc201MUtpX3dLc3ZWa0VHZGtTTk1rOGw1dWh5QS1xS0gyOFhVOFpJUHJaOWdxNWEwRUt6N3p1VEpsVW9IazJhWDNuSnpKbnZYOVFlblpGMFdIb05yQ0RqSS03bzZYUC1kYm1VdzZxMTRiNVo0ZHlURnNuTjZScXZqNGJXV2J6V0phbi1xTVE5N21wdWZYQVNCREl0YUp6QlZCbUU4cUhRaUpaamZNWg?oc=5",
-      "source": "Kogi State Government",
-      "pubDate": "Fri, 06 Mar 2026 16:28:34 GMT",
-      "category": "Law Enforcement"
     }
   ]
 }
