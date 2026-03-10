@@ -1,19 +1,110 @@
 {
-  "timestamp": "2026-03-10T15:22:52.768Z",
-  "generatedAt": "10/03/2026, 16:22:52",
-  "totalHeadlines": 188,
+  "timestamp": "2026-03-10T18:20:35.574Z",
+  "generatedAt": "10/03/2026, 19:20:35",
+  "totalHeadlines": 179,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Kidnapping": 9,
-    "Law Enforcement": 14,
-    "Security News": 134,
-    "Military/Security Operations": 7,
-    "Armed Conflict": 15,
-    "Insurgency": 4,
-    "Traffic": 4,
-    "Banditry": 1
+    "Kidnapping": 10,
+    "Law Enforcement": 16,
+    "Security News": 117,
+    "Military/Security Operations": 10,
+    "Insurgency": 9,
+    "Armed Conflict": 13,
+    "Banditry": 1,
+    "Traffic": 3
   },
   "headlines": [
+    {
+      "title": "Oil slump crashed Nigeria’s trade surplus to lowest in two years",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVFJR0NzczZ0dE9vUXhwdThqNTRzMXM3RVgxV0ZMQ1ZqbjJSMURoVm9hUlVoN2l3RmgtWE1STVBRUHAxV1pXeVNlV212bEdnTVpEQnpEMWtUeW5aWkxkcHg1NHdldUxVejZrVEVYYXY3YVY2aU9lbXNQVVB3U19VakpMR2FhNlRBQmh6aW9tUElLdVMyOFo0MTZONkNCd0syMlpua29ieDg?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Tue, 10 Mar 2026 18:06:14 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Ghana Immigration arrests 93 Nigerians over internet fraud, immigration violations",
+      "link": "https://www.vanguardngr.com/2026/03/ghana-immigration-arrests-93-nigerians-over-internet-fraud-immigration-violations/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 10 Mar 2026 17:57:13 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Mob burns suspected transformer vandal to death in Calabar",
+      "link": "https://www.vanguardngr.com/2026/03/mob-burns-suspected-transformer-vandal-to-death-in-calabar/",
+      "source": "Nwafor",
+      "pubDate": "Tue, 10 Mar 2026 17:26:38 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Casualty figures from Middle East war",
+      "link": "https://www.vanguardngr.com/2026/03/casualty-figures-from-middle-east-war/",
+      "source": "Oboh",
+      "pubDate": "Tue, 10 Mar 2026 17:18:28 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Kidnapping: Aiyedatiwa warns sponsors, collaborators will face justice",
+      "link": "https://www.vanguardngr.com/2026/03/kidnapping-aiyedatiwa-warns-sponsors-collaborators-will-face-justice/",
+      "source": "Nwafor",
+      "pubDate": "Tue, 10 Mar 2026 16:42:41 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Iran arrests 30 people, including foreigner, accused of spying",
+      "link": "https://www.vanguardngr.com/2026/03/iran-arrests-30-people-including-foreigner-accused-of-spying/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 10 Mar 2026 16:41:17 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, South Africa strengthen military ties to tackle terrorism, modern threats",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHhqbm5RdnVwRkhKd0l0VldoSlhlY1d6eVE3WC1RQ3dlaHZ6dWRsSFZRZVd6aEJ4SkZjQ0NabUZwWXozbFlnU0dXOFkwd2cyOVlsM1VoTHJjNmN0VmNZdWc2ZE5NVGMtczBUQnQ3ZTJza0hoa3NYQkhlOTNCeDE2VVhkZEtGUVBjOWVUdXpJMkprM1JNZFVqbW9vRElGZldYNGhkbjJlb19QTC15ZmhzOWkzSQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 10 Mar 2026 16:26:20 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Ondo schools shut after gunmen attack near Akure Airport",
+      "link": "https://www.vanguardngr.com/2026/03/ondo-schools-shut-after-gunmen-attack-near-akure-airport/",
+      "source": "Nwafor",
+      "pubDate": "Tue, 10 Mar 2026 16:25:25 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Ekiti court sentences quack nurse to death by hanging over murder",
+      "link": "https://www.vanguardngr.com/2026/03/ekiti-court-sentences-quack-nurse-to-death-by-hanging-over-murder/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 10 Mar 2026 16:16:43 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC Officer Shot Dead During Clash With Tipper Drivers In Rivers State",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVlHRmFabjZEZEJEdUNDLVR5WmV6ZEIydWFIamNDOUp0TWVKei1IVTBzUXQ2NUNIaHI2cmZoN1hFdjYwOVVjZl8yWFZXcDBiWXNTaUgwRzk5Y3JiekVaTDFjRzl0YUZhaURxbGJUOFE2Q1c5Y1RrVFEtVXNxejUwMnJLQlp6VUNpSGxCXzF2TTZ2c1B5b2lFcS10RGdOektlckp0dkh3?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 10 Mar 2026 16:06:18 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, S’Africa armies strengthen ties to boost regional security",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLTRZQlhWZWxPUEVYNExMQWYyWklXUkdOMVJtdk12QUg2eVJBYXJDWmtNY2xuRTNNUk1NcE9XeEcwQjg2VGEtbE1STFREZG91Zm44ME56UWxXaXpJOGJrVy0wYmpydGtXdHRXNzh3U3p0d1VzSGVCU2EwM08tRXhyQ0JmclR6VXBTV2xuYmY5aw?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Tue, 10 Mar 2026 15:41:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Jihadis intensify attacks against Nigeria's military, killing officers and carting away weapons",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnFZSlk4Y0dNQlJ1XzhlSVRTMTNscVRwallGNm5iRlg3aFhMUjVmN0s4VDk5dmtkRVE5MXY4eXBnb2RubFJpYlVVU1FLemltMHJGTWJWSzc4c3hYemc2cFpuVks2ZFRWMXRyZXNtTElvekItT0ExWEw1eThPeHVLWmR1dVZfaTJ0ZDJmRHVNX29pY25naVlhNUlfOGMxakoyakRFV29xVXI?oc=5",
+      "source": "Greenwich Time",
+      "pubDate": "Tue, 10 Mar 2026 15:26:12 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria's new 'insurgency corridor' evolves",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMlo0UFU3SmlfSEhXZjFiVzgyRzBxSG1iVThsODZ0QW16Q00yVTR5UjB6VnNUUU1LYW81TkhqVTc4VjlsQkRpVTVsWTZTSGpxVmc5MkNxSWNob2ZPSzMwUUdsRjdrNU04LVd5NjN6dkZlUHlQLUxESGZZbEE4UdIBfkFVX3lxTFAyM1dFT1pWemRwOThQcGptY2tpOERHZjJmZno0bzA4Ui1iR2VYQzNPY0oxOGNNaDVWYnFoaE9UM1JzSG9qZXc0YXhvYkJYU2tPUEw2eTFFUngwQmdNTWhkZnJ0c3NBa2ZhU2syRXpnZ0IyeDc5cl9uLVRRYUcwQQ?oc=5",
+      "source": "DW.com",
+      "pubDate": "Tue, 10 Mar 2026 15:24:28 GMT",
+      "category": "Insurgency"
+    },
     {
       "title": "Christians Killed by Fulani Terrorists in Nigeria’s Benue State, Including Local Defense Commander",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb08wdUZZakxnSEYzTHkzM0ZnUHlwMnEzSmJoX2FndGJ5ZG1hY0FPZUpod1ROWV9WLThFMDdqbUx4R3A4eHc0NDVJclRnVTNCeGduV1laLVFOOEFIU3BOeXMteFVzTHY3TVVscU5sNm83ZXBJNWtMS2VQV3NlSFhqa1IwRC1lN3ZZRmNuZXZHZndVZnNOZGMzOWtuUk42c181VlpJME8zQ1IxNVhIU0N5bHZ5VElJNnlMS0JzTFNRREJZNEotV0JzbXAtT0pfdw?oc=5",
@@ -22,45 +113,10 @@
       "category": "Security News"
     },
     {
-      "title": "Jihadis intensify attacks against Nigeria's military, killing officers and carting away weapons",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQXNEMWpkbUh2ZlhjMHNUNV9jUWRNaGlEdGNZYUpZRHRJX1BSMUZUMDJYbk5qajNxLUE0bUV0clk5SnlxVFFhQ3Boc2tCdlhhejRtNnl2VHFmcHpVQ0NfS1JrVGY2OWVrTFphMWxNdlMyUEdIUExUcDR4T1Y2M3NJMDVLck9JcUN3MDNTWElxSXZRRWgzUHFrdS1zWjZ3R25ldFNaMTFpemNUVW1xT1h3WmtSOXhRWWtMdmttdjFxRVAxQWdGalJiTmg3SFNkMVZ4YlhYYkNRVWZaQ2FhazJudGljLTlWdFV4bV9Wd1FYaDN4M0k1OUtxd2NtdTBHb0FTdkYtM2ZnYlptblBlT3BsemlDOUtkVGpQaU1idW1n?oc=5",
-      "source": "kare11.com",
-      "pubDate": "Tue, 10 Mar 2026 15:14:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Drone attack shuts major UAE refinery",
-      "link": "https://www.vanguardngr.com/2026/03/drone-attack-shuts-major-uae-refinery/",
-      "source": "Henry Oduah",
-      "pubDate": "Tue, 10 Mar 2026 15:11:03 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Police seal off ADC meeting venue in Cross River",
-      "link": "https://www.vanguardngr.com/2026/03/police-seal-off-adc-meeting-venue-in-cross-river/",
-      "source": "Henry Oduah",
-      "pubDate": "Tue, 10 Mar 2026 15:07:34 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "U.S. Embassy warns of possible terror threat to American facilities, schools in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFlEdDlYNlNlMEtqYl9YNmNjZl9HUkJrSG1xYjlNR2Zyam9TMzRfYzlZUzlTWGE0X1h0SlFLTk1mNTlwVVNtbFlFVjRMSWo3S2NCdHJ2aVdCNXI1b0tnRkJxdUhRaG5DZ3VJd0k0YWdYLU9lNUgyRGgwSnZETzNPalF6MHVhTXBzeUxjblJJLWx1WXAxQWppRHFKVEJ5WXBDemd2VHhDV3lHS2t0ZEphNnQ2Ukcyd03SAbwBQVVfeXFMUDZibTR6OFRPNDhCX3dWY2JQRklEWUp6ejItWWNHYlAyVXQ5NnpWTk03Mm9QUDZWbjA4ZkktM3A4eWQtVlV6b2NCeFlHWWo5dW1YaXNHOVltYS1CNHdFOG5TOGljbWJSR2ROSWNhZ042aENpVFhoNnJRbkVqc0hveDUyZTdudEFkUmdsMkJrSG5zbmNMX3UxZVRXUHZnbTRoc0RyMC1uSllBZ01MQnQzSjdlX3lHN2I5cUFMUGc?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Tue, 10 Mar 2026 15:02:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Efficient career planning key to tackling security challenges – COAS",
-      "link": "https://www.vanguardngr.com/2026/03/efficient-career-planning-key-to-tackling-security-challenges-coas/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 10 Mar 2026 15:01:25 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Residents protest, block highway in Ondo",
-      "link": "https://www.vanguardngr.com/2026/03/insecurity-residents-protest-block-highway-in-ondo/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 10 Mar 2026 14:26:11 +0000",
       "category": "Security News"
     },
     {
@@ -78,31 +134,10 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Defiant Iran vows to block Gulf oil until US-Israel bombing stops",
-      "link": "https://www.vanguardngr.com/2026/03/defiant-iran-vows-to-block-gulf-oil-until-us-israel-bombing-stops/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 10 Mar 2026 13:42:27 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian jihadists kill at least 10 troops in ‘coordinated’ raids",
-      "link": "https://www.vanguardngr.com/2026/03/nigerian-jihadists-kill-at-least-10-troops-in-coordinated-raids/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 10 Mar 2026 13:21:05 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "US warns citizens in Nigeria of possible ‘terrorist threat’",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODhhX1VSNF9jMW1CSFhHa1dVZ3FvNG1EZU5JZUpTVWFhSFZTQnA0MFZNRmlnQnJHYU5vZUtfSmdYZEd0anI0QlRMU1Y1bW1hclhoQ3BKS3Zla3l5VFI1STVndjJ4TGxSWmE4eTlfTU01c2d6X0RvRTdqRnJtT3phQUFINV9Qc3p6YkxjQmlzbHhFcUxv?oc=5",
       "source": "CNBC Africa",
       "pubDate": "Tue, 10 Mar 2026 13:12:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FG knows every terrorist by name, location – Gumi",
-      "link": "https://www.vanguardngr.com/2026/03/fg-knows-every-terrorist-by-name-location-gumi/",
-      "source": "Henry Oduah",
-      "pubDate": "Tue, 10 Mar 2026 13:05:16 +0000",
       "category": "Security News"
     },
     {
@@ -144,7 +179,7 @@
       "title": "Nigeria records 50% drop in maternal deaths in health facilities – Report",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1FkQTF5RWRKMVAzb1VaNDVlRENXeXAtcFJIRzBYZFZULVpaZk5aeVNQR1RZTVZnR2RkalZ0d0tXYzFvRVg2VHptYWUzNThyVDFYSDhGQXZ5M3NYMVFmUFVTbUZvbnVTSTZqZGE2c240enFDaWVBWE9JN2xUVEhzc3lVdjVIazY4Vl9IcDRKd3pSdzFtTnRUNW1EYkR1ZXU5U0d0NkU3ZFhCMW1NanpnM3d5V0lveWo1QWFOWE1BLUZIZ20zYUx3?oc=5",
       "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 10 Mar 2026 10:18:45 GMT",
+      "pubDate": "Tue, 10 Mar 2026 10:20:17 GMT",
       "category": "Security News"
     },
     {
@@ -162,24 +197,10 @@
       "category": "Security News"
     },
     {
-      "title": "US Embassy Flags Terror Threats Targeting Schools, Public Facilities In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXNwUElqQzk5TjU0UExqQzJsT3ZaNm5tcG9aZXc0SnZ3S1pLaHJhRS03emxCUkIxaVBVTGwwcU5oQlk5R3MwWnd4ck02MmVLOEhzZkd0RkJjbnc4UlVYMDVXblNtTXpxeEwxZVhiNDJwaU1BcTFWLXpKcG5IVEItVXUyYXZDTzFzZUZpQllvdkVWdFBKTU94aVlnN1RqbUdLMldn?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 10 Mar 2026 09:38:09 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "U.S. Issues Security Alert Over Potential Terrorist Threat to Embassy and Schools in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObld5Q2pGRUJGVk0zS2ZmUHRqaUtTQVdOajZCeDRkeDROUnlzSFBPOTRMOVBOdTZWczQtNHRFQ3NldWh3VlRNcnJWQllQdzAzRFczLTlnbkpfR0xCUml3RDJhSzYzVzlVUGlfNUl1LVRkc0p6bm5CMXN2bnd1MUxGZzcyeHNGdV81TkpYSlFSQS1YX1dwV0ItTVRBSWZ2TXRCakI3R1kzLVVFalVYdGVocW10SzNiSVEtUkZiZ1ROa096VWkyQkFibNIBzgFBVV95cUxPaTh0eWdWUUtFcld5OW1oT1F3RUJzQmJJbE9fNWFqdmh6WS1HR2RZbVlFRlVES19FTWtIaEs1Z0VpOWcxdmptUVUxaWtLOUJURGtSODVQWkd6eTZfMm5BUUhKTzNhd3NTcDFTNG1hdDVWS2NZeG40VzZvQkx1MGlRd1h6YmxkUGU2NDc0WnFTQ0t1ajZMelhxUnY2QlBFalFBWlpScXA4YnRULXVEa3BJYXV2eFpOS3dPWTRzajBueWNvTkJXSUJjQTFVMFJVZw?oc=5",
       "source": "Investors King",
       "pubDate": "Tue, 10 Mar 2026 09:28:44 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Set To Commission 1st Military Jetty",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vOE1pcnA0TXdmdlNsNEEtaU5CODVLWjMyaGVMVkE4M19kTnFDdkNXb3F6WDlxalpxdGpLa1NidXk5RU1Ca1hzLVdSNUNqT1dNLVJMWThVUDB3cEdWaVJoZG1WLTgtV3lVQ3oyc2N3SGx3SGs3cXc?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 10 Mar 2026 09:24:12 GMT",
       "category": "Security News"
     },
     {
@@ -225,20 +246,6 @@
       "category": "Security News"
     },
     {
-      "title": "US warns citizens in Nigeria of possible 'terrorist threat'",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmc2X3FIR1Q5THVEOVZLS2NsVF9fRTFIWEFaUTRudlQ3U0hlNUphdXl0c3NZX0stT2NXb2dlRHh6bGo2MkZSTHdDaWcxcnVWUDJ4MzZVU1dXWUlYdkhxaDJIZi1jS2t3NXhQNFRPaVhVbWhoRDVYYVg1WnFGRzVDQ1ZuSFVPMzRETkY3M3FyWUNhckhZR2EyTXAxZjV2V3lBM2c?oc=5",
-      "source": "Reuters",
-      "pubDate": "Tue, 10 Mar 2026 08:19:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US Warns Citizens of Potential Threats to American Facilities in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzNoXzk0QXBUUWFKTFllbS03Z0NXaHJLdEdseG93c19zYl9YT1VGb2RiVHQ1a2otdEZ1UFlFZ3RBOW1vRVFodHBHNzhMWl9odFdiQnNVQ2QwbG1ReTRuQmxGNGhpZGM0YUtpWmI5dlZqM0lwZkE0ZTUwSl9EX0djSm5USktRYW1pMWNydk16ckhNSDdsaUUtVVk3aFd3T3RobUhQMlNVM1VxX21aeDcwWFhXYlNRVmxRSEgweg?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Tue, 10 Mar 2026 07:54:20 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NIPR Kaduna Chapter Seeks Security Collaboration Ahead of NIPRW 2026",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tUjZDdkZxTGt3T0JkSjVzN2VETVc1X185M3lDWldPRGZONTFmbXhuVWpaU3lSMjNwdmRNa25na1hKN0M0alBCd1EwZkZJSFFNWVdITDNNaHl2Tlp0eUdfdTQ0ZF9kVnloUlRn?oc=5",
       "source": "PRNigeria News",
@@ -253,25 +260,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria: Nollywood's 'Onobiren - A Woman's Story' Dominates Box Office With US$22,000 Debut",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkE3cmk2bENJY2pWM3ZOaXRJTFhXTnNRbm0tS2dwSlVjQzNaWk1xSXA1emY4ejRhZFZTeHBfdUZyU3l4X3NCdEU0aEgwTGZuMEJ5dE5XX0ZKSVByZkhROTROc2JZalRNTE5BYzJ2MFJwYzNuSGRPMlZCWUtmX3hQUGJYRW5kNEVQaFdybDFub2Rwd21fLTRyWHJoRVVTY2k4RE5QRXF6RFl4bzVsRFZ6Q3ZkTmtYVXlJU1VvUldmZjgtTDJXX2Z4MlhNblg?oc=5",
-      "source": "Broadcast Media Africa",
-      "pubDate": "Tue, 10 Mar 2026 06:48:11 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Stakeholders rally behind Nigeria’s agric transformation as FG reports gains in food security drive",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZUxqaXZ3cVFoTHR3cDVTRGF1a2t3Zkhsb0ZrbDFvZnRRRnFtdy1xRm5VMS0xZkJUSkdtbFVXT3ZDeFA5Wm1fLVRCVWV2eHduVmRGV216enJOVmZQaHJMeG9TcEFueEQzdzRhWTFMNHhiRHViZnVFSkdjaWV2Znl6UmhhNHc2ck9xcW81ZGZzbV9ROTBER09abzdDUDlBWHl6TWxRLWtUa0o3OUpBQlpvcmhGOWtDXzJSbXI0U2t1eVNZZUdJdzBkVWc4aDRCdXozRkRwaEdIZ3ZCV0JYQXd2dg?oc=5",
       "source": "ZAWYA",
       "pubDate": "Tue, 10 Mar 2026 06:29:43 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Surging accidents expose Nigeria’s personal insurance protection gap",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG9BNGpFb1NJU0RVY3lLeUVadmZYTXdqeDFaSy1oUmVRX3lBcnBPenl6Y0dlQmpFbjhLU1hiT1NYcFVramFVbTAwRndGTFMtYXZlNkNZeXY3TjhERWJhRXRQN1dIUGo1VDI4MDBvWUlzX2F1bzktV3h1ajh0NnMwU3diU2c4aGtPQnRtN3FsaDVVMXZrcU4xUWJtVUY3YjZjeFhrOFJR?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Tue, 10 Mar 2026 06:27:41 GMT",
-      "category": "Traffic"
     },
     {
       "title": "US warns of imminent terror attacks on facilities, schools in Nigeria",
@@ -293,13 +286,6 @@
       "source": "The Nation Newspaper",
       "pubDate": "Tue, 10 Mar 2026 05:35:17 GMT",
       "category": "Kidnapping"
-    },
-    {
-      "title": "Damage Fibre Cable, Face Prosecution, Civil Defence Warns Contractors",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1FfaGdMbXNGa21EOUlWQkJaVkU1N2xHZUtFaWx0dC15UDB1SDgzS283b01VaWc0cG9IMFdRYllsa1ZjaElTY2h4Tl9Ga1lsTllURzl2T1JLTmc0bkZsYWp2UUxuYzlZZUtJRXBMM3JVY1RRdWdGSFdoY1hwVWRDMG55YWRFODJCcmQ5TFdCSWdZM3c1?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 10 Mar 2026 05:13:21 GMT",
-      "category": "Security News"
     },
     {
       "title": "NSCDC Threatens Contractors With Prosecution Over Damage to Abuja Fibre Optic Cables",
@@ -363,6 +349,20 @@
       "source": "Ripples Nigeria",
       "pubDate": "Mon, 09 Mar 2026 19:19:26 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "NSCDC Arrests 16 Over Kidnapping, Illegal Mining, Arms Deals",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IdzU1eWkzcEg2U3VhWWFnbmU4Rm0tMFEySEVMUkJDUUp2TnEzcHVGWExUeElXYU10S2x0VlBFcXVkNzBjamJqckpnRzZnM192eG1SVHM0SmlIbjMtMGpFSm9rRFBGVnFmUDJja2VGMXM?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Mon, 09 Mar 2026 17:43:45 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Terrorist attacks in Nigeria: 'Six Iswap attacks on military bases for Borno in one week' - Wetin dey fuel am?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96ZThEaDJqVk43eDh6ZFZza2dEenFXV0k5c1daOHdMYktwdWVlMWhTWHVTNWVVMllDX0h3YmtLNDhFMlNkb21iR3g5dEVjUEU2ZWZNcC1BQzNOY2tK0gFiQVVfeXFMTXNDbFRPNzhHdkhBeEJZSzFUaXMwY3FqSXZlTVpQMWRFcG14bXpvOElMXzkta3ZJX1Y2ZnFLV21KUXJCenFRWmpEYS1Kc2oxazVyOVNLQjcwMHZ0VWQ2WkRLYkE?oc=5",
+      "source": "BBC",
+      "pubDate": "Mon, 09 Mar 2026 17:07:55 GMT",
+      "category": "Insurgency"
     }
   ]
 }
