@@ -1,19 +1,89 @@
 {
-  "timestamp": "2026-03-10T18:20:35.574Z",
-  "generatedAt": "10/03/2026, 19:20:35",
-  "totalHeadlines": 179,
+  "timestamp": "2026-03-10T21:12:10.130Z",
+  "generatedAt": "10/03/2026, 22:12:10",
+  "totalHeadlines": 177,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Kidnapping": 10,
-    "Law Enforcement": 16,
-    "Security News": 117,
-    "Military/Security Operations": 10,
-    "Insurgency": 9,
-    "Armed Conflict": 13,
+    "Kidnapping": 9,
+    "Law Enforcement": 18,
+    "Security News": 113,
+    "Military/Security Operations": 11,
+    "Armed Conflict": 14,
+    "Insurgency": 8,
     "Banditry": 1,
     "Traffic": 3
   },
   "headlines": [
+    {
+      "title": "Osun election: INEC warns against all forms of violence during campaigns",
+      "link": "https://www.vanguardngr.com/2026/03/osun-election-inec-warns-against-all-forms-of-violence-during-campaigns/",
+      "source": "Ayobami",
+      "pubDate": "Tue, 10 Mar 2026 20:51:31 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "EFCC arrests 15 suspects with radioactive solid minerals in Kaduna",
+      "link": "https://www.vanguardngr.com/2026/03/efcc-arrests-15-suspects-with-radioactive-solid-minerals-in-kaduna/",
+      "source": "Ayobami",
+      "pubDate": "Tue, 10 Mar 2026 20:39:06 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FG Moves to Align Government Messaging on National Security",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tRXBFZDk0OTBmLTk4OE5PS0RsWXNwTDU4QkpidTZ2Y0Z1bGh1ampwWUxNLU1uYjVaTDRxM1ZmZ1JXM2ZTWWdpVHlhUTN4UW9xODhuWmNZYWRSMVdJWTkxcm9lWTRvWWM?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Tue, 10 Mar 2026 19:53:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "ICPC: Viral video claiming arrest of Justice Omotosho is false",
+      "link": "https://www.vanguardngr.com/2026/03/icpc-viral-video-claiming-arrest-of-justice-omotosho-is-false/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Tue, 10 Mar 2026 19:45:11 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NSCDC arrests 16 suspects in major crime prevention operation",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWNXWVE4U21za2VmeVVyUjhqUXhHaGFXdXNvSHZ6c3psRGI5SEoxeVpHTkFXbkZVYXE4ek9YZjROdjh6S1ZDYzNxUlVPSXRXcVlpZnVldi03c3FSQWlScG0yLWlHd2FVeDlYYk1Eckc5RjRpanptWFZpcFlYMVl6bHpXT1pxVmp4cGRyMGFGRkdBVWttTGlNLWE2NTBpNlk?oc=5",
+      "source": "the authority news",
+      "pubDate": "Tue, 10 Mar 2026 19:32:53 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Jihadis intensify attacks against Nigeria’s military, killing officers and carting away weapons",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd05yM0hJaTFwNVpjZTdBWGpUMDRHcGNUM2F6WmlGdE1qNll1bEc5MTZHRGVtSFdhLW5xNDcwRW5sdzNFOXdnUkU4YUJoQUpabmdCV0xnbkFIRl9MT3pNaENxT0VpOGozcklOSldDRjR3a3E5aEFpYzl1a3VRMTBIcFlrQWlQRmtMOVZlMUppM2FTYWlhSUVUXy1ZTURzSXJmZTBZQW5tcGMtZllIVzhnRE9nalRaUVd2bzN2TS02dHdIYVpSTzBDSHBNcTNCX0k?oc=5",
+      "source": "Baltimore Sun",
+      "pubDate": "Tue, 10 Mar 2026 19:13:35 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria, S’Africa Armies Deepen Training Partnership to Combat Emerging Security Threats",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80MHhQaTlyVzd4MkhYN0VhQnhSMUxkNWtlVWotRFVPRlFnWUxEQ1lYeG13OUxlYlhrbldzV0N2LVJfcENvTHN0MFBpTUN1aTZtc0xGNHYzel9CdVNtRHJFdmZHWlBfVzJoN3g4VzJrTQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Tue, 10 Mar 2026 18:50:27 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Ghana Seal Search-n-Rescue Cooperation Agreement to Strengthen Regional Aviation Safety",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORldBcFhMRHhQaXZ5UHM1dW55NmRvOWF0M2Y5RXMzYkpDMEVGRTlvMW16azdCWGRkNndPWlhYbGRXT3U3QTRuRHFzZl92SGI3X2REbkgtMVFwQVAzSnJBZTVVN2NtTTNqc3ZsbkRWNk13ajdjd1N4WUJQaEhTOW1SbE9JRUs4cDA1X05uRzVyeUR6UWdIWWVSeVU1TkZlaHROU2oxWGpDeTFMTmVCUjhkaDkzd01rUkktTXR3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 10 Mar 2026 18:35:14 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "NEMA Coordinates Response to Hotel Fire Incident in Abuja The National Emergency Management Agency (NEMA) Abuja Operations Office (AOO) coordinated emergency response operations following a fire outbreak at a hotel in the Utako district of Abuja, F",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNEhUTFp1T0RhRDV5VTZDQktlazZKUEpOMVhqUlFQM2pPZzl2SDhQRDlDanpBTUFkOWkyZ253NndaNHRwdzZ4X0t3b292Q01FOGxrTU1rQWdYVWRaY3NTT0NfamNabmpadmhJSDBEZVlEWERQdXdXR1hIdTF0b0tMUUxKbVd0WFZTWW04LXp6Y1E3Ulhrd0oxSXlSbXZnQUxXdDlNamJ5blAzYmR5TG1rcUhXRmNOZGZzUmw2ZV90X3ZSQm5yRDRxMnRjbGtMTnpad1BoSkNITGQ?oc=5",
+      "source": "Facebook",
+      "pubDate": "Tue, 10 Mar 2026 18:33:56 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigerian Terrorists Increase COTS Armed Drone Use",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbEFWMzRVZE5XT0VzU0t2eGxSTnVEekFMNU9LMTd4Xy1NOXJIb0lwRHdZLUQ1M05mNEFTX1ZFZHlRRXljQWRuZGgwb2dJUmFtZm1jQ29tWndSNEx2Q19DNl9ybUN6bzZXNERXNklxR3E2UHduUmNJZjduLUw3SjhyaDJLQXluTW5sVUY0?oc=5",
+      "source": "Africa Defense Forum",
+      "pubDate": "Tue, 10 Mar 2026 18:29:27 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Oil slump crashed Nigeria’s trade surplus to lowest in two years",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVFJR0NzczZ0dE9vUXhwdThqNTRzMXM3RVgxV0ZMQ1ZqbjJSMURoVm9hUlVoN2l3RmgtWE1STVBRUHAxV1pXeVNlV212bEdnTVpEQnpEMWtUeW5aWkxkcHg1NHdldUxVejZrVEVYYXY3YVY2aU9lbXNQVVB3U19VakpMR2FhNlRBQmh6aW9tUElLdVMyOFo0MTZONkNCd0syMlpua29ieDg?oc=5",
@@ -29,32 +99,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Mob burns suspected transformer vandal to death in Calabar",
-      "link": "https://www.vanguardngr.com/2026/03/mob-burns-suspected-transformer-vandal-to-death-in-calabar/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 10 Mar 2026 17:26:38 +0000",
+      "title": "US warns citizens in Nigeria of possible ‘terrorist threat’",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODhhX1VSNF9jMW1CSFhHa1dVZ3FvNG1EZU5JZUpTVWFhSFZTQnA0MFZNRmlnQnJHYU5vZUtfSmdYZEd0anI0QlRMU1Y1bW1hclhoQ3BKS3Zla3l5VFI1STVndjJ4TGxSWmE4eTlfTU01c2d6X0RvRTdqRnJtT3phQUFINV9Qc3p6YkxjQmlzbHhFcUxv?oc=5",
+      "source": "CNBC Africa",
+      "pubDate": "Tue, 10 Mar 2026 17:19:44 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Casualty figures from Middle East war",
-      "link": "https://www.vanguardngr.com/2026/03/casualty-figures-from-middle-east-war/",
-      "source": "Oboh",
-      "pubDate": "Tue, 10 Mar 2026 17:18:28 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Kidnapping: Aiyedatiwa warns sponsors, collaborators will face justice",
-      "link": "https://www.vanguardngr.com/2026/03/kidnapping-aiyedatiwa-warns-sponsors-collaborators-will-face-justice/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 10 Mar 2026 16:42:41 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Iran arrests 30 people, including foreigner, accused of spying",
-      "link": "https://www.vanguardngr.com/2026/03/iran-arrests-30-people-including-foreigner-accused-of-spying/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 10 Mar 2026 16:41:17 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria, South Africa strengthen military ties to tackle terrorism, modern threats",
@@ -64,18 +113,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "Ondo schools shut after gunmen attack near Akure Airport",
-      "link": "https://www.vanguardngr.com/2026/03/ondo-schools-shut-after-gunmen-attack-near-akure-airport/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 10 Mar 2026 16:25:25 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Ekiti court sentences quack nurse to death by hanging over murder",
-      "link": "https://www.vanguardngr.com/2026/03/ekiti-court-sentences-quack-nurse-to-death-by-hanging-over-murder/",
-      "source": "Henry Oduah",
-      "pubDate": "Tue, 10 Mar 2026 16:16:43 +0000",
-      "category": "Security News"
+      "title": "Nigeria's new 'insurgency corridor' evolves",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMlo0UFU3SmlfSEhXZjFiVzgyRzBxSG1iVThsODZ0QW16Q00yVTR5UjB6VnNUUU1LYW81TkhqVTc4VjlsQkRpVTVsWTZTSGpxVmc5MkNxSWNob2ZPSzMwUUdsRjdrNU04LVd5NjN6dkZlUHlQLUxESGZZbEE4UdIBfkFVX3lxTFAyM1dFT1pWemRwOThQcGptY2tpOERHZjJmZno0bzA4Ui1iR2VYQzNPY0oxOGNNaDVWYnFoaE9UM1JzSG9qZXc0YXhvYkJYU2tPUEw2eTFFUngwQmdNTWhkZnJ0c3NBa2ZhU2syRXpnZ0IyeDc5cl9uLVRRYUcwQQ?oc=5",
+      "source": "dw.com",
+      "pubDate": "Tue, 10 Mar 2026 16:12:50 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "NSCDC Officer Shot Dead During Clash With Tipper Drivers In Rivers State",
@@ -93,17 +135,10 @@
     },
     {
       "title": "Jihadis intensify attacks against Nigeria's military, killing officers and carting away weapons",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnFZSlk4Y0dNQlJ1XzhlSVRTMTNscVRwallGNm5iRlg3aFhMUjVmN0s4VDk5dmtkRVE5MXY4eXBnb2RubFJpYlVVU1FLemltMHJGTWJWSzc4c3hYemc2cFpuVks2ZFRWMXRyZXNtTElvekItT0ExWEw1eThPeHVLWmR1dVZfaTJ0ZDJmRHVNX29pY25naVlhNUlfOGMxakoyakRFV29xVXI?oc=5",
-      "source": "Greenwich Time",
-      "pubDate": "Tue, 10 Mar 2026 15:26:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVZRc0lYbW5ObEY5ZXh4Zlc4MUFjdVdIWDg4VU5EVTAxR0lLdU52UmtQUjNWWTlpeU83bVJpV1FXandEem5vZWVLOEtXUUduWHFMeElWVVluYWJvY3FsOTJaYVRiemdxRjJCLWFlTjhyUVVFNDRzVzlENU9KSUFaVGxNRDRaZVFtajc5QTZRNW1Ca29qdV9ya21ONFd1dzhFV05KbWpvdjFUVWc?oc=5",
+      "source": "The Independent",
+      "pubDate": "Tue, 10 Mar 2026 15:37:00 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria's new 'insurgency corridor' evolves",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMlo0UFU3SmlfSEhXZjFiVzgyRzBxSG1iVThsODZ0QW16Q00yVTR5UjB6VnNUUU1LYW81TkhqVTc4VjlsQkRpVTVsWTZTSGpxVmc5MkNxSWNob2ZPSzMwUUdsRjdrNU04LVd5NjN6dkZlUHlQLUxESGZZbEE4UdIBfkFVX3lxTFAyM1dFT1pWemRwOThQcGptY2tpOERHZjJmZno0bzA4Ui1iR2VYQzNPY0oxOGNNaDVWYnFoaE9UM1JzSG9qZXc0YXhvYkJYU2tPUEw2eTFFUngwQmdNTWhkZnJ0c3NBa2ZhU2syRXpnZ0IyeDc5cl9uLVRRYUcwQQ?oc=5",
-      "source": "DW.com",
-      "pubDate": "Tue, 10 Mar 2026 15:24:28 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "Christians Killed by Fulani Terrorists in Nigeria’s Benue State, Including Local Defense Commander",
@@ -127,6 +162,13 @@
       "category": "Security News"
     },
     {
+      "title": "Israel accuses Iran of sponsoring terrorism in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXhwRzlRY015RHlFYjJzVmF4X0RNMEVSeDBxODRySlJBWEJxRVFrelVvaG4wRWlVVjItWUR0ZEt2YmQ0RWJZWnRCd3NsaldXNEp3RzRBc2FvODQ2TVR6RDl3anZyNUNJejZSYmVwNnJyeWZOQW00VGVGWXFVbTFRcW5lbzZlc3M?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 10 Mar 2026 13:50:00 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Ogun, federal agencies fine-tune security for Gateway Airport Hajj operations",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUliVkpQTVZwUl9rSy00S2p3eDNVR3JvSUg1VGN3cmJWX3JwX2xyb3pmczN4SHpiejhuSFJfdEV4aUthQmFYNFFUNEtCS1YwZkRkWGZXdXYyNFA0ekNUZnpwN0pCamFRTVczYnhiU3BQYnlDYV9RV05WakpLX0YxWS03bUlrSHM3T0gtNkRMb2sxZU1fc3VXdWhjWl96dnFFTVlxWmJNdWhpS2I4X1lScmY5eG5BUEhwX2JubDl1NW52QzZUNFNJ?oc=5",
       "source": "Premium Times Nigeria",
@@ -134,25 +176,18 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "US warns citizens in Nigeria of possible ‘terrorist threat’",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODhhX1VSNF9jMW1CSFhHa1dVZ3FvNG1EZU5JZUpTVWFhSFZTQnA0MFZNRmlnQnJHYU5vZUtfSmdYZEd0anI0QlRMU1Y1bW1hclhoQ3BKS3Zla3l5VFI1STVndjJ4TGxSWmE4eTlfTU01c2d6X0RvRTdqRnJtT3phQUFINV9Qc3p6YkxjQmlzbHhFcUxv?oc=5",
-      "source": "CNBC Africa",
-      "pubDate": "Tue, 10 Mar 2026 13:12:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Israel accuses Iran of sponsoring terrorism in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXhwRzlRY015RHlFYjJzVmF4X0RNMEVSeDBxODRySlJBWEJxRVFrelVvaG4wRWlVVjItWUR0ZEt2YmQ0RWJZWnRCd3NsaldXNEp3RzRBc2FvODQ2TVR6RDl3anZyNUNJejZSYmVwNnJyeWZOQW00VGVGWXFVbTFRcW5lbzZlc3M?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 10 Mar 2026 12:55:02 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "US warns citizens in Nigeria of terror threat",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkVmM0wzSFZTZHBIbVg5TExQWGMwaDNMY2MxeVBSeWJxX0Vvd0gzQnljdmE0djByaWFsalppNm5GQ3pjTFFYcXJYTE5IVG5LOFdna0pDU1EyV3R5YlZXbW1JNDJrdUcxTGc5bE43NDdoYmxna05kNUFsVF9ZU2lGT1JBcw?oc=5",
       "source": "The ICIR",
       "pubDate": "Tue, 10 Mar 2026 12:18:08 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Ninety-nine alleged criminals nabbed in Ondo, police say",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEpFUnV5ODh0STd4R3BlMlFvYW01b0c1TUdudmdWRnFCVUpXY19yVk02QUkzRWVnVlFlOWJURmtQS1NxWXhIQnAtOENzODFmbU5kUXJ5enFrSEdnMHIwYURtckdsUThWQW5OeTIxRG42YWZqcjNWTHpwcmUyVjd0V1NxZXlwUQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Tue, 10 Mar 2026 11:51:15 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "River State NSCDC personnel shot dead during patrol in Chokocho-Etche",
@@ -223,13 +258,6 @@
       "source": "Arise News",
       "pubDate": "Tue, 10 Mar 2026 09:02:37 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Ninety-nine alleged criminals nabbed in Ondo, police say",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEpFUnV5ODh0STd4R3BlMlFvYW01b0c1TUdudmdWRnFCVUpXY19yVk02QUkzRWVnVlFlOWJURmtQS1NxWXhIQnAtOENzODFmbU5kUXJ5enFrSEdnMHIwYURtckdsUThWQW5OeTIxRG42YWZqcjNWTHpwcmUyVjd0V1NxZXlwUQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Tue, 10 Mar 2026 08:52:44 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Fight against insecurity: Nigerians laud military for protection of human rights",
@@ -305,8 +333,15 @@
       "title": "NSCDC Busts Criminal Syndicate, Arrests 16 Over Kidnapping, Illegal Mining, Fake Dollar Racket",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSnpfY1hkbXhpNWtpY1lUMjEzX0FoU25LOHNvMnV3RV9fWGIwYkpkZXJFNnJmTWllY3E3cThyelBCSUUtOUNMWTB5T29FQ1pUb2hOUzR0MkRMMUUyNWY0LW9jWHJrN3k4Y3ZmY0d1NDEyWXdjV1IydWI4R2JqTHY4OGQ0dkEyUy1KOFJ6ek9yVGFkWTZrNVB5UDQ2a2N1b3QySEN1V2J6RFZxbkhhajZhalhrOGdwdFNkY0RmZUFpV09lTFowbFl4cVJpMA?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Tue, 10 Mar 2026 03:56:14 GMT",
+      "pubDate": "Tue, 10 Mar 2026 04:15:12 GMT",
       "category": "Kidnapping"
+    },
+    {
+      "title": "Police, Army, NSCDC Arrest 99 Suspects In Ondo",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50MElPdXJkRVBpdDhCVTdBN3hwYXJOQnNRZUFzU0Zmd2w3VHVKX1hWM29UQ1hfUXc0OXNEOHZBM2Q5eEVnYUFBaHRwNndIX0h4N1U2N1YxdWpOakZuaklDU0tNRXdBZGdSYk5iTklXY09JWDhuNy1F?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Tue, 10 Mar 2026 01:51:37 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria prioritising women, youth in fisheries reform to boost nutritional security — Fatima Sugra T. Mahmood",
@@ -328,41 +363,6 @@
       "source": "ReliefWeb",
       "pubDate": "Tue, 10 Mar 2026 00:10:57 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "US Warns Citizens of Fresh Terror Threat in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTa0xVT2V1Yk01TnhKUGVnZEYyOXFCZlpIZnY5VXRESG5CQ1gzaXozY2RLUlFQODk3TkM4UUQ3ZWVOTTNIZlZGbnRFMTVwY21nbUVRVVhQMEpXVmh6aGdMc3BKWWhhX3NOUmNqNHo1RFJIaHUxM1ktdk5UaXo?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Mon, 09 Mar 2026 23:55:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Immediate Security Alert: Impending FEM Attacks Agatu Area",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHZMWDBWbW5FR21fWWFXckZuMTRQckptOGNlWHdzZ0I0em9lam1zU3p3c1YxRGo1cE55cjdHSVp5UTBsdTN5cnpfRlZDLWFQYXc5UzZqbDduMk5BQVdFTnpfTERZY0F3Y3ZXeFpHal9Scm1sNUNrTHdMUF9lVkhiZHpWQ2FFaUtldkxNQVllWE9zclEtY1E?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Mon, 09 Mar 2026 19:23:06 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "U.S. issues security alert over potential threat to American sites, schools in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWUxOTFTRm9PYWlTMVFGaHZtVnlvNDI0aWoydmNnemRoTWxxRkZabFc2Y3NNNW9NVEZlR3FXWVlRckh0WTRXQ3d3bGpsMTJsOUI2eUdabFJfNjZKa3pZakpHcFRhY0V0N1JFc0ZNdTBOX2ZzYjRtZUJwQmhYTVNvSVQ2N2o3Uk1rTV8zc3lidnB6bl94aEJBTEJZQ0M3cFZwWGxYSzJtcF9rbVlwZzllZE9WczRKbUk?oc=5",
-      "source": "Ripples Nigeria",
-      "pubDate": "Mon, 09 Mar 2026 19:19:26 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC Arrests 16 Over Kidnapping, Illegal Mining, Arms Deals",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IdzU1eWkzcEg2U3VhWWFnbmU4Rm0tMFEySEVMUkJDUUp2TnEzcHVGWExUeElXYU10S2x0VlBFcXVkNzBjamJqckpnRzZnM192eG1SVHM0SmlIbjMtMGpFSm9rRFBGVnFmUDJja2VGMXM?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Mon, 09 Mar 2026 17:43:45 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Terrorist attacks in Nigeria: 'Six Iswap attacks on military bases for Borno in one week' - Wetin dey fuel am?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96ZThEaDJqVk43eDh6ZFZza2dEenFXV0k5c1daOHdMYktwdWVlMWhTWHVTNWVVMllDX0h3YmtLNDhFMlNkb21iR3g5dEVjUEU2ZWZNcC1BQzNOY2tK0gFiQVVfeXFMTXNDbFRPNzhHdkhBeEJZSzFUaXMwY3FqSXZlTVpQMWRFcG14bXpvOElMXzkta3ZJX1Y2ZnFLV21KUXJCenFRWmpEYS1Kc2oxazVyOVNLQjcwMHZ0VWQ2WkRLYkE?oc=5",
-      "source": "BBC",
-      "pubDate": "Mon, 09 Mar 2026 17:07:55 GMT",
-      "category": "Insurgency"
     }
   ]
 }
