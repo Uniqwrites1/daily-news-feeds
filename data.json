@@ -1,25 +1,109 @@
 {
-  "timestamp": "2026-03-11T12:17:39.504Z",
-  "generatedAt": "11/03/2026, 13:17:39",
-  "totalHeadlines": 174,
+  "timestamp": "2026-03-11T15:19:53.414Z",
+  "generatedAt": "11/03/2026, 16:19:53",
+  "totalHeadlines": 173,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Kidnapping": 6,
-    "Law Enforcement": 11,
-    "Security News": 117,
+    "Security News": 115,
+    "Kidnapping": 8,
+    "Law Enforcement": 10,
     "Military/Security Operations": 15,
-    "Armed Conflict": 17,
-    "Insurgency": 5,
-    "Traffic": 2,
-    "Banditry": 1
+    "Armed Conflict": 13,
+    "Insurgency": 6,
+    "Traffic": 3,
+    "Banditry": 3
   },
   "headlines": [
     {
-      "title": "Israel urges UNSC to designate Iran Guards ‘terrorist organisation’",
-      "link": "https://www.vanguardngr.com/2026/03/israel-urges-unsc-to-designate-iran-guards-terrorist-organisation/",
+      "title": "Senate mourns soldiers killed in Kukawa attack in Borno",
+      "link": "https://www.vanguardngr.com/2026/03/senate-mourns-soldiers-killed-in-kukawa-attack-in-borno/",
       "source": "Ayobami",
-      "pubDate": "Wed, 11 Mar 2026 12:15:21 +0000",
+      "pubDate": "Wed, 11 Mar 2026 15:19:16 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Senate urges military to strengthen counter-insurgency operations after deadly Borno attacks",
+      "link": "https://www.vanguardngr.com/2026/03/senate-urges-military-to-strengthen-counter-insurgency-operations-after-deadly-borno-attacks/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 11 Mar 2026 15:17:06 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Bandits kill three, injure 11 in Katsina – Police",
+      "link": "https://www.vanguardngr.com/2026/03/bandits-kill-three-injure-11-in-katsina-police/",
+      "source": "Ayobami",
+      "pubDate": "Wed, 11 Mar 2026 14:56:18 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Kogi presents patrol vehicles to police, others to tackle insecurity",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdRWm9EN1dQQ0RvUXBlbXhaUGVoUHo0bVBRVW1LTDljeWhlR3B2VFhJQm5CTk5fb0ZiZU90QTg4ZGg4dFVjTy1EWlZ2aWZOZGdydTQzLV9IT1hOU3U0QmlsNWZNdkRzN2g2RUkwZDY5bjE5SGZKanh1S2s3MjRHZ0hNQWF1djFTNmVIc2hyOVpkN1hqWlE?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Wed, 11 Mar 2026 14:20:38 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria moves against IED threat, begins national capability assessment",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTRIOUtBek9KUWZ2TTNhY01QUXdNTVBZdk9ENC1LOW1FVmdXR21UUDFoQUVDd2NvZGxlWFpQZ1pIcDg1V3JSSldZRTlyRl9JLW5KckVQaE0yQ0tmNnRaQ3JFOFFRS3pQVUxuNU5yZExQOXNGTGE0aUpEYUNyZkNjWGhfTWsyVmJpNVZsMHJXQnZyTl82bXA3dWRR?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Wed, 11 Mar 2026 14:08:10 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Nigeria U20 midfielder Daniel Daga jailed six months for sexual assault in Norway",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRW40SjlWejlILTRabjRaaGhwWHQ1cHZFQkJ2Slk3WDlMOFR3RTBNdFliVk1TbG1jMmFTcHhfOVhUczZuM3NlUWZUbVYyM2tuQTRYTHFCaUpRWHVKR2lUZVZyTng0R0R0TjFfUzBWUV9pb0RWX1hmYnh3ZUIxYU9mZ09RMk1hc3ppdG5zVFg3TVdfUHBOa3RVSy1wS2xqOUF3T1VXMzZEMmJyUENtWnQ2WnJiM0NCaTI5elBSRw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 11 Mar 2026 13:56:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Reps raise alarm over rising kidnappings, killings in Ekiti communities",
+      "link": "https://www.vanguardngr.com/2026/03/reps-raise-alarm-over-rising-kidnappings-killings-in-ekiti-communities/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 11 Mar 2026 13:55:25 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "FG Intentionally Refusing To Address Insecurity In Nigeria, Yehuza Getso Alleges",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOENQQTZmZ3VsbjRYZERDWHpuUzRvQmtvd0h0NkdCdDZBV0MtaTVxbktMcE9OWlpTMy04VXUzaG1pTUJmdkpFY2o2Q2ctYzJXUFJrVGhrOHcyTENieTNCRF9SWlEtbk1penlKc2pMblU0TzhlWURCNm5HQUdrV1k2Z00wRU5xTEFlQ1hqY0dBNWtqb2JZUFRLa1hnaVg1aGZ5MXV2U1JKQzI2STluT3dnNDhlaUQ5VE1JRHfSAb8BQVVfeXFMT0hqNUViREN0U2ZzUDJIMHNVUmxmQ1FVUmdJZ20xQTNjckt5ZklsWXk0bEhTTFQ5RWN3d0VkRk45NDZnYzdlWGlvUXZkSGItVThJck1rZHg5SWhMTkJTalRWQkliVXZtVjZKTTNzOXFGNEFWMkMxSkhOaTh5dlFyMS1IalZseUo1UFVVYUFuUmZuXzRMUkJRdXpUWGlkSmRGWjRpeEYwYVZSeVYtbHYxSVBrQzJKLWRmdV8xek96YTA?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Wed, 11 Mar 2026 13:38:43 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Military Reviews Strategy After Setbacks In Counter-Terror Operations",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHBtbF8tUmdzTUJZcjVJY2dpa0tReWxycW5iQTMtVnl1Uk9UWmtvd25UMXQ3MmNVNWs2d05jcW1HMS0zMUJhZmhnTno2bldMVE5YNy1tcnlkSkJ2eUJ1bWJUYzFfOTdfbEpLMzhwYTZ1WTlwRkhVUUd6ajlldGZCRHNKUDJHYTRVcWRCblpUS2xNMXRWRElibkYxSXVGVTZKdHc?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 11 Mar 2026 13:30:53 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Army, Cross River State Strengthen Partnership on Maritime Security",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnV0WTlSOVdFUlJBVXQ4UUxDTHIweXdmeXJsSGpfdUNPRU1MblR4cjJsdTNpM1ZzNDI5OTMtaFFnLWdNX0V4S0l0N3o2UkRLTEUwVEsyUHNhaFM5QWtaYUx2NExaeEpGc2tLRktGcXZwaXU4LUtKTVJuWkdqOUJzUmx4enl5bWE1Mm9CT1Vncw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 11 Mar 2026 12:52:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria to Strengthen Communication on Security, Immigration Reforms",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWthZHZUOXBjTkRHVlROcks1NzVqUHhyQ2haV1RHRmFqaFU4WGpZREtJQWszdkJ2TERzVEpjSUNYQ2V5eW94dkRoWEtHTl9iYUFTekxBT3BRVE1WREQwNl9LeVNuYlpGeE1NVHJMSE9ONmI5ZXZEeDQtUmlIZjBOUlZPb3pUVTBWc0hTWVRURlg?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 11 Mar 2026 12:36:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Vs Iran: Security fears shake Super Eagles friendly schedule",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFNSYWZhV0xrdTdRYVF3SllMN2RoSkFCT0hfYXdibkNra0drdkJxd2t5cm1YOU5TRnFLbjFDbWtNUDl2RmxqWU9yYVVlSW5JYzNQY3dOSzBXbXZLSVpueGxpc0diWkxBWmJuY1oyQWtud29DR0RlWl9zSFhJNXpyTmJMNzdnSkNUaXZZendlbV9HSDNuOXVvS1hRMU1udGtrNVlORml2WXQ?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Wed, 11 Mar 2026 12:30:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Turkish Airlines threatens to cancel flight operations to Nigeria over picketing",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3hXN3pZQkVTUTJTd1dSV0xwdGg5T0NiWGhPVHA5SjVVV1o1TW1TUkRBWGtxNGQwWUFrVzNvQTFfQ0kxT1BBaVNYSDJrQ2NiWTJYRk1FdmNERlNPaTJSWkx5U0FrNWpETVBxR1BNQWJDTlk1a3psUXRwWVI0R09rMmJ4UzJJNnV5TXpscHRwZndibmZtRGJZd2xTbHpTMS1Yckw4anZiVG83clRqODBaLUs1T1NBbFlvLS1MVVB3X2ZhWUxmNEdnNnVUdEc3Q2RVdWdZ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 11 Mar 2026 12:25:31 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Nigeria U20 player Daniel Daga jailed in Norway for sexual assault",
@@ -43,38 +127,10 @@
       "category": "Security News"
     },
     {
-      "title": "China warns US AI military use can create ‘Terminator’ world",
-      "link": "https://www.vanguardngr.com/2026/03/china-warns-us-ai-military-use-can-create-terminator-world/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 11 Mar 2026 11:31:59 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nations Single Window partners Nigeria Custom to sensitize top officers in Lagos",
-      "link": "https://www.vanguardngr.com/2026/03/nations-single-window-partners-nigeria-custom-to-sensitize-top-officers-in-lagos/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Wed, 11 Mar 2026 11:25:30 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Terrorist attacks: Military on top of game – Defence minister",
-      "link": "https://www.vanguardngr.com/2026/03/terrorist-attacks-military-on-top-of-game-defence-minister/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 11 Mar 2026 11:23:29 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "BREAKING: Defence Minister summons service chiefs as Nigeria’s security crisis worsens",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlczUGVvYkhEZ3E0ME1EN1JYTFFZSXBtMm5RSVFjQ3dJbVhuRjM1TzN5REZwVnFvOENpT0luRXdOdnlKM3pNczFmM002V1hET0Y4bG90ZjBFYzBnVzVZYjVGSUY5WkdmU054TmlrVjdKa01ULUZXR1ZYS3ZTNUxJQ1RTVlVPa3h0ZzQzbVVfR0pMS3FITVY5djUzY1Y2LWcxenZ2U1NkbzdyVW1f?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Wed, 11 Mar 2026 11:21:24 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerians demand focus on security, climate as Tinubu prepares for UK state visit",
-      "link": "https://www.vanguardngr.com/2026/03/nigerians-demand-focus-on-security-climate-as-tinubu-prepares-for-uk-state-visit/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 11 Mar 2026 11:17:06 +0000",
       "category": "Security News"
     },
     {
@@ -88,36 +144,8 @@
       "title": "Gumi’s comments: US should act independently against terrorism in Nigeria — Timi Frank",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEtEQlBkbnlCZVdRZWRRQkhSZFJYTDV6cjdVX2FGZE1aOWhjUW5fRlNJbnp1U2FQQkpjdFM0cVlCMGJrejV6bUhRTWQ4bGxnS1M0ZFNxaEwwbk43ajIzTThTTXdFRWpnVjVFUUE5RGVIdndvMGpIZmRYNjZfam1JNEduYkFjVHNHLVpxZklIa211VFNxWi1pc25BWUlTSkFZdTJ1c2oxLUlGenFIWXpqU2FGb3dMUQ?oc=5",
       "source": "Daily Post Nigeria",
-      "pubDate": "Wed, 11 Mar 2026 11:11:20 GMT",
+      "pubDate": "Wed, 11 Mar 2026 11:10:04 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Customs arrest six suspects, seize smuggled goods worth over N1bn",
-      "link": "https://www.vanguardngr.com/2026/03/customs-arrest-six-suspects-seize-smuggled-goods-worth-over-n1bn/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 11 Mar 2026 11:08:18 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Insecurity: Arewa Group Disowns Man Over Online Attack On Defence Minister",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXYzRkl6NlVuYk5JYTEybEpHbmZ6eEhJMndaTDlwREVST0xMc1NRMEhVZDhVZlp1WVI2TVNva21Ia3I3M05reGZmWlpSNHBlTjZCd2ducHhTbTA0Szl2R0REcnkxSzNIMVNNSzA5X3ZJTVN1MHQ2VEN1Yk44Zm5uODlGMEJXd1lRUTR6cHdjNHlqczVTdHVsNVA5aHI?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 11 Mar 2026 10:48:27 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Firm Launches Corporate Farm Model For Food Security In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzlNel9ocFhsTFktUV9lcjRiTE5uWHNKZzNRX0tFSVBXQXpJN3ZYa1kxYXNraTNVZG01VC1LN08xZ0N3em5JSGVkZ2g1QWVuMzUwbzFCUlRRMkdBSDNjeTZRbi1lUjRwU19oTXdQYXZxaXFTa0FjRm1mMVN3a3Z6M3c2N0IyQmI0VUhUQlQzQQ?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 11 Mar 2026 10:22:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, Ghana Sign MoU On Aircraft Search, Rescue Operations",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDVEWEpDTTlrSndZdG5jRGtuMFZabTdYYmRsckVuTlVkUlpjZVpaRjVLUXUzTWdvd0V6OG5JLXdENWY5QTVUVEJ1TjlMcC1WMnZRWlZucG9CWHRxSVV4Wkc1eWU5R1dDYktBem5RTDhwNkhFaTFFN2hfZzc1Ym1BUjFRQlhBczdGZFE?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 11 Mar 2026 10:16:16 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Nigeria, South Africa Armies Deepen Partnership To Tackle Emerging Threats",
@@ -155,18 +183,18 @@
       "category": "Armed Conflict"
     },
     {
+      "title": "Gumi: Timi Frank urges Trump to halt security cooperation with Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekRQQ2tFUjY4X3htZkpqYzBIZ2ZtUXE1eWZXUmZ3RzRQR2xMcFpDa0VFNktSOTFUNW9MY0NLb1lrd3VtYmtrejAzWlFlZTJLcmwwU1pqdWswYUtMSkxnVWM1V1Y1VENqZlZmUUkyZm5hN29KdjhZdkZvTl9GZUd6SHNwbE5ZbWZfenQ2TUhwaHFRVzdwTjZ2dHNQMA?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 11 Mar 2026 08:59:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
       "title": "Nigeria needs laws to strengthen national security – Senate aspirant",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlNVX0EwNWh5ZWtkc20yVFBoTVkwbXg4NTlrT1dYbnVtZllzRWUwX2ZXUUdLcEFJRDc5M19rVzJCUDN4YmJEQ2FxbGlQQXhsMUo5bG8wdS1LbER1WWFadXlZTXczQXU5ZU4tN0ZWeEM4TVB3cDRkNWZwX0FZN3l3c3FNRVE4UGw3cHZEVUtucFk?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Wed, 11 Mar 2026 08:15:27 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Gumi: Timi Frank urges Trump to halt security cooperation with Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekRQQ2tFUjY4X3htZkpqYzBIZ2ZtUXE1eWZXUmZ3RzRQR2xMcFpDa0VFNktSOTFUNW9MY0NLb1lrd3VtYmtrejAzWlFlZTJLcmwwU1pqdWswYUtMSkxnVWM1V1Y1VENqZlZmUUkyZm5hN29KdjhZdkZvTl9GZUd6SHNwbE5ZbWZfenQ2TUhwaHFRVzdwTjZ2dHNQMA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 11 Mar 2026 08:06:00 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Anthony Atolagbe: Training New Army Recruits Will Strengthen Nigeria’s Security",
@@ -176,18 +204,18 @@
       "category": "Security News"
     },
     {
-      "title": "How policy hurdles threaten Nigeria’s digital economy",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXJoLUU1cmFIU1pveVp2SHBxNzZGZDlQMTFSVEJlWDZpbGI5Q2hydHJrRzdzNHBJZWljQ1oycVROMW1CNklrSDdjRGllT0RZTTVtY21fWFRsLWpfVGVwQ1h0eldXQ2JHQlBWTG9ncXd1ZnNkYzdvV0NlV1VuUHJVTHRweTBKNzJFQ0JnX0dpSTRsUm_SAZgBQVVfeXFMUDN3N3RidWZXNzd4dGtPTUc5VkRBcnRYRGFjaG1Pd2hhbHctTG1wVFpTNk9zSnM5a19jSFNLZlp4UXhhWTZZLTdDU01tS2JuUTJtOE8wbnpmMTdSdFhBS3lfbzhoRV9Dd0dyUUFSWFBvTWNWSEE4RGJrcXpBM1V0OU5lYTkwWnFrV2Z3dFNWWjNXVGJRRGJKUW4?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Wed, 11 Mar 2026 07:36:10 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FG Seeks Stronger Inter-Ministerial Communication To Enhance National Security",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzZEWmhfRWtXbUJXaW1XaUR2dzNNcDh0UU5kVWtTZGhDZlM0RFBVSi1VcGRnWlkzVnUzN00xeENJanRKQ3VpM0pOakoyMG90QXN4UGdsZ01hZ2FHaWw0dTVzc1hTZzN3UDVUWW8xYkthbERmX3ctS0lFTVpvdkVRZGpDTWJKclNoWndpQ3F1ZGZpOEhVdjNPTzN6cFpxc2pjU2wtLQ?oc=5",
       "source": "- TVC News",
       "pubDate": "Wed, 11 Mar 2026 06:58:00 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Insecurity: Group Disowns Man Who Attacked Defence Minister On Social Media",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkRVV0h2ZlJzWFB3clBVN3AxenFYRkFKWEQ1V3Z3MTZNcDRDbWhydVN0aElWcUVkQUdMS0lnVFp6cnBTM1pqeVV3dG5Zd1B4UjJnZGh2OEtzOTZzYkQyOUlYOHFINGcyc1BiaUlRaUQ4OGpicEE3RzVZckFNemJ5SlpIcTM3V0tjdXZpZExRT3ZUZk9hT1ZuUFZkU3RQNnc?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Wed, 11 Mar 2026 06:22:00 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Unified Communication Key To National Security – Minister",
@@ -204,10 +232,10 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Will Never Surrender To Terrorists – Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9COGpBYWRFLWVnaTFuOTdTU0V0bVZHQS1aUmRrQmZzZlRsSkd5U3hndmNKenA5dllUS0NRSE8wdUxGelhRa1ZDa3dwX3ItbExkdEt0cVh0elhieThJa0RKTzlnYUl2dnRBYmVwekhIRjdCd2V4d3cyRFJHQU8?oc=5",
+      "title": "Group Backs Proposed Salary Increase For Soldiers",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WZC1vWXp4LUVDSEtGc1dfVFFvYlFqd2hxb1JVeXExeXhGWi1vMXh6b1F3UGR0T2tRZWdwMFczd05jb25KRG0wcHNxQVdkcXo2aUR4cEFnOWdfQlBiVjhkYlhDY3FEaFJwM3dFWGhnUm5PWVliRHdyN2luTDlON0k?oc=5",
       "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 11 Mar 2026 04:44:57 GMT",
+      "pubDate": "Wed, 11 Mar 2026 04:47:14 GMT",
       "category": "Security News"
     },
     {
@@ -335,34 +363,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Tue, 10 Mar 2026 06:10:00 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "NSCDC Threatens Contractors With Prosecution Over Damage to Abuja Fibre Optic Cables",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQzV0N0NYWWxVZEZmMlBDdUpobURXM2M0WWF3MkU0MFE1S2xDMHNTN3MxaldGV0pXc2tfSmVvWnFmLXNTYklSTkFvNVdYcWl2WXVuTF80bXBKV1BXNTk4bjVZSXpReXVIaU10RHZzaExqbHAwb19XM2FLUFVlWU5LdjQtTHdtMW10N3F3X2xCMVdaWEFJUHBqWU84czJSMlFQTjVmY0pBdS1LZw?oc=5",
-      "source": "Arise News",
-      "pubDate": "Tue, 10 Mar 2026 05:07:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Police probe assault on NSCDC personnel in Ogun",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmJxZVo1ckp6bU84b2xEYWhnRnFGUkJiY1dURS1pMTl0ZC1PbThVSUI4S2h4ZnBENmhRUEtZemxZcUFiR0dRdFFDeVZhVDBmcVBfcDFNSndVLWE5MkxacVF0WjZnd18xLWVsUE10LVBPd0J3SFFUemhEeE9WWWdtS0RvcmFVZjU2bUo3bVFIc3Y?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 10 Mar 2026 04:30:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NSCDC Busts Criminal Syndicate, Arrests 16 Over Kidnapping, Illegal Mining, Fake Dollar Racket",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSnpfY1hkbXhpNWtpY1lUMjEzX0FoU25LOHNvMnV3RV9fWGIwYkpkZXJFNnJmTWllY3E3cThyelBCSUUtOUNMWTB5T29FQ1pUb2hOUzR0MkRMMUUyNWY0LW9jWHJrN3k4Y3ZmY0d1NDEyWXdjV1IydWI4R2JqTHY4OGQ0dkEyUy1KOFJ6ek9yVGFkWTZrNVB5UDQ2a2N1b3QySEN1V2J6RFZxbkhhajZhalhrOGdwdFNkY0RmZUFpV09lTFowbFl4cVJpMA?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Tue, 10 Mar 2026 04:15:12 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Nigeria prioritising women, youth in fisheries reform to boost nutritional security — Fatima Sugra T. Mahmood",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTV9QbkhKY1ZtalV5amJHdTdnTDM2cl9xbThnMjN4S3dXR052SUVBN1lxYzJnSmhqcUpnVHJRbzhBWlJBUWUwSDFTWk1vaGRxZV9mSXZ5VTIyc2NZUWxncjVxS09Wc0RQZjM2alFQUGFGZ0JSTUxabVhrMjYwNUZnZmZNNWcyTHlPMjd3VVQwSGdONnBENkw1R2IxcmVZdFJiTmE2YW14VDUwRU52Qk1zM09tYTlabkFxQ0ctb25HSVFvZFY3aWg1V3BSVXJXRk56REVzMm1OSzRJd9IB3wFBVV95cUxNN1hab1JJOXdEQUMtWWJBNUtmWnVlYWZ2aUFucjd0TDFfZDZVZjRwZ3lRWF9oVDlXc2F4eGptZ3lIT2ZhXzhUaVN5Y0JXUWNfOFpLY20yUVZacWg1bXVTM3FiWWg0WllqcjJrbnMzWDBpd2ttLVQ4VXd5R2ZkblJ2SmRMcG1oOU9LdHpQY3dMa0RxWXZFZlJXc1VpMWh3azlpS2lkeXVMaHJySzRSVUxCaVRmNldCSnAzZTdkZnlmS0RjbUE4REZaY0MwY1NGWHFlak1JYWJ0MkoxdXl1bWpZ?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Tue, 10 Mar 2026 00:57:27 GMT",
-      "category": "Security News"
     }
   ]
 }
