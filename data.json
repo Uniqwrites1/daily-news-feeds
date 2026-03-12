@@ -1,24 +1,59 @@
 {
-  "timestamp": "2026-03-12T00:28:41.168Z",
-  "generatedAt": "12/03/2026, 01:28:41",
-  "totalHeadlines": 166,
+  "timestamp": "2026-03-12T03:50:05.647Z",
+  "generatedAt": "12/03/2026, 04:50:05",
+  "totalHeadlines": 162,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 104,
-    "Military/Security Operations": 22,
-    "Law Enforcement": 11,
+    "Security News": 100,
+    "Military/Security Operations": 21,
     "Kidnapping": 7,
-    "Armed Conflict": 15,
-    "Insurgency": 4,
-    "Traffic": 2,
+    "Law Enforcement": 10,
+    "Armed Conflict": 17,
+    "Insurgency": 3,
+    "Traffic": 3,
     "Banditry": 1
   },
   "headlines": [
     {
+      "title": "Nigeria’s security crisis and case for state policing",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDI5WkpHQmFRalBCT0ExbFBVREhxXzV2ZUlJMFdvMU1lZlg2M3pGWHhDVWNWY1RlbG9OSTg2ZTdBMXJoaFBlWVI5N2I2MFhsX3NPMmhZTWt2d2NwVFdsQWU4MEVCRkhUdnpxckplM0ZzeW43LTdUNVJXN0hNdnlPdV9xQVNPd01qU1MtLVNkVVdjMjRMRjBJ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 12 Mar 2026 03:43:08 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC officer, tipper driver killed over clash at Rivers dredging site",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTZCeF83d0VPd0FOQWZMMXVNb2Z2Ujk0MDZpTV9tYjFuNkRGMjNkbG1sVVRzQnh2NHBfTXl3NklFRFhvYlVZLVZ2MkNCYWl2S2w0Mlo5LTlFdXU0SEMyZjNsX0U2QV9qVzEwWFl2TXRCclNxT3pYSU9qU25qQ3lQbjRPZEpoNDFkSXNqVXo2R1VVckNHemk0Sjl3dzFsX2hEWlpNVGUwMXQ2LWFNN0E?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 12 Mar 2026 03:05:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Troops neutralise, foil terrorists’ attack on Doron Baga Army base in Borno",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2JUU3pzTEN5dG5VZUVTZ2hFQkdudEpETXgxWngyNXNIbU5Fb1lRak1RVDJEcWNVTk1IbFp0dGlJUjBvNjlXSEFQWnpFeEZWbnhzOXoyc2NLOHB5QkNsTWlrc1l2TWhJR1RnRHRmUkdrY2NqdnlKREd6SHpTQUNtMlU3UnJpcjNBekdSUzNid2VXaUtjQmNvWW9JWlZWZXBhcWtQaTJzaTJ4N2hHdjlKdFBGOA?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 12 Mar 2026 02:41:02 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Insecurity: Defence minister summons service chiefs over rising attacks",
+      "link": "https://www.vanguardngr.com/2026/03/insecurity-defence-minister-summons-service-chiefs-over-rising-attacks/",
+      "source": "olufemiajasa",
+      "pubDate": "Thu, 12 Mar 2026 02:12:56 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "State police: Tinubu is pushing Nigeria towards a disaster, by Olu Fasan",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ndWdrUmtxbGZ1WkhSTV81RHVxZ3VnWG1scDlGeW9GcF9fbHppc1UwdDdsU21EdkxWX2hYWVNtOGhrS0VINDg1TXpveE1sMjjSAbABQVVfeXFMUDVLMW5icElJbHEzZXZTZjlYN1pTNjdEQ2luR0NiT29Da3JZdm5veDcwWmJRNTRoVEZDd0loUGJ3cDR0QXN3dDV5b2FwUlplYjJ6X2YxVU43ZnAwWkVZVU1hMlZwejJfdjhIZXpydDF1MGRXb2syUnZPbjVKMVl0NThLSkw5QVoxVEpKUVRTN3RreTY5ajNROHB5WWxwN2R6YVlJSTBWX01BQ04yQkZMUXc?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Thu, 12 Mar 2026 00:40:07 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Terror attacks: UN mulls specialised counter-IED unit for Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFYxM3c0eVlvVjl6a1pkN1dkLXRCMHYzZmprd3lyRlJ6M3VhNS1zcV9iWU5kS0xQcTNhcHBFMHZBUnhicnJ5UVlrUjdSVVdTVFVfVXFLMEtaMlVzWDVsdmYzMjhRT01KYVBVU0Q1RU5heWJMSVVORkp1WEtiZF9Rbzh6UEVxU3dGTy1xSW90RXFoQlVfcnFPcnNmcHp3eWI1NzVuVV9mRjJjYTZvaGpIM3hXaUIzQXJ3WkdNd2lXbHY3Q2xsODA4X1ZB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTktsSC1fR09GX1BWc0VOZ2kzZlVMeGltOTRLcW42QU9WVUNuU19vbWtvVGpTbXlnUy00WTRGcmdCWnc0bUVScDdVVmpQM2lOaHRTQWxob3djTlFYVDNwT0VVMWZNUXNFa3cyZGs3eUgzd3hCVzZiT1lTVkl1d0hvU3Q3bmM1MHFVU1dOTXNPbUdsbm8?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Thu, 12 Mar 2026 00:27:53 GMT",
+      "pubDate": "Thu, 12 Mar 2026 00:27:52 GMT",
       "category": "Armed Conflict"
     },
     {
@@ -30,9 +65,9 @@
     },
     {
       "title": "MTN’s IHS acquisition: Is Nigeria’s digital future being held hostage?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEMtMFFEUE5zZWpCalM4WVBTVzJhU29YQ18wZWhTSTJxLTZvSGFtcUttcHBQaHpLM1g3NnNMNjQ5cDhGdTRtZGZkeGJ4S3kzdjgtR2JxS0taT19aRkpEUVNKOTd0MW1hWk1HNE13TE5ZLWU2VkNIVjdGLVUxcDBjOHVJTURkWUF1V08yS09wbHFaekhGc2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjVuY3UxZDVQdmp0SFBBdVQyVkNsYXRYZ0tlZjVLb1p6b0J2N043eFZRTl8xTzZZV0tzZklua0FoZXdtTXY3SGpWN05rWS1rY25jWmEyeGFmQXN3OGNyUjRlblU5UkcxdHQtRWFYMXdDWHZUMkY5b3hSX05VMFNYcUhqeVpPa25QMUxua19KYWQ?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Wed, 11 Mar 2026 23:26:15 GMT",
+      "pubDate": "Wed, 11 Mar 2026 23:32:49 GMT",
       "category": "Security News"
     },
     {
@@ -60,7 +95,7 @@
       "title": "Reports on US-Nigeria security cooperation were already public – Foreign Affairs MRO",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZrcEw2ZFVuazhrUmtla1dpeXJhQks3MlZKVW51Y2lIVFNSTVFsWVV3bzAxQ0xyZ0pWWXQtYzVfY3MzMkZ0ZzlCeVZhRURDVWpRSUZmVHE0NExmQnA4VllCejhvV0hwZTR0YXVEM0FBOUlqckJPWnNPNDlQUUpOZnpPdFkxcGpOTTBmb3pMa0dRbzlmd0Yzd3ZYaUg0QmZlRG0tMkFPTVpLb0FqUVBZ?oc=5",
       "source": "Ghana News Agency",
-      "pubDate": "Wed, 11 Mar 2026 21:46:56 GMT",
+      "pubDate": "Wed, 11 Mar 2026 21:47:47 GMT",
       "category": "Military/Security Operations"
     },
     {
@@ -69,13 +104,6 @@
       "source": "Sahara Reporters",
       "pubDate": "Wed, 11 Mar 2026 21:00:35 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Court sentences three arrested by DSS to 10yrs in prison for arms trafficking",
-      "link": "https://www.vanguardngr.com/2026/03/court-sentences-three-arrested-by-dss-to-10yrs-in-prison-for-arms-trafficking/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 11 Mar 2026 20:42:35 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "State Police: PSC Chairman Urges Comprehensive Review Before Establishment",
@@ -99,27 +127,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "NDLEA operatives arrest 56 suspects in Kano drug joints raids",
-      "link": "https://www.vanguardngr.com/2026/03/ndlea-operatives-arrest-56-suspects-in-kano-drug-joints-raids/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 11 Mar 2026 19:42:46 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Lebanon says war toll rises to 634 dead",
-      "link": "https://www.vanguardngr.com/2026/03/lebanon-says-war-toll-rises-to-634-dead/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 11 Mar 2026 19:26:25 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Three brothers arrested over US embassy blast in Oslo",
-      "link": "https://www.vanguardngr.com/2026/03/three-brothers-arrested-over-us-embassy-blast-in-oslo/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 11 Mar 2026 18:54:40 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "NHRC boss hinge improved security on protection of human right",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGVQVWpkbmRJT0ZfamtzQnNjeFBLVWxWZ2xFa1BJVy1SZXBRbW04b1Z3SnJmbnFhenVsS19aQzgxak83eWZKVjRyakIxOGFXUDR1VWtQbXY0ZnBYWWtxbXAwbFhFaEkwNkVyTUJVcV96QlFTWVlOT2FDdy10eGI3Umt4dGFfVXJaNkZscGN2VVZGZw?oc=5",
       "source": "The Guardian Nigeria News",
@@ -127,17 +134,17 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, Ghana, Sign Cooperation Agreement On Search, Rescue Operations",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVRSb0xTd1RiSGZzN2hORlFPd2JZSi1oQUlLeDRxbjc1MDVUQXNKTFhyckpVeEh0SVdlRW94SU5Ta2d6Z1pxQ1hwZ3RZbFhWQVNoakxhWkF1SXBVUEgxRUNldFp0YTNiU21vRVNhdW5QeE56MTJOem1ibHpHYzdIRng5RndKSjd5WmVNN3lkdU9QU3c0eWJV?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Wed, 11 Mar 2026 18:16:07 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "OYRLEA, security agencies crack down on illegal fuel traders on Lagos–Ibadan expressway",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGhlSmlaNnJad3czdTBETElHVmlRTVhVUE1UamQyVlFLeEFqaEhIVTl6QlBGSVpKWlhXYzNpTUloTGs3cUtqZTJhNGdPX1JwSjNIZlhhR3JoWkVKakxScjRadFFqanhOREdoV3RUODF2OFhiSkw3OFl0VHhQODQydXdFeGhNN3lCRWo4TzlmTnZ6N1pYNmJRT21YbTJnZjhYVFdMb1ljYzhjSEhYZlZKZk1nMjI4UdIBuwFBVV95cUxQUWxSbWI0bjBKSlEwRXpGY09KQzRIc0QtMVJBQVdfanAwbTVBRUhKMlZaQkhYeHI4TEhqQ0lub0Y2TzJSVV9TcDJhdlNob25BOUs5c3UwbE5pcldOajNOV1N2QzRnUkhYcGZhSUpGRW8xS0J1d1V3ZnBsWGM1Yk5xR0NncnFyYjJuYXMtU2VMdE9IQ1pGWnRwVVRxeV9udHluSURpZlg3M0J4Sm5pLUNGZkFoLURwUDl1RWZv?oc=5",
       "source": "Tribune Online",
       "pubDate": "Wed, 11 Mar 2026 17:58:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "French automakers partner Dangote to reboot Nigeria's vehicle production with 44,000-unit goal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWnRqTGg2VWpXYzJlaWJwOWZYekVrS0RJaEYzUEUyRmFNMlFpMG5STjAwOHFkeVZlWUlRWjF1LTJqVGg5bjBUWDk0MXNVQXRUdVhpLW81bndPZmNTWHd1TWY1UmhyUG80aS1jX2dLTXplNHBYTGRkM2RRalNnVm1tM2t5VGpfM3dOamgzajUtTWZ5am9RVXI0d2QzU29sQ2VMa3hMbjdoM21sNGhGZjE5MXVvWE5oNnVfamNqekhZcHRva2o5dTFLUjBfZ19PLW5JRXNtMUpB?oc=5",
+      "source": "Business Insider Africa",
+      "pubDate": "Wed, 11 Mar 2026 17:44:26 GMT",
       "category": "Security News"
     },
     {
@@ -160,13 +167,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Wed, 11 Mar 2026 16:39:12 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "FG, UN strengthen Nigeria’s capacity against terrorists’ IED threat",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkF5WGxwNEtSOXRKbHZJd0ktYTlnLWFHTGkxRHhDUlFOXzRyUDlnZy1yRlZOaFVGcm16c0QwZGszVW5lUnVpb3pBWHNLaEV6OFMzV1VNM3VKS0FESEpUb01UMVFtR1FpWFJMNXliYUJtWTJYdEt1YmViT1c1WGg3clZnWTlnYnlPX3B4UW1R?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 11 Mar 2026 16:13:05 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria Moves To Tackle IED Threat, Begins National Capability Assessment",
@@ -195,13 +195,6 @@
       "source": "Arise News",
       "pubDate": "Wed, 11 Mar 2026 15:48:25 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigerian Military Reviews Strategy After Setbacks In Counter-Terror Operations",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHBtbF8tUmdzTUJZcjVJY2dpa0tReWxycW5iQTMtVnl1Uk9UWmtvd25UMXQ3MmNVNWs2d05jcW1HMS0zMUJhZmhnTno2bldMVE5YNy1tcnlkSkJ2eUJ1bWJUYzFfOTdfbEpLMzhwYTZ1WTlwRkhVUUd6ajlldGZCRHNKUDJHYTRVcWRCblpUS2xNMXRWRElibkYxSXVGVTZKdHc?oc=5",
-      "source": "Arise News",
-      "pubDate": "Wed, 11 Mar 2026 13:58:22 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Turkish Airlines threatens to cancel flight operations to Nigeria over picketing",
@@ -253,11 +246,11 @@
       "category": "Security News"
     },
     {
-      "title": "Gumi’s comments: US should act independently against terrorism in Nigeria — Timi Frank",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEtEQlBkbnlCZVdRZWRRQkhSZFJYTDV6cjdVX2FGZE1aOWhjUW5fRlNJbnp1U2FQQkpjdFM0cVlCMGJrejV6bUhRTWQ4bGxnS1M0ZFNxaEwwbk43ajIzTThTTXdFRWpnVjVFUUE5RGVIdndvMGpIZmRYNjZfam1JNEduYkFjVHNHLVpxZklIa211VFNxWi1pc25BWUlTSkFZdTJ1c2oxLUlGenFIWXpqU2FGb3dMUQ?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Wed, 11 Mar 2026 11:11:20 GMT",
-      "category": "Insurgency"
+      "title": "Insecurity: Arewa Group Disowns Man Over Online Attack On Defence Minister",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXYzRkl6NlVuYk5JYTEybEpHbmZ6eEhJMndaTDlwREVST0xMc1NRMEhVZDhVZlp1WVI2TVNva21Ia3I3M05reGZmWlpSNHBlTjZCd2ducHhTbTA0Szl2R0REcnkxSzNIMVNNSzA5X3ZJTVN1MHQ2VEN1Yk44Zm5uODlGMEJXd1lRUTR6cHdjNHlqczVTdHVsNVA5aHI?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Wed, 11 Mar 2026 10:48:27 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Gumi: Timi Frank urges Trump to halt security cooperation with Nigeria",
@@ -309,13 +302,6 @@
       "category": "Security News"
     },
     {
-      "title": "FG seeks unified communication to strengthen security coordination",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckIxV1ZTTVFJM0haWUg5dXJubFlZTjBSTVR1RzRTOTYwQjM5bUIyelpYUXZQWUFqRFBYZjEyY0REakhWbWlBdHVxTzgxR25saFRnTHBkT0hDdmp0NkVsektSWlhhV3Q2Q3FxVU95X1M0UWxfMWdHUnd5SUJybm9BbkpRazNqOVg1bHd3M2pvT19rUTBaQlBxNFVB?oc=5",
-      "source": "westernpost.ng",
-      "pubDate": "Wed, 11 Mar 2026 05:56:01 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Group Backs Proposed Salary Increase For Soldiers",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WZC1vWXp4LUVDSEtGc1dfVFFvYlFqd2hxb1JVeXExeXhGWi1vMXh6b1F3UGR0T2tRZWdwMFczd05jb25KRG0wcHNxQVdkcXo2aUR4cEFnOWdfQlBiVjhkYlhDY3FEaFJwM3dFWGhnUm5PWVliRHdyN2luTDlON0k?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -346,7 +332,7 @@
     {
       "title": "NEMA Coordinates Response to Hotel Fire Incident in Abuja The National Emergency Management Agency (NEMA) Abuja Operations Office (AOO) coordinated emergency response operations following a fire outbreak at a hotel in the Utako district of Abuja, F",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNEhUTFp1T0RhRDV5VTZDQktlazZKUEpOMVhqUlFQM2pPZzl2SDhQRDlDanpBTUFkOWkyZ253NndaNHRwdzZ4X0t3b292Q01FOGxrTU1rQWdYVWRaY3NTT0NfamNabmpadmhJSDBEZVlEWERQdXdXR1hIdTF0b0tMUUxKbVd0WFZTWW04LXp6Y1E3Ulhrd0oxSXlSbXZnQUxXdDlNamJ5blAzYmR5TG1rcUhXRmNOZGZzUmw2ZV90X3ZSQm5yRDRxMnRjbGtMTnpad1BoSkNITGQ?oc=5",
-      "source": "facebook.com",
+      "source": "Facebook",
       "pubDate": "Tue, 10 Mar 2026 18:33:56 GMT",
       "category": "Military/Security Operations"
     },
@@ -362,6 +348,20 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb08wdUZZakxnSEYzTHkzM0ZnUHlwMnEzSmJoX2FndGJ5ZG1hY0FPZUpod1ROWV9WLThFMDdqbUx4R3A4eHc0NDVJclRnVTNCeGduV1laLVFOOEFIU3BOeXMteFVzTHY3TVVscU5sNm83ZXBJNWtMS2VQV3NlSFhqa1IwRC1lN3ZZRmNuZXZHZndVZnNOZGMzOWtuUk42c181VlpJME8zQ1IxNVhIU0N5bHZ5VElJNnlMS0JzTFNRREJZNEotV0JzbXAtT0pfdw?oc=5",
       "source": "Truth Nigeria",
       "pubDate": "Tue, 10 Mar 2026 15:20:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ogun, federal agencies fine-tune security for Gateway Airport Hajj operations",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUliVkpQTVZwUl9rSy00S2p3eDNVR3JvSUg1VGN3cmJWX3JwX2xyb3pmczN4SHpiejhuSFJfdEV4aUthQmFYNFFUNEtCS1YwZkRkWGZXdXYyNFA0ekNUZnpwN0pCamFRTVczYnhiU3BQYnlDYV9RV05WakpLX0YxWS03bUlrSHM3T0gtNkRMb2sxZU1fc3VXdWhjWl96dnFFTVlxWmJNdWhpS2I4X1lScmY5eG5BUEhwX2JubDl1NW52QzZUNFNJ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Tue, 10 Mar 2026 13:42:55 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "FG, World Bank Launch SPIN Project to Boost Irrigation, Power, and Food Security in Nigeria - Federal Ministry of Information and National Orientation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTA1VThLZk9nSTVFcFlLSEhzeHd2Nkp1VnUwSmtVWE9qRDVfLVZKOGRQRVgxQnp5Y1I4WWJhdldUZjZQSG93S0lLbDhvLWEwU1UwSUZhY1VIS29uU1N0MnRnNHNjcWpFYTBmRWNSY0lpZ1c0Zzd5UXZsSG0yTTdESHk0RkZWMEZMUHpHYU1lb2FoQUhCWXhRY3R6XzdCNFpmWTRrZkhNWjJwNjF4NThN?oc=5",
+      "source": "news.google.com",
+      "pubDate": "Tue, 10 Mar 2026 12:47:22 GMT",
       "category": "Security News"
     }
   ]
