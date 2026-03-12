@@ -1,39 +1,109 @@
 {
-  "timestamp": "2026-03-12T12:16:18.579Z",
-  "generatedAt": "12/03/2026, 13:16:18",
-  "totalHeadlines": 177,
+  "timestamp": "2026-03-12T15:23:26.931Z",
+  "generatedAt": "12/03/2026, 16:23:26",
+  "totalHeadlines": 173,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 108,
-    "Military/Security Operations": 22,
     "Law Enforcement": 9,
-    "Armed Conflict": 17,
-    "Insurgency": 6,
-    "Traffic": 5,
-    "Banditry": 2,
-    "Kidnapping": 8
+    "Security News": 112,
+    "Military/Security Operations": 19,
+    "Armed Conflict": 15,
+    "Insurgency": 5,
+    "Kidnapping": 8,
+    "Traffic": 4,
+    "Banditry": 1
   },
   "headlines": [
     {
-      "title": "Alleged cyberstalking: Court threatens to revoke Sowore’s bail",
-      "link": "https://www.vanguardngr.com/2026/03/alleged-cyberstalking-court-threatens-to-revoke-sowores-bail/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 12 Mar 2026 12:12:17 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Israel army says struck site it claims Iran used for developing nuclear arms",
-      "link": "https://www.vanguardngr.com/2026/03/israel-army-says-struck-site-it-claims-iran-used-for-developing-nuclear-arms/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 12 Mar 2026 12:05:15 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Pastor’s wife in police net for assaulting 5-year-old niece in Calabar",
-      "link": "https://www.vanguardngr.com/2026/03/pastors-wife-in-police-net-for-assaulting-5-year-old-niece-in-calabar/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Thu, 12 Mar 2026 11:37:15 +0000",
+      "title": "Nigeria's security crisis: Can 'state police' fix it?",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2RFbG5qQXgwTTFCX0dVSmVEdXpDbENHVDJtd2NQUVI4cVoxR2FPazJEN1E5VHZPRlZOT3I3cmVjUEk0UlR1ZjBYTFhpck5FZ1c1Z3MwZnJ5ZVVXXzNuR2hRZkNYaTU5SmhlVlQ5d3h5QldhYW9MbFVnclZzb3l0LVRQSnMtLUxaWnhweGFn?oc=5",
+      "source": "dw.com",
+      "pubDate": "Thu, 12 Mar 2026 15:19:58 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Road crashes in Nigeria rise 9.4% year-on-year in Q2 2025",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEttRHRhMTlROXAxWXczQTNlVGRjN1VmYVNDcW42N3pLU2FuTndOQkpqdXhEb25fTllJbEYyQWZlNTl5S1I2WEM0X19pTDA4c1F6Uzl0bkZ3NTFkU1hnQV9Ba1Z3MDNSOURmbzl2dUYzYThqZEp5Mjd4d0N4dFRQb0dGSEgxMnJFOWc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 12 Mar 2026 15:09:51 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Rivers court in confusion as dead counsel appears to conduct matter",
+      "link": "https://www.vanguardngr.com/2026/03/rivers-court-in-confusion-as-dead-counsel-appears-to-conduct-matter/",
+      "source": "Ayobami",
+      "pubDate": "Thu, 12 Mar 2026 15:04:07 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests suspected fake corps member in Abuja",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkVtWGhpRzJIS0xVcmhhSTI5NHpTTzR2NFBDdmxnaTA2Rnh5ZTJBN1VuM0tnTGhGbkFQcF80YU96UFdpa0EtMGdYcXJvX1BwVERBOWdaR2dta2paMnlXdmJJSGhmOW1PMC05TEVDQ3JsTlhlVTJ1TlFKbDRacFM4UXFUZTVkV0pnX1FhOWZTR2tWM1B0?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Thu, 12 Mar 2026 14:43:53 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Tinubu and Gen Christopher Musa: A new era of security and progress",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1ZzZjlxTjVVWVlUZ2VFN2Fza1J6dmtjQWpBVEE2d1NPT0pmX0RRblVrTEZ6Xy1zQndJX1ZESl9WRk1keFpWYmV3aEtXMkkzTnU5eFduSkhtanViOGtKVVJwUmhzd2pqVU5VOFA4UWlLWUJhX3cyTmZhTV83UUkwenBGckJRSFhTTHJrVmlvWTJRd1Y4SW5jX3drWllkcHZhWElMblpONUJaclXSAasBQVVfeXFMTXNWc2Y5cU41VVlZVGdlRTdhc2tSenZrY0FqQVRBNndTT09KZl9EUW5Va0xGel8tc0J3SV9WREpfVkZNZHhaVmJld2hLVzJJM051OXhXbkpIbWp1YjhrSlVScFJoc3dqalVOVThQOFFpS1lCYV93Mk5mYU1fN1FJMHpwRnJCUUhYU0xya1Zpb1kyUXdWOEluY193a1pZZHB2YVhJTG5aTjVCWnJV?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Thu, 12 Mar 2026 14:34:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Anambra Assembly moves to review obsolete laws, military-era decrees",
+      "link": "https://www.vanguardngr.com/2026/03/anambra-assembly-moves-to-review-obsolete-laws-military-era-decrees/",
+      "source": "Nwafor",
+      "pubDate": "Thu, 12 Mar 2026 14:28:20 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Defence, Science Ministers partner on innovation, energy solutions for military facilities",
+      "link": "https://www.vanguardngr.com/2026/03/defence-science-ministers-partner-on-innovation-energy-solutions-for-military-facilities/",
+      "source": "Nwafor",
+      "pubDate": "Thu, 12 Mar 2026 13:53:19 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests ex-student prefect for stealing school laboratory equipment in Jigawa",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2FWek1zUERQb1RqWmMzVFUxeG5oRm1TOHI2YzVnV0dFZmk2LXpiNk94N2dBRi1xcFJnZHBQNGkzZ0poNEo5R0FjdENPQ2x5QXJaaDFTS19Cem9qQnVaRGRjajJvNC1KMXBUQy1tckpaY0RWSWZkUUJVU2UyeDgwNXFaUlhvN09MaEFvQ1IyU3hHYjY0TTBtcGpscjZvQlBNcWMzU2U5UQ?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 12 Mar 2026 13:49:48 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Troops Kill ‘Over 20’ Jihadists in Northeast Nigeria: Military",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iVy0xT3VOdlJlbWd0cDJ0d2x5M2ExZUZyRG5jUGRidFVnbTlia1lGV0RUeTNac3Z5TlVKX1gwNjRRWTlNdk82QndaYWlUYW5SU3QxUlZHWUhXOTgxcE1BaGZxTzI5UzFUZEFxUXdpZTdUNDE2MktNRVkwMjnSAYIBQVVfeXFMUGtVTUlYazZnR3lSQjJrRUs4YktDaldsWVZrMWs0TmRhWEM3ekh3QnlNYzhpNVc1RkR0OE51ZmZRMVk4bW5MY0NWM1VzRkdBRFVTclIxYk9uNlVmckVfNEhqdU1PWjFhX1VqaFY5dWJzV2xRNVotc2RKS1h0OEVMUlVfQQ?oc=5",
+      "source": "The Defense Post",
+      "pubDate": "Thu, 12 Mar 2026 13:30:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "AFRICA/NIGERIA - Chairman of the Bishops' Conference: \"General insecurity affects all Nigerians\"",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVlkcDFOdFZDcG15YUp3Z0F5bVhBZnZqVUpyT25CUWJmZUY5eFNsOGpJOEljZ0gwQkI4UllZSGpPRmV5SWlad05RWU9hMjdGM3NRUkJFNWozQmZmNkdLNXVXOE1Nd1lxUHNOdzUxeEJFYWNpMHY1YVZ6OWR2X1RDTUFHR2pielNSVi1pMkw2cVM4dmkyOWVkZWFieWRXTGMyeURjdG91Q3UwU2pRd0E0QnV0bFNRZnItdHVMaGNjb3N0T05i?oc=5",
+      "source": "Agenzia Fides",
+      "pubDate": "Thu, 12 Mar 2026 13:28:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Musa, Science Minister Seek Tech-Driven Solutions for Military Operations",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PLVNLWVVlYUt5ZU05WkJnQk12TWp1WmZlTTA2eXVXc2s3dlg5TlFTZ1dIQmxwLTZnYmNMOHNSYUdyUmdwVG9Taktwa3ZCUm9LNk1IMHY0MWFQU2N2OHpOT0UtMDhlMl9hdjY4Rw?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Thu, 12 Mar 2026 13:16:07 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigerian Army Reaffirms Commitment to Strengthen Unity, Discipline",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWd4bUwwbmlUVVZHWE9Rdm5wOWxEeWFkOGJoZTZpd1Z2cEVmQ0FFYXBZNkE1Y2pzRlN3bzFtX0FuWGNfNElFTHY3Q0VWZHNHZVY1cWJ0UEtUbDhOSEVKMU00b2dndU0zRU9RbVBPSFE0TlZkU2pVVTdBdHN6Y2lqRkV2RnpWTUZkU1BUbzJB?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Thu, 12 Mar 2026 12:54:19 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, South Africa deepen military cooperation to combat terrorism",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGpvV2ZwWU91YXo1cG45ZWxZV3pEM3pfQllNaEZCRTNIMG9tcG5KZlZtTnh6QTdkNXRCekJ4a18xUWhhbzFnX2hoTHZfM1RvQzVPd2h3R3d2ckpaWk83SVVnUWQ4OWVlTWtwMGo3OS1IVi1pS3VOTk5CTEw3Y3dzWC14dEpJdkFjUkR3emZ0SkZuVDlDd011ODllRXdvbG1yNnQwTC1za0o?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Thu, 12 Mar 2026 12:16:10 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Nigeria monitors middle East crisis as energy shock threatens telecom, data centre costs",
@@ -43,25 +113,11 @@
       "category": "Security News"
     },
     {
-      "title": "NAF destroys gun trucks, neutralizes terrorists in Sambisa",
-      "link": "https://www.vanguardngr.com/2026/03/naf-destroys-gun-trucks-neutralizes-terrorists-in-sambisa/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 12 Mar 2026 11:30:28 +0000",
+      "title": "Defence minister: Northern Youth Coalition urges constructive engagement in national security matters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamRYdl9lel9ieWozWkpmblZzaUppcUZ1bFQyTm1IWU5GcXdWdXBEZEo2VUNTLVhnMUhKZVdqNXpfLXpDQTNaSnVzaTFod3BSR2ZibzNBaTdZVEZCMXZ6S2RadTNhal9RS0RFZVZqX2R1Q0tzRk5YaUV6Ty0tSThieGtUbXRsb3UtSDM5Wk45WVNvSzd2b2dDM24tUlkwYWpVbE1xdVFtUjQ0VGkxQzJtZWxVNHc0bWIzWWFaWFN2bDNkdGxjSXZCanZGNlppZVE4WjM00gHYAUFVX3lxTE9kLUFkZk5ET0xZV3lvczlBekY3b0NKZlVuUEFCN040N2tnMWwtU1Q5WGt2WmdES3RZY2VjZ2VBdTl1bzd5MFU1Zjc4VVk4dC1iVjlHZ3g3RDhMVkJlS0J2Ty1jOTVJTm91bzRvcmJpV2xOQmpnRjdDMlJhZ0E3M3h5ajREUDgtWUtlSWNFVlRvcEk0eGZ4NGlfbTB4VzZEOW94UGZBYjNzSEpMa0pqLTJUb2J4SlFubFZBcEE1QmRnLTRrcFRLZ21HRjJUeVV0OFBnZVdtWUtOVw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Thu, 12 Mar 2026 11:01:26 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Environmental Health Officers begin house-to-house sanitation inspection in Anambra",
-      "link": "https://www.vanguardngr.com/2026/03/environmental-health-officers-begin-house-to-house-sanitation-inspection-in-anambra/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 12 Mar 2026 11:14:09 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Three dead, others injured in attack on Delta Community",
-      "link": "https://www.vanguardngr.com/2026/03/three-dead-others-injured-in-attack-on-delta-community/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 12 Mar 2026 11:01:47 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Insecurity: Arewa Youth coalition condemns call for Defence Minister’s resignation",
@@ -69,20 +125,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Thu, 12 Mar 2026 10:56:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Troops kill ISWAP commander, over 20 terrorists in failed attack on Yobe community",
-      "link": "https://www.vanguardngr.com/2026/03/troops-kill-iswap-commander-over-20-terrorists-in-failed-attack-on-yobe-community/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 12 Mar 2026 10:52:53 +0000",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Arewa group disowns man in social media attack on defence minister",
-      "link": "https://www.vanguardngr.com/2026/03/arewa-group-disowns-man-in-social-media-attack-on-defence-minister/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 12 Mar 2026 10:43:19 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Presidential Aide Leads Dialogue on Security, Borders in Benue",
@@ -99,13 +141,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "UK announces airspace, road restrictions for Tinubu’s state visit",
-      "link": "https://www.vanguardngr.com/2026/03/uk-announces-airspace-road-restrictions-for-tinubus-state-visit/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 12 Mar 2026 10:04:11 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "‘He’s not one of us’ – Arewa youths disown man demanding defence minister’s sack",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWR5ZnctQW4xOUhZRVZUVTdHa3p6N01DTFdJWmd5NDNyS0d2cVN4UTRPMVI2azBodGFUeTlROFZ0bVpwSWYtak9VRHFaRVlNV0hoeFpRSWpnOGNpTDBWWDVfTWJXRmxEeGN0QXBvMXB6QTRjWkE5LV90MWJ0UUtfcmI0TUNrd1VibXFiYXRXall2QnI5OG1CU3VTaXVSdkdxUlRHT2NtbEQxS0U?oc=5",
       "source": "Daily Post Nigeria",
@@ -118,13 +153,6 @@
       "source": "Voice of Nigeria",
       "pubDate": "Thu, 12 Mar 2026 09:25:42 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "dead as bus plunges into river in Ibadan",
-      "link": "https://www.vanguardngr.com/2026/03/3-dead-as-bus-plunges-into-river-in-ibadan/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 12 Mar 2026 08:47:36 +0000",
-      "category": "Security News"
     },
     {
       "title": "Firm owner seeks reforms inprivate security",
@@ -183,13 +211,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Weak Sentiment Further Crashes Nigeria’s Stock Market by 0.09%",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaE1YU0xPeld5ODBvTy1uLTdrbEFuUjdOSk4xV2dfWXRlczhBa0tEZFMwSHAtTlpEV3JaZzBDUXhPWmhoT3h6VDFoT2ZLcXFBWFctTVVsbDY2dEtza1hHUTFqLUV0anQ2SmQ1SnR0c3B3clNFTC1UVTdmblA5RlJNQlp4dlhSdUxhZmR3NC1nNjBjQ0swMTU0Mw?oc=5",
-      "source": "Business Post Nigeria",
-      "pubDate": "Thu, 12 Mar 2026 04:46:12 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "“It Is Not In Our Religion To Attack” — Shi’ites Fix March 13 For Quds Day Procession, Dismiss US Embassy Security Alert",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRVliLVduWk5LZDdlREdrYVZTVEZVZmNxTW1mcDRQMFZhUDVFYU1Wc2c4ZnhjRFYyN1hXMEtBNDREcDdWRzJfNkRBMVg4a3FxMTgtWEUtUzhQMTdMMFJyMUs2cjVEQnRvMzVxNkVlQzllVDZwWTBxRkUyWE9FcUZwZzVzWV9QWDVWR2dYUzhBb0YyTmVPY0o2UnBVOTU0VGswY29vSkZON0xnWm1oVDdTWnh1dUdQUEd2cy1oOWtFWDJxSmVtR0JBY1F6djRObXlyV3VaT3FkbThaN2RH?oc=5",
       "source": "TheNigeriaLawyer",
@@ -202,13 +223,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Thu, 12 Mar 2026 04:33:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Chairman, Police chief launch security outfit’s operational base",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3UxblV2Ti1heVNjVDJQVURrS2tSZE5aVjhMRW4xU3Nrck5tMG54Y3huWGthOVdRa2gxRkNvZWxVbHN4VE1kYWtuazhFbDdUS0VMV1dHTXJBSTlhSXNWdktzaVRCOTEwV3hpZ0c0N0otd19YVjJfU2Nha2dxMDl3Mm4yVVRidHltbDRQMWFKUGlPdllzV3YtUTdELVlqd9IBngFBVV95cUxQd3UxblV2Ti1heVNjVDJQVURrS2tSZE5aVjhMRW4xU3Nrck5tMG54Y3huWGthOVdRa2gxRkNvZWxVbHN4VE1kYWtuazhFbDdUS0VMV1dHTXJBSTlhSXNWdktzaVRCOTEwV3hpZ0c0N0otd19YVjJfU2Nha2dxMDl3Mm4yVVRidHltbDRQMWFKUGlPdllzV3YtUTdELVlqdw?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Thu, 12 Mar 2026 04:04:34 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "NSCDC officer, tipper driver killed over clash at Rivers dredging site",
@@ -230,6 +244,13 @@
       "source": "Vanguard News",
       "pubDate": "Thu, 12 Mar 2026 01:46:16 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Terror attacks: UN mulls specialised counter-IED unit for Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTktsSC1fR09GX1BWc0VOZ2kzZlVMeGltOTRLcW42QU9WVUNuU19vbWtvVGpTbXlnUy00WTRGcmdCWnc0bUVScDdVVmpQM2lOaHRTQWxob3djTlFYVDNwT0VVMWZNUXNFa3cyZGs3eUgzd3hCVzZiT1lTVkl1d0hvU3Q3bmM1MHFVU1dOTXNPbUdsbm8?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 12 Mar 2026 00:27:52 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "UN Security Council Condemns Iran’s Attacks On Gulf States",
@@ -337,31 +358,10 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Turkish Airlines threatens to cancel flight operations to Nigeria over picketing",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3hXN3pZQkVTUTJTd1dSV0xwdGg5T0NiWGhPVHA5SjVVV1o1TW1TUkRBWGtxNGQwWUFrVzNvQTFfQ0kxT1BBaVNYSDJrQ2NiWTJYRk1FdmNERlNPaTJSWkx5U0FrNWpETVBxR1BNQWJDTlk1a3psUXRwWVI0R09rMmJ4UzJJNnV5TXpscHRwZndibmZtRGJZd2xTbHpTMS1Yckw4anZiVG83clRqODBaLUs1T1NBbFlvLS1MVVB3X2ZhWUxmNEdnNnVUdEc3Q2RVdWdZ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 11 Mar 2026 13:21:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Army, Cross River State Strengthen Partnership on Maritime Security",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnV0WTlSOVdFUlJBVXQ4UUxDTHIweXdmeXJsSGpfdUNPRU1MblR4cjJsdTNpM1ZzNDI5OTMtaFFnLWdNX0V4S0l0N3o2UkRLTEUwVEsyUHNhaFM5QWtaYUx2NExaeEpGc2tLRktGcXZwaXU4LUtKTVJuWkdqOUJzUmx4enl5bWE1Mm9CT1Vncw?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 11 Mar 2026 12:52:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria and Ghana foreign ministers discuss security, AES countries, Boko Haram and US operations",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3RyQlhXN3B5aFNOT2ktZmNRalQyekhpdTF4bHJRdHF0ODdadmpQeDFnenJGWjBuVk5NN3ByU00wWnVEdno3RUpXUFRwdlJ4NTlHSjc4VE0yck5ZZ3dhUXo5NWswWVhPV2d6Zms2UEFJNklEVGVSYXR0QVJ4VWVFWS0wdVo5SVhlbFdtYXNzNEJjR0RyMkdUZldZM3VLMGRXeWYzVnJGUVlYamJoNVV0RFBnTDFPQld2cXNZNVdR?oc=5",
-      "source": "Chatham House",
-      "pubDate": "Wed, 11 Mar 2026 12:46:37 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Nigeria to Strengthen Communication on Security, Immigration Reforms",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWthZHZUOXBjTkRHVlROcks1NzVqUHhyQ2haV1RHRmFqaFU4WGpZREtJQWszdkJ2TERzVEpjSUNYQ2V5eW94dkRoWEtHTl9iYUFTekxBT3BRVE1WREQwNl9LeVNuYlpGeE1NVHJMSE9ONmI5ZXZEeDQtUmlIZjBOUlZPb3pUVTBWc0hTWVRURlg?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Wed, 11 Mar 2026 12:36:09 GMT",
       "category": "Security News"
     }
   ]
