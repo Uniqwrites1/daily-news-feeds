@@ -1,18 +1,88 @@
 {
-  "timestamp": "2026-03-13T06:22:14.745Z",
-  "generatedAt": "13/03/2026, 07:22:14",
-  "totalHeadlines": 157,
+  "timestamp": "2026-03-13T09:17:11.388Z",
+  "generatedAt": "13/03/2026, 10:17:11",
+  "totalHeadlines": 159,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 103,
-    "Military/Security Operations": 17,
-    "Law Enforcement": 9,
-    "Insurgency": 7,
-    "Armed Conflict": 13,
+    "Security News": 105,
+    "Military/Security Operations": 18,
+    "Law Enforcement": 8,
+    "Insurgency": 6,
+    "Armed Conflict": 15,
     "Traffic": 3,
-    "Kidnapping": 5
+    "Kidnapping": 4
   },
   "headlines": [
+    {
+      "title": "Armed Forces Neutralise Terror Commanders, Recover Assets – Defence Minister",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTy1LaTAtZDlSank5cWsyR0ZsYlNDMXFESVQxNWU5dlVLNEdYQWRoNmN5bDRLcFIyWWQyTWtLd0J2cUpYSTZUQUZUZ3lYT3FmemVTa3F5NVRlek5pcGwwa2VWcVVqNnZTSWZUbXNIbGcyejZYeWdabjA3MVBPY1A5NXJydHJKbnJSN0VDZ2FGeVdGbU5nQmUzYw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 13 Mar 2026 08:51:34 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Skit maker Broda Shaggi hospitalised after alleged shooting",
+      "link": "https://www.vanguardngr.com/2026/03/skit-maker-broda-shaggi-hospitalised-after-alleged-shooting/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 13 Mar 2026 08:34:00 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigerian, Egyptian Armies Renew Ties To Tackle Security Challenges",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcm9pNFVwVnhKZXAyWlQtOHFmYlFiejhUb3JtVWdoVFZMczR1bjZlMFVSMHQxdUhJT2E3dTRYUWxCNHJ3TUtqUEszWG5CeVFiMHdMaUZwTUxkdGpuQmE0OUpfXzdBREg2bC1rQnhYVjlpUFVwZXI3RExBWWhleUQ4MGhMcWtPWUUwZUFGS2lxRVRXQQ?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Fri, 13 Mar 2026 08:24:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US refueling aircraft crashed in western Iraq: US military",
+      "link": "https://www.vanguardngr.com/2026/03/us-refueling-aircraft-crashed-in-western-iraq-us-military/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 13 Mar 2026 08:20:17 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria, S/Africa must ensure peace, stability in African continent – SA Army Chief",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVBsbld2UnNvSHVDazZMU1BxZkZxQV91cXNCWlZITjFwRENTXzRMaEhIb0htRkNBX0RfOXZGVVZ4a3luV1Q2NGtaRGNBNFFZRnpqa19VZm5ZemlBaVB3enB1Mmk0WXVjeFlHY1hOT0VOckkyYXczNkxDQjljTmFNUXZETVE0QnpBdmZERHFhX3l2R1hkaTFub2V6YjA2dS1GSDNmTGVUUUxTSVV6SFE?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Fri, 13 Mar 2026 07:34:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, EU Conclude Nuclear Safety Cooperation Project",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTU1aNUFwenUzLXRkMnhwZlExdzJZUUpEbW1QX1BETFBqR0JsM0VwSkIzaEF0a01NZVJadHJJN3h6bW5OdzYwZHNSQ3NHZTUxaG5rVnJYb3ItMUdLUlJ4cEZSdWpiSTRqS05XdFBpSTlxR0o4WnFXMF9DYzhMNlFaZ0xR?oc=5",
+      "source": "Arise News",
+      "pubDate": "Fri, 13 Mar 2026 07:23:50 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "UK defence minister suggests Putin’s ‘hidden hand’ behind Iran tactics",
+      "link": "https://www.vanguardngr.com/2026/03/uk-defence-minister-suggests-putins-hidden-hand-behind-iran-tactics/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 13 Mar 2026 07:22:12 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria must confront the rising threat of political violence before 2027",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0ZTUWxaT2p2cW01NVpLdDBzeXh5X1BQRWtoX1c4eHd2dTUzS2RkNDFVbHdqTktkdWxFVmszdDRSNWNSVGxjUEU1SXEyMWY1QkVsdVB6RmhMOFJXRmlGVjkxRkhxenZDT1I1b19zZjVvZVpWVmtIbDhOZFVGVHFFd0c2TVhYRTZmY0xWcFd2TW4wVm92Zk9mNFB2NzhxZ2RxT1kyc3lkU1Z1ZS05ZWJRWUctWmV2Zw?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Fri, 13 Mar 2026 06:49:17 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Digital Governance in Nigeria - Why corporate boards must elevate AI oversight, cybersecurity risk and data ethics to boardroom accountability",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ3lDWklOaHlxWklVUGs1bFo1cVF4VnVkYlctN2tBOXd4eHNyX01scmttc3dJY2ZRTUw0WFl4S3UxN3pEMWdMUnhoc0JYdmtINWFPWlpsd28xTzVjSXRyNXk5Tm52eDVmMXRveVl6UUY0Z1ctbE1UdHhhcHZvaEQtbXA2LUxBR0RzXy04YVB3WVdmcm1RY0FUVGJIdDlDdTVDYTN6UFU5LUJEZ1BvNUNHTTRhX1ZMczZzclFrNURnbDBzUDhEWDJLdmVfdTdGc3dnd2MtUE1SSWZuVURqaXNPaEpyN2NyQjNKVWhmUDNOaWQydWhsYWhhWkZ4ODZ4WlB5Zndqa2RiN0RSMGZ0?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Fri, 13 Mar 2026 06:30:07 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Egbetokun Urges Disu To Take Nigeria Police To Next Level",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkNmVjBncHFoaE1YUy1HRXhmcUhYUHp5bVdCRmptZjJEMEQ5QjZ1Ml83cHpocm15UnVkYWdKWnhHaFAza2c4bnFweEd2YVd3RzUtYzFQQkpQSEdLVHYzNlBwSjFxNjFzTlZYcHgtYTRoeTA4SVlxYXRGSUdDMkQ2NHFfX0FRUQ?oc=5",
+      "source": "Arise News",
+      "pubDate": "Fri, 13 Mar 2026 06:23:48 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "Nigeria’s security crisis and case for state policing (2)",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk91ak1nazQ0ekZRQWNTLWpwNTFsczh1ejk1eVRObFFWZXdlTl9wUjV5NGZobndydmZHelZEQm5ycHZLelBZZUt1d1pxa2RKWnBYNzJIbG5UeVpSM1pOQTB6MEtqRGQ4XzVWU3E1R0V1VzMzZGFxOThCdklwZWV6Nm0zTGpfS0lhWHV6ZGNqUVN4VFlyQXF0ejBB?oc=5",
@@ -35,32 +105,11 @@
       "category": "Security News"
     },
     {
-      "title": "Lagos probes socialite’s death after cosmetic surgery, warns against unaccredited clinics",
-      "link": "https://www.vanguardngr.com/2026/03/lagos-probes-socialites-death-after-cosmetic-surgery-warns-against-unaccredited-clinics/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 13 Mar 2026 04:05:00 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria, Egypt deepen military cooperation to tackle emerging security threats",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmladFBjb25WTTN6OW9VaXFDaG9WejRxSGZXdmY3RnJmOE5GcTU5aXNOdG9pTkxjVV96X2JYUklRNFdmRXZHR2huS3A5aGdmNVFqaEZkRlRBR2hQalZkZjNYTUVpUVhoSDlQb3R1Q19RclY3Y3JhUVlxVk9zay1iNU00U3drZHg1aW5qbmVKQzNxSTQtNlVLaWFib1BwVDQ3anNKbDYwVC1JUQ?oc=5",
       "source": "NewsDiaryOnline",
       "pubDate": "Fri, 13 Mar 2026 01:57:18 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Saving the Police from itself, by Azu Ishiekwene",
-      "link": "https://www.vanguardngr.com/2026/03/saving-the-police-from-itself-by-azu-ishiekwene/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Fri, 13 Mar 2026 01:41:00 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Violence, gender inequality fueling rise in drug-resistant infections – Global Health Experts",
-      "link": "https://www.vanguardngr.com/2026/03/violence-gender-inequality-fueling-rise-in-drug-resistant-infections-global-health-experts-2/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 13 Mar 2026 00:57:00 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "U.S. security advisory",
@@ -70,18 +119,11 @@
       "category": "Security News"
     },
     {
-      "title": "Insecurity: Because US missionary Sean Feucht wants to know (2)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHExX0NzMjJQaGt3dmVFX2VUNjYtaTlDUVB5MTRGVm1lb3hoa0xWSl8tUFMyVFE5cWVYZ0VlblNwT1hMTFNFbmQtXzl5TEpxY3VfbFV5ZlM5RlVtQndab3lNakVCQTMxTmk1LVJoeldXaWJqbWp1c1hBWGRzcENfVjlwQVU2ZzE0Zlg4ajZ3?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Fri, 13 Mar 2026 00:25:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "WPRF Committee Designates Voice of Nigeria as Key Broadcast Partner",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmhSU0xJeDRlcVQ0YWJNbTc0Y2VscjZZTzZ6S3dGVHZJX3FRT1ViaWRZdGwxX0VYRUJuVklyV3BEdjBNc2RhSlRpR2o3bTdHZ3VQbG9uOWhNSnNTQnljalVFVFN3MGVWQTltNS1pY2tPTGRjQ3VZeS1uZk9qM083VFF3Q1VWTVg3eDVzZ3VuMUg?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Thu, 12 Mar 2026 21:53:35 GMT",
-      "category": "Traffic"
+      "title": "Ngoshe Attack: ‘Don’t Be Discouraged,’ General Musa Urges Nigerians After Briefing Tinubu",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUFvanNNZEtsZllKa0xpNm9XLWQtZTNKbWVCOWItc0NyN1NVd0NOeEFUOVItRzVsTWtOdkZseVhPaXlDaGV3SVFFWm5hbWMwZUtEUV9uWk56VTFISUNrb29nSWFXdWJaaWlNenhMTVlTNHQ0VHphdVVsRlc1SE9OWkt5LTRiYjFFVkp1UzBIUzNzVXVDMWRFbU9QZVlpbkhlOE1PNldlb0t3LUYxNngtNmR5LWcwZjZKYUpmMDc0Z0bSAcYBQVVfeXFMTlY2SWlXU2s3eFRBMUczaDcyYkUtUjBKZmM5bDY2aF9OUm9rX2YyWExTR2xlNnRyQV9yWURlVHAyMXBqMm00RWRwbFVEOGl4UDB3bTF3ZlF2WnlEcWE0VEp5cFFJQlF2VTAxMVpyVzhKSmxRcWhnRVRGUFBzbUJIVm1sN0U4WGE4am11eU05V05aazFTYzhaclg1RUdiV2JSTmNBaXU2RFJtcVFYQ0RETVluQ3M1OU1Wd3lZMWZGek9NS3VmSV9R?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Thu, 12 Mar 2026 21:55:45 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria must learn from Iran, not rely on US for security — Falana",
@@ -182,13 +224,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Tinubu and Gen Christopher Musa: A new era of security and progress",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1ZzZjlxTjVVWVlUZ2VFN2Fza1J6dmtjQWpBVEE2d1NPT0pmX0RRblVrTEZ6Xy1zQndJX1ZESl9WRk1keFpWYmV3aEtXMkkzTnU5eFduSkhtanViOGtKVVJwUmhzd2pqVU5VOFA4UWlLWUJhX3cyTmZhTV83UUkwenBGckJRSFhTTHJrVmlvWTJRd1Y4SW5jX3drWllkcHZhWElMblpONUJaclXSAasBQVVfeXFMTXNWc2Y5cU41VVlZVGdlRTdhc2tSenZrY0FqQVRBNndTT09KZl9EUW5Va0xGel8tc0J3SV9WREpfVkZNZHhaVmJld2hLVzJJM051OXhXbkpIbWp1YjhrSlVScFJoc3dqalVOVThQOFFpS1lCYV93Mk5mYU1fN1FJMHpwRnJCUUhYU0xya1Zpb1kyUXdWOEluY193a1pZZHB2YVhJTG5aTjVCWnJV?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Thu, 12 Mar 2026 14:34:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC arrests ex-student prefect for stealing school laboratory equipment in Jigawa",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2FWek1zUERQb1RqWmMzVFUxeG5oRm1TOHI2YzVnV0dFZmk2LXpiNk94N2dBRi1xcFJnZHBQNGkzZ0poNEo5R0FjdENPQ2x5QXJaaDFTS19Cem9qQnVaRGRjajJvNC1KMXBUQy1tckpaY0RWSWZkUUJVU2UyeDgwNXFaUlhvN09MaEFvQ1IyU3hHYjY0TTBtcGpscjZvQlBNcWMzU2U5UQ?oc=5",
       "source": "Punch Newspapers",
@@ -201,13 +236,6 @@
       "source": "PRNigeria News",
       "pubDate": "Thu, 12 Mar 2026 13:16:07 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria, South Africa deepen military cooperation to combat terrorism",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGpvV2ZwWU91YXo1cG45ZWxZV3pEM3pfQllNaEZCRTNIMG9tcG5KZlZtTnh6QTdkNXRCekJ4a18xUWhhbzFnX2hoTHZfM1RvQzVPd2h3R3d2ckpaWk83SVVnUWQ4OWVlTWtwMGo3OS1IVi1pS3VOTk5CTEw3Y3dzWC14dEpJdkFjUkR3emZ0SkZuVDlDd011ODllRXdvbG1yNnQwTC1za0o?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Thu, 12 Mar 2026 12:16:10 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "Defence minister: Northern Youth Coalition urges constructive engagement in national security matters",
@@ -329,39 +357,11 @@
       "category": "Security News"
     },
     {
-      "title": "French automakers partner Dangote to reboot Nigeria's vehicle production with 44,000-unit goal",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWnRqTGg2VWpXYzJlaWJwOWZYekVrS0RJaEYzUEUyRmFNMlFpMG5STjAwOHFkeVZlWUlRWjF1LTJqVGg5bjBUWDk0MXNVQXRUdVhpLW81bndPZmNTWHd1TWY1UmhyUG80aS1jX2dLTXplNHBYTGRkM2RRalNnVm1tM2t5VGpfM3dOamgzajUtTWZ5am9RVXI0d2QzU29sQ2VMa3hMbjdoM21sNGhGZjE5MXVvWE5oNnVfamNqekhZcHRva2o5dTFLUjBfZ19PLW5JRXNtMUpB?oc=5",
-      "source": "Business Insider Africa",
-      "pubDate": "Wed, 11 Mar 2026 17:44:26 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria moves to counter IED threats, launches assessment workshop",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xd2Utdkd0Y01YeWZ3UDFzYUZEbnVzd1dScjQxMmVUX0lqV1VnV0RGVlNRWkJFVFExeVNNM1RZMHBkOVZOZ2VOdFFGT0xVai1CTnlfTHMwWkplMnpzRHpkZUVaSGVKaWRDWDc4?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Wed, 11 Mar 2026 17:31:06 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "FG, FEPSAN Move to Close Nigeria’s Fertilizer Gap as Government Targets Higher Farm Yields and Food Security - Federal Ministry of Information and National Orientation",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUQzUjNhV1hQaFRZSWFnWE94UjdmTGFRYlRxTk50ZVNDSmZxLW42b21ROF82SDZJdGQxVkVaWUsxOEh3VlF5MF8wRGNEaEZ2bjBnNDV4WHlxMHZuZUxJQ2R5SFZ0eC13NFBscEFOSUxtNExSNlY2QXZPREkzRlJuenQ0UWpqZWZfVlB0NjU1NjdsVUI1Vm1TcGRNbmFPLW4wUjB1VDNMWVlieHZxbXRZNlhadmM0Y2MzZ1pGMXc2Z1pMUHBZYzlZ?oc=5",
-      "source": "news.google.com",
-      "pubDate": "Wed, 11 Mar 2026 16:30:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Moves To Tackle IED Threat, Begins National Capability Assessment",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG5idnNjR1hQcUtlRWo5QllHbHlyZ2ItdS1RaUg2a0hMZW9CY19HQnFlSV9tS1JQa3pRbmZZUTZOUWlPa19qMGlNRm9wa1VCakpaUXhLZTRCS1liZEFsOUk3d2xjN2FsM1J0eF9yTkxaampqOF9GOHNoUk9WeGViSE1ybU5mZTlTRUJiczhuQnVWRmtkTC0w?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 11 Mar 2026 16:10:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security: Kogi presents patrol vehicles to Police, others",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtPQVVjWWE3Zy1LVzlVOWV3TmFJZ1NJc3pzbkxSdVdGaU01WE5WZkI0cVZtcTc0RWpQdnZaTG84SGE5NXZOSno1YThtcE5vMHp1RnVxOE56NDBGNTNTaFJxZlYtVm5IQTVfTlJTTmhRNUV6SllsSFNmNHJzYkN0S3h4X3hIdkFtbzNBMXpn?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Wed, 11 Mar 2026 16:03:23 GMT",
-      "category": "Law Enforcement"
     }
   ]
 }
