@@ -1,45 +1,80 @@
 {
-  "timestamp": "2026-03-14T09:12:44.947Z",
-  "generatedAt": "14/03/2026, 10:12:44",
-  "totalHeadlines": 159,
+  "timestamp": "2026-03-14T12:13:11.547Z",
+  "generatedAt": "14/03/2026, 13:13:11",
+  "totalHeadlines": 156,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 11,
-    "Security News": 102,
-    "Insurgency": 6,
+    "Security News": 104,
+    "Law Enforcement": 9,
+    "Military/Security Operations": 16,
+    "Insurgency": 8,
     "Traffic": 6,
-    "Military/Security Operations": 15,
-    "Armed Conflict": 13,
-    "Kidnapping": 6
+    "Armed Conflict": 9,
+    "Kidnapping": 4
   },
   "headlines": [
+    {
+      "title": "Defence Minister: Group urges responsible public discourse on national security",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnFmb0N2LVFQanpuaTY0Z2FJZFhlOVZ3eTFpLWZ0UFR4UWhxMENGYmhHM3RuNXFrQ2V5MDhta3B6c0g3WGNGNS1vM3h5cFJhVGxnWVFjYi13VThlS1lvYUN1amMxYTdmX1pIdFMyakpFc29XVzZVUTVGUndjRjRaZ0lENW9BdGJFQ0lsbXd5TDlvczNKMVZNWnRVcm55eE5WbDZyUWxVVXFsVDNQR2lmYWNaV2h4UdIBuwFBVV95cUxNQUt6dFFNck9QTkNiUTBEaGpKLTFxblhCU3NHZEZOZS0wQ1MyclFxU2d3UmNlcVRmSlVtaXp1N3dSdXN5WXRldHZzZVVycDhwUXhzYTdDYkw5MkgxMUlXSGpZNWhQZFV1aHRfbVlLRVlIdkx2SlNKZlB3d0RCM3ljS2VteWpOTG1ZQUlGeTRlbUlNSDlwMWlocmQxMVdhMDVGMll1blRJOEdLLUQ2czktWDYzYjRSYVlHWTVJ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sat, 14 Mar 2026 11:38:14 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Alia condemns Apa killings, assures Benue communities of improved security",
+      "link": "https://www.vanguardngr.com/2026/03/alia-condemns-apa-killings-assures-benue-communities-of-improved-security/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 14 Mar 2026 11:30:09 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Iran war: Nigeria must not rely on US for security — Falana",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2J2RlNrZzhRVFRSbU1xdGFsRkZaZXowUTktb2lIZDdXQW41NHBaMmtBVEFOV1lkZmFRX180MzRfMU5RcElzOXNtWXdqXzV3X0Q2WHh0NkpwOVEyaGw4STBqeW5KVFU0VHJJV1hDdG9oNDZOdnRSQ0hUbHNYOWgySEF1bmpDM2ljdXZYVHo1VDd2Xzk5?oc=5",
+      "source": "21st CENTURY CHRONICLE",
+      "pubDate": "Sat, 14 Mar 2026 11:11:47 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "yr-old boy stabbed to death by friend in Ondo",
+      "link": "https://www.vanguardngr.com/2026/03/18-yr-old-boy-stabbed-to-death-by-friend-in-ondo/",
+      "source": "Oboh",
+      "pubDate": "Sat, 14 Mar 2026 10:51:51 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests four suspected phone thieves in Kano",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNUFXb3h3ay16YWFpNUlaUDQwNGppQ2xiclpwZS1kXzdRdDNwLTFkc0haOVVWZk5vNkdMQlc1YjBNQXZDYXVJSWlodVpWejhrMldGaDR6cnJMdWhqSl9rSGtMT3JyTHZVZXM2WDVwaTMybXBHeGQ0cmc3eG1aSnc?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sat, 14 Mar 2026 10:43:33 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "cashew farmers killed in Benue – Police",
+      "link": "https://www.vanguardngr.com/2026/03/6-cashew-farmers-killed-in-benue-police/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 14 Mar 2026 09:58:59 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NSCDC Officer Killed During Palliatives Distribution In Kano",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGN3bkdGQ1RZNGJWTkR3cXVhNmFYTHNNNzlEclpfQXU4UzZEYkc0M0RuSm1RTV83Nk1IR3V2OUROYkRYSHI1RGdCX1ZHVWhITmZLRlVKVS1EWjkwdllEbzJTN3I1QS16bnhiemFFNHh6TExycEZ0MHBONDczWHFHYU1yZ0d5aUx0Xy1TLQ?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Sat, 14 Mar 2026 09:52:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Rev. Fr Michael Olofinlade: From the Golf course to kidnappers’ den",
+      "link": "https://www.vanguardngr.com/2026/03/rev-fr-michael-olofinlade-from-the-golf-course-to-kidnappers-den/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Sat, 14 Mar 2026 09:31:33 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Waspapping Arrest and the Battle for Free Speech in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY3RFUG1fMmVxcUFROFpoVndWcEdkRjVjZ0ZjNGo5cWZndGNYQVZkVXhwQmZJM085RGNBMlJmdWxtVlkwUklFTlQ3aFV6SlZrOU1uS2t4UHpCeF9Vd0lZNXZiRW1jS2Z1SEhVVFloTnB1el9XUE40Y20zYUZyN0FOb0N0ZExkTnBrREF5Mnc1clFESi0xRlRwd1ptY2NDVjM3?oc=5",
       "source": "FRCN HQ",
       "pubDate": "Sat, 14 Mar 2026 09:00:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Military eliminates 30 terrorists, rescues dozens of victims",
-      "link": "https://www.vanguardngr.com/2026/03/military-eliminates-30-terrorists-rescues-dozens-of-victims/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 14 Mar 2026 08:23:14 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Teenage boy stabbed to death by friend in Ondo — Police",
-      "link": "https://www.vanguardngr.com/2026/03/teenage-boy-stabbed-to-death-by-friend-in-ondo-police/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 14 Mar 2026 08:05:52 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Attacked by Herdsmen, Detained by Police: Double ordeal of Delta cleric, farmer",
-      "link": "https://www.vanguardngr.com/2026/03/attacked-by-herdsmen-detained-by-police-double-ordeal-of-delta-cleric-farmer/",
-      "source": "Oboh",
-      "pubDate": "Sat, 14 Mar 2026 08:04:01 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Group Backs Tantita Security Services, Demands Sustained Surveillance",
@@ -49,39 +84,11 @@
       "category": "Security News"
     },
     {
-      "title": "Explosions rock Baghdad as security sources say US embassy attacked",
-      "link": "https://www.vanguardngr.com/2026/03/explosions-rock-baghdad-as-security-sources-say-us-embassy-attacked/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 14 Mar 2026 07:37:06 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Iran, US threaten attacks on oil facilities",
-      "link": "https://www.vanguardngr.com/2026/03/iran-us-threaten-attacks-on-oil-facilities/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 14 Mar 2026 07:12:52 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Sam Amadi: Nigeria Struggles With Unclear Assessment Of Security Risks And Challenges",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTQwWDJKbW1RY0NXdjVGSW1LWDlVOWFyOUVoV0tyN1pIX3ZvTEd5UWpIMFNlR3FKR2VucTBwc004T0ZWelp1VlpkOWZrY3pXX192YjY3NkhsSlZ0aUtmbXJ0TzhQUHNDd3NOMmp4eUczcllRUkhCbkJVVWFXdjJHa3pfUm1wcU4wLUxBQ1VjMzZBNElGOFJYUUNtMC16VURaLTNpX2lvYjlsQQ?oc=5",
       "source": "Arise News",
       "pubDate": "Sat, 14 Mar 2026 06:29:48 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "The strait that holds the world’s economy hostage, by Stephanie Shaakaa",
-      "link": "https://www.vanguardngr.com/2026/03/the-strait-that-holds-the-worlds-economy-hostage-by-stephanie-shaakaa/",
-      "source": "Oboh",
-      "pubDate": "Sat, 14 Mar 2026 06:27:42 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Iran conflict could strengthen naira, reduce borrowing — Jimoh Ibrahim",
-      "link": "https://www.vanguardngr.com/2026/03/iran-conflict-could-strengthen-naira-reduce-borrowing-jimoh-ibrahim/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sat, 14 Mar 2026 05:40:29 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Reforming Livestock Farming For Security And Development In Rural Nigeria",
@@ -98,6 +105,13 @@
       "category": "Security News"
     },
     {
+      "title": "Chevron Nigeria reiterates commitment to Niger Delta development",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFpMLUNmR01teWZHZzB0WmRzR0M5c3F1cHZaeGpFdVJtSUE4QmZ6YUFzZ2UxaU10XzM2SFRjNHlhdkNraGhsbGE3ZnphT2xrU2Q2clJsQThSeGthY1JweDNhcVFMR1lDTFgtdE9vTVpjMWdlMGI1dHhhNW0wN0dnMUF4cl84cXZMLWNEZ3lKbVlxcWpIaWI1ZF9WOTl5M1FseFpCRjln?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 14 Mar 2026 05:20:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "INVESTIGATION: The illegal timber trade fuelling terrorism in North-central Nigeria, Benin",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajVncGhZamk0Q3ViTGJYeS1td0F5d1dpVTdkY18wYWNyTTliWUpOSkE4TVJWYmp1TEE2V3BLWEJYdk5JVzFfOUNIRE5rZWg1and1Q0drSzhSTm1aQkxfdXNzSm9uY3dXejdINmluQWJNeERlMldVSFV2dy1LZ29SbWNGUDRtcm1qSHpBNzdhYml3djlnX083TjJYaERlaF8tV2lmNk9DOGxxTUFIWUd2UDZ6cmFBNmVhR1FGOEdRMktjWVBkbmpRRl9VeHlSWjNmU2ZiSnhzcHpvSkRrUUtrelNJWFZHajZSOVh3?oc=5",
       "source": "Premium Times Nigeria",
@@ -105,25 +119,18 @@
       "category": "Insurgency"
     },
     {
-      "title": "Chevron Nigeria reiterates commitment to Niger Delta development",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFpMLUNmR01teWZHZzB0WmRzR0M5c3F1cHZaeGpFdVJtSUE4QmZ6YUFzZ2UxaU10XzM2SFRjNHlhdkNraGhsbGE3ZnphT2xrU2Q2clJsQThSeGthY1JweDNhcVFMR1lDTFgtdE9vTVpjMWdlMGI1dHhhNW0wN0dnMUF4cl84cXZMLWNEZ3lKbVlxcWpIaWI1ZF9WOTl5M1FseFpCRjln?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 14 Mar 2026 04:37:05 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Public-private sector collaboration will deepen Nigeria’s response to security challenges – Igbodipe",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenl2TUNHMFVoNFNTZDJBZlVfbFVKNHdydFpGT0pVd2VzUUhMUHZna3dqTHBGZW1FMTNvN0Y4UnQzZW9Yenlabm9ja2xhY0ZvOUM2ZkFOd0haWlFyMk81YjZXQmxYSFNEZkdwMFJUT2Q1Z0NrYmhzcXMxTG9JanRRbDVHaGg2M016bDA1V0VYVVZKQTJxNS1XckVCaUI5dTdvVkRaV29TZTZFUHdWcGhLTklxOXM2NHNPSXpVT3JnXzhWVTlxenhj?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 14 Mar 2026 04:25:49 GMT",
+      "pubDate": "Sat, 14 Mar 2026 04:36:00 GMT",
       "category": "Security News"
     },
     {
-      "title": "Promotions Amid Insecurity: A Test For Nigeria’s Police Leadership",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNl9zbkZtRm12YjVhLXZSTU02OVNoU01wS0Q3Szd1Y0c2VEFMZmhfNzkwNEl4Um5MYzRIOUtTWHlVa1VtT2JvSFBEMnpsU05tV2w2VUV4XzhUdkJfanphTDdSZGVNVmxCRDVuVjFjSlNSOF9JVXBqMXM1Z1Q4U0h0RW9XM1pNSHlXVXRYYjczQm93Zw?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 14 Mar 2026 04:07:54 GMT",
-      "category": "Law Enforcement"
+      "title": "NCYP Backs High Chief (Engr.) Kestin Ebimobowei Pondi, MD/CEO of Tantita Security Services Nigeria Ltd",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkoteVgwbmpTc2s5Q29WVVprTy02OThhck9VbXVsbGNyS0FTazdPRjRTdF94WGZ6ODd1Vjh2Nzc1M0dnVjdoTEdSdVFJamc4LXNpalNfSWlnSVNKLW12NkUtZHppaDczSHN6bTB4R084M3c4bXlHcnAtRUJpQXhyMzltMmdpSUt3RjQ2dkFvUGw4UUhxZVhEWGk3SmdfVHk3NnlqZV90WDZjZzM0NHhwUjZrczhBcS15NUNvU19RS0lSaHM?oc=5",
+      "source": "aljazirahnews.com",
+      "pubDate": "Sat, 14 Mar 2026 03:49:50 GMT",
+      "category": "Security News"
     },
     {
       "title": "Deadly Cooperation Among Terror Groups In Nigeria",
@@ -131,13 +138,6 @@
       "source": "Eurasia Review",
       "pubDate": "Fri, 13 Mar 2026 23:51:09 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "‘Nigeria’s Military Led By Incompetent Leaders,’ Military Strategist Knocks Service Chiefs Over War Against Terror",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0JCMm92c1phZXJGM0F1ekFxNEFnYktPVXVTU2tPN2RIcHJ1a0djVkViX0p5dXluUWpaUC1tQ0RNYnFvWDAxaHVTSThUcFlWLXpJN1I1ZzN0OGJfSElKbnpVTFhoNWNYQ1dMaTFWRHpwelBGcUItZzdsTW5yamN3azN6aDgxVHhiYUdQdmhMS1lTVExnbWpua0VaQWlqS2tEZ1N3UkFLQVFLVzhmY3J3MHFFa0N5OUIyYmxSRmdRbFVvSHRjTnc?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 13 Mar 2026 22:25:57 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigerian troops reopen road shut for years by IPOB",
@@ -161,10 +161,17 @@
       "category": "Security News"
     },
     {
-      "title": "AACTING Project – Final Evaluation Act Against Child Trafficking In NiGeria",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmFoaGgwd0Z5VHRRNGtOd2FmY1YyUVoyU2dTdFNiN1E4X21UQ3dDLUQxRTZpVTl2Q1V0UWNqRzdmU1ZoTkdRM0lGbVZoLWR0UDJ6RldhdGlnZ2pyVVlUZjQ1UHdBSFpQOVp2SHl4dFhDVVpRMThjQTYwTTJmVlp0dTluUnNJeEFWU2ZLQUg5SkU1TlVLQUs4RlRlS0MwMGdQWERJZFp2MW9YV1NqXzFxRHYtWW9FWHpxcXc?oc=5",
-      "source": "Coordination SUD",
-      "pubDate": "Fri, 13 Mar 2026 18:43:01 GMT",
+      "title": "Breaking: Another popular Nigeria gospel artist is dead |",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm1xYWF5SVRtc0ZUZnVIeE81dEZxYzNoUlYxRTFtUFBqYXNqQnIyb2tHdkNXVnJMdWQ1QXc3Z243OVY5ZTRiVVk1Yzh2bmhndTFiRmNBSWYwMF9KeE4yMUg2NWNOUkFWRDhlajNDNkZrdVJXOHhwbGljMlZmZWYzYlhyY21wNVY2NnQ1dTRn?oc=5",
+      "source": "theeagleonline.com.ng",
+      "pubDate": "Fri, 13 Mar 2026 18:56:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Army reopens Imo road shut over IPOB activities, detonates IEDs",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbi1XVDlnMmN3MEtkdFFWaHhUcmREYW5UQnZSSnJiTzJ0YXphcjVOZjRSVnFjMjhSNmJTcXh4YnltQXRnYVU5TzE0U2pycmo2MWFQSC1rcHFVTUJzV0oxdnA4RUhJZ0prWDNLZE54SENLckR5Qm04VFdJTGtnMm1iclA5d2tWM0l6cTlkd2luQQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Fri, 13 Mar 2026 17:41:34 GMT",
       "category": "Traffic"
     },
     {
@@ -187,20 +194,6 @@
       "source": "Voice of Nigeria",
       "pubDate": "Fri, 13 Mar 2026 14:04:07 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "ISWAP’s deadly Ramadan campaign and Nigeria’s military response",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1A3cXAwcXNzZ2ZQSmRWZ2FIdlpiNlRMN3l6eklGNzJ2MVd3Rk5yNHB3b043Sjd6YWNfcG1JRnFBYUEyRWRSd3ZGSEYxWHgzNkdvbFYyalkxc0pHYlVpME9ZWWZKdC16N1hOVkxSQS1pcWFJTFFxZ2NLb3FNZklaRC1UaTlIVkpQMnl2aFdQWVRvNkdX?oc=5",
-      "source": "The ICIR",
-      "pubDate": "Fri, 13 Mar 2026 13:47:28 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "NSCDC arrests four suspected phone thieves in Kano",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDN5SkllbzlCaFhxUzR5Z3ZQNVNuMEJsVlBJek8wVWNocmJQMGF6dW9YQWNjSjh5YWhTWkxSZ2YyODJabjJSSi1kZndNQnp2UUhBVDNKQ1Vha3p6ZHp6b2pWNURaZHlLcGhmSk16T01GYllnNC1pUTFZRFp1bFViZg?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Fri, 13 Mar 2026 13:36:17 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC arrests four suspected phone snatchers in Kano",
@@ -284,6 +277,13 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WX3R2cVVaTlpobEVOZm1velUwWjBjWjdLeHJpMS1RS1dlX2xXaDExNWNISEF4MWdRTFpuNmktYVlWc193V0dfTUNIXzBlM3NJMjQtUXRXaDNPcElNcDFMdUdB0gFnQVVfeXFMTVhNSlBocm5TRm5ILTVZUnVNOUF3elJFVkQ4WVFjUGxoZzJ6U3hDMmJTMGRwVDNQMmFYS3pCYnplNHNZRzR4cWFVdkNlb3dqUTBNYldndTVMZ0lac2FBb3VERU5FMC1QMA?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Fri, 13 Mar 2026 00:50:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "ARCO partners firm to revolutionise aerial security, surveillance in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEtmR1hjUFY5SE9mY1FYMEhPbDFHeDdmQ2RJN1ozT3hmbXdmMHktSmpJblRYa05uLVZnWFpWcjVEZzBOR3pWejNqNWF4WUR5SGRqc3FtaTlSbFNzM2RjbXd4N3NXR1lTTC05RGpTYzBkZmJpVUVsZ2ZjYWRuTFYxYTBDY2N4UkZ6d1h5RmpLVVRUUlBlZWx6Rzk1djhfTDl6X3BPQ19MWdIBrAFBVV95cUxOZTFBc21CX3k3NWRSVTR4dDBWdlJWV05Sajg0bzA3Yy1PcktycktVMm9ocFdnejhnZ21TUVRKb0gtMGVLRnZraTdTSGRGdDZwTWozeHRuSTd0NHRZUVlTdGR1MEF3aUczQXpMWEFPT0VQcnlfRVFaZnA0ZU5HeXdZZ2U5c1I3VnNmUUFCY21wUzlmTTl1bVJFSlloaUE1QzNuTFQ5T2pWZVBLNndn?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Thu, 12 Mar 2026 23:39:00 GMT",
       "category": "Security News"
     },
     {
