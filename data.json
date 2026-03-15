@@ -1,19 +1,54 @@
 {
-  "timestamp": "2026-03-15T15:10:38.753Z",
-  "generatedAt": "15/03/2026, 16:10:38",
-  "totalHeadlines": 177,
+  "timestamp": "2026-03-15T18:12:42.344Z",
+  "generatedAt": "15/03/2026, 19:12:42",
+  "totalHeadlines": 167,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Armed Conflict": 13,
-    "Security News": 120,
+    "Security News": 110,
     "Law Enforcement": 9,
-    "Traffic": 11,
-    "Military/Security Operations": 12,
-    "Insurgency": 5,
-    "Kidnapping": 5,
-    "Banditry": 2
+    "Traffic": 8,
+    "Insurgency": 6,
+    "Military/Security Operations": 10,
+    "Banditry": 4,
+    "Kidnapping": 7
   },
   "headlines": [
+    {
+      "title": "Army accuses pro-IPOB actors of online propaganda to discredit South-East operations",
+      "link": "https://www.vanguardngr.com/2026/03/army-accuses-pro-ipob-actors-of-online-propaganda-to-discredit-south-east-operations/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 15 Mar 2026 18:06:10 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Cold chain infrastructure key to solving Nigeria’s food security challenge — Expert",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1ienVhQU1iMUZaMVl2T3Bud21pVjRoa0lJcFdxNUJnWGd4QTFuZFFDSzZyT1NDTnhVZFpGYm9uV1JxN3dsaVkxbU5BZFFrY3BLRmUxVzdjZExtVzl0ZjJKVDVwSGFjdDByTHNhcFNCMUJuSW8wY0dRQ1NINFYwTHBmU3ROc09yeC1Pd0kzZmlfdDFxaEVWcGtXOEROeWo5YWVxME5SaFo2MTFmbmluTkc5cHNGY0hhVk9aMVBrN3dJTjlQTFkxai1fV1RuMHBhQ0Jn?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 15 Mar 2026 17:25:04 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Netanyahu mocks social media rumours about his death",
+      "link": "https://www.vanguardngr.com/2026/03/netanyahu-mocks-social-media-rumours-about-his-death/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 15 Mar 2026 16:56:17 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Army, Community Leaders Strengthen Collaboration in Kano",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWpzdGotZ2IzQjd3cDRFdVVmR2pHWlhXdzFLd2w5YkJMcVQxNDN6TWlEU25fVlN6UlRLSHRlanpaczFDR2tQaTYxQlNVcjJVaFJpLUVpUjJZdDBPS3FfSXNVQm9jTmNOdnAyU2VlM08tekJoMVdHRDRqMTdkeWFJWllnakZsZXlYSkJmVg?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 15 Mar 2026 16:46:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerians react as bandits kill 12 soldiers, 8 vigilantes in Plateau",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc29CT3BYS0NKREJWUmM5VV9EbExEZXRKLW9DN2dySExJNWVzXzB0dDFIaDcyV1VyQk9ObEpFcmZmWHEwN3diOGVNUjM1YmVZbEszeENJNmdleE43NFZjNnNsa0FnbGdfQU81a2FQMVpVeFRYa2trakxWRXhYWDVkU3BncnJEQnQ3cm5ETU1IREtnM2RCV2t0N054MjZQOXFzY2tGVzJ6SWN4dUpBNWc?oc=5",
+      "source": "The ICIR",
+      "pubDate": "Sun, 15 Mar 2026 15:34:49 GMT",
+      "category": "Banditry"
+    },
     {
       "title": "Kano Police Launch Probe Into Death Of NSCDC Officer",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hOXNZWXBzLXlTZDVTajJrZWdLRnZKTW1uQW9mMmM3R1U1SzVJR2NobU9aakpISFM2UjhBZFc0Nko2N0ZKZU1JOHAzR3o1WENZLTJiSnRfX19XTzU5ai1lMlRIXzN1c012MmEyd3Rmd3ZJLUJWYVRJWmFWSm8?oc=5",
@@ -27,13 +62,6 @@
       "source": "SABC News",
       "pubDate": "Sun, 15 Mar 2026 14:57:21 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Economic, trade co-operation between Nigeria-India growing steadily — Chief Sanjay Jain",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3hzeFRaT0o4blpmcEdwRV9YQ1pSYXdYQVpONU5IMUhzX3B5UWtlSklMc21EZ2VJVTQ1Q1NGeGVPM25fWGZ6WVFocjFGQ2hiZGlaNmNNYWhHdFlMWnZHS2YzNEUyV291T2pBNFlvTlNraHlKdWtmS3Y4S3hGR2pQWXZtc3poSWNILVRaWWQyUzBmSkUwY095YnRJbno1WUVOWEtKc2s4QlppYmlvdVFUdnA2XzBlaTRmVV9pM3ln0gHDAUFVX3lxTE9pcFB6ZmgzOWUzNVFDbFBIMl9Da1hUSzc3V3c5aHY1R01OQmR4RDdKOF9raENVYUxYOXdsblpTMGdnbUFwMlZrd2dReWpjQmMtTTNmT2FTUVprTHg2RTlhaWJVdDVGNFQ0ekU1LVFFRDdDV1lFbU1Wc2NtdkxrbVhQZEMzOVQxWU0zSE0ydXp2UXlDTWRoZzlQN2NfeG9sZnI4WjVzMU92SDIxU1RjdXd4eVJJVF81THlUNWZBME5OVVg0Yw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sun, 15 Mar 2026 14:44:23 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Fear grips FCT communities as suspected bandits issue attack threat",
@@ -50,32 +78,11 @@
       "category": "Security News"
     },
     {
-      "title": "Baba unveils music initiative to tackle youth violence",
-      "link": "https://www.vanguardngr.com/2026/03/2baba-unveils-music-initiative-to-tackle-youth-violence/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 15 Mar 2026 13:50:40 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Birnin Gwari Road: Uba Sani will break his own record—KADRA MD",
-      "link": "https://www.vanguardngr.com/2026/03/birnin-gwari-road-uba-sani-will-break-his-own-record-kadra-md/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 15 Mar 2026 13:46:30 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Compulsory Retirement Of Senior Security Personnel: Matters Arising",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDZrWjhfTmpnS2lwSzFlSkRqOXFZaXB0LVNWUEVKcTJFMjZGLTRseEd0WWxSNDc2RVpkUGRVdnVRNG1XUEFWendzd2dVNDlXQ1hpNUxGSnhJbF9DWFpkakdBN05IVjJqTndWTEQ2ZzlVQkg2ZEdZUFNIa2l3WnlHMXFsekJfdDZvX2tKaXRLSzVHVGhJ?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Sun, 15 Mar 2026 13:38:01 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Edo Police order probe into school bullying incident in Benin",
-      "link": "https://www.vanguardngr.com/2026/03/edo-police-order-probe-into-school-bullying-incident-in-benin/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 15 Mar 2026 13:33:35 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "ARCO Worldwide Services Partners DJI To Revolutionise Nigeria’s Aerial Security, Surveillance",
@@ -92,25 +99,18 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigerian Breweries, Guinness to hike product prices, cite ‘rising operational costs’",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOFY2Z0VUbGxSSWNmbnh2VTR2eGJZbWFrd1padjRPUGZxZFpPMld5TTZtUUF0cXZBYzF3TzJLTWN1TU1HZlJoYzZtMEdkMG5fQlA0Y3FUWGRwOG8zVWhDZThyWExGQ28tLXJoeGl0a294WklWUlZVY1dHWkdIRWNzY1BueFJDMEstOW8wYWZEQ01RazlhOFRfNFAwV1FzXzBoWDVNRE1JZEI?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sun, 15 Mar 2026 13:14:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Gunmen kill 20 security personnel in ambush in central Nigeria - سانا",
+      "title": "Gunmen kill 20 security personnel in ambush in central Nigeria - وكالة الأنباء السورية – سانا",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hdHFJYUUwejYxbXd0RjE3NThuOHAybXF3c0RvV05LNFBEUkhJVU83VThtelkzbnRXRWlfN2RrZjNPaU9IWFcyT0tiT2hjR2ozYUVj?oc=5",
       "source": "news.google.com",
       "pubDate": "Sun, 15 Mar 2026 12:58:12 GMT",
       "category": "Armed Conflict"
     },
     {
-      "title": "My son crying on battlefield, says soldier’s mum",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmg1cXQtUkMteFE3dm5ORUh4ZkNNVnBOYTRnZU5ZUGFCbHdSNThBMEt0akJBV3JKQlBNczh2eDNrbE5lbDZkX1I0TFBaTGg5RDREeVllOTVmeVcyaldrb1NDRkp4RlF2aFNSVVNDdVdvTGl1aWZ1VG1GdHZudERTZW5zYXBPdzM1bFZXTDU2eEJmbmtMdXA3STMwLUFwUlhPVFJPNC1VZGo5bkFJ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sun, 15 Mar 2026 12:47:40 GMT",
-      "category": "Security News"
+      "title": "Deadly Ambush in Plateau: A Dire Warning on Nigeria's Security Crisis",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVEZmX1p6MUVQQUVQa3pMa3pHR09vS1ZQYU9sblg2VGY2U1JoMmtaVXg0Q0hEc0xOZmJvWWVNZG9GdTlOd09NNGctTi1KZnlDLW0tWU5CM2wtTHptUXIyT1dXVXBiM2FUeGVjVmVTdGE2dk1hYlBjZWwtZVNPeFFwRmJNV3BGbUt3RFRQOW5lS2VCRlJQUGlmOXVZU3V5Sjh4Mjh2SGJ0SDlXdVNQdV9ERVRJTWVTM1g2dWx0bno4UdIBxAFBVV95cUxONXZDcUstNGE2TFdheTdUQ0ZlZXpkWGIzZ3lRRDFiYnY0WW1Fak1TcDRkejBpYk1ILVQ5bnlnaXMtYzl2aG9XMGN2Z3BIaDN5T3NUS1l1UEo2cmZGV0Vma1dVenQ1THY5RkdyaG9GZmlzRnY2UHFuSnA0dE0ydUpQM3lFQWtqVXlnZzZKZkRfMUtRN21JakJFdnBHdGNVcDNLRTNSdFk0bHVlTktHUHVSS1l6OXJiSS1kZFFPck5WOUN0b0xx?oc=5",
+      "source": "Devdiscourse",
+      "pubDate": "Sun, 15 Mar 2026 12:27:18 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "NSCDC Officer Dies During Ramadan Palliative Distribution In Kano",
@@ -141,6 +141,13 @@
       "category": "Security News"
     },
     {
+      "title": "Lagos neighborhood security agency arrests suspected burglar, recovers gun",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVBtbVdqYUt0Y2RjamxSejRoYllCMkN4Z2YyYlhwdlY0OE02UUNjM1J4enJtNEJMLURoT2FzSE1DN1dLRVl0UUZ2U0FKQkdtNmdHVmJjLVI0cTIwRDRHcy1kdnV0ZkVZNExxM202ODVMN3dMQVRaaEt1RnUtdmQ5TS1lcmxBYUFld29fcW15YmVMS0lqcnlIQXAtbWluZEREbEk0REJUaENvQQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sun, 15 Mar 2026 10:30:13 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Businesses must view security as a strategic investment rather than just a call centre – Proton MD",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWhhdHVHdDI4YWExdGxCbWt3blZQZVFxTEdDWGdEQ2NibGlqZWRSUWEtY2NmY1JIV1FKcWRESzE0OC1VcVgtS1hxNEZhOVJEb2JDMC01SUdhXzJkcDdJak90aHZCV3N0RVA0R2M1a29taHNOWkJjNmNybkVwdnhDYnNuZ3lFZkc5WXp5YzdHYzZNMmVPazlfSXhLSmhoU0ZGaFZ5aVZ2Rm95R09RVTJ1NGlrb25YbmhYbkRqbnU0eVlfSzlPcDNDdWZmNHhITmVYV0NqZnlMQkRodjhsMkgtR2ZQak0xaUZNRzJOZkhNRjV0Vnoyd3g5MGxLWmI0ZE9tRE9UYg?oc=5",
       "source": "Businessday NG",
@@ -155,13 +162,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Insecurity slowing Nigeria–Japan exchanges — Experts warn",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWhDR2w1bEdESDJHTXM2elVaOXdzbng5ZElOOW1ZMXl0UGZNbXNVVU9UcmVldWZwTzNuc2I4dHV0V1pQZ3NWaUVjdHZxemJQa3JwdF8tSUtvcGo3T0U5eWJRalF2LUVhQVNlMTFRUzluQ1dpWEVybkFkSVhKV2FWVFU2VWpmcnZTZWQzSHBnSWNxOFc0elJZ0gGcAUFVX3lxTE11ZjlySGUyWGFUTF9tQ09JTl81bE1PWUUwaWZWTG12WjV2R1hZc1hHaHNyZEh5YkJId2pwcG1UTXFjSm90S0xHamUxUVpxQXBHa2hNeTA1OGpYOUk1T05aWDF2T2dtMVBBd1ZlYXJ6SFZBTEg0Yi1qOFhQdUlZZFFVT2xZX3F4bDhFblVKUFhLTzE3VDJBdXU4R0JFcw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sun, 15 Mar 2026 08:17:31 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Human traffickers are using football dreams to lure young Ghanaian men to Nigeria – how to stop it?",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5OZVgxZDdvOFNPNTN4a3Y4ay1QUDVIeWw4MlprcUdvLUJXdjRMRGl5eXU4cE16V09OMGtoUTg1Y2U5aG9lTUJNU3NaTk1xRW55X2RFLTJIaVk0ay1GdVU4YUpGTWs2bF9Rd0N3bVZmS28tM29fWUJoOUNoWklGYWFSSGNadml6MjhSZ0FFa0JwQlZsSWpwdkM5Tm95eUUtRkU2eEpfQ0NjQ0R1TnhHdkVqbDBicHQ1NDJ5VmNSUHdncm9LZnZwRW1qOA?oc=5",
       "source": "The Conversation",
@@ -174,6 +174,13 @@
       "source": "Punch Newspapers",
       "pubDate": "Sun, 15 Mar 2026 07:31:44 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Dead, Nigerians Injured As Iran Hits UAE Again",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pYnBjM2NrZ3UwZDFzZmU2dldHV2o3UGhVY0YwOEJ2blFRa1JHNmtqUFZvS01DRVlGRmZ3X0JsWW5PZDB0SnhUbnJUaHNLSzdMNHNlSGFMYmYxTm1yRW1LSzUxR3cwc1VsTDVEdEFzYS14S25jd05tSEZabw?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Sun, 15 Mar 2026 06:51:55 GMT",
+      "category": "Security News"
     },
     {
       "title": "Police begin investigation into death of NSCDC personnel in Kano attack",
@@ -295,13 +302,6 @@
       "category": "Security News"
     },
     {
-      "title": "Group Backs Tantita Security Services, Demands Sustained Surveillance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeExyUV9BLVE1czVnazZteGZ4RUVTZ1RRdzZaVFZFa3JaQ0xKeHp3TWZDSmZ6N28ycTExckhuaXZjaE5DZUc3VXZfMzRNUjJZM21XaW5Gc0t4c2MwczlxWjVZelhrczdrWks4ZFVyMlFRTi03R0hXTEhfRWFpV0V1Zl8xZ1RaTnd3YS1ESXJiVHNoTFpoY2c?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 14 Mar 2026 07:49:01 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Sam Amadi: Nigeria Struggles With Unclear Assessment Of Security Risks And Challenges",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTQwWDJKbW1RY0NXdjVGSW1LWDlVOWFyOUVoV0tyN1pIX3ZvTEd5UWpIMFNlR3FKR2VucTBwc004T0ZWelp1VlpkOWZrY3pXX192YjY3NkhsSlZ0aUtmbXJ0TzhQUHNDd3NOMmp4eUczcllRUkhCbkJVVWFXdjJHa3pfUm1wcU4wLUxBQ1VjMzZBNElGOFJYUUNtMC16VURaLTNpX2lvYjlsQQ?oc=5",
       "source": "Arise News",
@@ -344,11 +344,11 @@
       "category": "Security News"
     },
     {
-      "title": "Army reopens Imo road shut over IPOB activities, detonates IEDs",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbi1XVDlnMmN3MEtkdFFWaHhUcmREYW5UQnZSSnJiTzJ0YXphcjVOZjRSVnFjMjhSNmJTcXh4YnltQXRnYVU5TzE0U2pycmo2MWFQSC1rcHFVTUJzV0oxdnA4RUhJZ0prWDNLZE54SENLckR5Qm04VFdJTGtnMm1iclA5d2tWM0l6cTlkd2luQQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Fri, 13 Mar 2026 17:41:34 GMT",
-      "category": "Traffic"
+      "title": "Nigeria, Egypt Strengthen Military Cooperation to Tackle Emerging Security Challenges",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakZVU3JjdGJkWV9EdTdlWDNvUFgzakhyOUw2N2huZ3lHaVpsaHU3blNDcnZ0d0VReGpPS1czbUpSVmdOdGwyLUtJVjhvQWRIRXAxVl9iZ3ViMUFIcEpMR3JWTjJTSGJDa3VWTDBSU2MwWlhTZTBZWkJoOU5HUnNnbHpydmVDWEpQME1VWHlXX2NodHVXaUl3WWlGeVlfd0tTc2Z4Vk5ZXzlGOWFkN2tlVjJzS0gwQ0xGQ0E?oc=5",
+      "source": "Radio Nigeria Lagos",
+      "pubDate": "Fri, 13 Mar 2026 15:41:27 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Nigerian Government Reaffirms Commitment to Peace, Security in Benue",
@@ -358,10 +358,10 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC arrests four suspected phone snatchers in Kano",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUlncERIZUx5bDk4Y3Q2TllTWUxrRGJ2Q21mZnhZZ21xVGpXQmZqc2VrOFR3VHRUdnFfSEZHUWN5cUR2QzNXMzlkMDAyYnZzUlNZd2dKSnRLXy15d0NvRW1ZTkJOMzFnb0Y4TDl4UGd4cHFBLURWczV4Z0hWNHFsNUlZZzJXNUJNU2thWDZn?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 13 Mar 2026 13:25:11 GMT",
+      "title": "NSCDC Arrests Four Suspected Phone Thieves in Kano",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqWU51LUFDY2Zmdk1OUGsyVzFSdzJIR0RvaXhzMGFUQ182MnlRODFTNWJrVk44U055dmRvRHlqQzZDRUhVakt4bGFFbVRwYzZTaVRmTWwzR2t3S1BRc19Bc0pucnRBLXZSa1lCa0JkMVhyRGtsOEt1TEo4Zw?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Fri, 13 Mar 2026 13:38:14 GMT",
       "category": "Law Enforcement"
     }
   ]
