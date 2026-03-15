@@ -1,19 +1,61 @@
 {
-  "timestamp": "2026-03-15T06:25:55.698Z",
-  "generatedAt": "15/03/2026, 07:25:55",
-  "totalHeadlines": 160,
+  "timestamp": "2026-03-15T09:13:36.592Z",
+  "generatedAt": "15/03/2026, 10:13:36",
+  "totalHeadlines": 164,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 102,
-    "Armed Conflict": 14,
+    "Armed Conflict": 10,
+    "Security News": 109,
+    "Law Enforcement": 10,
+    "Traffic": 10,
+    "Insurgency": 5,
     "Military/Security Operations": 15,
-    "Law Enforcement": 9,
-    "Insurgency": 8,
-    "Traffic": 7,
     "Kidnapping": 4,
     "Banditry": 1
   },
   "headlines": [
+    {
+      "title": "Iran arrests 20 over suspected links to Israel",
+      "link": "https://www.vanguardngr.com/2026/03/iran-arrests-20-over-suspected-links-to-israel/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 15 Mar 2026 08:28:25 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Insecurity slowing Nigeria–Japan exchanges — Experts warn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWhDR2w1bEdESDJHTXM2elVaOXdzbng5ZElOOW1ZMXl0UGZNbXNVVU9UcmVldWZwTzNuc2I4dHV0V1pQZ3NWaUVjdHZxemJQa3JwdF8tSUtvcGo3T0U5eWJRalF2LUVhQVNlMTFRUzluQ1dpWEVybkFkSVhKV2FWVFU2VWpmcnZTZWQzSHBnSWNxOFc0elJZ0gGcAUFVX3lxTE11ZjlySGUyWGFUTF9tQ09JTl81bE1PWUUwaWZWTG12WjV2R1hZc1hHaHNyZEh5YkJId2pwcG1UTXFjSm90S0xHamUxUVpxQXBHa2hNeTA1OGpYOUk1T05aWDF2T2dtMVBBd1ZlYXJ6SFZBTEg0Yi1qOFhQdUlZZFFVT2xZX3F4bDhFblVKUFhLTzE3VDJBdXU4R0JFcw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sun, 15 Mar 2026 08:17:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Human traffickers are using football dreams to lure young Ghanaian men to Nigeria – how to stop it?",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5OZVgxZDdvOFNPNTN4a3Y4ay1QUDVIeWw4MlprcUdvLUJXdjRMRGl5eXU4cE16V09OMGtoUTg1Y2U5aG9lTUJNU3NaTk1xRW55X2RFLTJIaVk0ay1GdVU4YUpGTWs2bF9Rd0N3bVZmS28tM29fWUJoOUNoWklGYWFSSGNadml6MjhSZ0FFa0JwQlZsSWpwdkM5Tm95eUUtRkU2eEpfQ0NjQ0R1TnhHdkVqbDBicHQ1NDJ5VmNSUHdncm9LZnZwRW1qOA?oc=5",
+      "source": "The Conversation",
+      "pubDate": "Sun, 15 Mar 2026 08:10:32 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Police, NSCDC probe officer’s death during palliatives event in Kano",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVozYVRMUmItZ1VTWnRJRURZcW5WNUNvRnFUVmdBT0hYa3F5OV94Y2I2T2ozSUkyS18zODIzcXVFLVM5Z01EZjRXSFhnMm94LVJMQ0MzQlYxYnhvaVl4Y2VWODE1Ri1WRkhIanFNRi02Q2RicmhaLUdPRFRiSldSRF9ZRmltR1YzVHBIODlBNEI?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 15 Mar 2026 07:31:44 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Four killed, four injured as truck crashes into commercial bus on Lekki–Epe expressway",
+      "link": "https://www.vanguardngr.com/2026/03/four-killed-four-injured-as-truck-crashes-into-commercial-bus-on-lekki-epe-expressway/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 15 Mar 2026 07:23:25 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Dead, Nigerians Injured As Iran Hits UAE Again",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pYnBjM2NrZ3UwZDFzZmU2dldHV2o3UGhVY0YwOEJ2blFRa1JHNmtqUFZvS01DRVlGRmZ3X0JsWW5PZDB0SnhUbnJUaHNLSzdMNHNlSGFMYmYxTm1yRW1LSzUxR3cwc1VsTDVEdEFzYS14S25jd05tSEZabw?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Sun, 15 Mar 2026 06:51:55 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Iran War: US Military releases identities of six American soldiers killed in Iraq",
       "link": "https://www.vanguardngr.com/2026/03/iran-war-us-military-releases-identities-of-six-american-soldiers-killed-in-iraq/",
@@ -27,13 +69,6 @@
       "source": "Daily Post Nigeria",
       "pubDate": "Sun, 15 Mar 2026 05:35:55 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Military, terrorists in tit-for-tat: Army bases attacked, top officers killed,ISWAP commander ‘eliminated’",
-      "link": "https://www.vanguardngr.com/2026/03/military-terrorists-in-tit-for-tat-army-bases-attacked-top-officers-killediswap-commander-eliminated/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 15 Mar 2026 05:01:39 +0000",
-      "category": "Insurgency"
     },
     {
       "title": "ARCO Worldwide Services Partners DJI Enterprise To Revolutionize Nigeria’s Aerial Security And Surveillance",
@@ -78,6 +113,13 @@
       "category": "Armed Conflict"
     },
     {
+      "title": "Nigerian Corps NSCDC Uncovers Baby Factory In Owerri, Rescues Five Pregnant Women From Traffickers",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHVBNXdaeFdaOGtpUHVVQ0J2YkV3NXY1b3lWbmc4R0hJbjdCOUh1WUlDeTQ2aFIxVWM4US1ncXZGbWt5bDVsQlRpbDJtSlVkbVg0QS05eV9xa0dJNHI4UGtoc0VhSW8xeXpYUHRuVW5kMHBLLTBiX0x1UHdueEtlREZ0aFoxNnNtbGJaQ29IYks2WDV1ekRiN3hhNFdvUk40VkJqM21vd3VCR3hTUzBCaU1PMVdTZ1U?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sat, 14 Mar 2026 22:01:05 GMT",
+      "category": "Traffic"
+    },
+    {
       "title": "NSCDC detains child trafficking suspects, rescues five babies in Imo",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkxfNktaakl6REF0V1E3eEZnLU9wOEo2Ykk3NDBnVDZWejh1b2tOeWg1OVJ2bWRhQng1VTh4VWo5d0ExUEE1SVdJRWxNLWk0YXJLXzZQVDZqaTh1NVNEMlppOTdYYjMxbFVCcWwzd0JhXy1yVGhBZ2FheUYxdVV6Z2F0ZXlfWDhib3JCanlTY3FUeUpJZXc?oc=5",
       "source": "Peoples Gazette Nigeria",
@@ -106,13 +148,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "killed in central Nigeria attack: police",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NXJQMjJ1MnJBSW5YdGFJdk5vWjRzanF0YmU0S2U0QV8wRWxzZ1p6ck90bUNRR0I5dFlHRzVMbWNHR3U5LXdDdjAwMUJ6cWJXbmp1bjJOeVVWYTNsMER6QXlLdkdCbDU0LWZxOXRZRQ?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "pubDate": "Sat, 14 Mar 2026 18:16:28 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "US/Israel-Iran War: Nigerians injured in Iranian attacks on UAE",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPek02Zy1Pdmhlb1FIbFlLSUZCZDM2dHlYZUVpdnFKd2lGMFJUN2JIYU52TlhSYl9mQ0lVbGVPSDYtVl9WLVVka0dvSnQzeTNvX0hYT2tFYndxN0JoRDlXUGlMLXU2ZjRHMDlybFd4LTNKMHdfdmIwYjg5TzlFZGtnMFlVOHpRblBOUF84aktadXExdVljVjc5eUxlQzBUa1dBTUpzWXVkNmtRcWI0YWhwOUxYUUU1blRudzBWdA?oc=5",
       "source": "Premium Times Nigeria",
@@ -132,13 +167,6 @@
       "source": "TheCable",
       "pubDate": "Sat, 14 Mar 2026 16:15:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "DEPOWA Seeks Mental Health Support for Police, Military Families",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVDJwX1Nva2pqTmJZNDdSTVB0MDNhdmIxV1BYXzFGM2hXeXIzQ1RQbXYySENHd054a2tvZXp6N2VvQWlzektZbm0zaEI4cUxiaElPWmh1M2VES25Zelpqd0hwVXNoU3hvY04wcGpmNGxCOXBOUi03alRrbHZTR0RuQzhTX2UzcVRVdERF?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 14 Mar 2026 16:01:43 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC arrests four suspected phone thieves in Kano",
@@ -187,13 +215,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGN3bkdGQ1RZNGJWTkR3cXVhNmFYTHNNNzlEclpfQXU4UzZEYkc0M0RuSm1RTV83Nk1IR3V2OUROYkRYSHI1RGdCX1ZHVWhITmZLRlVKVS1EWjkwdllEbzJTN3I1QS16bnhiemFFNHh6TExycEZ0MHBONDczWHFHYU1yZ0d5aUx0Xy1TLQ?oc=5",
       "source": "Daily Trust",
       "pubDate": "Sat, 14 Mar 2026 09:52:25 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Group Backs Tantita Security Services, Demands Sustained Surveillance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeExyUV9BLVE1czVnazZteGZ4RUVTZ1RRdzZaVFZFa3JaQ0xKeHp3TWZDSmZ6N28ycTExckhuaXZjaE5DZUc3VXZfMzRNUjJZM21XaW5Gc0t4c2MwczlxWjVZelhrczdrWks4ZFVyMlFRTi03R0hXTEhfRWFpV0V1Zl8xZ1RaTnd3YS1ESXJiVHNoTFpoY2c?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 14 Mar 2026 07:49:01 GMT",
       "category": "Security News"
     },
     {
@@ -341,27 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWFJbEctRzlvTVhrNG9sejBGbDMxdHFxNElLWDlUSWpncm15TWpubWwyWE1vWHZKaXlxcF9hLXdXTGpYUW9oMUg2NS1xdGExdUhxNi1oMEJGNndxVEVCS2lKVGdzeFM2TUgzcXlIb1ozVnlmVGtxNmtPSzlyNGhpSndEVl96YmFjMVQwQg?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Thu, 12 Mar 2026 21:20:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, Egypt Expand Military Partnership to Tackle Security Threat",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xazN1VzV4cTFHaFlpOUlzSVlvN1FDdHgyT3J1SV80ZXEydHRTWkV0ZWE1LU9FemdmeVY0WVRDZGJLT2h2SlQtbmkwcjdwTTlaamU5Z3lUczNYZ0V0S05LYnIycDhUZDBxcVhxa3JDRFA?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Thu, 12 Mar 2026 21:05:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu approves more military equipment as security chiefs adjust strategies against terrorists",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVI4LXB4TWNNNTZCNGxRNzlJNUxNam1jcDU5N2dfQnFyMHZMd2dwN2pRVENZM0Z5alc5ZmVoZzgxSjdCUnhrSEJ6TldhZVptRDhTMUluTFhKeER0cTdIYnZMUnhwWnZYelRWdi16TDJLUG9IN25zbVpaYnl3MWVhSGJIaTVydVFOd21SV2c2RUQ3NWZBbVVKdFNzZWNmWkkxTlFvZE1vVTBQZ1NRWTF1WVd5TmRHaWQ4Q0JBdWlXZ2RYR3BT0gHKAUFVX3lxTFBBQnF5bW5RTS1BZVItQVhoNWtHTC15M2kzTWhWY2JVLUJQNjN2Y053YXlVTVRfR1RrX25fV19kRlk5QjRLV1VDVGtJc0VNUUc2cnE4TUk3T0hkZ3JfTk42WEs2TTNDY1UwNURQMTNvUnhQWDl1Z1h5NWtKcWpmdmdTSW0tT1hORVI0ZGp2WW5LY2FtaGR2Z1dMQlQ0NGozWEJYOEdZM0ZXQ2VBYklqb3ExUlhPbWpJNGNENE9IYW93V2E2SmgwUTVzQUE?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Thu, 12 Mar 2026 20:31:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘They are not magicians’ – Lawan demands funding for Nigerian military",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONkJ1NFRuSGtvYV9iUW1OTC1TUmRBZXlFODZmY3d4dm11d3RXM2g3RXJsYTYzX3YtTDlSSXk2VzNFcUJGclp5S3R0ZUl5UFItYnFpemxLck9jTmFvaFZyYWQ5NnJIOWhMX2Znc21nSnNsRU5ockNZZ0otYWdhWWpVYWFCUXBqQUJ1NzI0Z1RrSWtveE9jMmxCVjJqNk43RVZx?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 12 Mar 2026 17:57:02 GMT",
       "category": "Security News"
     }
   ]
