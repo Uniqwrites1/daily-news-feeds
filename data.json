@@ -1,59 +1,87 @@
 {
-  "timestamp": "2026-03-16T18:25:14.099Z",
-  "generatedAt": "16/03/2026, 19:25:14",
-  "totalHeadlines": 172,
+  "timestamp": "2026-03-16T21:16:26.056Z",
+  "generatedAt": "16/03/2026, 22:16:26",
+  "totalHeadlines": 166,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Law Enforcement": 5,
     "Armed Conflict": 11,
-    "Security News": 119,
+    "Security News": 113,
     "Traffic": 5,
-    "Banditry": 5,
-    "Insurgency": 10,
-    "Military/Security Operations": 13,
+    "Banditry": 7,
+    "Insurgency": 9,
+    "Military/Security Operations": 12,
     "Kidnapping": 4
   },
   "headlines": [
     {
-      "title": "S-West leaders to FG, govs: Collaborate to tackle insecurity",
-      "link": "https://www.vanguardngr.com/2026/03/s-west-leaders-to-fg-govs-collaborate-to-tackle-insecurity/",
+      "title": "Police conference funds not diverted — Organiser",
+      "link": "https://www.vanguardngr.com/2026/03/police-conference-funds-not-diverted-organiser/",
       "source": "Nwafor",
-      "pubDate": "Mon, 16 Mar 2026 18:10:19 +0000",
+      "pubDate": "Mon, 16 Mar 2026 20:28:26 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Zulum condemns Maiduguri explosions, calls for calm, vigilance",
+      "link": "https://www.vanguardngr.com/2026/03/zulum-condemns-maiduguri-explosions-calls-for-calm-vigilance/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 16 Mar 2026 20:27:03 +0000",
       "category": "Security News"
+    },
+    {
+      "title": "Scores feared dead as Police confirm bomb blasts in Maiduguri",
+      "link": "https://www.vanguardngr.com/2026/03/scores-feared-dead-as-police-confirm-bomb-blasts-in-maiduguri/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 16 Mar 2026 20:10:23 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Iraq’s Kataeb Hezbollah says security commander killed",
+      "link": "https://www.vanguardngr.com/2026/03/iraqs-kataeb-hezbollah-says-security-commander-killed/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 16 Mar 2026 19:40:31 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Benue CP commends gov Alia’s tireless fight against insecurity",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5yLUs2YWJueDZXbVlSQ1lPQWd4MjhFS3RqQUJTMXlyZG91MVV5SWM2SW10YzNZZWEtYzRjRHdDNy02M2RNZWllcU9ieS02d1B5XzI1TzZnOExqTTJCSWl5QVRITDVpUEszOXdFV1N1WGh6VmpjV0xZQnk1Y2Z6ZEZwdUZpQi0yZnp2WVYyaG50cllseVFEOUxn?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 16 Mar 2026 19:35:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ansaru commanders facing terrorism trial trained in Libya, DSS tells court",
+      "link": "https://www.vanguardngr.com/2026/03/2-ansaru-commanders-facing-terrorism-trial-trained-in-libya-dss-tells-court/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 16 Mar 2026 19:25:01 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Amupitan: Security key to credible elections, Nigeria’s progress",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHhLSzA2UVhaQzhsUTlhSHliX1U3VTk4UnRzY3pTOU9FdUd1TFAyQU5odU9LdUtBZUFfSnZpYUpsNERucklsR2hIRTE1MUZkUWtCSjlra2dDZ2VSY1dkelhkMjg0YmZabi0tUjRJWWNHQVhZTGZhRkUzcVdvMy16WG96MUVPMXc2SzJNenYyZw?oc=5",
+      "source": "TheCable",
+      "pubDate": "Mon, 16 Mar 2026 19:13:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Just in: Explosions in Maiduguri",
+      "link": "https://www.vanguardngr.com/2026/03/just-in-explosions-reported-in-maiduguri/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 16 Mar 2026 18:56:56 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Umuahia–Ikot Ekpene Road: Ubani backs Abia govt intervention",
+      "link": "https://www.vanguardngr.com/2026/03/umuahia-ikot-ekpene-road-ubani-backs-abia-govt-intervention/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 16 Mar 2026 18:49:31 +0000",
+      "category": "Traffic"
     },
     {
       "title": "Security agencies parade in Akure for “show of force” against rising insecurity",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHRnU3R2ZVZ5OEpjclgyR3lGaGZ2MFBvaVltYjU5OHREaG1mN2dodkZwLVFPT2ViT1JaWmVfR2NRRkZid3k5T3JNUktyMEgwUUQweEpNb1BSdVRldWFuODVFTzZReV9fWThya2dEYnJFdmFiN1FZeDhsWm1Td2VnelY3Sk5kTllBSlE5RVlLYWpLZzBONk81bG92Q3kxNC1odDlSb2J0a2E?oc=5",
       "source": "westernpost.ng",
       "pubDate": "Mon, 16 Mar 2026 18:03:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Israel begins ground assault against Hezbollah in Lebanon",
-      "link": "https://www.vanguardngr.com/2026/03/israel-begins-ground-assault-against-hezbollah-in-lebanon/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 16 Mar 2026 17:48:26 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Troops repel Boko Haram attacks in Borno, Yobe, neutralise several insurgents",
-      "link": "https://www.vanguardngr.com/2026/03/troops-repel-boko-haram-attacks-in-borno-yobe-neutralise-several-insurgents/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 16 Mar 2026 17:41:55 +0000",
-      "category": "Insurgency"
-    },
-    {
-      "title": "‘Nobody from Liverpool contacted us’, parade crash victims lament",
-      "link": "https://www.vanguardngr.com/2026/03/nobody-from-liverpool-contacted-us-parade-crash-victims-lament/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Mon, 16 Mar 2026 17:39:06 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Trump says unclear if new Iran leader is ‘dead or not’",
-      "link": "https://www.vanguardngr.com/2026/03/trump-says-unclear-if-new-iran-leader-is-dead-or-not/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 16 Mar 2026 17:36:02 +0000",
       "category": "Security News"
     },
     {
@@ -71,13 +99,6 @@
       "category": "Security News"
     },
     {
-      "title": "Iran supreme leader appoints former Guards chief as military adviser",
-      "link": "https://www.vanguardngr.com/2026/03/iran-supreme-leader-appoints-former-guards-chief-as-military-adviser/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 16 Mar 2026 17:07:22 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Lassa Fever: Nigeria Records 109 Deaths in 3 Months",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWkJpQkxQYXdhMnBLQzZmckpWZmhiclJvMkdfR0FkQ1VBS0VTMWVPS3pkSXR4cFZLWS1WWmFBNWNJWHo4SDdpVEhqdi1LZXVpUTZFbmE5Rk1uYUhFVHZIZERkVVFKNnFrNXlmSEZYV1I2SFNsWHd4Z3RxdU9PbmM?oc=5",
       "source": "TVC News",
@@ -92,13 +113,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Christian Slain, Wife and Four Others Abducted in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2hweGNxY3k5WFRhWVVXT3owS0cyaHZ3X1hIQUFQNjBiRFRQZVZsVmZYb0FqRjZLa0otbmJoWG1xaldweEY2bDQzQzdpdmVYcjZJUGo1UFdiY25nSTBmOTc1QmFIcTdyeENSUXRmVy00bnFNR2traE42TFZIY3ZjR1RGSDFGNWJ6c2VRTS1fUmt0RXpLaWxHRg?oc=5",
-      "source": "morningstarnews.org",
-      "pubDate": "Mon, 16 Mar 2026 15:46:08 GMT",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Security agencies stage show of force in Ondo amid rising insecurity",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjRtX1RNTWpKZUlzOVNadzA1UDBiSVFfOGd5TDhiNjUzd0VBU3hDUXZ2bEZXT25fdTN5dEcwTHJDNzVBeGRXVnM0b2VMaUM5NUV5Yy1zX29vNDQ5VzVaSjFxZTc1WXVJaFZrYUlSd2NNS21peUZ2R0E4MGdfMUtnWGs3WWRGb0hpMHNIVTB1cE9VcTdMSHVYRC1TbDB1Q3k2aWdZ?oc=5",
       "source": "Daily Post Nigeria",
@@ -106,17 +120,10 @@
       "category": "Security News"
     },
     {
-      "title": "Defence Expert Urges Nigeria To Prioritise Local Military Production",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1RpOFRCd1pvV0duSWl3LVlfQ0JlOWJRZldLejRfdXlxSHAtSXNrV3VEVG5JeDUxSzczV1dDVUFpTUx1OTd0SmhZUHVIYkxJWlljWXliTFNUZWdmd0tJaDZXRmFLeDI2cFdCVlN0eVpkM050bU95Yy1CNnRKeGVwcjlLYXBqaTVDYzViM1VFdUpWdw?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 14:29:41 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Embedding Women, Peace And Security Principles Into Courtrooms",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmJTNDFleVZZbTgxcGM4RzlTRUt4MWFDU1JHV254c1JQRTBsRU85YVByRzREb0gtWHZZdWVTWkY5c1QzQ3h6U3pjeS1LaURZSUtKcTZkWWFqMUJqX3hlUV9JUlhOeEdwbUVFQVRhTVM2eHdkY1NIZnFNX2dWUVdjemo1alEzcWxO?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 14:11:43 GMT",
+      "title": "Energy Security and Nigeria’s Gas Future: Lessons for Kogi State Industrialisation",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHRMaGFKaHpWVW9FcFJSUlVBOUdpeUxibU1IYzlDamlGd01TU3RwZDR0RDIwc3ZBQ25mZklWUWFhQW1ydlhORDRpbk5zeUV2ZWllY2VQYlhsQ0o0WlFvcW1JZTZIN0hITnlYTnBqUmFsWm5tbGFhMDRxMTVjc0dhdlh3MXY4N2liNk5hRjRZVkNfMnN4dkJ3UTNZaDVlVlQ2c21UY2NBSE4?oc=5",
+      "source": "Kogi Reports",
+      "pubDate": "Mon, 16 Mar 2026 15:10:00 GMT",
       "category": "Security News"
     },
     {
@@ -127,10 +134,31 @@
       "category": "Security News"
     },
     {
+      "title": "Security Operatives Arrest 4 Suspected Bandits At Akure Airport",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1JIb1E1a0JtVlhBT1JDN2pERkF0cmR4SmR0Vl94MUMtWTAtOTQ4dHdydXVmTzV5cEo0Z0ZVelMxdWtiUHlYQWd1c0Z6dmJxbDFNcUtHQzFraWZHZ0lrWHZGNS1QVUVhTHpSTmRxVjRaSnBvRzZDa3FCckhGZkdMZFJzR3RyTG5qQnQ1YzFJQQ?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Mon, 16 Mar 2026 13:45:33 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Joint Security Forces Repel ISWAP Breach in Borno",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53S3NiNXZBQ0twclh6Y0F5SE1ENzRjczVkRXZ5dkZoaFZjdnhYSXQyYzlZdFNNUDhZaGk1d3hWU2ducXo5QVJxWDJXTFpSTGZMUTROaUFMZEs0LWJsQUpmZ3VkVHJMNENBZy1sU1NVSlFsYmRHY3pIQVdzSWNBZw?oc=5",
+      "source": "TVC News",
+      "pubDate": "Mon, 16 Mar 2026 13:04:00 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Guerrilla warfare and Nigeria’s counter-insurgency strategy",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ095U3dZbldWLXVZVkQ0aElmUVBwQWdlWFN1c2hIUmo5TEhaU2tPbFYxZGZqVm0xcVNPbDZWQlFpbHZUb1FvQkNQd0l2b0dkOWpEWmt1THZXWGQtMjFNcko4cWZzbFFxNWpwVGtrRTBDZEFmSW9BY3lGVTRDY0o3QXJlWUVVcUYwVVJv?oc=5",
+      "source": "TheCable",
+      "pubDate": "Mon, 16 Mar 2026 12:54:00 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Fintech Group Backs CBN Move to Strengthen Banking Security",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmxYeGZGV2lpQVZpdW5sYWlVRkVQOFhJOG1YdHZkWmx1VVhmcUVvQ3dlb29BaVlWYUdsUnZ3RzJtNkd2djVweGE1ZjhYckRoaDdrWjJEaHlBa1YxbFF5N0RyNS1ZOWlENnhvc0lCYXRQRGdQQ0wtOFJjRkdNY1FqeTdTZTV3RW9DM1BoMkREQVVxV0lWNFY4?oc=5",
       "source": "Business Post Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 12:32:43 GMT",
+      "pubDate": "Mon, 16 Mar 2026 12:32:56 GMT",
       "category": "Security News"
     },
     {
@@ -169,20 +197,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Islamophobia threatens Nigeria’s unity, MPAC warns",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRzFhX2Qwc1JtbU1idjdwM1JiRGVzWjZ4QTdUN2VKWGdtd3BsN1VTU3VkNzdpV0FQYWVJdVlvMjV4RnVIX1VzOTJ1VkVacjY2YllWSXFhQmt2eE4tMmRBdDBrUFY1LTdMQzJiRk5Uc3ZpNFBHbjNkMEZpd3ZrTUU?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 16 Mar 2026 09:46:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Journalists enjoined to uphold truth, support fight against insecurity in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWkVubm9yWnl5TXRpdGZudk81dGtuS2tORm1jLWpOdUdOTkVsdnE2RlFzOE11c2w1RjlrbUEwU01jWTlLc2NQR3FlYUhjeTd6Zm9tZGpYOXQyLTJzT2djaEhIMV9aQVVzRnRFcU41d2RyRHVXQnRqX3VHVURLSkgxb1NGRFVSXzAxQXg3U01vVmlRR2RRMlBxZnEyQ252VGVMa1pqQjFNMWFXeGs0d0NWYTJnVUhqbmgxcEZqTnFDOXRqN3pHVU5YVEJkeDVrQXdWcmd5dkhrZFdXdUEyV2JlSFhQVGVrdWdfb0lVVU1BSQ?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Mon, 16 Mar 2026 09:12:26 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "The Iran–U.S. Conflict And Nigeria's Energy Outlook: Implications, Strategic Opportunities And Investment Signals In A Volatile Global Market",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNFQwVHV0LXhLY3dRWmEyOG92Z0F2UXNXOGpPYUlTVFROcGNZeDY1aFpQaGgxQnQwbklaYldOWGs3NEZodTdTWjFFQUFmdGtiSnA2SEpIMWdhLWRjV2M4X2J5OURHY2NtMkgtcFAxZWZKNWZyaFRLOUU4Y3Z6UDEzNGJfaXdJc2NWR1pjc28tN0tkMDBfZUwzNVRqMHctc3BKekY3Y2xzcWZiVEdrckVNMjlZRExoN1RjUnVKanJ0ODhsaVE5ekQzSjdRVWtfajNONjFUbV94S1NkQTZoT3hySDBGVFdCZ3Z3STJKT3NnbWxOVkpSTlllVU1qRVJFTms2THRQeF9aeEgwZnBrcnh6eEg3d2tYaTRqX25ma1JsZw?oc=5",
       "source": "Mondaq",
@@ -197,38 +211,10 @@
       "category": "Banditry"
     },
     {
-      "title": "M’East conflict threatens Nigeria’s $200b non-oil export revenue target",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEFaa3QzQmtSZTE2ak9BbFlBanI5cm9CZExXc2tQOGdhdHFwYXU1Tll5VGhXY2VUTnZOeElzRy1GQUdJM0xLRDYwTzdLa1FpcmpudTdsWlZRZjFmaXoyOGlVN2d2UllmM0JlS3lJckkwUVdCTVNIT2M1dXVXbEMxckx5NW9XcEF2eFFJZGkzQWlBOHNvaW43VElzTUQwcFRm0gGmAUFVX3lxTE51eFhheWxmQkhlVUZEbF8zNHdkdkZzbTJfNG1oR3Zlc0NnYzI1OER4VHlYUV9EX0d0ckJNWFVFaXR3clp4RTdxN2FKTnlpNUN4a0I3M0xCc3k0cmdCUGhONVNTU3hmcWU2V2FDSDJmeWdSQlhjWjRaZ3Q3TEE5UGpKZnh6RkhSREVEdVVIQzcxTC1ZeDRNejNsZFZGekFaTXhUdWhVQUE?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Mon, 16 Mar 2026 08:15:45 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "In Nigeria, money and men decide when a woman seeks prenatal care | D+C - Development + Cooperation",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ta0c5a1lCMGJWNkUzUlM1REUzclREbE1iQXVRbzVVV3VTVDZwQVg1ZFRuQ1p1WXdLTVVKUTl3eWRWNjdhV1F4Tlpoa09sN1l4c2s5ZDhJaXlhM3VVSGZHVnNsaWZYVFpvRmlPdHAySDBxa0E?oc=5",
-      "source": "Dandc.eu",
-      "pubDate": "Mon, 16 Mar 2026 07:30:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria Rejects Foreign Combat Roles in Security Overhaul",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWhCbFBoSEI3MHRoRGRCLThoOENRMDk4akUtQ2F3bkdlbWlwSmtzcEpoSmVDd3lwZklPTm13dWc4WDM5WS1PUmN0VjJrcFpINWFmVnNJS2tYS0hCQkZhMjQyS0RBdmxxQlRRWlVpRUsxY1M4OVR5N1dTTlVsN0g5eFFWV0k0dkZLZm9CZko4RWRERWZyYVE?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "pubDate": "Mon, 16 Mar 2026 07:22:53 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FG: US Role In Nigeria’s Security Must Be Supportive, Not Direct",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa3hDLVV0S1dwMmRFaC1nQ2Q1LWl0MmRaOFpzRm45am1xUWU5bFpJTWFGOFNZWUJvbFYxallUY3EzYUFSeGFZSmoyX1VhVDY4R3hjeGF5STlqTGMxRTZLdVUxbExrc1BhOGM4NDROMGRtdy1mdVl2UFJ1N3Q2UmpOemJGRTU2eEhyT1Bj?oc=5",
       "source": "Arise News",
       "pubDate": "Mon, 16 Mar 2026 06:19:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Army accuses IPOB of ethnicity-driven propaganda over IED images",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFlUWjNvRWx5OHVMS1lJR2h3UU5veTlsRkJJeXhNSUFlemJvMGhlY1FCcGdGMXhBeW1wa18zTTF5UmZHUTNjaHdZandkV0txOWNOM2lyQXJSU0J2V25qQ3duLXhIQ1Vxc1hLQVFmTTV5LWZEWVdwQzRLcW5DNDZlc2ZrNm1pNmdmaG82Mzg3SDBxVm5pMzF1UFdKNDZ5b3hRMUI4emJXWGphdThCSlR6VURCYjVzRDJ2eVE5R2RTWHVBVVhhTVJBOTR3?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 04:55:33 GMT",
       "category": "Security News"
     },
     {
@@ -243,13 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUVGVURHY0t5a056QXh4bUE0ckJaUDVZNzZWNFpCaVJxVlZXUEVLQ3hBekgxdnQ0Z0FrckZuSUF0QVg1c1lLdzBhUWNkSEtXTVQyeEV3VGROTVVXQjN5WURmWlFORG8xeWhRV0twZGtJR2VEU2VjZHktZFJrcFd4ZDcwT1hNTVBEY3MwdWo5WkVDeHQ1aTJjZGs2LUk2S1BCZ3EzeXkwc29acmU0d0s3S3hFNTVXbGM?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Mon, 16 Mar 2026 03:26:05 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FG: To Curb Nigeria’s Insecurity, US’ Role Must Be Supportive, Not Direct Intervention",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnc2OXNraHBoN0dtVlFHVjkyZlRFdk9icTFaYUg3akYyMXo1SW1Kd1h6bk5ncEhXYlB0cS1lR1RJM3g3cUhUYmhOdzVaQzFQcXRZZkUzZkN3NDdLaEVIMTliMHFtbDYwLWhBaFNwM1JzY0JJTk9scnFaZTRadVJKc05YekpELTB6ZkZ6YzZOMHBOdkNHZkJERnlrQTd4ai1EWGhVZUo3b3hQNFoxaWJxZzd0RHlFcjZiZkhuNC1n?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Mon, 16 Mar 2026 03:24:24 GMT",
       "category": "Security News"
     },
     {
@@ -272,13 +251,6 @@
       "source": "zagazola.org",
       "pubDate": "Sun, 15 Mar 2026 22:26:40 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Kano Police Launch Probe Into Death Of NSCDC Officer",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hOXNZWXBzLXlTZDVTajJrZWdLRnZKTW1uQW9mMmM3R1U1SzVJR2NobU9aakpISFM2UjhBZFc0Nko2N0ZKZU1JOHAzR3o1WENZLTJiSnRfX19XTzU5ai1lMlRIXzN1c012MmEyd3Rmd3ZJLUJWYVRJWmFWSm8?oc=5",
-      "source": "thefact.ng",
-      "pubDate": "Sun, 15 Mar 2026 21:03:17 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Cold chain infrastructure key to solving Nigeria’s food security challenge — Expert",
@@ -362,6 +334,34 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTQwWDJKbW1RY0NXdjVGSW1LWDlVOWFyOUVoV0tyN1pIX3ZvTEd5UWpIMFNlR3FKR2VucTBwc004T0ZWelp1VlpkOWZrY3pXX192YjY3NkhsSlZ0aUtmbXJ0TzhQUHNDd3NOMmp4eUczcllRUkhCbkJVVWFXdjJHa3pfUm1wcU4wLUxBQ1VjMzZBNElGOFJYUUNtMC16VURaLTNpX2lvYjlsQQ?oc=5",
       "source": "Arise News",
       "pubDate": "Sat, 14 Mar 2026 06:39:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "How Underground Gunsmiths Drive Nigeria’s Insecurity",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0lTcGk2ZXJfMzgxV1d2cVI5QXY0U0wxclM1QUw3SDkyNjYza2FQNG9QdHd5MnotYTZreWRscjV5VV95dS1Ubi1pd1RiNFZOaFZvblNuN2pRVWNVOThiS0pvVEtrVnBleDFrclJtc1JtZDFMdF9NNnctWkFyY2dybQ?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Sat, 14 Mar 2026 05:24:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian troops reopen road shut for years by IPOB",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1ljTU1lOGc0RUl1RnV3QmtRT0FmWVYwWEFGaWRHVnIzSThJYW5CUFdGckJKZGhoT1lnMVJ3R01fZmxnRGF1SU1mVGpGUnlHbVI2Sy1wZGJ4VVFCX0d1ejVfLXN2NWJnekZ5eVFXTWwtMGltSXg5am1SbW5HVDllUE1UejJfMEM4MFhRaHFaNk9ZMTdxM0RVYkM4UmZRcmxuU1RWcEVKRG9GOVV3?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 13 Mar 2026 22:20:36 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria’s security crisis and case for state policing (2)",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk91ak1nazQ0ekZRQWNTLWpwNTFsczh1ejk1eVRObFFWZXdlTl9wUjV5NGZobndydmZHelZEQm5ycHZLelBZZUt1d1pxa2RKWnBYNzJIbG5UeVpSM1pOQTB6MEtqRGQ4XzVWU3E1R0V1VzMzZGFxOThCdklwZWV6Nm0zTGpfS0lhWHV6ZGNqUVN4VFlyQXF0ejBB?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 13 Mar 2026 04:22:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria must learn from Iran, not rely on US for security — Falana",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWFJbEctRzlvTVhrNG9sejBGbDMxdHFxNElLWDlUSWpncm15TWpubWwyWE1vWHZKaXlxcF9hLXdXTGpYUW9oMUg2NS1xdGExdUhxNi1oMEJGNndxVEVCS2lKVGdzeFM2TUgzcXlIb1ozVnlmVGtxNmtPSzlyNGhpSndEVl96YmFjMVQwQg?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 12 Mar 2026 21:20:09 GMT",
       "category": "Security News"
     }
   ]
