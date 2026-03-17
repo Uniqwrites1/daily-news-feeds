@@ -1,39 +1,186 @@
 {
-  "timestamp": "2026-03-17T09:22:29.308Z",
-  "generatedAt": "17/03/2026, 10:22:29",
+  "timestamp": "2026-03-17T12:21:56.094Z",
+  "generatedAt": "17/03/2026, 13:21:56",
   "totalHeadlines": 162,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 107,
+    "Law Enforcement": 6,
     "Armed Conflict": 15,
-    "Law Enforcement": 9,
-    "Banditry": 9,
-    "Insurgency": 6,
-    "Military/Security Operations": 7,
+    "Security News": 110,
+    "Banditry": 6,
+    "Insurgency": 9,
+    "Military/Security Operations": 8,
     "Traffic": 3,
-    "Kidnapping": 6
+    "Kidnapping": 5
   },
   "headlines": [
     {
-      "title": "persons involved in Abuja multi-vehicle crash – FRSC",
-      "link": "https://www.vanguardngr.com/2026/03/39-persons-involved-in-abuja-multi-vehicle-crash-frsc/",
+      "title": "Doctors threaten protest over NMA candidate disqualification",
+      "link": "https://www.vanguardngr.com/2026/03/doctors-threaten-protest-over-nma-candidate-disqualification/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 17 Mar 2026 12:17:23 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "UK, Nigeria deepen trade ties to boost jobs, expand operations",
+      "link": "https://www.vanguardngr.com/2026/03/uk-nigeria-deepen-trade-ties-to-boost-jobs-expand-operations/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 17 Mar 2026 12:09:21 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Tinubu commiserates with ex-minister Nnaji over mother’s death",
+      "link": "https://www.vanguardngr.com/2026/03/tinubu-commiserates-with-ex-minister-nnaji-over-mothers-death/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 17 Mar 2026 12:08:10 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu orders security chiefs to Maiduguri after terror attacks",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemQ1U09PYmlrQTBnRlplZ3laaE8wdk8yU1gtNHlTc010Mi04dGpuNHdfZ1BwaVFPbGJUN0g5VVVkd25oaUlIUHY1MzJjQnlyWFFyRklGYU9DTFdRd2ctYW54UG1EdXAtX05JclphUExXbUxGd2kzcmpTcTg5OXBlNmdEdkhROWZyWHI1cnhaTVgxaEU?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 17 Mar 2026 11:57:39 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Tight Security As Soludo Takes Second Term Oath",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91YXNJVnhySk4yNzBlVDlWbFpXWUxJSFFkYU4xOVZDYkVSbmhVdXhZcloyX3l1NUFOT1RBYloySlNfSjJXWS1vRFJXTWxYUzR0UXlwR2xxbEZKbkRHMV9Cdzd4MXZicU44blZVMDlsbkxHNjU3U3FsUWp2OA?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Tue, 17 Mar 2026 11:49:21 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu deploys security chiefs to Maiduguri after terror attacks",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEVhRkNXMU1fYU9IV1NDZ0lVa2pGRVFQVE9tQ0xlX0txZnZyeU54eDJFVkY2RUlRSnJnQVFVczNHdE8tNXpPTTkxN0tTeW5SSm1yYUNNY1JuZEJ6aXhiX3FaTTRPek5SQkQyeDY1djlMUjVQLU1lc084cHhBUFZXbWtIM3NqSURVUWRkMWRIa1QyUQ?oc=5",
+      "source": "TheNiche",
+      "pubDate": "Tue, 17 Mar 2026 11:35:54 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "‘We must unite against terrorism’ – Northern govs condemn Maiduguri blasts",
+      "link": "https://www.vanguardngr.com/2026/03/we-must-unite-against-terrorism-northern-govs-condemn-maiduguri-blasts/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 17 Mar 2026 11:33:26 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Israel says killed Iran national security chief Larijani",
+      "link": "https://www.vanguardngr.com/2026/03/israel-says-killed-iran-national-security-chief-larijani/",
       "source": "Ayobami",
-      "pubDate": "Tue, 17 Mar 2026 09:17:14 +0000",
+      "pubDate": "Tue, 17 Mar 2026 11:19:02 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "President Tinubu Orders Security Chiefs to Relocate to Maiduguri",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPclFDMzFDeUhJQlVza3NCZUhaUEFXdUJEMHlnNVYtS2h0REgwWlZqNjFlZHJWQ294eDBERGh1SldaNnlBMVJtNk15S0prY1VsRl9RTjhoWjZvaFgtbGRqSDJUUTRVc3MxQVB3THNHQVpfRFczd0NOc3VXd3FjXzNta0J3UUJfanhNelpGMw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Tue, 17 Mar 2026 11:12:19 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian city of Maiduguri struck by multiple deadly explosions",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcndRWUVyZVp2dGNZVENxS0ltWUJGZ0dXd3U2NnRwRC1Kc2gwdnZiYUNFYWktX3E3bTBTeXU2ZnlYYzNBeE5KVEF3VnJ6NmVZX1VsaUlETnlEWkpDcDFaTXBkaUtmQTRHVkhuSVVPa2pjcktuVGt4OEIxMXhNaXVlOXlETURSSmVvVXFxbC1xTDJxWmlOMHViODVSUnVGekVtUUJN?oc=5",
+      "source": "RFI",
+      "pubDate": "Tue, 17 Mar 2026 11:09:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Borno Carnage: Frank Berates Tinubu Over UK Trip, Blasts Britain, Hails Trump’s Stance On Nigeria’s Security",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmx5VEQ3MXhlVjdYdkpxRmpBZDFvNmN5dXRsVjVYY0dib2R4LVRDR2k4SWx4bzBCWlVHZ1lDekNISHYwWEhVWC1ybUF0Sy1Lb3NDdXBmcDlxOTYtY0JzMFZTTzN6UE44czJET3dFTUJCNGlUenFqNnhwNmZLVXVCT3VpRTFDMW9sb1l5dW43aFdxcWlWbWh6eWlQcHZiSDNYOFdjWDBBTGh0LW5sUjFRQUZFdXFJX2ZwVkNyOXhCc3NVaDN3?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Tue, 17 Mar 2026 11:05:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Suicide bomb threats trigger security alert in North East",
+      "link": "https://www.vanguardngr.com/2026/03/suicide-bomb-threats-trigger-security-alert-in-north-east/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Tue, 17 Mar 2026 11:04:50 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Maiduguri bombings: FG should prioritise security, not 2027 – Ndume",
+      "link": "https://www.vanguardngr.com/2026/03/maiduguri-bombings-fg-should-prioritise-security-not-2027-ndume/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 17 Mar 2026 11:02:08 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": ",500 NSCDC operatives to Kaduna for Eid-el-Fitr security",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUhPU1lWZzVLS1hCdGVQYW92a1BvM2tJUGNjdkN6N0lDeGVYMTQ1WEh0OTVObEtKOUtpRnVpUTB3NnJqTDZ2dm9iXzNLaHk4U3o3QkJycVBuNG54Z3BNb1ZIWXB0RE5peWpSUTFJWDMyMjR5ZUVteUIxM25zczg1ZF9CTS1lOWM?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Tue, 17 Mar 2026 10:54:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu condemns Maiduguri attack, vows end to terrorism in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVdIalRHRkVUVnJmOVhJcmxGRGN2azJ1UF9uS0xTTUpET1lJNHJfaGtEb3d4cG9HOW4wTjMtcDg0M0g5d2lHeUdybW1INTZTWTM4VFNvQWloOUN3d0FRVlBQRFBya2IyNHUxNDk3MEptUnpiUjNsMDN0Z0MxMlNEOFNLUnJvdTh6dWNHQ2doaDVZOHlRVnJLSnBB?oc=5",
+      "source": "The Informant247",
+      "pubDate": "Tue, 17 Mar 2026 10:29:15 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Tinubu orders security chiefs to relocate to Maiduguri after deadly bomb attacks",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXF5TkktajV6M3c0RHBJZFN3STNqaFVGaHF4bzRDYmpudWM2WkMyb3ZFWE5fM1UwOFpTd0JJMEU5SXF1V0VyQXQtd216aHhHRUwxNVFNaDg4WmpPaXpDeExsQV9kbEtFQTFmWjZFNjZaTXdtUnN5Y0xqdTJTbUthcHdDWUpxOFNaYWRWam02ZHB1SGxMR3BPRGszZnVkMXU4bUtBZGNyZXVSVlpC?oc=5",
+      "source": "westernpost.ng",
+      "pubDate": "Tue, 17 Mar 2026 10:27:07 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Ogun NSCDC investigates clash with Police",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RYUlIR0NoRjllVzJZNWc2Q1d4aW1MaFU1X1BHZEJPR3BPaXFjbUpMSkg4SlQ3b3NIU3F4aTBWS214RDYyOWhZUk1yUm1aVy1ac0tsLUNIU2pqdDhqWDRrejRnZEpfMmY2Ql9DWEp5QWxfOWhUVlE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 17 Mar 2026 10:23:09 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "‘Drugs, young peoples’ exclusion fuelling conflicts in parts of Nigeria’",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDJ5VnA4VVZjaklCQ0x6d2hub3BuUjZ6c0FNQmF0bHR2VXRsOEwwQUZBbXF2cGRDakRkTkNsa3kwSG9nMEM2dHBrUXZZcE9qTnJINnZnQUVHTF9HTTZnNzZzV0Z2T0ZGRmFUdVJadlVXcXFZTmZ1a2ZMWXc4cWtZQXRzUktldUUxdHNuUHNZNWhrakdLME5v?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Tue, 17 Mar 2026 10:12:31 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Terror attacks: Tinubu directs security chiefs to relocate to Maiduguri",
+      "link": "https://www.vanguardngr.com/2026/03/terror-attacks-tinubu-directs-security-chiefs-to-relocate-to-maiduguri/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 17 Mar 2026 09:58:35 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Tinubu departs for UK amid worsening insecurity in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWhPaFRhSnN6SzZkVVNZQ0JqaXoyb1NVRU1PTUstUU13b3dGcHF3bGxERk1talJ0bEgzelpHOUZZTEg0ODdnaFpCNzRPRGswZmY2MHZ6S2JfN0Y4MGZzTGgtcmFGM3ZuTmtqQUZpMTRsc01QbjNqRkJ0VTR0cHdHdGpzUXVoQnhlMEgtRzNydlE?oc=5",
+      "source": "The ICIR",
+      "pubDate": "Tue, 17 Mar 2026 09:56:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "‘Japa’ Syndrome: Health Minister Says Nigerian Doctors Fleeing Abroad Deepens Healthcare Crisis",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVdVbF9RdnY3MEphZ0xpODlweC1CRG1xZ3dieTNFTkEybFM3TU8zb1FRakw3UmljRWlSMzhiLXJuQ3dRcWJSYm5BdVpyOWJ2T0lTWkNTWGtRbWYxa3JxUkVCbk1tYnlkdkI3YlpZejFXemx0QUFsaGNSRHFucEd2LVlqVjRTZ2xyZWwtQWZjUUUza1BaVmlTM0IzbGRSaFphRFRPYW1idV9uS3JNRm10RHIwUkhwYlA2Ni1fbzFKNkh6Zw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 17 Mar 2026 09:54:13 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "Terrorists threaten to kill 32 abducted Kaduna villagers over N30m ransom",
+      "link": "https://www.vanguardngr.com/2026/03/terrorists-threaten-to-kill-32-abducted-kaduna-villagers-over-n30m-ransom/",
+      "source": "Ayobami",
+      "pubDate": "Tue, 17 Mar 2026 09:46:48 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigeria will not succumb to fear – Tinubu reacts to Maiduguri attack",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUklpUGhLZXpUZWdpWmJjRnFJSk4zWWhBSkJxVU55X3RwaHpsNWFtc2xJb1prSDlHSEtNSFJwaUN5VlRYdDRGRnVCVlRQR1ZSN3hSVUNjbWl0YnRqdU9kUnhPUnFQeldpQ2JqS3RWY2VaczRZVWRKYWVsVV93VGRHMXNhZ0ttelhrY1JPaGVpNU5nZnJLQ3NYamNYTmpGdGR6?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 17 Mar 2026 09:30:53 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Security, national stability crucial to elections integrity in Nigeria – INEC’s Amupitan",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2dXSjQ3YjhzenNlZVhsckMtZ09MYWc5TTdCOWJTejRCNlpSRTZaRTRqQzRGWW9qRkoza01BUEd6WDUyNmFuTm9HaHZHVkxZendhaFNTOENTR2xhcUpmNkN3NlVRN1ZHb0lKOTFpZE9QM05MT09pbmR4ZTNpOERYQmFHRjZlOEpFYlRmeU15MHhnZG5YSldSVFZGeVdIYUhrWUZoNlhXVG5SUkxKNkQzWjVUMVItTG0x?oc=5",
       "source": "Daily Post Nigeria",
-      "pubDate": "Tue, 17 Mar 2026 09:15:07 GMT",
+      "pubDate": "Tue, 17 Mar 2026 09:15:19 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Blood shortage threatens blast victims as troops warn of fresh attacks in North-East",
-      "link": "https://www.vanguardngr.com/2026/03/blood-shortage-threatens-blast-victims-as-troops-warn-of-fresh-attacks-in-north-east/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 17 Mar 2026 09:08:12 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "NSCDC deploys 2,350 operatives in Kwara for security during Eid celebration",
@@ -64,13 +211,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Maiduguri blast: Northern governors, Ndume condemn attack, call for urgent action",
-      "link": "https://www.vanguardngr.com/2026/03/maiduguri-blast-northern-governors-ndume-condemn-attack-call-for-urgent-action/",
-      "source": "Ayobami",
-      "pubDate": "Tue, 17 Mar 2026 08:17:41 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nigeria: At least 23 killed in Maiduguri 'suicide' attacks",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTB1V1JJOTBwVnFzbHAxMXpBX05wY200cDFQVDRGeEU5d2RFQVZta1JFRnJFc1dpNzBiX1dnVy00OTEya3ZCNzFJMWlaa3hYaWZpQjhlaF9XVmp1cWRiWGtydmVjSlc5dTZQLXVwS29MOF9YX00wSmgxbWhRNFI0TjNfWWkzZU5mbjdXTUVCbjBhQdIBkgFBVV95cUxNWTkwRm4zUzhiR2E5Qy15ZTRfajZHTzNlOUNoeWNPMlV3dHVoNlRseG5jaW95OFlGUkMzRno1WUs1NXBEcGU2Z0VPdjViNDhScHh3a014bnlicTRtUFRDX0FPalozYjBxUEg5dGs5RGtHQWtpTUZ4am5OODNrS3lDVlFGZXhNMk9HbzRoYWZUQUYxUQ?oc=5",
       "source": "DW.com",
@@ -99,45 +239,17 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "MAIDUGURI: We’ve intensified surveillance to track down suspects, prevent further attacks – Army",
-      "link": "https://www.vanguardngr.com/2026/03/maiduguri-weve-intensified-surveillance-to-track-down-suspects-prevent-further-attacks-army/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 17 Mar 2026 07:16:22 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Maiduguri bombings: Police confirm 23 dead, 108 injured",
-      "link": "https://www.vanguardngr.com/2026/03/maiduguri-bombings-police-confirm-23-dead-108-injured/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 17 Mar 2026 07:00:37 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Police in Nigeria say suspected suicide bombings killed at least 23 people",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcV9BRHExSFg0dVFsTFVyd19aYTBmdXB0UW12ODdBdl9KMWdjRzJicDBPYjNtdlU2c1JCaE52MHNPTW9NbV9ROHhRMnNsVElqcFpOLXRHNnNRTnpyU3o1aU9ia0NOZ3AydldnT1dMZTNwbFcxUjAyMUlkMXAwOTE3TEhRZGxKU2lsQ25SWjRZeU1RZjd6SXJjdGdFeC1tNjhRc0NSNUZ4X0RFcGQtUExISDhNNERJMGRUeFZTdFFzbw?oc=5",
-      "source": "The Albertan",
-      "pubDate": "Tue, 17 Mar 2026 06:59:05 GMT",
-      "category": "Law Enforcement"
+      "title": "Have Boko Haram Forgotten How to Create Bombs Since 2016? -By Abdullahi Abubakar",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVd5NXRkbFJVVVJUX2hfbWNGMWhzcU0ybGRHQUR6Y0p4Rm42dWlaRlZONjhELXo0TlFRbmhTZTlocXJHWHRLckVNbnBoUWNxbVFsTzNJd01Jakh6M0dBdVNuamNzMjNWalM2Y19rMWp4aWpTVkhRWDExazlrWnd4bTJRdTlqcjdnVzd4MFVjSEZ1Tk84NzNURlBiVmZJd0o3b3VzUHZiUTdSeVdyUWlj?oc=5",
+      "source": "Opinion Nigeria",
+      "pubDate": "Tue, 17 Mar 2026 06:36:05 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Benue CP lauds Alia’s commitment in tackling insecurity",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbExSbGtzYl8xakJIN0pWTThCMG1lTml2UkozRk5sX3FfRUhRR3ozQkU1THVNWFFCbUJNdjF0cGh2dVJPeEdIM3Y0MldwYVlkRWNkSUFLRUgyN1BiZFNXYmNtTXA0bUpsdEc0a2hFT3duTU8xdDZrMHVzY1JmS1BRTFdzTEpyTnlzZDdmcnZKOE4?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Tue, 17 Mar 2026 06:10:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Suspected suicide attacks kill at least 23 in Nigeria's Maiduguri",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVJDM25BT05iMThkY1A3ZXNvUXNHVG5RUjdzWHhXdDJFR1NncEhpZFQwQmxlTkdUUElwSWhMV0lDS28xcTJnTTN3TnhLTDU0LTkxMjhGaXlnaTdQaldoOEF0TTNCSDFlc3F0bkFaMllrY0o2ZXQzd05UNTNvTmF5bEh6bk1sT2wtbGppdzlTTW5sZ1ZsRzlzZEN3MkVmNGpjeDJRbTgxZE4tLVlZTXR2UnMtZ1g?oc=5",
-      "source": "Reuters",
-      "pubDate": "Tue, 17 Mar 2026 05:28:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Chevron Nigeria Harps On Development Of Niger Delta",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmlEQXNGLWhCM05SbFdmYmlURFVBa0ZLNzVFX1VlZ3F2QmZueXdrWGtpNXdyNVJ6dnc2b3Rwa05IMlJjejROUTRQMmMwS1VmXzEwTWVnWm9ndE9GNHJSdHVxSVFoTU5RVi0xM1FHbGRFUEktRWFoR1VqNThNTk1yaA?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Tue, 17 Mar 2026 05:14:21 GMT",
       "category": "Security News"
     },
     {
@@ -169,13 +281,6 @@
       "category": "Security News"
     },
     {
-      "title": "FHQ to conduct forensic investigation into Osun shooting",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFN6M3BQdG1ZZ1VqMndrZ28yV0h5NnMwSHFQRl8yOTVaT2JzRUpjcUpvcU0wNlRJM0xyZEhXaF9pTEdZZG10dGc5d3RVNkVkdEp4dms0YXBHRjFGQjZNeDFZQ3gxalRQQ20wZlE1WTNidldtNkJKNnU5ZmkzRmRjSXFlVzlkcWVjbjBSdlpKYm1nT243NFBKZE44R3o?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 17 Mar 2026 03:02:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Lawmaker: security officers deserve support",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYm5rS2VkcVRQdXh6ZXJUc0VDbk0zVlRVa09JdXdyTmVod194SUh6LXgyYXhkWWg3WlVKUmlOMVRlN0liMnlsWVNQd05jSjg2NkVlQWw0WmZRSFYzWEVpck1CcTIwbWFfcWF3b0lMbDNZSDhPY3dOYy01TDhYRnVKQld2RdIBgwFBVV95cUxQYm5rS2VkcVRQdXh6ZXJUc0VDbk0zVlRVa09JdXdyTmVod194SUh6LXgyYXhkWWg3WlVKUmlOMVRlN0liMnlsWVNQd05jSjg2NkVlQWw0WmZRSFYzWEVpck1CcTIwbWFfcWF3b0lMbDNZSDhPY3dOYy01TDhYRnVKQld2RQ?oc=5",
       "source": "The Nation Newspaper",
@@ -204,32 +309,11 @@
       "category": "Security News"
     },
     {
-      "title": "Explosions in northeastern Nigeria leave scores killed and injured, authorities say",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFJZZEFhZkZVWGtQdk5lVzdXU3FZMWdXWHJMYzFzOHhTYVZqOEdKYmZZbThPTWwyMnJ4eE1LQzE1cE9YV2liRlh4Ujg1QkZTZkxjTVhSZ0dHZDlpSUpMVTBfdUVGcnBJaXplLTQ4MHdBTmM3UlBleXlrOTYtYlhIUE8tcVhSMGVkdG5VXzkzSHhUMW5JNklqZVR3QlViWmVsdGxGalJBeDR1OWNab3hwb1ZPY0RtQVkx0gG-AUFVX3lxTE1uTEhSdlJwMXpKUVMyNTQzNjhnNVM2UzRNY1F2WEVJNXBuQ3VPb0RYeFkyVFZHRGlaVWRlZVVtVlRHUTkxUzZJSGpYMHNHWUxfcFNqV3lBMjM2VnNHeDRZcEdLXzNaaU5EQnlNQ0MwdGl4TDN4SUtMSGphQnVlbWwwVjJGUlViS2xwdFNqd01vMmNuMHduMUp2U01ubV9MVjc3N2d0X3licG8yYjBHam9JQjJHYXlvVmZCeWtGMkE?oc=5",
-      "source": "PBS",
-      "pubDate": "Tue, 17 Mar 2026 00:04:46 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Sallah : FRSC To Commence 6 Days Nationwide Special Operations",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1VGQW5nMUJyQVlIQjQ1UUhKb0lmbDYxMUQ3cFpsWl9YeU0xWDdKNVotQjhzT1ppcHgwbFp0ZWFwbXNBSjRfS2JoQVNHNUNhY0hFNlNyT1hpOFlPMzNJalB3dTlMNHlTaTFnRS1EcWJtM1BkcC0za2tzZ1JNaHNTV1dDQ3BxVEJySzZzeDRHUzdLTFVBOW9feUJ3?oc=5",
       "source": "radionigeriaabuja.gov.ng",
       "pubDate": "Mon, 16 Mar 2026 22:52:16 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigerian Army Scrambles after Bomb Blasts in Maiduguri and Environs",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmRGTjdkR013ZjRxcU9YejhPSjEyODQ2LTF5MElYVU1DTG9oak9aU1ltQjJCai1zcGc5Nm00eUhuR3J0UUhvN3lodGdEUjZTNVFBSEZfX3A3bkM5c0x5bWx5TklJeVV3TVJXWjNzMTJXdlUzeUJ2dzVPRWVabUsxUEZTVlBVVzJvZ0lSVXJqUVNzZ19jV21Ldm1iR1Q3azBlbHRV?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 22:31:58 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Viral TikTok Bandit ‘Sule Yellow’ Arrested After Ransom Pickup as Nigerian Troops Capture Notorious Kidnapper",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIQ2FUMGVoQkFhRndpS0ZOWW8tSklmMXdtWUhQUjRqa2NFUl9aa3FneUJIU2IxbkZQMlBsMGU5UmtuTndENDBfZ0F2bGZNb2p4R08xV09iM29GVWJGd1VOS0tjbEhORUxfQWdpTnBqOHQ?oc=5",
-      "source": "Tell News Magazine",
-      "pubDate": "Mon, 16 Mar 2026 20:33:37 GMT",
-      "category": "Banditry"
     },
     {
       "title": "Benue CP commends gov Alia’s tireless fight against insecurity",
@@ -278,90 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHRMaGFKaHpWVW9FcFJSUlVBOUdpeUxibU1IYzlDamlGd01TU3RwZDR0RDIwc3ZBQ25mZklWUWFhQW1ydlhORDRpbk5zeUV2ZWllY2VQYlhsQ0o0WlFvcW1JZTZIN0hITnlYTnBqUmFsWm5tbGFhMDRxMTVjc0dhdlh3MXY4N2liNk5hRjRZVkNfMnN4dkJ3UTNZaDVlVlQ2c21UY2NBSE4?oc=5",
       "source": "Kogi Reports",
       "pubDate": "Mon, 16 Mar 2026 15:10:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security Operatives Arrest 4 Suspected Bandits At Akure Airport",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1JIb1E1a0JtVlhBT1JDN2pERkF0cmR4SmR0Vl94MUMtWTAtOTQ4dHdydXVmTzV5cEo0Z0ZVelMxdWtiUHlYQWd1c0Z6dmJxbDFNcUtHQzFraWZHZ0lrWHZGNS1QVUVhTHpSTmRxVjRaSnBvRzZDa3FCckhGZkdMZFJzR3RyTG5qQnQ1YzFJQQ?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Mon, 16 Mar 2026 13:45:33 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "‘Fake Prince’ arrested in Nigeria as another scam victim comes forward",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjQ2cUdNcVJaYlpCRHFiS0o2MU5HclktdEFkUU9MYVNMMTVJY0xNR0hla3FnbGpkRmtmR3gwbVRsYXRzZlA0X0FtOEFBVFhiQ2dQanJDYmp6RU5FdFZYTjVGMThXcFRKSHZqWmlHdlRNeVM3Szk2X2RZSkd0ckYzWEE5WFhmUS15NVhfQmt4RVY5OG9BWUFoaExQVEQ3ZlJwMUdyX3JZTDV2RXh5anlCT3hiNHgwbFd0YklPZXFiZDRGS0dM?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 12:25:45 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Fintech Group Backs CBN Move to Strengthen Banking Security",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmxYeGZGV2lpQVZpdW5sYWlVRkVQOFhJOG1YdHZkWmx1VVhmcUVvQ3dlb29BaVlWYUdsUnZ3RzJtNkd2djVweGE1ZjhYckRoaDdrWjJEaHlBa1YxbFF5N0RyNS1ZOWlENnhvc0lCYXRQRGdQQ0wtOFJjRkdNY1FqeTdTZTV3RW9DM1BoMkREQVVxV0lWNFY4?oc=5",
-      "source": "Business Post Nigeria",
-      "pubDate": "Mon, 16 Mar 2026 12:08:21 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "How Security Operatives Arrested 4 Bandits Near Akure Airport",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVlXelZNQjladUZXa1BoUVB1cTVwb05kemhEWFM4djU0RGZ6UHpDTjkwSHVxeGE0Mk9sTzQyVUgxdmw5TmY2bWxlRUpjRDRiMTYtUS03QmlQRlQ4Y3dVaHdZT1lUSTMxUnlxWU8xaGVNeEFJcVpOZHdDSjdJNklVR3BiT1hSZ1BybXJUUHpn?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Mon, 16 Mar 2026 11:13:34 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "No bandits’ attempt to hijack plane at Akure Airport, says FAAN",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXhrcVVfYWhpNWxLN1VtLWxtQ2NkbFBqOGwxWkdabGhrd1lRckpFY0hCZUxudzU4dTFTQXgxcFlCb1NVR2lDaU9PVWI3QlVEU3E3NzIyZ0pZV2Z4UTNBQm81NG43bmVzV2VadksyZGNiUTFyQVBvR1otMmdrVmsxMnd1NjlienJLM0RhMGI1T2I?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 16 Mar 2026 10:42:00 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "Security Agencies Arrest Four Suspected Bandits Near Akure Airport",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2FoOWJJQXpkdkpBOHh6c3RGUG1URVhtMGRXWWZCT2ZzOU1QNmVzSXhtRl9HNnNjaWEzU054S1hWdmk5QzJMcFBxRjJHSjY4ZDgyOXc2M0ozQ0p4Tm1XWEFYbUctUHJidkpEdHRfcXVqZ0hUMDZ3RHBFTktVN1N1WEhYNWxQUV95RlpJWGxjVHJTajF3UlotSmpTSVkwTl9hRmkwbU1yZmhDX0l1UUpLcUdzSHg?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Mon, 16 Mar 2026 08:25:56 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "FG: US Role In Nigeria’s Security Must Be Supportive, Not Direct",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa3hDLVV0S1dwMmRFaC1nQ2Q1LWl0MmRaOFpzRm45am1xUWU5bFpJTWFGOFNZWUJvbFYxallUY3EzYUFSeGFZSmoyX1VhVDY4R3hjeGF5STlqTGMxRTZLdVUxbExrc1BhOGM4NDROMGRtdy1mdVl2UFJ1N3Q2UmpOemJGRTU2eEhyT1Bj?oc=5",
-      "source": "Arise News",
-      "pubDate": "Mon, 16 Mar 2026 06:19:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Advancing Peace Building, Conflict Prevention and Shared Responsibility in Strengthening Security Systems",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFlpaWVOeXZCSGR6anA3RGZhWm4tT0FOUGx4dWM4b0YxRjVWM2FMMnlMTVNqSzZfUDJBZm5kQXRjSFpfdWFncmV6NVFlQ0hjbC05WExKWUVXSExUdXJfaV94MEdZUDlYTkloNG9BTzNvdTViQXYzUndPZ1pjUjFKeENBeVplWG10SDJnNk1ybk5LZE1hQ1phaUxDd2twRXJNT3pzZXU5OF9Yc1loR19Lc2Y2ampwNGUyUktOd3VQcDhoVXhvUGFmSWozNVRVSEpuM00wekN2QTVkeVk2?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Mon, 16 Mar 2026 03:31:26 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "ARCO Partners Global Drone Tech Provider to Enhance Nigeria’s Aerial Security",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUVGVURHY0t5a056QXh4bUE0ckJaUDVZNzZWNFpCaVJxVlZXUEVLQ3hBekgxdnQ0Z0FrckZuSUF0QVg1c1lLdzBhUWNkSEtXTVQyeEV3VGROTVVXQjN5WURmWlFORG8xeWhRV0twZGtJR2VEU2VjZHktZFJrcFd4ZDcwT1hNTVBEY3MwdWo5WkVDeHQ1aTJjZGs2LUk2S1BCZ3EzeXkwc29acmU0d0s3S3hFNTVXbGM?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Mon, 16 Mar 2026 03:26:05 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security operatives assault Mitv journalist in Lagos",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTGI1a0JzOFhkeFBwWGtnTWpuNFl3c3JFUmFEbkxiZGRtSHROakdVU2o2cXBWWGxwQXZoUFhOWlp1Y3dlb3ZXMFdUdUZDRmJGY2ttRGlVZlB0Y1NfRUViRXd0a1pNVWVEdzYyYnI1WTVOOWdJV0x2cEFOMVVZNXNUMXppbw?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sun, 15 Mar 2026 23:41:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Airport security operation foils suspected bandit activity in Ondo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGJfSUZyWkVsX1gtX1FlZ3RpZmtoTkRCVGtRa3VJODVKd0RmTExjeGhxWDE0OW5MVTdUNXpCNWs4VnJGdDlDdVBSeElhUWdTdEhMOUJfTnhfX3ZuZ1R3TTZvaFZKbWVjYk4yTG15Qnh4TE1Nc1g5a2p4NnBROHk1ZUhJQ19nNzR6MnFDcjJwOEs1LUQ3SUxvYVRrOVVJZEV2MHhDRGhlSQ?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Sun, 15 Mar 2026 22:53:59 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "Cold chain infrastructure key to solving Nigeria’s food security challenge — Expert",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1ienVhQU1iMUZaMVl2T3Bud21pVjRoa0lJcFdxNUJnWGd4QTFuZFFDSzZyT1NDTnhVZFpGYm9uV1JxN3dsaVkxbU5BZFFrY3BLRmUxVzdjZExtVzl0ZjJKVDVwSGFjdDByTHNhcFNCMUJuSW8wY0dRQ1NINFYwTHBmU3ROc09yeC1Pd0kzZmlfdDFxaEVWcGtXOEROeWo5YWVxME5SaFo2MTFmbmluTkc5cHNGY0hhVk9aMVBrN3dJTjlQTFkxai1fV1RuMHBhQ0Jn?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sun, 15 Mar 2026 17:25:04 GMT",
       "category": "Security News"
     }
   ]
