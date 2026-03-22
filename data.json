@@ -1,32 +1,102 @@
 {
-  "timestamp": "2026-03-22T15:09:10.230Z",
-  "generatedAt": "22/03/2026, 16:09:10",
-  "totalHeadlines": 167,
+  "timestamp": "2026-03-22T18:11:26.561Z",
+  "generatedAt": "22/03/2026, 19:11:26",
+  "totalHeadlines": 170,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 7,
-    "Security News": 122,
-    "Armed Conflict": 13,
-    "Insurgency": 8,
+    "Law Enforcement": 10,
+    "Security News": 121,
+    "Armed Conflict": 18,
+    "Insurgency": 6,
     "Banditry": 2,
-    "Kidnapping": 4,
+    "Kidnapping": 3,
     "Military/Security Operations": 5,
-    "Traffic": 6
+    "Traffic": 5
   },
   "headlines": [
+    {
+      "title": "France to support Nigeria with military equipment after Tinubu-Macron phone call",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlZBQWIxZWttY2lwUFBISHFGN2IzWmlZbTc1cWpXUUlvdU9RaGpycXhZQnMtREhIb3FYUldBVjdsc3QyZzJkMlNkdWppaEZwbWJiZUVuOVZtamR5OV90UlBCUlRhd1k1dXNwYnZrOVlrSmkxTTZvZHBPX2JMNk5ISlptRVNWeC1GR2VKcU56NVFPZ216RUQ1RlhnMF9JYV9Jd0s5dmx2YXd5MXhkejRYZERBS2p0dUtVOU5jWVZDT0dveGlYeElZaERDaXkxU1NiME9sclA1RU9lTEk?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 22 Mar 2026 18:04:45 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Police probe Edo LG Chairman, summon officials",
+      "link": "https://www.vanguardngr.com/2026/03/police-probe-edo-lg-chairman-summon-officials/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 22 Mar 2026 17:47:22 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Insecurity: Olubadan pledges support for vigilantes in 11 Ibadan LGAs",
+      "link": "https://www.vanguardngr.com/2026/03/insecurity-olubadan-pledges-support-for-vigilantes-in-11-ibadan-lgas/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 22 Mar 2026 17:43:19 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Kwara Police: Most Church abductees by terrorists are over 70 – CP Ojo",
+      "link": "https://www.vanguardngr.com/2026/03/kwara-police-most-church-abductees-by-terrorists-are-over-70-cp-ojo/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 22 Mar 2026 17:43:15 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Zulum spends night in Pulka coordinating security",
+      "link": "https://www.vanguardngr.com/2026/03/zulum-spends-night-in-pulka-coordinating-security/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 22 Mar 2026 17:25:22 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Lawyer threatens legal action against Tracy Ohiri",
+      "link": "https://www.vanguardngr.com/2026/03/lawyer-threatens-legal-action-against-tracy-ohiri/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 22 Mar 2026 17:17:22 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "VP Shettima briefs Tinubu on Maiduguri bombings, pays Sallah homage",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJHMGl6UnFBaV9OdEFFM0pwRy1xWUhpZWZZdnZzRWdIZGtGRm1mSTFUbmtYSTl5aVBrTlRiWDRIczZvMDRKemZ0aDlNMUM3anIzTUxhdlhjRXhEZ3dMajk3NEVFYzI2d2tPUFpmek9yTURSNVJXRk42RVN1ak0yeHlyYnFjUjhvYVVnOFBFanZ3V210N2djMmVlVVFTdFIyZE1iSU9SMnRSbjZGb2RnMTZraWNnUS05THY5d3paMA?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Sun, 22 Mar 2026 17:09:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ozoro Festival Assault: NAPTIP condemns attack on women",
+      "link": "https://www.vanguardngr.com/2026/03/ozoro-festival-assault-naptip-condemns-attack-on-women/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 22 Mar 2026 17:02:44 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "We rescued three victims, Kwara Govt confirms attack",
+      "link": "https://www.vanguardngr.com/2026/03/we-rescued-three-victims-police-confirm-kwara-attack/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 22 Mar 2026 16:59:39 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Kogi Govt pledges support to victims of tanker crash",
+      "link": "https://www.vanguardngr.com/2026/03/kogi-govt-pledges-support-to-victims-of-tanker-crash/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 22 Mar 2026 16:59:34 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria jumps to 4th globally as terror attacks, deaths surge — report",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODVSTEE5SmMyUm1iMGE1cWtKaVlsdXk3eHJJOVZwMjNHOUt4X1hVeFd4YVJUZkpVdm80c0ROU0I4VmFqNWptOEt5LUtwY0xYODRuNzV5ZGhyb2NSTzZZUVNLVTZSMXVQd002Q3JJUDljdmhHcG9HRWVXVmxKOUhidHFZdnJoeU9hMUtDeEpXNEdsUUhibDloYW1qdW9ReUVnb2t5RDNSTkhHcHprSXdBYUxHdzJ5c3N4OFBXWQ?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Sun, 22 Mar 2026 16:25:20 GMT",
+      "category": "Armed Conflict"
+    },
     {
       "title": "UI set to host high-level talk on Nigeria’s security",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVURZa2JoeUh5SDdZUmlxa0RjMmRsSG4wOHQ1Q09ldkh3eUdOUHRMdk44WTRSeWxsQU1RRWNoODc1OWpvUndJd1dGQnNxV3lnUjhDb2NNRWVNSzlGN2ZTOVBtekQzQl8zZWtMYkV1R2FpM0xJRU1tMFRXR3ZsRlRIc0FnUWRwRWvSAYwBQVVfeXFMTVljb25YMzRPeE4zdDJjMTRpaUJlZEo4UDE1bXlaVU01RzJYeDd1UnM3V29vYWU4ekRFcVBUdFFEajI2MXQtclQxTkItQkU1MVlLUE8xcngzOXFSN2VvRDNlcXJjSEp1VEZvRnJ2OFpBWVdURVYzWTBxbXJJdTJwMWVyUmdGb0UtWXJBbmg?oc=5",
       "source": "Tribune Online",
       "pubDate": "Sun, 22 Mar 2026 14:46:54 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Ghana Lauds Nigerian Government, DSS for Rescuing 44 Trafficked Nationals",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEdYLTdSeFVNcHA5amNaU091VWtTZl9FX2dkaEk3ZF9uNmc3dXNuWWJUWjNiN216b1JKR0Zmd2NjbjBoSVlaZ3pkYjNpSG0yeVhmSW1DTGowcFV5R1ZKNEhxbFdIdHlyUmpxRVFJTGltb1Y0RU11b01FdXdmdl8yOE54cElYUHBXQ0habGkxZHJnekpEY0tiSm4xbV8?oc=5",
-      "source": "TVC News",
-      "pubDate": "Sun, 22 Mar 2026 14:21:00 GMT",
-      "category": "Traffic"
     },
     {
       "title": "US deploys drones, 200 troops to support Nigeria’s anti-terrorism fight",
@@ -71,20 +141,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Israel army will destroy more bridges in south Lebanon – Defence Minister",
-      "link": "https://www.vanguardngr.com/2026/03/israel-army-will-destroy-more-bridges-in-south-lebanon-defence-minister/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 22 Mar 2026 11:16:40 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "The Insecurity Triad (1): How kidnapping became Nigeria’s multi-billion naira ransom industry, by Max Amuchie",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2FkUXB2V052TzRzNmxLc0VmelY3R21oeHZEdFphUm1ianFDUVVON3J4b1NLZ2F0dDFJV3ZYVlhPdzB5RzgzQ1JpZzgyZXNQZlRNdnZETENPYzhvLWc4aEliUmY0bklQeHNOLUZibkctdzI4ajBWRTFVOWh0TUg1OEJnQ3JLYTJ2dk1xcG5hdTRqYUdFdUNncWtjVXk0cl9jSGR5dXhScTdHS2doRXRKNFF0dUF2RnM0TVNEUlBqN2o4VEhsTkxGZ3hsQ01VV0kw?oc=5",
-      "source": "theeagleonline.com.ng",
-      "pubDate": "Sun, 22 Mar 2026 10:56:25 GMT",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Security agencies working to protect Nigerians: FG",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zS09LaVBTM3N3REk5bHNpS1Y2NlY3NGpscUs4d2FHYnd1TGVyT1NDZElLQkpvR0tfOFpRY1o0eXJtMkxCNlczZExPcGFJQW5xLXhEdHVWOGtlWGJlbEhHT3V5dlVyZjZnam40T3Q0ZC1CMng3Ynotanl4UXdrUQ?oc=5",
       "source": "Peoples Gazette Nigeria",
@@ -95,8 +151,15 @@
       "title": "NSCDC officer, two others arrested over alleged robbery in Anambra",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnkySmhHZno5Nms0YlF6aEl3WTVpeWVmQnQxakIyQWZ4UEd1Q3o4THZOazVuZ25CMlFGcFByZ1FRSm44U3BJbmxDeEdSTFVBWHc1eWVROE12TlZfTXFyNFUzQmZXWDJKQ0p2c2lxM2Q3czRsTnZ5bnpHX3VFMVVPYUJ0VjNJcGtTVS01SV9IaUppTzk0WmpyZHZFSjMyTVFf?oc=5",
       "source": "21st CENTURY CHRONICLE",
-      "pubDate": "Sun, 22 Mar 2026 10:46:56 GMT",
+      "pubDate": "Sun, 22 Mar 2026 10:46:57 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria records 137 terrorist attacks in one month — Report",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTJPMmFKdkszMFB2QkFidEwzR2VuT3U2TkVpZWxNY21YM3FxeDVENHhOR05RWWxST3BoRkpuQl9sVVVGRXJ5RVB4b2VfRFlJWE8zdEF1bzZuMFI3cnRSa3BYVjllVEhQUzdXb1dkYXFIMjJDOFUxeDZycmk3NnNCUFJadnVxaGQzVFBLaThvcU14NFlmT1E?oc=5",
+      "source": "21st CENTURY CHRONICLE",
+      "pubDate": "Sun, 22 Mar 2026 10:06:43 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Investors interested in Nigeria despite security concerns — Braimah |",
@@ -117,13 +180,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVJQSVRzU3hpMnp3eGRCaE5LaGUyVlM1WXZsd1FSWktmRG5YYzRDdlpMeDBuaXd4XzFUN1A5azRsa2F1Yl9iSFZKLXZ4UVc4VFY5elJSWXdkTzJXMlNOUXZZUHo1ZHNmNjFDZTA0UE5sZ2ZRSDAyQkhDTUw1ZWh2bS1OMUFIcm5FOHU3Z2M2NGZkeVJMd0RITk1rNzdVVDRKb0Zfa051Yw?oc=5",
       "source": "TheCable",
       "pubDate": "Sun, 22 Mar 2026 09:05:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Iran threatens Middle East infrastructure after Trump ultimatum",
-      "link": "https://www.vanguardngr.com/2026/03/iran-threatens-middle-east-infrastructure-after-trump-ultimatum/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 22 Mar 2026 08:56:37 +0000",
       "category": "Security News"
     },
     {
@@ -153,20 +209,6 @@
       "source": "HumAngle",
       "pubDate": "Sun, 22 Mar 2026 08:41:56 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Truck and gas tanker collision kills two – Lagos Fire Service",
-      "link": "https://www.vanguardngr.com/2026/03/truck-and-gas-tanker-collision-kills-two-lagos-fire-service/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 22 Mar 2026 08:02:40 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "OZORO Sexual Assault: This must never happen again – NBA warns",
-      "link": "https://www.vanguardngr.com/2026/03/ozoro-sexual-assault-this-must-never-happen-again-nba-warns/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 22 Mar 2026 07:25:46 +0000",
-      "category": "Security News"
     },
     {
       "title": "APC chieftain says international partnerships key to Nigeria’s security, growth",
@@ -260,13 +302,6 @@
       "category": "Security News"
     },
     {
-      "title": "US deploys drones, troops to support Nigeria’s anti-insurgency fight – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjRnZWF1cFpiN1VQV2RyZnItTl9MdzBFNzNZQU91NXF1d2YxNm5BbDlwbGgyUmRRMHhPLUktdFU3NnBST1VrcFVQMm9JVGRjX2tFUUJFUGtwNURRdF9aQXJVT1hEUERWNEhmMlFpbFdDeUpfcjQwQmI3MFA3ZTlCS295Mks2NGIyUWk0TFlRNHMzTUYyX1lCek9RSFFTUGNaNjcyQ1dlUVo4UQ?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Sat, 21 Mar 2026 17:31:28 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Sokoto Government Joins Efforts to Boost Security",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vTVlTTndrc3h0Z0JtY0t3ZHlwaUswcGZNLVFVdGNlZDE4MGdIV0dfRXpHRmstc0t1cF9OTVFlcDZIYW9QWUlNb2xQQkVncHhmcmVZeXNpSkMwYW9ja1RjSXFjeTlOUUFRWFh5NVotWEJkekdyVHc0cw?oc=5",
       "source": "Voice of Nigeria",
@@ -327,41 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEJJQ0ZqREcwZ3Ywa216bmVEM1VfV1NBX3RkdV9wSzB2aFNEMXljYnppU0tQZFZzTk5KMmRkWml6RGxDTWU4OGRneUxnaGp6VzRwcnQ3N3d6bzVFZnlGcjR5WWw5eWRlY0N3YkNTMmg3dllMdFpubXFEd2w5Mm9oNG5BN2wyQVFVbGdWeWo5N3Q3SUFjajVaVg?oc=5",
       "source": "Peoples Gazette Nigeria",
       "pubDate": "Sat, 21 Mar 2026 08:54:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s security is Everyone’s Business – Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FWFpFcU1xSnA2TlF2LXhFR0Y1OXZQd1phdXIyZzVOams4NWwtNnpxbjVnVnROY1BpVUtsMFFFM0ZpTkF1SjJaa3o0WUVqVzBGbzFPU1NKNUdwTXdZZUcyOTBuR05MazZoWlR6VGJjd2tTQlNwOTI5cWpR?oc=5",
-      "source": "TVC News",
-      "pubDate": "Sat, 21 Mar 2026 08:29:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Investors showing interest in Nigeria, despite security concerns – Ehi Braimah",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmRobTNwRW91OGx2R041N2ZReDQwSzR2cGRSSFRBZUo4SWF4aDk1dFV6a0N3Q2pQeFMwcU5RUTlhUTVNM0ZpcmphYlo5UnZoMjN6YTVlaXE4MmNRSEpERGZKM2I1eDlGM3dGZC0ybjF2VDVDQ0dzQzZWLTlFSm1YNW02dnZuLTI2MEMtOVpVSHM4SFdsaXF2blVKcHZydGlSVjh6WVQ4clY?oc=5",
-      "source": "freedomonline.com.ng",
-      "pubDate": "Sat, 21 Mar 2026 08:17:53 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Eid-el-Fitr: Tinubu, Religious Leaders Call For Unity As Security Agencies Intensify Nationwide Vigilance",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVmN5MEtZLXJ4bElSTi1IOVNNRHgtX0ZCNFdRaVZ0eHFnTUgybE40M0I2VUtzZ2psTTFuSFZ1WEZqWW9EbG1TcHh5bGJ5b2EtWVdXV3d1TGw0UUN5Q1Qwak9NNnM5bzFERVd0RW52c0gzUE54eEhNSjFHcVBXSEFLcUtLNFNoNXJBeWRpS09vOVczd2dwX0xLLW0yWTN5WXFvSXMzWS1talRsdy1XX1gtLUFHSkpjZXVsTjdEVmlCOUh4SG8?oc=5",
-      "source": "Arise News",
-      "pubDate": "Sat, 21 Mar 2026 07:45:17 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s security, stability not one man’s responsibility — Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT256SGtTTnRMSndUaVZ0Tl9nUVVsN0xaalRzdkdKZC04UlpaWGtER1RZajdLb0lBVEFNOFpaR1lqeHYyZmRubTEzMS1WcGVrVHo4WjJreS1JT19Wb011MmFDNTVEeGp3eVRCXzgwQjJsNXc4TTlmR0txWEJFRFp1UFlUYTcxSnhOc2dPanRtbmFqdGVDT3fSAZsBQVVfeXFMTnVNcDJETWllWG5tYllVYWY4OHQxazNzSmVjTWlkTG1WRmFkNnkzSjdyazhyY2U2VXlqcVg1WlhGeC1jQ0wwN0RldEF4Z21HRDFCY1NyYXpUMkZWdTlUWGNoVm1EV3dvcFJBbF9yRTVvcEZBRjhrWHJwWlcyaG9DZVFtam0taDlCanYtVWZVYnJRTWRhZlNDVzJzS2s?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sat, 21 Mar 2026 07:30:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security of Nigeria not one man’s responsibility — Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHlnS1VYZWRmbHBMaDgtVmtCTEFkdXFjOUhoTTNVSEJxR1I3QWZFaU0tanZKTXJpNUZ1TmtWTG5JTlAzQl9XZHZqNWpQeGtwZUh0NmZmQ2Z5ODVXN29MZU40dE83TkJia1JsWEFROEZUaDFwY0J0V3dUTXVKNjJyVmQyTmUxMUlmR1ljWHJncVNkejVCTlHSAZsBQVVfeXFMUHhjLXBoRkhEQlBid1NvLVI0ZUpnRVhVMEtnbEtJMkJOQ0d6d2EzMmN0R2dWUGxTR21OakU0MDI2STNBTUhaUmxHc1Z0aksxVnQ2R0RwWnJkZDRKVnlNamlOem44UUNNU0pyMzJGc1REQXJmeHZQYk9nV09jSmZiLVlLelVkb192SXNtMjJsNEJiWUVtYU5sSzVQeDQ?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sat, 21 Mar 2026 06:59:54 GMT",
       "category": "Security News"
     }
   ]
