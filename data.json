@@ -1,32 +1,67 @@
 {
-  "timestamp": "2026-04-03T06:31:29.132Z",
-  "generatedAt": "03/04/2026, 07:31:29",
-  "totalHeadlines": 151,
+  "timestamp": "2026-04-03T09:23:20.330Z",
+  "generatedAt": "03/04/2026, 10:23:20",
+  "totalHeadlines": 148,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 111,
-    "Kidnapping": 3,
+    "Security News": 110,
     "Military/Security Operations": 7,
-    "Insurgency": 5,
-    "Armed Conflict": 16,
+    "Insurgency": 6,
+    "Armed Conflict": 14,
     "Law Enforcement": 4,
+    "Kidnapping": 3,
     "Banditry": 2,
-    "Traffic": 3
+    "Traffic": 2
   },
   "headlines": [
     {
-      "title": "UNDP, PIND partner on advance integrated devt of Niger Delta",
-      "link": "https://www.vanguardngr.com/2026/04/undp-pind-partner-on-advance-integrated-devt-of-niger-delta/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 03 Apr 2026 06:08:14 +0000",
+      "title": "Nasarawa: Police rescue three-day old abducted baby, arrest suspect",
+      "link": "https://www.vanguardngr.com/2026/04/nasarawa-police-rescue-three-day-old-abducted-baby-arrest-suspect/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 03 Apr 2026 08:57:25 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Archbishop Martins Calls for Hope, Stronger Security Efforts",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNellic094WlZwdWFvaEJndlNYdDB1S1VxOGxxbmJTTUF5NVZ3NFEtUmttOVZrSG9GTWRBU1FMWGhvaklDMGw2eUVUS2IxbFZfV0tOYlZlMzZmZDdaM2FrSWFZNy14SHhUQlUyamlCeEZnOGk2OFc3Qmh1RkRtWmRlcnRKaHJHQQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 03 Apr 2026 08:52:09 GMT",
       "category": "Security News"
     },
     {
-      "title": "BON Honours Otu, Two Other Govs As Nigeria Broadcasting Awards Hold April 8",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNck1FajFsY200Zi1VRVpteldPR0xrNGI0djkwNUduTWpTRmtRV1ZmaGNDeHpJMG1Fc1NQYmwtN0xKUFJhcVhzYmNCcF9Ham1IMGI2X2RUVVhJOU8ycDFMb1hWN2ZIZkdsRlVOOFRTZ1MzcmsxQWxOVEtfbVJaemlja2tZSC1qSVNDRjdSM0RUaDZOUFYza1pvMUNYT1JrYWM?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 03 Apr 2026 05:25:37 GMT",
-      "category": "Traffic"
+      "title": "Panic as gunmen ambush, kill one in Plateau community",
+      "link": "https://www.vanguardngr.com/2026/04/panic-as-gunmen-ambush-kill-one-in-plateau-community/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 03 Apr 2026 08:44:24 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "President Tinubu, Chadian Leader Renew Security Cooperation Against Terrorism",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUhsX2RyYXVJcF9oODlqWTZnRGo1OHNmbWRIRkNGZTk2TW1Od2lBU05UNTJGcThoRlVJMmEzQTNQYVdwcG03Nzl3TG54Rkd5X0owNkZBdWR0ZU5IUDVVeU5NZy0xX2FFcVZEOHZBYkdGMUJtSmloQTBCRVctcnFubXAzcWwwbUNuWUtPakRsX2w0YmlSZ2V6aWdZMXg?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 03 Apr 2026 08:32:44 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Iran warns UN Security Council against ‘provocative action’ on Hormuz",
+      "link": "https://www.vanguardngr.com/2026/04/iran-warns-un-security-council-against-provocative-action-on-hormuz/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 03 Apr 2026 08:10:42 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Jang, Lalong pledge to unite against insecurity in Plateau",
+      "link": "https://www.vanguardngr.com/2026/04/jang-lalong-pledge-to-unite-against-insecurity-in-plateau/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Fri, 03 Apr 2026 07:24:23 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC Deploys 2,280 Personnel In Kwara For Easter Security",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2FSY3ZpUEVXLTlUWnd1ZE8xbGlKWjlBLTFKZ1RLYXFfempZV2JfMXprSWFiMnAyZXAzNC16TUxxUFFweF9fMEdMbDhHVUVoVzhwaEtmNTBjV0toazdSZDYzektTbDNlZWZlVHlyRFhRb2ZsbXVTYzdXcUxFajdWLVA2dk51MmU3?oc=5",
+      "source": "- TVC News",
+      "pubDate": "Fri, 03 Apr 2026 07:24:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Time For National Cybersecurity Council In Nigeria",
@@ -38,7 +73,7 @@
     {
       "title": "Easter: Civil Defence Deploys 57,000 Personnel To Churches, Parks",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVlzVE4ya3B2WVdvNnFjbUJ0R2tabmVoNWpacXEwU2hsM3k5WXVxd3NXdzR5bGhLajg5cTN1ZkFKZUhDUGZ4Q2paVVNXaHNwMHdNMThWT0RYT0xHRkMzRTlfSUdjSGU4MVBCUmlQbmVMWGVpb2M2dFgxV0Nicjd4MThxQ3JLTFE5aldKTUV3?oc=5",
-      "source": "leadership.ng",
+      "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 03 Apr 2026 05:14:36 GMT",
       "category": "Security News"
     },
@@ -66,7 +101,7 @@
     {
       "title": "Easter: Lagos, Ondo warn residents to be security-conscious",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb05DX3JTYXp2bFNYYmFERzY5Sl9TZkdqeW5CbnAtMFcwQVcxUkhZOWxHcld2c0tDOWVHaURGaGpQVUpjS0FPM2YtZmx2TE5idzgxODJLbmxkdWxqUk5yM2VaSkpVZ1dvYkNsOUE0ZjFPeGRIOUY2dzFZcEUxNXpQb2Qwcnl5MVlsbGZR?oc=5",
-      "source": "The Guardian Nigeria News",
+      "source": "guardian.ng",
       "pubDate": "Fri, 03 Apr 2026 04:49:11 GMT",
       "category": "Security News"
     },
@@ -80,7 +115,7 @@
     {
       "title": "Nigeria, Russia explore new opportunities in education, security",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGlXMUpXNXY1MzFuRWFXMGxqR1I0dnYtMmVkTHRjMW5zUnJjZlhNaEZMUFkwdURNa1BhMF9XM212SVJmT1JxcHdnX3M2eGVyeURCcUFWel9FRmtSaWx4TVZuVnA5aDFBbjIwRFFUZkY1VzJZdVp4Qmd6QjBISS1YdzRxN1hQZXVycE9USk5jWHdoWDZKNk41ZkN3?oc=5",
-      "source": "The Guardian Nigeria News",
+      "source": "guardian.ng",
       "pubDate": "Fri, 03 Apr 2026 04:12:57 GMT",
       "category": "Security News"
     },
@@ -93,30 +128,23 @@
     },
     {
       "title": "Nigeria, Chad deepen security alliance",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VazNqZ1RkT0RDVWVMdUJkbUkzSVp3bFZYNXpuUlliNENBR21sY3ppTVBtX2dXcW9zamVNMnA0bjBCRXUzRTlHU1pXbDlNWURTc2thS0dXQkF1ME9aWUJyRU1tVDNDWjhLSHIyT1pKQTctNTQ5dTI4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VazNqZ1RkT0RDVWVMdUJkbUkzSVp3bFZYNXpuUlliNENBR21sY3ppTVBtX2dXcW9zamVNMnA0bjBCRXUzRTlHU1pXbDlNWURTc2thS0dXQkF1ME9aWUJyRU1tVDNDWjhLSHIyT1pKQTctNTQ5dTI40gF8QVVfeXFMT2VyN29ZQ0lwU1VVWXNfY1Bydko3Qlg4R1hLOGRDOEthNkZtVHhWRnl0Ym1sUnFaZXNuVHUzZmZoZm5STFNNWVJhd0lTNEp2dVhIbDMwSm0yMzl3UGxSR2l1U3pkdUM0M3ZUYVBfSmE2UnhuYWlqLU5SaWtNdQ?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Fri, 03 Apr 2026 04:10:02 GMT",
       "category": "Security News"
     },
     {
-      "title": "ADC Crisis: INEC’s decision an “Ambush,” Nigerians must resist — Afenifere leader",
-      "link": "https://www.vanguardngr.com/2026/04/adc-crisis-inecs-decision-an-ambush-nigerians-must-resist-afenifere-leader/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 03 Apr 2026 03:50:00 +0000",
-      "category": "Armed Conflict"
+      "title": "Easter: NSCDC deploys 3,206 officers to protect assets, infrastructure in Lagos, Delta",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2FkdVBPcnBncVpyWkJ5azh1dmFJOU92VTJZbmNjYWc4dDFpSjJGdkI4X2NIcWtYaHhzLUU4VUhvT0ZFVzJwSTBCM1ExVW91blNxSTREYTNoaHdVbURlOHFyOWh6MjJnSFdmSzBINjhoMVhEQ1JsRTRPaVNDME9Vc1NjNG5JdWFMTGszNzZHYzlzVFRWdFlSMTJ2NTN4ZE4tNW1GYlJRNWIwRTVWdnF1M01zUEJPdjgzc3JGcENfOA?oc=5",
+      "source": "guardian.ng",
+      "pubDate": "Fri, 03 Apr 2026 04:05:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria Advised To Treat Wildlife Crime As National Security Threat",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUllJd2NicklUa1lDeC1LQ05ObWVxMjJVb0VvbG45TldxTVhkX1ByRmFvOGZvTEg4cnpldVQ0aDZ1V3YxTnVZTERudm9RSVZIUEUzblVRcmc0cU43SVhXZWxnNndSanN1Vk5JTmJ1Z2x6eXN4Um9WYnJteGh2QnRJTEluSElLMDhsZEREMnFWUE9ZSG8?oc=5",
       "source": "Arise News",
       "pubDate": "Fri, 03 Apr 2026 03:19:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Easter: NSCDC deploys 3,206 officers to protect assets, infrastructure in Lagos, Delta",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2FkdVBPcnBncVpyWkJ5azh1dmFJOU92VTJZbmNjYWc4dDFpSjJGdkI4X2NIcWtYaHhzLUU4VUhvT0ZFVzJwSTBCM1ExVW91blNxSTREYTNoaHdVbURlOHFyOWh6MjJnSFdmSzBINjhoMVhEQ1JsRTRPaVNDME9Vc1NjNG5JdWFMTGszNzZHYzlzVFRWdFlSMTJ2NTN4ZE4tNW1GYlJRNWIwRTVWdnF1M01zUEJPdjgzc3JGcENfOA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 03 Apr 2026 03:14:32 GMT",
       "category": "Security News"
     },
     {
@@ -127,6 +155,13 @@
       "category": "Security News"
     },
     {
+      "title": "Indonesian Navy Ship Visits Western Naval Command, Strengthens Nigeria-Indonesia Defence Cooperation",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNXllRHdMMXZrbm5sOVhiSGZCQ2luREJsc3p2MXI2MlktdzVXVmVSSERRaFVoYXg5dXpwenhOYS1ZV1ZrZFZ5aEY3UWZZd2h4aVd2QTYyOVdZOUgwOE16Q3RzUTBwdXJSVkFPaTVTU1FtQVo4eFJTRmpjTGZIQ0hEMC10ZjJzQTFiUWlVTl9RYXcwX1RKV0I2YkhCTkhiQUN0QUFyWVlVZzdqeVBpV3k5VnI3YjJLeDl3a09WdUNTWVpVbEFxTDJnR05XZ1o4YW13YUkwU25n?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Fri, 03 Apr 2026 02:00:08 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
       "title": "Killings: FG has abdicated its most sacred duty of national security — Gbenga Hashim",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlBGZDdsMDhsTXdjWThqRWFnem1mWGNwWDBDc2NnZFNnelUtVVhzQm83SDI4T3l2Zm9kT1hiWVlWTlhhZXZJZG1kbTk0ajNhRkpLdUtBd1JiX0VwUDY1emlOamRpeDhveGJKSHNoUUVPZVFDb2JPck5BZUR1VWhOTHNaNm5OUHhoS3lNN245RUh2eVRyVEp3OTNjYTFRd3JYSi1LSWRnZzVZMVZWdlA40gG0AUFVX3lxTE0ydmhCZk5SS3FMWGQ4c09fcWwzVHJZVU5FZW8tb29tWGNtVTVXbWtieWJQLTBHS0hyRTJUZ090REx2aEFUaldoaTdIWG9uOGFPQVByVGQ2QmtyLVhqU3hGN0ppTWlYTTdZWHJxNzhseEVfZmJqWHYyWXFaYXFuSVlsSnk4SDZoUUZ6eFFRZm00ZUxIa2RaS2dOVGpTNW9UNmZybDkteHg0ZnNJWXlIaGxoVDZHMg?oc=5",
       "source": "Tribune Online",
@@ -134,25 +169,11 @@
       "category": "Security News"
     },
     {
-      "title": "Indonesian Navy Ship Visits Western Naval Command, Strengthens Nigeria-Indonesia Defence Cooperation",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNXllRHdMMXZrbm5sOVhiSGZCQ2luREJsc3p2MXI2MlktdzVXVmVSSERRaFVoYXg5dXpwenhOYS1ZV1ZrZFZ5aEY3UWZZd2h4aVd2QTYyOVdZOUgwOE16Q3RzUTBwdXJSVkFPaTVTU1FtQVo4eFJTRmpjTGZIQ0hEMC10ZjJzQTFiUWlVTl9RYXcwX1RKV0I2YkhCTkhiQUN0QUFyWVlVZzdqeVBpV3k5VnI3YjJLeDl3a09WdUNTWVpVbEFxTDJnR05XZ1o4YW13YUkwU25n?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Fri, 03 Apr 2026 01:39:42 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "DW News. . Mob violence erupted in Nigeria’s city of Jos following a deadly gunmen attack last week. Armed groups patrol the streets as tensions rise, with an investigation underway into those behind the unrest. #dwnews",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdktzcTJka3RaaUxzbHZkOWQtTmNYZEtiZlBxQXIzS2FzVGhJLUxpQTdzVkRQbWJQck9jZVMxOVkxempjcmFTT3J6N2VPLURYZktLVjVfZXNFd1RzZ3hBMGJ2U0ZITGNhUW9XWktqc0JRLWc5SmR4UF93WWVId2xlY1Z2MjVibk9aRy1SdDI1TjFRN2FOSFBuNFJqR0JOb1R6MjZiRzVFbTZVUjhOaHl0anBnRFRJVDg?oc=5",
-      "source": "Facebook",
+      "source": "facebook.com",
       "pubDate": "Fri, 03 Apr 2026 00:03:09 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria Mulls National Cybersecurity Council",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFpzVFB3TENURDlvV3pocW85U1BiTnBuVGpSSXNtV1R3endPd3BZQkwtNWtjajJWaXhrMzIxS1AzVTJDWkhIMWh1Mm9FQzRwZTVhcFVNZ0V2WlFTZkFGbFZUZ0ZKN1BEME9maTRfREZfMUlHT2ZUSEZoTjYtWk5DSXltanhVNXJrcmpWbURMWVRjZUhO?oc=5",
-      "source": "Nigeria Communications Week",
-      "pubDate": "Thu, 02 Apr 2026 23:08:01 GMT",
-      "category": "Security News"
     },
     {
       "title": "Police officers refund N1.4 million allegedly extorted from four Nigerians",
@@ -164,7 +185,7 @@
     {
       "title": "No security threats in Kuje, FCT police say",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UNnVGMHhKbWFxNHpmckRERE1iVGtDZ19RajhCZkpULXhUMVdfb0VXVEpuRGROcFJUOTQzelliMThYNWU4YXFNcjN6Vy03YWxYVlVWeWVYcGpQNG9EZkFRcEtxYXVjT0Z4bnpzVUNR0gFzQVVfeXFMTm9ad1FieUZuRTFyOTkzSUxoanJsbG9YUU5JekhzbUVLN1diSmRyQnpXUllJRXZiV1pGQlh5cDJVbzZxYWpnMmRRS1E1NXk2M2M2d3VTaHpMZ0UtbVFaal9DZEQ1ZTY2SHVKc0V2WDFNTnZQNA?oc=5",
-      "source": "The Sun Nigeria",
+      "source": "thesun.ng",
       "pubDate": "Thu, 02 Apr 2026 20:29:56 GMT",
       "category": "Law Enforcement"
     },
@@ -174,20 +195,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Thu, 02 Apr 2026 20:26:08 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Easter: Catholic Bishop Seeks End To Impunity In Nigeria’s Insecurity Crisis",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODBZVEJsbk5TOHVCUnVrYW01aDdvbWItV0MtUHNkTG9PS2V0QTlFUmwzQ1NhZGltWDRqejdoWmNkRWQ0X3h2cWtZZ3cwN0ZlU3Z1U1VTaURGRDI0ZHVxX3R5eHJRSXZIR2VhcVpmdzBsb0VVakRQOUFKMTRPR3hLMnJ0OFBNT2dfVlVveWZBYmlRVWgwVVJPbjRB?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Thu, 02 Apr 2026 20:00:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Easter: Rivers NSCDC deploys teams to flashpoints, tightens security on infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzNWRVowaUVqcTlDQzZHVE5ndGUzcVZ5MWRGMDBQc1dqdjQwYzFoY3YyMWtjU3pXV0puTXNZSXRtdzhzdEcxaG1OMERrRGdzV2NGbEhjaHdfLXEwSlZmeFFFVWo1ajFYTUdzWHJyc3lfdTc5ZkVXQWk3cXNMQXlvYmg0VlIyV1pYNm5Sc2xlR0lCUWhLV0FNemxXUEhQSlE3QzJyVU9HQkw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 02 Apr 2026 19:53:01 GMT",
-      "category": "Security News"
     },
     {
       "title": "Tinubu, Déby deepen Nigeria–Chad security alliance, vow intensified anti-terror fight",
@@ -202,13 +209,6 @@
       "source": "DW.com",
       "pubDate": "Thu, 02 Apr 2026 19:16:04 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Easter: Ondo govt, NSCDC deploys security operatives, assure residents of safety",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX01oTGdaLUlCSVB5WEc2M1p4OVEtVEJaRWxvODd5VGpMM1lYQmVkUVhDODVJb0RZOU45RXJrQmlCZDl4VkxrUS1fQS1QOTNQcVp0VGxfYmhySE9nblhDbXhOSFJqYmczWFRKVElxNEFNaUd0SU51U2Y4SUVuMDZFQTlmU0QzTU1NaU9vbGp5ZG9jS1AxUWpnbXlqS3B3V2tHdkVaNGxkNGpmWmtX0gGyAUFVX3lxTE9GS2I0V1k3d0tsY1otNUgtZFdqTUc0U1VDTjcxbzJLYVpoaGlsMy1yVUZseVdUc0JkNW0zSVAxWTYyV0htc3hxNlBwZm50NWZHeFloWVcxNFdqWDJia0o0REwzVy00b0FzMF9oZEQ2TktuNG9TNEVjRGdXd0ZoWFRIS05XLUoxVENaaG5oaEROdDRCRmxsb2hic0paekNPcjY1OWl0M0FvMEh2cnpTTUJPa0E?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Thu, 02 Apr 2026 18:23:00 GMT",
-      "category": "Security News"
     },
     {
       "title": "Plateau: COAS Leads Security Assessment for Lasting Peace",
@@ -229,6 +229,20 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEZCcXdKc0p1VW9GMDRVTUIxbjRDdGQwMjZVWDFJLWU3eWtkRzFNRE5jSEJ0MjdvWUp1b05sVzBNUDV2Sm8yS292WTFOYjBZbk5EN0NzblE4ZjNCYXZnMWk4THk5Q2dES2JrSG9wZ2d1WVh6ellVRXpvNzB0VzNPODlsXzM0ZEFzZ0F3M01LbTFfR05KOVNsZHJIQ1lRQXRFU2o3ajk0VdIBrAFBVV95cUxNblVyQk1vSmVTLXFxZW45WDItRjBtNkRzUEg0bjBYSHlsVzVjYzVlSHlWXzdjWmVneDhDV0psM3pySDJoUUlBdUFWdnBTNVFkQnRkNE82UUIxSzZFRXdQckUyblV6WUg2SUtuenc5QjUxWEJIT00xQ0JHaWwzWEwwdUtQM0tkQzhyZE9uaE5rekIzTXgzVkhOY01GTzBLV2xkRmNSUzUwdW43QlVY?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Thu, 02 Apr 2026 17:43:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Easter: NSCDC deploys 57,000 personnel nationwide to boost security",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQkQ0S0QtTkE5Qmg0ZDdyaEFGNG02emxrTjdadmMtbklGWW5ucVBpVFBYX1FHbkVKaHR0UlJIVHMwV3Vjck5OWWxvTHdiZU1Db3RsbTRjYkVNRm4zQ3NUZXd2NmJmVnhjNlZUNy1rb1dScUNtZXBneUlOT0dWc05nWmxaWUhkdThSMHE4aFJCRkc?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Thu, 02 Apr 2026 17:24:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC ramps up security for Easter",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sYmVkNWNyWVhaM1dpNzBWQU1maHNYNjBjd1VjRHFycDY5NWlPYjFLaVFuYmFqb3pJUUZPLVNBV0JySFgxWFhlSGkyZ3RyWVFYeDZLQ0JYSEV4UGxoUWo1cm9Rcm81Tm90a2puZTJudGNNcWJpbE12TlFNVQ?oc=5",
+      "source": "the authority news",
+      "pubDate": "Thu, 02 Apr 2026 17:03:33 GMT",
       "category": "Security News"
     },
     {
@@ -260,16 +274,9 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Embrace Innovative Reproductive Technologies For Food Security – Mukthar",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTE41ZDlzVVJyelJ0SmRoRWtRNEFKc3J0UU9CeVV0RFQweENmOU5Ta3ZiX1ZNREJXVXNqQmRXZDlmUmw2WE1TWWlWVUNkYlZPWElGVHFsaDdQVXpvUm9sVU1VdVRzRVBiTXRTWTdBaGlTWENGbnl1d3ROQzFwSHlXOFItZk96aThoNnV4M3ZscWx1bHR3cDlXcGFqRjFQYzNaZnBid1R4Zw?oc=5",
-      "source": "radionigeriaabuja.gov.ng",
-      "pubDate": "Thu, 02 Apr 2026 14:47:25 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "FG failing on security duty, says Gbenga Hashim",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wSGxpQnlFVUNkcWRiLXVBVnNMVllCaUR4dzh2aWVBOEtHVkY0eFhQdk91cXA5UTRpUGdBQlJpMlNoRUZyV1liZTNuRHg4WGU2enp1bi1ScFRvbXhqaHRFNy1IazR4b3JiNDFmbzNZUnVwNGvSAXhBVV95cUxPQi05cnBXd3JKS09zbTAxSW5SU01VMzdaVlNmdjBxMGJnQ25PTzhlUERQX0xmNDUyaTlZMUVpOXB0V0pfT1pJN2o3WmRSTzgyZGFXQU5vdl9PVWhRME9ZWUhraktIRzFCNHNscXBnTXRMLUl0LVBBamY?oc=5",
-      "source": "The Sun Nigeria",
+      "source": "thesun.ng",
       "pubDate": "Thu, 02 Apr 2026 14:36:55 GMT",
       "category": "Security News"
     },
@@ -288,9 +295,16 @@
       "category": "Security News"
     },
     {
+      "title": "CBN gives banks, others deadline to complete cyber security assessment",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajNZVDVnWFZkR1Rsc09KQUJVNlp2MGdNaEhCbW9Nb01ZUDBmY0xzMDJfRlVPdVFBWXJZd1BkSWk1cldjZjdUSnRlTGVzelozNjllQXBvNHZNUGFxRVpIazlsZHhKdUpkaWI2bHlneUJIUE00VlRJWUZlV2J5YVh6bkxXcW9feHBpWFZfQXlpSVdnd2wtUWZLSkh0QU1JaTZZdG40?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Thu, 02 Apr 2026 12:50:01 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Easter: NSCDC Mobilises 57,000 Officers Personnel To Boost Nationwide Security",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEZQMVNvd0FiN0pyOE1EdGw3bUZreFJSMmNra3VWRlB6UjlGU2poYnhPWFlCWWNkNlF3SUpMRWNVRGQzb2pMUFl6ZGlNaHBfZ1drMWh1a2dfQXpZQkp3LTZFNGZEXzNsUGV5UkRSWlJFVGVCc0tIOW9aemQyRDFSNkIxczZVNi1xTkZ5M2pFZHo2WG1oSElKR2lxSzJFbGVrNlHSAacBQVVfeXFMTWxUVUkyWXRoWmFQM1dCUUpXelF3cExYWVlHTl96UWtMMDl1clRucEtXVy1LaW5SSFlpNS1Gd3lqNmV0enZjRVZYSzR6YVp0YWVNRUNKdmZzMmdLXzZMc1pYNGp5Vk9QejZneHZOOERKX1B5MlpEdzR3eGdvVEljcW10QkpOM085eHdWMDQzcS03Q3B0MGdrSHgtR2MzQmZydFpGTzMyczA?oc=5",
-      "source": "thewhistler.ng",
+      "source": "The Whistler Newspaper",
       "pubDate": "Thu, 02 Apr 2026 12:24:21 GMT",
       "category": "Security News"
     },
@@ -344,24 +358,10 @@
       "category": "Security News"
     },
     {
-      "title": "Nigerian Corps NSCDC Declares Man Wanted For Kidnapping, Conspiracy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYl9PSjBTLXlLaFdORDJmbVNqUllYLU5MSnFrQlliYXdIQm41OFdTN3R4UXhpUzdpcDhUSmNMV28xTnNNdlBuWDVjMHczQU5JdEpsc3JGemIyaVZZdVNpOGlYRl9kSTA2NzZEbmdsTTA4cEo1dnVXQ2dKZV9iS2JpcnZVeHM1Sm5FZTlnRUFwNnBWV0FhX0xBXzBsY1Z6bER5QmJZ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Thu, 02 Apr 2026 09:07:01 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Portable criticises Nigerian pastors over security concerns, lifestyle remarks",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlJacU5iUTJqSEpLRGd1OW9hMVJyRko4ZXJLZ3pWUlowbjY4aEx5Nnd0cmpGanFPVGZOYmNKZUczcGxFYXRrazc3Mkt4RVp2UWwyeEpzZEt6V1NMUFVUR2txcTBXY3JjaDN5N1lkSTVHVjIwSERQWGJxNkJRZTBGeVNJdTNXUXIzY0x4c3VObVdPLW1qY2pHMm9MaHrSAaIBQVVfeXFMUDJZU2RGSFlqVW12TWxEaUI4Qy1VUUgtMnJxTE4tNmZiM0VVTkt4RjFFd3RBN0lSZVZxMmc5Y0p5bF9ibVJaejlVVEVwRmRETWlJdmlnZ2Z3czEwakNxVUtJRFNsWlpxbWRMa01CVzZvbWpMX1dDcktnTVR4c1BWNUp0RHV2c3lXaEY2Sk9YTEpjRXFyeTQ4Y1pPSi1MR3RxMGF3?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Thu, 02 Apr 2026 08:59:48 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Archbishop Martins urges FG to take security in Nigeria much more serious",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3RWOTZ3TGVuQTZjU3JlMzFNNlE3aDJPa2xsMkItaVVFajRpRU12OGF1ZTZrRGFzOUZPTjhPV0hZQWhtd1RYWVAxblRCeVNpNWh5bEhrTTI2UEJiU3pQT0p1ZHBVLTZOODVCMUpJQmhKaU92MnRXbk83WExVTkpJMTFFUE9FblBwZk53bkZtbHk4akNEdFRfR0xFU2ViUTM2d2p2Q2xKcm8zazhxYUZF?oc=5",
-      "source": "the authority news",
-      "pubDate": "Thu, 02 Apr 2026 07:26:00 GMT",
+      "title": "Chief of Army Staff visits Jos to strengthen security",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2FLbHFFZEk1WjZNOGJoM0UtMUZ2UzR4c2U4cVgwTEdQdnpQNVhRQkM1VXFqWlotRnRIcGxxNGxzcWZhTU11d1diMFJ4b1dDTW5Jb1RhVGdhNkhVcHVwblJDX2dWUm5FUUxCcTlObkRzRElhTUl2T2tfMmRZUWFMcTRrWXhtUF9jU3BOeEJFNA?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 02 Apr 2026 09:54:47 GMT",
       "category": "Security News"
     }
   ]
