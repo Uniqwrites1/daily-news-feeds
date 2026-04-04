@@ -1,19 +1,47 @@
 {
-  "timestamp": "2026-04-04T09:17:08.087Z",
-  "generatedAt": "04/04/2026, 10:17:08",
-  "totalHeadlines": 159,
+  "timestamp": "2026-04-04T12:15:10.629Z",
+  "generatedAt": "04/04/2026, 13:15:10",
+  "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 111,
-    "Military/Security Operations": 12,
-    "Law Enforcement": 6,
+    "Security News": 106,
+    "Military/Security Operations": 14,
+    "Law Enforcement": 8,
     "Insurgency": 7,
-    "Banditry": 3,
-    "Armed Conflict": 14,
-    "Kidnapping": 1,
-    "Traffic": 5
+    "Armed Conflict": 16,
+    "Banditry": 2,
+    "Kidnapping": 2,
+    "Traffic": 6
   },
   "headlines": [
+    {
+      "title": "Nigeria's Seplat Energy resumes operations as oil workers halt strike action",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLXQzZ0dJd1RuZDZYMmlTb3lmam4tZ2dkV195UGtrSUdTcHFFcVZQbWc4dzA3M2lMdXE2ZlkwZkl1eTZOcGExUFA3cGRJWWZZUjJ4ZkUzQVZvU0o5Vjdxdm92YjR2T3lUa0pMS2J0Z204YnNZYUdqdUxIVjlPZ3RLamxsaUJsbTBDcXRrLWUwTGx4Ums5UkhDN0dsSE5QU19qMnRLVUdNVHBPVVdTUGxWNWVoc1lXZ2k1QV9QTjlCZndJNGhEejRIbXZ5UUpweTd4VWtGb2FQdUxQUkZjWkM4?oc=5",
+      "source": "TradingView",
+      "pubDate": "Sat, 04 Apr 2026 11:02:17 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria–US Military Cooperation and the Challenge of Containing Sahel Instability",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUtEcFhFUVlGaEU4S0UtOGxZQlFQVmZDWXhWVnJoa2JPSjVqazhhYTVsYlVBYXJNQWJQOWVRWGRiZzI1bkVrR0g3X0pVZS1kQmFHdDYzR3ZvMnloMG95SE1nZmVWMHFwbFhPYkNDZzktLXFCRjd4VGVja2ZQd204bVRJQTdYRUxQa1dtSFhoTzE1M2t6eEk2TW42WFZHcVpvR3dYMEpXaEJ3VFp3Vy04cFVxMmJTdGZROTVKMg?oc=5",
+      "source": "orfonline.org",
+      "pubDate": "Sat, 04 Apr 2026 10:43:08 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "LASTMA probes alleged N100,000 extortion on coastal road",
+      "link": "https://www.vanguardngr.com/2026/04/lastma-probes-alleged-n100000-extortion-on-coastal-road/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 04 Apr 2026 10:25:07 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Jos attack: ‘It was to address the crowd’ — Mutfwang defends use of armoured vehicle",
+      "link": "https://www.vanguardngr.com/2026/04/jos-attack-it-was-to-address-the-crowd-mutfwang-defends-use-of-armoured-vehicle/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 04 Apr 2026 09:40:08 +0000",
+      "category": "Armed Conflict"
+    },
     {
       "title": "Iran, US race to find crew member of crashed American fighter jet",
       "link": "https://www.vanguardngr.com/2026/04/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet/",
@@ -36,13 +64,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigerian Army Discover, Neutralises IEDs In Abia",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCVjNEYjFDMGN2QjJWSnZTZnpPaUJqdHczV0F1ZjVKSDF0SzlkRTc1Qm1zZy1iWkpXbWNweV9qZzRSd3ZfUlppbmh3ckJPdzl6YjVhUDItVUdTb1FoSWVhODJBODhSVmlDRkRzLXloRm05RUNleTBoY1Fncw?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 04 Apr 2026 08:48:04 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Can they own the road they divided yesterday?, by Stephanie Shaakaa",
       "link": "https://www.vanguardngr.com/2026/04/can-they-own-the-road-they-divided-yesterday-by-stephanie-shaakaa/",
       "source": "Oboh",
@@ -55,6 +76,13 @@
       "source": "Henry Oduah",
       "pubDate": "Sat, 04 Apr 2026 08:20:28 +0000",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "PFN demands investigation, arrest of Jos massacre terrorists",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9qZllhTDJxaG84aHFrUUlCdXJaYlJGd2V4YnhGajZYVk9mMWRES3RieXpiWGFSTlN6MGh0QzFZZHFBQVp1Z0g5VTR0X0RGZlp2dmpsblpTUUlXLVRpS19McF9vc0U5a1N4dXV5eGR1T0dCeXRGRWdxZlphbzVFZWxQWm50enpy?oc=5",
+      "source": "Chronicle NG",
+      "pubDate": "Sat, 04 Apr 2026 08:13:23 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Lagos announces road closures for Fanti Carnival",
@@ -85,17 +113,10 @@
       "category": "Traffic"
     },
     {
-      "title": "‘Hide, find water’: Ex-airmen detail how to survive being shot down",
-      "link": "https://www.vanguardngr.com/2026/04/hide-find-water-ex-airmen-detail-how-to-survive-being-shot-down/",
-      "source": "Oboh",
-      "pubDate": "Sat, 04 Apr 2026 06:57:48 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Promises After Every Massacre: Nigeria’s Troubling Cycle Of Killings, Condolences, Unanswered Questions",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbldRSXJrZ2psWmtQSUt4N2dJNnJNZU5qY2ZOaGpLVGNBTjAyRHlyN0hDRUlqWEhzTTd5eHcweDZibTN4MGFZUU1UX3JBNnBfdnNGUzVOb1BFcEtOM1NqQTUtQXJWeUdQR2IyMmVtQjIwdm91b1JkSEtmd2hwOTB4UU56V2lGbXVoSHNrSkZ4eVNHYk5tXy1XMWJjNUlkUWhSdW11SzR6X1d0cE9uN05WY2djd0xITmNKd1ZfMUNyeVY?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 04 Apr 2026 06:01:04 GMT",
+      "title": "Easter: Nigerians Demand Decisive Action Against Insecurity",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGUwY3IwcjAzNFhubUN4UVEzUVZBZ3dLVVYwSDl6T2k3bjZWT1BnZ0dCS2J4SVBzZWhLVjhmTlZwSUp4aWwwLUZRc243NHBZVkxiQlAxbENLekpOM05iWGtUT3hKQVJCUTl4akNhaVlocWswb003bFhrYm1mRU4taVZ0ek01VlpmZEZUTmZSRXpwUQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 04 Apr 2026 05:33:00 GMT",
       "category": "Security News"
     },
     {
@@ -106,30 +127,23 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Jos: How survivor played dead to evade being killed",
-      "link": "https://www.vanguardngr.com/2026/04/jos-how-survivor-played-dead-to-evade-being-killed/",
-      "source": "olufemiajasa",
-      "pubDate": "Sat, 04 Apr 2026 04:56:28 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Easter: Nigerians Demand Decisive Action Against Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGUwY3IwcjAzNFhubUN4UVEzUVZBZ3dLVVYwSDl6T2k3bjZWT1BnZ0dCS2J4SVBzZWhLVjhmTlZwSUp4aWwwLUZRc243NHBZVkxiQlAxbENLekpOM05iWGtUT3hKQVJCUTl4akNhaVlocWswb003bFhrYm1mRU4taVZ0ek01VlpmZEZUTmZSRXpwUQ?oc=5",
+      "title": "Beyond Weapons: Why military reform, strategic urgency are Nigeria’s only path to defeating terrorism",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelBxUk5jTE9pcXJUZDlVaUpzcS1rQWx3aGIzbWNzdVRfMzRCVTF1ZUpnOHdIVDQ0Z1VqbEFBT19fVFViNnBxaHFtVnFWUXBDMnUzMnhTVkxTdy1wMGZkek0ydC0xbzlPUGRyaU1DTzBFSnlJSnZyemtNT0Jrd2UzYzZNZ2dfelBlUU9IdzNhUUI4MzVpRWtrYWU0cGotOGJUbDFkc2pfbTZlUWp4WFV3NW5UNG5VT0gwcHVzdl9LYjVJWVlWdUtV?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 04 Apr 2026 04:38:27 GMT",
-      "category": "Security News"
+      "pubDate": "Sat, 04 Apr 2026 05:04:00 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Redefining Security With Technology-driven Protection Services",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVM4cTVSOTRLYm9iUkRkQ3oxQ3NGd3FNOUtXZm1FVkQ2OHBPQTNBaTA5QTFGVmM2ZmtBUldfT1BfeTNNcUFmZGxCN18zUjdPTGtNRmI4azVyb09sMS05YTlKbUctVTNnaUJYdjNqZExxbVRDR01pa1JEYVZpZnpBbXQyclhyRFlGY1B6MkZtTWlZcGpwaFR6dEcxNUR1cWlDYkVJ?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 04 Apr 2026 03:51:44 GMT",
+      "pubDate": "Sat, 04 Apr 2026 04:45:00 GMT",
       "category": "Security News"
     },
     {
       "title": "Slow Death of Nigeria’s Middle Class",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZV9yTU91WDNXTmNqSjJQMG40c210U2xGRWxBdFZSNHBlYjdCdnVxU2tfc3hTUGREalBfa3NvZ3JKNlZ4ZVNiMWhMdndLRUZ5ZDc1RzcyRlhOazhoc1k1MzBFMk9qSGxUdU9tV0VURUUzakRPbmw0VkEwRFlkVWRWaQ?oc=5",
-      "source": "THISDAYLIVE",
+      "source": "thisdaylive.com",
       "pubDate": "Sat, 04 Apr 2026 01:34:16 GMT",
       "category": "Security News"
     },
@@ -143,7 +157,7 @@
     {
       "title": "Middle-East crisis: How Tinubu’s Naira-for-Crude Policy Guarantees Supply Security in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0hoTDZwMzA3QmRpS1hnYk02czViYjZ5aUJzdEtPdmlfVnNCaUZFZGJQejNibGdMMUk0OEo5V00xTUVOcjNzMG4wNnRFMFFTbzE3SmxQNzhGS1h5d3NBRnZjSVM1bkxuTk0ydFh4WTNCblNycTlISXJKNnVaaDllUjNkdGlYTGp3M2RGZEdWVlhSWTgtYXYzQkZDZHRYcWZvOVpIWmJ5Rnc0QTdjTFppcFZVazZKUzM3SXgwMVpWUjh5QUlTanVQaU44aw?oc=5",
-      "source": "THISDAYLIVE",
+      "source": "thisdaylive.com",
       "pubDate": "Sat, 04 Apr 2026 01:25:40 GMT",
       "category": "Security News"
     },
@@ -183,16 +197,9 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Labor strike disrupts Seplat Energy operations in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzVpdlVwY2RBNGREUlRwRFFqRUtodDdCYjQ1RzlDaElhdWc3dGpCVzhTWU1GU1ZneC1vMXIzR2lMWm16ZW1XZ3MyWktkclNMQnJOTUhDNkVSVC1RYnNWZkp2MENRY0g4ZzdIMnVCZlJMNVlEaGF1SkdxR1JLYnRic3ZJTmlNemlvSmhIY1BvX3hxWC1kUE5uZ2ZfNUxneGotcnhtTWV4bkhjZWNzZDB4bWlyaWZJcmPSAcQBQVVfeXFMTWJLZkRrbXVYOUVTS3pzS0wxZ2dzVjdjMXkxMlZDOFRJYjdDRHBVbU5jZmpkT0J0LXdSdTVMb1U4YmpickxQVHlwR2NjN0ZJME0xNlBJcUktRjJJM0xDcldKYUxhMGtEMHFzdlFkQmloOTI4NW94b0g4S1ZmRnVha19WVUxjeDBBeVpQME5wcE11aGVaTzVhcE1vWXlQelRXeEhpdjVhOGl2V29UQ0MweDRJWmlSODJwb3pwUzlpT1c1VnlQMw?oc=5",
-      "source": "Baird Maritime",
-      "pubDate": "Fri, 03 Apr 2026 18:37:12 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Nigeria’ll implement cooperation agreement with Türkiye — Minister assures",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFZhTHRFOGhRODVtSlB1LVJSNXI3NVo4bzFpbjJTVmhxdXdodF9IU002ZVdqZnlPeXZUMVFUM3NhYW16WGp5MkZoMWdzcDA1ZWtoY3pRMTZKVTVUUkNGZFM0TFlWZTFyUEJRcXMxQnRjNVlfOGx3bU5RalZtOFZabGtyd0xIMXVZeThicEdRWC0zUUo3ODFkLWo4dGJBeHlrRGZZ?oc=5",
-      "source": "realnewsmagazine.net",
+      "source": "Realnews Magazine",
       "pubDate": "Fri, 03 Apr 2026 18:12:34 GMT",
       "category": "Military/Security Operations"
     },
@@ -218,18 +225,18 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Records 300,000 Terrorist Surrenders In Nine Years, 2,615 Reintegrated",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0o0azRNcnd2WWVtSzJXQ1k2Y1hRYk5KRENlTFZONjFhX0taUXFycVdsQlB0OGxNcEFNYnV1MlhrYlZCWGZtOFlBdjNjdEdfOUM5NllkaVh6bGZxaHY5ckp4dmV2TXRkYkJZVEg1dFBSMWp1Yy1WbWVkck01aXRUM3NacGhFZ2hqUXBUWVFmRFBkU3R3NDZJdUg1c2F6dw?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 03 Apr 2026 16:44:46 GMT",
-      "category": "Security News"
+      "title": "Troops arrest fake security operatives, foil attacks in Plateau",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVEpYd3ZQRG9qbEZaX0N0RVJDZGx1V045YXJqY1A4RDN1RGRmQnBtOEJKQXVVMmZJZVlUZlNkS0FONUk3aE92V3NkMUk0XzFLbF9qS2Z0RHhXaDRiVXBPUXBQQVNydWJnSjIwWlZjX2hFakMteVktcDBwQWxRNENTdTRMTWp6UmJqM2ZSb0tfd0lURmFWQjNTUHZUSQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Fri, 03 Apr 2026 16:46:01 GMT",
+      "category": "Armed Conflict"
     },
     {
-      "title": "Achike Chude: Nigeria-Chad Partnership Key to Fighting Terrorism in Lake Chad Basin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdllYYm1ucTd0NlJGc1ZmenZCeW56bnBaTzNESTZjQWNIZ0tQUU04Skh4dTNBVF9laWFISm1lc1F3dHNlTnZXOTRaS3QyM1FKN0gwQ2FLMjF0cXk2akVmNGVEbjNLT0hsOTRWaXNOM013SFg2S3JRV1hzZ2JOTTMxX1k5MzZhVmxXMklOQlNOcUVIRnJOUzlVVzFYckRPbUh5Rjk3MWx1UQ?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 03 Apr 2026 16:39:46 GMT",
-      "category": "Insurgency"
+      "title": "Plateau Killings: Group renews call for state police, urges prosecution of perpetrators",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTFvVmZGWWZvOFZZa3Z3b2RGVndyemhMNDFvaV91LWxCOVlQNWdTQ0Z0ZmpZQXFCcWVpLUlON0ZxNkp5bW5HSGtMYmRUc0FFeGoyOWltMkFLTS04aHVrc0JxVXpLbUhfSTc3Uk8xRzVod0JzOFl2cUtMenMyaExXUGVTMDJhNlRuQnRMMEx2X0NDeF90VUJSN0pRZXBPVEd4Sm5nWnpoMnRLR3c?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Fri, 03 Apr 2026 16:41:43 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Jos conflict: Wetin dey fuel conflict for Central Nigeria",
@@ -335,13 +342,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Fri, 03 Apr 2026 05:07:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Deadly Attack in Nigeria Highlights Persistent Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDZnMkhnLVpkUVBNZHB5RTdIcmlINmNlc3lkZjNyN1JldHJkM0VSMWd4cTVyRC1pbEtMTWF2dUQ5bWJXM2lsTkRWclRHTWtQeC1LNjNuYS1PQ1NZR3o0Si13M0hST00xc1k1eFdrZHR5Z0RZU2k0VV9LX2hFLUs2NFl3ZXBvcFpCU3A2a0g4WFBjaExwM0NxMg?oc=5",
-      "source": "hrw.org",
-      "pubDate": "Fri, 03 Apr 2026 05:00:00 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria: Victims of sexual violence speak out",
