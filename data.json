@@ -1,31 +1,101 @@
 {
-  "timestamp": "2026-04-04T06:26:54.580Z",
-  "generatedAt": "04/04/2026, 07:26:54",
+  "timestamp": "2026-04-04T09:17:08.087Z",
+  "generatedAt": "04/04/2026, 10:17:08",
   "totalHeadlines": 159,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
-    "Military/Security Operations": 13,
-    "Law Enforcement": 5,
-    "Insurgency": 6,
-    "Traffic": 2,
+    "Security News": 111,
+    "Military/Security Operations": 12,
+    "Law Enforcement": 6,
+    "Insurgency": 7,
     "Banditry": 3,
-    "Armed Conflict": 12,
-    "Kidnapping": 2
+    "Armed Conflict": 14,
+    "Kidnapping": 1,
+    "Traffic": 5
   },
   "headlines": [
+    {
+      "title": "Iran, US race to find crew member of crashed American fighter jet",
+      "link": "https://www.vanguardngr.com/2026/04/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 04 Apr 2026 09:08:00 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "DICON, EIB seal landmark deal to boost Nigeria’s defence manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3NrcHNleW9ndFdOUE5vVUFydmdJVGw1SFI3TE1Id2hSYnNzN2V3SFZuZTNKcWxSV20zRTBXdzh1ZE9veXJWaGR2cGhsZzdCUGFqVjBwSE9XZENxaG9XT2tXVnZ3ZTI5cjdrQ05QNF9hUXRTRWVyUjZoZVhweW5fT0hFdXNqdWRNNU9GUUhSRTFmUDBpWGhNdjFn?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 04 Apr 2026 09:04:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria: Bishop Kukah warns against normalising violence, emphasises hope in the risen Christ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3l6VlNYNnpUM011V3RSTWxNcEx6d0tnOXd0bmFrejBZMUZ3dkdmYVV3ai1qQ0NDb1lLY1YzaEI1UUd1RjNwYkt1akRiWEl6U3RXeWs5U3RLb19uN2Uyd2lSY2lyWVh3bjFXSVE3Q2dQSFRyY1hlNU4xdi10WHRJMnpiZTF6XzlfbVh1clpDTmVGUWNBeVZWOEsxZnU0UkZsRmpoUWE3UzdkUWhidVBrSncxNjBaQnB2?oc=5",
+      "source": "Vatican News",
+      "pubDate": "Sat, 04 Apr 2026 08:49:18 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigerian Army Discover, Neutralises IEDs In Abia",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCVjNEYjFDMGN2QjJWSnZTZnpPaUJqdHczV0F1ZjVKSDF0SzlkRTc1Qm1zZy1iWkpXbWNweV9qZzRSd3ZfUlppbmh3ckJPdzl6YjVhUDItVUdTb1FoSWVhODJBODhSVmlDRkRzLXloRm05RUNleTBoY1Fncw?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 04 Apr 2026 08:48:04 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Can they own the road they divided yesterday?, by Stephanie Shaakaa",
+      "link": "https://www.vanguardngr.com/2026/04/can-they-own-the-road-they-divided-yesterday-by-stephanie-shaakaa/",
+      "source": "Oboh",
+      "pubDate": "Sat, 04 Apr 2026 08:45:12 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Gunmen kill three in fresh night attack in Jos South",
+      "link": "https://www.vanguardngr.com/2026/04/gunmen-kill-three-in-fresh-night-attack-in-jos-south/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 04 Apr 2026 08:20:28 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Lagos announces road closures for Fanti Carnival",
+      "link": "https://www.vanguardngr.com/2026/04/lagos-announces-road-closures-for-fanti-carnival/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 04 Apr 2026 07:47:54 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Group Demands Urgent Action On Killings, State Police",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlNFbWNISHRYamdmR093VmZLRHNyZTFKMy0xN0R5ZFVVWHVHajRBS0xtWmxiSGhYQ2Z2eGxldGE2LUhLaHJTOWhmQkFpdkk0NVFHaTBZRDFuNlM4WUtZb1Bxa2tBX3AzOGU1Z29VMnRxUDZhakFPclY1andCX3E1Qg?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 04 Apr 2026 07:46:03 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "dead, 52 houses destroyed in Nasarawa communal crisis – Police",
+      "link": "https://www.vanguardngr.com/2026/04/11-dead-52-houses-destroyed-in-nasarawa-communal-crisis-police/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 04 Apr 2026 07:40:24 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "BON To Host 2nd Nigeria Broadcasting Awards April 8 In Abuja",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaW02LVNWUklMNG9BZ1ZERFpfYnRSNUkzekZydmtuQUM3TGpwQVY3Nnk0bElWVmY0YVo3aVQyRnZ4d01NX1BEU2d3MHFVVDdDa01TLTlnMXVXX1ZUQ3JsWTFBa3huWER6X0pySzAzMzByWjdXd3AtY1RBTmc2SVJkYmpGdldtN0U?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Sat, 04 Apr 2026 07:36:22 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "‘Hide, find water’: Ex-airmen detail how to survive being shot down",
+      "link": "https://www.vanguardngr.com/2026/04/hide-find-water-ex-airmen-detail-how-to-survive-being-shot-down/",
+      "source": "Oboh",
+      "pubDate": "Sat, 04 Apr 2026 06:57:48 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Promises After Every Massacre: Nigeria’s Troubling Cycle Of Killings, Condolences, Unanswered Questions",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbldRSXJrZ2psWmtQSUt4N2dJNnJNZU5qY2ZOaGpLVGNBTjAyRHlyN0hDRUlqWEhzTTd5eHcweDZibTN4MGFZUU1UX3JBNnBfdnNGUzVOb1BFcEtOM1NqQTUtQXJWeUdQR2IyMmVtQjIwdm91b1JkSEtmd2hwOTB4UU56V2lGbXVoSHNrSkZ4eVNHYk5tXy1XMWJjNUlkUWhSdW11SzR6X1d0cE9uN05WY2djd0xITmNKd1ZfMUNyeVY?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Sat, 04 Apr 2026 06:01:04 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘How fuel price hike is pushing electric vehicle adoption in Nigeria’",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDR0WXZMT09UdmZQMWpWdkQxNVlPaG1PLXp2MjJ4OHRDNldNM2NHME1acWV1NXZRRjVXS01ydmNheEw1YWxPRHpZM0g0R3VBSkFzTDA4cDBab3Y0TFlpNFU4Z0VWckp1aEt3Sjd2amZOM0RmNXluLURQRGljcmZOX0JibDJNN1BTNV9RRVg1RzZEVXVUM2c?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Sat, 04 Apr 2026 05:17:47 GMT",
       "category": "Security News"
     },
     {
@@ -60,7 +130,7 @@
       "title": "Slow Death of Nigeria’s Middle Class",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZV9yTU91WDNXTmNqSjJQMG40c210U2xGRWxBdFZSNHBlYjdCdnVxU2tfc3hTUGREalBfa3NvZ3JKNlZ4ZVNiMWhMdndLRUZ5ZDc1RzcyRlhOazhoc1k1MzBFMk9qSGxUdU9tV0VURUUzakRPbmw0VkEwRFlkVWRWaQ?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Sat, 04 Apr 2026 01:43:36 GMT",
+      "pubDate": "Sat, 04 Apr 2026 01:34:16 GMT",
       "category": "Security News"
     },
     {
@@ -71,25 +141,18 @@
       "category": "Security News"
     },
     {
+      "title": "Middle-East crisis: How Tinubu’s Naira-for-Crude Policy Guarantees Supply Security in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0hoTDZwMzA3QmRpS1hnYk02czViYjZ5aUJzdEtPdmlfVnNCaUZFZGJQejNibGdMMUk0OEo5V00xTUVOcjNzMG4wNnRFMFFTbzE3SmxQNzhGS1h5d3NBRnZjSVM1bkxuTk0ydFh4WTNCblNycTlISXJKNnVaaDllUjNkdGlYTGp3M2RGZEdWVlhSWTgtYXYzQkZDZHRYcWZvOVpIWmJ5Rnc0QTdjTFppcFZVazZKUzM3SXgwMVpWUjh5QUlTanVQaU44aw?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 04 Apr 2026 01:25:40 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Senegal, Nigeria deepen energy cooperation - APAnews",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVEVoZlhNWHVXM1NWZy00T3I0UVp3empLSTBya01GNlhjVE9zeGxqT25mZmRkUlh4XzVfb2JBQWhicE5DZ2g3RVlLLXlDQzFlWjhHRlF5OWdtdVdoOU8yV0VheTR6WUd4SmZJMWVpSQ?oc=5",
       "source": "Agence de Presse Africaine",
       "pubDate": "Sat, 04 Apr 2026 01:20:34 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Middle-East crisis: How Tinubu’s Naira-for-Crude Policy Guarantees Supply Security in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0hoTDZwMzA3QmRpS1hnYk02czViYjZ5aUJzdEtPdmlfVnNCaUZFZGJQejNibGdMMUk0OEo5V00xTUVOcjNzMG4wNnRFMFFTbzE3SmxQNzhGS1h5d3NBRnZjSVM1bkxuTk0ydFh4WTNCblNycTlISXJKNnVaaDllUjNkdGlYTGp3M2RGZEdWVlhSWTgtYXYzQkZDZHRYcWZvOVpIWmJ5Rnc0QTdjTFppcFZVazZKUzM3SXgwMVpWUjh5QUlTanVQaU44aw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 04 Apr 2026 00:58:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "APC Deputy National Chairman (South) appoints Ginika Tor as Principal Liaison Officer",
-      "link": "https://www.vanguardngr.com/2026/04/apc-deputy-national-chairman-south-appoints-ginika-tor-as-principal-liaison-officer/",
-      "source": "Nwafor",
-      "pubDate": "Sat, 04 Apr 2026 00:12:00 +0000",
-      "category": "Security News"
     },
     {
       "title": "Middle East conflict sends Nigerian business costs soaring",
@@ -99,20 +162,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Jos Massacre: I used armoured vehicle for height during condolence visit – Mutfwang",
-      "link": "https://www.vanguardngr.com/2026/04/jos-massacre-i-used-armoured-vehicle-for-height-during-condolence-visit-mutfwang/",
-      "source": "Oboh",
-      "pubDate": "Fri, 03 Apr 2026 23:15:34 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "CFRA urges hope, justice at Easter amid rising insecurity",
-      "link": "https://www.vanguardngr.com/2026/04/cfra-urges-hope-justice-at-easter-amid-rising-insecurity/",
-      "source": "Oboh",
-      "pubDate": "Fri, 03 Apr 2026 23:02:00 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "DW News. . Outrage is growing in Nigeria after videos showed young women being sexually assaulted during a traditional festival in Delta State. The clips went viral, driving the hashtag #StopRapingWomen and renewed calls for justice. #dwcurrentaffairs",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGJyS0VteHdYVHBsTFdxc29KaFpvUzl2cnNGM29kRXMtTzhaMjN6VzZNcmFyTkNQM1FYR1VPWU9Za2ZNUG9ZaHlqY0EwNVgwN2RocTFHb0dHVi1KZ2dRWFpxbmo4dGlLQ254NFc3RktDamtKSTRrcHZ1NE9JWTB3dHNLSTJVTllYUTZoUzUwQW91OEtPVHJWUmZka1diaG54QVZTSS10aEtEVWhmMkN3WVMxQmdBUXpOWEQzaw?oc=5",
       "source": "facebook.com",
@@ -120,8 +169,8 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Drives Africa’s Gas Cooperation for Regional Growth",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0UzRFRnQ2dvR0F1MmxWeHdaajROMm1UMnZTM1pONEFvTm9PNElYdnpSYU41enYyU1c2a0oyLXlEczZETXNvX1RjZzVjNENzOXVRV0NBdnFBNE44MWx0RXk0UEx2a0h2MlVoQlhoLUNlLUlvYXhSUXJncEYyRVBsU1VPeUI?oc=5",
+      "title": "Nigeria Leads Africa Gas Cooperation Drive for Regional Integration",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWU9VSXhSRmFGLUVnRUhaa3o1b1VOVW93a19YNlhYN0xLbDBSaFFCX2gtaU9pUWlIMHNUYkV2S2dDTTNlRW9HeDYtWjBBZzFkTkhrT2tGbnN6MG8yVWRxQ0RsTTRTeTNOV2IxYnZmSXpraHcza0otOHB3X2VDVkUtN2lkTXp6NF9XT0lHUTVyY3I?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Fri, 03 Apr 2026 20:24:12 GMT",
       "category": "Military/Security Operations"
@@ -132,13 +181,6 @@
       "source": "Arise News",
       "pubDate": "Fri, 03 Apr 2026 20:00:19 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Experts Produce Policy Tools To Improve Security Communication",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNczhyTEgxYnh1dFY5RWZrOG81dDJ2MU1YYzJQWkpncEdjOUR5MlRvMXpFYmdQdkg4dG1jS1lJbFktSWFkbEtoVHFNM1NmOVdEUmlqOVVDZHpLNW5WYTJ6RHpsMlhxRkRxYlpBSG1ZcC02Nnd6c3VRMTNkekVrT2piOGxocjJidnZ1dHc?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Fri, 03 Apr 2026 18:50:58 GMT",
-      "category": "Security News"
     },
     {
       "title": "Labor strike disrupts Seplat Energy operations in Nigeria",
@@ -183,13 +225,6 @@
       "category": "Security News"
     },
     {
-      "title": "Plateau Killings: Group renews call for state police, urges prosecution of perpetrators",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTFvVmZGWWZvOFZZa3Z3b2RGVndyemhMNDFvaV91LWxCOVlQNWdTQ0Z0ZmpZQXFCcWVpLUlON0ZxNkp5bW5HSGtMYmRUc0FFeGoyOWltMkFLTS04aHVrc0JxVXpLbUhfSTc3Uk8xRzVod0JzOFl2cUtMenMyaExXUGVTMDJhNlRuQnRMMEx2X0NDeF90VUJSN0pRZXBPVEd4Sm5nWnpoMnRLR3c?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 03 Apr 2026 16:41:43 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Achike Chude: Nigeria-Chad Partnership Key to Fighting Terrorism in Lake Chad Basin",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdllYYm1ucTd0NlJGc1ZmenZCeW56bnBaTzNESTZjQWNIZ0tQUU04Skh4dTNBVF9laWFISm1lc1F3dHNlTnZXOTRaS3QyM1FKN0gwQ2FLMjF0cXk2akVmNGVEbjNLT0hsOTRWaXNOM013SFg2S3JRV1hzZ2JOTTMxX1k5MzZhVmxXMklOQlNOcUVIRnJOUzlVVzFYckRPbUh5Rjk3MWx1UQ?oc=5",
       "source": "Arise News",
@@ -202,13 +237,6 @@
       "source": "BBC",
       "pubDate": "Fri, 03 Apr 2026 15:47:26 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Tinubu urges Nigerians to reject forces threatening collective well-being",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTFVOE9YWlpIbGNFX1FkNmVqbW5SY3hnTmVnRjZNd2M5VjlyN2d1T3VQT005akVWeTRCbE1MSU92d2dFNFppZnpSamhhOUN4alloWGhYQUdtX2R4eWZoN2dKN2ZWM18wek5ObXVWMWpHUVFVSUt5Slc1ZDlLREpOS045V1BQQ1JLS01pRHdpa2doNjUzWi0xOG15NXJ1RkJjOGdFR0ZjVGRsdEdaZHZN0gG0AUFVX3lxTE5QbWRiTHFtaHpZbDh4SDJCelhheC02UFIzeGJiV1FtZGllWUsyTDU3ZjhlSVF3bzl4UXBUZC1aWnhfR1l5STNNQ3p0QmctRHlMc1hzT2k5NlduSGsyZmFleGxpNW5fa3d0ZXhZR2lXNkk2X1RKYTh2bGhGVEpHVkFxMlRFTzZQVHVwUUE5all0SFAtNk15bWtJbFRnTmZqOS10b2p5ZGFpN3p6SzVXdWU1MXJ6cw?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Fri, 03 Apr 2026 12:41:59 GMT",
-      "category": "Security News"
     },
     {
       "title": "Easter 2026: Wike Implores FCT Residents To Embrace Unity, Assures Security, Infrastructure Boost",
@@ -311,7 +339,7 @@
     {
       "title": "Deadly Attack in Nigeria Highlights Persistent Insecurity",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDZnMkhnLVpkUVBNZHB5RTdIcmlINmNlc3lkZjNyN1JldHJkM0VSMWd4cTVyRC1pbEtMTWF2dUQ5bWJXM2lsTkRWclRHTWtQeC1LNjNuYS1PQ1NZR3o0Si13M0hST00xc1k1eFdrZHR5Z0RZU2k0VV9LX2hFLUs2NFl3ZXBvcFpCU3A2a0g4WFBjaExwM0NxMg?oc=5",
-      "source": "Human Rights Watch",
+      "source": "hrw.org",
       "pubDate": "Fri, 03 Apr 2026 05:00:00 GMT",
       "category": "Armed Conflict"
     },
@@ -334,34 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VazNqZ1RkT0RDVWVMdUJkbUkzSVp3bFZYNXpuUlliNENBR21sY3ppTVBtX2dXcW9zamVNMnA0bjBCRXUzRTlHU1pXbDlNWURTc2thS0dXQkF1ME9aWUJyRU1tVDNDWjhLSHIyT1pKQTctNTQ5dTI40gF8QVVfeXFMT2VyN29ZQ0lwU1VVWXNfY1Bydko3Qlg4R1hLOGRDOEthNkZtVHhWRnl0Ym1sUnFaZXNuVHUzZmZoZm5STFNNWVJhd0lTNEp2dVhIbDMwSm0yMzl3UGxSR2l1U3pkdUM0M3ZUYVBfSmE2UnhuYWlqLU5SaWtNdQ?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Fri, 03 Apr 2026 04:10:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Easter: NSCDC deploys 3,206 officers to protect assets, infrastructure in Lagos, Delta",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2FkdVBPcnBncVpyWkJ5azh1dmFJOU92VTJZbmNjYWc4dDFpSjJGdkI4X2NIcWtYaHhzLUU4VUhvT0ZFVzJwSTBCM1ExVW91blNxSTREYTNoaHdVbURlOHFyOWh6MjJnSFdmSzBINjhoMVhEQ1JsRTRPaVNDME9Vc1NjNG5JdWFMTGszNzZHYzlzVFRWdFlSMTJ2NTN4ZE4tNW1GYlJRNWIwRTVWdnF1M01zUEJPdjgzc3JGcENfOA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 03 Apr 2026 04:05:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, Chad To Strengthen Security Ties, Pledge Joint Action Against Terrorism",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1ROeENUNWdFQWl2eUpuMUtUZnRaZTROWFZIR1pISTVFWS1uVE9mUlRQTUpONDZCUFZnX1F5RFFPQ09aLVFjUnd0UFFKbmQ3SlBSZ19zQkRXYnhDaU94OFd5MjlzQUhUUFkwYlJmNEJHcFA0WnlEQ3NWSjh0OVdCMmRNNF9aZWNXTjZPZ19HWm5JeUlEZlROQXYyZktPcWhNNmc?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 03 Apr 2026 03:59:31 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Nigeria Advised To Treat Wildlife Crime As National Security Threat",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUllJd2NicklUa1lDeC1LQ05ObWVxMjJVb0VvbG45TldxTVhkX1ByRmFvOGZvTEg4cnpldVQ0aDZ1V3YxTnVZTERudm9RSVZIUEUzblVRcmc0cU43SVhXZWxnNndSanN1Vk5JTmJ1Z2x6eXN4Um9WYnJteGh2QnRJTEluSElLMDhsZEREMnFWUE9ZSG8?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 03 Apr 2026 03:19:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Killings: FG has abdicated its most sacred duty of national security — Gbenga Hashim",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlBGZDdsMDhsTXdjWThqRWFnem1mWGNwWDBDc2NnZFNnelUtVVhzQm83SDI4T3l2Zm9kT1hiWVlWTlhhZXZJZG1kbTk0ajNhRkpLdUtBd1JiX0VwUDY1emlOamRpeDhveGJKSHNoUUVPZVFDb2JPck5BZUR1VWhOTHNaNm5OUHhoS3lNN245RUh2eVRyVEp3OTNjYTFRd3JYSi1LSWRnZzVZMVZWdlA40gG0AUFVX3lxTE0ydmhCZk5SS3FMWGQ4c09fcWwzVHJZVU5FZW8tb29tWGNtVTVXbWtieWJQLTBHS0hyRTJUZ090REx2aEFUaldoaTdIWG9uOGFPQVByVGQ2QmtyLVhqU3hGN0ppTWlYTTdZWHJxNzhseEVfZmJqWHYyWXFaYXFuSVlsSnk4SDZoUUZ6eFFRZm00ZUxIa2RaS2dOVGpTNW9UNmZybDkteHg0ZnNJWXlIaGxoVDZHMg?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 03 Apr 2026 01:50:00 GMT",
       "category": "Security News"
     }
   ]
