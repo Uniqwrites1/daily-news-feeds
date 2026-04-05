@@ -1,32 +1,67 @@
 {
-  "timestamp": "2026-04-05T06:31:51.387Z",
-  "generatedAt": "05/04/2026, 07:31:51",
-  "totalHeadlines": 181,
+  "timestamp": "2026-04-05T09:17:51.479Z",
+  "generatedAt": "05/04/2026, 10:17:51",
+  "totalHeadlines": 180,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Military/Security Operations": 10,
-    "Security News": 124,
-    "Armed Conflict": 15,
-    "Law Enforcement": 6,
+    "Security News": 120,
+    "Military/Security Operations": 12,
+    "Armed Conflict": 13,
+    "Law Enforcement": 10,
     "Insurgency": 13,
     "Banditry": 6,
-    "Traffic": 6,
-    "Kidnapping": 1
+    "Kidnapping": 1,
+    "Traffic": 5
   },
   "headlines": [
+    {
+      "title": "In Long Easter Message, Kukah Calls Nigeria ‘Field Of Death’",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeE1CUWNDOVBlRGY1MnNnX3ZtMmJkdm84OV9HLTJaNE5rOXlBZEVnT0xQRVFwckZVRXA0VlZPTzdZVjk2TEhlN0RpdFdsMXhvb0U3UmFkR0RXVC1iZlB5alB1TTNPQXV1R2ZvcUVFQ0RBbTBqbmJLU0hmQl9sLU5OT21laU9jS2xT0gGOAUFVX3lxTFBMYmNwc1RvaFBJaDVMMUR2MHM0cF9OVHRmWlEycnAtakplSGtUNjc4bUVWVVhpSVRWS3ZSUmMzLTh2R0ZCcGZLY2gzYlZmTnZkV2UtZENic0ZOc0dyVkVMUnJtOERIMFYyaVNKcWlNdkpvMGtQc2lfdjczbmF1eEpuMVRTY2YzWXhlcWJlLWc?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sun, 05 Apr 2026 09:13:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "ADC takes democracy concerns abroad, appoints envoys to engage foreign govts",
+      "link": "https://www.vanguardngr.com/2026/04/adc-takes-democracy-concerns-abroad-appoints-envoys-to-engage-foreign-govts/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 05 Apr 2026 08:07:43 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigerian police find missing teenager who just arrived from Spain",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejF0ZV9IcjFqN19uMldCc3RhblJzRHJtTjM0a2Y3OWRxUnFLSDlnOF95c2ZFNjNSTzFrb1lVR1g0V0pMRkpCOVplbDF5c2thLUF2ZXY2eHBjeDBUMzZHVVRuZnFlRTVIOHFpcVlwZjRMYXlhWUhGal80TzVLSWRoc1VjRkctY0dGcmx4ZkpST3J1eThKMGJjVXg1N1RoLTgtLTVULUdYaTF2M3l0a1Z5THZSX2FHQ1JHNjU0YngtMFk?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 05 Apr 2026 08:00:37 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "TIMELINE: Each Time Nigerian Officials Threaten Journalists, They Get Away With It",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2VES3h1WDcxZ1JHaVA2bzBFTFVlTkROZkhIcW94TENiNlAyOFRfdThpelp0ang2cUJ2Y29EczBIVXpIeFVlY25HUjhHbEtRb19WaUNYZERWcGxzM19Mak1FM3NVcXBqNWNwTVByZ1R0LXQzS3BhdGlDN2ktNThpMGlQcmdrRnpuVS15ZUdfSkdLT1hVN3NYZjZrYUtOZmVUMkdidGNJOA?oc=5",
+      "source": "FIJ NG",
+      "pubDate": "Sun, 05 Apr 2026 07:44:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Second case threatens to ‘kill’ ADC",
+      "link": "https://www.vanguardngr.com/2026/04/2027-second-case-threatens-to-kill-adc/",
+      "source": "olufemiajasa",
+      "pubDate": "Sun, 05 Apr 2026 07:38:15 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Trump says two US airmen rescued in Iran after giving deadline for deal",
+      "link": "https://www.vanguardngr.com/2026/04/trump-says-two-us-airmen-rescued-in-iran-after-giving-deadline-for-deal/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 05 Apr 2026 07:01:30 +0000",
+      "category": "Security News"
+    },
     {
       "title": "The Insecurity Triad (III): Terrorism — The Ideological Ghost And The War For Nigeria’s Soul",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3pwdkROLXdsUHBDaWRSNFFycFRYaE8zWktKalAyOE4zVThYY1hpVzRORVVkZ1R4WkhGa3JLNnRSeGo0MkR5ZUROX216dFpucXNuUE9JYk1DRGxGTU96eURJcktmZnd4SXpoNXBOdWpaRklHWkpDSWd1V2oxSHVmNHN1UDM2WTZZa1ZHc0cxamNwTnEwMjRrR3JmQmwwRDhJSUVOQndOMWQ2Tk1GR0E?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Sun, 05 Apr 2026 06:15:53 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Between faith and hunger: Nigerians mark Easter under economic strain, insecurity",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY002dEFERlhhUGR0YXlRQ3FCbmMwYUFRT0thTC01VzlQX3hGUUl1ZVdGV1BwbEtyVTBYTW1BNHZUamMzYUpBM01LeTdlWjBfMmhHM2ZsbVg3TFA4ek1HSVBYMFdXWDhMT1ZWUXVTQzlRZFhoM3RLUzZTa3NqR01WOXkzSVFDMkhoSUJfU2pKWHprVm5nV1FUQWtMTXpsS09va3ZpcXNxRWNSV0NV0gH3AkFVX3lxTE9yM2F5OVN6el90clJYRDl5YUMybDE0ZFhwWDBNMkpJTnltMDNweTNEZmRFcUJoZDllanZGTkFmMk9ad1hYY0RvMlhkc0RfQnpoOXNkUElmOUItOXVPTFFjV1NSMFlrcnhPWGdMaEJQTUQzYm5LbDdTQXkwdndUdmg4dGxIaEc1bTRmRnV0TEE5S1VYWTExa3NiN3FVdm1EU0RkSUhHcnZzeWlkTWRiVHMybHBlWnpNMk1zNVlmbzNFRlVGN1dWSldjMUdYMjZNU0FBNWU4VmNnN1I2b25EM0NTWlMtZ2JtSGhIbVJ2VXJ1S19tSzZlY1ZiQVZ3aXl5OTU2OC1vQ29QT0NFYl9ydS1nU1dRZnRJMWt3MzFJeTEzb0JGSmlNQ3pjRnVYNHFqcWZtWDItWnNIYThRb1FlOTNuYU9yb2Jhc0hDa2FUeWItM0FrOU9yTE8zWGNxc0ZPWmlZMVl1UVlrWEhqUG1sdnhreEZVQ0l6SQ?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sun, 05 Apr 2026 05:30:00 GMT",
-      "category": "Security News"
     },
     {
       "title": "BON to honor industry giants at 2nd Nigeria Broadcasting Awards in Abuja",
@@ -92,13 +127,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Easter: Akpabio, Abbas, govs, urge peace, prayers as Nigeria battles insecurity",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1JoeTlaOUlGTV92Zm9sTURYNVY0cU9iUzJYZzFwVjcwbURnVzQ0Q2VuOHVldnluV0JoZ0FBWS0tNlhiZHNjSDloZUdNVW1BYXBEb0FpbFpuUGlqYWNvVmhSc3pvLXQ4aVhJWXVDMkFwaGdoR0RnV0JmTUhSU3FneGdpNnJNVWZhbHd2MVh1dHYwUEdnZ2NGUNIBngFBVV95cUxOQXBENm9yaE1yN0RiUjhPay0yeTlvNFZNVmdVN1NPZ1k0ZGx3T3BBS0d0OUc0dnlRQi12aE1NQzhhbFhNNVB1dEpjMFU2elZyQmMwOXlSQTR4QUV6NlNta2RENS1sSjNFS3l3MmJrUTdJZ0JBRk9Lcm1HWlRqMkxHTUlaWkx3RWNhcVNjd0lVc192WjhKcHpNbFQtVU9PQQ?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Sun, 05 Apr 2026 02:37:01 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Easter: Nigerians Never Signed up for Suffering, Says NLC, Decries Worsening Insecurity, Poverty",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUEhqbFNUZlVoSEM3WVNzNzhQVEdaZm1lNkJxYkt4YmR5TEhTdkNoMmV5WTRSQ2tMTU01WXozQW80ZVF6UDFLb1dfbDFoNjA3WUpUQklYc0lZTVBUZnpkcWtsV0hOTDhJT2RvWF9RVVBkdEFxQmRBN24tSExZdHhmd201cUcxOXd1dDVZbXItdlpyR2NZdlI5WDBBZVJFaVQ2RDZOdTB1S1lTV2diRXI3dXJrd2d0RDdITDVMSUNNbVhvWFNoSFlac054MWY?oc=5",
       "source": "THISDAYLIVE",
@@ -150,22 +178,8 @@
     {
       "title": "Fencing the Future: A strategic and practical security solution for Northern Nigeria",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjYtX0JoZkpLRXpxS1N5cmVtbmpoU1RETkdMYWpIZ3BqUGZoOFV1QmVQN1VYMFJTTE1NNHdGdUhmc3d4VlNvS2J2MWhvNDZHSlFBTkMzekw2RzY3Zkk1NnAtRjdLaWRrbGhxbGtsOFlNcW9Ma0kwQUFlNFJuRy0xRy1vcy16RVdxbFlCaHNoOHozVUtTc0FxeHAzSWtsQkJUUlZrYlJQUUl3VHlLc0VXMFRfS2ZWWHdORWx3Y9IBwgFBVV95cUxOLWhodndabVRqRVlqbWRHMldySFh6Z2UtdVY1Zzg3Mmx4SlQ4OFNPUktTNkQ0b2Mydnc3MXZPMEpONHpGVFdHY2hLRUxkd2JuTzVreVlmajFZNE5nMVV4VnA0LW90QmtHdk5Ic0VHdmdYUlgwUnUteWloZDJmeV84YTJsOEI5ZjZWYkwxMVJySURGcUpNdHpJdXRGT183ek5qaFl3ZHNLYmhfaGZSWU5ZaUR0Q3pIdDk5R2xMNnpyOVc2QQ?oc=5",
-      "source": "vanguardngr.com",
+      "source": "Vanguard News",
       "pubDate": "Sat, 04 Apr 2026 22:43:49 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Anthony Joshua makes first public appearance since fatal car crash",
-      "link": "https://www.vanguardngr.com/2026/04/anthony-joshua-makes-first-public-appearance-since-fatal-car-crash/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 04 Apr 2026 22:15:02 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Trump says Iran military leaders killed in Tehran strike",
-      "link": "https://www.vanguardngr.com/2026/04/trump-says-iran-military-leaders-killed-in-tehran-strike/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 04 Apr 2026 22:06:00 +0000",
       "category": "Security News"
     },
     {
@@ -204,6 +218,13 @@
       "category": "Insurgency"
     },
     {
+      "title": "Police caution private security outfits against abuse of suspects",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTW1GRmx5bUo0RVlFZm5naTNJTm5iS3hibkpsck9BYks5U1pxOHRLellPSGExRnlBS2RfY0ZkTk43Z2pmTUFmc0FEdm54SXNKaFhjVGJmclQ0azdycS1wWGJZRUltQmdOel9pM2Z5SVI4QVIyVE5IOC1lN1ZQTk42VENtWjIxVVNBRjVrRTNZLVJXenh2Y0FEeFV2ZkRSdkk?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sat, 04 Apr 2026 18:43:14 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "We’ll crush banditry, overcome insecurity, Tinubu vows",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNYk5SS1Rzei1uallzVTF3cktKU3A3YlN6VkpfM0hiUXdPRWl2LVZQZVZaM2pGRGNMTGxYeWo2V1Z2TnpDRUVJNS1nemdCb3ZPSzlsUWotZVB6RnFMTEg3RVpseWdwNHNnd1M1WUFzM1JNbE5KZkkxZTN30gF_QVVfeXFMTXBqaHlIczB6S2ZaRDNyQXBCTjRsY05MOGtpbVJpb3MtdDRVZkt3RGZudjJ0V2ZtTlBicnBiczFDdzhNcDRscTRKMmVFUHA3ODJ1NG1hN2VPYXNlVHRzUktORW4temtza2VkdzF3TVFtT2VhejVRSmZKWXVGUDlPdw?oc=5",
       "source": "The Sun Nigeria",
@@ -232,32 +253,25 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Former Guber Aspirant, Okoukoni Advocates Joint Action To Tackle Insecurity Across Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzRYQlN5VWQ1MFl0V3RETi0tUWxfMDMxOERvRTVLa0hkTG1ubmtkMmdtNXZXOUhSU0U0cmgwS3VZcjl6N1VLeEJCdGxEMFUzNzYtejk1UGRLbU9YVkNiODNWNWt2cXFlSDVJWHlWSmhocGJ1QkUxX0dDRmc4RkRBVWxoanlNcHptWVdEc2VSN0RETUtfVDUyczVMN2VkVU11OEYwdlR6OUVTalh3b1pHZlloRQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 04 Apr 2026 16:51:25 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Diocese of Sokoto, Nigeria, dismisses claims of attack on cathedral",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0NtbVNadUJJZXhJd0Z4V2FNa0RZWUEtMUFpX08wQ211MFdPeTVrWnJaQ0gwRzBiTzFBNUd6ZVN6VlY0UEJoMHZDUGtBeVJ6RzhZWWhuUlp5OXRvdk5qYVh4UnZhZVMyWTgxSjhXSkR5ZnZlT3pSd1I5UnRoTVRpNVJrVXFmRzFVU1YxVXFWOXlGT3B5blBaWEJQbEFxb1U1TEtxRGsyR1Z5Q0tFbE9KMWE3TGlhY3hD?oc=5",
-      "source": "vaticannews.va",
+      "source": "Vatican News",
       "pubDate": "Sat, 04 Apr 2026 16:36:24 GMT",
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigerian Navy Rescues Kidnapee, Secures Bonny Waterways",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmxCSXVxRk9tdUZWUmNlYXR4ZnJfVm02U3EwaC1aeUN0STBQNEk0a3FjMmV5Q1lZRTM1VmJET1dadEpnazEyNXRxTWlCcnJJUVhuMDVqWWFIbl9OR05felB4bzNqdmpaaDJ5eVk4SjhjcC1QVjFvYlZuQmc0RWRRelJ5Z1RqVm1oakJhVllnWFdfd0dQV1lTWXZFRlY?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Sat, 04 Apr 2026 16:27:32 GMT",
+      "title": "EIB Group: DICON Signs MoU With Bright Echefu’s Briech UAS and Poctova, Signalling New Era of Nigerian-Made Military Technology",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUE0wR09DenJfOUd2Zk0yUGY4S0Jzck4yeHEtdEE0YnpoaWZTaUl6X2xSa3g1Z0JMV0oxeGFOR2s3YmNnVkZTVFZXejNtM1hCelNNMTVFOG9yZ09yWlkwaXdiUjI5T1VIdnBid2FHa3BBcE1Qdm5zbXdvbFB5NWZvS2E5UVdGa3VJMzIzODUxSHkzMGFmZExQdzZxeGJXU2J4UHhmN2JDM0FmcGVjYnk1bFJLNDZ2OFVsU2ZRSjhBdElzMDlVaml2XzRScjdmQ2NvRXBLeWNFZFkwT3hBOWFYT3BhTGVtTTVObGZLYnluSEg5ZG8?oc=5",
+      "source": "Nairametrics",
+      "pubDate": "Sat, 04 Apr 2026 15:27:47 GMT",
       "category": "Security News"
     },
     {
-      "title": "Three killed in fresh Plateau attack",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ18xOGtub19yZ3dlME10RC10Nk8yY2FRTm94X1ZvajRSTWp4MlY0a2I2SU4tUzhGNHRBOEM2M1FYQzRDMnhnbi00WFZ1X1ZMWW1ZYTMtT0sySVAySEE2UjkwNkpKU0xELWdPM1RVOFR3N1lnZGRsUW9ZSXRLcGVoem0tRDl0Y09hTGpieUZwZGhCNlptRTdTekNBSQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sat, 04 Apr 2026 15:06:32 GMT",
-      "category": "Armed Conflict"
+      "title": "Nigeria will overcome insecurity – Akpabio",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcG9ncmtRMFFMdlRXQ0JPWVBPUkJ0dlpiVDR3LTAxNE5ST2dKTEFqeXZVSzZ5RFZxR1hxdjE2a2t1bTJZUmFvbldVWjcyaEJjdGRmaFN1eUozVUg1RkdnMzFqMHlMaXZ2YUhWVllUZ0JJMGprZmI2SlhkdThYUQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sat, 04 Apr 2026 15:19:12 GMT",
+      "category": "Security News"
     },
     {
       "title": "Broadcasting Organisations of Nigeria to Host Awards in Abuja",
@@ -267,25 +281,11 @@
       "category": "Traffic"
     },
     {
-      "title": "Global Attention, Local Realities: Reframing the Debate on Violence in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdW5MSU1PY01mY0xpWUdQSENnV2dpMEVFbmlXX2ZYWTFLc3prNkVoVVZiUVItU1R5ZzdUTG5qa1BvV05mN2hPY0l3eE5mR2ZjU2VEZHE2ZFJjblV3aDhocG5LeGZnTnctQjZtLVhfeWlZLUlKWkhNbE1YTl9QOG8tZm1fRExTSWZDaC03Y3NvaVVsMjNOV1JsVHlQeVpwdVloaE9N?oc=5",
-      "source": "Kogi Reports",
-      "pubDate": "Sat, 04 Apr 2026 14:23:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "SECURITY ALERT: Suspected Fulani Militia Plot Attack on Kasuwan Magani Axis",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXp5WVlqeVk1WG1xcE5ia3FpR2xCb1p3VGo1eURyRUpjUWE4ZXhLcTBWOE00ZHc2Y1lQWHZvcnNfMzlvYnRtWHFkZFE2UjJvaHJaaExITDZVdnI0RG4tcGJhdkowZDdubG9ZeUk2em5mTG5vWmZ2bF9zN09jeVg4eFpxNGczRW94TTI5Z0ozb0VTZ2N0cHNUOUVocUxnT0hmb1BLY01TeEhUeDRv?oc=5",
       "source": "Truth Nigeria",
       "pubDate": "Sat, 04 Apr 2026 14:09:56 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Tinubu’s Welfare Fund and the Unfinished Duty to Nigeria’s Soldiers",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4NWJ5SUVJV3Ria2FUSmlnaWw5bmhBZlFvTjVLenFic01LMmhRRklEWmt5MzRDZjlrWU1ILUxBQVBKNVU5dTdUZEdqYlEydnBaSmNfb2dnZi1nUHFQRTliY2R1QkpjeGc?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Sat, 04 Apr 2026 13:32:48 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria Will Surely Overcome Insecurity, Akpabio Assures Nigerians At Easter",
@@ -318,9 +318,16 @@
     {
       "title": "Nigeria: Bishop Kukah warns against normalising violence, emphasises hope in the risen Christ",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3l6VlNYNnpUM011V3RSTWxNcEx6d0tnOXd0bmFrejBZMUZ3dkdmYVV3ai1qQ0NDb1lLY1YzaEI1UUd1RjNwYkt1akRiWEl6U3RXeWs5U3RLb19uN2Uyd2lSY2lyWVh3bjFXSVE3Q2dQSFRyY1hlNU4xdi10WHRJMnpiZTF6XzlfbVh1clpDTmVGUWNBeVZWOEsxZnU0UkZsRmpoUWE3UzdkUWhidVBrSncxNjBaQnB2?oc=5",
-      "source": "vaticannews.va",
+      "source": "Vatican News",
       "pubDate": "Sat, 04 Apr 2026 08:49:18 GMT",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "Group Demands Urgent Action On Killings, State Police",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlNFbWNISHRYamdmR093VmZLRHNyZTFKMy0xN0R5ZFVVWHVHajRBS0xtWmxiSGhYQ2Z2eGxldGE2LUhLaHJTOWhmQkFpdkk0NVFHaTBZRDFuNlM4WUtZb1Bxa2tBX3AzOGU1Z29VMnRxUDZhakFPclY1andCX3E1Qg?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 04 Apr 2026 07:46:03 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Unequal US-Nigeria Security Cooperation And American Control",
@@ -356,13 +363,6 @@
       "source": "Arise News",
       "pubDate": "Fri, 03 Apr 2026 20:00:19 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigerian Army Unseen as Fulani Militia Burn Christian Towns in Nasarawa State",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGhEc2JCSUo0dHRUd190SHBFMzJDRHFFbzZQbmw3QTJ6YlNDaVJ5cmZpRllPbE5vWUxGX1NBUTlGY0xoZGFPLU5PcTdtdGRzdTdYNXl1UUtkRFBZNEViWGVSTDJka2R4cGpDMkFoNUI0Q05ITF9faXEyRFFLRDZpMXBiV2JiN3lwLWpSSzJhVm5tUWpYUUFwN1JXbFpxUUJDYk02ZzlXTXJkZWp6bmtubQ?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Fri, 03 Apr 2026 17:27:32 GMT",
-      "category": "Security News"
     }
   ]
 }
