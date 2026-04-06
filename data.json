@@ -1,24 +1,101 @@
 {
-  "timestamp": "2026-04-06T18:23:38.820Z",
-  "generatedAt": "06/04/2026, 19:23:38",
-  "totalHeadlines": 187,
+  "timestamp": "2026-04-06T21:15:58.261Z",
+  "generatedAt": "06/04/2026, 22:15:58",
+  "totalHeadlines": 183,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
-    "Military/Security Operations": 14,
-    "Armed Conflict": 23,
-    "Law Enforcement": 12,
-    "Insurgency": 9,
-    "Kidnapping": 6,
+    "Security News": 110,
+    "Military/Security Operations": 13,
+    "Armed Conflict": 24,
+    "Law Enforcement": 15,
+    "Insurgency": 7,
     "Banditry": 6,
-    "Traffic": 1
+    "Kidnapping": 6,
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Eye on Africa - Dozens killed in Easter attacks in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGVxdDBNYjNiVWpXREJiMzFLUjRxRkxGWkM4dnRFeUxuQ252dndzSXBaN3Mycm50SGFLeUt2MmRteUN3X3RuTnowbHpxQnlkcGFiRlNrZWhDSGlJS29ocC1QQ08zR0Fja1JFMmRoUUhiS2lnRXhfT3FBdF9XNkJFR3N2b3kyUDUxOFJKYVdfNXpUM0E1TEFUeHZHQXZLdUxMNjhKUw?oc=5",
+      "source": "France 24",
+      "pubDate": "Mon, 06 Apr 2026 20:19:53 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Emulate Mbah’s Security Strategy, Methodist Prelate Advises Leaders",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVF9BaDNQSXNXQ0NvMGhoWVdHbE43eDVHSHh1dGFDT1E2REx2Vnl6Q3hPVzRyRTBTelFNR3VoTXVZMWR2R0VKZ0ZnQlZrMUtyTnNCUlhZU09LZ1FRdzlyVmdtYjVWNldLZ1FpbGdPaGVpYWN5REN4MEFIYmg2elgwTjhpYXlZblJFQTNNbFNXazVlYm8?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 06 Apr 2026 20:17:24 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Army kills suspected terrorists, arrests kidnapper in Plateau",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlJoN0JFUlRCYkpFOEQybzJSYkFXRGdYODd4VGNJeUJKd2hSTFBHaE5raURvUGVkdmwtcEFzYVEwaXZoa2tsemduRG9vRG9qZ0k1WUFMd3dRYm9WdE43djN6SEdNTTU2T2pLRFhsUk5tZzd0QjlnMjhEYm9LT2tQcWYxMEpHVVI1Q3ZpelVwUEtGcFhyV1U3bUFzVkpqcjl2ZkRpTWNiOEtCQm5GbXowaURsazZjNUk?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 06 Apr 2026 19:40:56 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Trump threatens to destroy all Iran bridges, power plants in 4 hours if no deal",
+      "link": "https://www.vanguardngr.com/2026/04/trump-threatens-to-destroy-all-iran-bridges-power-plants-in-4-hours-if-no-deal/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 06 Apr 2026 19:38:22 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Easter Marked by Bloodshed in Northern Nigeria as Attacks Hit Churches, Villages",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGlSS05GSTVzd2tuTlpKMEVvUzNlLTZHb0dMbC1Qck1QNlJJcE1BZ0YyRnVDVmtNOE5XMERYamhZb1lhaFBBSV9Sdy1YVFZPdXF5X2FwUkIyVU0xUFJseS1wdUJWQ0h2Mk5QdmVyRHVSa2U2WE5LWlpHTTV5Rkt6cE9JZFZnM2poaTI4eVlRd2ZyRmpKR0ZSaVZ2d3pDYXRvSjE2ZVM4Z0dJNFlJVmJVSnNPcw?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Mon, 06 Apr 2026 19:08:17 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Plateau Police confirm three gunmen killed in Barkin Ladi village",
+      "link": "https://www.vanguardngr.com/2026/04/plateau-police-confirm-three-gunmen-killed-in-barkin-ladi-village/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 06 Apr 2026 19:01:30 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Group condemns Kaduna attack, asks Tinubu to improve security",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT29Ga1p6SzZZd2liblJhZE1rdURWN3M1SXVlcXNJLTFQNk9ldlo3SldsY1pWTkVKaWlOMzctajBoS3l2SUtKUHc1ZDJfUFhIbHhBRUVJU1REZWprQW1iQm4xNEpsaTlpN0xqeFhfZGdwaWxmNXQ2bmJWOWVCT3I4M0JNNVlnTG5CUHlxcg?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Mon, 06 Apr 2026 18:53:46 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Kaduna attack: IGP Disu deploys DIG, kidnapped victims rescued",
+      "link": "https://www.vanguardngr.com/2026/04/kaduna-attack-igp-disu-deploys-dig-kidnapped-victims-rescued/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 06 Apr 2026 18:48:15 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Dozens Killed in Easter Attacks Across Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGVQTXlxaXJadkhaZldwYXpGQlhhZFRBdFA4SENzWHNaZ210MUpSSlNiUEJmdktYQmZkM2VaRnY0cFlwZGJLcngtLWtaemZtX203TENCVWs4VDBNSFptNWg2enVWNTdPR3RpdWFDeDdFUWRoZXBXdUw5U1pQVk1KODJ4djQybEVqVnc?oc=5",
+      "source": "International Christian Concern",
+      "pubDate": "Mon, 06 Apr 2026 18:47:48 GMT",
+      "category": "Armed Conflict"
+    },
     {
       "title": "How 1,402 Christians were killed in 96 days in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDY2b0VwMDdjYzFPemU4QzJSOTBlQ012c2FPNV9IQnlIdmMwREZhcF8teHZxOG9wSFU4NzJ3RDRfQnpXaVluTFc2WDgxU1BkYnJXNzdseGtXd1p5bktkTDExTWlyNXB0MUw2WkgwWS1pemZJcG9WOHJBNlBlQk5WYWpsZ3NBQQ?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 06 Apr 2026 18:13:26 GMT",
+      "pubDate": "Mon, 06 Apr 2026 18:47:08 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Troops neutralise five terrorists, arrest suspected kidnapper in Plateau",
+      "link": "https://www.vanguardngr.com/2026/04/troops-neutralise-five-terrorists-arrest-suspected-kidnapper-in-plateau/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 06 Apr 2026 18:38:17 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "‘Enough of hollow rhetoric’ — Atiku slams Tinubu over insecurity",
+      "link": "https://www.vanguardngr.com/2026/04/enough-of-hollow-rhetoric-atiku-slams-tinubu-over-insecurity/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Mon, 06 Apr 2026 18:27:46 +0000",
       "category": "Security News"
     },
     {
@@ -27,6 +104,13 @@
       "source": "Punch Newspapers",
       "pubDate": "Mon, 06 Apr 2026 18:01:11 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Low investor confidence threatens growth of Nigeria’s aviation sector – Expert",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVFWSGNsbDZKbVdxdkNhdmtvQzJCN0hubUJPbkt0VHItS1JBRmxfUDliVUY1UXZUcWRHVk1ReS1sZ3hPbGRtSWM5WFJqUVZLMEV0anFpWDM0QmItTmVNMUhRNjV2OERaUm0xaFpRMTFsWHhvN0MzMTJTbllmRUhueUtoWldvdFFNMkZCWkNsOE5hbWIxaTZsV2NNeGRDNF9RUHdrbEludVJVQThDZENnU2s2YTNOQ0liMjJjTmRrZlNha09qaFhXM1kzTGU?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 06 Apr 2026 17:37:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Why Nigeria must fix the language of conflict now",
@@ -52,7 +136,7 @@
     {
       "title": "Second National Police Day: Renewing, Elevating Women in Policing",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTc0Sm5GSzZYbUlxaXpIWG96WGR6dUlsanY0dFBLeWVQem5zOG5DU2lfZklVUkJzb2ZwQ1lGUmJOMHVLb25mWXZfSzdfR3IwUGtxUm9ucEFXajYzclZLbHdNYndoSmd4WFU5cjZPT0xlV3BpZ1BWQTg2c0U5dGhHQ2FIOTdDT29XaElv?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Mon, 06 Apr 2026 17:09:47 GMT",
       "category": "Law Enforcement"
     },
@@ -61,48 +145,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajliS05yd1VXT1Y2dUVKSHpTWkVsR01CcmZTbDA3ZmVfaUYxY0VhWC1NN2FtYXdTRHJaWnotOGNsMWIxcktvMEJKdm12Nk5YUDhhM0Z5Y3huaEJzZ0NIVUJacGVLY19UNGp5LXhrNHRXTkEwaUZSelBOSGRQaUFSR0pBVUg?oc=5",
       "source": "TVC News",
       "pubDate": "Mon, 06 Apr 2026 16:55:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Iran Guards vow to avenge intelligence chief killed by Israel",
-      "link": "https://www.vanguardngr.com/2026/04/iran-guards-vow-to-avenge-intelligence-chief-killed-by-israel/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 06 Apr 2026 16:44:56 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Trump ‘not worried’ that bombing Iran power plants could be war crime",
-      "link": "https://www.vanguardngr.com/2026/04/trump-not-worried-that-bombing-iran-power-plants-could-be-war-crime/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Mon, 06 Apr 2026 16:42:14 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Low investor confidence threatens growth of Nigeria’s aviation sector – Expert",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVFWSGNsbDZKbVdxdkNhdmtvQzJCN0hubUJPbkt0VHItS1JBRmxfUDliVUY1UXZUcWRHVk1ReS1sZ3hPbGRtSWM5WFJqUVZLMEV0anFpWDM0QmItTmVNMUhRNjV2OERaUm0xaFpRMTFsWHhvN0MzMTJTbllmRUhueUtoWldvdFFNMkZCWkNsOE5hbWIxaTZsV2NNeGRDNF9RUHdrbEludVJVQThDZENnU2s2YTNOQ0liMjJjTmRrZlNha09qaFhXM1kzTGU?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 06 Apr 2026 16:40:34 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Lagos deploys 500 additional LASTMA officers ahead of Tinubu’s visit",
-      "link": "https://www.vanguardngr.com/2026/04/lagos-deploys-500-additional-lastma-officers-ahead-of-tinubus-visit/",
-      "source": "Ayobami",
-      "pubDate": "Mon, 06 Apr 2026 16:30:14 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Kaduna community denies reported rescue of 31 abducted worshippers",
-      "link": "https://www.vanguardngr.com/2026/04/kaduna-community-denies-reported-rescue-of-31-abducted-worshippers/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Mon, 06 Apr 2026 16:30:02 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Oil firms threaten protest over alleged maltreatment of indigenous contractors",
-      "link": "https://www.vanguardngr.com/2026/04/oil-firms-threaten-protest-over-alleged-maltreatment-of-indigenous-contractors/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 06 Apr 2026 16:28:26 +0000",
       "category": "Security News"
     },
     {
@@ -120,20 +162,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Terrorists kill four, set communities on fire in Kebbi",
-      "link": "https://www.vanguardngr.com/2026/04/terrorists-kill-four-set-communities-on-fire-in-kebbi/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 06 Apr 2026 16:07:12 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Benue Easter attack: Death toll rises to 11 – Community leader",
-      "link": "https://www.vanguardngr.com/2026/04/benue-easter-attack-death-toll-rises-to-11-community-leader/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 06 Apr 2026 15:59:43 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nollywood Star Sunshine Rosman Voices Concern Over Nigeria’s Security, Economic Woes",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEFxWXVuSHZHb29fczVjelhqbEV1enlibEowTU5UT0xXdGlYTW1mMkl1TVE5b2lYYnA3cS1POFkzUTZDQmNMT3JvTFhHcmRJQVhUYk55d240NE9iLTJZTTJMN2QzWWVlZzZya0xYWExvVENERVdnOVJESnJxemdzTlNHSUxjTWs4VXlYdnNIaV9mMDd6dTFGWV9XRGNqMmwyV3paSE9yYVc?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -148,18 +176,18 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Group condemns Kaduna attack, asks Tinubu to improve security",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT29Ga1p6SzZZd2liblJhZE1rdURWN3M1SXVlcXNJLTFQNk9ldlo3SldsY1pWTkVKaWlOMzctajBoS3l2SUtKUHc1ZDJfUFhIbHhBRUVJU1REZWprQW1iQm4xNEpsaTlpN0xqeFhfZGdwaWxmNXQ2bmJWOWVCT3I4M0JNNVlnTG5CUHlxcg?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Mon, 06 Apr 2026 15:05:51 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nigerian Troops Rescue Kidnapped Easter Worshippers After Kaduna Church Attack",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2NNX3RQcEVicExmeU5rN3pCV3RqVDFyeEhIYlJwSXJiR0RKTG5HeFRHTXRmNVlScTFucU9PU3ZvN3ZORl9FbUhYaGpZRVNobDB0Z3RfVENBQXlHTW1VWHZsU0drbHMyN1QwREdINlFQakprc3FRRXVfS2lWLW5vejR3Z0dxdzVQM01YZ1hjRnc0cG13YXpfa3hadXlad2lkZTBUXw?oc=5",
       "source": "West Africa Trade Hub",
       "pubDate": "Mon, 06 Apr 2026 14:40:29 GMT",
       "category": "Kidnapping"
+    },
+    {
+      "title": "Benue killings: MPA calls for arrest of perpetrators",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTVoUDhPRFhEMml0c19acUdEa3ZTMG8yTFd1QXJDQnVrVjlkVTdwd2tkZEI4R0prR0ZIQkRVbGhxWXA4UnRIYl9sNFNpajBnVGJlUlZ3Tm8xc3djZ3E2MEFrODg4ZzlZVWhoOTJLaXE0ZEZqVVRXU3hzSGFoTFdsQjh0OA?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 06 Apr 2026 13:37:00 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Banditry weakening Nigeria’s state structure — Report",
@@ -176,13 +204,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Benue killings: MPA calls for arrest of perpetrators",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTVoUDhPRFhEMml0c19acUdEa3ZTMG8yTFd1QXJDQnVrVjlkVTdwd2tkZEI4R0prR0ZIQkRVbGhxWXA4UnRIYl9sNFNpajBnVGJlUlZ3Tm8xc3djZ3E2MEFrODg4ZzlZVWhoOTJLaXE0ZEZqVVRXU3hzSGFoTFdsQjh0OA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 06 Apr 2026 12:43:01 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "‘Another Presidential Promise Fails’, Peter Obi On Renewed Attacks Across Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWI3c24wZGlSem1TV3pJd1VzeTh1QVl3RHJ1dTBsOS03ZkE3SlNlTm14bjc4aGstTkNGQWFCdEUzWDBaYWJXeFJodVJVaDU0bU01YVhabzltUHMyd1BZRkRMOWd2LVNEcGZSdHNJSG1YVERqUzRINTFETVpnbFVqbEhpdFJDSGkyTFRFSVlKNFJRQ2tWdFNaU2hMNzZ6cEdwdE4tQU01ZWJRVlBKMDdSWmlCSy1tQ2lH?oc=5",
       "source": "Channels Television",
@@ -190,32 +211,18 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigerian Military Frees 31 Hostages After Church Attack - Мілітарний",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzdHVFgtS213MXYtUGo3ZWV5czUzSFdwWFN2VU5NN09ySFlzeDVDX2xzTzFSNVF1OFRNcE1tY1ZFemNzaDRrWHRrRW5BejJ5MzNpTENleTBic0dtMm9GR0hJcjBUQWd4Wk5BeGZtZExYeVNjRHpBdGVkbVBrS3JRRA?oc=5",
-      "source": "news.google.com",
-      "pubDate": "Mon, 06 Apr 2026 12:33:17 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Okiro Backs State Police, Says Five-Year Timeline Too Long",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1RvV05jNDZOcnNwd2N4Y05rNjRicEFDQlprWUpiRjRuTnQyYmRIWTY5enU2Zi1KaVhfemw4X2NIaVdQQ1d1eW5vRi1nVTZwUURXZUJmNkdsaVZweGVkN0FwbnpJU1Q1dW00UUlSUTZGNFlZdFpDMDFYbTVPU3RLejVSOFNRUQ?oc=5",
-      "source": "arise.tv",
+      "source": "Arise News",
       "pubDate": "Mon, 06 Apr 2026 12:29:00 GMT",
       "category": "Law Enforcement"
     },
     {
       "title": "Katsina Governor Radda chairs emergency meeting in wake of Sayaya community attack",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1pSTEVLTWNfbTRwWUdwdVFzTW45X1VjcmVuME1hRHo4TGg3LVdINHNZTV9wejhPSVhPV1p6ZnJfZEVfYUFmRWd3VHhyZkdFckNhVzRDeng0cDlLNjhaZXpkTXM5dENxSHljOVlXQUpmckVwNE9LRC1IcFNtZTBhOC0zM1hIaGpEQzFYRHJZcFRqWl9lWHlURjRPSHFhUlRZNnNBRkk2czhXUkNtM1I4OEkwaw?oc=5",
-      "source": "Apex News Exclusive",
+      "source": "apexnewsexclusive.com",
       "pubDate": "Mon, 06 Apr 2026 11:44:22 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Govt Can Protect Every Nigerian, Terrorists Can’t Be Stronger – SDP’s Adebayo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTZic2lYMmlfc1dGTHFVSElGU0cyRlcwM19tUl9SWHA1RmdrS0RMaGhKTkt0c1NnNnNYa0s0aUNjZDVUNzJnM0tEd05nTHJUSVlDNUoxQ0Q2d1NoYnFSUFZDWWY0elR2b0dBc3MyV0JETmNjWGt3WExXRW84MmZiak9MZk5Kb0xHUmJHWjFyb0k1bHI1dkJwS2o0S2xnMHBnT0RySjZndko3S3luV05Bag?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Mon, 06 Apr 2026 11:08:06 GMT",
-      "category": "Security News"
     },
     {
       "title": "Catholic Bishops call for hope amid Nigeria’s security crisis – FRCN HQ",
@@ -227,7 +234,7 @@
     {
       "title": "N33 trillion later: Nigeria’s security spending without security",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkE0THVyVTlYVklwdzdOLUZSaW5BS2d5WnpXM2NnZE5KaE94WW1YMnBhc280UWJJRFljUDNFRW11VXJFTUUtSE5qSzR5YTZyU0xTWVpUOHhZMEZaaVphbmJjN0ZTdFNzVnR1S3lGaDJrNXJEUmo2YjdhdE15dTVnTUxjT2Z5NTRWbnRyaWNRNGo?oc=5",
-      "source": "TheCable",
+      "source": "thecable.ng",
       "pubDate": "Mon, 06 Apr 2026 10:52:00 GMT",
       "category": "Security News"
     },
@@ -241,7 +248,7 @@
     {
       "title": "Vigilante Group Intensifies Security Operations in Kaduna Border Communities",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGRaOEpjTzk0dWxrcUhKVzloa2lfT3NHV201ekRVV0phNGlVMnVpN0pRRXp3STRpcXlzWE5lNjc3bnJWUzg2ZmZVdGxsakl6VVhmZzdxUjJKZXdqaEFSVzdsU0ZUbWExcTc1Z2c2dG40eVZUOGhVVG15dkw1VEgxcjdHb3hEQVI2MnVrdl9uQWI3c1pPYklaSTUtbmE?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Mon, 06 Apr 2026 09:18:04 GMT",
       "category": "Military/Security Operations"
     },
@@ -260,13 +267,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "At least 26 killed in attacks on civilians and police in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0wwM2ZWMWxsRkQ5X2U0VUFXU1JDOG1teC1hcG9hRGxuUW1IQTJKdElSX3ZESEhfTUNZUmpWVzhWTS1lUXlQaks2ZDl4VURpbmVzUHIwWE9oR3ptMGlDTjR2QjRsTVBBSlptUXF1NGNmbHpsQnM4Nm9hRi0xc1Flc1V6M0lYWXB0YkhCQ19QQkoyMEVBSTlBbFBKcklnT0hxVDQwYUhQNjDSAa4BQVVfeXFMTk9SN0tORGc3bnZkTHBHYTVFMjM1ZTJvSWNBNjhIWXJMX3hscENUd0o4MmJtbDR2OVpEZGc4WmR0QjhOU0p0ZHFuRDlvRDVZUGFmU1JEdWRaUjEwWTdsUi1NcUFSXzdjY3BsdzV4Vmx0cFBlaU5lb0xGeHVrU3lVQzQ2Mk9wTjc3OThWNUYycUVKRXRXeWJFVFE3S2JwSHZmWm10VllZRXFrLXV0T3l3?oc=5",
-      "source": "Hürriyet Daily News",
-      "pubDate": "Mon, 06 Apr 2026 08:58:54 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "ADC Condemns Fresh Bandit Attacks in Katsina, Urges Stronger Security Response",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xLNFpEVUJGbTJ1TWJ0VnNqVUJrc3VaaWxQdlVzclN1RFIxWnJnTWxUNm5uN21nb1lnZUlKNTNwQ256TDJSWTl0aVJ5bUV0VmxQYVprQ2xMN1dZQjNfcEUxNndYSS1wUG9INUY3VDlveGNXZk1xclgzTjNhdGFaR0JTaDdPVHlhN2EyYTdSN1RSTG5YVWZpSmZ6U1RzbTJFOC11WXExZXFQM2s?oc=5",
       "source": "freedomonline.com.ng",
@@ -275,9 +275,9 @@
     },
     {
       "title": "Troops Rescue 31 Worshippers Abducted from Kaduna Church",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2MtSjFlQ05EZHA2WXJjS1J1RGtzVkplOUFWc0JPVDVuclhCOGZXMTVYbDVFTEVJNXctN3drTGIxcjEtd01ZQjU5RDNGNnZzcFBoTXBvY0wtYUdQeExyT19tWlRFcXdqV1M5cTY4X2VHNFl1UzVsbVJpMXVLem1mNGNNOExST1c3UVA0eVZKSTZLdUsxbjBKOVgySUhndHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkFBQnpNbWdQcmdpaVJPb2EtV1h0cEk5RGdIQVFkakd5UExLZnVYVHdnbi16eEgwZU14N18zNmlXcUszd2lBdHBRRHdIelY1R0UzZDY1SlM5eWxtNFlIYkZlRE9rNk41alNrbE9TSGc3cWVGSWFxTjZERFdHaFRoRzVreEphS08xalRTMExKN1NCNk1mTC1EOG53TVJkTEMxTW5iZ0dxMA?oc=5",
       "source": "Nigeria Info FM",
-      "pubDate": "Mon, 06 Apr 2026 08:29:47 GMT",
+      "pubDate": "Mon, 06 Apr 2026 08:26:51 GMT",
       "category": "Kidnapping"
     },
     {
@@ -311,7 +311,7 @@
     {
       "title": "President Tinubu Intensifies Regional, Global Support Against Insecurity",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHhCTlYzZ3hqWGpjUGNRUTd0dURzTnBwSjQyOGZtbmJSX0NkU2laSS1MVkh3UldldVJNcDhyXzJLcUpWenFXWDdXUy02ek9fY1dkU2tZYXBNZ1NnUXphXzZjQmZ1V1h5U3FXaXlBTHd6MHo3b2tRbzUwbVR3SjI3V3lFZG5yek5jTUFRenVOMlNtbERWYlE?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Mon, 06 Apr 2026 06:14:51 GMT",
       "category": "Security News"
     },
@@ -321,13 +321,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Mon, 06 Apr 2026 06:11:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Flutterwave widens operations in Nigeria with new banking licence",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXM4TEd4aFNEaGNkbVZHNld4d2VMQm1pRnkzNDA3SW1JY2ZWM2ZiMlNwUEI5a0wyRzBoS3ItZmswNzBDM2ZMME9ERFRwYjYwWkMyOU1YQlF3LUR3bnVZaUFrNFdmQlRtYWZ0a1dpTjZyT3Q0a0dWbWZrT25oZEszVkd5cDlsdXNSem94SFdBTmhPbkhZVlhtSg?oc=5",
-      "source": "Electronic Payments International",
-      "pubDate": "Mon, 06 Apr 2026 06:08:40 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "US-Iran conflict: MAN outlines measures to mitigate effect on Nigerian manufacturers",
@@ -342,6 +335,13 @@
       "source": "Blueprint Newspapers",
       "pubDate": "Mon, 06 Apr 2026 05:15:57 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Nigerian worshippers celebrate Easter under tight security after deadly attack",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTczanc2UkNBalZ0a1BTaGJ3b1lqeXh1U0N4OER0blRzQkkzVVZSZFhtbHhvZ1VBdlpJdm1TRzRubXVRYjZZOWVuZ0ZyMUdLMUNNcU5aLVFHU0Z1dlkzdEZ2NkhmeF95RHFzWHNLNUxSR040QUFQSzBNNlNJVVN1aGl6UkJ3UXcyWXVaRXcwczF1V0VjbkY0eGFldjFublhTdF85QlNCcE5iLVJXN21nUDJfd0dwVkxE0gG-AUFVX3lxTE02alRJc0pLeG9rMzFNUl9EaFNsbTNfQkVyZElyS0c2NDdFejY3eksyN3J6SUhpNm5UOF9ldVZfdnRwb1oyTTVLZHdINWtTSEd1bGdCN1FXY0NqUWFtT0EwOTV4RTEtMUpRTHRTdndJQ3BaT3M4MFFXWWVuYmwzZlZXMWZIek1rdF94STFaanlYazdNekFjOVR4Q3lFeDNDNVVnWFF1YVVWSGVXbUJRTzVYZWNoTE1uSTJ4MHBMR0E?oc=5",
+      "source": "africanews.com",
+      "pubDate": "Mon, 06 Apr 2026 04:19:11 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "‘Replicate Brazil’s agric model in Northern Nigeria to safeguard food security’",
