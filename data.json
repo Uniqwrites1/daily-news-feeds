@@ -1,24 +1,87 @@
 {
-  "timestamp": "2026-04-10T15:21:07.656Z",
-  "generatedAt": "10/04/2026, 16:21:07",
-  "totalHeadlines": 156,
+  "timestamp": "2026-04-10T18:22:01.017Z",
+  "generatedAt": "10/04/2026, 19:22:01",
+  "totalHeadlines": 153,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 108,
+    "Security News": 104,
+    "Law Enforcement": 7,
+    "Armed Conflict": 14,
+    "Insurgency": 9,
     "Kidnapping": 2,
-    "Law Enforcement": 11,
-    "Armed Conflict": 16,
-    "Insurgency": 5,
-    "Banditry": 4,
+    "Banditry": 5,
     "Military/Security Operations": 8,
-    "Traffic": 2
+    "Traffic": 4
   },
   "headlines": [
+    {
+      "title": "Nigerian migrant who failed UK driving tests kills pensioner in car crash",
+      "link": "https://www.vanguardngr.com/2026/04/nigerian-migrant-who-failed-uk-driving-tests-kills-pensioner-in-car-crash/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Fri, 10 Apr 2026 18:21:44 +0000",
+      "category": "Traffic"
+    },
     {
       "title": "Nigerian army general and several soldiers killed during an assault on a base in the northeast",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX01ZRXdCZy1QZXF2QVNCQW9qN012UWN3WTNNQ3JxRUMtY28za01nYmxwTmRFb2VIdDdXWjRQcVdPVDIzRkdMMVUzd0JoRFVtSXVtMEsyajhTQlcwdzdxV1hCX3lkQUpiVUZxZXNVQXFNM0RFX2NBMUVXbVFWZE91c25pSXd4MGZsQnNKWHAyRGpsenV5UGhNbWludWV3REJCajgtbXRXNUxqUXlPOUtYVnNmaGFCbW5YeUJfTFJYQjhudw?oc=5",
       "source": "The Washington Post",
-      "pubDate": "Fri, 10 Apr 2026 15:14:45 GMT",
+      "pubDate": "Fri, 10 Apr 2026 18:15:03 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Oil Theft: Stakeholders Back Tantita’s Role in Pipeline Security",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTVqa0JSQWgtLXM0UTlZYUN3azdkdVhUOTBYSUNnQ0stWUU1b215NWYwdG15VUplYzBpVEtwSDFoRkdySFRqSXd5Zk5oUi1mTWdFTWpUQWVaX1pnd3ljdFprbkk3TktsQm5kalMwMjBhV0dzTktoQ3J4bGFWdENkSFZySDRnbkhrZktLSHdqdFhUUQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 10 Apr 2026 18:08:29 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Amotekun nabs 164 suspects in Ondo, uncovers trafficking, kidnapping cases",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjdId1pWQUxGSUtSNy1Rd3o5NUM3NHhuWWstb2hlUHZZYlVZNHJETW52djE3bUs3WFROV3d0aUljdGVGeUlVTVprRHBxanhJc1NkYVVSUG1OUjNDNjc5djNIYVpSay1YcVNzV01CbW8yeDJGTHRPSXRtajBvUUlZTXU1cE5zOG1tcDVtRm1YSFNsMkVrVFpCVkVPc0lFQjhSYUpjbDFR0gGrAUFVX3lxTE81Zzk1QldNRmNmZW5pck82QmJWb0lzbmt4N2VHdXVvcWwtN1hsb0d3VlVnUVdQRTdkU1JZV0psc19wNVJCWlRQdHA0Sk9NLXI5cjR5eUlSOEx1eWpXQ1U2WENremxkVjJDODUxaXNfRGtFU3RHSGZzbUEycExVUVRwbDJLSDg1VGx4eUZPRXdDRHVCa2IyVElMVmk3UEpZaG1VV3BhU1dQMjhyWQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 10 Apr 2026 17:37:56 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Obi raises alarm over U.S. security advisory on Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWdTX2FHZGRGd0pPc2pNbGZrTXdIeHJFM0JndWFESUd2TzcxbTdJVHV4LXFNcEJHQWhmY29CLU9VQk95UDVmX2ptcUlWeElBMmFWdTkyRmp3UTc3SV9vZnJJd0k4X3MwMlhobW5zRm1kcy1rSC14R1dBcmhER1FfcE85eFJ5Mkc4M1FSMw?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Fri, 10 Apr 2026 17:32:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "killed in latest terrorist attack in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFoxRkVwaFc1dmI0OXU0ZzBwVXFDRTNKVklRVU96RjdBQWdjdl9PMUk0SHhlVllkUEREdkJSVVI1NFlTaXRDdE12bUwxQlNkNFRselpFLWJRMUc4MUVRV1FXbFBvSVJzbGQ0cVpDb0R2NkhPTWxfOWh1VWRiOHFEWVFJR3BTOG5OX18zQ1BZMXo?oc=5",
+      "source": "Anadolu Ajansı",
+      "pubDate": "Fri, 10 Apr 2026 16:52:43 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Fulani Terrorists Kill 20 Christians in Plateau State, Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnBkZ0Q4bTZ5QzN4NVJyNDMwSUZ0eHJEZlRicXZRVVJnQnFEdzc4N20wcEdWb2JFRE83dEhRZHRXZjAtUUtqdGxQaWhTUk03U25Hd1VWblJIRzI3ZUJfU1plS3ZteTM1TWJjZ2J2bzAwZWpjQk9Wem80REx5UGMzZXptMFRWTG1ldDlwbFpTc0pMTDBPUGZrd1NoOVlTQ1k?oc=5",
+      "source": "morningstarnews.org",
+      "pubDate": "Fri, 10 Apr 2026 16:44:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ex-senatorial candidate jailed 10 yrs for selling petrol to Boko Haram",
+      "link": "https://www.vanguardngr.com/2026/04/ex-senatorial-candidate-jailed-10-yrs-for-selling-petrol-to-boko-haram/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 10 Apr 2026 16:43:05 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Goodluckans Diaspora Drums Up Jonathan’s Return, Says Nigeria At Crossroads",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWxGTUVEZHMwQlJBcjd0Y3ZUUkJMTjItWVJFNTlNSmQ3RjlrbnM0aTRpY0ZBZGJJMTl5bmRkQTFEMUFNcWUwSmFvRHZ2LWhLV2t1dnlZZUlYUFlScHVBRzJ0WkhMeC1KNS1iQjBBcTBSbmVydUg4cllScl9RT0gyNjd5OUcyRFQtdFZtbg?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Fri, 10 Apr 2026 15:51:41 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "US advisory not reflection of Nigeria’s security situation — FG |",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbk5ycUg0UkFEWk0waTNuN1hqbmo0M3pveUdiR0oycEJ1LURybTFEa1ZYa1plcEhxSnZIRUZUZEI5TkpmamlXdkZKN1c2a0JYTWx4cXZUQ3hiZWVnakFuM1FRdGc0czNJVTN3V1ZFekdSR2tIWElDWS1SRDA4bG0wcVo2SmhpaV83ZUlVUzFWMTZ4dWluc0E?oc=5",
+      "source": "theeagleonline.com.ng",
+      "pubDate": "Fri, 10 Apr 2026 15:49:05 GMT",
       "category": "Security News"
     },
     {
@@ -29,39 +92,11 @@
       "category": "Security News"
     },
     {
-      "title": "EFCC busts ‘Yahoo Academy’ in Abuja, arrests 31 suspects",
-      "link": "https://www.vanguardngr.com/2026/04/efcc-busts-yahoo-academy-in-abuja-arrests-31-suspects/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 10 Apr 2026 14:40:59 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "‘We Get Insults Instead Of Accolades’: Nigeria’s Defence Minister Defends Troops Amid Rising Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkppRHhGamY1OXBqVXJNbXRtUzBoay1RTUdGbHZQdzNwdXQ5WGdfenNMem9pU01zdGlzRE5MV3Y2eUk4Rk85Mi0wcmpiN3c0YUxpeWxXZVYzNkdzYWs3U2FoclJTNGRaRkQ0U2VjbldMWkFiVnZscWpfeGwycm85ZUFjUEEwNzNkdG8xM3U1d3JpcU9pUU55TVc0X2ctLXVISXpZMGVDUThBSlNVSkMyRER5S192aXVJNXZ4TnVaaXNJdw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 10 Apr 2026 14:34:12 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Man arrested for defrauding young footballers with fake European club trial",
-      "link": "https://www.vanguardngr.com/2026/04/man-arrested-for-defrauding-young-footballers-with-fake-european-club-trial/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Fri, 10 Apr 2026 13:38:11 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Ex-Nigerian Lawmaker Arrested For ‘Giving False Intelligence’ To Foreign Embassies",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1JwR2xTVmstQm05dnZ1Q0ZjQWhzM0R2MnY5UGdKNWdxYkFlQ0NWSHJ5TGFlNU0ybF9fZXdiRTFVTmJFc3lkaFlEQ3FfaWNFM1d2QTFWUVJSWTRXUnY0ZTF1NGZzUU1ldXpndFNZandqNzRuYjlfSjBiR1d1ak12SUtFLTh1Z3RoTVFuZU1qdGotZVBlUGp4Ym82ZHFRb28zVXl6Zkpn?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 10 Apr 2026 13:21:08 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "US issues Nigeria travel warning over terrorism, kidnapping",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzVWdUJPY1gzcEZBVUFKQlBvZUJQOEFsenVKOF9XRlZmNzZqbHlvT09vNXc1MU9yUzRGTmt6TDl6R2wteGpjYzRWdzVsZ08zaXFpN0doSzc4RVViZ292LW9lb1p6ald4QVFpWmdiajkxOEMwZExzbUZfTFZRWmRKVk9tbzZjVVdqdjlYVWJLQWxiN21neWVwWFFKZFdIbXc1TXZj?oc=5",
-      "source": "Semafor",
-      "pubDate": "Fri, 10 Apr 2026 13:16:00 GMT",
-      "category": "Kidnapping"
+      "title": "Brigadier General Oseni Braimah: Tinubu, Atiku, Nigerians react to killing of top military officers by Boko Haram",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XbkdWTGlET3hhTldpb2hfa3RPdEN2c3FYVHRwVVI4NUlNTDJXVFlPLUdmTlV5MkoxY21QOG8tZV9SbUwwVzl3WW1kZmFIX1R5Q24wYXdoZVdEX3h50gFiQVVfeXFMUGtjVkdvbnNzMEZGMnB1WTN1UUlsTVc3Q0tyeEhaVkhQOG5aY08tWnY5bUtnZmIxckdTT05OSEtKQUlIRmZQaUN2ajJsVnQ0RlIxZlVkRFZqMWhnMzlZM19CZmc?oc=5",
+      "source": "BBC",
+      "pubDate": "Fri, 10 Apr 2026 14:20:22 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Nigerian Army neutralizes terrorists, recovers arms in Plateau",
@@ -69,13 +104,6 @@
       "source": "Daily Post Nigeria",
       "pubDate": "Fri, 10 Apr 2026 13:00:49 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Alaafin threatens 15-year jail term for land grabbers amid violent attacks",
-      "link": "https://www.vanguardngr.com/2026/04/alaafin-threatens-15-year-jail-term-for-land-grabbers-amid-violent-attacks/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 10 Apr 2026 12:59:06 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Insecurity: Nigeria Stands At Dangerous Crossroads, Say Southern, Middle Belt Leaders",
@@ -99,25 +127,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Police foil secret burial, arrest 3 over alleged murder in Ogun",
-      "link": "https://www.vanguardngr.com/2026/04/police-foil-secret-burial-arrest-3-over-alleged-murder-in-ogun/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 10 Apr 2026 11:51:11 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "AFRICA/NIGERIA - Jihadist attack in Abuja denied, but insecurity remains a concern in several areas of the country",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSndVN1NJNEZKMjBON1ZqQlpnbmJ3d2t0cTFPNjlFdkdhOENyNV9SSFdVRWVIQWRNODJicW1jNXFtSTh2M2Z6SkFWei1yblVseWdJUDR4SnRLbHRjOEM3SVczZVdxSXlzUWRlZ25BODd3dDdpXzRSY0J6TVFpb1pMOTRCUXNsODlrZHVRN0NnRVQ4dDEyVmt5ZzBtOTUzaXhzeUJ1TFJubTVTNHV4RFJqWWQ3dDJkZ1NRSlZPbXpCRFRkU3A1bHhxU201MHdmNmUxLW5zSktVc1EwNURYb3Zj?oc=5",
       "source": "Agenzia Fides",
       "pubDate": "Fri, 10 Apr 2026 11:47:37 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Iranians sceptical, afraid ahead of talks on ending war",
-      "link": "https://www.vanguardngr.com/2026/04/iranians-sceptical-afraid-ahead-of-talks-on-ending-war/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 10 Apr 2026 11:44:40 +0000",
-      "category": "Security News"
     },
     {
       "title": "US Heightens Nigeria Security Alert as Embassy Staff Depart",
@@ -130,7 +144,7 @@
       "title": "Onoh: US travel advisory politically motivated, not solely security-based",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0Jxc0dWMWp2ZkI4V3ViSk5RVVNPbGYxTUpnelZlN1VNUUlTTzFaV2hNN3FRNnV0cTRGOUcwZlNuSllPOE8xMHI0MWJmUVFIS0hEVTRXUTZLZ01uWlZOSVh5ZEdZcGxwOFdpVmFYR3EwWG5lUjJ2LWl2WXIyZkZhU0JWRXVFV0NnMXBDVmN4dEJhb3Bqbl80MXg0U2sydw?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 10 Apr 2026 10:27:07 GMT",
+      "pubDate": "Fri, 10 Apr 2026 11:22:00 GMT",
       "category": "Security News"
     },
     {
@@ -146,6 +160,13 @@
       "source": "BBC",
       "pubDate": "Fri, 10 Apr 2026 10:05:03 GMT",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "US urges citizens to reconsider travel to Nigeria over security risks",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVLZ19xN2FHbHdxUmFBT192Z0tSZkhySFZJREJkN2pOeUlNbXJ2MllXZWpVNkFCdVFLR2NmSFZocWUxbEdiYjRDVkJ2ZHRuVVFxd0RRUk5HSjF4Ny1HZkxMV0YtZE5JQXZOR2hjdWNYcUViN3NpTTlZalZmNllzOGJZVktfUUlnYkl2eHJQTWtOcUxpSWw5MEl2QmY0Z1VUVmgtTXYyY3ZhTFZK0gGyAUFVX3lxTE9nWDB0RDRKaG5xMzlGWTdrZzlRUHN0dlpTU3o2bUFQSDRGNzVCalN1Uk5yLTFVdEFGbmJuREYtYk5aLXd1b2RzaGRfTzhkY1RRQ2t3Z3Q2R1FfMmNpUjgySU5rQnNFWmNVSTNhSC1rMjlvSUhIZHB6TTAzSmVoeTJOMWJTdV9OblFVUDNKZkJIUnFGMHBTZHVSeVZ3dEw1ZU9PZzBvVmlrOGF6aXRQV1gzTGc?oc=5",
+      "source": "africanews.com",
+      "pubDate": "Fri, 10 Apr 2026 09:32:41 GMT",
+      "category": "Security News"
     },
     {
       "title": "CSOs React To US Travel Advisory, Back FG’s Security Efforts",
@@ -216,13 +237,6 @@
       "source": "Businessday NG",
       "pubDate": "Fri, 10 Apr 2026 06:01:25 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s future, age-long conflicts worry Obasanjo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXNIREJhRE5pdFNiRExZRkpaQUU3dWhvNlhXNW9LYTJUcGg0YVhLT3BaeUVONFdPckhsUkF5SWZnQ1NsS0JUd1lJQkVfTDZ4bWx2cG5MOXYyZmo4NUZBam5hS2xhdjY3N09DQnU4djZBRGRzdHhDekd3b0RaLXVCYg?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 10 Apr 2026 05:05:00 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Adebayo warns Nigeria drifting toward one-man rule, raises concern over insecurity",
@@ -323,13 +337,6 @@
       "category": "Security News"
     },
     {
-      "title": "US Embassy Halts Visa Appointments in Abuja, Day After Security Alert",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2Flam1fQVdmel91MGNTekl1Q01iaE9GODZFTVp1bl9mdGlVeEZtZVk5b2FyWVFoMzNUV1hNcTIyeXRvZTl1QVY2Mjh5aGpTS3ZSV2ZodTRJWWpzbV9lWFNCN3poYkFjVV82QzlhUmNWYUo4NGsxQ1lIaDFxUXVVTEhIOWVKX2hiNTVaX21nQnRhci1CTGlfdnRwX3dPaUFSS1hTSDl3SzRQM1gySklxXy11QW9yZ0U?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Thu, 09 Apr 2026 18:41:44 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Intelligence Fragmentation Exposed As Core Risk In National Security Architecture",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUVjcFBXUGk2eXY4R2JXRWdQeFRoamdQS0FzU2J4NUV1MkwtTUpIODJhTnJ6Nm1NbFpmRWFFM2EzUjlKV3hQSy1Vb3JCRVZwNDVONi1QSnhHU3RtNDN2dWs1b1JSenhhSkNJN3BhYklVQS1WbGR1X2xnekFPNDhyaTNnMFE4MWpBUFVXajRsWWsxXzdtdnByOFlzbjdpNm9USXVB?oc=5",
       "source": "Voice of Nigeria",
@@ -355,13 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wNHNYS2lhXy1TRHpTc2JTZGl6ZEpwSDdqX1pma2pmMF9Ec3FaUV9lVlZXci1id0JkMktLdHFMVnBQUFh1Sk45TG5EZkxMVjdSUGN2NW16MFVkd1JoY1R0Z1RCZUJsMVk?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Thu, 09 Apr 2026 16:49:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria records continued security gains, reaffirms stability amid U.S advisory – FG",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWUwRGRVNHYxYjdndS1QaWdyYmMzbDAzU1YtYVVsOWFRNXlFcEVuU3MyUDFRZ1Y3RDNXVWh2aDkzS3JLcGhQclRBd0lmY1ZiTTU1STZnVXpFdmlxV2Z5dmx2RmQwb1FrYjhSdzVrR1NCX1JGUnlhQ09UUGhXYTg3TExRVE50dkhaTmRncTk2enBHUjdEeUVYNHBJWFNQc0hWMENSME95ZHNqSTFmTFZsQ1930gG3AUFVX3lxTE4wWHp0QThBdW5Bc0xUbUVrdFdhdDVFV0prODlyMmtnMWpGSjd0UE5KYlQ2akdpdnFTaWtHMzM4aE5lc3lIY2hqR2l4X1hKX195TWI5bC00T19ZcTdrd0tNbHBNWkc0TWdYWEJEcGdqOHhVSGxVUmtZZlNUNWhKQXZ3d2ZCM3E3dVhKRWpUNHU1YUVITXhwQUlTVEJMS1plN2tLeS1Td0RScW44TS1KVmx5cVhtZ3NVQQ?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Thu, 09 Apr 2026 16:43:34 GMT",
       "category": "Security News"
     }
   ]
