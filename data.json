@@ -1,31 +1,101 @@
 {
-  "timestamp": "2026-04-13T04:09:35.999Z",
-  "generatedAt": "13/04/2026, 05:09:35",
-  "totalHeadlines": 178,
+  "timestamp": "2026-04-13T06:51:25.456Z",
+  "generatedAt": "13/04/2026, 07:51:25",
+  "totalHeadlines": 180,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 123,
-    "Law Enforcement": 10,
-    "Insurgency": 13,
-    "Armed Conflict": 14,
+    "Security News": 122,
+    "Law Enforcement": 7,
+    "Insurgency": 16,
+    "Armed Conflict": 17,
     "Banditry": 5,
-    "Kidnapping": 2,
     "Military/Security Operations": 9,
-    "Traffic": 2
+    "Kidnapping": 1,
+    "Traffic": 3
   },
   "headlines": [
+    {
+      "title": "NAF airstrike: We closed Jilli market five years ago – Gov Zulum backs military",
+      "link": "https://www.vanguardngr.com/2026/04/zulum-warns-residents-against-aiding-boko-haram-insurgents/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 13 Apr 2026 06:30:12 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NDLEA arrests 93-year-old, doctor in nationwide drug crackdown",
+      "link": "https://www.vanguardngr.com/2026/04/ndlea-arrests-93-year-old-doctor-in-nationwide-drug-crackdown/",
+      "source": "olufemiajasa",
+      "pubDate": "Mon, 13 Apr 2026 06:02:30 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "War on terror: Dozens feared dead in Borno-Yobe airstrike",
+      "link": "https://www.vanguardngr.com/2026/04/war-on-terror-dozens-feared-dead-in-borno-yobe-airstrike/",
+      "source": "olufemiajasa",
+      "pubDate": "Mon, 13 Apr 2026 06:00:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria loses over 400 ‘innocent’ citizens to accidental bombing",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbklZeGVLUFRmaDcwN3FUYjhPZ2VvNTZiOElMU3VOYmE4S1BtV0l3M1A0eFRrVndlNlo1a3Z6bFpBMzRsdUJVeTdyNTVydkxHOUhYZi1wTjZ5WmdMaEVqUTE5SjdaVk1sX0Z2QjFvTzVqWmk3T0lSelRHNF9Nb0IyWTdRTFNTc3RTUEY4YzlKUV9GWElzUnd5dHNPTQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 13 Apr 2026 05:35:15 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "US commends Nigeria over conviction of 386 terrorism suspects in mass trials",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekw1REJQVC1WMWU0aEFaaEVfVEpZSHk4RTdQaG1FazA1YVk3Skd2LUItQkQ1b0NyamhackVhTzhnVVV6TEpnNW1HTlh6Ny15T3pnSkRKb3ZNVUxKX3c0dUx0T1BpMzFPMk00bDBLV0xqamZzQVVLdGJZTzJJdGtIV0xiSkVlTWlwcUwxS1lZUXQ3SmFWQnRaUlZNdXhrYkw1dWdXSTNEd0xiZlBVLUZKeXhmc9IBuAFBVV95cUxQbElIME5YLVNQSnhxZ1RMNjZvUXhNMkpkRHU5dVhNTVdIdThGZU5OUmJHelNKVTVPMGlQaEdJNVNscXBiMDRXS2JqYnJqanlNcURXS1VHQUg0a2pfVTNla2NGWllLSGdpOUVlaEh5YlRSXzhBaE5Bb1FfWEtXX1lRRTNQTzZ0UVNfcEh4V0F5OG5PMTBSNjlGaWtwSmhvUmllaE4tVmN2VktUbmpTTXA5VUo5NkhuUmRu?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Mon, 13 Apr 2026 05:24:18 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Conviction of terrorists ‘ll give hope to victims — US, CSOs, lawyer",
+      "link": "https://www.vanguardngr.com/2026/04/conviction-of-terrorists-ll-give-hope-to-victims-us-csos-lawyer/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 13 Apr 2026 05:21:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Killings under-reported, security crisis deepening —Gbenga Hashim",
+      "link": "https://www.vanguardngr.com/2026/04/killings-under-reported-security-crisis-deepening-gbenga-hashim/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 13 Apr 2026 05:17:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Defence Minister Says Armed Forces Central To Nigeria’s Stability, Survival",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0JXem5xaTRaVlVOVWRNQ2RuV2I3ZTJicXVhZ2JDWmVRV0JwdHBnNUNiMm5FRmFTUlh2Y0xzRWMtaVNhX2xaSWd2U0JXNVNpekF6aFJBR0JhVEVsVXF5cnpjU3FWR2EzeXJBTWZUUHZaQVV5NGpIWFFXNjJFdmpGaUpud1owTWNmanVPdE51dTBCUVdXeDJzaHRVWTI?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Mon, 13 Apr 2026 04:56:19 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "U.S. hails Nigeria over 386 terrorism convictions",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1ExQXR5Q19jS0gteDN6YUxhWmxHaGdjN1RDSGtyaVJqRDRteEhlZTlWV3F5eFB3b2ItZmd0Z0VKSERXallkSFNnYzR5dF9XcU82MUFFWm9ldkxYQXVIcU90RnpaU2hRX2lIU0hKUjFuVHpvVjlHa1J2UW5WWU1zN0FVam96Zw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 13 Apr 2026 04:36:12 GMT",
+      "category": "Insurgency"
+    },
     {
       "title": "State police in Nigeria: A strategic path forward",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVRMRzR5dWU1MDJOZGdTT0ctd1VKRXhPQVQ1NkpUWWw1eW13NE9lMzdseHNFWFl5dHVOU19IQ0I4X3lGN2NDVVRldDhPSWFicS13NTMwY0dxVUVJMnNMa2NudHM5MHpKdVRNMzI1QkZoNkJtXzQ4MmZHeUM5YjFBY08yWQ?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 13 Apr 2026 03:39:26 GMT",
+      "pubDate": "Mon, 13 Apr 2026 04:30:00 GMT",
       "category": "Law Enforcement"
     },
     {
       "title": "‘Nigeria’s food security strategy must boost domestic agricultural productivity’",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTZCeHNxLUdiMGR0UXJQajRXbWV5VVlQeTZzaGh2SDI4eFBHNHZRX3FwVVBMVFdQSTBoSDJjVGc4UjlhaVdaSE9rMUMzYUlyWVc5SnE4TE9Bd2pVck5iQ1JhRTRzemVfb1NrcnMwbGZNQUE4WDN6VXpHbVV1aU5OU2FjN3puNlVLVTlFOGNJYi1QazdMbnZqSy1FajNvWkZhNjBNOVdiSjVReXFTVmlGa2FfMktlb3EtbW56U3o1V0hnWUxi?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 13 Apr 2026 03:38:45 GMT",
+      "pubDate": "Mon, 13 Apr 2026 04:15:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "HEDA commends NIS on suspension, probe of officers for alleged extortion",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjJfa0hiTWtrZkpISXJGZndZeFJ0QWpUMDN4UHY3SWJWdWpYWUp6LTJWUFY2azdPY1VPYnRfVTBKMWRaUGJTc0tHdnRDeFZkMmh6cTQ0UkxwRlhLMUttVXJMcXMtbGdvdnZBMnZVb0JMS1FyVkFqdmdhX3hwN2NKWDdEZ0t3eGV3eEsxNENJZ1pHdDQzdVFtUkFxOXRyQQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 13 Apr 2026 04:13:13 GMT",
       "category": "Security News"
     },
     {
@@ -64,13 +134,6 @@
       "category": "Security News"
     },
     {
-      "title": "War on terror: Dozens feared dead in Borno-Yobe airstrike",
-      "link": "https://www.vanguardngr.com/2026/04/war-on-terror-dozens-feared-dead-in-borno-yobe-airstrike/",
-      "source": "olufemiajasa",
-      "pubDate": "Mon, 13 Apr 2026 00:55:50 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Transportation as a vehicle of unity in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFFlclp6T3FLR2RjaHpwVUNlVWt4WmZ3LXNDdXB4Zks2cWNoRXEteE10c2NJUy1hU0dtLUxKdjlFc3FlNlVMX254TkRDWXN4VzlBcmFETF8tR2R3QW5sYUxuVEFwamUzN2hOWnFiNVZwTk0tS3RnWU56d1l3WjFpX0JVX2jSAYoBQVVfeXFMTTUzSEhVUGVVbmUzeWNJX0xIbzFjNVpGMmZObV95bVE4X0tjY3F3ejRHbXY4VTFVUjdabU9MWDBOUnlWRmdWbFVQc1RHT2k0ZXVyOFJrUEgzUHFDaHBoZ05HX2NBVk82QWtsby1tV1lheGVlQ2dEZGs0Rjh3SzNaSkxpNC1wV25fT2Jn?oc=5",
       "source": "The Nation Newspaper",
@@ -92,46 +155,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Conviction of terrorists ‘ll give hope to victims — US, CSOs, lawyer",
-      "link": "https://www.vanguardngr.com/2026/04/conviction-of-terrorists-ll-give-hope-to-victims-us-csos-lawyer/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 13 Apr 2026 00:21:00 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Killings under-reported, security crisis deepening —Gbenga Hashim",
-      "link": "https://www.vanguardngr.com/2026/04/killings-under-reported-security-crisis-deepening-gbenga-hashim/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 13 Apr 2026 00:17:00 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "A nation under siege: Why Nigeria’s security architecture is failing",
-      "link": "https://www.vanguardngr.com/2026/04/a-nation-under-siege-why-nigerias-security-architecture-is-failing/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sun, 12 Apr 2026 23:28:02 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Police begin investigation into killing of Agali in Lagos",
-      "link": "https://www.vanguardngr.com/2026/04/police-begin-investigation-into-killing-of-agali-in-lagos/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 12 Apr 2026 22:21:54 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigerian military arrests ISWAP’s teenage logistics courier linked to Jilli attacks",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSE9ZbjVaZDV4ejBWX0UzM2xMQWdsRWRjZXVfMzc1djBvbEtKZzV0REg4bDREMEp4N3RhcmdrVUJ6TWphbjUzX3k3SzFBQVlUM2c1MWZxWnZrR2tTT3JTbmQwQWk4OXdWS3l0WGRVS1l0ZVAyQ3NobGlIMEZ0YS1CNW9ZaFpKVkFrWmpndk16c2l0UWl6OW1yMXQxRGtvRTRjbWNUeHhCU3ZyWnpfczlJNHFuWlNTelctak9EZnItN0xHbVdfNjdyUVRybHY0QTRJYlQwOFFVQmpoQTlNY1Nr?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Sun, 12 Apr 2026 22:12:10 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Nigeria: Many dead after military bombs village market",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHdFNEpoeVIyMG9zN3pWNS1XZXpXb2ROYUJEMmMtZ2k5cjJCNW9oZFJfYnVQYm9XdGg0a0JPOC0tbzBFUTV5YTNsZlQ1ZlZEeGN4ZkxZTGVUWFA4WnlHWUVvR005Y3lKRy05Skw4Q2p0MjZZbGZMRDNPdU05bjk1d0RJUzlRel8yTVNkVzhPd9IBjwFBVV95cUxNWHR1ZWpFMFRxbEpqWDVKb3lOc0hqbTdwV3d6QmNRM2tFUF9RUWRTYTAwYkNHRnc3R09BRzRPb0dxdjJLYl9PZFU0eXR3dHlsb0drX0tTbEpiNXdES2dkM2w0QUJxZXRYTGo5Wko2WWJNeEFYMFNGVExzX2ZrSng3cXEtRzl2SzJFR2VOaTRPcw?oc=5",
-      "source": "DW.com",
-      "pubDate": "Sun, 12 Apr 2026 22:03:42 GMT",
-      "category": "Security News"
     },
     {
       "title": "Dozens feared dead in air strike on village in northeastern Nigeria",
@@ -148,13 +176,6 @@
       "category": "Security News"
     },
     {
-      "title": "US lauds Nigeria over 386 terrorism convictions – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUktnUS1md1JPRjQzTDNqMGFTTXlCTGRuYmFqYzZLTFUxM2c3cXZHUXVkTTMzdlR6d0lWVXVzQy1WdnAyODhMUGkzTjNiaFdxd0owNnJlTXZFR29Hb19yOEFtUk1WY2lUOG9OZDh0S0R1aV9PbXdlaU1wT3dMNkdzTHdVUmVsSkozVlQ5andvOTY?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Sun, 12 Apr 2026 17:56:29 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Hashim laments global silence over rising terror attacks, killings in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEk1Q2dFczktNnBVWG1sWGhia2ZfalUzdEZrRDBCTVRJWUhXc2hKbTlKS0o2WTYwVXBMU0wxbm1JQl9RRXFlRXRRTmpNZy02THotNlFsUXBqNFBCVWVNOXlnVHRFcjBOU01qcEtydEZHaGFpc21WcGJDelI5WHBZN21aUFV4elM5eVFGU0duQmxFSkFVWnpGekVrZ01Uelk0dDRaRA?oc=5",
       "source": "The Guardian Nigeria News",
@@ -162,25 +183,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "US commends Nigeria over 386 terrorism convictions",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0F6M0FfOWhmSDlOakp0dEZNdjg2Wmhld2RHT1M0WW1WWEktc1l3QlcwRDlERTE5dmE3bVpENDNBVzgzYkptbHB4SXA0QmZkekJjeXdGbkEyYkhuS0dURkljLVc3dUswbzN1SUt3LWVjeXdPNHd0YkNVb1lLUVJkUg?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sun, 12 Apr 2026 17:17:00 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Security operatives destroy criminal hideouts, arrest suspect in Kogi",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZIbndEV01tUGo1NFpSazdieTV1V1RhamVRcEJQUFk0QU1TR0pGUEFTdU8tN3VtckMzdVNMcGhYOW9IZjZpV3BrYXhnU3pXTUFBWlBETUVhSFU1cHM1U25YSWU5WE9qRzA0VW9TWjJiQjlHQzFKSVZtWlJ6NWs1a1RGcU9BZmdIVWRsdy1BUmROTHBBeDBkZm9rWlBuSWxfai1Z?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Sun, 12 Apr 2026 17:00:43 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Scores killed in 'mistaken' air strike on Nigerian market",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9veXRmVW9JLWt3UUtnWmxOU0lLcEhxVW5la0VURFN1SFZGck9ST3F2cmMwYmZVRmx0RTFLMmFaY0czQnpjaXVGd0lUQjBSc3ljdDBiUUpicXPSAV5BVV95cUxNSUN3QUwtVG5yNjVUd0Q5Ymlwc0dHbk40cnA2S2psTzN0TndSbTZlNXhfX1lNbHpNMnJSOW9QTnBxZkNCWFowTngwSXJhQ1RhaFkxdFRSWV9VeVF0VUZn?oc=5",
-      "source": "TRT World",
-      "pubDate": "Sun, 12 Apr 2026 16:31:30 GMT",
-      "category": "Security News"
     },
     {
       "title": "Air raid: Nigeria Air Force airstrike kill many for market between Borno-Yobe border",
@@ -211,11 +218,11 @@
       "category": "Security News"
     },
     {
-      "title": "US Commends Nigeria Over Expedited Prosecution of Suspected Terrorists",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnRzNmpmZDhZaGV1Yi1KZ1hCczZ2MnR6YXQwcmhBUHJXQlhqVHJISUpONGZZQmNXcFFsb0xVNEhESzZlaHVPdDFlQno1VHRLMzhoTktaOGVwbnhtdDVoYXBuS1QtZlNjODN4bERzVE5hWEdHcXplTjkxUm14VWFlc2NraS1Qenl5MTdVeW1tWExRdnZlcWRfYU13?oc=5",
-      "source": "TVC News",
-      "pubDate": "Sun, 12 Apr 2026 14:34:00 GMT",
-      "category": "Security News"
+      "title": "US commends Nigeria over 386 terrorism convictions, urges sustained judicial reforms",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVBLMTVrUTl6SU1NWDNiN1JNVkhVdUNMN1lwemppOTlMTWJDamVPbUFjRDhXNjc2Z1BIdE01NkJaNlZ0RWZSbklFaW81eW5MNm9KbzBxTGdQUFp3MEJyRG5PcHd2TUpieDczSnVJVHRzckZRTVZQWG1yQzVoRTJ1Y2xYRXkwZHkxS3FDcUsyUi1RN1ZGZ3liNTVJanBNNnFVMUNHRWdMTQ?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 12 Apr 2026 14:48:21 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Insecurity: Retired general urges Nigerians to lean on God",
@@ -253,13 +260,6 @@
       "category": "Security News"
     },
     {
-      "title": "Operation Safe Corridor: Inside Nigeria's controversial effort to deradicalise, integrate former terrorists",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV0ZxT3dyZjZMTHotM0ZnTUI1VW1Id0RXNnpZbFFodnJBNllvSDRsU2tWTjZiOERZVFhZZWJ2QzB6RnBFS1MtRXAxa1FYUF93QTVwOVY0NVEyZ284cWlIRjlHUlBzbW8xcUlHSE5mUVpnRjYtUlVEODYtZmJoVF96STNkYlE0dzNNQlF2RWdaZWpIeGRzVE9hNU1PVGF4eWtRV1hqbzFmRWd5Y3FWdEtlNHVieXpKRlpvRm5GZm1xVEtYdXJLay14blNKeGNKdEZIbDZTVmVtNkcyS2dpWTRva3BFUGFqRlAxVXFUMHUxenAyVVFXNFZHbU5HenJZNDd0?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sun, 12 Apr 2026 08:01:27 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Tinubu in engagements with US, UK, others over insecurity – Ibrahim",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVhCZDhqbVpGdVBOb0pNWEJURllKejZ3WGtacERwd0I0OEVjeUdId0FtVHVMejl6bE0xTGxwV2p1Mm9JRkNkbjVBLThZNjZ3bXR0dXhMalRHLXQ4MFFBTU9VclFkUlhPdTBwS1MyTEZLUWw2NG5ESTBqM295SVNvaXNMd1NXS21UOHRVa3AtcXhxWlRubVhxVllR0gGfAUFVX3lxTE9fMFNJR3RLLUJpNW9ZejRXMEZtNy14dzNSTXFrWmE4TUNGZjdqd0E5WXItaEVZM0NWVlBEWnpfbVpCMlVqbHpzeGM3LWRCSVVsaEM2NzdRcTRFN0pGMFhGZHNpOXpQUlhZcnZLdGlzVXZtck1CUC1CWm1pbWVsQUxGSTNaT3pNb3pfTnVHel9IY2xVLUhuMUd1X3R5NHR3QQ?oc=5",
       "source": "The Nation Newspaper",
@@ -279,13 +279,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Sat, 11 Apr 2026 22:34:08 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Tinubu in talks with countries to end insecurity – Amb. Jimoh Ibrahim",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVdwaHNjX0RjdWVKQ3U1ZkZGSy1vQW5leUxhbkQ4YUFzU2ZYbk1iaWtaWExObjNMV1FndTAxcDZ5QVFNSTdrLTlaSnFpMG85VHh6aHVldTZvZDc1UHVCQXp6SjFLNExXS3JiVUN2N0dGbWlzM0pUOEpLdVI5THUyckFsZ0M5UTA0OTlUU1Q1OUdHTTFhMDM5UA?oc=5",
-      "source": "Daily Nigerian",
-      "pubDate": "Sat, 11 Apr 2026 16:09:42 GMT",
-      "category": "Security News"
     },
     {
       "title": "Lagos Turns To EPAIL For Security Equipment Supply Deal",
@@ -323,20 +316,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Army Chief Waidi Shaibu Vows to Crush Security Threats in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODVJZVRLVnZ5aEs5MDJGY0k0Mk9aVWcxSGpjZUR3VnZ0dTRvNU94R01DaWctUVJuWGRaQzQyTFFYX0d6SVZjVlZRdnFaWDVtYlJfOERVT1dCSXozU1NtRWpPbXBFdEdRRWJSNncwbUtXZkQxNkN3WUMxbjdsdjhOOXdXY2xCV1BxTjBWZXNfZHFCR3RIMEh2QWk0MA?oc=5",
-      "source": "freedomonline.com.ng",
-      "pubDate": "Sat, 11 Apr 2026 13:21:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC arrest railway vandals in Nasarawa – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0dqM1ZhcEVtRE1pV2RRZ0U3cHFWeTdHX0VQUlhrblFIY0lQWGc1dHJ1TEtCMDhvVnBWdlhZSno2WjNwLWNmcU9CTjRVYW5nYkJfWnFvMUVLbHBJYWduWUtKVzcweEJvVHBMS0l0YTFfQ0lOTnBlQ2dCRHdwcVJzNzVKSVNpT3M?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Sat, 11 Apr 2026 12:42:29 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Bayelsa Convoy Brawl: Military Personnel To Face Court-Martial Monday",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTlSZTRROFJ2WHlTaVhNdFI3VHdDTGtjUG5nYXpEcm1YM0pWUUpmcDlLWF9rUUl0ZHhXTFZMeUF0YXFFUUpka2V6Z2ZJcjNwbjlHV3MwZU1RNWxkMFh3VHJoNlhIRTFpWmFFYmE4Z0ctc3lwcUlQN1Nrd01DZ0VULVBhWlFTTlNuRUZ2R3UyUkRRWXIxMGlr0gGcAUFVX3lxTE5hOU9JNEUxbHBiZU90bmIyRjdENFMya3hFNUoyZzJmMnV0WmpjVEFtVlc0Q09NWnZTU0h0RmlWWWJ4UWRlZXFhdjlqT2loS1hqWkxZdWQ3czBSRDRsQ29IOE9Rai1OWnhHSDlvR0ZrSTJFUlNOb05LSzVLSUhNRTI2NVFjNHVVWURlQmhxeENBRDV3SGt4ZUowZFdNbg?oc=5",
       "source": "The Whistler Newspaper",
@@ -362,6 +341,27 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeE8ydlh0V0NKbm1YUld5eWZYQy1hUUY0R0FhTFpSdkppNE1JV2lNSWQ1OFhpMjk0NWVKSEk5ZzlsLTdKbXNrMXFTWFI2NFh6Z0FtQUVodk9GTnZRWVUtdGJucVJGRDBENmttVjNOSHA3ZDJMSndFVUE4cGM1SGhxaE44QUI5MHF5RlBz?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Sat, 11 Apr 2026 06:25:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "PERSPECTIVE: Economics Of Insecurity, The Middle East War And Pathways To Sustainable Peace, Democracy And Development In Nigeria (2026–2031)",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVnk2QVFFRjUtQmtKQ0Y2WllmN2ZMZnBoX0FMaFZtQzRXd3lwM1hfWnlTWXFrN2RqWHFmRW1UWHdmZF9pMHF6QWxZMVVNUUhsc1FITDdyenVhY3hRUXZwc0lmOVBGV0JDc3Bub2J1bFc3N3JrZFc5RUs1d21yRGlhN0FYSmtlS19yRFlZUy1JanNsLU05SEJqcGxYSk9yYTd4a0o3VGs1d1d0R1lwRTlfWVFjVmNOUUtoQVJRWFN3dHppTVhJLWJMREdNWFJkQ2p2M1BfcXRvVEtFV2ctSDQxRExpMVIwQk12V3haQUw3OVJtdlNM?oc=5",
+      "source": "OsunDefender",
+      "pubDate": "Sat, 11 Apr 2026 02:19:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Terrorists Kill Forest Guard Commander, Four Others in Kwara Attack",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHJhUlNIdUp4Um5kNVhpTFprbXdfZ0hwV05kWmNyMVRHSjJxSVlLLWdqMU54OFU1NllvZmJZTFpTZ1BHNExPRE1iOFFWakxpdTNCQXVZVzVBMzFtU19XN0tnN3J2djEyUkIzaFRyNGlMYTUxUnk5Qmd0b0lKLTZDYUFyWnJkV1VyNF9KX196U1V2MFFZck9uWmVLSXJ5VHRtbkE?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Fri, 10 Apr 2026 19:47:15 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Tunji Olaseinde launches Future Inc. to tackle Nigeria’s energy and security challenges",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalc5WTJEcTMxVjlQejNqWWZBZ1BINks4Q056Tm1Md0RZVlJlQlpJS1UtbGFqc0J0cTZuTFJtTkdUVEUtdlNJVU9hWXVZeGJSdkREb1BCZUtkcUxWaGQtdDgtWjF3VS1TV2ozN0tkTWJiNHNiVjdCdUJNNHpoZ3g5Z3NCNkZCVHAyQzQ5NGJ3cVlLTWZMeG5iaDRob2s4NlFJR3A1S3VsRW8xeGtXUXVjTFNvMG5xd21MY0Jlajc3NjkxNEk?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Fri, 10 Apr 2026 15:03:31 GMT",
       "category": "Security News"
     }
   ]
