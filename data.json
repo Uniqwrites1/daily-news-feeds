@@ -1,19 +1,89 @@
 {
-  "timestamp": "2026-04-16T15:36:55.133Z",
-  "generatedAt": "16/04/2026, 16:36:55",
-  "totalHeadlines": 181,
+  "timestamp": "2026-04-16T18:33:28.522Z",
+  "generatedAt": "16/04/2026, 19:33:28",
+  "totalHeadlines": 182,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Armed Conflict": 15,
-    "Security News": 122,
-    "Insurgency": 12,
-    "Law Enforcement": 14,
-    "Military/Security Operations": 10,
+    "Armed Conflict": 19,
+    "Security News": 123,
+    "Insurgency": 10,
+    "Law Enforcement": 13,
+    "Military/Security Operations": 9,
     "Kidnapping": 2,
-    "Banditry": 5,
-    "Traffic": 1
+    "Banditry": 4,
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "NDPC orders improved data security as cyber threats intensify",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNck8tS3dJazJKUEdIQlZBNHBxNXBkdGVrSDlGekFfekdMekVpdEhlSVZ6eFNfaGEyNC1mVjdFNkJXdlh0WDB4Z0F0MEkzQkNSa2pRMVBXQml2NlY0NU9rNFZhOGlwc1dPQWwtQkxjTVVfYzU3U05jaTZ1eVFNd05QVk9TaWRoRkZHWnB5MEVCQ1I?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 16 Apr 2026 18:31:16 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife, self – Police",
+      "link": "https://www.vanguardngr.com/2026/04/ex-virginia-lt-gov-justin-fairfax-kills-wife-self-police/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Thu, 16 Apr 2026 17:25:52 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "repentant Boko Haram members rejoin society as Nigeria intensifies reintegration program",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW51bUh0Q0VndVI1LVJwUlQ1ZXEyc2VWUnJRZGt1T2ZzelA4S20tTWVUcUVoM3kyejlicVpNQ2VnQlhFbkI1YXRfbklvYXNIeHhJRnJtaDhvZWFIXzdyOUs0SGpkSzFLXzR3dlZuUkV0R2h4UV9NRmdBNWFnR2duNEM2Y2NWZFFLY21CWmNqdERqSlU4ZExZVWg0cWJ4aXNHcGI2YV9ic1pKMndfRHc?oc=5",
+      "source": "Pulse Nigeria",
+      "pubDate": "Thu, 16 Apr 2026 17:23:15 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "FG to reintegrate 744 repentant terrorists into society",
+      "link": "https://www.vanguardngr.com/2026/04/fg-to-reintegrate-744-repentant-terrorists-into-society/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 16 Apr 2026 17:16:22 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Atiku’s interview, a disaster; ambition dead on arrival — Sunday Dare",
+      "link": "https://www.vanguardngr.com/2026/04/atikus-interview-a-disaster-ambition-dead-on-arrival-sunday-dare/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Thu, 16 Apr 2026 17:04:09 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Burundi Communications Minister Dies, Presidency Blames Accident",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmQ2MzUyWjctZjJnekNCRzRpRFFwaWVLTFV1XzJmRThTVnFWZUJiRTQ2SkhpQW5ObHI0eEs2LVN0UHNzRVBmcE1tTzlZZUhsZC04MWVWNUZBbXZLWkREWVRhMmFqemhkRC1nb2puLVZzal8wTEpySkFYLUVsVDBWZ0llMWN2QlhFNGMw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Thu, 16 Apr 2026 17:03:23 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Terrorists abduct school proprietor, four farmers in Kwara",
+      "link": "https://www.vanguardngr.com/2026/04/terrorists-abduct-school-proprietor-four-farmers-in-kwara/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 16 Apr 2026 16:56:34 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Anglican Church leader praises Pope’s ‘courageous’ peace call amid Trump attacks",
+      "link": "https://www.vanguardngr.com/2026/04/anglican-church-leader-praises-popes-courageous-peace-call-amid-trump-attacks/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 16 Apr 2026 16:50:17 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Groups fault U.S. lawmaker’s call for Matawalle’s redeployment over rising insecurity",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU5EelBGdWNwNG8yUHFIb2NpSEhrWFdGWXBNcXpaZjN4eFM2UVhFZTMzSkJMcXlhUW1LNVY4ODBnOHBRUWFQT0YtVUlnM1NtYjZmeFJCall5MnRVQWl2c2dYeUxfVHBfV3Ixd3EweDhycmlrSG1STU5KR3ZVcHY2ckxwNTlXcnZZZEFpSkhyZDRkTGhLb1ljZEdpVzVVMXc4LUFOVVlYVGU3RG1B?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 16 Apr 2026 16:27:16 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Gunmen abduct 14 JAMB candidates, others in Benue bus attack",
+      "link": "https://www.vanguardngr.com/2026/04/gunmen-abduct-14-jamb-candidates-others-in-benue-bus-attack/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Thu, 16 Apr 2026 16:19:10 +0000",
+      "category": "Armed Conflict"
+    },
     {
       "title": "Agbeyewa Farms Best Template To Address Nigeria’s Security Challenges – Ooni Of Ife",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3hNYlhldWJwT0F4R09xNUx3bkF0Y05iUGhJZy1mdmlkY0tBWjVyN2FsRF92czF2YkFXeWF4NGdIUFh6b2pUWTFFUjJPdzZVR01kX2xkcTc1SkRwVWFHUmlNcF9XTGh5YWZ2azRvS1NMLVM4dl9ndUdOWV9OcHlBclQwaUl4R2dUeEVOYmV1VzNzNjRjZlBOMWlLdHJnTkhtODhQWE5QRQ?oc=5",
@@ -29,11 +99,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Terrorists planning to attack airport, prison in Abuja, Niger – AFP",
-      "link": "https://www.vanguardngr.com/2026/04/terrorists-planning-to-attack-airport-prison-in-abuja-niger-afp/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 16 Apr 2026 14:55:06 +0000",
-      "category": "Armed Conflict"
+      "title": "Groups reject foreign interference in Nigeria’s security affairs",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1J4MmxPQ0pEeVFvbHVQN2xDSnRMYlZlZDA0LVQ3OGI4VkI2OVJSMXhGMWZRRUItU082Z3gwVDBIZnJQekQ3bVlPY2RvWGx0T3ZUYkV6NVdCLWd2MUZBYnFNNlFudEx6N251eHA3bFFfbk15SGJ2emN5NEYzbDcwaHBkeDN6ODVqTmRCLVZZUGwtblZ1?oc=5",
+      "source": "Daily Nigerian",
+      "pubDate": "Thu, 16 Apr 2026 15:06:28 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria Police extradites Nigerian man to UK for alleged murder, drug trafficking",
@@ -43,10 +113,17 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Lassa fever death triggers emergency response in Oyo",
-      "link": "https://www.vanguardngr.com/2026/04/lassa-fever-death-triggers-emergency-response-in-oyo/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 16 Apr 2026 14:05:18 +0000",
+      "title": "Repentant Terrorists Complete Rehabilitation in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hMlpsb3FZVWc0Wm1UdEpNSEttdmI4bGt1MnlEeFhsc0V0RXNGOTAxWEg3RXRVUTNENHhlZU0yU0JUeklqYS00SFlOdHBiZjFwYS1MN2pTUUxPcl9CWEplM21saktiOVpmdE9ncnA2cENBWDkxaE1WTw?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 16 Apr 2026 14:29:06 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Buni warns against narratives threatening Nigeria’s stability",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFJKUlBFbzQzZlRDSVUwdFdvYnJLeDkwVXJfSUUweFhUS2FMdXhuMDhad21vQzdyckxxcXc5QU1fMDB2OWxPcGRuVTFKbTRoTTVDR0dldC1XbG1EX3NpVlpRTEp1Qk4zQ0Q5YWROc2lreHFwdWhVdzFNdHpTR2ZZRGtsUm1rUDFo?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 16 Apr 2026 14:08:48 GMT",
       "category": "Security News"
     },
     {
@@ -64,25 +141,18 @@
       "category": "Security News"
     },
     {
-      "title": "Rivers govt suspends activities in school over pupil’s death",
-      "link": "https://www.vanguardngr.com/2026/04/rivers-govt-suspends-activities-in-school-over-pupils-death/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 16 Apr 2026 13:05:54 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Brazil’s Lula says Trump has ‘no right’ to threaten countries",
-      "link": "https://www.vanguardngr.com/2026/04/brazils-lula-says-trump-has-no-right-to-threaten-countries/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 16 Apr 2026 13:03:33 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria Police Extradite Fugitive to UK Over Murder, Drug Trafficking",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwQVFHUkp5SFlmOERfeDdBbjdJbU5ILVFPSUpTSF9pZzFNUllmMnFDX0dYTGhwOExjZTI2WF9nQ0pGeU1WT014UEFNVm1SbG95OGY0X0JwZ3hXdUR4ekRkd1ozUEtqSHRpZFE?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Thu, 16 Apr 2026 13:03:27 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian Security Forces On High Alert As Terrorists Plot Coordinated Attack On Abuja Airport, Prison –Report",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb1ZNQzlRY01KMzB0blg3TzJ6VzJJblNBS0tKVmxiSFM2UWZfZWk3MUVMOHR3VmhGWDFGQWc3VGlpMTkzTENuZVVtbVhrVXpYN04yMTNFdm5LcjF6R1ZEZnBfOG9YeEItMFJUbDRHaWU0c1dfMUVSYjRnQ1dpWHQ3TFg5dGIwaWNKMmNLR1J1a0hOYVQ5NkQ3MExuZlRRekZCRHgyX3N6bEdHV2JFeFppVHEtT25LS3k3cnVYWENMcXU?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Thu, 16 Apr 2026 12:38:50 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "OPINION: ByteToBreach And Nigeria’s New Data Breach Threat",
@@ -99,13 +169,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Security Crisis",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmhwR2w4SXdCaE80R2VUdHF4cWRTZjNJVTBUTjQyNlRYVExod09kZ3NxRGVlMVdIMjUzNkhjRWtnNHZVOVc2S0VZVlpZOVFVRldBdk9tdV95TGtPOURIOFBrRGY1UEEzdmZVVU1QTVpQY3JiSTl4MVlpUXBnbG5Edl9UMzJuX1lhWHRoSEtENVF3V3JfeC1KUUc5RmlCbmZkRnp1TEdsUWRLbUJCQ09XWkJhYUdscmFv?oc=5",
-      "source": "GazetteXtra",
-      "pubDate": "Thu, 16 Apr 2026 10:34:38 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Security Alert: Terror Groups Target Abuja and Niger State Infrastructure",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXBTWDZ0eTBxVWNOMTltR0dxMl9GM2luRE9hTV96Zm53Y2RzN2pRZUlBeWJ3TXpaZUt3YVN3cUdfTFVjSEJtd05ZbFUyblZwR0dtZ3NuYldjSF9NeFF6ZThaMDNCUzhQYllxekYzUWVFVEpJSHhIRGtsMEM1c0x3MmN1cTgwS3VDM0pWQmJpeWhxWC1HVEpCUXpHenBKaEg4N2FMT0NBdFBPZw?oc=5",
       "source": "streamlinefeed.co.ke",
@@ -113,18 +176,18 @@
       "category": "Security News"
     },
     {
-      "title": "Sixth bird strike grounds United Nigeria aircraft, threatens network stability",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXVyVnRQNXg3cmtFUlZfcFZtM0w0MWZKczEweTFST1pScFgzbW45bDljano3VHI5VU8tcUk3R1pwOFNodHBEOTRLVG9MaWhobEw0aDFwZC1HY0RUaGFrR3pzMDNDcUJxVDE3cUFBOW1NdHZlRW9GMU1LMl95R0k3UGN4N1dzaHVmczhxTGZucVVDaVdaSUlCTXZMMnZsUnl6VkF5TDFvY0ROVU5pbk12LUxObTA1dVJsb1HSAb8BQVVfeXFMTlBLb2wwNWhaazAwR2ZYcGVSandpV1NoR3lrZWlRYndaUGlHd3E3VXlXWGk1bFM3aEU0RnhzS0hZbjV1RTZRaHdaY1hZM0E3ckNJMXJQb2NWV1lZSDVNTXNwY2dVM0Y5MzFHYVE4b1dxaGMwQjZhUWtYUlg3d1Y1dl8yYlJud3hMRjZkZEpZUnhmOHZXcUM2QW1wNUg5TmdQUkhsQzFRb1d6eEtTd3lPSWtCX05udzZFY3BWOEpma0U?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Thu, 16 Apr 2026 10:09:12 GMT",
+      "title": "Tinubu approves lifetime salary for retired paramilitary senior officers",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0lQWWlGbGNyUlk1S1ZHS0I5ek5zOFRqWVFMa2FDdmZEbUxBdVFaamRXTlJ5TF93emRWT1hFQmFKZWxSVmF4RFhKVENDN01Oc3JNSGRCUGdpTUhGWkFJYWRkb0M0VUtvU2lHd1FKdUU2amVwOFFGN1F0ekEzQVpFSGpKWVNOdXFVOXVnSE9XOU5yelRZa0JiZ1hMcHk5YUE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
       "category": "Security News"
     },
     {
-      "title": "Security Forces on High Alert Over Alleged Militant Plot Targeting Abuja Infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzUwNlQ3VHdHQWttVG5jS2N1bzlYaEowekhPcWwwOWdTWGdDNEVLX1lNdkxXd0F5UXNuN3hkaXdHaGZmdTduQ0dMN1hUVlc2T0xTZUE0bmZfWjROdkJjdy1BZGFOUjdMTkUtQ1hMZldRWEs2RDl1bjV0bzhhel81dWRMOXYxQjJIbk9HX01yQW9LS253S3UtQjN1UDNSTU1lWlBHblptS19nTGF1VlNpMmhlYWVVdmhJ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 16 Apr 2026 09:39:06 GMT",
-      "category": "Security News"
+      "title": "Senior military officers killed in Nigeria: Five times wey Boko Haram kpai senior Nigerian military personnel for 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIdk9jS01BMU5FSnpkNEk1YTJxTFJRWENUYUtvUy1EaWdiSzhZVFJhcDJ1eVVnckFUTEVpLUdJWko2aVltZVI4SU1WNzlTV29yd1Zzb1dDYVJOU2g20gFiQVVfeXFMT1g4VzBxaTZSdEVoMG52cTVrRDY5bFpFakZkcUVlYVlUbWxmQUlKVUJjZXNhVlJTS3pCRV9EWW80SDdHbVRqbE50czl6OXBhdXBYb3d5QzBwUmJBV29sazFzYVE?oc=5",
+      "source": "BBC",
+      "pubDate": "Thu, 16 Apr 2026 09:51:39 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "NSCDC Arrests 2 Suspects Over Rape, Minors’ Defilement In Ondo",
@@ -211,6 +274,13 @@
       "category": "Security News"
     },
     {
+      "title": "Nigerian army buries soldiers killed in militant attacks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEt4OFZrWnZxWVZZZXJ1a1FHWHE2NW5tVFlYcGk1U2I2NWY0clNKWnNPV3BENzEwczNCMGNhcUE5OHJpYXo5MUtsc0QzYnZFb2RnSGNwYjAxQ1hzSjVGMnZiVmhlVEVvYUhzeDE5RU5xcXkzMWxPVDdBaEN4SlQ1Q21NYkhrX3N5S2pQWXZZZmU2RUJhdC04b20wONIBoAFBVV95cUxQOThPeHNBMFRCNHp1Rzc1LU9UcnZjd3QtQjRFZ3pNMEFDV2tvcVdVSmpHYXlSYXM5TzkyT0lOcFlYY2t4bndCZ1Y0ZnpmTVRXVkFGQ3hFaHp5TTVSNmhMekFJdWZhUDhNOW1QRzlfWFNZM1pMbFhNclIweUJWc0M3ZGk0V3Q4MnVwMkxsTmNnb3J0RDhvTlg0SU1oY1l1ZjNL?oc=5",
+      "source": "africanews.com",
+      "pubDate": "Thu, 16 Apr 2026 05:19:34 GMT",
+      "category": "Armed Conflict"
+    },
+    {
       "title": "Nigeria • Abuja to regulate private security firms",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2hBRjFBaW43NjlpUktGdVhMN0t1UWg5V0hzT1NTRUhacGhybWdqMDMyWV9TenZlRUk3d3hXWG14OUhfWFZxNWtBalg3NTFoYXItdnhKT2VxR2ZRdzBtaVAwUWg1dUYxcmhuTUROUWQxWHN5MXdBb3dnX3hmZ3NFN2djV1lEbVFxM2ZUdG1LVTE3bXI1SnpjSHpIZDdxeXRhbjZqS3hfMXBxelVqanBYQ0p3?oc=5",
       "source": "Africa Intelligence",
@@ -274,24 +344,10 @@
       "category": "Security News"
     },
     {
-      "title": "US lawmaker demands Matawalle’s removal over Nigeria’s insecurity",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUl2VjdTT1p5N0VpNVlyRk1qdjFGLWlZTktmLXZsRHVNUVl4NkREbUF6TXZ3UTZXaUxuZzd4LUk4WmViUXJ1YUdSdlVrcm05a3prYzQ0VUFYNHlldjJQSVlSWjFVWTFsLTFaakN1alBGUVdBQ2FYVk5LOWlkS3hFOG9pQjAtbURXeks2MtIBkgFBVV95cUxQMjcxRTFUekVfbkxLNjFCRG1wMGRJT0hfaVpZRkdGWkJJRW1xdzd3Z280NEJKSXl1M2NOMDVoVVE0RllDRzhwTXJkbE1oakVJQlZyVkh4Z0JXYzdCZ3RHT2YwcHhWRzFZQ2VTcW5fNzA3VjhISHdMd1FhOXdMaDFVemVmNEE2T3ZwZVhXWFhwd2VyQQ?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Thu, 16 Apr 2026 00:59:36 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "ACF says Nigeria in “state of war,” demands urgent security overhaul",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWJjWmo2ZWJmbFd6Q0IwX1BESkJWSWNmU3pRay1LV05VeDh5NnhTYm9IUUQzLU1Qa2xJNElGNTgtaU42Ylc5TG1JUm5uaDJZT3lRWUNuaEFobEFUODk1VVFxX2Vpcmt3aXdLV3VSWTlKSk5NenAzY1RHaHViOVRnWFZYbU1wdVY4VU96LWN6OHJkUEc5Q2FIUkN0TjV0TW5JSGRuUNIBqgFBVV95cUxPcEtWVU4tSkV2aVppM1g4Q0JKazMwSmh3b0NYZ0JqZE44Sm1mODVHb0N4YjdpSkMwTFUzVEhZdkt0Yy1CTGJ5Z3EzeFZSZkxQeG4yaGZWTjk1WXo2MFE5REd5R3NqM2tVcHlVMDZ2ZHVyZU0zODBWRHViaWdOT29uakRvMmltZUdSQnk4VnhVODN3bmcyNVVyZlBZcmJEOUoweFdEc1JheUxpUQ?oc=5",
       "source": "Businessday NG",
       "pubDate": "Wed, 15 Apr 2026 23:27:07 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tears, tributes as Nigeria buries Brigadier General Braimah, other fallen soldiers",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWJXd3Qxc09TUUZ1MEk1MjFrYVV5MVdDZThNLTNxWE5QWEFNTjgyX2FSZjNyYzNNbE5GNjlKS2JRVjhjakhmOHVuSDZXTWpZeGpWRlBWVWN5MkhNeDRGR2VCSEd3MGUxS1BaUzBNV0JkOVJ2OFVGMWV4OXNIeWFYenVsMWp5b3AzYVRHM0x3UG9yY0QxRjQ4NFlscnE0MVhYZDVwaUE4ODVtOUFabUV0UV9nRXN6eFZpU1RtSVR5S05mU3BNYS1rbkVFTU9qMHdmdnJVM01QS2JRWHkx?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Wed, 15 Apr 2026 23:18:49 GMT",
       "category": "Security News"
     },
     {
@@ -302,66 +358,10 @@
       "category": "Security News"
     },
     {
-      "title": "Nigerian airlines threaten to suspend operations April 20 over rising aviation fuel cost",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0l1YTd0QXdDckljU1JWVUx6S2dRNXlEcS1GYWtpb0xFMmlvcmhXcEh2SUNIWkxXOEV5NUstT3U0MGhWSGltdHpESGVRMGpNMTJOZTk4ZWZnNjlSb2Z6RHJENUZiZU5fZWduRnZYak5mQnpGc0ROZ3VRdXNyU3BSbHZvaF9PSElLTzhSV0ZyMFZHTk1PNTl6QjdCd1pvNGZTX210VUI2QS1ycXZFdWliaGNURQ?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 15 Apr 2026 21:00:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Nigerian security forces on high alert for large-scale attack on airport and prison, memo says",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjJqdHVwWTJpeXhXWDI4TmItempyZ1dnRHgtUGhoeVFLVVZhcG1COVp4RzU3SEZJVHRfR0pzREtJZDAzeTBFX2E0dUFaM1BwOHlSM1JKZ3M1VHA4SloyN3Q4SVFXV1k4eVNucmR0TEZnLVRjQTJTazJKVTFzZ2JFNFdnOTM3akNXNHVULTRTRldyeGgyNDBuMWxQR3VNTy1nQlpURFY1X0UyWWNo0gGyAUFVX3lxTE51UFlJT0V5Ukh5Y0gtUVF3d1RCUnI0ZDdWbzMxLThxclQ0M0E1VGoyckMyZjZoS1ExN2FLS1JPeGE3N015bXM0VEFsZUFERTBvOHZweEVNaFhfYTE0MUJVbDZPVU8tMy1kT0hlb2pjbWs3MV85S0xXUGhLbUVwbzhlbndYLTYySHZPTlhqLWJHTWtVLW5zdnBkWGVLRGpRZ295XzJIV1hMb0IzazNlajVzU2c?oc=5",
       "source": "abcnews.com",
       "pubDate": "Wed, 15 Apr 2026 19:41:07 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "US Lawmaker Accuses Nigerian Security Elements Of Enabling Attacks On Christian Communities",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1NiTUhacUpvSk5nOFFBcXl2UV9VNTNmZ29KZWpXZW1SRFNDTFFveDRlalZud2lZU2xmWktHTUUyTWszYWgtcDFmZkVfLUs2NUFGT25uNl9qN3JXNGF4emhuSVpNMWpyM1RSd2FfS3ptSWZOazVpbkl4TmwzajVWZmMwakd6eWtxNVRMYlpBNlo5b2JIOER5bWt1Q3hnMGwyLWU4OWZvNmpYaHRsVWN5WGNfQ2ZrdUpWeFZ0SDRFZnctdw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Wed, 15 Apr 2026 19:00:18 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Security operatives arrest two suspected cultists after Ondo varsity clash",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHNzT084X1g5OVc3YjUxLUpPSy1IQ0ZOTjJMbHE2UWNpLWNzYV9EbGs4di1lTmFsb0JtWFBxZDlmYXVDejctaDlzUlNJdmJ4NE1idW1Hcm5aUHJkYUQ4UGtWN3daTkY3cmsyYlJzSGFyU3VqSlFreWZHRjRWSDA4M0Q1WENUeEJKVWNtWTZaUi1lOFcwdmdlUEVmZ2JfU01s?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 15 Apr 2026 18:07:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "U.S. Lawmaker Demands Defence Shake-Up, Removal Of Matawalle Over Rising Killings In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFVSSTZ6dEpKSmxZQ1BNSTZsdnBfZXZUQWg2RDlieU5LTFp4cmpiYnl1cjg4NHdhQTBlTDRyck9kUzVhUE8wemhtdjIwZFEzaVZpd0liS01aY2VXM3pLaW9kZmJJOFE1RnpYR0twc09NWE14RDJHVURCN3VzWUZyRjlnV1hoUFdzN2JKaWVnWklzYklwMi10Y0U2b2JKRmMzYTJuWHk4cXJVTHVnaDRnTVFOTQ?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 15 Apr 2026 17:40:17 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ACF Warns Nigeria Has Reached ‘State Of War,’ Urges Action On Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVE81ZTVkb1pmTmphb3ZUZ1F1SnlieUtIVU9NMm1mNUpWQ1JZVmJEU2g3eExfV05YYzVpRXI2bmNuWVlTZkpNQ1pjb1o4MGRCWHZFOWVFR3d4cHN4cFE1QlBYMVpjYXFfYVlMay1ieTNlTWdIaDRacUZzVWUxWm1kWHBoNnBMUEFCYnN4dkN5dlc3SXBYNnZqNFdNZVF1Z3NpRm5Da1RjZ3ZGVUdW0gGyAUFVX3lxTE1HS1VoR1dYYVdxLTFMUlNlZkNMa3htUk13b19CNWl0SWFFaS1NQVhYYU1CcmM0RXByN2lUWER5VlEwSWxIQ0FYWFJlcXpUNVlxQzB5dWJyWFh5aHdvSzVERy1oTEM3VldfdFlqVGpHSU5qa1d0dS1SM2xKZjJyVFNQNlA0bTlNeTVObEdyWUNtcXViZVlnVXdCN0xhc2lvS19RY01KMXc4b0hZZ0Fhbi1SVEE?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Wed, 15 Apr 2026 17:30:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "We Do Not Arm Boko Haram Terrorists to Fight for Nigerian Military, DHQ Clears Air",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVDNSS1ItRGxZSU53TlNnQVl6ZWdZdEozUzhLU3BEamxDTUdWYnhwaXVuZlpTQlVNVEkyMkgyUnJJQ0ZvRGlPVDBpdkZLTkhfREdtbzM2SjJPTUoyTV9YdFV4Q3BnYzkxTmpJUGRpTUJVYS1fQW9vTEktMWw0ZlRhQTV1RXlsV1Y4Tko2cFdacHMwS3Rtb3JpR0w5MkZRUlFCUzVnOHh0LS1Vazk3VUlQQ295VXR1cWRzdklOY1FR?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 15 Apr 2026 17:27:49 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "US lawmaker asks Tinubu to redeploy Matawalle, cites ‘red flags’ in security report",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0l2QUpVVWpKbEp4WDdwQzlHQm4wLWNNVDU2aTN2UGF5SkUxczVMZW1OTUt2dGlpcURHRTZHanZUTDU2eTNwd1huNWpTakMwVnZqYnp1NnMtM3llMHlOdlNBTDVpMGFkSmVjVVhWR0pJaFl3WkVwZGd5Ykt0dnFrcGROMHE1a0FQeGRmNFZEeThiNGREMW1DbWRuUXRJOE9VRTFXS2w1ang?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 15 Apr 2026 17:23:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "U.S. Lawmaker Accuses Nigerian Security Of Complicity In Attacks",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXNNQ0pZSDVpT180ZWV0M3VUY0ZIckZPRFQ5LXF1Y2RYUTBwbXl3bkoyNG9aQTBtaVBTTnV1NU83RUtjWlpKVmpVYjRvOUJYaURCcDYzaDJPZFVIWVVaa3l2UVZ1UnZEX0hRb19TVVNuOTByX3VmRGxOQUxUNnpWb2RDdFFybG1scVVMM0tjUXk?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Wed, 15 Apr 2026 16:53:51 GMT",
       "category": "Armed Conflict"
     }
   ]
