@@ -1,19 +1,61 @@
 {
-  "timestamp": "2026-04-19T12:17:05.374Z",
-  "generatedAt": "19/04/2026, 13:17:05",
-  "totalHeadlines": 158,
+  "timestamp": "2026-04-19T15:17:17.655Z",
+  "generatedAt": "19/04/2026, 16:17:17",
+  "totalHeadlines": 165,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 107,
-    "Law Enforcement": 7,
-    "Traffic": 10,
-    "Armed Conflict": 13,
+    "Security News": 115,
+    "Traffic": 8,
+    "Law Enforcement": 6,
+    "Armed Conflict": 12,
     "Kidnapping": 5,
     "Military/Security Operations": 8,
-    "Banditry": 2,
-    "Insurgency": 6
+    "Banditry": 3,
+    "Insurgency": 8
   },
   "headlines": [
+    {
+      "title": "Delays, Referrals and Risk: What a doctor’s death reveals about Nigeria’s maternal care gaps",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSW1GUUdzVmVZbHBoa0ZnYmdxSl85d2JZVzNGZU9EOENCTnY2WUlSN2ZRU3VER3B6QkZlcEp4djlwVzZUMkZldE1QaHExMEdFXzJCYWlfdzJ6R296dVU5WUlTZFg0eWpkMldXUTFsM3FrRHh4UXdfVHdLWGQydDM3eXUzWjVVQmlEZUFPWFVHT2VVejhYaW83d1ZaT1hqVWw4WWI3MW9VNks4MUNuOTFTbVdGTUFhazZKQjVKQXZYbENrMGpEMGN0Nmwxc3ZsRFZVS0U4eHgyNXZqTVJqMFUw?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 15:12:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Counter-Insurgency: Sokoto Lauds Nigeria, Turkiye Training Deal",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGMzUWlQSVdBZzFMcEotRlo3clo3N2p6MkRnaFFrbm5YNlV0X3lZRV9fNUhobnRUYkdIWTQ2QXJ4YnRKTmdlRWluclFlNm1aLW9pNE9pbjg1RDB3Q2k1RjFmREE5YVhPQjB5YXhuMGd2Y0k5U0hXYi1jc2lrU012R3JuODBIblMw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 14:28:42 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Angry US-based Nigerian threatens attack on Kwam 1",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZU5OVkQwbHZUNkNmVnNMb2YtamdJdnRoZzFOS25fTVpXcUFqdHY0Q2Zud19mOXptQ2FsU1lTOXhQUmVYQ2FKSXRUQ0Y1Wk1RcTc2aUU3TGlVUUp5NEJ3VFJaWWxrWUZwel81ZVpHQkZkSzRCRXBfRDRPSTFud3hFeUp0RlFuV2xUWHhRcWNteXFWSHEyUFlRUkRlWktZTlBhRGNaN1RQYmJLWXAtSEc4TlJXalVHRGF1OHByZDVn?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 13:43:12 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria, Türkiye seal strategic defence partnership at Antalya Forum 2026",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1Y3MFRlYmYyV25SU2YxT2N6SUhPSTR6MjBBN093eVJyVnlRWmFWNTlGend3Rm9fbVFIQklmQ283c1RRZk9ja1RhQ0NjTHJvWC04YkV0dFFZUThfd2oyc2RpcmRhXzBKa1c2bFlrc2M1aGtSZ3cwcnZwUXFnUV9SSDBmaEZLaHlXbm03ZzhUbzIzVnVZRENVTWQ0NFdGT1NIcUNV0gGoAUFVX3lxTE1ZcFRRanF1bjJKZlhOZjd4NUQzcFk5SXoxUWRmR3pRMnlKNHN2TmhyakJIOEhIdUpXNF83a2tSNUtmZi1YMXlBbG9zdEFBb0JxVldxSEdwbEhGR1BSbWF4X3Z2bl9aT1plUW1OejVMRUY5SERIRVBaSE1oeHY4LUFVamNOZ3ludFFrMDgyRlFlZE9zVllZU2x0NnhDT0tnaFhKczBnZHBRMQ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sun, 19 Apr 2026 13:24:18 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "countries you can travel to by road as a Nigerian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXdSemNPcWlqc3hsT016dC0yNWhsVmFFaUpPY182dTZENmVia3BnR1hPQk9Vc29UdFlFYzZrX0xGQTI3S1ZRS2hsUjJPTjlLekZkUGU4Q1pEWWFZTzBjSTFhMm9QZlhzQjRRMDZWVmxFeU0xVjNDVWxaVldlWmR1WDROb0NZWkRqQ01uRGg4WUVoZ9IBlwFBVV95cUxOTDlCZHBkX1owMFFxUTAya3J6bmdDWlNMRi1Sd1E4Vlhabl9aMWNJTDNNVGZ0Wm1OQ2t4V3YwNE9ITTdhTllDeklsVU9SRkFHbDZtUG5XS2tyTTU1VmkyRlF1LWg0SlBqSVlibzdVVjJuRVV4b0VZNjFJdGZpM1dqMi11RzZHVThDbUFMQlBUM1hrOGY0VlFJ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sun, 19 Apr 2026 13:07:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Eight rescued Benue kidnap victims confirmed as UTME candidates",
+      "link": "https://www.vanguardngr.com/2026/04/eight-rescued-benue-kidnap-victims-confirmed-as-utme-candidates/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 19 Apr 2026 13:06:08 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Army arrests over 20 terror suspects, rescue kidnapped hostages nationwide",
       "link": "https://www.vanguardngr.com/2026/04/army-arrests-over-20-terror-suspects-rescue-kidnapped-hostages-nationwide/",
@@ -30,7 +72,7 @@
     },
     {
       "title": "Türkiye to establish military training facility in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8waGtDdU90UUQyTldMOURjWEtDbERMR1BnRE5VSnltdTRpd00tSjRNbjF3OHIyQ0xXVUQtQkM2UXRVMTIt?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc290U09VMzBGcXlXcjJna0k5cjhqbmkyRVJ2TGczNEp1WEducmY0RFpxclhrZDZVa3U2NU5sZjFvMkpmV19NVVJnZnN0elVYR3k1WTRFbEEyTjJIMjkyc0x2Ylo0ZVljUWtpbGdCbnpobVB3NFNoUEVubmx4ZVJQQzdkdzN3QQ?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Sun, 19 Apr 2026 11:03:48 GMT",
       "category": "Security News"
@@ -71,13 +113,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Lebanese army restores road, bridge damaged by Israeli strikes",
-      "link": "https://www.vanguardngr.com/2026/04/lebanese-army-restores-road-bridge-damaged-by-israeli-strikes/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 19 Apr 2026 08:50:27 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "‘Withdraw NBC’s Unlawful Directive Targeting Broadcasters Now,’ SERAP tells Tinubu",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFFrZ0hOLUprT2FVVmU3bEV1ZVB1dnI1Q3RuX0RTNWQwYXRVUmlpbC13Mm4xaGtzTUdXQ19jaU9mVlFXZGc4UklXbVVlb2wtY05vRGdZNmFNaDZzOXNMRnJKZWJCQ1loRlk0TDdRYWJRRWJjNThfaHJtdElKYkJ0RXJFYWp1a0Uwb2NabEZVdlE5QWI2ZFJ3dEpQSjNCTDFRd2VJVTJneWtzaTVjVkVfVkZxWGp5YVk?oc=5",
       "source": "Serap Nigeria",
@@ -90,6 +125,13 @@
       "source": "TVC News",
       "pubDate": "Sun, 19 Apr 2026 08:26:00 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "JUST IN: Security Forces Rescue 13 Remaining Kidnapped Benue Passengers",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejJtS1NVY202cG9wd1F3aXFvSkpqQ3Q2Q182WmdVaVBRUUdfNmg1M1hFMHc3NlRpVzZCWFItMTFEVFFEUm9UUExjQjJLU19TX2NxY1hndU0wR2tXTnUzUDFldFFLYi1pdV81ZU1XUm1BQU5heXhNdGtTeGpiY2s4TGVvVGhNN09LVzZhR28zVUxvT181NWpJcmR3?oc=5",
+      "source": "TVC News",
+      "pubDate": "Sun, 19 Apr 2026 08:10:00 GMT",
+      "category": "Kidnapping"
     },
     {
       "title": "BREAKING: All Kidnapped Benue Bus Passengers Rescued as Security Forces Nab 7 Suspects in Major Operation",
@@ -110,13 +152,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajRRQkNHdzd6VS1ORWZfY1BNRDB6ZDViTHJMemZBWFdaUGVMS2NzbmVVTVRMaGZCQ01jN1ZiSk5iS21LMHdxZ19TcVBBV0ZyeW1CV3g0U2JjTk5SOC13eXhNTThWTjk5cHdGcUdWWVluM3gyNFBoSUlMcnZYek5TVzFKbGREN1VFVDE3d25Cc2dGeHI2dTBWaEZFUkpfZVF2bUcxTlFLUHhLU1lQTzZhd01YWUFERW1MQ1dKckxCa2ktZTBKWjVaWjd5b0d5ZERWNGc?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Sun, 19 Apr 2026 07:31:58 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity In Nigeria Has Become Political – Pastor Egunshola",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcy04YS1UNUV0dTU5d05tY0lnTXptb0dQRW1EQ1ZtX1pZMHkzdHNNclgydVFDdXBSdm16Q3NwYW1LVzlxMjh2MUV1ZGtnZ1oyRDNqMWxDeWgyZ3lsRTRkd0pMM09YaGZTVTFiSGE3a3ZtdDhCbGJKbzR3ajFKbmotbUJrbnZtQjhWaGJR?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sun, 19 Apr 2026 07:26:28 GMT",
       "category": "Security News"
     },
     {
@@ -155,13 +190,6 @@
       "category": "Security News"
     },
     {
-      "title": "We thought it was Malaysia—Survivors expose ruthless trafficking ring",
-      "link": "https://www.vanguardngr.com/2026/04/we-thought-it-was-malaysia-survivors-expose-ruthless-trafficking-ring/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 19 Apr 2026 04:11:56 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Regional Leaders To Blame For Rising Insecurity In Nigeria – PANDEF",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3AxXzBEcUphQmY5b1h6VWwtVEpfdUZ1Sk10ZHFUdjc5ajFVQW12eXVkQ2NNclRvZlJhUUZQaXJmRG1DUUhlZS0yR05VLTlJUVZhRVlHNWc4T01jcVVkWXlmaUtaLVpKSXpjLW1vaHh2VkEyOW5pM1dNS3BPaWlHVGc0NkRrWExlejFyYlFxOEJEZw?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -169,17 +197,10 @@
       "category": "Security News"
     },
     {
-      "title": "Land grabbers’ bloody fight: They killed my husband while making peace, widow cries for justice",
-      "link": "https://www.vanguardngr.com/2026/04/land-grabbers-bloody-fight-they-killed-my-husband-while-making-peace-widow-cries-for-justice/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 19 Apr 2026 04:08:53 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "No innocent victim in Jilli? Experts contradict Defence Minister",
-      "link": "https://www.vanguardngr.com/2026/04/no-innocent-victim-in-jilli-experts-contradict-defence-minister/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 19 Apr 2026 04:04:04 +0000",
+      "title": "Outrage trails reintegration of 744 ex-terrorists",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kN3ZySkRRZDQxclF2QkhNU1B1NGY5bEJDckppNWlmamt5bmRrbm44dFd0SnN1d3Zka1RLYTNYa0p6WmN6Sl9ITmo3OWQzcDJ5d2g5ZVJKeW81QVdpeHdBa28ta0h3ak5nY19MNklvZV9KUk1JTGpsRXVB?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 19 Apr 2026 03:49:32 GMT",
       "category": "Security News"
     },
     {
@@ -216,13 +237,6 @@
       "source": "PRNigeria News",
       "pubDate": "Sat, 18 Apr 2026 17:32:27 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria’s energy paradox: Stability abroad, strain at home",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVR2UmZReHFFX1pUNFJPNU5hckxnaXRjS3MxaFZuY2xha0tEcUNhS1cxbEcxejVFdWJ1OGs5NWpYUGdrTTBocW1mRFdNNjRHU2lfUWpKazJWNngwTXNfTnc2Yy1tRG5sUUtVdWp1SDh1Mk5kZEdlSzZyQ1h4bmx2LUx0aUlxSHM?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sat, 18 Apr 2026 16:47:00 GMT",
-      "category": "Traffic"
     },
     {
       "title": "USCG commends Nigeria’s efforts to align its port security architecture with global standard",
@@ -272,13 +286,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 18 Apr 2026 05:22:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Lagos: NSCDC busts baby factory in Badagry, arrests 2, rescues 28 victims",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnA1c1d2bFFsZWtXNjhMTGlOaDkzSm02aFQwWEdqbnNFTzNHRUt2VGRqRUNOZmdkVmVjWmRtYTd0TjdGTnFNRkQzVElFbndRS1VhZjl1SllkX0FNd3h4QTNNSWhmSk1ENVpMTUI0eTdhdjlpUkJMUEtUTXlhdTRUNjBpa0pmal9zNFZqc2tqNWhMSWVnZ1ZN?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Sat, 18 Apr 2026 05:05:36 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Investing in security forces, community-driven intelligence will help Nigeria defeat insecurity – Omobude",
@@ -356,13 +363,6 @@
       "source": "The Whistler Newspaper",
       "pubDate": "Fri, 17 Apr 2026 16:20:03 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "Insecurity: Group decries interference by foreigners with no knowledge of Nigeria's challenges",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmM0NjlZUG9kYndTSVN5amtDZlZCanF5TTlwTjNhdjBXeGtsOGQyc3VqbU9zUUxYRGdYOGYzYU42cHFmd3ZDaXNsWkF2WGc0Z2Y3S28wUnZZd1lKcjFhZEpmRVoxN01WdG52MW9uRm1UV3JRVnRVZzlMcEg4M3VIVFhoUWZhbUxsUTc4VkxDOVdabjI0ZFk2RV9EUnVDQXFBUVhEWVhHZWFuT0tYb0xlLVJXVk5VVXh5SUk0QmhBbC1zS2s?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 17 Apr 2026 16:15:34 GMT",
-      "category": "Security News"
     }
   ]
 }
