@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-04-19T06:40:19.982Z",
-  "generatedAt": "19/04/2026, 07:40:19",
-  "totalHeadlines": 162,
+  "timestamp": "2026-04-19T09:20:08.791Z",
+  "generatedAt": "19/04/2026, 10:20:08",
+  "totalHeadlines": 169,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 108,
-    "Traffic": 7,
-    "Law Enforcement": 11,
+    "Security News": 111,
+    "Traffic": 10,
+    "Law Enforcement": 9,
     "Armed Conflict": 14,
-    "Military/Security Operations": 9,
+    "Kidnapping": 5,
+    "Military/Security Operations": 11,
     "Banditry": 2,
-    "Insurgency": 8,
-    "Kidnapping": 3
+    "Insurgency": 7
   },
   "headlines": [
+    {
+      "title": "Breaking: Abducted Benue JAMB candidates, others regain freedom",
+      "link": "https://www.vanguardngr.com/2026/04/breaking-abducted-benue-jamb-candidates-others-regain-freedom/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 19 Apr 2026 09:01:31 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Lebanese army restores road, bridge damaged by Israeli strikes",
+      "link": "https://www.vanguardngr.com/2026/04/lebanese-army-restores-road-bridge-damaged-by-israeli-strikes/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 19 Apr 2026 08:50:27 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "‘Withdraw NBC’s Unlawful Directive Targeting Broadcasters Now,’ SERAP tells Tinubu",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFFrZ0hOLUprT2FVVmU3bEV1ZVB1dnI1Q3RuX0RTNWQwYXRVUmlpbC13Mm4xaGtzTUdXQ19jaU9mVlFXZGc4UklXbVVlb2wtY05vRGdZNmFNaDZzOXNMRnJKZWJCQ1loRlk0TDdRYWJRRWJjNThfaHJtdElKYkJ0RXJFYWp1a0Uwb2NabEZVdlE5QWI2ZFJ3dEpQSjNCTDFRd2VJVTJneWtzaTVjVkVfVkZxWGp5YVk?oc=5",
+      "source": "Serap Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 08:38:54 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Verify Contents Before Receiving Packages from Abroad, NDLEA Warns Nigerians",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGFhUHBkZFpXZHVYOC03RUJHN0w4cUltcjFLU0daMmZRNnlTZWF1SUFRWG5kS21SQUVaakdUb1k4ZUFZM1dmOFd3VkIyb3BIX09WWE1Ra2U2dVRRYU5ZLXozZ0wwTHl0SnhXWi1jVVdoak5jZGlsanBUXzdPWXYxTHEtRWVTZy0wMnppNUJuMko4cHpmRm5PZFRTZ2w1cHlL?oc=5",
+      "source": "TVC News",
+      "pubDate": "Sun, 19 Apr 2026 08:26:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "BREAKING: All Kidnapped Benue Bus Passengers Rescued as Security Forces Nab 7 Suspects in Major Operation",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05T0xNX1VnMEgzZV9PbFdfNUtHZUxteWIwNXVxTkNKaFJwUHI0bkJieFNYamR5Z1l2RnpIdllYZzJpWUVjY0pGcWp5Sy13ZTR5Q2RjZUpmUEtOZkJKbnlTUWFna1BCV2NXeGFHb0JySVdhcldVVnhMdA?oc=5",
+      "source": "Tell News Magazine",
+      "pubDate": "Sun, 19 Apr 2026 07:33:37 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigeria to deploy 200 Special Forces to Türkiye for training-Defence minister",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGdfSnk2MzFGYjFGMm9QMmZseWJTa0g2dWVMM0QzNnNNUktCSzZjeW1Jd0tKWXExWXVXVkZCaElSdzRudEtlMVgtMVdLV2hMQmxUeWp2V0JzVWRFOTlWR2FIY2tFZ1FXOEFKZ0t2d2p6VXhfMTRwMGNuQTJxdlM0RmRpdGJJa3NkTGFHbXVneHA1b2tzVzdjMGlkaEFBUkpmRnkwV2NweXRSUQ?oc=5",
+      "source": "The ICIR",
+      "pubDate": "Sun, 19 Apr 2026 07:32:55 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "The Insecurity Triad Formally Defined as New Framework for Nigeria, West Africa Security Analysis",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajRRQkNHdzd6VS1ORWZfY1BNRDB6ZDViTHJMemZBWFdaUGVMS2NzbmVVTVRMaGZCQ01jN1ZiSk5iS21LMHdxZ19TcVBBV0ZyeW1CV3g0U2JjTk5SOC13eXhNTThWTjk5cHdGcUdWWVluM3gyNFBoSUlMcnZYek5TVzFKbGREN1VFVDE3d25Cc2dGeHI2dTBWaEZFUkpfZVF2bUcxTlFLUHhLU1lQTzZhd01YWUFERW1MQ1dKckxCa2ktZTBKWjVaWjd5b0d5ZERWNGc?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sun, 19 Apr 2026 07:31:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity In Nigeria Has Become Political – Pastor Egunshola",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcy04YS1UNUV0dTU5d05tY0lnTXptb0dQRW1EQ1ZtX1pZMHkzdHNNclgydVFDdXBSdm16Q3NwYW1LVzlxMjh2MUV1ZGtnZ1oyRDNqMWxDeWgyZ3lsRTRkd0pMM09YaGZTVTFiSGE3a3ZtdDhCbGJKbzR3ajFKbmotbUJrbnZtQjhWaGJR?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 07:26:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Operation Safe Corridor: Is Nigeria’s deradicalisation approach sustainable pathway to peace?",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLW9ZWHplT19rQkxYMVFTOGFXNGFhLWlFTFpwN25zbVZDbWJEVlB0X1lvMUU5OV9JQ1pURUZ6SEtzYXQyUW1kaFRDek1LNzQyakdDVjh1elhQSlZkUzE1WVJudXVhOVU0ZnZZc3QyU2RDVTUyU3U1Rm5pLUk5d2dJRmNTRzVzeTZYSjJBWWFJQks3Y2F5OV9sa3pXZ0hWR3B2ZE5wYXRNbXlaRE5LLXln?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 05:22:36 GMT",
+      "category": "Military/Security Operations"
+    },
     {
       "title": "How Nigeria can build effective social security system, by Rhodes-Vivour",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjU3VTNLTk8wOVI3NGVxZ3JMQ1h0dDR3TzZ0aE05aFRvdXlBUFJ2ZHgzeFNQT1NQalpFNWx0YW5ROVpVU19WTzh3RVpJNF84dGJsV3IzeUdZSy1aelBzMG9nU1JQUjB1YzBOcnlGVHI0QWRaellNRjBzUlUtYjFSaGRIYjlIY1ZRdHY4aWNNanBNS25SZUhsVEF6MktGelk0ZHdFdms1MNIBrAFBVV95cUxPS0NzQzI0eXE1NkpkTHdjTFc1UGUtckxqQTFVbEl6UFpva044QVR2d0tjVTFIU1g2TkNSRjdjRG1ISWFGSjlrdC0wNEVxSWlHdHdBQks2SWE4OGRfTXFIa3RiWjk4d2YzcFhwUmc0QVZEWmxOSV9JVHBGNWdhY1h4cnpZRjByaERtVFAyeUxxRmtjUjVzME5ZMVBkTHA0TWp1bDAyczg5bGZVRFg2?oc=5",
@@ -64,11 +127,25 @@
       "category": "Security News"
     },
     {
+      "title": "Nine years on, Nigerian Army defies court orders to reinstate 38 illegally dismissed officers",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYzVYMlR6dmVoTzN6Y25fZGdBZ1BYVnZBdi1qZnEtcHdEUmlpd3hrNWNYQ0ltZVpMQjF5a1lwZFFaS0F1WlVZaG5FMUZmRjRYMVBObVM4YzJhZ3VWazJIdHgtQ01nNlFIM1ljblNmMzA4T3FsMEc0ZzFrVm1yZVRXUVhGME9CeExLX0s4aWRWYXBkcFhpazF0LWhTcmRuZVZzRHBMZ2hXSkRETUo1bjhwRm9QYXluMjBTWlVSZnZ0ZWRocnJDUGtPWUl6eVFGQ3FmdWlNQXlTd0xtZ2JCQ1c1Wmp5NGQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 19 Apr 2026 04:01:09 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Nigeria, Senegal Deepen Parliamentary Ties, Reaffirm Cooperation",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUNqNElTNnRKNHBlblNXZVh1QjNQMjJHZDBDZXhJR2Y3ZTBvQnJKMWZZd2hRLXlVNnRScmllM2F0SWI3YjlHeGJHclNRSTRQQUxpX3NqSzZ6RkNxUHpuLU9NQ1hNMTVPM1FoZXZrV2RxcHJJQ2Q1d1RnM3VVOTZubmRDSm1wUm5SN1VBMy1B?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Sun, 19 Apr 2026 03:59:15 GMT",
       "category": "Military/Security Operations"
+    },
+    {
+      "title": "Outrage trails reintegration of 744 ex-terrorists",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kN3ZySkRRZDQxclF2QkhNU1B1NGY5bEJDckppNWlmamt5bmRrbm44dFd0SnN1d3Zka1RLYTNYa0p6WmN6Sl9ITmo3OWQzcDJ5d2g5ZVJKeW81QVdpeHdBa28ta0h3ak5nY19MNklvZV9KUk1JTGpsRXVB?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 19 Apr 2026 03:49:32 GMT",
+      "category": "Security News"
     },
     {
       "title": "Boko Haram/ISWAP terrorists: How Nigeria lost four generals, four colonels in five years",
@@ -92,6 +169,13 @@
       "category": "Traffic"
     },
     {
+      "title": "USCG’s technical support boosts Nigeria’s port security compliance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmZaVEFNc2xPZmUwcFNNaDBZQ1FUU2RsNVZEaTZPam8yWTFYcHEtUzlMOXVxMWt0d2o1am1nemZRTTdyOGhQcWdhWHkwYXVqZ085QTBVRDN4TlpJQXJLQndLODM3Vmx4VjZYZHI5cGxNcjc1SDFSemN1cXdUTVo5M2ZzMFJnWjZDUVByTEFQejFfY0FnZTdPcVFR?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Sun, 19 Apr 2026 03:16:07 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Abducted JAMB candidates, others: Captors demand N9m for each captive, father cries",
       "link": "https://www.vanguardngr.com/2026/04/armed-men-demand-n9m-for-each-abducted-benue-bus-passenger/",
       "source": "Henry Oduah",
@@ -113,13 +197,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "USCG’s technical support boosts Nigeria’s port security compliance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmZaVEFNc2xPZmUwcFNNaDBZQ1FUU2RsNVZEaTZPam8yWTFYcHEtUzlMOXVxMWt0d2o1am1nemZRTTdyOGhQcWdhWHkwYXVqZ085QTBVRDN4TlpJQXJLQndLODM3Vmx4VjZYZHI5cGxNcjc1SDFSemN1cXdUTVo5M2ZzMFJnWjZDUVByTEFQejFfY0FnZTdPcVFR?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Sun, 19 Apr 2026 02:34:30 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Insecurity: Analysts raise concerns over US embassy staff withdrawal",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR29sZG9ISDFlajJrUXIzMGlOVmJjRXU3LWRmSXA4YkR0NUxhWm1oQlZ3ZmZSWERmd0h3NHFUaVdsZjIybkxhZkh5MUxBQWNEUkdsbHBwa20ydzAzZlQ2RkZPNjVzYkNkeDhzX2U2dkpNLWZDUE0wem5sNUJURk80Q215bzFyN0d2M2Z1X05iQWptOEZPZFFzd0pTWU50Zy1zQ3hjcTl0a0hFYnFpSkQ5bUlOOGdZRmlYS1NaM3Z5SzJ0aWwyWWdYag?oc=5",
       "source": "Punch Newspapers",
@@ -132,6 +209,13 @@
       "source": "Punch Newspapers",
       "pubDate": "Sun, 19 Apr 2026 02:28:50 GMT",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "Comrades, “Come-raids” and the Nigerian State",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3pmcWcxV1ZCOXNvdjZhdlFKdm12NHJRLVVGUmMwRWVIeGE1T1Y2VEl6TzNESGJFLUpqWkN5TEVieEwtTTJDaHJnZlVKUVhXZVBBN1VIMy16Mi1IMk1tQXRDVjFmc2hPazRuWFhoQy1XcXlVVzdVaHA2SF9mdURtX3NwSlk1UEtkS21MeWlmSXU0QQ?oc=5",
+      "source": "thesouthernexaminer.com",
+      "pubDate": "Sun, 19 Apr 2026 02:03:12 GMT",
+      "category": "Security News"
     },
     {
       "title": "Lynnette Mitchell’s long road to shaping one of Nigeria’s leading casinos",
@@ -187,13 +271,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzE4c3JBdFAwd0FXTzZWR2otMzVrclNuQmNKZ1A1SFhNc3JtdWVJRzhfV19FU1czb25UZ081MUtHVTNqcjRrV3N3T24zcTE4YThoUWNDQURBVjd4cVFXN3F2ZjZHZzVnMDhac0p6eWp5NG4zX2hNOFBvNHNVR2U0Q25kWmI0eDBfTUhaZUd4UGxlcmp4dUs4MzFmdw?oc=5",
       "source": "Nigeria Maritime News",
       "pubDate": "Sat, 18 Apr 2026 10:05:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Security forces uncover baby factory in Lagos where newborns are sold for ₦1 million; 18 women rescued",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGoxRHczZkNsanU3cTFzRG05MzAydzFnNVFaNEl1VW5ZczFKeG9OdFVDbEFsajU3bnpSWFJ6NFRZQk40clU0Mm1CeGNSeGMwdjFDcFZ5eW1KM0ZsXzlTbW1BMmd1S0R5SDRnZ3dmV3lYLUNOclA4T2NubFdLaWZfSENPN0JZX01xRFNZT0drRlE1VFN2bk8tR19wNEpDTEtuLUdrYjBSMWpWc05vUzg4SnRyT2Z2LWM3UExsMmxxaGY4bF9PYWJ2VnkwT2ttajlrS2dRbW5SMjByVFgwSTdaa2FBbFJhQ3M?oc=5",
-      "source": "Pulse Nigeria",
-      "pubDate": "Sat, 18 Apr 2026 09:34:34 GMT",
       "category": "Security News"
     },
     {
@@ -281,88 +358,11 @@
       "category": "Security News"
     },
     {
-      "title": "Amid name controversy, police share passport bio-data page of Nigerian extradited to UK",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGhoS1JuY2kzSEYyWWM1SmhlQ3ZmeUhRcDY3eUk1Nk5lczdWXzFVdFg2NDlnS25adnlMelBULXhvcjRZdXpTRDBwa3FkOHVHZUZ0S2VkdlVUWlp1cVZGRkdUQS1obTF4YTE5SHpINnJVSU9hbkF0eVl4WnRvZkx0VjNIS1BHcWN1ZDR6UEk5OG9vdm9MVDl5MHMyeTRwLTlZbU5jVHRDbDg2RE4wVjVDbA?oc=5",
-      "source": "TheCable",
-      "pubDate": "Fri, 17 Apr 2026 17:47:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Coalition Demands Sack Of Matawalle Over Insecurity , Cites U.S. Lawmaker’s Report",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWpVelZvb3o1RHpqSDVpTnVvM1ZiT3paZUFYLUlQVTFnZ0NLdjNuRGNFbF9ybmVuVFd2ZjdKcFkyaW80NFFBRGhZVVBsaWhjZGtaTDkwVHJab2tCVmNXTGdMM1ctQkVLMWtMd2M5cmJNTjNOUlVsMHlaaVRnaU9ORjltUFdCeEc2X3lBSmlfaS03YzRkUTJsS0g1UG1hR1VVdXVV?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 17 Apr 2026 17:27:31 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria activates DNSSEC to strengthen trust and security in .ng domains",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45bXUtU1V5aEJfa0ZOYmZ1YUtIalFsR0Z5cE16MEhMUmFQdE1Ga2NjZjdSX1BsdHNGNGtzNWpZNzVUVG04UVY1eA?oc=5",
-      "source": "MEXC",
-      "pubDate": "Fri, 17 Apr 2026 16:59:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Ekiti Anglican Synod Urges Godly Parenting, Electoral Integrity, National Security Reforms",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaW5jU0FWa1JBa0FLYktuMl9VaGdSSlJuVEs0WVJWVFU3Ulh0VXBnOWU4cjFQYUtpbDZkSlMwR2Y1emtWbUdzVGxHZHcyd2pGUVlPdlZEQ1VrWUNJa1ZteGhIdXNzZlZMelBCSWhtaVRURjRGd0hiTklKTTFKcGpHY2FKV0FSeUlvM1pTaU1uWlAxV21xaWVLdnBHd3FkTEdOZ0wzRVRfM0szLWYtaXZaeTM5VExfbEY3ZVVWdWQ5cVhlZw?oc=5",
-      "source": "eksginfo.ng",
-      "pubDate": "Fri, 17 Apr 2026 16:54:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Sack Matawalle now, coalition urges Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlZ6RFM1VmRjM1NTZmx6X2lzNEpLemN0S3hOd3M3WWpFbndIbk9tRUhJVVlBMjBqVjFXNnpuN0U3MWZMd2JTekxnZE51ZS1zVVB3UUIwdi1rNzF4X0xpdmVLcW5PY0FfeUhhRDdJU0d4djA3Y0JweHg5cmpmRENWcVMyNDY?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 17 Apr 2026 16:30:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Coalition Demands Matawalle’s Removal Over Alleged Bandit Links",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWl1cGR1eUx0YkJtWkpxbW45M3BWTGNpalpvT3c1N1ZzSmZWbnZmMVJmUFQxemtmakUtMnpBZUZCbnFSZnlsUlhBOUdCM3NEXzhSazR6ellpVURpUEFIbTBiVlhYWUNjelpySUp3V1ZmbTRmTU85SFRHSXJjd0N6YVlqMTE2SU1ZQzBQUjNnONIBlAFBVV95cUxOZjB6SW4yMVREVkwzaHA2VDUxcnZhSVJWVVVVRUFyaGV2aFRLTVY4Zy1CeVRJb0t6SEMzSVNYdUNhQXhtMURRUGtvVFJXMC00bW1DSWRkVURwck5yc0w4ZHFMWTBYSWxHZnRiVjVPMktoSzhGbDRtSnplbl9Ub2dod3hMY0h6VWVrb01EdnY5SlVjTHQ5?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Fri, 17 Apr 2026 16:20:03 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "Insecurity: Group decries interference by foreigners with no knowledge of Nigeria's challenges",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmM0NjlZUG9kYndTSVN5amtDZlZCanF5TTlwTjNhdjBXeGtsOGQyc3VqbU9zUUxYRGdYOGYzYU42cHFmd3ZDaXNsWkF2WGc0Z2Y3S28wUnZZd1lKcjFhZEpmRVoxN01WdG52MW9uRm1UV3JRVnRVZzlMcEg4M3VIVFhoUWZhbUxsUTc4VkxDOVdabjI0ZFk2RV9EUnVDQXFBUVhEWVhHZWFuT0tYb0xlLVJXVk5VVXh5SUk0QmhBbC1zS2s?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 17 Apr 2026 16:15:34 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC busts baby factory in Lagos, arrests two suspects",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3JfS1dBdmVRV3dldUxUU0tHeU1odDFfNktXNjNTdmJFQWFWdzRXUDVKTDFlTHZ2X3hzb3dTTmk1V3JqMkVRTTc0aERYUkZzV0lQcmllcDZHVGRuMGNGZUJISXdMazdSTThQb2NVR1FBeDRnMktzWVF2SnlZOFZDRQ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Fri, 17 Apr 2026 15:44:09 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Ekiti Anglican Diocese urges peaceful electoral process, security reforms",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbDBmaE9ZZVNoWmZ3cVVJMkdUNDJpd0I1czFiLVpKSDJWNkZHLTN3a1hSd0czWldfemxhR0Q2Zm1MTmlmUlBCeXdwVFRIdWlLZnY3dVpMNFpfZmNMb1BDeWpYaUxpMUczR0VQZ2ZjcHZTTDZlcnl2aEN2R2hwUzREMnlneWVUVEI0Yy1IYzNmVlVxYnotVEZDNzdnZ3VNSk0?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 17 Apr 2026 15:01:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Military deaths, economic losses, foreign warnings threaten to isolate Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2lqc2ozc2g5ZFN2Q3g3NlBsdjdjWGhSVzEtSnI3UV9wQXJXNkpfNXkxUjNCRkp3bHBYVC1NREFGeVN5cEtvUURQQmFlbnYtcnRWSUZXVmR5VjJjV0dFZzRwU04tWndQUjZnel9vMVJBUS1KdkRHY1lKa2dEb2VaSGtWZ1ZCVmJzMGRBTzNFcVdxSWlScWRuWmc3dm5sbFJoUU9lZnFOZHdWejl0VmVlaWR0VdIBuAFBVV95cUxNRW1IcmJTY1NwQ1pJeFp2MTk4OGwzd2xwaC11d0ZsV0Z5T280ODBEV0kyUXhlZUZlUVRDREc4dFpIaHkwTHd5bzVqZDQ0QzJGYWxDQ0loSTlFN3FGSVF0X2ZwallvdnZYR21URlRpUWtXeVEwQzdMR0xnVmhwU0FDX2tRWlNUXzlaTHNjMndmSlpLeFJKWXZsbk5rOVVNcG1TaU9NWE1Ud2lTWVhXUVBFSzI1UWtPZ2ps?oc=5",
-      "source": "Businessday NG",
-      "pubDate": "Fri, 17 Apr 2026 14:34:55 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian groups warn against foreign interference in security matters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmh3c3M2UVV1SkFNSnUxZy1mQThJbm5VZk8zZEhNVkxrbndPc3NIQkVCNEdIcElZVTZaQmVmeGJCTU91NWFBQzYxQWNLSEZseHplTDYzUFlpT1ExQWIxRzQyaFVBMkVpVmJKYXJfX25ya016cFBHXzBUbG1sUFRTSU90eVU2b3NCb1lBeUd5dkxVTmNtVVBTNFhpa09LaGdRQzNySnVhYjJmd9IBrwFBVV95cUxNcjk1QUFTek9EWE5qM3pVVVBsZ2pYNDZqMkxVTXhpREMxYWVvOXE0cUR0WXVqc0ZoQnJxRnBnMkdtYWZPQldNb2FTY3BiTk9ncHM0MjRYaHlLUmhkWnpjeTFza0tBRm15YWU4YXA1ZmhtREhIVjV3QXBBNVBiTU13bTZWcmZTWmN5YlVxbjgtdkNNWXBjNWE2TzNORlRBOXcyMDFHam53LWtOZkdwal9z?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 17 Apr 2026 13:47:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Terror in Nigeria: 750 Deaths, 171 Attacks and Govt’s Faltering Response, By Mukhtar Ya’u Madobi",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KcXRQLW9GV3VPbm9VaUlKeVBueGFEbXFRLXV0d2FCcmFGZVZNbVp3d0w4Ym4wamhESkxmUlp3akFhNUJqRV9tS3czQi1lQW1yTVVIWHREdlJEMEkzVFI0UWR3cEkzQQ?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Fri, 17 Apr 2026 13:39:03 GMT",
-      "category": "Armed Conflict"
     }
   ]
 }
