@@ -1,19 +1,54 @@
 {
-  "timestamp": "2026-04-22T04:04:29.000Z",
-  "generatedAt": "22/04/2026, 05:04:29",
-  "totalHeadlines": 171,
+  "timestamp": "2026-04-22T06:44:23.600Z",
+  "generatedAt": "22/04/2026, 07:44:23",
+  "totalHeadlines": 177,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 14,
-    "Security News": 118,
-    "Insurgency": 8,
-    "Armed Conflict": 9,
-    "Military/Security Operations": 8,
-    "Banditry": 5,
-    "Kidnapping": 2,
-    "Traffic": 7
+    "Law Enforcement": 15,
+    "Security News": 125,
+    "Insurgency": 9,
+    "Armed Conflict": 11,
+    "Military/Security Operations": 7,
+    "Banditry": 2,
+    "Kidnapping": 3,
+    "Traffic": 5
   },
   "headlines": [
+    {
+      "title": "Angwa-Rukuba killings: Plateau Govt files charges against 5 suspects arrested by DSS",
+      "link": "https://www.vanguardngr.com/2026/04/angwa-rukuba-killings-plateau-govt-files-charges-against-5-suspects-arrested-by-dss/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 22 Apr 2026 06:43:00 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Badagry Community in mourning as man found dead in forest",
+      "link": "https://www.vanguardngr.com/2026/04/badagry-community-in-mourning-as-man-found-dead-in-forest/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 22 Apr 2026 06:34:46 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian govt officials complicit in facilitating terrorism – Ted Cruz tells US Senate",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0tnaldVUFlmVG01TkpFN25zMHRmZ1hFUkw2a0c0c1lZeG1FVlF0aldWdGNaSHNzVlFKUVJKcU5Mb3ZLSFladktsaGxxdV9oOTFZUGE0WGpXTEFLblUtUUhvelRKU3RJRjN6bk9TUVQzeFBUT2FERlQ0Zm5Ed1JMWDJYRl9jUVpMYS1sbEV0amlSaE9OVS0tNlEwbDNobk1Ub09lX0pEdTNvRHNnb19HdWFyV1FBQWZt?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 22 Apr 2026 06:03:10 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "US Library Blames Hackers for Viral Posts Urging Violence in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFlwSDBFdWdCXzNzazdWc0lWQ1JuRTVjdWpfR1M2M0d1OU1mNlFZOWlNdkphbW02ZFNZbzZ0ZTZCbHdTczVKc1JKR2Ntek1yRTRuTFZCc2l3T1pzZS0zYlJMMVF5bVRQSkhaVmlIakZYbTFkdmQ2a0FRZGVWcGYxU0tiMTRqLWxXX0J6b0gwYTY5SDNLdklCWllzR1VPSFpmQlB0b2IwYk1HREFYMFJfSFpELVU?oc=5",
+      "source": "Nigeria Communications Week",
+      "pubDate": "Wed, 22 Apr 2026 04:43:53 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Insecurity: You can’t silence me, US lawmaker tells Matawalle",
+      "link": "https://www.vanguardngr.com/2026/04/insecurity-you-cant-silence-me-us-lawmaker-tells-matawalle/",
+      "source": "Oboh",
+      "pubDate": "Wed, 22 Apr 2026 04:12:31 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Alleged professional breaches: 167 senior Police officers face disciplinary committee",
       "link": "https://www.vanguardngr.com/2026/04/alleged-professional-breaches-167-senior-police-officers-face-disciplinary-committee/",
@@ -38,13 +73,6 @@
     {
       "title": "UK’s Coventry University: Panacea to Nigeria’s crashing higher education?",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0gybk4zNFh4WGxFeVB0aTlMdWFVa0gtQVIwYVE5ZlVSX0Q5WnZCTzM1REdlOXozVDk4TUJxNHctVEc3MV9ZT0NuWWU3VzIxMjhJT1gxYnhMNnktczBBb3JxU0l1VWpMclNHbVZWWEUxS1FBVDZ6Qm9GMWZ3Y3BXV1VmblAzd1pWRXp5djVFaU5VQmIySGdMbS1HZElKcXc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 22 Apr 2026 03:32:49 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Power sector accidents leave 192 dead and injured despite slight safety gains",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3VIb3owaVF2WGZzY1RORWlMNUtQLXprZ2xCOWRpaUFnQUpzLXVaTDh6ZzJ5aEdVYVFoYlBIWm1YdUJRVWJkTUU2SXVmV2xEbE1JckxQRlFnMmJkbWJKWHRuM1E1YUNJQkJoRnB0SmEyeFVxX1NoaXlGSkdzaHhHSWJNMEN5YnNCMjJfM2VsMUtwekw5THpBVmZxcjhvUko1UzFsQ3NB?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Wed, 22 Apr 2026 03:32:49 GMT",
       "category": "Traffic"
@@ -92,13 +120,6 @@
       "category": "Traffic"
     },
     {
-      "title": "Why Nigeria’s Trusted Newsrooms are Trading Truth for Traffic",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3UwQlFWdlp0ODdjTjlMZExhSzRVMjZaN2hQQ2ZjSEc2d0lSQ0lJaE03NWZOeG01YV8zbWFMX0pLUHBOWjg5dFRWeHdIamVYYkZSOTRDMUZxdk5wUnZfVDQ4SE81NXM0bDFTcWxnZXBWTTR4MW1ELUZqdVhYUi1GZHByZmU1VXB0X3hsUmJB?oc=5",
-      "source": "Tekedia",
-      "pubDate": "Tue, 21 Apr 2026 23:59:49 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Share intelligence, operate in synergy, IG urges security agencies",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEF6V0hIWkVVaVFtUzFtMENrVWFTa0kzcXZnSkNhZjRMT2VQZDF4dWpGcFFUQ3lpNVhvbjhJNVotYU0zdjFWdWhDZmhsLXlCWFkxVGV6QlRSM3RjeVdVSGwwRk14bWwzZHZ6RlNHSDFmTk9kbHNPVE1aWFZBN21EQnc0RWRqcHJnbTFYLTh3?oc=5",
       "source": "Punch Newspapers",
@@ -127,18 +148,11 @@
       "category": "Security News"
     },
     {
-      "title": "US Library Blames Hackers for Viral Posts Urging Violence in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFlwSDBFdWdCXzNzazdWc0lWQ1JuRTVjdWpfR1M2M0d1OU1mNlFZOWlNdkphbW02ZFNZbzZ0ZTZCbHdTczVKc1JKR2Ntek1yRTRuTFZCc2l3T1pzZS0zYlJMMVF5bVRQSkhaVmlIakZYbTFkdmQ2a0FRZGVWcGYxU0tiMTRqLWxXX0J6b0gwYTY5SDNLdklCWllzR1VPSFpmQlB0b2IwYk1HREFYMFJfSFpELVU?oc=5",
-      "source": "Nigeria Communications Week",
-      "pubDate": "Tue, 21 Apr 2026 23:08:55 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Police arrest dismissed soldier for armed robbery, impersonation",
-      "link": "https://www.vanguardngr.com/2026/04/police-arrest-dismissed-soldier-for-armed-robbery-impersonation/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 21 Apr 2026 21:20:13 +0000",
-      "category": "Banditry"
+      "title": "Sowore Rejects Proposed Turkey Military Base In Nigeria, Demands Civilian Trial For Alleged Coup Plotters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZXFsRUtYQWdBZHpNekNCTEZQSHR2YndXd1JxdzdoOHVaRnRjV1V0a0dyM2ozZ3FxZThfMzNmdzhvZ2YzQWVFY1RvUnBiTFZKZTVGaWpCRi1iQXZvbkFJa3lsYkZCTHpBSEo1elYwWFJSX2RMMzZMZHd4S3RFQjJscHA0UE9Cb0VfWFNmSXJBcUw5Wm5HcDVJTUphQkdsa1AxSjBfX0Q1TWdXVzhFSGRaX3c3TzlBb28zSVNwWWN3Qlg2LS1RZ2c?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 21 Apr 2026 21:25:27 GMT",
+      "category": "Security News"
     },
     {
       "title": "Alumni Association of National Institute Seeks Comprehensive Security Reform",
@@ -152,20 +166,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXFtblMydGZBVWd0SmY2NmQ4SU1YaGVEYVN6QWpzLWl2WjNOZ1c0LW9SMllLMm0xc0FhYXJYOTRHV0lPRDVHNXZmSUFQVlY3d28xbkx1M3Q2aGYyUlYwbnpOMVRRTEJYdU1LRmpMeWlzT0pfNXNEOElOMERuUTFnZ3JKQQ?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Tue, 21 Apr 2026 20:56:22 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Defence Chief Urges Troops to Intensify Offensive Against Bandits",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzlpTEFRT1lmTHVUUlY4VFZZdVNlOEpXdV9kVFotTHNxeXRrZUVBNzhRT2s3cnpkcERsNFBNYzdablFDZ1duMzR3VEx6eUt1MDZLV1kyZ1kzTkU0c3JVLVh2Z2RrMmxZNHpLUE5iY0lyblNBUmE4Yk5FVElscFUzYjZOcDZWeWlkX1dJOG9B?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Tue, 21 Apr 2026 20:55:14 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "UPDATED: Nigerian govt charges retired army general, others over alleged failed coup against Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV1FwZk1FamhWYm9wU0lWdEpVMnI3Q3FPenVqQlB1M2l5WWYyZFJocnB3bUN3ZmFCUC1DQU84eER2ZGFDdElNX1dVUmJ6U250cURVRGlILV91dkMwMzQ3emtzMVQ2em1rQmh4dHJhY2xwc0w1LXVJSnppaF8wN1JKcVBvNFhVaHBJQkZqUTYyYk44NXBqWHBSMWUwRGhXNHFpT3dkbmw2SXgzYl9PajlZUDFZdmYzV3BibnRSRzFhMVYtbWtSYmZHQ0puY3NEZDdvMVJyWVRkZ05SMW9jcDlJdg?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 21 Apr 2026 20:42:42 GMT",
       "category": "Security News"
     },
     {
@@ -274,6 +274,13 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "Nigeria Hosts High-Level Regional Talks on Water Security and Sanitation for Africa’s 2063 Agenda - Federal Ministry of Information and National Orientation",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmNuWFV4LTVJMkFjVEExdEhiWjQ2UDB5TzliemhKV3YzeUI1ako4UUw2azRQN1Jrd1ozODM2Ri1JSFN6WXVNby1mWl9USHhTSkZDMk04V0kzNlo2OFRkNndoYWpMSUQ1Y2pwU0t1WWIwUzNjbDVOeWJpUmFjMnY3dzN0N21mX2JPUmZ2UjRBUHAwQ0pQWFVGVkFfSUlDaGNQcVd1bS1wQzNsamt2WWNhcnJpMC1UNkpNdWc?oc=5",
+      "source": "news.google.com",
+      "pubDate": "Tue, 21 Apr 2026 16:12:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Inmates welfare: NCoS, Police seek stronger security synergy",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXRLcG1lSjhwRVlGcFZ0S2ZGTENpSllrem4tQU5MbHA3dEFDck9WQ05BdDg1T1dXT0l6VGZ5bkswVnRjdzNjZ3Q0bnhPR1BPMUZ2RVNLTmFCX05lM3lBbTNxb2JVUUI4Q2twU0tTVDYzVnpsbWphTkQ5YUt3SERuQmJXemJqWVJyOUtCb1Z2Wko?oc=5",
       "source": "NewsDiaryOnline",
@@ -355,13 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1pCeW1QbDFlT2ZCa3R6N2RTc0dDSDJKdDFRaUN0SmxQSDdiRXRIWFcweXBOYmhVZWR2WEdjTE96NlE1akFpTFY0V0hLRV9pNWg1am9BRThuWTd5MVM5czVLUUdFS0M5SEdPQW9DSXZDUktzLXJJbFZZMUJrNVE4U0ZQSzYtMjZCck5XWFNCMkJVNmRkT0t1cEx3LVNxMGJudTlOQ0ZsSmtuU19OUW5kekxFTXBsdmtmb08tTzUzeUtoYXFxYThOUmVsSEJ0aFNhOXpiOVc4bVFjYldZUXg4V0l0OVA?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Tue, 21 Apr 2026 08:48:08 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NIPR lauds Kaduna gov for establishing security command and control centre",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUE1VSUt5X1J6enlzeWhPSzk3Qk5mRGkyZ3B4SHZzOG9NeHBtWjZzTElKcFE2MVMyaTZUeWtjQnhUN2RaeHVyeXZoN0NZUGRtOVpROVhOVHZCUkZIUlVpaVhXQ0ZCSThVeXlKeUZGb3AxRTBWSExnSllYY1dGMWo5NWJTaDlnSlppWXdmZVlkalAzS0swb0wtUi1uQlA2QWx0NmpxenJobUcxQjZmbkd3REc0N2hDWUFVNEtheDdYVzJMdkwt?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 21 Apr 2026 08:10:53 GMT",
       "category": "Security News"
     }
   ]
