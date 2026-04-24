@@ -1,38 +1,87 @@
 {
-  "timestamp": "2026-04-24T09:38:22.797Z",
-  "generatedAt": "24/04/2026, 10:38:22",
-  "totalHeadlines": 165,
+  "timestamp": "2026-04-24T12:28:13.822Z",
+  "generatedAt": "24/04/2026, 13:28:13",
+  "totalHeadlines": 167,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 114,
-    "Armed Conflict": 13,
-    "Law Enforcement": 9,
-    "Kidnapping": 3,
-    "Military/Security Operations": 10,
-    "Insurgency": 8,
-    "Traffic": 5,
+    "Security News": 120,
+    "Armed Conflict": 14,
+    "Law Enforcement": 8,
+    "Kidnapping": 4,
+    "Military/Security Operations": 9,
+    "Insurgency": 7,
+    "Traffic": 2,
     "Banditry": 3
   },
   "headlines": [
+    {
+      "title": "Gunmen attack Plateau community, destroy farmland",
+      "link": "https://www.vanguardngr.com/2026/04/gunmen-attack-plateau-community-destroy-farmland/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 24 Apr 2026 12:17:24 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "‘Give kidnappers my number if they pick you’ – Oyedepo tells congregation",
+      "link": "https://www.vanguardngr.com/2026/04/give-kidnappers-my-number-if-they-pick-you-oyedepo-tells-congregation/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 24 Apr 2026 11:55:43 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Two arrested over alleged killing of NYSC member in Benue",
+      "link": "https://www.vanguardngr.com/2026/04/two-arrested-over-alleged-killing-of-nysc-member-in-benue/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 24 Apr 2026 11:42:43 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Third-party insurance: Why FRSC, Police can’t impose fines on motorists — Court",
+      "link": "https://www.vanguardngr.com/2026/04/third-party-insurance-why-frsc-police-cant-impose-fines-on-motorists-court/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 24 Apr 2026 11:34:54 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Growing Kidnappings in Edo Spark Calls for Immediate Security Response",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVm1UeFdoX2YyWEpYR1dxRnpFb0JzZmRSd2J0Qk50cjRWeW11cmo2RFVuX3RBcTZYOHVwWWp1YzZJNTlnVDNYRWlZWlJDNmhJeFNvY01seGc0aC1XdnVva2xOc19kckdFcFB6Wmk0bEczUkQ0QTdIbjNpazlZeWZ1LVMxZTFYeHBVRFBGaHF4NWJQb0p1?oc=5",
+      "source": "nigeriahousingmarket.com",
+      "pubDate": "Fri, 24 Apr 2026 11:28:57 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigeria, Malaysia Deepen Cooperation On Trade Facilitation, Border",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY000dmlua2NFZUoyWmotQ1BJNWV4QzVlX3RObzFheWgydjFUSy1XUE5EeWFoSkV6cEpPeVE0VG1pa3EyOFJmZHUtbDRHZVlOQzdKV1Rwd1R0RWFQTURYcTlwT0ZLNUZjMm1zM3JKdGozcW1oX3BER05XR3pRM3FSRkF4Ul9zQ0VWTTlsZw?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Fri, 24 Apr 2026 10:22:53 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Tinubu celebrates British Airways’ 90 years of operation in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmtMU3gxbXBPYTY0d3dWWUY3RURkMkNVQ01UeWxPWmZzM3VTcVhmYTdJdmdRallkM201b2ZMMm94cFlOSXZuekg0ZGk4SWJrVm1qS1RLVklWeVJ2VWFJSU1YNjYxVlpkTlpUZ3dIR2cycXlUSlFKWUFTLWhKdmxkX0VSOXptbGs3VDFpUERRZ1BCWFZN?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Fri, 24 Apr 2026 10:14:22 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria to Equip Police Stations with AI-Enabled Tools Through New Digital Upgrade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVG5PVVlabXBTVzZQRE9ETHNkYXd4YWVqT01nQzkyd01ZNzBhWVozUXktRTRNc1ZKMW1GOEV0WDBfTDZfRm9DM196cnJla1RQODFscUNzSDBGbXB5Mjk2ZGpBc09EYUhmVy1pUXJnMnJqQkg0emMxeVRtak5vcGRFc19MNXF0N3FRNnR2R2FuSUNNaGNIWFNhbGtURnpPa0lkNXF4RUx2ZnVvOTB4c2EzczBMZTFhai1vU0J0WXdB?oc=5",
+      "source": "TechAfrica News",
+      "pubDate": "Fri, 24 Apr 2026 10:12:51 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian, Malaysian Customs Deepen Strategic Ties on Trade Facilitation, Border Security",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad0N3NGpRb1Q3U24yOGRrN2k4YnpWNG1oSjhLa1BiZlQ1VnlyQjdJTnEzSkNkNDdaaGpucTVYMlRXOHJWSk5xRnJLbXNqMGJmY0ZQUW5qN1l3dUt5S1ZJdmFpaXowNUFndjhjRw?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Fri, 24 Apr 2026 10:07:25 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Nigeria, EU to Deepen Partnerships in Security, Others",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NYzRZNUxVYkRmcEd4UmJKMXcyNjhlU29TS08tYXpyV0lUTTZqT2VsN09iLVdjYUFZY0tncllpVk00SFJGYnRBSkt3azNKSmttcVRrZ1IzQktyT0ZETlp5UEVvTDRNcUtWZDZyNVRQMkpaSUtLMGJpQ21HakY?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Fri, 24 Apr 2026 09:20:11 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, Malaysia deepen cooperation on trade facilitation, border management",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTBsZFJBRVgxU2twUjhvOXoxekJEdlRjUE56Y3o0S2dTUW4xdC00a2dKckJzSkkwV2otUXZ0VExWb3BSSGxSWkU1UTVGa2dNd2RFd3RITEh6cUNlWFo1bU9taUt0VklQLTkwN2IzQnNoQlRqbjNNQXFQOGVIdmpoLTc1VWViMzVzOEk4YWw1RENSUVd3eW1OclpTUWFWbEJi?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Fri, 24 Apr 2026 09:08:09 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Alleged Coup: Military inaugurates general court-martial, begins trial of suspects",
-      "link": "https://www.vanguardngr.com/2026/04/alleged-coup-military-inaugurates-general-court-martial-begins-trial-of-suspects/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 24 Apr 2026 08:41:36 +0000",
       "category": "Security News"
     },
     {
@@ -50,13 +99,6 @@
       "category": "Security News"
     },
     {
-      "title": "Jet fuel: Shutdown looms as FG, marketers, airlines’ negotiation ends in deadlock",
-      "link": "https://www.vanguardngr.com/2026/04/jet-fuel-shutdown-looms-as-fg-marketers-airlines-negotiation-ends-in-deadlock/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 24 Apr 2026 08:07:17 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria: Tax Ombud to collaborate with revenue authorities on operational efficiency",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUExhY3ZFZThaMDhUNkNwMFYyQjBfalZGY3RVc29KMUc2RklVY3NTWHJHcVBOblRjVThVSUM3bl82ek9RSHVhTFVXQ3FDYzZEU3ZuWTNpS0FFZEQ1UTJSZTdYMmRrT04tYmxBYkpaYmhDRHRJdTVFbThLZkE4V2tZMXdGaTdWaGt4WnhiVEQzcnlIRkFrM3lmcDRkYlZiaFFKcmJHbXhqU2RiQlNWUVpUNlc2OTR1UkJvS2REVG4zelRaSWVudnNSRW04Wk8?oc=5",
       "source": "ZAWYA",
@@ -64,32 +106,11 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "US soldier arrested for allegedly betting on Maduro operation",
-      "link": "https://www.vanguardngr.com/2026/04/us-soldier-arrested-for-allegedly-betting-on-maduro-operation/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 24 Apr 2026 07:17:22 +0000",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Recruitment: PSC, Nigeria Police Force announce dates for written examination",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazVyTWtmU015NDV3enh3RUVvVUZlWEpTUWNaX01KQlNPeVhlMHY5Nkhwd3lnT21uLWZOSlFPR2F5U3A0MlVHSGhLdlo5OW1mYTJoSS0ycWdRQzRGZTFVREQyWnY2dnZkSFdheFBGRnBrdURkbk1oVGNtQUVpTVk1RENPZ2kyQ2VyZUgyeENRRF85TjExTjh2ZS1GVGYxWWJXajUxQTI0YWk?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Fri, 24 Apr 2026 06:24:37 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NADDC, AFDB seek cooperation on development of Nigeria’s e-mobility ecosystem",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkkzM0QtRkNSVWNybG5wNmpzaXhLd1o4WGlIQ2JSUUdEQVhZRnJybTFPd0taT3lLeVRWQWVPZXNKWHZlbnBEcmFZaE5sVkYtWnNSOUJseGVxRGRVbEw2b1BKSmtnZ0JMWVdHU2pOZm10MXoyU2plYllDS3AxV0NWNzhLNGQ5Q0t6UnhJMzJpcmdtNWdQRG16cDFuVHBjRjZURXl6SEwxaw?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 24 Apr 2026 06:00:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Reps To Probe Status Of Nigerian Girls Trafficked For Sexual, Other Abuses",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUzNCNWZsdmNRcWJHOXZjekU3eEs5WF9RNEJSem9pTkQ3ZzJIMTc2TDlOYnpLeFRoNXZlLVRRanplQ19kY3VUbGFxTW00emtVXzVHcGpkRjQ5RzNhUkN0UExqT0FEdnpoUVhTZXNqWW9Gbmt6WHhldWFFWDQxQTc0cHhrUTM2Tko4RzNTeUtYSzJoWVdCWDZGMVdCMkkycDQ?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 24 Apr 2026 05:41:03 GMT",
-      "category": "Traffic"
+      "title": "Nigeria, Angola, Congo-Brazzaville less exposed to Middle East conflict risk: S&P",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORERfSnRPcE1lVUhtM0MwVlpVRXBSU2tPdm5UallQTkdaVWpkeU4zTGxkRi1VZWVYVzlibkViNmMybm1RVnN1U054eEtfSVRVYk1mbE1fNXNSb2NZVlNCaHRLaDF6amQ3czFFek81Z1pJcENtRkFXb29qczR6c1VQSzN0Q0hUX05iVmowVDNraWNtLUloYlJIOE1NQkYyOXNkUVluR3NOeHBpUXZKQzc0T2JtcjNrLUpRTUhTYndpV1FSWXhGN1hJTGVQZw?oc=5",
+      "source": "ZAWYA",
+      "pubDate": "Fri, 24 Apr 2026 06:58:41 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Rising Insecurity Could Push Nigeria Into Anarchy – Sen Ningi",
@@ -106,11 +127,11 @@
       "category": "Security News"
     },
     {
-      "title": "Bird strikes: From occasional accident to routine financial drain",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWZMckNxTkxqMnhTTDh2Vl9ZenphT3FFR0RyX2pwbVRESHE0TGMzUE1LcDlqdGFlampHSjRVSzJmdks2dDREclprQlJBZmI3RWUtQ3NEVFo5S0xwekU3TVVaSUFZZjFGTzR6aTZmUU5ab3lDSXNIQVEwbDRvbUkyTXRRSUxVRzlQenFCU3ZXcFA3UkM2VTRuUDJBcFpwMVVIQ1Rrd3F1LWdSM3FtTGxVbEd1clVHWFkxNk5weG5B?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 24 Apr 2026 05:05:00 GMT",
-      "category": "Traffic"
+      "title": "FG moves to curb proliferation of security agencies",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkF5cVB4Zjhqc1JyMlR4b0xGdmt5anhuUVVGV052aUpRdUZ0MURwdS15OUk5UGlieGVDR0tzWkg5TVh6SkhHU1RPanFvMkhCMEVpT2ZuMjNQd21wbFpiVGpwZnY4WjM2MWxIYklDYlc0RC1INWhlWGJOSHQ1QnNmUmxOeVl6Nk9GbjRn?oc=5",
+      "source": "Nigerian NewsDirect",
+      "pubDate": "Fri, 24 Apr 2026 03:33:45 GMT",
+      "category": "Security News"
     },
     {
       "title": "Davido’s Father Donates N500m to Osun Security Trust Fund",
@@ -132,13 +153,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Fri, 24 Apr 2026 00:37:10 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Hayatu-Deen: Nigeria at Crossroads, Needs Help, Pledges to Be an Empathetic Leader",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BDV2kwTXNGN1MtbU1HaGVNV2NJc2NSemVHdlVaQ2FfUXREbHBZNkNITkZlbWtmaENvQVpKdHZQYlpiRF9pTnZoRndpNHpwLW1OY0NsSWJJTHZvQklGNXdqM2c4bUszbEpZNnh5MUFoWjRORGVseEk5WXg2RktJcVpIc2NoNTQ0RlU2TzRMX0hWVW0yaHN2bm8wWHZRczlZb3ZmWFVnemJFdWd0RFNvWUFCX0xQcER0djV3?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Fri, 24 Apr 2026 00:35:05 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Beyond Breaches: Cybersecurity as a national security imperative",
@@ -197,13 +211,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Irate Plateau Youths Attempt Attack on NSCDC Facility, Troops Intervene to Avert Crisis",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUxUNkxYdUJWdnV2aWwzLUVVMjJxX3RIaWZFSVlxTk5EanZrUlJITjNCbEpJLXhEX29TYVJGVE1vRzhCWUV0Q3NRV09VcTBjQVY3T3I0R3JYTEdHSjBWZ0ZkLWtZQ0U4X1FPbU02OTRvd2l6Q0lxeFRqaXVtdmp3bVdJWUxaNndlMFJYS3RUaGN0aHozOThQNmZiUHJ1LUFfVm5EYVpNa2dQMkQ3TDFvamNnaUFvc2laLWNZVjc4WV8?oc=5",
-      "source": "the authority news",
-      "pubDate": "Thu, 23 Apr 2026 16:36:46 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "FG To Tackle Proliferation Of Security Agencies, Inaugurates Inter-Ministerial Committee",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXduTkZIYmo0NTJSdkN3SDNYT2l3MGF2Z3VRNWdCdEhXUlVHdlJGMGc5UHNIRDhWYTNReF9DVmJ3SHN0Yktyc3I2d2w3cFhHZ3haOWZOMy1MdVM1cVNTNklacFo2RzdJWW9GRXhSRGZfOHo3QUlwcFdFWFhCN3QwU0RobjBHUEpBVV9aVHNkWUZ6czZrazZMQWNTdUhxMHN4NVVrTmZ4aXRwVm4xdGJCQg?oc=5",
       "source": "TVC News",
@@ -250,6 +257,13 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxZlEtRUxiVjFIYUh3aEhDWWRJcnpOMTVoX0JLZUZ2TXBrclFyOFlSUWRGUThLcGpLUTRINEs4MUJwX2ZhV1gtUmVCNkoxZ21iTUVKRDdkTkpDMXFNMTZUc2pxeWZwb29nNmNMQzdGMA?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Thu, 23 Apr 2026 07:59:06 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "The ₦3.5 Trillion Drain: Why Nigeria’s Quest For Food Security Starts In Warehouse, Not Farm",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdThqMnNkVEtBd29oZVA5TnNqQWNIb1Y1djNDS01fSGo1QUh0eW5HLVdVemF6Sk9RYjBjcVN6WlhtcmpxQ1NfdHk5dzdqRkZ6QVVjbkd1cDY1Z3I2VHMxODFUMFM1eVVEd0Z1bXMzRkg4bTQ2T2N3NWxhSmFjXzF3ZDRLZGU2Rm9RcE9zcDF1YUE2ZDRNbnVPQndNSTUwWW1Bb3NJSXI5eXhhNzhmQlUxbzYwRU1iWU42N0VCUHBnZTJTVU9jYXV2MlNyMFdjMGE2VUHSAdcBQVVfeXFMUHFieXdrVVRDYTJ5alVXRktqdllGZk9RWG5ER2tfa2xHdV9pU3lTY3BMUG1IM3dISGxqSFBOWGpKNkZwaENqSmNsRnJVdGVlM2NDY1hqcmdwaVB1aGVRSTRfcndpbDRhOVhTRElkTkphekpBaFZlS01JRGpCa295dkRQX240eVhETmk4N0NyeTV3YTdjMURwSkxfdDFmT2FoNE1MTDh1Z2FoUHVCa092RGVncFNQQVJhbEl2T1lFNTNNSnp0bVlPeHp6SU5HdnBZNHZjakNZVWs?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Thu, 23 Apr 2026 07:40:54 GMT",
       "category": "Security News"
     },
     {
@@ -349,20 +363,6 @@
       "source": "Punch Newspapers",
       "pubDate": "Wed, 22 Apr 2026 23:21:05 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Overhaul Nigeria’s security architecture now, Gani Adams tells Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzJmN0t5cG9lUS13Z1lMd3hoZ1hFV1VkS2RCUWhnOXNZQlNfaVZIbzlSTnhWS2Z0MHJFbjV6VDRxRXd0aXNhUTMxUFo0NFZYX1hSaTRuaVZ4NDE5T1l5dExzMG14YndjV3FiRGVSLUVfSGE5NFBKZDVsYTVDYVV3Q2lZRGEyRjRGekVoN09KVdIBlAFBVV95cUxOTmt2NV96ZlNKQVFkWlVTWlRJQUZWN2FXQlRHTmFoYko3RzNSZUpqVTZjZnRwTFZReUwtdUx6Q2RYRi1XYWE5a05KVXhTYTZIei1TMU9Sa0RRYTdXVnQxNHR5M0Nycy0tclJNY2liSS1rakxmWFZCWEVHaC01cHd3NGQwLXpiN0Jrdzk4NWZxZ3Flc3Zf?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Wed, 22 Apr 2026 22:58:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "World must stop misreading Nigeria’s security crisis — Oluremi Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXBzazFuTFhGdmk2NGU0dk5qWTh4OWR5bWF0MnlZNk9DY0RHVUhjU1RWaWNqRjFpclo3YUdPNXJzWDROY2hfb1U2LWtVRDRTUkhmd2FhdW1yUHFUeVNkLU9MNnlvSTYteS1ST2c2OHNlS3ZOUEwxNWtDLVJoNVlua1lYN0pSTUJYQ1l3NmxuSUo?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 22 Apr 2026 22:30:42 GMT",
-      "category": "Security News"
     }
   ]
 }
