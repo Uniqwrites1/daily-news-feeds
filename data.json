@@ -1,19 +1,61 @@
 {
-  "timestamp": "2026-04-25T04:00:55.604Z",
-  "generatedAt": "25/04/2026, 05:00:55",
-  "totalHeadlines": 163,
+  "timestamp": "2026-04-25T06:36:20.462Z",
+  "generatedAt": "25/04/2026, 07:36:20",
+  "totalHeadlines": 165,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 120,
     "Law Enforcement": 8,
-    "Armed Conflict": 10,
-    "Insurgency": 7,
-    "Kidnapping": 4,
-    "Military/Security Operations": 9,
+    "Armed Conflict": 11,
+    "Kidnapping": 3,
+    "Military/Security Operations": 7,
     "Traffic": 3,
-    "Banditry": 2
+    "Insurgency": 9,
+    "Banditry": 4
   },
   "headlines": [
+    {
+      "title": "Crisis Brews In Scout Association Of Nigeria As Members Petition IGP Disu Over Illegal Detention, Abuse Of Police Process",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVhtN1QtODlxcHZXOV8zX0ZsYTBRMWdFVy1rNGhNa0Z5clBWZVVHRXJHT0o2cFp4eDVtdFdIVnZxcDh5alB4TEx3bDIwZ1VqaTRZWGdIeUJUcXlrcEFiTl9Xc3hyWDZncWNEamtoYll6OFZiYUlIS1pCb09IR0tBMkxFY1dPSzZNMjhmZHBCR3c5UTBZeFIxYzE3eEw4NzF0Y2VSdDVSRnBtV2t5cXR4VGtpemVfdDAzVW9WYnZaT25XRUN1?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sat, 25 Apr 2026 06:21:29 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian Troops pound 31 terrorists, rescue victims – DHQ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeG9YbkswSlR5M1R5R1V5R3EwZ3RmSjFHU2Z2U1FtMUNPcWltZ0NjSkhHNnFRLU1XTjZHeWRTTGx5aGJQR0wzajBLV01JVDhLblMwTExhRVpKblJMalZBM1JWdjFqblZBUlQyYUh3djJjUHZVNjM3SDJLSEdTQ3F0WTEtOEdtNFFWNm9WVXRXNVU?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sat, 25 Apr 2026 05:52:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Analysing Nigeria-Türkiye Defence Partnership",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVSWZZSzJRLVNNNzNJYnpkdkdEZ2hWWlo4eUZ0TlFhS3hMaUtYMmk0QTUycmVPREdjZU8zUjlXZXFIbmlXcVNsZ1pfNzZiaElVN0dGNWdhd1ZoNWs2UnZLQ0p5YmllT0xWbDlUWkFEdEtwLWJlNFYw?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 25 Apr 2026 04:44:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Food security is ultimate test of governance capacity, Don tells nation’s leaders",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd3FoRFRlVVZ5OGJDZzE2QVVqYWdBeUhHdlFpaHctR1ZJTG9wdnUzV1BycVg5eUJoaHExR1J3elpTcC1iX3dBd3l3TW9vYWM5YzNocTJjWkpNRE9XZy0wWGpmNTdtMW11aVFtMllLSmlSTGQzZElkOFBVa2lvTFpULU1MQzhpcFhNZVNnWXZQOTRjSWowNTNKMGRtQVROMFU4cXl5bGV2T0w?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 25 Apr 2026 04:40:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Yoruba group tasks FG on security reforms, true federalism",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjAxeHdsdkdab1lXMzFQTjNnNjNaY0J0aWh2WExqUWNVUUpHbzE3cUJyWjhwR0RzY2daTFV5OUlrQ1F5cVZUUDhRMVVxcTZXUXZTc1pxcXVDUkhTcTBiQkxmalBVZjdlTndvWGMzUW1zQlF3SlFYQ2FqSjVnTnFXei10bDdmRzFKbXVr?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 25 Apr 2026 04:40:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "No Sanctuary: How terrorists exploited Nigeria’s religious gatherings",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV09qenk2TjUzOUIxMGZsOHFMcW5NcGJfeDAxc1dqMXJLcFp6M1pveXo0RXhTVEJJS2dzM3F5OWlVSmFXV2t5bzhGdnVPZUZrS0ZHYzNiQzNXZmFNMjJpUzIwV0dHUmJKMklMZXA2a3NJQlBhWk9JQjNrTENHZ3d0bjZ4cjVzN3cyWWh4Yi00YXJJbnNVc2tjT3hickg1OHJ4bEU0N3V6bW1hekEzTkk1UWp3d05wSF9VY3c1NTVnaDNtOU0?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sat, 25 Apr 2026 04:01:44 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Gulf War: Food Insecurity Looms in Nigeria, Other African Countries, IMF Warns",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1JrTUtkdEVzcXJfU0s4dmhaWktaWW9vUm9MVW04UXE5VnlOZEFfcUpsNEUtbEZ4RE9kYkFiNHBIcENhNWJlVXZWbVVLc3UyYVowSHR6RGo5aXhmLWpyeDcwWFRaZ1duV3IwYVlNV3hoYmNySkpBTTUzYVdFY2tsaFN0d0VBYjNGSzNvTExhV3VKeU1ocnZPZFI5UnFIbldhNlZsUjV6eERKMmhQbnFSZWNpcWRVUQ?oc=5",
@@ -43,13 +85,6 @@
       "category": "Security News"
     },
     {
-      "title": "AGN threatens to delist members who skip revalidation exercise",
-      "link": "https://www.vanguardngr.com/2026/04/agn-threatens-to-delist-members-who-skip-revalidation-exercise/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 24 Apr 2026 23:11:00 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria’s Rising Grant Fraud Threatens Donor Confidence, Group Raises Alarm",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelR3T294RWk0aTF1THFLSkJ4cjhleDQxSVBmLTI3UnJHMnd4MGY1Y29OWV9vSDN0UDByOExYWTNxeU5PVVNvR2cxdVJTRFUyb3JNTG1FY0RQbDNuV011YzVNWE5EMlZYbFdCN0RjajNsb2l2SnhTallRY1g2enhYeGprbTBGSGxqU2hnVkNoUWJqazB6T0VDRXNzZ0o?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -64,11 +99,11 @@
       "category": "Traffic"
     },
     {
-      "title": "Tinubu Government Guilty Of Genocide In Nigeria, Arrest Its Officials – Former US Mayor Testifies Before Congress",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYl9BX1pCVDhVQ3o1YzVQOGtyVDFVcm95LTFSN0lGdVJSOVlJYTU0cTc2Q0RmNUdzQk94Tm9JVl9WdjdoT3RVZ0NvOFJqUnhoZWZRdXliRVVEY1NiQllHd0FTU3lGclVodURIVzhhMW1kZkxrUW5QZ2FYSmM3bEZNampJbktWejZGMVliR3cwQzhXUmhnaDI3ZHV6b0pObXJxWm5GUTlRWWw2OTZTZlhUQm9PVjlvQ0hJekRVN1YtaENkSEtsVVE?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 24 Apr 2026 21:07:16 GMT",
-      "category": "Law Enforcement"
+      "title": "Lawyer sues Nigerian govt, army over ex-Boko Haram fighters reintegration programme",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTJjdFVrdUhLTWZoeTEtNzF1MW5NMmdYZ2J4Zmg0LXNxdTNETTNGck5HdkYwRHNIMjVQNmpwSnBSNnZsY09UVW9ZQzRFWVNXakdLcUVVbzgyWlFTTTF6RFRYdVpmWnZ5Mll4WmgtSElwdTl3WnM0WUl2RmZsSFNEUlZvckV2Q1dFczhVbVkyb1p3TV9kSkhyZXY3UmxQbllSRVk5ZkxKNDNSRzA4c0dfdFpwTlh3cm5EcVE2dm9yb3NCbWRMNzktTWQyS2Jkcm5BUTdSVk9n?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 24 Apr 2026 22:40:34 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Hong killings: Adamawa guber aspirant Haske condemns brutal attack, mourns victims",
@@ -101,7 +136,7 @@
     {
       "title": "Nigeria's security crisis: What's the way out?",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "pubDate": "Fri, 24 Apr 2026 17:32:59 GMT",
       "category": "Security News"
     },
@@ -158,7 +193,7 @@
       "title": "NSCDC to dismiss underperforming officers in Anambra",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0dnNWtBQUxMUmtpNlFJYWs1MHVDSHZhRGZUMnFCMVRrLS00aW1SYlZWYU5Sa0NZbEduSjJzLW5iSWJ0WmY0YXJVWFVNUXp2MWRQNWY4MHExYkZvaVJROURhSDdEVXlLMlhDUjRPNm5TekVVekRWQVp6NHgtQ0ZoNG5JVXlVMFZfcWU40gGQAUFVX3lxTE1aeF82M01SWWhzRThSanJMTjE4LXBUZGVJUEt4WmFmc3VEdTZUaG93QTlSMFo1MG1pU182dW91V3JLak5EYkZxNURLQ3p3MzlVZlZhV3ZjdnZCV3dBRHRFLTlDd1lkQVZFYVVmUGdXRG54N2JnZkxPOFRZaTJfZmc3Y1BzT25CaV8tbTNvMmJySw?oc=5",
       "source": "The Nation Newspaper",
-      "pubDate": "Fri, 24 Apr 2026 13:44:59 GMT",
+      "pubDate": "Fri, 24 Apr 2026 13:45:13 GMT",
       "category": "Security News"
     },
     {
@@ -239,39 +274,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, EU to deepen cooperation in trade, security, others –Minister",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVpEa1VtdC1MTmhBSkxvUHp3Qy1CN0w5TVBJRVkwcjdUMFRaOHhURXhCLWpjb0h5bHk5RGQ1NVU5VThRTlVRajQtTkxfVmpWMVBSOTU1RElLdVRrVHlpaEJNSm5jM1hrYTNJNENDQ1JFejZkRkxPS3BHS2k0Mkh0WkdmbElGU3hFUXdVWFVB0gGTAUFVX3lxTE5oYTEtdURNVW10RTVwUm9XZThmbXlGZVVHMHllRktyT29UVWZLNlZhRE45aUVLT1FwZGtRd2ZuOG1ucGl0QXZpcm1MU1ZEVVZjcE54UWdDVXBHYmFNRFBBVVVrUDhpRU9fbkM5YnZ1bGhpZWlLT25HZndHVU5XbjBiTmM2Y0Ryb1dlbGhNanh6VFpyOA?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Thu, 23 Apr 2026 23:52:37 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "NSCDC, Nigerian Army deepen security ties in Abia, plan joint operations – FRCN HQ",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTVnYjVtUGQwSDNQQ2VIUmtYd3BHOG5qMXJyQ0lSeFJlczFjbzloM21vVkFoSWdBbUx0OGxCcVQ2THo2MG9lSURHNS1xbDBVYTVkRDVqallQZ1hLRzlCNU14cXU5ZVhIX2RUSWJJWlRLUEVtbTNLSlkzSkFCeEhWdk5OUHI3MWNCRjA3NlpPeHZWSVNEQ3JSRWRZMllEZ0NWRm9XbWlOTl9pM3lMT3Aw?oc=5",
       "source": "FRCN HQ",
       "pubDate": "Thu, 23 Apr 2026 23:26:48 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria’s 2021 Twitter Suspension Was for National Security, Says Lai Mohammed",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWZhaGhaUXRfU19SR1I4eHhxQm9tTGlXdHViMlJ6cDg0WmpaTXNXUGNCdVNxemlrNnhWX2ZDdDVRY1d2LW5pRFpFNndPcmpQRXhjUmI1R2JZNnotMWhHSjJDNG9HRHNyMWpVTkRnaUdtUG9Ud0pvM2NUYVA1UzZXNXFwRHg0cksxTTBUS2hTTlAtN0hXMjZTLVRaNk45blpheXB0TzZvUGtSYmJoWUZXampVUlZBVkE?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Thu, 23 Apr 2026 20:19:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, EU To Deepen Partnership In Security, Trade, Others",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXhRNXdlMWFxdVMtblFxZFJMUGwzeUswTWhxTlJFNlc0WDJvNk81elRvcEcwN0l6VWFyUTV1aUM2ZGJQZGVBTWVxNVVtVF9TSmhtT1ZENENTejBDNkNBZW9wbkVSMHlUYks5YU91OEQ1WlRuNXl2RVlaNXlUelB6Y0Rnaw?oc=5",
-      "source": "thefact.ng",
-      "pubDate": "Thu, 23 Apr 2026 20:04:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Senate Calls on Security Forces to Rescue Abducted UTME Candidates",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTc5TmJXQm9FLV9SZ3BWWFN4NDRiSVlHZ2lERTdHODVxdG5uLWFwS0VRNFRpcVRMTFo2S25RUGotczhlTVl1b3dzN2ZhN3Y0N2FkODVDcHg1TW4zdFZTdXU1bWJKcmFrcFRyRHdZaEE3a0toTTU3OVdQMzl4TXJaT21tR0VHbVRRUDNNRllLWFA1Zw?oc=5",
-      "source": "NALTF",
-      "pubDate": "Thu, 23 Apr 2026 19:38:11 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "Security: Abia govt to revalidate community vigilante operatives",
@@ -356,13 +363,6 @@
       "source": "The Nation Newspaper",
       "pubDate": "Thu, 23 Apr 2026 06:41:23 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Debate over security strategy as Senate demands rescue of 416 captives",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkFjT282dmVXeC1aN04xdkduNEVTRU1sNnM2MF9ZSzVoTVBqbjlnUnU5dE9ZT0pnTWJfdHlxamZYUU9wYUJJUHRGem5iZGlfdVI3ZGpvNWJ0c09kN21NMFo5bTI0TDdIR0xnU2hlWHRyWXFWZ213dUZCYmlIUjhvekdXZW0yeFBBbERIUHF4SVdwWUdsZXhWMkRvMHlSMlBKOHc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 23 Apr 2026 05:12:00 GMT",
-      "category": "Kidnapping"
     }
   ]
 }
