@@ -1,19 +1,96 @@
 {
-  "timestamp": "2026-04-25T15:18:20.907Z",
-  "generatedAt": "25/04/2026, 16:18:20",
-  "totalHeadlines": 171,
+  "timestamp": "2026-04-25T18:18:21.479Z",
+  "generatedAt": "25/04/2026, 19:18:21",
+  "totalHeadlines": 180,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 115,
-    "Law Enforcement": 10,
-    "Armed Conflict": 18,
+    "Security News": 122,
+    "Law Enforcement": 16,
+    "Armed Conflict": 17,
     "Kidnapping": 7,
+    "Traffic": 3,
+    "Insurgency": 4,
     "Military/Security Operations": 7,
-    "Traffic": 4,
-    "Insurgency": 5,
-    "Banditry": 5
+    "Banditry": 4
   },
   "headlines": [
+    {
+      "title": "Suspected fake currency trader arrested in Nasarawa",
+      "link": "https://www.vanguardngr.com/2026/04/suspected-fake-currency-trader-arrested-in-nasarawa/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 25 Apr 2026 18:11:19 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NAF Air Strike Hits Terrorist Enclave in Southern Tumbuns",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjIyaVctSzBETjJ1dmRvTHN5a1NFY2R2UWdqbjRCU25CZDhmSU9OanF4WGw1YVhWck1hakE1RWtRT3dQdWNFN1l6bHlNTmJyOWM4b2Q4U28yTEZxOV9hWmFSS0xHYy1NV0F6T0hpcUFPbHV4MjJzQ1QtNjh4U0hXZEFwbw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 25 Apr 2026 17:59:07 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "ICE Arrests Nigerian Man In US Over Child Molestation Record",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEFsck9lVzAzdWl0eWxESWh1Z0p2OHlHOEhfcEJRNEZRbVFZMkJVYXd5UnNSZnFGMUdqYl9mYVZ4c1U2aVU1UjV6bTZPeXpsVzNMZXpsd2NwbVdaUXRpNWl5QXp4WDFfOGEzM2RJTk9UNE1KOTJzVXRjLUNrU182LWxOejVHb2FnQmdj?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 25 Apr 2026 17:09:19 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "IG to officers: Treat citizens with civility, professionalism",
+      "link": "https://www.vanguardngr.com/2026/04/ig-to-officers-treat-citizens-with-civility-professionalism/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Sat, 25 Apr 2026 16:34:06 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Ibadan Summit: ‘Operation Wetie’ started in Ibadan – Makinde warns",
+      "link": "https://www.vanguardngr.com/2026/04/ibadan-summit-operation-wetie-started-in-ibadan-makinde-warns/",
+      "source": "Oboh",
+      "pubDate": "Sat, 25 Apr 2026 16:28:04 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "IGP urges officers to treat Nigerian with civility",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUk5GckV6WTdmbllqY0hoZUVtTnQ1dEZNVWwzd2xhOEVnSVJsSkZZRTFGTV82UmN5dTVLM3NaeFVrbHpiUjZBQUdMLVIyeUw5Y2t6S1BucU9YUmlNdTRHUVR4VklxMVc1c0tpMTROZUh5Z2xuaEN3OUJwR2ZsamNwOTNkMA?oc=5",
+      "source": "Daily Nigerian",
+      "pubDate": "Sat, 25 Apr 2026 16:07:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Army Dismantles IPOB/ESN Camp in Imo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDdxUm5GcEtCMmpieDZjRktwQjQxa2JvVDlwczdET3l4NjNCZGx3djNjTTBSSHZDOVdvY2dNd05BOWpNMXhjNWx0RU1YSFBzbGZJOUdDT1I3aXRMdTV1c2V1eDJyNEN4X3ljNHlzeWdPakhxU2pKYTdZanJUYmY4ckRsVXYxOU56RFcyWlE4VlVsbGdoeXBVQw?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Sat, 25 Apr 2026 15:55:33 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian man arrested, faces deportation from US over ‘sex crimes’",
+      "link": "https://www.vanguardngr.com/2026/04/nigerian-man-arrested-faces-deportation-from-us-over-sex-crimes/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Sat, 25 Apr 2026 15:51:20 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian Navy Arrests Shipping Agent Over Alleged Fraud in Calabar Incident",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX3dPRjJiWF84SU1hdXZ0c1lYN1BCQnh0S0hSLUkxMjh1cVVGOGw4ZEpPWTh4bFZVOWhQczBsQ0lyY1dCNzg2NW16cEtKNGV4LVZjYVp3aG9FcmZpUFJlQjR0UGdQMTNuY1hFei1GeE12cldodS0xZUpwdWRVQk9IRDM5VFNzSFotT0psaUdBQjhIekRuTmpYLVBhMTh0dTZ6Y0RrNXBYQS1jdmFuZFJnS0JTNXlObVhYald5aXR3SzY?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Sat, 25 Apr 2026 15:47:09 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Police recruitment is free; beware of scams – PSC",
+      "link": "https://www.vanguardngr.com/2026/04/police-recruitment-is-free-beware-of-scams-psc/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 25 Apr 2026 15:44:33 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "How The IGP’s Visit To NSCDC’s Audi Abubakar Will Reshape The Nation’s Defence Architecture",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWFsMllxZ2U0VExCZWdOaGtvamN3eUluaW1oclZDWFVQWG8zbDdyR1V2eGNaYXZTbnFHV0hxaXhmRFk0NDFOb2ttQlNUM090Y2kxNXpMVnRNbVNmekphSVZicUhVb0FlXzkzMl9hb0piOTFOQm9DNmhYUUp4aUxVejNQOUdWaEJpYXYtZ1ZhamdSd0l5VkVmT20xaWE3bHJaQ3o5cFZxOTh3MjJtU3JLag?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 25 Apr 2026 15:36:29 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Gunmen Kill Traditional Ruler, Wife, Two Others in Benue Community",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1hzN2tRMHZFdWVqNTlqLU5MUXRqTk16d0JwUzJTYTBaNWZHWmo2TEZoZUY4bW02SzNyOGJpT0llaGpYaHFWdzVhTUtCVUVWc3pEN3lOZkZKSm9PQjZDV0V5UDI2UUlIWkxtZFZra250am1TRDAwNjJDZXczazlrZjRqS3ZGR3gwQU9tRzc2VmhMSDBEX2N2U1VR?oc=5",
@@ -43,17 +120,10 @@
       "category": "Security News"
     },
     {
-      "title": "Iran military says will respond if US blockade and ‘banditry’ continues",
-      "link": "https://www.vanguardngr.com/2026/04/iran-military-says-will-respond-if-us-blockade-and-banditry-continues/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 25 Apr 2026 12:54:31 +0000",
-      "category": "Banditry"
-    },
-    {
-      "title": "Army dismantles IPOB/ESN camp, recovers remains of personnel in Imo",
-      "link": "https://www.vanguardngr.com/2026/04/army-dismantles-ipob-esn-camp-recovers-remains-of-personnel-in-imo/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 25 Apr 2026 12:22:53 +0000",
+      "title": "Nigerian Army recovers remains of soldier-couple murdered while traveling for traditional wedding",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmd4aE1famhrZW5jRllQRl9oQkN6amxfdWdibXdfX0JQeG9sVGlRaEhIaUF6eW1uYVNCTGRkekc5Z1dVSnZRaTJ5ZVdlT0xDTzJUSEFETTF4eklVcFBtb2FVTFBGaGhJS1phaVlhX01pNEt6VElFUG54RUlJdDctU3NtXzVjU2RCWDlPeHFsWlpCQ0tkRDNVM3hFNjVZQ3BMSzNKVmlodFotQWhMRjNqakFCMk9TNnU3ZWpUdVZDSUhFenJvWlpJTDVB?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sat, 25 Apr 2026 12:14:51 GMT",
       "category": "Security News"
     },
     {
@@ -106,17 +176,10 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Police rescue 2-year-old kidnap victim, nab 3 suspects in Kano",
-      "link": "https://www.vanguardngr.com/2026/04/police-rescue-2-year-old-kidnap-victim-nab-3-suspects-in-kano/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 25 Apr 2026 09:49:28 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "ICE arrests Nigerian man over child molestation, sex crime record",
-      "link": "https://www.vanguardngr.com/2026/04/ice-arrests-nigerian-man-over-child-molestation-sex-crime-record/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 25 Apr 2026 09:44:01 +0000",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlFuT1AtcXlBU2h2SURtWWdCNDd2OEFzdDlCU1RweFVrVjRIZ3E5MEpiUDBnV0tTVXhteUJ3bF9BNlgxdHFTeGlLcUFsVVdYcGNSOEFDZnBsZ210YVphd2pabm0tT2pYeWdFaDJGeWVKczZTQkRyMGxiaFo4X0RPZDhfWHB1MG9nRU5VWjlBU2xsUHp6WTB3QWc5UkNiMnh6Ml930gGoAUFVX3lxTFBmX2ZFR2VCZlV6ZXh0MDB4SVZCSGIyVEVtSGo5c29UNE1TUEp2TTVsT2xuOVFCc2R0TWhBMk94YXl1WWZWMFZ0eWxBTDg4akFrdWtxY18yeF84c1BCZ1JuQ0FZMVVnMVRNaGh0cGpJcEl5alY4enFQcUxvZlhUb0d4WUx3SDBlQlJUMHBnZVZicXJIX0RyMjVmQlV1czM2YWE3cHZNa1RtZg?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sat, 25 Apr 2026 09:44:26 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -134,18 +197,18 @@
       "category": "Traffic"
     },
     {
-      "title": "NAF airstrikes hit, degrade terrorists capabilities",
-      "link": "https://www.vanguardngr.com/2026/04/naf-airstrikes-hit-degrade-terrorists-capabilities/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 25 Apr 2026 09:28:48 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "NASD Unlisted Security Index Crosses 4,000-point Benchmark Again |",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXdaeDdJN1QtRndLYVM3MVZyV3Q5QjV0b1VaLTJHQldKaTIzVXRNcTNDUlNsenRiRWFWY1RjRXRtY0lIUDM5TjM0b0hOZFFBTzRGQWw3UWtkSXAwd1ZNM0kzTVo5eGdBU0RyUFpXbXI4aFdhOENwYnJrVWd3S3lfeFZWZnMzMG9qdlhfQmNSV3dNMzFseEpoWFZXSjY?oc=5",
       "source": "Business Post Nigeria",
-      "pubDate": "Sat, 25 Apr 2026 09:16:49 GMT",
+      "pubDate": "Sat, 25 Apr 2026 09:18:24 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "ICE Arrests Nigerian Man with Child Molestation Record in US",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0E0QjNSZlhyUlFBZnRZd1NteGIzekY5Q2hEamRPdVVZcDBQZmlVQ0JYWm5uWkRDcmJOampLalRQMjl0MHUzTmI2aXZuZmt5RXhXdno0Z01kZjBZRDFHR3pnWThsczFQaDBuOVM0bWg5eVc0R195VTJpQ1FxTGxTR3lqRFpiVG8w?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sat, 25 Apr 2026 09:13:52 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "TIMELINE: 13 attacks, 7 foiled — mapping Nigeria’s military base assaults in 2026",
@@ -173,13 +236,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd3FoRFRlVVZ5OGJDZzE2QVVqYWdBeUhHdlFpaHctR1ZJTG9wdnUzV1BycVg5eUJoaHExR1J3elpTcC1iX3dBd3l3TW9vYWM5YzNocTJjWkpNRE9XZy0wWGpmNTdtMW11aVFtMllLSmlSTGQzZElkOFBVa2lvTFpULU1MQzhpcFhNZVNnWXZQOTRjSWowNTNKMGRtQVROMFU4cXl5bGV2T0w?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 25 Apr 2026 04:57:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Analysing Nigeria-Türkiye Defence Partnership",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVSWZZSzJRLVNNNzNJYnpkdkdEZ2hWWlo4eUZ0TlFhS3hMaUtYMmk0QTUycmVPREdjZU8zUjlXZXFIbmlXcVNsZ1pfNzZiaElVN0dGNWdhd1ZoNWs2UnZLQ0p5YmllT0xWbDlUWkFEdEtwLWJlNFYw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 25 Apr 2026 04:44:20 GMT",
       "category": "Security News"
     },
     {
@@ -211,13 +267,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Editors fault NBC over threat to sanction broadcasters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE5XS2RIdUdka3R1Wm1wVC05Rm1jcjl4LUJaYXA4MFFfb2NIRUdhN1JXdjdHdHhMQmpxN282QVBsbXpEM0p0dGZwOC0yd2VWbV9wdjlIY0NtRWlNVmZXbUtBS0xhM2ZISnVmSmRNU2prX3F5enJ0d2oydi1HVDJFTG4xQzVpZElsQzkzTFZ6WTF4UnI4a1hFNms1cmtTYVVQb284Y053UXhQbHZDaDBjVw?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 24 Apr 2026 22:47:55 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Tinubu Government Guilty Of Genocide In Nigeria, Arrest Its Officials – Former US Mayor Testifies Before Congress",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYl9BX1pCVDhVQ3o1YzVQOGtyVDFVcm95LTFSN0lGdVJSOVlJYTU0cTc2Q0RmNUdzQk94Tm9JVl9WdjdoT3RVZ0NvOFJqUnhoZWZRdXliRVVEY1NiQllHd0FTU3lGclVodURIVzhhMW1kZkxrUW5QZ2FYSmM3bEZNampJbktWejZGMVliR3cwQzhXUmhnaDI3ZHV6b0pObXJxWm5GUTlRWWw2OTZTZlhUQm9PVjlvQ0hJekRVN1YtaENkSEtsVVE?oc=5",
       "source": "Sahara Reporters",
@@ -237,13 +286,6 @@
       "source": "Blueprint Newspapers",
       "pubDate": "Fri, 24 Apr 2026 19:34:37 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Court martial for alleged Nigerian coup plotters: Military inaugurate general court martial to try 36 serving personnel ova alleged coup plot to overthrow Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kS0pGOHBnYnJ3N0dqcUVVRmNLM29BcUdXY2o4UUZDOWgzSXU1dlpUUG5YVVFPaFpLQWpacEZIaDFmVk9oMWhDUERKQ2FHaGVrU2tKblBtRF9hR0ha0gFiQVVfeXFMTWdzVVVGbWNvYm9vZUhkRWV2SkNtUE5YZV8xSUpKUHBfOHh5T3J5U1ZqTWZxSlk3ZnFNcGNtYlYzc292MzBiV091RDhjVlhJTmswYmhuYkdtZENpNkRMTDBBVmc?oc=5",
-      "source": "BBC",
-      "pubDate": "Fri, 24 Apr 2026 19:01:17 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria's security crisis: What's the way out?",
@@ -320,48 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXJoOEhtX1k3OHBUdnltM24zRnB0RWhDWHNPWWVHMlZqX3RENmxMaW94cU1PaXZJdi15TUFHWlBzODE5QmpQTnB3S0NKUE1sWDRTZ1FJYm9iSlRxQzVYR3BITGJBRjc2a0hzcnJDV2MxMkJ3cEJ6MXgzZFRPMDVzaU5HTFdkZnZVWWpLYQ?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 24 Apr 2026 08:37:11 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FG sets up committee to review security agencies – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3dORVJQN0hQMjRkRXVrUFM5MWZGaTBVM3ozdUtQc05QcFZib1Bpc0Z1OHFFbnFpTUZUUzVEX3pta25pYmljNy1SaWo0MGdqQmR5Q0RsX01yYXRTWmE1dUV0ZUJzQVpyRWtEZTRvT3hobWJGQkgtTGhyQUR2NC1nX3lQcnF1SEdKRGE1ZEZIYXFLZw?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Fri, 24 Apr 2026 08:22:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian elections: Insecurity, distrust driving voter apathy — Security experts, others",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmt3QWl5OGZvdHJHeGp0WHBWMlNjbGJfdzYtNlBDRDU4V2ttMW5CeGcwdW1falRYOElkc1RYcWkyUldxV1dvOWQtTzZ3cU10OU91Nk14dTRyY3VzWTlVbVFBOEFnUXAtR09IQ0dtSHBEc3pnc1ZXSkZ3RmhMVDRENzVDbnltOS1fVXo1WXNXYWxNaU1saXZ0OU1KbmQyV0dsR0IzSklFRG5YSlRfczhuSm9HalYwZ1k?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 24 Apr 2026 05:14:30 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FG moves to curb proliferation of security agencies",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkF5cVB4Zjhqc1JyMlR4b0xGdmt5anhuUVVGV052aUpRdUZ0MURwdS15OUk5UGlieGVDR0tzWkg5TVh6SkhHU1RPanFvMkhCMEVpT2ZuMjNQd21wbFpiVGpwZnY4WjM2MWxIYklDYlc0RC1INWhlWGJOSHQ1QnNmUmxOeVl6Nk9GbjRn?oc=5",
-      "source": "Nigerian NewsDirect",
-      "pubDate": "Fri, 24 Apr 2026 03:33:45 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Davido’s Father Donates N500m to Osun Security Trust Fund",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajFTUkFyUWROSzVRSVZHRGswcUZSNXhwUnJRTmQzT1BJUEY1cmlLc0NGYVc3d3U1MlFBUXV3Q1hNbGlCS25WdEFrNThadHhaZXZ4azdWTlJZVXdZM0VkcVFhcWhuNFpGVW5kVFFlMlF2NzRyTUpjS3lZNjhhUHhodXZGc0F4YjVCcE0tSllsS2Rvdw?oc=5",
-      "source": "Opinion Nigeria",
-      "pubDate": "Fri, 24 Apr 2026 03:04:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, EU to deepen cooperation in trade, security, others –Minister",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVpEa1VtdC1MTmhBSkxvUHp3Qy1CN0w5TVBJRVkwcjdUMFRaOHhURXhCLWpjb0h5bHk5RGQ1NVU5VThRTlVRajQtTkxfVmpWMVBSOTU1RElLdVRrVHlpaEJNSm5jM1hrYTNJNENDQ1JFejZkRkxPS3BHS2k0Mkh0WkdmbElGU3hFUXdVWFVB0gGTAUFVX3lxTE5oYTEtdURNVW10RTVwUm9XZThmbXlGZVVHMHllRktyT29UVWZLNlZhRE45aUVLT1FwZGtRd2ZuOG1ucGl0QXZpcm1MU1ZEVVZjcE54UWdDVXBHYmFNRFBBVVVrUDhpRU9fbkM5YnZ1bGhpZWlLT25HZndHVU5XbjBiTmM2Y0Ryb1dlbGhNanh6VFpyOA?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Thu, 23 Apr 2026 23:52:37 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria, EU To Deepen Partnership In Security, Trade, Others",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXhRNXdlMWFxdVMtblFxZFJMUGwzeUswTWhxTlJFNlc0WDJvNk81elRvcEcwN0l6VWFyUTV1aUM2ZGJQZGVBTWVxNVVtVF9TSmhtT1ZENENTejBDNkNBZW9wbkVSMHlUYks5YU91OEQ1WlRuNXl2RVlaNXlUelB6Y0Rnaw?oc=5",
-      "source": "thefact.ng",
-      "pubDate": "Thu, 23 Apr 2026 20:04:42 GMT",
       "category": "Security News"
     }
   ]
