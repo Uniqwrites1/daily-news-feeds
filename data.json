@@ -1,19 +1,68 @@
 {
-  "timestamp": "2026-04-27T21:26:37.452Z",
-  "generatedAt": "27/04/2026, 22:26:37",
-  "totalHeadlines": 173,
+  "timestamp": "2026-04-28T00:48:22.284Z",
+  "generatedAt": "28/04/2026, 01:48:22",
+  "totalHeadlines": 177,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 122,
-    "Law Enforcement": 6,
-    "Military/Security Operations": 8,
-    "Insurgency": 4,
-    "Armed Conflict": 17,
-    "Banditry": 7,
-    "Traffic": 7,
-    "Kidnapping": 2
+    "Security News": 124,
+    "Law Enforcement": 5,
+    "Military/Security Operations": 10,
+    "Insurgency": 5,
+    "Armed Conflict": 18,
+    "Banditry": 6,
+    "Traffic": 8,
+    "Kidnapping": 1
   },
   "headlines": [
+    {
+      "title": "AI reduces Nigeria’s media traffic by 26% – Report",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxOE1hOXA3NG04T0x5R2IwM1lsWk5IRjQtUDVUSjZwaXJyT19kSThqWkxVOFBHbEtvQ0RPM3ZzTlVTazB0R2JiaGU4RENFZ0RuZU5TU2NKdkVfNDE3TlNQUktJbWtkOERidFM2ZkVleTFZdzNJRHc?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Mon, 27 Apr 2026 23:40:59 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjBRRDN1ZmpkMGFnRHR1bFluSldRSmFFeTFwYlFOWWdPOGgzVGFobVB4QUtwbWt6N0x2eXI0SFJTM3dlWE1mbXNKUl8wNlFMci00WUtkM1dvVTZCREFYU01PUDVIYmZHWWxyOGZHME1tV1pWWTVBNF93cmI0TXRhNU1zb0hPbFh2TGhPaGtmN1UyV1d0SURXdkd0aklxTWRHSVMxbjNLSnFtcklBZ0tMdlpOLWxmOVNXQXVfanZlTU4?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Mon, 27 Apr 2026 22:57:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Fintiri says 29 killed in Adamawa football pitch attack",
+      "link": "https://www.vanguardngr.com/2026/04/fintiri-says-29-killed-in-adamawa-football-pitch-attack/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 27 Apr 2026 22:32:52 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Lagos govt dismisses claims on Sheraton Bridge traffic restrictions",
+      "link": "https://www.vanguardngr.com/2026/04/lagos-govt-dismisses-claims-on-sheraton-bridge-traffic-restrictions/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 27 Apr 2026 22:25:32 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Xenophobia: Two Nigerians killed in South Africa",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1JtcWZtRWpRQ29sa1JUM3dLNUVkMFZXRnRJc2duNXFuVm1jdEVoSm9IYVdLUGhseFJWT3F4MWpadUhUS2piX1N4dHhQVVluWXotUjV3MVhtdC1FMzlLQ2QyMDZKaldkTmkySEtWb1loT3ZWRHI4QXc1WEtfeGVsSmhyVEJ6QlJrOUtzNm5oc3h6NmpuT3cyR0lkcXh1U0QzOUJTdUV0LUw?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 27 Apr 2026 22:25:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ghana military convoy attacked, three civilians killed",
+      "link": "https://www.vanguardngr.com/2026/04/ghana-military-convoy-attacked-three-civilians-killed/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 27 Apr 2026 22:13:44 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Seven feared dead, several injured as armed men attack Benue border community",
+      "link": "https://www.vanguardngr.com/2026/04/seven-feared-dead-several-injured-as-armed-men-attack-benue-border-community/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 27 Apr 2026 21:40:48 +0000",
+      "category": "Armed Conflict"
+    },
     {
       "title": "die in Katsina village bandit attack",
       "link": "https://www.vanguardngr.com/2026/04/11-die-in-katsina-village-bandit-attack/",
@@ -29,18 +78,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigeria: 69 Civilians Killed, 40 Abducted in One Week of Nationwide Attacks",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2V0LXFKM3c5OTRJYXNteWkwV0E5OGpFakxIZldhb2hRTEcwczJJb3g0MG1WYWcyTEZNRHI2dGR0SGRDQnpfeGVEMTF3WHppNmdKUFEyLVZLcGZlVGlua21zdGg4QWFEM0l6M3FYVU5qSThxQ0NHc0ZQUkJhY3ZDV1R6U01pMU9taVdrRXMyVXpqVmxlNHNNZldHZC1WNzd3ck1BUmJ6cDZMRGs?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Mon, 27 Apr 2026 20:35:20 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Nigeria’s military backs local startup unveiling drones, mine-clearing vehicles",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm9IbzMwbTBZMWUwVDFhNFhNX0RiQVN0QUFobmRzWk9KQ0VCd1dhTVlQZzZEMnprb29oZDdqSVNaeWFzODhaMFptbVJLekRNRE44Y2F5UXpSTmEzTzdNYXRIaVd4cHNFN0Q5ckNudnl3VHN4OHpKbUx0bXBiSklGMG94X3FpMjRjdEhMcVltX1V1VlBpbU9pTmx1NGFTZnV4WEFmc200U0hqMVlqMUpmdmRWYWZ2Y0EySnFULU9xcVZVWVBh?oc=5",
+      "title": "Islamic State claims responsibility for attack that killed dozens in Nigeria's Adamawa state",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdm5lU0NkbzBrbVY0ckNTeUcyc2tvX0pLMU0xQjNPYW9WX3NoRXFUUzJERkt4R1F1a3hTTDI2OV9uQkNQSVNHOVp5WU9DRkVETndQdnVfNFFJQnd0TnByaUUwWHFmbTJ5THFuT2hycExBdWpZOGRzUHNwaU10OU96blBMcm5rWFJwaHE3eThfUnh0MnYyckhCM2p1Z19wcl83X0RGYmt5LUY0M2NjT3ZNYUExZ3JGVVpIZk8taEdZcHVtN0thM0E?oc=5",
       "source": "Reuters",
-      "pubDate": "Mon, 27 Apr 2026 20:34:55 GMT",
-      "category": "Security News"
+      "pubDate": "Mon, 27 Apr 2026 19:55:29 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria Police Arrest Four Banditry Suspects in Kaduna",
@@ -57,20 +99,6 @@
       "category": "Security News"
     },
     {
-      "title": "Xenophobia: Two Nigerians killed in South Africa",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TlY2QzlzUUd6VmlEQ25QN0o0TkRlQ3Vya0lqdWNfNVhlcFNFZ2xJYmJvQVlXbm84YUVMQUl4SGxOQTNzUVlZdDlpMGZ6MzBNZ2ROY3ZfLTJqNkJYSmRXS3d6U055c1V6TjJmTTEzcEN3ZDJSMFprdVE4dw?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Mon, 27 Apr 2026 18:50:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "White House blames ‘left-wing cult of hatred’ for Trump dinner shooting",
-      "link": "https://www.vanguardngr.com/2026/04/white-house-blames-left-wing-cult-of-hatred-for-trump-dinner-shooting/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 27 Apr 2026 18:09:24 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "ANALYSIS: Rising Insecurity Raises Questions Over Effectiveness of Nigeria’s NIN-SIM Policy",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWkNCMnNOdmthQzFLOFY0M25McF9tT1JUblZFNHYtLXRfZFM5Zi1UZVRtcmw4dUdzUHB6TFhHekgtOE44bW42MnFtcjNSMkd2NFJwSU1pWnEwbnJ1bGVfRUZRSW1paW44?oc=5",
       "source": "PRNigeria News",
@@ -78,25 +106,11 @@
       "category": "Security News"
     },
     {
-      "title": "Kefas commissions 5km Ibi–Nwonyo road",
-      "link": "https://www.vanguardngr.com/2026/04/kefas-commissions-5km-ibi-nwonyo-road/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Mon, 27 Apr 2026 16:58:00 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Defection without consequence: A threat to Nigeria’s democratic integrity",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3FpcVJFOWtDaHZ1TkcycnNiQkl3cmZFZzROTVY5N1VrLXBhOW5OT25USV9EeDR3UUtKcVFEaEVRWkcwRFQ3OGhYNmpRcURuTEZ0N2Z2VExXUUY4R0tlLUMteU1mMmtTaUx5SUxQbzRUMTd0X0hjbVFBdWhOanBSVmZqd2VzOUI0aE82dkNoWTRMakhKQXJKSmdiV2U?oc=5",
       "source": "TheCable",
       "pubDate": "Mon, 27 Apr 2026 16:44:59 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigerians in South Africa Urge Action on Xenophobic Attacks",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTl5VDZHcmNQMGM2emN2SnFhUkE5X0NlOVRlaDRvMkNKOVZtMW1SeExzdlROU18yTVlacUNEVVlELWUzVXQyQ1FBSTAyN2dCdGpNZ0J0YlJqYWRDTS01UDZrNTdsZDJpTG9RVkNWbW9xdkg2TUF0U0JSVGYwOGpKX0RKQXRYZw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Mon, 27 Apr 2026 16:28:56 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Attract Investments, Rebrand Nigeria Abroad, Tinubu Tells New Envoys",
@@ -148,13 +162,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Police Arrest Four Suspected Bandits, Recover Four AK-47s",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckZTOWpiM2RrN1h5THlZWXkxSGxCWU9EWjl6VzBPWHJKWVBOaXVhYWllaHlpMkFFV2dHd0JfbVdicjN6dHM2VVpNZnc2MGFPSVpNLWl4VVJqamg2RHZFc1h2RXNHQnNtMHdLaXh3NURfWUwyLXpSMDdaaVBHWXlFZ2JwQU1VU0U2dDNFVHdwVWNCUQ?oc=5",
-      "source": "TVC News",
-      "pubDate": "Mon, 27 Apr 2026 12:57:00 GMT",
-      "category": "Banditry"
-    },
-    {
       "title": "NYSC Restates Commitment to Safety, Security of Corps Members",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObks2OXhTaHNFVExKNUlsUTFYcUxYRmpZTjJMNDV2MV9qOXRRbEd1ZkJ4WWZxRUdfbUlKMGVxTFNpeWxNNlZMVDNxOHRWNTlPdlp2bjJtMUM1elFvTXVYYnc4QlV5RV9ua3dnWW90U0RUNkFCX3Z4MWxFb1lMeTNJQkNycXpJaE0?oc=5",
       "source": "Voice of Nigeria",
@@ -181,13 +188,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Mon, 27 Apr 2026 12:00:07 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "NiDCOM Warns Nigerians Against Fake Jobs Abroad",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XSmZPbVl0dVdsRG5HRWZRX0ZIbDNMUDAyT25VZEZHUFpBbE1sNWZFNmtyN3dkSTBZVkZsc205eFBjaHBCbF9zY2taRFJLQTdodVp0V0RVQkExQ1VTdjlvRDZOVmNzN05RbVVBZUFnWDQzdzNzOFE?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Mon, 27 Apr 2026 09:48:18 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Underfunding, Weak Systems Threatening Nigeria’s Food, Health Security — Association",
@@ -351,17 +351,17 @@
       "category": "Security News"
     },
     {
-      "title": "Buratai calls for collective action to tackle Nigeria’s security challenges",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmtKX3U3OHhfZFVoZTh3XzVTWjdWemdBdTR5YVZxUjlSQ0YxNzhwMlhWWGY2X05VQ0tSTUtTZDVucDB0dTZuZnhLeGhoTFpFaWc0VTA3ZnZmdGJOZVF4RkNFTDZLbDluLVdoWkhJZEZCMXZJbnBFN0ViTWx3SXFHZUZwSDA5b0dIOEkyOGtBMHlKSzFVZEMwRVN6QTVxQXhraVo3bkRIcWzSAa4BQVVfeXFMTW10Vm9NSE5QRFVNbXZxRmlpOExydWVnWFhfMjdMMUZWSnBORzNYU1FDeXV4dTduNHV5QWI4NUpBSVRtYUtXdE9rTEpJZGg4UFFOT19HY3dmeGh6YXliSVRkd2pLaGl1cjdueVpNNXJidWdkUWliWjJDbG9iYmNtQWsybkZRYy1Qb0xxY0NQX0l1WTBzeGJZN1lMZ2JYdVByY0tpemNtb3JGcldRUGhR?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sat, 18 Apr 2026 07:00:00 GMT",
+      "title": "Ballooning budgets and the urgent need to restructure Nigeria’s security architecture, By Umar Yakubu",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1pCeW1QbDFlT2ZCa3R6N2RTc0dDSDJKdDFRaUN0SmxQSDdiRXRIWFcweXBOYmhVZWR2WEdjTE96NlE1akFpTFY0V0hLRV9pNWg1am9BRThuWTd5MVM5czVLUUdFS0M5SEdPQW9DSXZDUktzLXJJbFZZMUJrNVE4U0ZQSzYtMjZCck5XWFNCMkJVNmRkT0t1cEx3LVNxMGJudTlOQ0ZsSmtuU19OUW5kekxFTXBsdmtmb08tTzUzeUtoYXFxYThOUmVsSEJ0aFNhOXpiOVc4bVFjYldZUXg4V0l0OVA?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Tue, 21 Apr 2026 08:48:08 GMT",
       "category": "Security News"
     },
     {
-      "title": "Nigerian groups warn against foreign interference in security matters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmh3c3M2UVV1SkFNSnUxZy1mQThJbm5VZk8zZEhNVkxrbndPc3NIQkVCNEdIcElZVTZaQmVmeGJCTU91NWFBQzYxQWNLSEZseHplTDYzUFlpT1ExQWIxRzQyaFVBMkVpVmJKYXJfX25ya016cFBHXzBUbG1sUFRTSU90eVU2b3NCb1lBeUd5dkxVTmNtVVBTNFhpa09LaGdRQzNySnVhYjJmd9IBrwFBVV95cUxNcjk1QUFTek9EWE5qM3pVVVBsZ2pYNDZqMkxVTXhpREMxYWVvOXE0cUR0WXVqc0ZoQnJxRnBnMkdtYWZPQldNb2FTY3BiTk9ncHM0MjRYaHlLUmhkWnpjeTFza0tBRm15YWU4YXA1ZmhtREhIVjV3QXBBNVBiTU13bTZWcmZTWmN5YlVxbjgtdkNNWXBjNWE2TzNORlRBOXcyMDFHam53LWtOZkdwal9z?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "title": "Drug abuse a threat to Nigeria’s security, says Marwa",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON1NGUmpIZHUxX0h6bGl1M3RBaXBqZnJYTk9jcU42OGQtbmw4NjVzWXZkdTJXZkMxZkhOS3FFZTY0SEw0MENUUVZWd1ZuQm9tb0VhLU40XzAwT3g0SldtdVJCc0VoOWZoSlhhYXBqTGJERU5Ga3ZEbTJsRGFJUmwzMWhR?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sun, 19 Apr 2026 11:16:00 GMT",
       "category": "Security News"
     }
   ]
