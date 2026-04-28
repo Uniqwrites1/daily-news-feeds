@@ -1,25 +1,88 @@
 {
-  "timestamp": "2026-04-28T15:52:02.369Z",
-  "generatedAt": "28/04/2026, 16:52:02",
-  "totalHeadlines": 187,
+  "timestamp": "2026-04-28T18:37:59.966Z",
+  "generatedAt": "28/04/2026, 19:37:59",
+  "totalHeadlines": 180,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 139,
-    "Armed Conflict": 16,
+    "Security News": 127,
+    "Armed Conflict": 19,
+    "Kidnapping": 3,
     "Law Enforcement": 6,
     "Insurgency": 6,
-    "Military/Security Operations": 8,
+    "Military/Security Operations": 9,
     "Banditry": 4,
-    "Kidnapping": 4,
-    "Traffic": 4
+    "Traffic": 6
   },
   "headlines": [
     {
-      "title": "Petition seeking withdrawal of Deputy Speaker’s law school certificate dead on arrival – Legal Team",
-      "link": "https://www.vanguardngr.com/2026/04/petition-seeking-withdrawal-of-deputy-speakers-law-school-certificate-dead-on-arrival-legal-team/",
-      "source": "Nwafor",
-      "pubDate": "Tue, 28 Apr 2026 15:28:56 +0000",
+      "title": "Man pleads guilty to plotting attack on Taylor Swift concert",
+      "link": "https://www.vanguardngr.com/2026/04/man-pleads-guilty-to-plotting-attack-on-taylor-swift-concert/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Tue, 28 Apr 2026 18:32:05 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Institute Seeks Mediation Training for Veterans to Boost Security",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHd0VEUzZk9ncXh3VWd3NXByNmc5WUtua2JrbUpDaHg0VnJfa0pGb2p6bjdvNkZQbHR6aXp1WWNaWmFoY0IwQ0JidVFsSkpQZDUyaGVQZG9hY2dKRXVwQVl6VElXTHB2U2FKaHpUN21NZml6UlpNbGotNHVFUGloWS1XQTh6bzlBcDRRejVn?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Tue, 28 Apr 2026 18:19:02 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Ghana, Nigeria demand safety for citizens as xenophobic violence in South Africa escalates",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOak15ZWt4VDAyXzBKTmdyamtTbG03RUxwU3lRMGpqNGhRV1pQWEFaRmFrdFB4WFVxZzVRa2d1RlhmaU40WloxMFNsWVhEZzNHSVgwVUJxNnJkTVQ1ZWdLR2JSTVA4cWxMQlpabW1KN3pzQUxTdi1KMHlReVJoNnRadXFfSHpjQk9WR0Q1RHJ5REtIdzZLUVVMb2U4eTBXTUhyNUtBZnROSUF1MlE5bENXODhnUzlTdlVBM1lFaFhIZlNCRFF0allWWnJpeUVIOHhu?oc=5",
+      "source": "GBC Ghana Online",
+      "pubDate": "Tue, 28 Apr 2026 17:46:15 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Joint Security Forces Intensify Search for Kidnapped Vigilante Leader in Rivers",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYTIxUTNtelFWLThVTnZxSTJoQTdkLXVVcl83ZEZlenZLWjlueVN5VnB4RVVrVEFQZERuaHR0RVQxYk9fRWVzcEU1TFVuTi1jel93WFRZemFoVkZuOVlHZENHbVlNRW5tY2UxMjZSVWpOWkpmMkJQS2xyRWxGdFZhY0xKc2l5MWIzZ3FPVVlhcHZkR3NuOWI1LTNKR0ExOGZlZ1NHcEJ3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 28 Apr 2026 17:29:10 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Abba Yusuf: Some unpatriotic Nigerians exploiting insecurity for political gain",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVc0NFBVU21xUmZQSGVBeXhqREFoQk1GeE04andGTnMtQ3F2QUh4TFdvOEpMaWp1UWdway1QU3B0WWYyYTZJRTh3czRXT19yeHR4SkRYWE54c0c0dnk1UGFHTjF6V3pwcGFMSklFSE90MWlEemx4V1FlRmNiYnZCMjlGQ1loZ3EwemtIYmIzbWw1b1pvbjN3YUt5Z05jT1c3VWdLS0RR?oc=5",
+      "source": "TheCable",
+      "pubDate": "Tue, 28 Apr 2026 17:17:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Death of ‘Tear Rubber’: Nigerians dump new goods as pre-loved market jumps 97%",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3FMVVkwTlZTOGF3eDlrcGU4aExfa015eGZqOGkzYTc3SF9MNk4yQXpwWWNSdG5aZHJQV1AwVlJZY09ZTnFmaXZtcDJRYUYxWGRpSEE2UUM2SEJyWXcwSWJmVkthb0lkNzlYdWloLXRBNkhhcHJ0VU15RUFIck54TTc2UWxRZmc0SXdScnpjV09lU3Q0Y0YyMm1JR1lta01xVWZPcWQ3UW4tODdpQWZxQ0ZDVnZmeGFB?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Tue, 28 Apr 2026 17:15:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ododo Commissions NSCDC Projects in Kogi, Reaffirms Security Commitment",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczlEanNXZGJxaFE5clo0d2N4b0NfUm95elh6NlNXaVV3d1Z1ODF4b0lRRk5qR1Jlbi1ZalJCeDZ2eUIya1VyVWNmUFEwOWVfbldWT2RXa1FlNVQ1TXBDNVZ0MUlHR3BmTUptazFpdHFYeWF0WmhNb0hzdFo3dEc1SWNYeHJBT3ZBVWVyN3FfR2VFTHBlOENOX3BxZUY?oc=5",
+      "source": "Kogi State Government",
+      "pubDate": "Tue, 28 Apr 2026 16:55:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Navy Arrests Suspected Pipeline Vandals in Bayelsa",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXVqRjJqcUJvcVNsdzc3MFNoVTdNNy00VWtpenNjUmhyUmtFS0lHaUNOZVBjcG9hUEY5Y015dzkyVEVnQ3YtQUwxNWh2bFFMWGVDazRWUlpDTThLakpyR0pRRE5DR1lSQ3AwN3pETzJVUm5VWUctVi1VeVFHT3p2UHFrY1hGbGVtTmNGRzZvNmhlc1RLRXZ2VGR3UFA0bWhVclR1TG1PeFV6MER6amhuWnl3?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Tue, 28 Apr 2026 16:47:55 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "South Africa protest against migrants: Demonstration start as recent xenophobic attacks lead to death of two Nigerians",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMDJiUUZkY0diemstb0FMOWpSYnA5U1dDX3J3M1JUYWpudS1VVG5LUEpON3pBRmxRMkU1UkFSNzl4ZzBwOFNpUE1tWlMtcUV2bFc4YzRSR1ZnZGct0gFiQVVfeXFMUGozc3psd3ZUeXF1ZVZFQUQzOEpMeVJEUE1RNnVNRm51aUhlZEFOcEhKcUFsSUFMeFZEWDJidVVtM2Z0TmhJZE9NS05MMEhCRU9hODdpcFdTblBqR0VmMDRPOVE?oc=5",
+      "source": "BBC",
+      "pubDate": "Tue, 28 Apr 2026 16:25:13 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "IS says it was behind deadly Nigeria attack on football pitch",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82WWJlMWo4NWJvQ000MllzOUE1YWNjNVBqVjRicjZrUVdZd1Y0TEpZR0lwVWI2cjE4dV90ejRRLVJ6X2daQ3hBc1dXVjRUWnNsSm1CaXd6ZmthZw?oc=5",
+      "source": "BBC",
+      "pubDate": "Tue, 28 Apr 2026 15:31:46 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria’s Broadband Expansion At Risk Amid Weak Infrastructure — Stakeholders",
@@ -29,38 +92,10 @@
       "category": "Traffic"
     },
     {
-      "title": "Uganda arrests 231 illegal immigrants, including 62 Nigerians",
-      "link": "https://www.vanguardngr.com/2026/04/uganda-arrests-231-illegal-immigrants-including-62-nigerians/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Tue, 28 Apr 2026 15:08:37 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Inconclusive negotiation: SSANU threatens to shut down universities Friday",
-      "link": "https://www.vanguardngr.com/2026/04/inconclusive-negotiation-ssanu-threatens-to-shut-down-universities-friday/",
-      "source": "Henry Oduah",
-      "pubDate": "Tue, 28 Apr 2026 15:00:48 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria does not yet have what it takes to reintegrate terrorists",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjBRWnhfQlNJS1F0MDhuYmxaeVRyU3prb1NfUlVmT1VzUVZHRWJKcmxxZlRHU0x3c205d0x4WVMwTFRzUFYteWJKclM1UENEekgzMWJVaGpRRGw3TFBxQnRyOGxzdkgxNjBxN3dZMS1uY1F2RDZVN21mUUczbzJzRWREaDhZcWdxcUpLeTlUM2ROMFhBV09naUtVYXdkQjc1R3Fr?oc=5",
       "source": "Business News Nigeria",
       "pubDate": "Tue, 28 Apr 2026 14:33:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Mompha: Court closes defence’s case in alleged N6bn money laundering",
-      "link": "https://www.vanguardngr.com/2026/04/mompha-court-closes-defences-case-in-alleged-n6bn-money-laundering/",
-      "source": "Oboh",
-      "pubDate": "Tue, 28 Apr 2026 14:30:31 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian States Told To Replicate Enugu's Security Architecture",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGg1OHZNNWdPMjZOck9PTkZhS1FWanNCZDZldXpDdV9PUG1neHdzXzdycWtlNGdhbVp2VjJoWmtnajVRUjBHR21kRjcxMnViV2ZwMUd6UkVEcmNWQnBOY3h5NTI1T0dfX0dWTmF6LTBjUVBvNzRENnd3WkJWT2VtNENtZ09OX0xoMmlUNzZETdIBlAFBVV95cUxNOWM0R1p0cTIxc1VWb1dWS2IxZlY5alRmbEk4R2xFcm81c1N3TkpkQ1RZaXNxNDZBZjFjLXZoTmp6cnFtRk1ScFNTVzlSVF9vdjhnRlE3bmUzbFZybU5YMXRaQ3BmeThpUmI3T3JfeHZuYW5HSnI3ZlBsVjBpaTBMRGROXzR3dWh0MjFsM2w2cnJPeVNO?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Tue, 28 Apr 2026 14:12:40 GMT",
       "category": "Security News"
     },
     {
@@ -69,13 +104,6 @@
       "source": "Pulse Nigeria",
       "pubDate": "Tue, 28 Apr 2026 13:25:29 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "South Africa protest against foreigners: Anti-migrants demonstration start as recent xenophobic attacks lead to death of two Nigerians",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMDJiUUZkY0diemstb0FMOWpSYnA5U1dDX3J3M1JUYWpudS1VVG5LUEpON3pBRmxRMkU1UkFSNzl4ZzBwOFNpUE1tWlMtcUV2bFc4YzRSR1ZnZGct0gFiQVVfeXFMUGozc3psd3ZUeXF1ZVZFQUQzOEpMeVJEUE1RNnVNRm51aUhlZEFOcEhKcUFsSUFMeFZEWDJidVVtM2Z0TmhJZE9NS05MMEhCRU9hODdpcFdTblBqR0VmMDRPOVE?oc=5",
-      "source": "BBC",
-      "pubDate": "Tue, 28 Apr 2026 13:14:25 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria's leader battles security, political crises",
@@ -106,6 +134,13 @@
       "category": "Security News"
     },
     {
+      "title": "Insecurity: Experts Urges regulation of vigilante groups, warn against erosion of civil liberties",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODRYT1JIQnhhNHkwd09fN0p3S0d5RkF4c24ySk5aTHM4MWRjTzdPUjJpR0ZOQnhQcVREbmFOM0VnbTFJa2hRdTBtT3RnV1RsWW8tZE96S1lKcF83QmVDb1BlcDRhLUNoM2gxVVhQNjJPU1dJei1VMGM2eERvWXpxcVlua05mYXpjVzN4dnVYVDh1QmsyX1lpYmpoV0hrZ2ZqTnZqakQtdkRKQW5JU0plSHV3NklsdHQ2dGJ1QTJR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 28 Apr 2026 11:49:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "LG autonomy ‘ll stem security challenges in Nigeria – Tofowomo",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdXpHbUxNT2QtSEQtVDJENFg5M0tDcGxfZ2hGb2VRSmU4LU9rMWo3U3VMNnVuN1ExLWZVOVdKY0hKcDg5TFpmRHAzaWQwRFlRVDd4bVFtLWVtR0VhOXZORHJfemxDSTloUHctVnpqcExLU1d1TmZhenBTOGsycDZCQXVHV2ppYklrTXFCQTVYTmtyRzk5MTVqNVVrUzd5MUpRTk8w?oc=5",
       "source": "The Nigerian Observer",
@@ -118,13 +153,6 @@
       "source": "PRNigeria News",
       "pubDate": "Tue, 28 Apr 2026 11:29:48 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "Insecurity: Experts Urges regulation of vigilante groups, warn against erosion of civil liberties",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODRYT1JIQnhhNHkwd09fN0p3S0d5RkF4c24ySk5aTHM4MWRjTzdPUjJpR0ZOQnhQcVREbmFOM0VnbTFJa2hRdTBtT3RnV1RsWW8tZE96S1lKcF83QmVDb1BlcDRhLUNoM2gxVVhQNjJPU1dJei1VMGM2eERvWXpxcVlua05mYXpjVzN4dnVYVDh1QmsyX1lpYmpoV0hrZ2ZqTnZqakQtdkRKQW5JU0plSHV3NklsdHQ2dGJ1QTJR?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 28 Apr 2026 11:08:21 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria, Malaysia begin talks on Customs cooperation",
@@ -141,25 +169,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "AI Reshapes News Consumption As Nigeria’s Traffic Falls 26.2%",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEtjLWdMd1gzNzRmb3laZ1pmd0RNSHBWZ2NhSzNMZWN6dUdXTkk2YlZQVEtZWmZycDktZU10TktVRU5TQnJOdHgzTXM1NEtlSVlPQVItbFh6T3VTZzNoeXhQOXFVd0YwaC15elB4OWxNZ1VnZkMwVU1KVjZrSGFXaHB0Wm9vdHJHWGc?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 28 Apr 2026 09:21:01 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Nigeria Security Forces Rescue 15 Children After Orphanage Attack",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Tdm9pNlhod09PaWpkdkF6VVZ0VE9jbUZOcXJHWEcwUlIzaHV0NEdWdDJnR2EwUWVRY2pESE5jZU5hUksxUjBSYkh2TVBxT3F3TDhZcU81S29oWnhxeXE5ZXdFX0VaSjFuY3Vz?oc=5",
       "source": "allAfrica.com",
       "pubDate": "Tue, 28 Apr 2026 08:07:47 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria Records Zero Piracy In 4 Years, Plans Deep Blue Expansion",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXd2S2t6TWdqZV9BUGdIa09CYjJHZkh6ZkxkdFJ4aE9EQjcweEdhLVgzQXZRR2ZmcG1zS1NTV0dXVmZUQlppZXR0Vko1NVZkNzNnQ0lDV2ZMQ0FVSDF4OWk5YmpVNmVLSEJMcHRtc3VaOWhUX1NkNzNBbFozWm1fX0xoSUdLVjNubkpmTVoxTDA?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 28 Apr 2026 07:37:58 GMT",
-      "category": "Security News"
     },
     {
       "title": "Waltersmith Doubles Refinery Output To 10,000 BPD, Strengthening Nigeria’s Energy Security",
@@ -190,13 +204,6 @@
       "category": "Security News"
     },
     {
-      "title": "Gunmen kill 29 on Nigeria soccer pitch",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wbkRjYld5VUhxM1BYcllSUjJVeTNKMWd0QU5ZNUJrVG1FY0tyb3BoS1h3bjE4eVpOeXBsWXJoWDFuOFVqSUNLMFNQUEdJa1VjUi1FWkxFc1dUem8xMU1GVmxfQzJ3SmtTX1hOUVV6ZF9DZHo1aXFNY3RRVdIBiwFBVV95cUxPN0xURGliaUg5UE5fbG9hWG9mOFFSLTI2QVBjZUpfTE93RmNzVXVucDJFaGFZbENXcEhmU194X2U1TDdlZWdPd01GZTBuemlSUFZtSnhtbklXckh6RUpkMEw3QV93VHlaYmRZTkhaWW1kMXdpLWJjcHNJTlVCNXp4a09UXy1rSFJJamN3?oc=5",
-      "source": "24 News HD",
-      "pubDate": "Tue, 28 Apr 2026 06:38:59 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Institute Seeks Deployment Of Military Veterans For Security",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVS0xMDlxSGpkQzNrNGVDUmo0aFM4T09md1hKZUdFelBSVEVTOTQ0andGeTdfaHJaeFg5T21zamZid0sxcjBFQW9ITHlPYTd3eXA5Tk9BaFlJUGtSZEdhLXMzNS14dkJyOUNyWGY1U1prQ0tPei1SWExsaVM1a0dLcmxXaGdINVFQeVR3?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -211,24 +218,17 @@
       "category": "Security News"
     },
     {
-      "title": "Islamic State militants kill at least 29 in Nigeria amid escalating security crisis",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekZJZkNmSERzMVZsZmdqNTZSZUtHeU02Wk84dkJWNWtKbm9ONlE5R3FBeEJISTNvNTB2NkFQLWE5SENSRFJnUk5nN2hLZDY2aVRZUzBwVHIta2ZLSUtLZnBWMGlxWWRncmtqRm12elowTkZqcEEtcEpheW1TQTdHeXpvRTI4TGVPSl9MY0pyd1ZfUWhqcWxVc25PRjdWaERZYzM4aE1HWnI0UjF2RFRXOVZBbFdsLUlYNFgzRklfSWRuV1RNcTY2ZnhzRHdaZ9IB0wFBVV95cUxPVDFuUC0xREVWWFRXTnJvbEUyVWpYejk0Q2s0YkRNR3VlZGVuZjNLb2luQ3lIWDJSNFVJY0hGRmZPd2FfVTQxUzBwWHpickx1dmltVW9hVE9xczJWUzFlUEF4eXRDQUdSN1FtMjR5OHhWajIwNkFYNWExckF1SjJFTW1GR3p2Mko0R29hbXFpMHZoYVo3ZEVRY2Y0NHV3REotOXhqN2l3cEh3dVVwaWtuSWJ4N0xkT1JITlllcGlKUjRaZUU1dTdMSUlhbURHYXRheWtZ?oc=5",
-      "source": "theweek.in",
-      "pubDate": "Tue, 28 Apr 2026 03:36:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "IS says it was behind deadly Nigeria attack on football pitch",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82WWJlMWo4NWJvQ000MllzOUE1YWNjNVBqVjRicjZrUVdZd1Y0TEpZR0lwVWI2cjE4dV90ejRRLVJ6X2daQ3hBc1dXVjRUWnNsSm1CaXd6ZmthZw?oc=5",
-      "source": "BBC",
-      "pubDate": "Tue, 28 Apr 2026 03:28:48 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Gunmen kill at least 29 in Nigeria’s Adamawa state amid rising threats",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG5mbFplNTJkRERaN1g1OUs3bWItTFRDUmVibFpjbzFQNnZnS2ZKVGRVXzBUNW5fcDV0aFVZZENobkR3dzVEeDFESkVlcWZxUkgxaDF4Y1ZSa2k0Q19vV3g2b2d6c1hiamh4TXFiZjU4LUR0ZTZCU1ZmS2ZQLTVsU0VzWFhWbHRhak9oWDRwVmNBbUxpVklpUV9veF9hc3RFUjZHVllUQ2x6cjEwMXB1ekJjcHNLWXJNRGpGZ9IBwgFBVV95cUxOUFY4TV9xbmlfZFhyOGZ5SHl1MkV1Q1JhZktkYjJlNjhjNlEtZnh3VjZuV1hpXzVsVUlRMUlSMUstS0ZadFdjcFh3RndoZGtqR1JsYU84TkJVdERpVXBKRm9zYUlScXE5ZmxRYWtEUzhFVERPZWl4emFCWE9IS29DT1h3Rkk5NmE3VjFhYngyQW80YWI4REZKR1puVlRNeDEtSm1lOTc0bFI1WDJJbG1iRWhaeDBfN0ZpYVpkUTRncVVHZw?oc=5",
       "source": "Firstpost",
       "pubDate": "Tue, 28 Apr 2026 03:06:06 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "S’Africa: FG demands protection after two Nigerians killed",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmtUV0hESGsyM2wxZ0JNNjVZR3JTQnVMM1lISzJrcHNDZUczVWU0NHNnOW96SmtYZHpMNVFZUXN5RDZfeE9SOWd3Zml0Xy1WV2w5MWRZQTRCOVdVZHgybzNCejdOZW5rYmgxNzFyWmxmNWpHby1VNFcxTkFDMEFESkNCbw?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Tue, 28 Apr 2026 01:37:39 GMT",
       "category": "Security News"
     },
     {
@@ -309,13 +309,6 @@
       "category": "Security News"
     },
     {
-      "title": "Beyond Force: Why Infrastructure Must Sit at the Heart of Nigeria’s Security Strategy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGRWdF83SHNxM2JaOGNMX2tCamdhQnI1b1NtNjJEUjdTYXFkVDBjQnFtTThPMk1mMTYwQmZMcG1VVkpRUjFDcVFjUWdlcjQzNkJNelZBUWpEUEtsZ1ZWOE1sSVMtYUZpWWJmcThNYzU1eWc3X3BsU1Y4QzdyOUVvTDh2YVdxMWVjR1lydUJFY29iZF81Zk9NTjM3OU0zakFPODNPUjlUMmc3NjVWUkNQalo1b19FS0x6N2VPMW1ITHI?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Mon, 27 Apr 2026 08:22:22 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Underfunding, Weak Systems Threatening Nigeria’s Food, Health Security — Association",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjN6amd1eF95ckMwb2EzcFBvdUk5OUlJSEVJZTE1R2JDdm0zdGM0WjllQjI2bjkySEdMemVaZ21Vbk4yck81ME5oUktLRUplZkxqNzdVYVRicUY2dFpnR0prM1lYWHI5YmZUbVFVTTZCQ2dXUC1pT1RkNWJLdzlnNGN5eUdvcE54aTNWcEx2YTdrX2piT2lmZ1lnX1lFQUdXMHREeQ?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -363,6 +356,13 @@
       "source": "TheCable",
       "pubDate": "Sun, 26 Apr 2026 09:40:00 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Rethinking war against banditry and insurgency",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFhDY0xYZ0tNQkRPcnhFb2t6Q1VPSnN1ZUpvLWhBTnpwUDBLUVF2RzZ4TU1OcWdfb05IbFFXYUlIWDlXRUIycHhQakUxT1pXckRyQTJ6M1hIcVh0MktTZW1xSmtQdDkxYnQ1ZWUxQXRCSnJrMEhVVHhXWHVEQVdwLURWa9IBiAFBVV95cUxOQ0dWLWtQVGRFUWtwZVl1RmZZZEotX1Y5eXZSRzJBdm1uSG9WUVJrT09yZlpkckd4R09ub2xwUWN2RTUtSkkxTFl4Yi02STQ5VnV4eUQxMTM0eGlkN1FfYmhOSmNTV19tMGRxQmI1NkVlMXUzSUZjcG8wVmNPT2EyMURadkI4Z2Vm?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sun, 26 Apr 2026 03:10:44 GMT",
+      "category": "Banditry"
     }
   ]
 }
