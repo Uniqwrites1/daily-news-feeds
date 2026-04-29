@@ -1,31 +1,80 @@
 {
-  "timestamp": "2026-04-29T18:36:19.274Z",
-  "generatedAt": "29/04/2026, 19:36:19",
-  "totalHeadlines": 168,
+  "timestamp": "2026-04-29T21:27:31.953Z",
+  "generatedAt": "29/04/2026, 22:27:31",
+  "totalHeadlines": 177,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 117,
-    "Law Enforcement": 8,
+    "Security News": 119,
+    "Law Enforcement": 11,
     "Armed Conflict": 23,
-    "Banditry": 5,
-    "Kidnapping": 2,
+    "Banditry": 6,
+    "Kidnapping": 3,
     "Insurgency": 5,
     "Military/Security Operations": 7,
-    "Traffic": 1
+    "Traffic": 3
   },
   "headlines": [
+    {
+      "title": "South East Security: Troops rescue kidnapped victims, arrest criminals after shootout",
+      "link": "https://www.vanguardngr.com/2026/04/south-east-security-troops-rescue-kidnapped-victims-arrest-criminals-after-shootout/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Wed, 29 Apr 2026 21:09:27 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "‘We strangled him because he recognised us’ – Kidnappers of 17-yr-old boy",
+      "link": "https://www.vanguardngr.com/2026/04/we-strangled-him-because-he-recognised-us-kidnappers-of-17-yr-old-boy/",
+      "source": "Oboh",
+      "pubDate": "Wed, 29 Apr 2026 20:50:37 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Alleged Trump assassin took selfie moments before attack – Prosecutors",
+      "link": "https://www.vanguardngr.com/2026/04/alleged-trump-assassin-took-selfie-moments-before-attack-prosecutors/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Wed, 29 Apr 2026 20:27:38 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria, nine other countries account for 69% of hepatitis deaths – WHO",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRTlwXy1DWmYwLUJyY3NSODgyampRVENBdWVnektLNDRmOXM0WWlwSUt1VllyUnhIeDExekZtQU14dzNDajBGS2lZYmYwR1hyVF9VYWIzNG9vYnY4NkhhSmNCQUxKZk1vcW1WYUQ3Zk85NWZyaFlab3BMZGRfZ2lwNzV3VThpMDZKVGFBSVV4ZDVfbU9vYjVOWlRVNnN3NjBiNlZhdDFZVENEdw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 29 Apr 2026 20:05:56 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian police killing of man in Delta State: Family of Nigerian man wey police kpai seek justice",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04Q25QNldxYUh0RUlmcnpFOXV2S0ZuY1hMRUthMmJSZm5nRjdTU3FSRzFTN2ZQZUJUajRsOGRxVXZlVENlQU5vUGw4cWhPNEVpb1U1ZlFTcFplWFVE0gFiQVVfeXFMTjR6SXBuelJ2M0pDQTBRNEpSNWhiQkhiWHVwX3lkUDJEUS03Y043dkkyNElrbU9xaHYxckhLVVowbFA0OUw5QU1sZkxTUGxyUTJyUDJOSVNBOVFPYnJjbjZBQWc?oc=5",
+      "source": "BBC",
+      "pubDate": "Wed, 29 Apr 2026 19:30:23 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Trafficked Ivory Coast returnee to Nigeria loses womb to traffickers",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUdPenJiREplT0VIbHJxd3BrTTIzYnQwSG1XbGhqRm5VODFBbC10TzZUbVY2U2J5NE5kTHJjSmRzdjhRV1NKbkFkc19CUklhX3NrY1k5cU5CRk5NVVZOMXVTQmRjX2w3eS1ub1NvWjBicFpWeEJ2SzJXZ1JRSWh3YTI3SE9Uekk5Q1J4QlFwdmw4TUlKREhpZ0NTMFFUdHAwUFN3?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 29 Apr 2026 19:25:30 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "How we uncovered plot to overthrow Tinubu, Army tells court",
+      "link": "https://www.vanguardngr.com/2026/04/how-we-uncovered-plot-to-overthrow-tinubu-army-tells-court/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Wed, 29 Apr 2026 19:01:04 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian police killing of man in Delta State: Nigeria Police Force dismiss officers wey kpai 28-year-old Mene Ogidi",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QaVBaWFNWbjI5R3I2MFVicWh2NmFINHlnUDA5a1ZWUzQtSlZHeERiSnN4NW9jelFHZGpvWXlkOVZMcE40cE5JOWZxdmZGNE8wVTFCTHgxMEZPVC1f0gFiQVVfeXFMUDNUQzNCWVZnOVRxVlRya01GdUlybl9aR1ZURXlISml0RUpxc3NjaUQwSi1uMGFhMW1PLWJ5dXJ5VDlRQWVuRjFiNEFKdTE5ck02X1MxRVhDM3dRdlRMYWtzc2c?oc=5",
+      "source": "BBC",
+      "pubDate": "Wed, 29 Apr 2026 19:00:23 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "Nigerian Air Force Bombards Terrorist Stronghold in Mandara Mountains",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JEajhGTDFqVFYwdGJhZ2F6NEFCRmY2N1VsTWRRTzVtRmFoMVZXVVZJamlQSlpHbHd4ekJ1d3FSMk90aElIUFA4OEphNWtlUkROc2w1OHpsMnRpUkJqV1JONjc3YnFrN2dBR3l0c1BDY3RZd3Y1S0I1U1hRX2dESzZnclVZa19fX1Q4eDlhMG9uSW8?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 29 Apr 2026 18:06:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Germany Reaffirms Support For Nigeria, Urges Action On Cross-border Threats",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS292YUtNa2dCWlFMMEljcTBJdkFtWEhDWnBCVVRSLWs2Qjk1NUl2Y2dUR0JUclp4SXdJbk8wanQybkIxV19RM3MxNk03TG8xakxZbUNEQXFxQ0RJTFd1R1dWUktsWGY4QXlOaXVESjZPUTlCY3gxMHpkc2xNd0U2MThtNEo5aXJodWRWQ1BCZ0NhLVY3RmcwYzJB?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 29 Apr 2026 18:00:16 GMT",
       "category": "Security News"
     },
     {
@@ -41,6 +90,20 @@
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 29 Apr 2026 17:19:37 GMT",
       "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria’s leader battles security, political crises",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1pqcEhjWVpMY0JYMXpfbzZuSGZDN2pNMlFfRm5kWjhqR2w4b2lvaHdNS1FFTXlORlpvamw5eHNpUXI3SFBlYUgzQkFqWGhkZnphSFM1cUN5QnNWTmxHXzZGeUd0bklNN250UWlJeHZCSUc2ZTFmQlhDc1hISGRwSk9xRjhNZ1pvMUhjWE84ZE5QNFR1Z0FJ?oc=5",
+      "source": "News24",
+      "pubDate": "Wed, 29 Apr 2026 17:12:04 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Xenophobic Attacks: ‘Situation Deteriorating,’ NiDCOM Demands Protection For Nigerians In South Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObTJGNGNXYVM4VndieTd2dzQxemZOMkYxcFA1czlaRWpYQ3Q0RHVXTHExandHeEdleGhJT1NyS1gxNTllek9GZ3VXN0p5V2pBcGVraGRvMG5lMm85RVVFcGw4WlZwb29oR29zS3V6R2NRTERvSkxRTXd4VUs3QnhLVFQyWGpXN21vRVdodjlxWktMclRROFFjREZHbEVSQUY1alFhaFA0WWZ4dDZ4X1BpSTlQaHlCVzlDaElESGpoTDAycFBuVzlKNzNMNDdqdXp4alM00gHYAUFVX3lxTE9yVVNEY1dDUkNxYlo4MWxnWHdVTHg3U2VGc2xGLUgwN2ZnWWd0eWRRT0I4WTVWZlc5ZjRocTduZkxKa09mZzk3Vm1YMzNLcWhDWHhmbS1zOEUxbHZ1NlU2NU95RkJJTzU1Z1NLQWtqNjN1UWtiSjU1SlhtamVScGhQbVlJV3hYTUZXeHMyUnIxZWc2dUphek53YnFrNFB3LVpiTHdJdEhaNDJJSm5NVVNhVmc5YzVBbUZ4cFhXLVBkd01wcDJ5VWNabTlFTU9qZGhzejdmSlBMbw?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Wed, 29 Apr 2026 16:38:04 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "$10.5tn cybercrime threat looms as Nigeria faces 45% attacks",
@@ -64,11 +127,11 @@
       "category": "Security News"
     },
     {
-      "title": "Delta Shooting: My two children were killed by Police — Mother of late Oghenemine",
-      "link": "https://www.vanguardngr.com/2026/04/delta-shooting-my-two-children-were-killed-by-police-mother-of-late-oghenemine/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Wed, 29 Apr 2026 15:44:42 +0000",
-      "category": "Armed Conflict"
+      "title": "Germany reaffirms support for Nigeria, urges action on cross-border threats",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1hpZldzQ3VhTGRCYnpGOVlXbXhvTW53cU9IZ2U1QTA1NF9yZ1Ixb0dZekVhU3FGUHdIUWlObkdWQ2FuYm9tcUJMVXJDUFpPeFNEQVZVNkpaZGQxUFU5ZWJpRTVNSThhN2tuSjhEMG9VdEVfQ2d5QWRtTzRlUEVxM3JWY2p1WVRrTDVNRDVhLTlUeXAzWHVUejJxVlphRUVtUzc3VmNlQQ?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Wed, 29 Apr 2026 14:44:06 GMT",
+      "category": "Security News"
     },
     {
       "title": "Security Forces Repel Bandit Attack, Arrest Suspect In Katsina",
@@ -262,7 +325,7 @@
     {
       "title": "Nigeria's leader battles security, political crises",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkhwR3VmbXZORDBYd1JwR09Ibm5aTVNFTHVkSEh5ejRib0ZXSGFZMERMSGtkQlZ0T2h6eFJIQmxWLVFHMU1TeGFfOWo1TDhZTlJucjYxT0xrT2JjTXlUMGJxcUx2MENtUDBaTXBxTEpfNTZtT2dselZJdDFPbTB0OGpqdVVTR2NzekHSAYoBQVVfeXFMTW0yeGJjSDRJdWU0aTJIZ3hONFY1QlVXcjVyZkxfV1hxckZEeHZOREo5UjNhXzJhMjBSeFp5MEw1ZUlIWDVwQndDN2tzanNQa2VQajR2MmtZMG1zSkZ1TkFsLVp0a25PXzRFR21KMXNFaDV1RlZMcnVNZGszRFo5NDJWaUN1bXpOUHR3?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "pubDate": "Tue, 28 Apr 2026 12:48:25 GMT",
       "category": "Security News"
     },
@@ -299,69 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjFMUEpncThjWEFPYVcwTGo3dkFWbXZNdXZpbnFkdU9wemtuWUY2bG9TZUFvNklsb0ZXNVR3TU10R1RJcm40WlRnTmk3a1F0aGJXVnpocGhBcGZMeTN0cGZUVm5oNWFlWHM1a2dIeTdBVVdTbFpVdjRFMjNIU2Vjd3BzckpjT3pMOHRzSVNCMzczSHVGbHJ2M01aZlZEamR4Vng1Y09odks2MEJDUUk2Mw?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Tue, 28 Apr 2026 07:14:46 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen kill at least 29 in Nigeria’s northeast Adamawa State",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzNIenNLYWlLdDVtcjVKZl9NWl9SRjJ1UnBhT1NEdjFUZTBVY1pqcWJkTFdGU1J0T1Zjb2tjLWRCd3BPMS1Sb2puU3VZOWJPaUZVM0I1b2JNVVVYLVVBSTBXQllxcHVLNmVhN0VybU9zcXFNVUV5aWZyM215THRtbUs5VnhYdXpoUlVlYUlCaU00WVR5c09NcUs5YUNCbWp2ZFHSAacBQVVfeXFMTk9FclBieEpJcFhMRmRiY2tnYzVWb1dMRmo2U1JhbnRNX3otS19DMkc2ZEh3RW40eEZ1NXBmbHFDZXFNOGpIRldwWl9YLVBDSUhpQktlOGY4WG84VFhiQ3Q1Z2syMGdiSEpFUkl1WFdMUnItMUlfczBOXy12cG45QmRzd3BPQjRlaDU5ZW8xMElWRkFnZFNjb0U0VGVqZmNoR0JFOVBJcDA?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Tue, 28 Apr 2026 06:45:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Armed violence escalates in Africa: Deadly attack in Nigeria reveals the expansion of extremist groups - صوت الإمارات",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVNHZUdzVXVIVnhJUmRWaE9hS1BuMlpmcFFmSENzT2cyRjg1YkpzY29iVkZudGNITjZQRy1hWFFqSXpueEJPSk02cG50VWJ4STAzY3dzdEpSZTZ6cExfdTFHeXBOODJOQ1ZqX3ZJUHhqR3lwN2JxWDNCT2hVV3dSaGU3YVg3bEhweEZPRkZneGR4Qk41bF9oclRRS2YybkszZ0FKcVgwRGczYXBzRm1zXzJHbkRLUWZvUkpBb29oZ3JTbVM1clJWWDU5Wi1DY0ZqN2ZfRUVMaVpxNWwxTHpEQ2RMdlpldUdq?oc=5",
-      "source": "news.google.com",
-      "pubDate": "Tue, 28 Apr 2026 06:42:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Navy, Radio Nigeria Strengthen Ties to Tackle Misinformation, Enhance Maritime Security",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkdIZW5MZkM3ZDNWckpFY014bWVOOWVYc2RnMFcwWFJKRnRhOEhWVjA4bmJnR2x5WjhtQlJrYkVpNW1YRl9Zc2haMjR6eVlmTnNOd2tuM2RISE54cmlDRWpfTDlDTS0zZE5ORG9qZXFnZG9pNlppN01UWTJRTGZYN29vUU5jSHFRYnd6N0JwQWNZZzE2TEJCekVPQWNoRnhvaXB2RGcyeXJzR0YwQnBnVXJsT0NVNDFleFcw?oc=5",
-      "source": "Radio Nigeria Lagos",
-      "pubDate": "Tue, 28 Apr 2026 06:40:12 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Institute Seeks Deployment Of Military Veterans For Security",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVS0xMDlxSGpkQzNrNGVDUmo0aFM4T09md1hKZUdFelBSVEVTOTQ0andGeTdfaHJaeFg5T21zamZid0sxcjBFQW9ITHlPYTd3eXA5Tk9BaFlJUGtSZEdhLXMzNS14dkJyOUNyWGY1U1prQ0tPei1SWExsaVM1a0dLcmxXaGdINVFQeVR3?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 28 Apr 2026 06:19:04 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Defence Chief Asks Veterans To Strengthen Peace Efforts In Communities",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHZlQm45YVZqTGNoY1dwTDlVcDdQbDJRUDAzZWVLbldDUnBadkxxODRPbW9VbEhfOTh5RXlSeEZEek5MdzFVWHQtUzRlRFZrYW5OTzJKa1p4SzNnSm5rdlp4c3Bad0FXNzlYZHptQnNWSDBuTHltY3JpOHF4Szk2SGVPUTZJWEE0aktXQXdjS2VCZ1Zjc3NGbw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 28 Apr 2026 05:30:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen kill at least 29 in Nigeria’s Adamawa state amid rising threats",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG5mbFplNTJkRERaN1g1OUs3bWItTFRDUmVibFpjbzFQNnZnS2ZKVGRVXzBUNW5fcDV0aFVZZENobkR3dzVEeDFESkVlcWZxUkgxaDF4Y1ZSa2k0Q19vV3g2b2d6c1hiamh4TXFiZjU4LUR0ZTZCU1ZmS2ZQLTVsU0VzWFhWbHRhak9oWDRwVmNBbUxpVklpUV9veF9hc3RFUjZHVllUQ2x6cjEwMXB1ekJjcHNLWXJNRGpGZ9IBwgFBVV95cUxOUFY4TV9xbmlfZFhyOGZ5SHl1MkV1Q1JhZktkYjJlNjhjNlEtZnh3VjZuV1hpXzVsVUlRMUlSMUstS0ZadFdjcFh3RndoZGtqR1JsYU84TkJVdERpVXBKRm9zYUlScXE5ZmxRYWtEUzhFVERPZWl4emFCWE9IS29DT1h3Rkk5NmE3VjFhYngyQW80YWI4REZKR1puVlRNeDEtSm1lOTc0bFI1WDJJbG1iRWhaeDBfN0ZpYVpkUTRncVVHZw?oc=5",
-      "source": "Firstpost",
-      "pubDate": "Tue, 28 Apr 2026 03:06:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjBRRDN1ZmpkMGFnRHR1bFluSldRSmFFeTFwYlFOWWdPOGgzVGFobVB4QUtwbWt6N0x2eXI0SFJTM3dlWE1mbXNKUl8wNlFMci00WUtkM1dvVTZCREFYU01PUDVIYmZHWWxyOGZHME1tV1pWWTVBNF93cmI0TXRhNU1zb0hPbFh2TGhPaGtmN1UyV1d0SURXdkd0aklxTWRHSVMxbjNLSnFtcklBZ0tMdlpOLWxmOVNXQXVfanZlTU4?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Mon, 27 Apr 2026 22:57:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen Kill Pastor, Family in Plateau State",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2pJS01vMVlTMlM5V3k3UjRIeFo0RVF5UlVkZjRhOVVVN2hxcDIzMFA3R3VYcnhTZUtYei1VNWtCZjVKM29DZGlUTzNSNWQtdE5ySXFaQVZIbUFTOXdad3NfRW5sU1cwajdxYVhVSVVOazlHdGJkRi1ZbWk1T0VKbk1EaVM?oc=5",
-      "source": "International Christian Concern",
-      "pubDate": "Mon, 27 Apr 2026 18:20:27 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Ekiti 2026: Tight security at Oyebanji’s campaign flag-off",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmxsekVuTHI1SnNtVlI5WW5PbWFiODN6czVlWEIzZWo4bUNMaDc3ZWRVX3Vod3FnQ1AxWkU2b3VqTl9sX1RKTjB1b01BQkZOakl4UnNPOXFFd1ltSFBxaGZKZkxUOERBUFRkVHpFUV9Oc2JPR0JxYnA1ZnV0UENTM0xmVDh0RkRwem9Ic1hJWQ?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Mon, 27 Apr 2026 12:47:54 GMT",
       "category": "Security News"
     }
   ]
