@@ -1,19 +1,40 @@
 {
-  "timestamp": "2026-05-01T00:52:46.203Z",
-  "generatedAt": "01/05/2026, 01:52:46",
-  "totalHeadlines": 161,
+  "timestamp": "2026-05-01T04:26:59.370Z",
+  "generatedAt": "01/05/2026, 05:26:59",
+  "totalHeadlines": 169,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 113,
-    "Armed Conflict": 16,
+    "Security News": 121,
+    "Armed Conflict": 17,
     "Kidnapping": 3,
     "Law Enforcement": 9,
     "Insurgency": 7,
-    "Banditry": 4,
-    "Military/Security Operations": 7,
-    "Traffic": 2
+    "Banditry": 3,
+    "Military/Security Operations": 8,
+    "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Insecurity: Navy deploys vessels across Lagos creeks, pledges support to NOWA",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1RiS1VEUEczYVp1WUIyYjhpUzJwdW9XdURWLTZpQmE0UXlIeE81TUtOLVhyanIxdG1yNTFzNGRRUTF2Q2FnbmV3S3lfRi1Fb0QzMlV4MGh0cm5KVXlQR2hFT1BDbERJcTJib3hwYWEzTmVkMlVpZzZGVl8wWXVZQkpRUHFYX2R0dUNvSWl1NFR3ZHZ1LTdBRGcta2VaaXFaTThDQW1kMnk4N1BialVZT0hWWGx5dw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 01 May 2026 03:30:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "How insecurity, poverty undermining decent work in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUlJFWWZSdG05QlYydzAyNGdqUVVvZUM5NVMzZDQ4RU9HOWFSUGdXU0FPZUFTakU3SHNQV0laM0pEU3hFSWN0MGx5X1p5dVNtcEVQRUkxdm5YcWZITDlmbFZRTzRORWswcHA0ZlgyeXV1ajRfUmVxREI3Vm9QSnVJQWFn0gGHAUFVX3lxTE5rbk1ucjNCOUw0QkxONDhYMkhRZ1FfLWx6LS1PUnBiYzlMVzZOcFlrdjZMTFhPVTE4Smd1LVlWVEVTbmlYS0pjUTZlTDFJZ2lCZHZZYzZvYU1uY09zbU9IUDB4VXNMTXAzNWxXUnVnR0tBTXdYWTIzaHJOSjlBeTFsZE8zRXJlMA?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Fri, 01 May 2026 02:50:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Atiku-linked lobby firm pushes US sanctions over Nigeria’s insecurity",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONW05UWhkeWJFRkYtcWlkMV9scFFpdXhoN2ptazVtRmRnS3Vjd2FvUUJBcVY3NlF2d3drMk8wSmRHVjZCdTJaZW05REJ1R01hYjFQRE9UNDZZVTZJZDZKcVFONFF1YVd3MG52aWtBX2xPektReWJkcXpZS1U2Vkl4a1RnUmtaUUNtdTFqd3RSRlBYOTQ?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Thu, 30 Apr 2026 23:41:27 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Nigeria, UAE Move to Expand Trade, Customs Cooperation",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wQlBla0JqalpwXzl1bS1LNjJMaG5xaEpuWFdnTUFCNjJNeV8tbFFkNGg1Wk43dWgxTWluR0pZRENBb1NHTnQ0U19HNmQ4RnVrbGl0NWZsQXZlOThhS1VRaExtaWw0VEw5STBCY0U4MHg?oc=5",
@@ -83,13 +104,6 @@
       "source": "Business News Nigeria",
       "pubDate": "Thu, 30 Apr 2026 13:57:35 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "SEREC: Documentation bottlenecks, not port congestion, drive cargo delays in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHduclFlNFBQNkF2T3BORmdXRXYzMTVJbUZIUzRWcmRrVkFZVlpxcVdUdS1zckxVdTQ4S1VmQ1p1M3VzRUZWdnFWb0NLeUtWT0FiRlNOU25TYjBzc1hFZk9SODFTQkwxLVF0bnpHNXd3VjEtc0tGWVdoS09OcktnNFpUX3didWFwU2g3bTRyTlFiTkJhbVhIa1B0Sm5HZEkwdWVMbGNSc0NDWTM2azBGaDFB0gG3AUFVX3lxTE5YUUNMZzJ2M2o5WHhYS2YtdVBxQXlrMDZsWHBFWFNMV0RGRkxEWG1vYy1GeF9lWm0yWUg4ZFROaXpkS3BsU1Nvc2JncXJuUnExN1BfcGJQM1NRZFpEYlc1b2hpT1lsMDlHdU9uU2U3dGVFZTZYRkxxb1BPcUloRzFtYUtvWWdCRXR5SDRKMlBrNVYxT0xjZW9yWjFkMncxUDlkeWotMzZDVFpmS3NfZkJlZkJXeE52Yw?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Thu, 30 Apr 2026 13:14:40 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Nigeria-Niger-Benin cross-border trade resumes amid security risks",
@@ -239,13 +253,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "When will the war against terrorism and terrorists be won?",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTFpZVB0dlFrM0xQSG9fNE1Ua0pnbUtZNGtsVG9ON1VSOV96UkMya2MzR3NlTXJtbnQwNGVLT0QwUUNZQmpkTGExcktiQ1g3RVJRVlZkMjhfSkpoX1dkR0Q0MGpjck9JenExYlZGVFp6QmxMSExwNklVaWFjazBMemhn0gGHAUFVX3lxTFBvRzhmbFhZNGJVTDczQUQ0Ul9KbkQ1OTh1Rmd0OUNmbWRWN01qWWpEVjZjOTJ0NU1DRjFTVFJTdmFsS0FvUGxRc2sydVUzc1FFdktzckMwTXJob29Cc2tQMVRLUE8ySEZPSlZvUlhQY2thU0Y0Q1JHS1E4X3dpRmVLdFJRRmVrNA?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 00:35:27 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Nigerian police killing of man in Delta State: Nigeria Police Force dismiss officers wey kpai 28-year-old Mene Ogidi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QaVBaWFNWbjI5R3I2MFVicWh2NmFINHlnUDA5a1ZWUzQtSlZHeERiSnN4NW9jelFHZGpvWXlkOVZMcE40cE5JOWZxdmZGNE8wVTFCTHgxMEZPVC1f0gFiQVVfeXFMUDNUQzNCWVZnOVRxVlRya01GdUlybl9aR1ZURXlISml0RUpxc3NjaUQwSi1uMGFhMW1PLWJ5dXJ5VDlRQWVuRjFiNEFKdTE5ck02X1MxRVhDM3dRdlRMYWtzc2c?oc=5",
       "source": "BBC",
@@ -262,7 +269,7 @@
     {
       "title": "Nigeria's security crisis: What's the way out?",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "pubDate": "Wed, 29 Apr 2026 20:38:28 GMT",
       "category": "Security News"
     },
@@ -271,13 +278,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ER1VmaWF4U2V2RnM2ekd5MG52YXRrT1pMZFJUU1hVbk9UWXoyc3FNT1JrdGt6RWd6dGFJSnY0cDBfbXBKcVdhQ085bll2YVRuS3hucUNOUmxmaUN2TXlMZ0Nra2JGWk5mNnc?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Wed, 29 Apr 2026 19:57:49 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Indigenous manufacturing driving livestock transformation, Nigeria’s food security — FACCO boss",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2JiRGpUU2g2enZqcGgxNW8tUkhncnhEVm5mRWtLREtpbFNtYnRBSDdDYXAxNF9YdnB4LXJpQmVzQ1l5RlZETzR3a2UwcHR5WmV0UnhNN1k2d2g2NWp4QnYzV3hoTl9naU02RmV2YzRQa01QSkNvMGFqbTJUT0RIZ0QyMHNsY2RLbG1iTlk1RUdMUU1TVmJWcENfR041ejNlN2xhWEZlRkZ0UEJJQmdOMg?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 29 Apr 2026 16:49:57 GMT",
       "category": "Security News"
     },
     {
@@ -351,17 +351,17 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Police Need Deeper Reform, Not State Policing, to Function Effectively, Security Expert Momodu Asserts",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXBQaFNkMEZXVVVRNlJoNUNuTm96VGJlYlBWeW80OU1QOU9XWE5BcGZ5QkNuLVJOcFAxOVpFYTRjY0JFZ1lSTTVUenltc2JyU2o2cDFXRFAzenFjWER0YmlCQUZWa2lGY2x2SE9JcmMwbC1KYTU3V1ZISzR5QlRPcUNhWFZpVVdlU3RDTGNuU3o2ckg4OHIwcmZkV09CSG9IMmh3dWNhVFBqUmFhbGg5LUk0QkZEd2o4Z29IMHpTd0MySWFZVjFGY3NTTnBOM2Q4QjNIeHB3dE9uWk5uSDRUag?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 29 Apr 2026 05:14:20 GMT",
-      "category": "Law Enforcement"
+      "title": "Before the Waters Rise: Nigeria’s Predictable Flood Crises",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalpiUUYtWm4zTWFISXNHQ3UtWjNTM21ERVFQVThNdmpETVdTdHd3dGtlZWY4a0tFb3ZSVk5tNTlXYTBULVMwQkRQSkNkNVBiSFhNdG1UZjRya0lsYTN3eDRMNTZuaUFrcGRzdmpTd0lGNmloYUlGSWVIay1YV3JCVlY3elZsQmtzNW43cko1Z3BXeDJkSVZ0Qmh0X1Jldw?oc=5",
+      "source": "New Security Beat",
+      "pubDate": "Wed, 29 Apr 2026 00:36:37 GMT",
+      "category": "Security News"
     },
     {
-      "title": "Africa's Own Shield: How Terra Industries Is Taking On Nigeria's Security Crisis",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelNPQXZZR2ZQdlZ0MjVqdGdOZVlRN1ZzRU5tUGRaVTViQkZuQ0UwR2lSajhlZ1dWNmFueWpQWlhQOU5KWGJ4RDAwdE9KUThqN0FMQ2FyRFZaSE4zdVZrNEdHTWtLaURmdUhuV1RWR2dUWE8xeTR6YUpROEx3Yy0xVlpkTE10WjhZeEQ2ZmRaTjBtVUJUZDdvdW5R0gGYAUFVX3lxTE5XVTMwbmlfUmZQWS1aaE9ZT1VPLWI5bTlmQmkycWRHLWlwaE1PSGk5SVhwQUhrd3UyWlVGUFVrMVA3UnRTNW1jLXA4bjZiV3EzVkl3T1hEbUF4TUxvS0JQT2YtcDd6cnJnd2lRUl9vbVl3X29OSWZYcWtENHo1SW05UnlaRjJhd21UekVvQVFGSXN5b0hVNG9p?oc=5",
-      "source": "Modern Ghana",
-      "pubDate": "Wed, 29 Apr 2026 00:46:18 GMT",
+      "title": "Data Privacy Ignorance Threatens National Security – DKIPPI",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2hyeWt3UHQwRGVkS0x6bENXdDhrME1ubXZvcl9BR2w0M0RWNHVnXzE4X1BOaFN6TDRzd1hKWnoyeVJ6U2tMazhVZmdpUHl0amhxUEF1aUNfV3lBT0Y5c09WeVRNVmRnY2ltOUVKVTg2WmU0Z0JlNmgxcDFyMTNRTW9qZHptajE0Mng1T2RZd21OOENRYnk4cUhWV3BSanRmaW1VRE1n?oc=5",
+      "source": "Nigeria Communications Week",
+      "pubDate": "Wed, 29 Apr 2026 00:30:40 GMT",
       "category": "Security News"
     }
   ]
