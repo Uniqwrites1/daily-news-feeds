@@ -1,19 +1,26 @@
 {
-  "timestamp": "2026-04-30T21:24:59.539Z",
-  "generatedAt": "30/04/2026, 22:24:59",
+  "timestamp": "2026-05-01T00:52:46.203Z",
+  "generatedAt": "01/05/2026, 01:52:46",
   "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 111,
+    "Security News": 113,
+    "Armed Conflict": 16,
     "Kidnapping": 3,
-    "Law Enforcement": 10,
-    "Insurgency": 6,
-    "Armed Conflict": 19,
+    "Law Enforcement": 9,
+    "Insurgency": 7,
     "Banditry": 4,
-    "Military/Security Operations": 6,
+    "Military/Security Operations": 7,
     "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Nigeria, UAE Move to Expand Trade, Customs Cooperation",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wQlBla0JqalpwXzl1bS1LNjJMaG5xaEpuWFdnTUFCNjJNeV8tbFFkNGg1Wk43dWgxTWluR0pZRENBb1NHTnQ0U19HNmQ4RnVrbGl0NWZsQXZlOThhS1VRaExtaWw0VEw5STBCY0U4MHg?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Thu, 30 Apr 2026 22:28:37 GMT",
+      "category": "Military/Security Operations"
+    },
     {
       "title": "Kwara Drama Mounts for 176 Captives Facing Execution Friday by Boko Haram",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0ZkN0l0dEtXaDdkZTM1ZFpQbFZ1aDg1UFpUendTWEkySjdwTVNaSHQyNFBrXzNKcm1OYTlDdTZWUjB4ckpMRzQ2ZDlwQ3hIVTVJTmNOVEdDa29sYlo3eXNKNmxCUjZQQUc2VEFkUWxXOU92ZjNfeGxyRUJueVZVdFFhbGJCQ205aU42WXF6TmNlVXo2YjJDQVI3M19VNWV2ZHEyS1JJZXdRaHc?oc=5",
@@ -36,25 +43,18 @@
       "category": "Security News"
     },
     {
-      "title": "Experts warn lack of tech support for artisans threatens Nigeria’s development",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaldBTnFGZkFOcERDWmxHdWRfN0pHbGhrUUVCRkp2UW9ZenF6cGpQbHNDTU5aLWllaTZJSDF1SUFtZDBjakZCVml6NDVQclltS1lNaGFyc3BUOTZuSGVNeW4xeG1pUzd3WGJydTBSUHVPZUo2QTVkbDZDMDhNN3NxNzVaUkZrcUlvak1UNktTM2RtUlpMM21jZ25zNGMwLWQwbE9V?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 19:27:34 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Police misconduct: FCT CP orders mental assessment of all personnel",
-      "link": "https://www.vanguardngr.com/2026/04/police-misconduct-fct-cp-orders-mental-assessment-of-all-personnel/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 30 Apr 2026 18:50:45 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Insecurity: DHQ backs U.S. intelligence support in counter-terrorism fight",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1ZhM245UTVUaEF1VGprclVCaDl2TWFJTThWZFVpYUZ6aDd6RkdRSUJKdnZOall2dlFXZjQ5bmc0SVlYcWExcnpGa3NsZ001WWI3ajJMejRuYUJrNzcwWGM0MVNhLWtEQ3pRcm01X0djMmkzRXMxN3ZVbkJUdFp0OUZNOWw0allmN3BGdUpPd3F0Tm1lWDY4RUpVaFVod3NVUExjRFc3MW8?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Thu, 30 Apr 2026 17:56:24 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Police restate commitment to safety on Nigeria’s Waterways",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0lYWWdUUnpWcjRjdTRNU3otR25NSW9hdVl4dGx6MDhqVFZWcDVMblRZdm9EQVhyRlJoVE9ubUdFYXNFam5iYVBrb3JGOFNsdGNPaWJwVjhpVWt4Z0NSNDNxV2c0d2c1bWlxWjgtcDc0QkpFTTdUZ2c5RTNFdXRrM2szQl8yZkw2?oc=5",
+      "source": "TheNiche",
+      "pubDate": "Thu, 30 Apr 2026 17:50:39 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria, UAE, deepen bilateral trade, customs cooperation",
@@ -85,13 +85,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigeria condemns Mali defence minister’s killing",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXRiWWlwWmk1cUhyM0xfZ2ZNcFh5RWdoTDZIU3ZEUlREMEpqUVEzQWE4SGlIUHdCTU9hQXJrVWpibTZkVERlRkN1Q3piU29MQTVzUEw3S1ZzX3V2WktPZ2pUdGl1VEU3cmhMTVdpanZVRERPZ2dtLUJ5SUZnNEkwUXVqMDZiVWdIWDFtUNIBkgFBVV95cUxOMGFvWFh5ekl6RE4zMzloZEZraW9VdnczTGo4RnVXVXpsWE1sWXpkaFNMcU9kZXA5THNJTzc3bXNyOFp5VElHa1UwWEloakxkWnF0VEhKVHphenZqS1VodVhRRDR4YWsyUS1vdjZaYU50UmZHWWIwcGhkakxXbGpFakxFSmE5WVJIcG9Pamk5dVJ3dw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Thu, 30 Apr 2026 13:30:10 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "SEREC: Documentation bottlenecks, not port congestion, drive cargo delays in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHduclFlNFBQNkF2T3BORmdXRXYzMTVJbUZIUzRWcmRrVkFZVlpxcVdUdS1zckxVdTQ4S1VmQ1p1M3VzRUZWdnFWb0NLeUtWT0FiRlNOU25TYjBzc1hFZk9SODFTQkwxLVF0bnpHNXd3VjEtc0tGWVdoS09OcktnNFpUX3didWFwU2g3bTRyTlFiTkJhbVhIa1B0Sm5HZEkwdWVMbGNSc0NDWTM2azBGaDFB0gG3AUFVX3lxTE5YUUNMZzJ2M2o5WHhYS2YtdVBxQXlrMDZsWHBFWFNMV0RGRkxEWG1vYy1GeF9lWm0yWUg4ZFROaXpkS3BsU1Nvc2JncXJuUnExN1BfcGJQM1NRZFpEYlc1b2hpT1lsMDlHdU9uU2U3dGVFZTZYRkxxb1BPcUloRzFtYUtvWWdCRXR5SDRKMlBrNVYxT0xjZW9yWjFkMncxUDlkeWotMzZDVFpmS3NfZkJlZkJXeE52Yw?oc=5",
       "source": "The Nation Newspaper",
@@ -99,18 +92,18 @@
       "category": "Traffic"
     },
     {
-      "title": "Revisiting the Malian attacks and their implications for Nigeria, by Samuel Aruwan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2Y4a1I4ejNLWmh4OTJ4aVF5NEpvM05CX3hOeFpFUHJJbWE0YlBfSzhMcDBPOXBnZFE2ajJicHNwRTA2T3E0aC1Pa3dDMVV3UndmdGFsajAwSE4tSkdQMHl6T2ZkMzNwNDd2eU5BRlhDSWp3cDZoMktwcXdUcE12N25ra1RnbENTMGp3d0UtaHU5RVAtOGowX2JkbkxXd25Sd2I2T1kyTW9NRkQz?oc=5",
-      "source": "Daily Nigerian",
-      "pubDate": "Thu, 30 Apr 2026 12:59:51 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nigeria-Niger-Benin cross-border trade resumes amid security risks",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR25SMkVKMWlGN25zUHg1ZnM2eWxIYWJSWkpmdHBSc3FkZXhmRm9zdi02cXg3a3gteGItRDQxN29NaGtVTDZpUmZkbENXRHNXTDVnVGRyRVhCdzlyb0VOcW1kMkJMcXdXMFVDSW90TGtaRnQxWk1uQks5bE1GSXZlQ2tfQ2kwaXJWQXBEYTFHbTJUd1pTQzdiVG15QkZIUFVOR2JVM0VfWGMxc3RLa2pValY0ZmtHaFROWFZCMmRuNTIxdw?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Thu, 30 Apr 2026 12:53:59 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Revisiting the Malian attacks and their implications for Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcE1aQzRKSi1nVnpIc05ybDM1UTl0eVJyWEYyT21uVTV6UEVORzJiOFdCU0NsRnlyVllkLU8xclFKRkdvV25QOUVKSlcxNTNqNzdEVmFzZFBIeGFRWmZWTnF2TEF4QTR5Z0VCeXRBdkdXYllHMmVlT3k4YnNnNXpveWVQZ2dfTlljRm9aS0Q2UHhjYmc?oc=5",
+      "source": "TheCable",
+      "pubDate": "Thu, 30 Apr 2026 12:36:00 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Why Insecurity Persists in Nigeria by Dr. Salim Musa Umar, FCIDA",
@@ -159,6 +152,13 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVE3QVJ5anQ5bGR6NkZfc3V3MGo0NXJnS3N1dE03ZnViMy00Z1RPaUR3T243YV9fSUlIZ1J4aGRYMmYwSk44UTRCZ1JFR0QxcGk4WEpPRXFZalVZVkRjSmhIWGIwRExKWXM4VkhoakVXWHplc1BsNnk5djlGbGt5T3NkONIBiAFBVV95cUxQUloxVXRKTlFRc0R5QURtOWl0R1ltQjQwbnkwY0ZuOFZEc2xWcjR3X3F5dEF2M29fcmRpNEx1eWFFMnNCSnVaR1V4TEhfWmF0M2tvczRBNGZVQTctc3VQd0Q0UE9BXzRpSG9VN01xQ3FnS2ZSeVMtNnN2NFg2dkZwUEZlZXc0a2FP?oc=5",
       "source": "The Sun Nigeria",
       "pubDate": "Thu, 30 Apr 2026 08:10:13 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria may lose U.S. security aid as lawmakers move to impose strict conditions",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXNodnJVcnVtSTA2YXFwLUx5bnpZZkY1bGhiZDZhOGJXSExjdHRHaWlBMUgtMEM1dUJnSnVUNTlWSkdVbUZmYTQtdVdOaEV6emZQOC1yTnVZZ3lkbW9aRDEtOFZfcDJCWXlQOTlHaHlPYzNiRDktT0o1Znh2XzFuOWZJWU9POVZoRVJLOTZ6aXc4eFRKS2tvNlFkNmZrZ2IxZjlma3NuR2t6WmVLX2U3a0VVejFLZzZUMDJNSms3ZHFnM0pVcjQ5RlBUWW9qbEYtbmxR?oc=5",
+      "source": "Business Insider Africa",
+      "pubDate": "Thu, 30 Apr 2026 07:33:50 GMT",
       "category": "Security News"
     },
     {
@@ -239,6 +239,13 @@
       "category": "Armed Conflict"
     },
     {
+      "title": "When will the war against terrorism and terrorists be won?",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTFpZVB0dlFrM0xQSG9fNE1Ua0pnbUtZNGtsVG9ON1VSOV96UkMya2MzR3NlTXJtbnQwNGVLT0QwUUNZQmpkTGExcktiQ1g3RVJRVlZkMjhfSkpoX1dkR0Q0MGpjck9JenExYlZGVFp6QmxMSExwNklVaWFjazBMemhn0gGHAUFVX3lxTFBvRzhmbFhZNGJVTDczQUQ0Ul9KbkQ1OTh1Rmd0OUNmbWRWN01qWWpEVjZjOTJ0NU1DRjFTVFJTdmFsS0FvUGxRc2sydVUzc1FFdktzckMwTXJob29Cc2tQMVRLUE8ySEZPSlZvUlhQY2thU0Y0Q1JHS1E4X3dpRmVLdFJRRmVrNA?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Thu, 30 Apr 2026 00:35:27 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Nigerian police killing of man in Delta State: Nigeria Police Force dismiss officers wey kpai 28-year-old Mene Ogidi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QaVBaWFNWbjI5R3I2MFVicWh2NmFINHlnUDA5a1ZWUzQtSlZHeERiSnN4NW9jelFHZGpvWXlkOVZMcE40cE5JOWZxdmZGNE8wVTFCTHgxMEZPVC1f0gFiQVVfeXFMUDNUQzNCWVZnOVRxVlRya01GdUlybl9aR1ZURXlISml0RUpxc3NjaUQwSi1uMGFhMW1PLWJ5dXJ5VDlRQWVuRjFiNEFKdTE5ck02X1MxRVhDM3dRdlRMYWtzc2c?oc=5",
       "source": "BBC",
@@ -255,7 +262,7 @@
     {
       "title": "Nigeria's security crisis: What's the way out?",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "pubDate": "Wed, 29 Apr 2026 20:38:28 GMT",
       "category": "Security News"
     },
@@ -309,13 +316,6 @@
       "category": "Security News"
     },
     {
-      "title": "'Crime has no nationality' -- Nigeria asks South Africa to prosecute perpetrators of xenophobic attacks",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzU4UHlJeExQTFBHc21rSzgzeXNueGM5bkgteGg1SDBZU1dfX0ZjazZkRHEteHdCQ0FTdE5BYzBWN25kUFJMNGhUZkktallKR2lrbk5xS0EzOTNKckMyMUxNbzYyTWQ1cTJIMV92UjlHQlBOUWlYUmRGNm1xbGRuZXpNaUNNSXdfdVhQb0JwWUdUSldER1hEVk9mME16QzlyVE43QUU5YlRSN2J0WjIzS2RzakFYWG1XZXRsdHFDTWo?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 29 Apr 2026 09:33:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Nigeria massacre: Islamic State West Africa Province claims responsibility for killing 25 Christians; Toll rises to 29",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTEFaTWw1ckw4eXBNdU5MM1Bib2x3T0Q0RGxZT1psYkRkY2JrMEg0a0Z6VDRtYXNCa0lfZkt5SnU3N1N5NlI5ZVRUNUNLMlFWejlLbGRJYmp5YzhwdV9sRVlmMG5LWUEzT1ZDUm5WSjhxTm40UHlqdUV1Vk50dlZDVTlmZk1FTk13ZHYzTDZoQmdNcFhfb2UtRkNON1c1YjZlb0o2UjN0UThHdW1QWktnT0J1MDd2eHVUclE2QWlZcnMtRXdNRWRtQnFWR2lMRGUzdkEwLXd5Z2Q5SGJiTGl1OWJWUnkyUnZBc1UwcVFfdzNNTkVRclHSAfsBQVVfeXFMT25TcnJPcGh6bGVQMUZpNm95eHVwb0VRcUl5OUEwWmYyV1NRVGJlNDU2TnZOcUc2RXA4VG1RVlpkenBhTnJuTjdLNlhIVjU1MmkxelhTTTZkZU1HcnNuRVh4TlJmalhqTE1GV1VTNnhkaWxBVGRfZTFLblZqWjdYZ0FkdW5ZUFR4UUtfMHF6eUhEalZLOS14RXQyaTV1aVR2UVRrckxDUVdiQTM2T1B4bUFCLTE2SnFrWXloc1VQbjRDTU96Znd2UlluMUd4U2NweGp3bUFGTW9GdzdpZ1R5Wkh5X0dtU2RNOERKVFB5X1VBMVY1MEl2UmJPcE0?oc=5",
       "source": "Organiser",
@@ -358,11 +358,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Security threats: Ogun CP establishes police post at OOU Ibogun campus",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZl9pdmhEWHhpMnZ6WjdicFpEdVJldlJHS04xM05LalFoVzUzLWdqQWpKVEtpTEl5dTJCamlwQU5qeEl2MDYwejQ1NHpaT1FRb1dDV3g3MnZfQXpyaG0tQnhSMnBQd1RLM3JQWnNtU1l5OGNnUTRnMi1PUEptbTljenZxcV9peWtaYjJrN3hfS0tEUDFrZTBEYTllVFBHYVk4c3ltUmJNaGVFSHp4b3c?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 29 Apr 2026 04:12:00 GMT",
-      "category": "Law Enforcement"
+      "title": "Africa's Own Shield: How Terra Industries Is Taking On Nigeria's Security Crisis",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelNPQXZZR2ZQdlZ0MjVqdGdOZVlRN1ZzRU5tUGRaVTViQkZuQ0UwR2lSajhlZ1dWNmFueWpQWlhQOU5KWGJ4RDAwdE9KUThqN0FMQ2FyRFZaSE4zdVZrNEdHTWtLaURmdUhuV1RWR2dUWE8xeTR6YUpROEx3Yy0xVlpkTE10WjhZeEQ2ZmRaTjBtVUJUZDdvdW5R0gGYAUFVX3lxTE5XVTMwbmlfUmZQWS1aaE9ZT1VPLWI5bTlmQmkycWRHLWlwaE1PSGk5SVhwQUhrd3UyWlVGUFVrMVA3UnRTNW1jLXA4bjZiV3EzVkl3T1hEbUF4TUxvS0JQT2YtcDd6cnJnd2lRUl9vbVl3X29OSWZYcWtENHo1SW05UnlaRjJhd21UekVvQVFGSXN5b0hVNG9p?oc=5",
+      "source": "Modern Ghana",
+      "pubDate": "Wed, 29 Apr 2026 00:46:18 GMT",
+      "category": "Security News"
     }
   ]
 }
