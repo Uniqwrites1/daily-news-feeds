@@ -1,52 +1,58 @@
 {
-  "timestamp": "2026-05-01T21:20:44.954Z",
-  "generatedAt": "01/05/2026, 22:20:44",
-  "totalHeadlines": 161,
+  "timestamp": "2026-05-02T00:47:28.792Z",
+  "generatedAt": "02/05/2026, 01:47:28",
+  "totalHeadlines": 28,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 121,
-    "Law Enforcement": 8,
-    "Armed Conflict": 12,
-    "Insurgency": 5,
-    "Kidnapping": 4,
-    "Military/Security Operations": 6,
-    "Banditry": 3,
-    "Traffic": 2
+    "Armed Conflict": 2,
+    "Security News": 18,
+    "Law Enforcement": 2,
+    "Insurgency": 1,
+    "Kidnapping": 3,
+    "Military/Security Operations": 1,
+    "Traffic": 1
   },
   "headlines": [
     {
-      "title": "Nigeria assumes office as AU peace, security council chair",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFaTNEeEk1UFBBLXp1N0x3VVNHS2FkUFU0bjlmZWhTZ3VJNXZEUUdOU3o3eGppX2RNN1lCZ3F4bnRGaTJE?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Fri, 01 May 2026 20:06:36 GMT",
+      "title": "Troops rescue six abducted women, children in Borno",
+      "link": "https://www.vanguardngr.com/2026/05/troops-rescue-six-abducted-women-children-in-borno/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 02 May 2026 00:33:00 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Troops kill four terrorists, arrest suspects in Borno",
+      "link": "https://www.vanguardngr.com/2026/05/troops-kill-four-terrorists-arrest-suspects-in-borno/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 02 May 2026 00:28:00 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Kwara-Oyo bridge collapse disrupts traffic, injures several commuters",
+      "link": "https://www.vanguardngr.com/2026/05/kwara-oyo-bridge-collapse-disrupts-traffic-injures-several-commuters/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 02 May 2026 00:07:00 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Senate moves to cut rice imports, boost food security",
+      "link": "https://www.vanguardngr.com/2026/05/senate-moves-to-cut-rice-imports-boost-food-security/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 02 May 2026 00:03:00 +0000",
       "category": "Security News"
     },
     {
-      "title": "Nigeria takes helm of AU Peace and Security Council",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1BBOU90NWxjWklMMFMtT0hJUlRXaFBLWGJHZDE0NWc2U1drQ0FLNmoxSmdac2hFVVYzVG5BSGJ2X0xCSVE3NWZWTmtDLWc0Q3lIZWdxMEZJUDlfaGQ3NHctTjRzYjhkYW1XaXZtMzNGckg4bnVVUFJJSVVEeTRSRENXdW1yWXPSAYwBQVVfeXFMUE9kMVNCTk9DZHhKM2JiakxGcUFKRDNqNlE0eXF1WUdfcDd6Zkt5WmY3emUxRkpyYXlzS0JfYWJrSHRCV3FNUnVPVnRxUm0yZGJqWmRySTYzMkxKNzlBQ3ljQmRYWEoyelVWN01adkVnNGRwQXRNWmhYY1J4djk5RDlKNktST0w5b056TlM?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 01 May 2026 19:52:32 GMT",
-      "category": "Security News"
+      "title": "Troops rescue six abducted Ngoshe women from Boko Haram/ISWAP terrorists",
+      "link": "https://www.vanguardngr.com/2026/05/troops-rescue-six-abducted-ngoshe-women-from-boko-haram-iswap-terrorists/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Fri, 01 May 2026 22:27:24 +0000",
+      "category": "Kidnapping"
     },
     {
-      "title": "Tinubu declares national emergency on insecurity, poverty in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjVOV1ZNcjJnVmYyYVlzVFZ3RjNhR1duOF9ZT0hLTXE4V1lnRlBLY3lPbEJmRzI5ZmJ1WlN3eE9vWkVYOTROS05WcXRpVmlkeHVrbU5hd2MtaTgzdTJnUFRzeUtRS20wQUgtV2xXWTNFM1BoeTNtLUhXZldFcUF5LW94OTdWcDN0OW0wTUZRR1g2QnMxTUcxZWU1M2xoNVNhRmc?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 01 May 2026 18:14:53 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "UK warns of ‘highly likely’ attack after terror threat level increase",
-      "link": "https://www.vanguardngr.com/2026/05/uk-warns-of-highly-likely-attack-after-terror-threat-level-increase/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Fri, 01 May 2026 17:55:36 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigerian Army Deepens Global Partnerships to Boost National Security — COAS",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU01DSmt4cHI3YktOVXhDRmE0SFR1X3UyTDJlUWFrem9FdmVoQ1Z3WTl6dHdLN2dlbVBIMmxLalNZM01YTk1taWFkY3luNUI1M0gzWWRINE5RWGNtMnBwUUtNVmZackphRXB0Tmltdw?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Fri, 01 May 2026 16:51:02 GMT",
+      "title": "SECURITY ALERT: Fulani Terrorists plan assault in Plateau State",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWNRNHcwT2ptUVZSNE1NaGtmUnNxVUhaOHhEdm9lZjg5cmZKaEhRbjEyLXRLdjZTQTdIdV9BamoxZ0c4d3pyaHctamd2Nm1hWDNlU2NyMFNmcTc4ZUR6LUxIOXhUZXNMdUF2NnZkMjMtWGk0NTA5MWpFaDBDcGtXZnNERGlSRDR0aGxtWldsM3FaT0NDbWdVQm5rV0Y?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Fri, 01 May 2026 21:10:25 GMT",
       "category": "Security News"
     },
     {
@@ -71,94 +77,10 @@
       "category": "Security News"
     },
     {
-      "title": "The Nigerian military within the Nigeria-Turkey strategic alliance: The facts and the illusions",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzY0Z0d6NF9Jc00yUjFxM0N2MDhjRGJsTDlxVUFVMjJTQUZudXFIdk0xQXhDeEhxa1BoVFp4WTJDQjd1MHhSSFNhb2NxYW0za0F3bnNnM3VNd08wWU1FT1BpaFZEd3VyQ0lyaWFWUGNMSWRUTEw2b3I2LU8yR0prbFBSS1VWcUxaTWtfOXo0bGZYN2RydHhzR25ZUVFWeDZmMkhYQWk4VTBXRHIzckwyS3I1dVpaMzEtUGFZ?oc=5",
-      "source": "TheCable",
-      "pubDate": "Fri, 01 May 2026 16:12:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Assumes Chairmanship Of AU Peace, Security Commission",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjJxUUFpVV83bzdPWmZPOUw2TVAzb0t0ajZYUUIybGl6ZjZqdkh4U3lxXzdCWnpqRFpKUFlReEtSSGNsRmhHaC1tTzdHMlVQR0hOZlFHZ3o0bTZOVk5mS1NPSklfcEV2ZnZ5amd1YkR0cjJ0eXJ6QjVWQW45SE4wcU4wb25GUkJITjhKZA?oc=5",
-      "source": "TVC News",
-      "pubDate": "Fri, 01 May 2026 15:23:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria assumes chairmanship of AU peace, security council",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGo2OEhZWjU0SW9UaVgtN0VScWtXenREX3F6WFZJOWo1VkJaTVd4UVNDMkROUjcwMzlMYWh5U1pPaDB3cmtMZlB0bk1rVkwyNnVodFJxOF9STUhveWhSMUVCTHpUazJfTDM1UjUtTDBZX2Q4Vk03TEMwdk53NHNjVDNLbnZTRVhuM0VVM0ZhUXhEYzNOS3cyWXBR0gGfAUFVX3lxTE5JYVJ5eEdvQkhIeGRkdGFvdzR5NmNVazNqOEltNHYwT01LX2RQb3NuMElyVUhDYXl4NWhZVXA0djlhdGxhalF3YTJwRXZzSzJ4YVI1a2EySHhKaDVJSGpPZ25CTnRxeGdsaHJ2V2R2WkE4NUlYa1pSNXRweWV6SzFTTUx1LXNfakc5N3lGT0t0VGhnQnhjMjJCOUs3dWdYYw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 01 May 2026 15:11:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, UAE strengthen customs cooperation to enhance trade relations",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVBlY19jdnpEU05sRkhKdVJPZUd4Rjhrb3VHeXRFZ2ZrWDc0YXNJX3Y2Nm1QX3UzOVpoeGRjU2F4NnRDaTU2ckpIU3Z5cmVtcDBzaU05aHI1R0FuVUF3X0pSaTlXQ05iRlByLW1IZFFGaHdrdkV6VDB3aEt3REpQbzJ3MzZMOTgxLTdmZlBNbTdPZ29EQTJEcHVlTGJpTVE?oc=5",
-      "source": "NewsDiaryOnline",
-      "pubDate": "Fri, 01 May 2026 14:33:39 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "A Strategic Roadmap for Nigeria’s New Power Minister - Muhammed Dahiru",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzM5ZU1tRThsaHc5NUdIYWltZ2dDdG54ZW5rSU5zVzFMczZvb3NyX1JsWmd0Q0ZueEdLX2NuWlFoQXFFdVdNOGdiTXZ6bzBrNDV0Q3g2NWJFejdNVjhHUG5GeFVfZVZhLXhjZTd1WnNKRzRfOTZrZmZZbkRUMk05dGhmZ0lHbUZIYk0tMTNEWHFKUF9Jb2c?oc=5",
-      "source": "- TVC News",
-      "pubDate": "Fri, 01 May 2026 14:15:00 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Nigerian police killing of Mene Ogidi in Delta State: Di big questions wey Nigerians dey ask afta Mene Ogidi extrajudicial killing by Nigerian police officer",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JQldjN1o5d3o1bnotU0U1djRjZkRYRzFfYUphS0lDUktBOUVXYWl6OFV2VjNiTjVWQzEyMXVqblJrVlhBTnBqZzFzZHJrQU80eV82aWhEc016Rmgy0gFiQVVfeXFMT1RsWE1uSk9RNnRMS1RWd0M3THZYWVNaRGFsZFVPTTI3MkczbDVUeXQtY25QeUxVWE12ak5EcFU0dU15MDM5S3l4YjdiczJVR21WVTdPcGw1YjktdmdELTd5Z3c?oc=5",
-      "source": "BBC",
-      "pubDate": "Fri, 01 May 2026 13:25:55 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "EXCLUSIVE: NSA Ribadu’s Office Detains Nigerian Forest Security Service Boss Osatimehin, Six Other Members In Abuja",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalRPWGhpTTFFajdELUUyZk05bHkxdVFQeDJtay1aWEFjVjRuRDdDcmRWbzJJRjBHNm9wMzFMWWIwd1I2bXhaRWgwZGR6Y1QtaXR2ZTVEekdhdnh3SmhTNnB4ZUxqYmh0aXlxcDQwNmpKRTRnYmszSU1fbHotWHBEYUxkeTRRVzlnd3o3V3FkSXBETEZHeTJLRHNMeEFhbU1sNzljYjJCMzJXck80R3ZZV28yMFJBT3FkaVZYWUwwTW1VUQ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 01 May 2026 12:13:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Germany to build ecosystem fostering talent exchange of Nigerian skilled workers",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU5iTkJsV1RlNmNkQlViRFE0NmxzaFJOdnV1bEprWHlzdjV5c0gwZkFpSDVVTUllWi1mYUc0UFItX1p5ZDRIYTlBT2pNQlR3LVZjOVJJVVlGQzVLZkhrdEhhMjhTTzBieWNQNHd2b2lzVUVlYlhRS01pcjFEaWhUQnR5R3BIdHBvaGM3Z0p4S0Q4eGFMcUo0ejFZS1NIQWtsdWhoekRSd2FMYjMzc0NSVzQxemx2dEFo?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Fri, 01 May 2026 12:02:30 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s $300bn ‘dead capital’ problem reflects data infrastructure failure",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGU0Qm1wUmVrLUdHa1pZZER6LUJ2Rzl0RnRsUExpZnRxN01zMGRjNHBiSnZJQWp3M3VvWWpWamY3T2h5N2lpVnpOaWlYR1A3VXIzd2Ezb2NCbzRBYmlTT1RDZDFzZ1hkb3BoRC1KRGVsS3F6REZxeTIwWDlkQ2JjU1FYSDJZTFZfNU9ibzJ6Rkw4S2RlTDU3UGpMNXdwSDlJOUZ2ZnVOcmFsanRCQWhYdmNnWXhMdw?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Fri, 01 May 2026 08:49:22 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘Context-specific measures will solve Nigeria’s security challenges’ – Alaafin",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVy04S0Z2eFd1dklRUUFtSEdoMVJXNlRnNkQzZ3cyTnEzd1dkdVlPR20tZHhLWHhGUFNoaXJjeFJKUm50eFJoNHBlcFlrSzI5d0pYV2JEMHNoT3otR2swUV9EYmtkTWhFY1RKVVF1ODJKTFdDNWhpbUg4bG1na3huRmVmczR2ZjdWaGZYRFRtUV9MellXendzREtaQ1IyakNQR3Nr?oc=5",
-      "source": "westernpost.ng",
-      "pubDate": "Fri, 01 May 2026 08:33:35 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "CBN’s New BVN Rules Take Effect to Tighten Security on Bank Accounts",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdS1KUzRZLW9hd2tkNWl6bWUxa2pKMTdOMkpwMDhJLVJqekxJQWtPTFdQcWpjZ014a214WGtzQXFJWXJySmNSeWRld084emJxTFFIRnMwSmZXUVFnMi1FSENpMmVDdXlDUF9JYmZIdFJEcnFxVTJ4SFJnZ252NVJocksydklSQWkzdnhsUjJlc2NOU2hUZVd2U2FNWVdxSzE5dmZldmJaRHlqWmVYQ0E?oc=5",
       "source": "Nigeria Info FM",
       "pubDate": "Fri, 01 May 2026 06:33:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Civil Defence Busts Motorcycle Snatching Syndicate, Arrests 2 Suspects",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUkzdHFLdG1jNHF6NnRraFM5QXQyT1BPUC1TWElkWlhaWjRJYXhxVm1teDJSRkNtdFltUnl3ZHhGRXpUTHduR0F3bjgwa3F5UHJlenFHYzFHUTZTbzg3QWJhMUduUTZjR1Q2b0dpaFktNkY3TC04RGFDMmZ4T0lvc0FPaXVTemdzcWRDV0JxUDJYeHBpR0lR?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 01 May 2026 06:03:51 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "May Day: NLC, TUC lament rising insecurity, poverty",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uRDJaNERVR1pjTnJMdTNXeW1BSFJGNXlZTVVFaEVFek9kc1N1aGU1V2xEMUhRMFRXREFMVVhIQmZaazVibUtqM2FEXzVlMjJpTlR0VzBiUTRyb3VJMkZ3NjVGQUk5MUVDUEhCS0tCRGI0VUxSYXNWRA?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 30 Apr 2026 23:51:28 GMT",
       "category": "Security News"
     },
     {
@@ -176,20 +98,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Lagos NSCDC Commandant Keshinro bags fellow of Nigerian Army Resource Centre",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGM4ZnVTcmdvOFhfMjBoT1NXTkN0c0k5S3lOVVNwQmFWTkRhNi1SeE5qZl9aTUV2dnJLNHBXYVc3QjV2N3JxQXZzekp4aGtNY2s5M2p3YkZiQTRnenAtcmpQaWstcmRwdjBCYi1lQUl1aFhEVHVzVHQxQUdJYWRlR3BROGhTRmJlMWRfSUttc18wcFc3dE8xWE54cDlrdlVCanVMVTI5Z092Q1RnczQ4NWlJWdIBuAFBVV95cUxQcXB0Y09Hb29tQy1aM243YWM2bFNoUGlxN0cwYVNEY01yLWZYUUdCcTJ0cWp2dDRQNmp6bDNIMkk4dDdiN1pDX3F5c2hWUnFZVzBvQUFwa1I4UWc3WTV6Z05fYm1aYnZ6bV9UWHJsd1JPUzdvdTloZWRuTlRCVnVWamNBZHFRRlFWdXF6UmpxQ2ZqbnljRkxXNHRUMXJtSDdyaEhQSDZGWFdqekJfNXQtVHhJeGY1Rm5Q?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Thu, 30 Apr 2026 19:31:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "As State Police Gather Momentum, We Must Fix Nigeria’s Security Architecture",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczNGLXRXUDhjcFpMNEh6RUZZTXNrQ1dLNVRTdms4MUFwUThzS2hiU2JkQnZJbVhfelczRmhyWDhOOVBiaUZ0d3k5RjZZRTdZYmFyR0NYX1VfMEpIeHh2MUlwTnBheTZKSXFxRmlIVy01cElkT0p4Z3NWSl84T1pzS2pxd1NYTHNjTEx5UE5nNVQyRXMzNlB2SFpkYWdVNDV5bHptMDZnaE5uWU1lNlk4d2d3NEo?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Thu, 30 Apr 2026 18:19:41 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Insecurity: DHQ backs U.S. intelligence support in counter-terrorism fight",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1ZhM245UTVUaEF1VGprclVCaDl2TWFJTThWZFVpYUZ6aDd6RkdRSUJKdnZOall2dlFXZjQ5bmc0SVlYcWExcnpGa3NsZ001WWI3ajJMejRuYUJrNzcwWGM0MVNhLWtEQ3pRcm01X0djMmkzRXMxN3ZVbkJUdFp0OUZNOWw0allmN3BGdUpPd3F0Tm1lWDY4RUpVaFVod3NVUExjRFc3MW8?oc=5",
       "source": "Daily Post Nigeria",
@@ -197,59 +105,17 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nigeria-Niger-Benin cross-border trade resumes amid security risks",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR25SMkVKMWlGN25zUHg1ZnM2eWxIYWJSWkpmdHBSc3FkZXhmRm9zdi02cXg3a3gteGItRDQxN29NaGtVTDZpUmZkbENXRHNXTDVnVGRyRVhCdzlyb0VOcW1kMkJMcXdXMFVDSW90TGtaRnQxWk1uQks5bE1GSXZlQ2tfQ2kwaXJWQXBEYTFHbTJUd1pTQzdiVG15QkZIUFVOR2JVM0VfWGMxc3RLa2pValY0ZmtHaFROWFZCMmRuNTIxdw?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 12:53:59 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Why Insecurity Persists in Nigeria by Dr. Salim Musa Umar, FCIDA",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2V0VIaXptMTJTalJDcGFaVzhHeFZJOGlxelhHNTI5d09VbVFMRnZjb1Jsa0ozaGtERE90TFdoTlBHZUJ1RlZFTFRhcUw3c0w4N2hXOU05WFdWa1JJTWUyZEZyYjNreU1JbnRr?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Thu, 30 Apr 2026 11:58:38 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US lawmakers pushes for tighter Nigeria aid restrictions amid security concerns",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmFzQ1pVWEtYZExyWHpOUFkyOG9CWC1DckZiTFR6dldjd1MyRWVEUkdjUjRnVS1WTXptSWZmcDdId2pXTE5ia3VrdEY1TnFlbkQxZFpWZjVqTnVyRmhoZDdETklIdEF6RzJpSE5pVGpIbzY2SDdDemNLaFlrWDdDbTBmOG4tNEhjSEpCWEZ2M2h5RmhyQU52cFZubHpGQU1QOUQ3VTVfV2VaMzJ1OWZtRWVHWnU5clk?oc=5",
-      "source": "Nairametrics",
-      "pubDate": "Thu, 30 Apr 2026 11:17:41 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FALSE! Ivory Coast’s president did not comment on Nigeria’s security",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzkzTFNEN2JRM3k4UU9qUEpiQTNLamZudXJiV2xuNzlKSUlyUm1hQy1lM2RWUnI5YUFDRnNYUTF5cE0zbTVlM2sxUVJhNjF5S3E3bnVub1ZBT3FkQWFmUy1WQmY2eF9fUGRERkVHU3JwMU53Z0xya19lU1dXQ3A0TWp0TUh0bUJWdm5Zd3NR0gGWAUFVX3lxTFBYOWNzRVVGWXIyNW9Cc2UwSGpId3Y4NG95eENuWGlfSzNkbDYwMWVtT2dWVzY2dElZQUFINy1USGR6NW9FOWUzMVRhZ0hrVTNib3JPbmxaQ2NJeElPZmx2UUpyU0JBQ0dBWUFnZF9mSGRWMVdyRmFjakFIN0xYQ0NxSU9YNl9ZYUtzMDNRc3FBVjNiMC1qQQ?oc=5",
-      "source": "Dubawa",
-      "pubDate": "Thu, 30 Apr 2026 08:10:51 GMT",
-      "category": "Security News"
+      "title": "Troops Arrest 21 Security Personnel Over Alleged Extortion in Abia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXhDX2Z6S0RhaWJ2clVhRWlmUUdNNEQ1Vy0xcVFISzJtZXZqSkdhN0ZXa3pTZnhCUWhkbUNkQ0tuVUFQNFlYelRtd0JPa1czdy10dUR6aHhlRGtfOUI0N0ZWN3F3bGV0b1lKLW5WVVdJdEpjby15clpiWWNPbC1vWUhZT1JncFQ2YVJCV256UzVacnFvVXhjUmNhQjFHcFhKRGFZRU5fbHpiUmViUF9XNA?oc=5",
+      "source": "zagazola.org",
+      "pubDate": "Thu, 30 Apr 2026 08:54:06 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "US lawmaker criticises Tinubu over security aid compliance",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVE3QVJ5anQ5bGR6NkZfc3V3MGo0NXJnS3N1dE03ZnViMy00Z1RPaUR3T243YV9fSUlIZ1J4aGRYMmYwSk44UTRCZ1JFR0QxcGk4WEpPRXFZalVZVkRjSmhIWGIwRExKWXM4VkhoakVXWHplc1BsNnk5djlGbGt5T3NkONIBiAFBVV95cUxQUloxVXRKTlFRc0R5QURtOWl0R1ltQjQwbnkwY0ZuOFZEc2xWcjR3X3F5dEF2M29fcmRpNEx1eWFFMnNCSnVaR1V4TEhfWmF0M2tvczRBNGZVQTctc3VQd0Q0UE9BXzRpSG9VN01xQ3FnS2ZSeVMtNnN2NFg2dkZwUEZlZXc0a2FP?oc=5",
       "source": "The Sun Nigeria",
       "pubDate": "Thu, 30 Apr 2026 08:10:13 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Traditional Rulers Key To Security, Peace Building In Nigeria - Air Chief",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzNBQkNPX1gtTHJ6Uk56Mkxua1ZyVndUYnJrTnMxS0kxY3NmdGhmaUNnNlRRUE8tamhzNWxva2Q0eUtyWW9UUl9MamZsYTZOeG54ZHB1VUxYR2VDbnBvV29COGl0WWMwVHRkSjhMNnRNTVA4dm5GYkFIMWZZWlY3MWphaFlRSTZBb1pkUzVPX3VxcS1L?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 07:08:23 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US lawmaker slams Tinubu’s lobbying spend, pushes restricted security aid for Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUlV6OGtlcm4yandCREc5R2JzdG1yWlVSVTZEOWdYbFdIWmJjWjI2STE2enhjQ1BOQXBYeFE4MDlKUkZua0RZZGdaWTBIMHpuTkpoQnBUYkVMSjNtYklJNVVGWDJ0U1Z2dm5MZGRaSV9jQVdOd3ZxSkFFTjI4UjBpY2dsLVN3VWhsU3pOdWxacm9wYU8yd3JRY3lJNkctdnlwSnRfOVRCN0xlVERTSGljMU1MOWU3OGtNXzdTNg?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 07:01:58 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘Christian genocide’: US moves to tighten conditions on security assistance to Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEhVcTFCZVNlT1M5LW5KUXJ3Uml5UTFTMzJiVFRuOE0zQU15N0hVOXRwVERLcFN3MS1Zb29EYkhVaUM0QUxBRXJpWE1PRi10Rk9vVkZDSHJDMVR1N3lMMmlNaGVKTjVEY041am9QeVlPUUtGTUlWb0kzX1Jnd0ZpdmY0X1VvY0ltT0dORjQxcEJUa3oteHFuU05xM3I2UFo4V2ZldDBwbTZraExnREcwYXhR0gGCA0FVX3lxTE9RZnU5UVV6anpZZ3huLUNBa21CTnk0VFk5ZlNpVjZoUDZYNDF6TjlxOWVBX0lRWmRwbjQxZEZsUFRiR1RDM0JHSUlzWnJ6RWJkTHNmN0pObzRwZkdVRkoxbmhXeVUwWkowQk02MUhxck1IRzJZalRwVWs4M2FhaVNGaXRRS2VQRWJPbV9WeVBYY0lLWXpXUlBrX25POVVZRUVuamg2ZUs0d0lxLU1hbFAtaTgwNVFqT0kyQ04zdU05d3R5OUFCbjZ5bGZ4dmpEbGlhOUJxSEo0Z2k3eG1uN0xLRk52bEVySmxHMThxdmRJWVZxdVlnY05XSElIWDFWdDVielE2NlhZQ1B6a2FpMDBfNVRwS01iaTVvX24tYmxLQlFDeDYzdWlhUnJHWEwtWlhEMmxzUVdvWGdXWXp6N2c4WUFrbFpZVU9CN3N5b3hUbGdiWHNNc3lhVExjREwyS3JiLVR3Ykt6Uy00TXdJZWJENFNyTDhOYTFIam1zVVY0d3RB?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Thu, 30 Apr 2026 06:43:48 GMT",
       "category": "Security News"
     },
     {
@@ -260,41 +126,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria’s deepening insecurity",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXY1pvN3R5cGQ4c2ZpSlhLbHB6c2p2UlB4bjBDamdyUmliZnFaMU9oZ2M2QzJfT0NJeGo2clJLRnFIc3FqR08zT3RrMUFzRFB0cHB6bkc4eG83R3BsdEpWMFNLT3Q?oc=5",
-      "source": "TheCable",
-      "pubDate": "Thu, 30 Apr 2026 06:12:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "The price of silence: Nigeria’s reputation failure is an economic security risk",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTNjRDNuR2ppSzVDbWhtWDZMY2VzOG5ZUWI0T09DVFNOUEhicjY1UVFrQ29CRk1Qam4xdWIxUlRaazdWQ1E4aHRGd2l6Y19ycGdfSHZTaXd2aXNaejlFZUxJM3RsVy12MWNqOUtrSDNGRzBmUGZzMGlPOVRmM05VdUk0eEZiNGVoOHVBaXRuQjZ2NVZkYnhpODVqV1NyTHVSdlJaMURORnBJTDFOSDlfWFZBZU44aGF1?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 05:27:08 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Re-centring security, responsibility, and secular duty in Nigeria’s state police debate",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbnlTQkFNdVFsQmp3cmRoSXkxRHdSSVduWC1HQ3dudDkwc2dlemxXMVFhbUUwUmwzejlRbkY2MVRzUjBzMk1YQ0ZwS3FBcjB3R1RwRGdpMy1BR2dqVjdZTG45cnp1T0I5WnBGYV9GYWU0dFpmNXR6OVRyVE9nQVZPMEtuZXI1bjR3dFNHY29xN0RGVUJoR0M1dHVJRGwtY0VZQVcyYnlyUFNnU0h0SVR2bWY4b2xKQVpvNllfNVpoZDFnWHFM?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 30 Apr 2026 04:11:33 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Mali’s terror attacks signal danger for Nigeria, West Africa — Experts",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUhLa0hnTmxOVnVFcXZFNjd3QXVUM3BOYjNmNmF4eGo0c3ljYXd0c3VyQUVnMTZIZGJGLXNKR1NXb19lZnByS2VGZU9RNGRabURwSDFYeWVOMm9ZWkYxbWdVWVkycW84TkRaN2pBTGpqeElhWGlTekZUYnRoVlJ1Z2xxM2x1MmJNaGgzbFZUWmZmY2E1UXNFNFpWRmJnUTlwTUoxVGxn0gGrAUFVX3lxTE1nZ0hoeXRlM1F4RmRIdGhzeXNsb0pEZkJLM29ZRG9uaUZTWlFNX1MzR00tSmFRam03YXRoZ3NUUU5qeGNFaGVEd2JJc195Y3dBZE5mX29NQTFrYVNESzZZYXkzcHloNGNpYnROSmx5Rm5sQVRmLUpseFpMYV9XTk1BdDRJNkM3OE9TdFpXU0JZeWN1dTg2eUVIdkhHbl9vb2JxZGNJU1BpZ1V5OA?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Thu, 30 Apr 2026 00:46:51 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigerian police killing of man in Delta State: Nigeria Police Force dismiss officers wey kpai 28-year-old Mene Ogidi",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QaVBaWFNWbjI5R3I2MFVicWh2NmFINHlnUDA5a1ZWUzQtSlZHeERiSnN4NW9jelFHZGpvWXlkOVZMcE40cE5JOWZxdmZGNE8wVTFCTHgxMEZPVC1f0gFiQVVfeXFMUDNUQzNCWVZnOVRxVlRya01GdUlybl9aR1ZURXlISml0RUpxc3NjaUQwSi1uMGFhMW1PLWJ5dXJ5VDlRQWVuRjFiNEFKdTE5ck02X1MxRVhDM3dRdlRMYWtzc2c?oc=5",
-      "source": "BBC",
-      "pubDate": "Thu, 30 Apr 2026 00:30:36 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Governors’ apathy toward security",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMEtDRGtXTlhIUXB5djJZbENnVm1HSGhlc09pMjMtSzNvUVNQMmROdVcxRnd0UGFMVjVTRmc1TnFMXzd6MnhkWU1jTmxEN2ZNMl8wS0pKT1dxM05YVVh0SjVwUQ?oc=5",
       "source": "Punch Newspapers",
@@ -302,52 +133,10 @@
       "category": "Security News"
     },
     {
-      "title": "Indigenous manufacturing driving livestock transformation, Nigeria’s food security — FACCO boss",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2JiRGpUU2g2enZqcGgxNW8tUkhncnhEVm5mRWtLREtpbFNtYnRBSDdDYXAxNF9YdnB4LXJpQmVzQ1l5RlZETzR3a2UwcHR5WmV0UnhNN1k2d2g2NWp4QnYzV3hoTl9naU02RmV2YzRQa01QSkNvMGFqbTJUT0RIZ0QyMHNsY2RLbG1iTlk1RUdMUU1TVmJWcENfR041ejNlN2xhWEZlRkZ0UEJJQmdOMg?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 29 Apr 2026 16:49:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Recovers 85% Of Lost Oil Production On Improved Security",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemFDQkM5dnJzR1RQUDU4MGw4VEdUTmNpMm1PSm8tR2Y3aGdMc0xtQUpXTzBKd1Q1bTVUZzJUVnQ4NEp3VVJwNnZxQ1BGZGN2dW1aX1k5MEJwSXRVZTVYcWwyUlpHLV93OThtZUtUdHlqRHRZTTF4eF9QbTZZOVJaV2lySVMtQWd0VXJEcTZQcw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 29 Apr 2026 15:53:33 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "N’Assembly pushes bill to strengthen food security",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DcG00Sl9ZUnZlQ3FTb2U4LTNJUVBCenFOeFJXY0duVTlWMjR5bmRKaUVoM2VST1l3NXYwNUhtZk02b296b3RLN2JIYzFKb2Z1TmdGU0ZNZkV4aGM4QWZwQ2h2TDlpMVAwNkJUT1dLRjIwZFBYamNJZ09n?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Wed, 29 Apr 2026 10:25:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Beyond Guns and Boots: Why Nigeria's National Security Apparatus is Fighting an Intractable War",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjR5SVp6M2taaDA3RExmYkQ2UTBpQUlyN1RObjYtbmhIR1FHbUF2QVJaM0NsSS1xYVo2M3hudGZmVl9MX3RFMl9lbnpvTms3QXMzN2t5S2J1aW9YTkhmcXVtWnF5SUJ3X2JJd1AxR3dZeXJtR0NoWkZJUzJXek43SzJBOHZXZ05nVlI0aHNZbmt0RWxhcFVodUpYcXptODk4SjY2SGtfRXkyblRNU290eWhxMmxOYW85bHhmQk9JNWlkX0VMN3BhN2ln?oc=5",
-      "source": "the authority news",
-      "pubDate": "Wed, 29 Apr 2026 06:50:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Exiting Fossil Fuels Key To Energy Security, Nigeria, Other Countries Agree At Colombia Talks",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlcteXBJYzZ2Z2t0bGZneGhIU0x0NkxqNGFVb2c1MlRqV3Q3bzFTNmZEcE9zamtKaWhVZG80WkFyel85TDN0X1RaVXpRMXV2Q3pnd2tvRC1ucWVBQkJsa2RkZ3JXRmRkSFF0eVNmS3o4eldpMXFIal9iZVVPdldsM2RfVEVwNGxlTXhxM0tScnQzaHMtbmYyNlpGVHVhdU5qT2l5ZXhqQjhQcUM3bk1zZmJ1Qm14dkpTVER5M3FWaDk5eVpzWkRuTXNB0gHPAUFVX3lxTE9CTXUxdjVySHJoUmhFYlNfM1Fwdk1zQXpJUFJGMGo0WG5jVEQ2c2lRNUkxWmgyQ0RQNmRxaGotOGEzVFJ6QWNDTEs0dVJBT0Zzb1Jwem1zR0x4c1RvaWVpNVhydkJ0RExGdFdQTk5zMS1KaEk3eGZTLW5NNTZlUkN6TTFfRDY2NDhmZExzdDRMd2ZjWVEzYmNScGtOcnBaekRVV3ZmMHZxWHN6X3NPNzEweGEyd1Z3Zmx5bElobUR4M3g2WWtSSUNJTUh0Zk9obw?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Wed, 29 Apr 2026 06:29:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Police Need Deeper Reform, Not State Policing, to Function Effectively, Security Expert Momodu Asserts",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXBQaFNkMEZXVVVRNlJoNUNuTm96VGJlYlBWeW80OU1QOU9XWE5BcGZ5QkNuLVJOcFAxOVpFYTRjY0JFZ1lSTTVUenltc2JyU2o2cDFXRFAzenFjWER0YmlCQUZWa2lGY2x2SE9JcmMwbC1KYTU3V1ZISzR5QlRPcUNhWFZpVVdlU3RDTGNuU3o2ckg4OHIwcmZkV09CSG9IMmh3dWNhVFBqUmFhbGg5LUk0QkZEd2o4Z29IMHpTd0MySWFZVjFGY3NTTnBOM2Q4QjNIeHB3dE9uWk5uSDRUag?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 29 Apr 2026 05:14:20 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Before the Waters Rise: Nigeria’s Predictable Flood Crises",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalpiUUYtWm4zTWFISXNHQ3UtWjNTM21ERVFQVThNdmpETVdTdHd3dGtlZWY4a0tFb3ZSVk5tNTlXYTBULVMwQkRQSkNkNVBiSFhNdG1UZjRya0lsYTN3eDRMNTZuaUFrcGRzdmpTd0lGNmloYUlGSWVIay1YV3JCVlY3elZsQmtzNW43cko1Z3BXeDJkSVZ0Qmh0X1Jldw?oc=5",
-      "source": "New Security Beat",
-      "pubDate": "Wed, 29 Apr 2026 00:36:37 GMT",
       "category": "Security News"
     },
     {
@@ -362,6 +151,62 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczlEanNXZGJxaFE5clo0d2N4b0NfUm95elh6NlNXaVV3d1Z1ODF4b0lRRk5qR1Jlbi1ZalJCeDZ2eUIya1VyVWNmUFEwOWVfbldWT2RXa1FlNVQ1TXBDNVZ0MUlHR3BmTUptazFpdHFYeWF0WmhNb0hzdFo3dEc1SWNYeHJBT3ZBVWVyN3FfR2VFTHBlOENOX3BxZUY?oc=5",
       "source": "Kogi State Government",
       "pubDate": "Tue, 28 Apr 2026 16:55:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: Experts Urges regulation of vigilante groups, warn against erosion of civil liberties",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODRYT1JIQnhhNHkwd09fN0p3S0d5RkF4c24ySk5aTHM4MWRjTzdPUjJpR0ZOQnhQcVREbmFOM0VnbTFJa2hRdTBtT3RnV1RsWW8tZE96S1lKcF83QmVDb1BlcDRhLUNoM2gxVVhQNjJPU1dJei1VMGM2eERvWXpxcVlua05mYXpjVzN4dnVYVDh1QmsyX1lpYmpoV0hrZ2ZqTnZqakQtdkRKQW5JU0plSHV3NklsdHQ2dGJ1QTJR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 28 Apr 2026 11:49:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria - Security, Conflict, Politics",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EN2w0U2pkMDhLTmZUMmJmclBmaktaS0JaeXZWLXNfVVRiOVZmVWYzaFBqSzJNSWxPN0QyNnVIeG5xZGhCaFRIU01qZy1xX0FYRWxUUjd2amhWTHZyTFE?oc=5",
+      "source": "Britannica",
+      "pubDate": "Tue, 28 Apr 2026 05:00:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Tinubu moves against terrorists after fresh military casualties",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3NyWTBZOWYzQ3NvMnZLTndWdUVCbi1QUFVMb1k2ZksxVTk1NnFsNXFNTXFpZE9LbVN5Y3hCTHk2SVdGdkZyeGpxMG1UN0RKam5fNUdqZjBhdHBfWFF3OGxBalpJLWVrYzBiVkdzVGFzZHFSYjFmYXlsV1pPX01hNktEdklEZ3pfT1JSNw?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "President Tinubu Reinforces Operation Savannah Shield, Sustaining Security Momentum In North Central States - Federal Ministry of Information and National Orientation",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUtRVXI3ejZCVGJuQnF2YVlyQnA1VEliOEg2UE9GTEVKSzdWRC04RXp4Mmd0TkZKSG5BX25HdC0tZW51QW5Cek9LZ28xSzNjQVE4cWwyOHNOMDkyTzVuT2E4SnpwcUxwWmxoRkEwMk5kRHB4bmUtT19JUUUwb3R5Rzcxa0NLbG9xUEhsN203ZWtJTnJ3M0dzelVUa1MzaDhxaUFKYU9rTmtaTlRUVElSN2xDRWE4OW04U3E5MjIwNDJPN3pWaG00?oc=5",
+      "source": "news.google.com",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "SYNERGY BETWEEN MINISTRIES OF DEFENCE AND INTERIOR CRITICAL TO THE NATION’S SECURITY — DEFENCE MINISTER – Ministry of Defence",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2tEblYtQzNQVFd0MDkwREc4OVhBbEtwczA4R25fX2hpaTdCdWUyM1h6ZERnVW12UGJ6OGp5d0cwRktnME9zczNxUzNvVXBycUtFX3Q2MFVhYlRFM3ZLZ0ZkQ0NTdFdnSk95U0x3cG9ZT2R4bnRNc255VFMyN2h0QkVPSmVxSzZ1Y0V2UlJWajdWQ2MzYmFKc1dKY05iZi1ZSjFBTjlJVWVEVHFCNFRzRjdRa05RTExvajFPaUhHejczaXBocnZRNVBfSG5uTDBh?oc=5",
+      "source": "defence.gov.ng",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "SECURITY IS A COLLECTIVE RESPONSIBILITY – Matawalle….. Reaffirms commitment to collaborative security approach. – Ministry of Defence",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdEt2dGZ6eExnemJUSVV4VXhrLVJMNFdLTDF1dVE2VlpCV2ZKR0NzMzhhczJJbGNmNWdVZThuTU1zY09RNHhkTkVwSGM4QzVUS0trSWI1T2Y2Sk16b002WU5PS1RjZUJDX2VDdHNuWE16aFByWGs0RzlYQjIzM3FtUS1KYzhXUkt1dVZLTFk5TEtyMHZRcnBoVFlBUklsSENZQ29Fa2lxRVZfN25Yd1N5ZEZrTk9pRXpmYkV1ZnVJUktYX0FpQl9iYUJpXzVfY0tUdXhmSUVlTQ?oc=5",
+      "source": "defence.gov.ng",
+      "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kogi church attack: Tinubu declare national security emergency but attacks never stop, how military dey respond?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GdXpicFcxTlIyaFpoY293TkRMb3NKMjlxb2N2MmpFNFY2T29LMDZCd1lfb25sQ1I5cnMxblBoSzNDSGdoUTVTc1BlaHd6b0l4N05sWVVWUzRHM0Ji0gFiQVVfeXFMTXpnUWNTMHgzdHh4bXlULWpWa2VhZjZCVWRscEJjRjVCcVlscmE3TzJBbXBwN0EyTGVmR2twdlB0a1RITDc4bVRIamtpVUF0am5ZRFFCU3RBeThkMGN2MkJVTlE?oc=5",
+      "source": "BBC",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "FEDERAL GOVERNMENT DELEGATION, US OFFICIALS STRENGTHEN SECURITY PARTNERSHIP",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU256Q0JSeDQ0X1Y3THgxbTJxbng2TlBDN3lhOGFtaUJhYnRLelZTaGdxU0FpYkE0ZGwzVjFVVnN6Qm4tTGZpSmF4c3ViMDZ0ODdxeExVcVU3M1FMUnpPaFNJYWp5bXZCTFdhNmdES2dWY3p1OTlidm11YUZmVHcxRDlIYVZoWS1iQXctdDJCeENBT0tfUml6Z1VSM0o4RFhrSnEw?oc=5",
+      "source": "The State House, Abuja",
+      "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
       "category": "Security News"
     }
   ]
