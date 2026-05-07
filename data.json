@@ -1,32 +1,88 @@
 {
-  "timestamp": "2026-05-07T15:48:19.391Z",
-  "generatedAt": "07/05/2026, 16:48:19",
-  "totalHeadlines": 181,
+  "timestamp": "2026-05-07T18:39:52.294Z",
+  "generatedAt": "07/05/2026, 19:39:52",
+  "totalHeadlines": 179,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 117,
-    "Law Enforcement": 18,
+    "Security News": 114,
+    "Law Enforcement": 16,
     "Banditry": 3,
-    "Armed Conflict": 19,
     "Military/Security Operations": 15,
+    "Armed Conflict": 20,
     "Kidnapping": 2,
-    "Traffic": 2,
+    "Traffic": 4,
     "Insurgency": 5
   },
   "headlines": [
+    {
+      "title": "Keku Unveils Security Operations Book",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZ2V0TVBpeGEweWx2WVR2MzRzaFlSVVdHRU80cVZzcmZwUzhydXRHNDEtbnpSVUk4V1ZuWFowdHhQUnhUb2hhV3lNUmVoenduanRfclZrb0p3X0twR3czMVFQU18tTWxuVGJJOWFCbHlVb3EwVVZv?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 07 May 2026 18:12:38 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Minister Advocates Policy-Driven, Gender-Inclusive Military Leadership",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU01QUDRCQXhlVnktTmRXZV9UOGM0Rko4NnU4RTJWZTFBQjFyeWlSTnBXOGFQUmpxVlVObXpMWTlnaVUwdlh4X2h1T3VZVTZPQWhFSlRpUDIzQ0xtOWVXTmt3OGFLbldFbjc0dWFvTU1XN2pnQVBOTXlWODZYSHlwVjRfM0pBNDB4NVRwNVdrQzQxZ0k?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Thu, 07 May 2026 17:35:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NiMet warns of flooding in Lagos, Delta, Rivers, 16 other states",
+      "link": "https://www.vanguardngr.com/2026/05/nimet-warns-of-flash-flooding-in-19-states/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Thu, 07 May 2026 17:18:06 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "C’River: Two police officers in custody over community crisis",
+      "link": "https://www.vanguardngr.com/2026/05/criver-two-police-officers-in-custody-over-community-crisis/",
+      "source": "Henry Oduah",
+      "pubDate": "Thu, 07 May 2026 16:53:04 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FRSC inaugurates Africa road safety hub to tackle fatalities",
+      "link": "https://www.vanguardngr.com/2026/05/frsc-inaugurates-africa-road-safety-hub-to-tackle-fatalities/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Thu, 07 May 2026 16:21:00 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Ogun NSCDC Arrests 210 Suspects for Vandalism, Illegal Mining |",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORy1CcmRYUUtQUy1wb3N4aEdhODBPNjZlcVZHMHU3Mnk3X01NQ1NwdFVUZ01IaXlkeTdLOWFIX1RkenJydXR4eXc3b2lFY1RVTmVhX1dBcG9SZjd3TVhmb2xYNkFSZG8yU09ZRW13MVZHVTZKUHFqX0tjX3JObW13dlQ5YXBZMWZaY1pCWHFtLXRuMlh6X2JZMA?oc=5",
+      "source": "Business Post Nigeria",
+      "pubDate": "Thu, 07 May 2026 16:20:05 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Telephone Access: Nigeria’s digital divide narrows amid looming urban congestion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHZjWXh4YnlqVXAyZ0t1NWdPTExPTWc5NVhvODdjU0owZGVRYnBsRXY3VjR5c0hmQVZrMXJtSkpsS1ZnRDRRUnh2M0tzbXpySFVWQVNEUTJlTWJxMFJBbWpsZDU3Xy1vRDVlTVR3ZkhOQkRydGFUbWtST2MyNDFFckFaeS1HVGxkNmhDTkdCbGtmT1NoUHlCUVdhLXpKZGlORTVpNGktdw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 07 May 2026 16:19:49 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Justice Crack: Are Criticisms of Welfare Demoralizing the Nigerian Military?",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkF5OXhIa0h5LTNiLXItNXRhYW03aDYwQ3BfYy10Z0NVTEUzQ21LUFZjcEVoMmRUUTNFMUN3SlRLcDN4dU9pVV9saGFOYm9IVDBCSjVqZXVhSUhVek5tcFRCRE1RcVhuLUFCQ2R6ZjlENkx6NEllbTgwVk9YWHJlUUZkY29PUnluSWhMcUJIeGhOaWh0alNTUXFQQ2JBeUg5Y1FKLXRfUWNuRGlUTnBJOUg1aEwybV8yMG5PdVR3?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Thu, 07 May 2026 16:18:45 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Quarantine Service Urges Stronger Plant Biosecurity Measures",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlFuOWh0eTJ3R3J2ZmM5RmlYV1NJX0Q5WU14WTQ5dXY0QldheW9mSkh5ZFRRT0MzVTdSRVRaRF9zS1dKYVNvbXZSQ29Ocm55U2I5c0VxRWdJZU1JbExTY1dUNmtSNzJvdlRyS2xLQjdfQk9DdW9oVmZCZHlTNEF5cmxEb0gxT0VKZEwtZHNGWHYzQQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Thu, 07 May 2026 15:18:20 GMT",
+      "category": "Security News"
+    },
     {
       "title": "China-bound fugitive arrested in Ogun over $245m Ponzi scam",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXNXNkxMSERTSGxqYXZCT1V4Tk8za0pLdG1KNEgyQjZJM2tFNkxCSE0wVmFqZHpZNl9wLTFVOGl6eWh5M0N6R3Y4T3FDTFgxM3ZvYUlFeWxYci1KYXIzUXFwZzMzMkViMEp1LUFUZGlvNkdRakFWTWRZZ1dWZDdkWE1zYTdhV29LS3pPUGhQT0FjSW1iWlVQLVZ2cjIwLVU?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Thu, 07 May 2026 14:57:23 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "UAE to document Iran attacks to support legal bid",
-      "link": "https://www.vanguardngr.com/2026/05/uae-to-document-iran-attacks-to-support-legal-bid/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 07 May 2026 14:40:17 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Xenophobic attacks: 'We can't stand and watch' - Details of talks between Nigeria, South Africa revealed",
@@ -50,20 +106,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Xenophobic Attack: Tinubu orders emergency response unit In South Africa",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWJQYTZSMWtkZGM5WmljWEdOejNiQk4tMk5zeUlwZTNkd3Btcmh2NEQxNTVVSklOQnFndVEzMXNMbktrWDJQc2Q2MzhxOGVUZU1mTG1WeXVIZGlscnVwZHpXMkk1VVFjSFJQSHVRM1BTMVhjWHZPcW1mM09BalRnVlNudWctdjlYSXc0MFZYLTBIZ083cXdfUTZMdHc0NGY4eTRJdElnU0tmU1czamwwcA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 07 May 2026 13:36:53 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "NDLEA, US-DEA arrest Nigerian billionaire in global raid",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGIzT0dCOThGRHVidzczQUY1QVVFUUdialZNSlVYamtWV2E4WUxtNlVxWkhiTU9mSDJjUFptanE1UERJWVN1YkdOWkt2ZnYxRFFrQ0hYS3UyV0ZIeXpJXzI3ZHl4bE9fbHVobUtJRkJ4UjI5TXZHaGlwNzlqUG5rY0dZbS02elBhd2Jkbk5EYnNOTlBpYlNj?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 07 May 2026 13:29:11 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigeria Reaffirms Commitment to Regional Security Cooperation",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0REaExGQnFlc3pFRHFHUWRvTzhkTG9lNklBc2dZQy1BcDJJNzFtR2dwVnhNU1VCLUtVcjJaYlA1dGwyVjVIMXlfYmJzRzRlbmNMZFF4Q3BscHJNeUdWTU8xTzFnOWpLRmlyYWJFMXlzd1U2NkRBd3g1bnYzaDNxOVRiZnRvT2l1?oc=5",
       "source": "Voice of Nigeria",
@@ -78,39 +120,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Those who kill are criminals, not Muslim terrorists – Sultan",
-      "link": "https://www.vanguardngr.com/2026/05/those-who-kill-while-shouting-allahu-akbar-will-go-to-hell-sultan/",
-      "source": "Oboh",
-      "pubDate": "Thu, 07 May 2026 12:51:23 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian billionaire drug baron, female accomplices busted in global sting operation",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmJhOWZpMEk0WDA1c212QzAwS1NMSjRNaWROdkZPd1RiUi1ZYnZpYmh2U082WloxOEJmMThCVmhkUWRKa2VMNGRIWk90b0tFNzY0UmhlYVBibXJNSExRSHBZSndPSEtPVHFtWWFVSUtrc0JRU04wM28tSW9lTjYteDNNU3RPWi01ckk0MmFDWG5uSlJmendBNEN1TTA2TUoyVFJicHVZdnhhdi05VkgwNURNbm4zeWd6UHZwX2t3?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Thu, 07 May 2026 12:34:37 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Billionaire drug baron, two female kingpins arrested in global sting operation",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVBPLW9aM0hnM3RIMGNQOVFqU01jWGhsUFk4ZWJ2WVJiNGZ3MjRRZXp4Ym01azUxa2dvYTAtLV9Ob09GeVcyby1pMXNXYmsybGU4dWVBV3ZXVXFIemxYaWJNOEtxTUN0RkFtTEZtZU1BdnUwS2cwbWVPVHpkQkFZOENEUE5SYXpFVHhHdzA0dFVYM1NMZlc5UzFodFVIRUlVaWFjbGRB?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 07 May 2026 12:22:38 GMT",
+      "pubDate": "Thu, 07 May 2026 13:14:00 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Netanyahu says ‘no terrorist immune’ after Israel kills Hezbollah commander",
-      "link": "https://www.vanguardngr.com/2026/05/netanyahu-says-no-terrorist-immune-after-israel-kills-hezbollah-commander/",
-      "source": "Ayobami",
-      "pubDate": "Thu, 07 May 2026 12:14:13 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Army warns personnel against social media abuse",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2VpejNTcXF0ZnVxQVc5RnJUNHFKOHhLQ1A3TWpnTXlIMUVJM3MzbUlvWUNFOE9CUUNTYVlUbUhZUHJrRHplbVRYcXM5WHVPRmZ3OEtneFI1bUc2MlA5d1NiemI3YTE5VE5XRWVQeGVkSkVCRVltbGVrYm5KUnpGSGVybmhkOG1BWF9SODhHNV9UdXc?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 07 May 2026 11:33:38 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria’s education at risk as insecurity forces schools shut—Akume",
@@ -118,6 +132,13 @@
       "source": "Business News Nigeria",
       "pubDate": "Thu, 07 May 2026 11:03:26 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Cyberattacks: Nigeria records 281,500 breached accounts in Q1 2026 – Report",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlZ3VERBSnN2R1Q3NF9WRDdYcjhsVXBUMXREYkt4Nno5eFB3MWZDTXQtdlplcXZtT1VMOWRVMm5GMFk2a1ByenQ4ajdkb3JLbDZhMy1pcllGM21mcmRpeTNLa0JDYjVYdG05dWJKcGtiN0YzTlVKRU5Ra1BxX2JyMDVBZXRBOUFFS1N6ZVFGLUZITmlRTVBST2wtNGNqdEVCeUNad3kwejBnM2JB?oc=5",
+      "source": "Nairametrics",
+      "pubDate": "Thu, 07 May 2026 11:02:39 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Plateau Attack: U.S. Lawmaker Demands Trump Defend Nigeria's Christians",
@@ -139,13 +160,6 @@
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Thu, 07 May 2026 09:10:35 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Xenophobic Attack: NANS Threatens To Picket South African Businesses In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm13YXFZVUdTelJLMXFvQ2oyazAwZ2VqNTVleWJhZGNzeTgtNWtiVXpnRDlRaHhGeGw5elpwOWlvVW0wcEZhSFFJbTFSOU9iM21xNTVOdllTcmdsQVA0eHotYzJyTkctUkpyZU9lMk52R2h1a3dBc0FHOEJCdUpPV0tjSWpmdy0wLTB3ZTV4c0VrbEVaSlotaFFTRTdRcUhKMGdN?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Thu, 07 May 2026 07:18:32 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Group Applauds Inter-Agency Synergy In Security Operations",
@@ -176,25 +190,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "How insecurity is undermining Nigeria’s economic future",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWEsxS2NPd1VGWGdZTHhXUVhUYktrM3l4WTdXNGliMkczdDE2Z29MaTdwVWV0RmF6OS0wTGNBalZnYXdKdUxWQUVzVS1xaUd1bEk2cFdtei03ZUFrRjBXOVFBRTdjbmZoaW9haFMyYkhhZGhhdFVVRXB1c3ZlYUlxWjk4ZHBHUG9nSy0zNVQ1WXFfVnlzbUttVXkyaFRGb0JJQk94MG9VM09JTlFkcEFUM3RKUHctNkpiaTZMTktsVVUxQVhVbEFhQmowSVIxR3BnR3VB?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 07 May 2026 04:04:39 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC arrests 210 suspects over vandalism, fraud, illegal mining in ogun state",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnF1d2xCWFkxQzRoc0wwdk1jY1lETXlNZk5VZ0lvcWZsV2k3YmRTODFzQ0dnTktQQVRWSVg5UXZ1bjFVV09naldSR3Rrcmc3bUx6V2xvaUg3MzJxSXc4OHRIYndINUpWblJHN0N2LVhVUHZxSmtGcm5OZk54TnZ5LWJLNDdtekl4SUk0S3hVODA0bHd6dFFidjRYd1JsNW9sNHp5Rg?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Thu, 07 May 2026 00:15:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Amupitan’s security concern: Opposition kicks against troop deployment for 2027 elections",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeG1QUnZCSlRKZWNpTjNObjF3b2Z6X3dDbG5TN2taTkVYalQxS3ZEVE1JZGtPU29WeHQ0YTVOcVJGb1ZlLVllQXJjWl82U3BiRXdYOFJoYnVTbE1GNnN6UGpCb2RHVnN0dGRpalZYQ0hPejZBdFZnMDNhY294aXNKYUJIWDZXeUlib1pLbV9nRTd1X3pUWEtETThFU21WUzl4T0lXemhFSVgtZDJJ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 07 May 2026 00:03:38 GMT",
-      "category": "Security News"
     },
     {
       "title": "Security Trust Fund: Global lessons, local successes, and the road ahead",
@@ -302,13 +302,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigeria police extradite Chinese suspect in $245 million fraud case",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXpDQWNmalJWSXlpdjJUbmRmUlNWMHQ1QjVCLXVDM2VOU0t4aUVqM1poNENhMU1VaDEyTTZUN0FxR2dscnBELVJiQXdXUUh2V005ZXpPOU0yUEdqam9wTjAtWTF4c1NaWlVBc0Jic1VxSjVOZmY0Q0kySDdkTVFfZXRGN002dmlZQTd0bml6ZDFieEtYeW5KX0pFeGJoQ1Z4Zk1OTTln?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Wed, 06 May 2026 13:55:54 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Gun Duel in Iseyin Leaves One Dead, Two Arrested",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmJQdWs0bUcwcGtqZ1ZOa1BwZkdoSjB0emJieHJOaUxLZ2NhSVpLUnlkNkQ5bFhlbW5qRWh0ejU5a2lTaE80eUFfQ1hLdVJZMGxUQ3F5aWRrenAxX2FIbEttRVYxZU5nOGhfQnhuYld2MGREeHdQX08wdDlmQmZoU1RMUjhJZkpxNGVRaUFaZl90R1hYQ2lucw?oc=5",
       "source": "radionigeriaibadan.gov.ng",
@@ -321,13 +314,6 @@
       "source": "Vanguard News",
       "pubDate": "Wed, 06 May 2026 13:23:40 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "Report officers operating without name tag, Police urge Nigerians",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnZNal9LaHM2R3dXRDFoYWI5bVR3NjNOcFQ3SWVpa1lLUkt5eHdPUHZ2aEt3V210TWRSbUQwVVZzcE1oNEJLc01xZERENUFYZVlsTFMzM3FwZEs4S19RSkJyaVZ1NUdmVXhQMzBPVzhwUjdIb1Q5STB4M2ZBMW1sQUVkbmJQdWc2aExFNWtB?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 06 May 2026 13:07:51 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "How Mali’s collapse is rewriting Nigeria’s security map",
@@ -362,6 +348,20 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa09acEpIdkxuTTU2SWRldGV2NjlXUkp1WkZzSXBYN09Gc3E0WUVrSG93RUY1b1V6ZlJ4cnFlTUVSeGowQmZManhkM3NYU1dQdUo0aGhzUE5va1ExcGV0MTRsX3lvN3RvRXl3aTFYQVpzbG1GUG96dUtWcDVjT2E1eksxNW9sYk9LNHF1b2dKTXpXdnlUeVBlU1BTMm1pQQ?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Wed, 06 May 2026 06:33:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Defence Minister Emphasises Collective Role in National Security",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjdaRl9RejdEblJUcC1FLWo3d2tEVWRWQ2xLYXpNVUk3NV9tRFVGV201SWRTNzlXaGdvVFdaVXQzUGw3UWI3a2JpajZUM2Nfd1NjQmdSUloxRkItVFRnWllXQkdYc19lMlY2U2d2OGJRQldiVFRSdmJCWVpQVHVIYkhIRmVjbWNJa1hIbg?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 06 May 2026 05:59:43 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Guarding borders: The Nigeria Customs and national security",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkxGeXZJaTk4UGhsSTNZZ0RBb1I0LUY5elRRS0x5MmNWRVdwZ2FkNkNVM3hqX2o2SUU5VWt0bGk4M3Y5X2hBS1ExWFZrcUxtclpnaWNMS1hEVEc0a01QMklFR3RZLXVwTmQ4VGFhSlJCMTAtUDg0OE5TNUFWVXVWYXFKbEZBRXFMakoyZldtQk9mby1FRVljazRDckJZdTg?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 06 May 2026 04:22:00 GMT",
       "category": "Security News"
     }
   ]
