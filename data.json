@@ -1,19 +1,68 @@
 {
-  "timestamp": "2026-05-08T00:49:23.950Z",
-  "generatedAt": "08/05/2026, 01:49:23",
-  "totalHeadlines": 171,
+  "timestamp": "2026-05-08T04:07:17.188Z",
+  "generatedAt": "08/05/2026, 05:07:17",
+  "totalHeadlines": 178,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 108,
-    "Law Enforcement": 18,
+    "Security News": 110,
+    "Law Enforcement": 16,
     "Banditry": 3,
-    "Military/Security Operations": 14,
     "Armed Conflict": 18,
-    "Kidnapping": 1,
-    "Traffic": 4,
+    "Military/Security Operations": 16,
+    "Kidnapping": 2,
+    "Traffic": 8,
     "Insurgency": 5
   },
   "headlines": [
+    {
+      "title": "Nigeria dumps 3G network as China routes Internet traffic via country",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2NjSFFLa0FpdkpSdVJTd0gzbzRnMllxdzh1dng0QmJOaGZEMFBabmhZbjUzLVlmSXB5d0N5bmJFZU9aa21ISXowaDNGejZ2Nk4tYW9FMWMwWkZZbkFGYkJnOU5VYzVwR2RVQ2hBYWZGTzVuRDZVODhmalp1RjE5SGVyVjlJNHVnRndMVDk1enk3bU5PQmJiM0V4LUxzUmxTLU5n?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 08 May 2026 03:54:02 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Rethinking narratives in security reporting",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFNqZmc3RUZ5MjBwamY4b0dLZ1FOQVBfMFI3TGh3T1R0cm1GLXNha25Bc1Q0ZS1YYXBKS1JacmtEUEUxWnRDRmpxaWZLTDEtSDVUQy16WHVGTEJLN1ZHSU9jOERKal9hMGRaMUVZVE9Bc0xFOHE4YlA1bTRzVnJEemJMSmx6b21OQW1r?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 08 May 2026 03:38:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Presidency: Major Investment in Roads and Infrastructure Critical to Nigeria’s Development",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3RLWm04bVUtQzFtaE1xR0QyOGU1VjNCWXpDYTI3cTlPU2RqN3lTUUJaR29rUkh6S3FDZ1B6Qzhva1Q3bThqRWlqS3ZHRjB1TVNXRjU5c0VLTTh6U0djUXFCa2VmWEdwUHhQQXp4VnZBNDh3V1NKU1dKbGM4YUVINUVxTFI2UkhkemJXbFMxN1NvSklMTk95M2FRY1J6UjVXUFh0S1A5OFZWYl9TVWlPdThoVVNjWklmeHBNTDl4MXQtaDVqN3kw?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Fri, 08 May 2026 03:36:43 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "FAAN prioritises Nigerian Army in air logistics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGNBQy1TbjIxQXZJNDlKbDVrS1ZFdzBuNFd6YU9aaWE2UWp1THFYYmtvaUpXYTdYOUplRmxMU3h5Sk44dnpCQ2RLMU1IU3ROR21iWkw2OVRDZVNwa1RXSE1EekJROWNoUmpMMTYtcDRNT1U2cGV0REJFcEVfRFlpS25iR3RCRXZTMVBTMG5KcFBDRkplMXJBSmJSbVlqZGtjUktoOVFobw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 08 May 2026 03:33:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests 210 suspects, recovers N23m for fraud victims in Ogun",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDl4WlFVX0VDd21hV05Va2dWQURJaFJzMmZmbmtkMnJKekttRXVTeWRhbXM4UDNfa09zZ0VpUjV3Yjc0ZjNIU3FDaDI2V1JNSGNHWTdPb0tEbU5aUXp2b3IzU19MdTVhR09fcjVUbzU3T04yXy1MMldObEJWUkRPTzJWYl9hZFR2b2E5WUFEeHFINVdYZV9TNkwzOEoxOWJsU1NXYks3RWNXQQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 08 May 2026 03:14:22 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria Records 10% Growth in Passenger Traffic as IATA Predicts 6% Performance for Africa",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGVyTkZaRGpOQ3c1aEZfUkhKeERWbUtTeXpOOV8xVGR4RmJIMGtLb0Rud3REUTY4ckxpc2k0VVhreTNaYWZyWHA3aFJvVTQyVW1pb1VYTnJSREFBWTRYSXdBRWFrY2UwN2RndUVWT2ZucG5qa3Etd3A3aHl6d0hBS05ERlBaOFhKSEpuenpxWElCS2c0WGNBdnd1blpBZGpfNG5oVFI2eUI5U05zMl9FUWJsV2lBeFRuZU1TUEtqTzFZTkpWWDU4?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Fri, 08 May 2026 02:11:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "ILO and Nigeria's RAAMP Sign $10.7M Deal for Employment-Intensive Rural Road Maintenance - News and Statistics",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOenhkMjhNQWUyZENyNVVlMmp0VHQzMEtZWGZ5SUUxMC1fRkNraE5MR3l0ZGFjS1gyeFh5NlFfbEJuXzFQb194RGUwSUlfbXdPUlNhSnNpN0dCRkQ4eDBmTm5mNlI2VXdOYmdYYXNUXzM2dl9kcmxYeHdNMEkwTENsc3lUZHRXbVBGeFhDQjQwNlNQMXVZQ3ktSGdsVjU0OUVNTmVZWnBKRmtaV3l5RlNremExRFBtUHVmdGc?oc=5",
+      "source": "IndexBox",
+      "pubDate": "Fri, 08 May 2026 01:02:00 GMT",
+      "category": "Traffic"
+    },
     {
       "title": "Attacks: Many South Africans have always been hostile, by Adekunle Adekoya",
       "link": "https://www.vanguardngr.com/2026/05/attacks-many-south-africans-have-always-been-hostile-by-adekunle-adekoya/",
@@ -120,24 +169,10 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Justice Crack: Are Criticisms of Welfare Demoralizing the Nigerian Military?",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkF5OXhIa0h5LTNiLXItNXRhYW03aDYwQ3BfYy10Z0NVTEUzQ21LUFZjcEVoMmRUUTNFMUN3SlRLcDN4dU9pVV9saGFOYm9IVDBCSjVqZXVhSUhVek5tcFRCRE1RcVhuLUFCQ2R6ZjlENkx6NEllbTgwVk9YWHJlUUZkY29PUnluSWhMcUJIeGhOaWh0alNTUXFQQ2JBeUg5Y1FKLXRfUWNuRGlUTnBJOUg1aEwybV8yMG5PdVR3?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Thu, 07 May 2026 16:18:45 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria Quarantine Service Urges Stronger Plant Biosecurity Measures",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlFuOWh0eTJ3R3J2ZmM5RmlYV1NJX0Q5WU14WTQ5dXY0QldheW9mSkh5ZFRRT0MzVTdSRVRaRF9zS1dKYVNvbXZSQ29Ocm55U2I5c0VxRWdJZU1JbExTY1dUNmtSNzJvdlRyS2xLQjdfQk9DdW9oVmZCZHlTNEF5cmxEb0gxT0VKZEwtZHNGWHYzQQ?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Thu, 07 May 2026 15:18:20 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria's security crisis: What's the way out?",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
-      "source": "DW.com",
-      "pubDate": "Thu, 07 May 2026 14:38:08 GMT",
       "category": "Security News"
     },
     {
@@ -155,25 +190,11 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Gunmen abduct 6 Nasarawa state university students",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nWE5OZ1RGdDBBeE1DeThBcEdnUnhNODlPNUs4ZDh5dEJvMTA2ZlBzNEJRQm80M1hueFd6NS1YWFg0dGhBNFNhdVo0Skc5T0MxaERVXy1xSm9fN2xqWWRyZ1Ztc1cwVzJvaVFTVXdBNjRPZksteXFPNWtJNXE?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Thu, 07 May 2026 12:53:34 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria’s education at risk as insecurity forces schools shut—Akume",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQWQ1MUFKQWZTR0R6aThCNEdtSGNVaEtEMUR4R1pjSWxwOU05dkozRjQwQkl3MWNkSlk3NU56d2c2RlhISU9MeUR0WGk0dzRLX0w1U2ZOSklXSk4tNDc4WlJ1TVRjQ1p5a055VlN2TkxhNktNM05vaWlCRjVpNHh3QkJjRlBxWXVKQV8zdGttVWFNdUVoWXdrZi1RQlFzY3UyTDJ3VXRlNEhfemVv?oc=5",
       "source": "Business News Nigeria",
       "pubDate": "Thu, 07 May 2026 11:03:26 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigerian billionaire arrested in Switzerland drug raid",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUcwRlBRNElFRnQ2RmV2NV9PN1pISWNlTFFPTUJoTlpabm4zZDBRVE5RcklQMXhoNE9BNGtZcXczbTV0WWtCRVdtcGJ5eWxrNmlRVE5xRkxMTkNqSFRmeG5EN3hQZkNBdDhiRFEyQVo5a0RLWjU3NDhwaDZVNUNxbVYwal9TOEZpN2EyTXV4di1MNm1hY1Z4aEpUdnhTalV6M1YxeHZZWdIBrAFBVV95cUxNYW9vNWxrc0dhQkNqLUlGTWZaQkYwbFdBcHlOaFRzY3otTGRTREJ2bGsxMTBCb25nblI3RWZ3NlQ1RlRxaWhSSkd3N25POUlQZ2lRaHNrTG9NYllKTlhiMzhGWG1leFM0cXZVdmxZRXdCZkEwRmhRYTJMMzU3cXdwZnlWd2xpQnRGRE9HcWtseVNPVDRBbjR6Rm1uYjZsUG1DYVlXOElNdVBzYUJf?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Thu, 07 May 2026 10:50:42 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigerian billionaire nabbed in Switzerland drug raid",
@@ -209,13 +230,6 @@
       "source": "Vanguard News",
       "pubDate": "Thu, 07 May 2026 04:43:20 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Hardship: Insecurity, poverty, pushing Nigerians to brink, NLC warns",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTM4UUVFZGdMUlFKZmhQWWlVUUZZSENyUzhnZk9LQzBDM3U2SVJsNmtvZUw4WGpha0tNck90ZXZWQVdEbW1RZ0RoZkZNdWE5TnBVdE03VGtOV2liWTNjdXRvVURVSWp5c3BxMnBGSkNzcHdnSTRfWUppNjJyQkdBVnZ6a3pqM0RDbld3dl9xZmFCSGhzeWVzelpOb1V4SjFUUTEw0gGoAUFVX3lxTE44TzFnakZmTXE4SGVoTXhHUkl6cC0wMWV6ZFhKaUQtR0t5QUt3OVZ1ZFpKOE1BVGsxTlJLZFEwd2hSbHhtZW00X0htRHZkV1llNm1ocGNaNmUxNmc5V1FNRUkyWmxXT3RNaHpaTmpIYU16Zzl2S0RqTWtNOTZvMTAwT3d5VVktRmMwak1BNGVmS0t1VTVpdWZ0MlZycWRuVmpPckpYSFY2eQ?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Thu, 07 May 2026 04:40:50 GMT",
-      "category": "Security News"
     },
     {
       "title": "NSCDC Arrests Nine Suspected Criminals, Recovers Firearms In Adamawa",
@@ -274,13 +288,6 @@
       "category": "Security News"
     },
     {
-      "title": "Defence Minister Reaffirms Nigeria’s Commitment To Regional Security",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTRWc2dQZXJKdURtSWpVNXdSZnNmcGYzZi1YeFItZC1wb3VNa2U1Y2V1WUMyV2ZjWnplaDRwVGFaMUNyUGdWT19tOXowcnpnamd3TFdadEtjSEdrbVlEQmFta2hsTUZjbmd3OXY2emQzcEhFbm01Rzg2cS1MTHB3MGFfd1o0ZlVNTjE0UGExRUo?oc=5",
-      "source": "thefact.ng",
-      "pubDate": "Wed, 06 May 2026 19:30:38 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "SECURITY ALERT – APA LGA, BENUE STATE",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zS0haRDBUYVkxaUJtZTQ4eTg0eDQ0dk0yYXBQa21fN2ZueDhOQVotUGlGMXRWTzl5YllQU1NOUUZkYjBScHBxNHoxNGNfRGtTeEQtWGdNb3hZcVVCYkdndHQ5eGVkMzhMaDB2MlZLRl9oZkVyb3ln?oc=5",
       "source": "Truth Nigeria",
@@ -309,18 +316,18 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "NSCDC Intensifies Efforts to Secure Agricultural Investments, Tackle Farm Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY3hwd1ptWk1VVDlmN1c2UW1UcmdIS21lVEtlZUVrM2Z5QTZPQzJxU2Z6WWxBMTR5ZThVbXp4d2FPY2JwVmpIbzJZTmotRGRBcmdhQ1loQVdXZFFmUGdsdUVmMFdMaC1OM1FCa3pEX1p5WGptc3gtdlVWajhhS3FGa21jOGtvME5zRDRSeVRiZ2VtWklMRWI2R1U3cWlER2g3UnZyek1HVzllbWc?oc=5",
-      "source": "AgroNigeria",
-      "pubDate": "Wed, 06 May 2026 15:45:13 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria, Somalia Deepen Bilateral Ties on Security Cooperation",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDU0elJIXy1Fd1lZRy0wTlVaWHVSTzJWY01OV2liWEJlaXJaVFVsbUM5ZTV6UEVmd2hXUFBXRjlvRjhKTS1XZU1yZDRVTXB6eWhFV1g2ZWJweW9xMEwwNXZGUEVNZmhYZ0djZGJZYVJOVFJSSEI2MEpoU3pmNWZnTmdWQ0VKaUZP?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 06 May 2026 15:44:30 GMT",
       "category": "Military/Security Operations"
+    },
+    {
+      "title": "Defence Minister Reaffirms Nigeria’s Commitment To Regional Security",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTRWc2dQZXJKdURtSWpVNXdSZnNmcGYzZi1YeFItZC1wb3VNa2U1Y2V1WUMyV2ZjWnplaDRwVGFaMUNyUGdWT19tOXowcnpnamd3TFdadEtjSEdrbVlEQmFta2hsTUZjbmd3OXY2emQzcEhFbm01Rzg2cS1MTHB3MGFfd1o0ZlVNTjE0UGExRUo?oc=5",
+      "source": "thefact.ng",
+      "pubDate": "Wed, 06 May 2026 15:30:22 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria–Turkey Security Alliance: A Dangerous Gamble If We Ignore the Rot Within",
@@ -355,13 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUThtOHBTTmRkS3Q0dVZxNExTbnBPSjJ1cTJxTE5aX0FxeTlqS05iWlAwbHFvb0pwd2tIaklMcWgxMzlka0R6UjdIdWxmX2dld1V2Mi1OWFMwWE12cWRKbDBXVkpTVFRraDdqNXRVVTVna1VEWXE1STduUUU0QUxiNVlveE8?oc=5",
       "source": "TheCable",
       "pubDate": "Wed, 06 May 2026 09:50:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Energy security is the real test for Nigeria’s incoming power minister",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnZNR0tMODh5ekplRVFmMGhtMHRDdmlLVFM3aDlMVWtWNlNpa1NleWw0eXBDcUVHcWU4V3RfTGd1cjJTNzM0aTdBYUN3elpaamN4ZE1jU1U2U3B6OGdrN3JiZk9WS2NzM1AtT2tITU94bHJjVnZVV2d3ZldOSjBEUXd2eWtiZjZKbjRkcTVTVThsUlBCbFIxek1B?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 06 May 2026 09:47:00 GMT",
       "category": "Security News"
     }
   ]
