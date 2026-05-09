@@ -1,32 +1,74 @@
 {
-  "timestamp": "2026-05-09T12:25:06.433Z",
-  "generatedAt": "09/05/2026, 13:25:06",
-  "totalHeadlines": 167,
+  "timestamp": "2026-05-09T15:23:02.760Z",
+  "generatedAt": "09/05/2026, 16:23:02",
+  "totalHeadlines": 165,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 101,
-    "Law Enforcement": 20,
-    "Military/Security Operations": 12,
+    "Security News": 98,
+    "Law Enforcement": 21,
     "Banditry": 5,
-    "Insurgency": 10,
-    "Armed Conflict": 12,
-    "Traffic": 6,
-    "Kidnapping": 1
+    "Insurgency": 9,
+    "Military/Security Operations": 12,
+    "Armed Conflict": 11,
+    "Traffic": 7,
+    "Kidnapping": 2
   },
   "headlines": [
     {
-      "title": "Ribadu visits US, strengthens Nigeria–US security partnership – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMldLcDhnbjFDWmx1eURVaVZ6cE5kYUt6dldNRHJFck5ZWWgtdURLdHRlanNXRG55MEF4d3dCdVNBM2xLQVNwSVNILWlhbUlpOWVLbTRWUUh0UnRoUlBUQk1qTWZHY3Y1V0lPbm9TbUllLWJvV3VIdGt0NVFKVHE1MTJ2UWhkdWxtbnp2S19EUW9sTmNjaExUeEFPbnlfb1c5ZEE?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Sat, 09 May 2026 12:01:12 GMT",
+      "title": "FG announces partial closure of Ikorodu-Sagamu road for reconstruction",
+      "link": "https://www.vanguardngr.com/2026/05/fg-announces-partial-closure-of-ikorodu-sagamu-road-for-reconstruction/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 09 May 2026 14:53:14 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Ondo: Amotekun arrests, hands over four suspected terrorists to DSS",
+      "link": "https://www.vanguardngr.com/2026/05/ondo-amotekun-arrests-hands-over-four-suspected-terrorists-to-dss/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 09 May 2026 14:34:29 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, U.S. Deepen Strategic Security Cooperation After Ribadu’s Washington Visit",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeC01T2UweUF6TE9ENHplOFFBV3NLTGEwQy10Xzktd3RNbWdkYV9MMlpGQ0szVHR1UFVQaW8wYjkwVmJpYm1FdzVnR3hpbWIwVUZ1TDlnX2Y1eW5mZGRMUFJJQVFvR0tKSjVEek1Pbm1aR09NMVdPQ2tObEkwU25jdFJyaDdXc1ZmSjlUWi0tUFRaMlpCdHhFVEM5YTBXQkFjQ0FBN2FZaFVnc05SYlY3ZDgxNFFqb2lkdGdGamFGRHF2dFFq?oc=5",
+      "source": "zagazola.org",
+      "pubDate": "Sat, 09 May 2026 14:12:06 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "NSCDC Busts Car Theft Syndicate, Arrests 6 Suspects, Recovers Vehicles",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56M0ZxdkJURUVKZHZhem9naDE0cmx0ZmFSTGVZOUQ4OG5UQjYxZmlGcm1HV0p5dTIwdGtKNUt5U3dMNWtwQWVqS01aZkJIN0JYalVVN295X2lWbUVHWkZzbmpPTFhtQQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 09 May 2026 13:53:01 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FCT Police detain Ilebaye’s father over alleged assault",
+      "link": "https://www.vanguardngr.com/2026/05/fct-police-detain-ilebayes-father-over-alleged-assault/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 09 May 2026 13:27:44 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, US deepen security, counterterrorism partnership",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmZwaFFsS1l0TzJmRm1IamM2Y1FORjJTWnFYNjdaWkJPYWVCbldkUWZrX1dFelJCcnExLW8xM3QzbVZHSXpWNTZuaUliQzBva3BDNkdmVnNmWjhxODloMWNrRExDUG9JbWNObkpuUkx4ZXJ2TVAzcjFyZHdOUGZyejkzSFd0Z2x2?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 09 May 2026 13:22:01 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Ribadu meets Vance, Rubio to strengthen Nigeria-US security partnership",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVNqd05FbDFrWHcxOUxHbk83alBqTE56bVM5Z3A5NU9Ka0VsX216c1VpSnJfT1UwdWxpWWVOeGNRaFYwY3F3N0lSQWxKWmtBYmFpdGVvRmVDMTNxV2w3VUg1Z0FrRzVlVVZ5MnVFMGZYTFh6RHRPRV95TlJDR1F1VjlUMFF0VTdlUzBKXzJiRHJPTUFkU0NF?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Sat, 09 May 2026 13:20:40 GMT",
       "category": "Security News"
     },
     {
-      "title": "Security/Counterterrorism: Nigeria, U.S Deepen Cooperation, As Ribadu Meets Vance, Rubio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3hyREUwV3V1eEk1Rjl0c3dSSEEwM2taRlp6NGN1SXdTYmVQYjNMTG1ySERqM3cyc0dHLVZrVnZsRTVsNEpXVDNkRGM0NGYwbUk2WGhHOGFtUXd4U3owMWptMlNuZ0pQX1FqUFgtLVM5bGJNZElkMDJyWmgyZWFERGhaQklBRTdpTzVoZ0o3TVp1cEo3NzBUU1N4Y0V6Si04ZFFTa2hEejBjUjhv?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 09 May 2026 11:50:48 GMT",
-      "category": "Insurgency"
+      "title": "Customs probe officer for allegedly demanding N200,000 in viral video",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXVvUzRNMi1ZY29wYjhYTHBQUzJNbE9pNUowN05WaWt1U3kzZi04TnRsV3NPZnRXN3JlYnBBNmp3RFZZVzlpMC1PRFZvSWgtdWtUMHpqZFY5bm44TTRBVnlUUlZKaTJxa1BqQ05OYmY0UjJwX1FBWmxQSkRsZVNjOENHNjJkT3BoYzc2cXdFWHB1cWJFd19qbnNmVzJnMDctU1oxMlV0blNHRGdt?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 09 May 2026 12:19:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria Recorded 12% Drop In Crash Fatalities In Q1 — FRSC",
@@ -34,20 +76,6 @@
       "source": "News Agency of Nigeria",
       "pubDate": "Sat, 09 May 2026 11:49:30 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "Customs probe officer for allegedly demanding N200,000 in viral video",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXVvUzRNMi1ZY29wYjhYTHBQUzJNbE9pNUowN05WaWt1U3kzZi04TnRsV3NPZnRXN3JlYnBBNmp3RFZZVzlpMC1PRFZvSWgtdWtUMHpqZFY5bm44TTRBVnlUUlZKaTJxa1BqQ05OYmY0UjJwX1FBWmxQSkRsZVNjOENHNjJkT3BoYzc2cXdFWHB1cWJFd19qbnNmVzJnMDctU1oxMlV0blNHRGdt?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 09 May 2026 11:23:08 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Will Witness New Petroleum Pricing Dynamics With Operation Of Public Refineries - Don",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWDNHZWhOb1AyT1hxTmxIaDRlcTFzTmJTalpHd19PaHNUT1UzR21hTkZBVmZmQ1VFY2ZqV29RRXBGTlhrcENzMmlOOXowM2xWSGhPM0c0YXpJUXJjXzhhNzRxV0JvdGZPV0ZUdllrNUlaQmx4dmtQdG03WDZsTUE1clFCQVlUeDdHZFhxbkFJaWt3bGFfekVxN3JXTHlXOW5ueEcxblotMkM0VjNGRUdRNDJxZWM?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 09 May 2026 11:18:03 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Nigeria, US Deepen Cooperation On Security, Counterterrorism, Regional Stability, Strategic Partnership",
@@ -64,11 +92,11 @@
       "category": "Traffic"
     },
     {
-      "title": "Counterterrorism: Nigeria, U.S. deepen cooperation as Ribadu meets Vance, Rubio",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1NMU3dwem9SOFNIbk9ESjNjUFJuRHp2MDZHYWF5NEoxbUJVLXJrX18xVWpmQmpaWWthUmlNX0dMWUpPMWktTW54VVBYSG96MUdjMTVYYkt0XzR0dHJ5OEhZR2cySlY2eXFIcXI5WVVpQlJRQ09xNjBrWDBxVEhTc0c3dExBVnYtTXpwRThXOE5mQlkySFhJbUxFTnZzZDVKU0V3M3Z2Nm00TFUyN2t6TnRlSQ?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Sat, 09 May 2026 10:56:53 GMT",
-      "category": "Insurgency"
+      "title": "Ribadu Holds Strategic Security Meeting With US Vice President, Rubio",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mWXA0dDR6ZFFoakdRM0VuRm5kRXBlVy10Q3FHZ2tndlpFUGx4dGZUZThUS1ZSV1F2amdxamROTDhEejZYY2daRkUxZGhwYXFFdFdZN0QwNER6VGVjNXhndS02c0ZuWm8?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 09 May 2026 10:46:38 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria, U.S. Strengthen Security Ties As Ribadu Meets Vance, Rubio",
@@ -85,6 +113,13 @@
       "category": "Traffic"
     },
     {
+      "title": "EU, Nigeria Deepen Strategic Alliance as 2027 Election Concerns, Trade, Security Dominate Europe Day Talks",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTnFRdG05c3lPRG9tN2IzdU9yQV9QLUxxNWN4d1hkcFJrSUJnXzdfYzMxVnpkMUFIbmk3SFhKLXZveVVvT1dDaGZwbUN0RXJvN3RqbGxkT180Y2E2bndKOXNjcGZUX3U3Rm9KTzUxdDVpMUZlMjd5X3BFSm52TjNrX0dSbUFzQVJpWjY5Zkx0U1Z3T2MtQXBUMkxDYnpIYkdtSDMydHRSdGNtNlhGOGdRbGE4eDZZY3FseW8yaWFqT2ZXb0k1MGxFcTh2NW0wUnRONmtWYkZuUF9aQ1E?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 09 May 2026 10:24:54 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Nigeria, US deepen security cooperation as Ribadu meets Vance, Rubio",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2hEc3JuVGVFNjJRSlg4WUx5ZjhDXzNfMUdvOFJvSjQzRmZWU19GaW4wV2dvRk5uNWxCME54X1NBYlBET3JHUV9rOWtvSDJjU3AteWk3ZkxGa3dGN0xTZXNzZ01GVWJ4U0ExRmtreG5xcWp1OFpxVXNpVkgxSklkd2JkQTg0OEViaUJiOTRsYmZTSlp2SkVoblc0dkh6Zw?oc=5",
       "source": "The Nation Newspaper",
@@ -99,22 +134,15 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Ondo probes mother’s death after quintuplets’ delivery; donates N2m to family",
-      "link": "https://www.vanguardngr.com/2026/05/ondo-probes-mothers-death-after-quintuplets-delivery-donates-n2m-to-family/",
-      "source": "Oboh",
-      "pubDate": "Sat, 09 May 2026 10:00:01 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria, US deepen security ties as Ribadu meets Vance, Rubio",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmxaNDZxdTFGV1VGWTN0MlZlSlRTcENkUjZnTUNZMURvWWNUYWlZcTZCdkhyenJoRnFyenJyY0x2a3BRdGtzMjFWc0tKc2J5TkVaTnRQTXhTbEJ3SFcxZGdRUUJ0VGFrWXpENHhxN2MwbUdIRDRfa0EwbmlrbXZ4clhMYW5MM3c?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Sat, 09 May 2026 09:58:19 GMT",
+      "pubDate": "Sat, 09 May 2026 09:58:55 GMT",
       "category": "Security News"
     },
     {
-      "title": "Nigeria, US deepen strategy against Sahel terror threats",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjNXdUxhZzJXYkxXMFgydEpXUWJoRTVCVmd2c1JHbzE4WDE4d0FBSmI2VktxUHJPcmdmT0xFMHoyQlhodFdHQmJJWGJqekRST3h3QTRsTzcxM2tjSnFwWmc1b1VsRm1pZ0s1UmpteTVpZGhxNkliMmdTVHlGT2xlSE5xQjlIMl8wNWVmRA?oc=5",
+      "title": "Nigeria, US deepen strategy to confront Sahel terror threats",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakhfdlRJejFMTFFJaTBHX0tmUHcyMWhPejNYN19CXzNxN3BqLTdpcVhkQTVCYkM0a3NHNDZFaEtzUEp4bm9HTTZ3a1V1dl9mU253NnlMUndfZkVLTS1fN3JKMm9fSk5GQ2drbEpuZDBkeDI5X3Yxb0VWRHp3eGo3RHpxTERLRjMzNWVIVWUwTjhtUQ?oc=5",
       "source": "The ICIR",
       "pubDate": "Sat, 09 May 2026 09:56:29 GMT",
       "category": "Security News"
@@ -134,17 +162,10 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Lightning kills police officer on duty in Maiduguri",
-      "link": "https://www.vanguardngr.com/2026/05/lightning-kills-police-officer-on-duty-in-maiduguri/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 09 May 2026 08:45:11 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Four killed, four injured in fresh Plateau attack, clash with security operatives",
-      "link": "https://www.vanguardngr.com/2026/05/four-killed-four-injured-in-fresh-plateau-attack-clash-with-security-operatives/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 09 May 2026 08:40:38 +0000",
+      "title": "Two soldiers, many terrorists killed as Nigerian troops repel attack on military base, checkpoint",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVk5jZXVjNDdFVEhSRmxOV2N5QWhPSnhOdnhCVkU3aDB3T2hrOTd4c2g1MlpNTV9LTFNLTGtuOWFOTTgtRFJzWTFRaDJVbFQ3UlN3TGJ1VFM5S1QxY09RRWpvdHJuSEtobk5razFGQVRnTi05ZGhtbTN4RDRZSmozLVZlOGdEeG9iQTlRUXh3U1U1TVNwdXNEcWFWbmF4RGEwVzdzZHpTOHRtQ2ppekVTTHl2U2phQ3kwVHpQNUZRMngyZHpXbFdIdk9lZVgwODZmME81MDNvQWJjbXVhTjB3TVFYZmtGajQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sat, 09 May 2026 08:28:39 GMT",
       "category": "Armed Conflict"
     },
     {
@@ -173,13 +194,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlRrT2ZqcUNscy1meF9YaGxMN29EWlRYRkUtQ3VDYWhRZDNDOXBia3l1eEI5bTFjZ2c3X0FqZjlNTUlGSTF3YXo4NDZyMk1Eek1OWmlMeWd5ZjYzU3JfQml5dHdCUko2bF9pU09GemNDQk50M0F1RDJMZHVtUTl2Y2d1RnhMbi0tRGlVbUNLMVJGV0YzeU1rYUtyZlMySEdsakJ0S0lEZ3p6UEhiOUJtMk1TSG1tWG1pOExKT1dKaDhCcW9TMmZkME4tNA?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 09 May 2026 04:26:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Military aware of anxieties, expectations of Nigerians – DHQ",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3J5UmxOdXNob3lvdGZ6X2F6bDR2ZzFnNnROM0JwTFRYYkpfMTZhMnlFQWJGTXppME9iUXJPLTJNUHBnRHM1OFgtUkp4NHA2MTBoSHlhd3pwTmF4ZFp1TUh1WnVvZkFtbUJEWnNmR2tfanRDZ3ZEVEpxNmNwWk95QU9qM2JhZDZXQWFTZ0s1ZUE3RG5fNEF3YTR3?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 09 May 2026 04:24:00 GMT",
       "category": "Security News"
     },
     {
@@ -348,20 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUc0TDl0NTB5dVVvek5qSTJBLTZ5NTRFcTBtV0w1Nl92Y2lLd3ZfOU5tMVczeHBoYlVSbFhxejIyM1NmcVNPRVN4UjZQSU9udnhYMlQwcHlxeWdDN0F6RTBMUlRjRF9TNXg5SUVmbHdjZWJhaUpVZ1B0TmYwOUFpX0tvelVlSUVPRlNBaFRB?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Thu, 07 May 2026 21:17:59 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Makinde’s security adviser resigns to pursue governorship ambition",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWndDLWZSX3hwRGxUTThDZjl3YWZVcmROWnZValR6bmpFeXQwcng1T2Y1WFRCb3duRkF4NnRTM2Z2MVJnYm9vbjdELUZjWC1XY3ZkUjJGdmlTQk5qVTdSMUVHN01rdmxpR2x0QVlmY0tXTXFzQ3E4TnNkaHFkZUxoTlpmMjMtMjBDbDF1cGNFeHZiVlNJVlpmSktkSF96Zw?oc=5",
-      "source": "Ripples Nigeria",
-      "pubDate": "Thu, 07 May 2026 20:17:35 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Reaffirms Commitment to Regional Security at MNJTF Meeting in Chad",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXJ5OUhZa2Fyekk3UzNLeUtHQ3ZmMVMwRG4xSVJRWkdSRVROWkUtUVFxd0hjbUJyTENfeEZSSm5weHNxVDA2RXBUN0ZxdHNHc2liMS1RWU1rWVpMZ0lNVzlkdjUydzBDR1NLcnFKNmNFSk1vTlFKTlVYODBLbU1ZeGlwOUNSV1llQVg1SUJxME84dlhpeDlleHlTNjVqaHRoXzRDc080eXdyWUxZdXZDcUpJOUNydVR2OFpV?oc=5",
-      "source": "zagazola.org",
-      "pubDate": "Thu, 07 May 2026 20:04:16 GMT",
       "category": "Security News"
     }
   ]
