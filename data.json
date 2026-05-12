@@ -1,23 +1,44 @@
 {
-  "timestamp": "2026-05-12T18:43:02.393Z",
-  "generatedAt": "12/05/2026, 19:43:02",
-  "totalHeadlines": 180,
+  "timestamp": "2026-05-12T21:31:44.726Z",
+  "generatedAt": "12/05/2026, 22:31:44",
+  "totalHeadlines": 172,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 122,
+    "Security News": 127,
+    "Law Enforcement": 10,
+    "Military/Security Operations": 6,
+    "Insurgency": 9,
     "Traffic": 8,
-    "Law Enforcement": 11,
-    "Military/Security Operations": 11,
-    "Insurgency": 13,
-    "Armed Conflict": 13,
+    "Armed Conflict": 10,
     "Banditry": 2
   },
   "headlines": [
     {
+      "title": "Nigeria Needs Skilled Youth, Not More Out-Of-School Adolescents – Alausa",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0RDa2g5ZWVsdWxHUDBFXzRaeEZleHpTSEk5UGxIemFTZFptSF8xVlNFcGI1bGNNMjNuak0xSkRTeWVoWkRSSXFQUnVzdWs0SGQ3RldKQ2FUMFFYUGpPbHRQLThxV2Z6LXhrQmJHU0FVT2NpLTFGODdNSWZPeDRwbmlJdXRKRERvYm5wMF9xNlJNSV91dHpsdNIBngFBVV95cUxQdHh5WXV3TlplMnBZSjVYM1FyZEFVUEwzUDFiWWJRTXk3NDI4eXVfUlQzTGl3MkwyTWZqVWREM3NwcmZsZDVUXzNiQkxId21RR3FqazdOcVlDMHB6bWZYR056TjZFZE8wc25adlVfeWRfSFA1dm9ya244UGxiU3d2cnJqR1lnZ1ZtaDBNeFF1VlNFM0dFS2NVM2hsUTFkdw?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Tue, 12 May 2026 20:51:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Plateau declares war on terrorists after security council meeting",
+      "link": "https://www.vanguardngr.com/2026/05/plateau-declares-war-on-terrorists-after-security-council-meeting/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Tue, 12 May 2026 20:03:37 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria records slight drop in road crashes despite rising casualties",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3ZLX1FuNDVsZ294YU9KS1htSDZvbThNclNDRW1QVXJ5d1ZBdmEyQWUxaFlUN2tyMlAxbGQ2MDRsT1Y3MVgwU21pN1BIdFZBX3dUTHc3a1BSVGRwM0s5cFduZEdwSVBzdEI2aDVxaWdKd1IyUUt2R3FXYi0tTFVyaWFXUzhmbENrUDdJbnVhSUJkUHIyUG1CYnpITQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 12 May 2026 18:57:20 GMT",
+      "category": "Traffic"
+    },
+    {
       "title": "Edo seals apartments allegedly used for cult initiations, arrests suspect",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU1ZelhaV09qSjV1bjdlOXhEUUMtZ2tBMHFKS2k2NHRSS2lmLWh4N2NfZk1fZFFHTXpaWFpqQkUzSUZqOGM5OTkyQ1MwRXYzeTBMLUxyT0YtYXpXRjRObHNFUUdyM3lWSkl2akhITzlFUWFuZWF0LWhkOVpDd3J0T2FiWmFBdnJBSnNsWFhsZ254ZmkzRXJ3WGhuMHZtMUQ4bHl0b0xIeVVmWWNrelJETGNn?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 12 May 2026 18:37:28 GMT",
+      "pubDate": "Tue, 12 May 2026 18:47:16 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -28,7 +49,7 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigeria Customs Recovers Smuggled Luxury Vehicles Linked To Canada",
+      "title": "Nigeria Customs Seizes Smuggled Luxury Vehicles Linked to Canada",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVZXYXpGWk1zcFNrdGs4UHRyZ3Ntd2FfMlV0SExWalE4WnluRk1PWGNBYUxYcG5vczVWYWxKTm1mSVZ3cERUenVUODh5bDZnUzlJVjJfbnVjMlZqUUxXMDJ4dXBvUU5RRkJqaXZoSWtxdEF6YkVlN2xRWWN3SlEwbHpMYllBNTFZR2xfdnV2QQ?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Tue, 12 May 2026 18:23:33 GMT",
@@ -70,17 +91,10 @@
       "category": "Insurgency"
     },
     {
-      "title": "BREAKING: Nollywood actor Alex Ekubo is dead",
+      "title": "Nollywood actor Alex Ekubo is dead",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3X2xac2JEakpmUWxqUDF1NXJRQnotRHpJYk0xeU14Z0M4RWVRUVMydnR2SVZydkpkamU2M0FCZWx3NExibWFvUndybHBsMEpaRkpJOWVTdWYxdnZhMnZCWUhGcU8zUnk0OFdHRFZHOXpUNGp5R2c?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Tue, 12 May 2026 16:45:26 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NASS moves to amend data protection act over rising cyber threats",
-      "link": "https://www.vanguardngr.com/2026/05/nass-moves-to-amend-data-protection-act-over-rising-cyber-threats/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 12 May 2026 16:05:08 +0000",
       "category": "Security News"
     },
     {
@@ -89,6 +103,13 @@
       "source": "Premium Times",
       "pubDate": "Tue, 12 May 2026 15:45:31 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "Rivalry between Nigerian security agencies threatens national stability",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHJvbV9uRGJRRGVMZm5Pd09CZ1JUVnNaSmlKc3p5QWR0TkFTc1pzYUhZN1JrSzJaRkczUnpfc3ZTZkRaYzRYUFR4NV9vWjFLck5xUW5TcVpLRERfNXZDNUFkTTdtNVBXd0lyMWJSaGZkOWhwaWhWNXZ1VGJ3R1RFekx4UzRNQ0JMRU51dGNQNmk3dE1ZR1JZakozMG1pejlEWUttNWRiTnhJdjQ?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Tue, 12 May 2026 15:44:40 GMT",
+      "category": "Security News"
     },
     {
       "title": "Governor Mutfwang Assures Plateau Communities of Security",
@@ -119,11 +140,11 @@
       "category": "Security News"
     },
     {
-      "title": "Hayatu-Deen: If elected president, I'll establish terrorism court, reform intelligence coordination",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEttaElGRmwwZVdyTjBWeXlyMy01MmRaWGFhS0lqZkhSQ0xBbG9oQW5mQV9EY1lyU3cwNHFnZVdSMXhzNzh6aEhQbXk4SDVlaXh1enVfQmRCQTN5UnktZTd4Y0JBdUI3aGtUdFM4Rnk0RDFlZnBxQU5fcW5QTGk2Wmk0aV9BNWo5bTJ6STJObDd6OUpqMmVnSFdwWHV6VVJYcHo3TzdNSHpqc2xNaHdxUnFDZHAySlNzVG9hbw?oc=5",
-      "source": "TheCable",
-      "pubDate": "Tue, 12 May 2026 14:04:00 GMT",
-      "category": "Insurgency"
+      "title": "Firm roles out cold chain system to improve food security in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckFBRllyNnd2SUdLdzB4ZzFGRU1yTlZYaHYtTWtwRXRvX09QekJvVmVEVFh3NmM2ZFlhZmhCZnctZERMdHdLMjNqZ2FhcjdlY1dXYk5jeFVVLUVXNko5cjJNQk1tS3hkRDlrOWkwMzhod0FZZlRWWG1BTGxlY3YzdnJTMExRdlRkQy0xckFqd096akdZWVdmWjRn?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 12 May 2026 13:42:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "US flags Nigeria, Lake Chad as key terror battlefronts in 2026 security strategy",
@@ -137,13 +158,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yX1Q3NV91WVhueVE3dzYwNEJDUjZGQ0tGMTRmbjU4UHNKMlJTcGs2TFRxYTB4Z2tGUEFfMzVQUU1qYmtsdzdKOFJWTkFzNEFMbTF6aUFPQ01vTUVHbWNhTVNITGxHbmkxZnZodDBUaE4wQTJwZkHSAXtBVV95cUxPRmZLZE5ONGoyYVp1WjRBZk5xTy1RSi1fVXJYSC1CcjhpREU1a3E5ZjFlZGd6NW5JU3Y2aEc3WUxfZ0pEQjVSeFkzRENBU3NBY0VWTm45N2NsS1RWbnNmUFdRVWlxWjZYbUZZS1gzeEJUZGk4MVEwUXVJT1k?oc=5",
       "source": "The Whistler Newspaper",
       "pubDate": "Tue, 12 May 2026 13:20:39 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Firm roles out cold chain system to improve food security in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckFBRllyNnd2SUdLdzB4ZzFGRU1yTlZYaHYtTWtwRXRvX09QekJvVmVEVFh3NmM2ZFlhZmhCZnctZERMdHdLMjNqZ2FhcjdlY1dXYk5jeFVVLUVXNko5cjJNQk1tS3hkRDlrOWkwMzhod0FZZlRWWG1BTGxlY3YzdnJTMExRdlRkQy0xckFqd096akdZWVdmWjRn?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 12 May 2026 13:20:05 GMT",
       "category": "Security News"
     },
     {
@@ -166,13 +180,6 @@
       "source": "zagazola.org",
       "pubDate": "Tue, 12 May 2026 12:48:33 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Germany reaffirms commitment to development cooperation with Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGFKQW5iUm1Hc05TNWtmbXJLWm1Eck9XNllQTU1BS0YxTWlGU3FITHlQUnd1YzBteFdmdEZPUExiTmIzTVV6ZFEtOHRrb1RUVG90R3ZIc0MxQU5XWFpINUJPd2JsYjJFU2U5dEZwVVFfbktUNVlFLUN3TG43QzFXQ3RKZGNkVVRnR0xvbGkyVUJ6ejlfbFcwSXE4MmR1NU0?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Tue, 12 May 2026 12:46:17 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "INEC Trains Security Personnel for Ekiti Poll",
@@ -217,13 +224,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Navy Foils Illegal Refining Operations in Rivers",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTHFqVERzM1g2OGI0cXkwVFNKbHFUWC1qR0MycDROWVZNUmxDdjFncEhYeTN2MHZRZFEyaTVKM21YOHJ3MFFoQzVVU0FYN1NLZGhya09tTXFUWDhPTkQ4VkR5Y1k4SkZDaXdCTC1oRXV1UFJLZEtlaUxoenp3T2N6dWp3?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Tue, 12 May 2026 11:26:31 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "FULL LIST: Nigeria ranks third globally for students studying abroad",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkM2VFFMN1pKcTdaUGJLbWJucF95NXRMMGc3LVdDdElqR2pTU0xOYkI1ZVJnV0xzUmF4QzRyamZVanhxUU5IQUduSXZLa2hnN3E2eHJaUlUtLXNEeTVRRER1ZUdNMmU1dUpMblR1YjNxTDZGU1lCV012aUdhSUkwZk1hQVk1WVZZaTdCTGZ6VE9pQQ?oc=5",
       "source": "Punch Newspapers",
@@ -238,17 +238,17 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigeria, Jordan Sign Defence Cooperation, Intelligence Sharing Agreement",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWJzd0J1RVlFY05vSTZpeVRtck9CR0tZZTBlaDZnZ0ZCSEx5dEVwRktsSmlFcGVFd0x3cUNxSndGWWZFSTdXUi1LUUMwQ0RxcHoxREpXVVdyVzRYZS16U0wxY3lpM3RZSFJ0UlRueEtNSkVQWnZ0Yk9heTV0enNCNlVTejN5Rk1FcjAxeU4xcE5WV1dvQ09fLXdn?oc=5",
-      "source": "TVC News",
-      "pubDate": "Tue, 12 May 2026 10:56:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "CLOSE-UP: Adeyinka Famadewa, the general who challenged Nigeria’s military-first security strategy",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTBUdVhicTFQeGYwVDNkbmVvOS1xeXQ5Zlg2UURtUGwzYmRtdEhqU1RQQk5mOTJuemxJTk9pcE42bkVCT1dFMzFWbHlobmd0aVM3eXVVUXVVdFNDWnRLZmZXbWR2aktpbl9jSmpUTDVSYks3RG5KV21LQXhFMVowUDM2M2RvN3ZKNVdvaEpBMlNZQzNNdl9UajJGV3ZrMEpxRm5KUExVV0pHdnFBRmU2QTZxRTYyQXZoUmdFWA?oc=5",
       "source": "TheCable",
       "pubDate": "Tue, 12 May 2026 10:50:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ooni of Ife Applauds Maj.-Gen. Famadewa’s Appointment as Special Adviser on Homeland Security",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVpJVi13UlRJMGVDREtOeTdVRHlaYWctT3lBQ1lGb05ITlgwMEFIZXd4dGg2QUM1a1BseVRJeTZINllRaUFhb3pZRlg5bWFfSlpFYVhlZFl0RHFWR0VHSzlDMTN2V09mVnJyWDh2cXBUeUdGY0x2NUpybm5XN3VGOExtcmhwSUJYaGt3YlE3S1NtRmRDZVBSOGpwczBmR1puVFVOakVjWTVsUTVLZFYwaUJ0SUE0MTFaQlBvdw?oc=5",
+      "source": "freedomonline.com.ng",
+      "pubDate": "Tue, 12 May 2026 10:36:56 GMT",
       "category": "Security News"
     },
     {
@@ -271,27 +271,6 @@
       "source": "TVC News",
       "pubDate": "Tue, 12 May 2026 08:56:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "OPINION: Trapped Between Nigeria’s Failure & S/Africa’s Xenophobic Violence",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3JLNU9DWldqM3ZqRTBza21lc2xlYW9vMGlZbG1hbjFVM2NRNk51WUQ1VzUyMFBNNjZpTWM1OUlqVVY2MktEbVNkNURxajJSbDZsaWdVRTl6VDY0YkQxQm5LRjFCRlVTcXV6TlNYZG9seU1Bc0JUdTJLSmFPUkppeW9NUjFwOG1NakJWaWhldS1XSTNpTnFpcVZn0gGfAUFVX3lxTFBVVFAza0lRSmpnNkM4MXhZTWI1TTBMNnFvTXNSdExfdFZzNnc2UXdlUnhPSk5pUUxfbVpIUTVKcWdMTU5BRGlNS0E3TUdJWllxbTdBRWEyRVUwTjB1SXFXQzZuTWp5NVAyYkpjZDBaNHRhbjl2V0s3X3JiZ1BmSmtORTd2WTlPcllsYXRvTFl2SVkwY25OSV9VV3BfQ0dESQ?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Tue, 12 May 2026 08:33:03 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "“Silent violence of poverty”: Cardinal Onaiyekan Warns Nigeria Faces Deepening Crisis amid Governance Failures",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTd2N2dmc1hySzBUNm9ZSFNhNEpvVlpaa3JxOFlFM3ZIamVPQkZXWFZNN0YwZVY4T2NDWm41YkpQOVJ5ZnBVUm9mVVM2aDFlTlU1UjJnajlyZm4yYks3a3AzeDUyd3E3M243aFJ3RFBJN3dRVHJTXzlpVUJEczhQamg2bmxrTkJOUWFxRXA5WXYzNHB1TkZBSWtBN3BRdlpaN1Rqemp3SEV6dFY4cXFDbWNrMGpzVWdtMHlQOG9Ba3BVRGJsWGRORXRkcW1aWjNMc0lZX0Y5amlPay020gHiAUFVX3lxTE53bm5naWd0Si1tSldlNFYyOEpRUS0yN2tiNHNLcFpXMWNQbXNXOE9GUHA3UC1IYlZINFBRREpRV3NqdE1BQjVVbThVM0N0LXJldUNTNFM0dlRPZFNSQklZSnBmS1lmdUc5dXkxbnF4eVN4UVFaOFNMQWJFdjRkVk9ud0dNZWlSWnQxemZBaEVWSVBJQXBLWko4aU96Zkgtc2FNT0V1R1JVTEdRclpqRXNLbmFBcnZDVmRmWWh6WE5WVVpPekswYlNSZktvb0VoYXJhUDVpRHZfM2dSbE5xNnJXOVE?oc=5",
-      "source": "aciafrica.org",
-      "pubDate": "Tue, 12 May 2026 08:32:35 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Civil Defence Parades Togolese, Beninese As Human Traffickers, Fraudsters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2d0aWdZa3AwUnpSSVB1M1QtS0FoUWU2YmpKalBoNXM1cTByM1ltdENmYTFJOWUzQlowejdPNmxNS1NkcklIb2NvWWxORXdINngxMG82QXZWS2hHVXNhTXowWnF3VGZQY2YydHFfNTBjaDZyd0N0dFZKVXFvak9BUmFqeVdHVnFMMjRYUy0tcW5MeWtGR3E4X0tB?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 12 May 2026 07:51:52 GMT",
-      "category": "Traffic"
     },
     {
       "title": "NPF Pensions Hails Police Officers’ Commitment To National Security",
@@ -362,6 +341,27 @@
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Mon, 11 May 2026 19:57:34 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "NSCDC operatives arrest two railway infrastructure vandals",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQzNvV0FnTzdvT2tPclozUkI4MTVzaENBeXlDWmpDdWRqUkFPRmt3cUtaYUUwckd5djNtZUJ3MUZxMVFRbngzTkZXUzFkNVliakNpTU1jX3RqSk5TQjQzT1ZZREVNUUlQUFZETUMwTkZ1X21xa25OSzdYWUlJRkJfendURlVpNUtEdFVEMUsySVZvVE3SAZgBQVVfeXFMTmxyOXF1NWYzS3BoMWxUSVVOUV9IYk01NlA0TTNrX01EODFObUxRTjJ3eVNNRUFpX0VFU3gtOURUQWdIRUNNd2pDTTlPVGJsMkR3cktqdWJ5T0tDX2Ffa2lPSjl2b3BsMGpDMG94NmN5RzhrLVA2VTdGVFlMQmF4VEFpSl9MVE1ndzFxRV9nMUIza2JOU3pJbWc?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 11 May 2026 19:05:22 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FOR THE RECORDS: What Tinubu's new SA on Homeland Security wrote in 2023 about Nigeria's security",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUndHc3JXbmJEOUJOME9Jd0VrS29CazVrR1VlSElBbDM3RmFCSDYtMEdyYnlFdzBsVG5Cc1RnWXJpeWlPVVh4bU9aaEVVTzB4YmdXdDNES25uSXl2TENkaDRDWWdLREhFenZLYnlxaEFnVEFoN1U1cnExNnNlR2xnQXBXaEU1WDJiZXVtQmNJbzVib2g0NmRGTWxNUFdHbXRWOGJtemt6RDhjZTU3TDN0R25wdDN6MWczTkhQOUVNdjFUdkNHSklHQkRISzdJV2NWWThSSlJMRFNZVDVnQU1qRHJHTUZrdw?oc=5",
+      "source": "Premium Times",
+      "pubDate": "Mon, 11 May 2026 18:51:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ooni Congratulates Major General Famadewa On Appointment As Tinubu’s Homeland Security Adviser - Federal Ministry of Information and National Orientation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQy04c0p4bU5VRFhTMEtDNkxHdnktNGNCM1hQQzdnNDM5QU5qMmVreVRHSnlSQU11TWRVOGdFWDlHNkpKd3RmTGdxR1hUY2VIbjhKd0p2cUxlOGdoMFBrUm9mZGhMVnR3aXVqNVZDUUd2VWE1SERwMVRKS3QteVUyeE1nTUEwR2dwRXR0VnlxcDJyMUI4Ylc1d1ZMQURFdHFWVEg5ZkN3bm5FNjMydWVmN3ZYeTNRQQ?oc=5",
+      "source": "news.google.com",
+      "pubDate": "Mon, 11 May 2026 17:42:00 GMT",
+      "category": "Security News"
     }
   ]
 }
