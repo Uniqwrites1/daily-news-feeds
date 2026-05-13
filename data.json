@@ -1,19 +1,110 @@
 {
-  "timestamp": "2026-05-13T15:55:20.835Z",
-  "generatedAt": "13/05/2026, 16:55:20",
-  "totalHeadlines": 179,
+  "timestamp": "2026-05-13T18:44:00.012Z",
+  "generatedAt": "13/05/2026, 19:44:00",
+  "totalHeadlines": 180,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 129,
-    "Military/Security Operations": 8,
-    "Law Enforcement": 7,
-    "Armed Conflict": 11,
-    "Traffic": 8,
-    "Insurgency": 11,
-    "Banditry": 2,
-    "Kidnapping": 3
+    "Security News": 122,
+    "Military/Security Operations": 10,
+    "Law Enforcement": 11,
+    "Armed Conflict": 13,
+    "Traffic": 7,
+    "Insurgency": 13,
+    "Kidnapping": 3,
+    "Banditry": 1
   },
   "headlines": [
+    {
+      "title": "Nigeria, Germany Conclude New Bilateral Cooperation Framework, Sign Agreement",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGE3dS1QS1FnbkZiTmpPTDNxTEtkSG5TRi0zN1hpUHBDbEg1cUxNalhrZWZ2UFBqNnJuUTB6eUYyNDV1SnZZdnNjME9JNk1DOTdMRkZwQllyTHM0bVd4anZQQ2lhZHJnZmRhREpramJLMGFxNFQ2bWJVbHU2cjFudXZTU203X3pIdTJJR0FxRlpGTXlvTGxfS3lVNms0Q0VG?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 13 May 2026 17:30:16 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Humanitarian funding cuts threatening Nigeria’s health response — MSF",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONE5RSXJybGtUSEx1bHJDcHdLQ3E5ODhQZFNhUTVGWUpfaWxjMkZreEozLWlTcGppVXl0RVFMZ1lPUXZkQUh1V3QtSXRXQkZpdFFEYjNpcVUwOEgyN3JhWXRjX1dkU2pnbm4xb2wtU3VIcjd0RlQ0VzRKMktreGJJdWNUQzJQdjFsdUpWeG5fSGc?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 13 May 2026 17:07:46 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Piracy Eliminated In Nigerian Waters – Tinubu Assures",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUJDR3RuY09qLUptV3FHWklmWWJQSnhhdTN4SFI0OVlueHFmWlJuMm0zSVV2MExma1h4ZG4tWG0yT1hxVmdGNkhlT0dFdjNHMVRaSC13ekNwV01MZVRIeWhBZ3duYVdneWFoQnpvd0dUUEprNjFaS05kXzVib1pUMA?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 13 May 2026 16:56:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu’s homeland security adviser appointment questions NSA powers",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdreFhoU1owQ1JJS0hNVjFCZ2lVcFRIcVBuLTVPalZTUUF4YldySkNaUXZBU21MbU5pbmJlcWZ5em1Kb0pRb1ltTDN1R0dNcWR1MjBtV1FJbXZOZUJBWG1QY3lwUXRuUHpBbEpXd3l6ZDdFSHhlc0swcGNPU0JHZnJDSkdNU2pyd251M29qWlBPcktET0lUb3FlY0o2SXNFc0pEaHVjdDRjXzF6WTdtS21ySVpzZw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 13 May 2026 16:54:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Terrorists kidnap 2 UDUTH staff on Abuja-Sokoto route, demand N20m ransom",
+      "link": "https://www.vanguardngr.com/2026/05/terrorists-kidnap-2-uduth-staff-on-abuja-sokoto-route-demand-n20m-ransom/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 13 May 2026 16:53:20 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Breaking: EFCC arrests energy commission DG for allegedly laundering N500bn",
+      "link": "https://www.vanguardngr.com/2026/05/breaking-efcc-arrests-energy-commission-dg-for-allegedly-laundering-n500bn/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 13 May 2026 16:49:26 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Why the office of the national security adviser should give way to the co-ordinator on national security\" in compliance with law",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZko4UjhtVFoyZlZrcHhwcEpTVGVtNEVsMWdRWHVsQzB5ZkxtSmNxMF9wcXRaQTJvVjQwNDVka0tYTWhvZUNlTU9Sd2NwcWdiaXRpbDFxbXpSaERIZ0RUNUlCMGJoQ2czN3oxbHNSdGlHYUE0aDhHVDdySlVIeWZmVVU2Y3VYS2FVNENGOGsydF9RUEkxREtwN1R3akl4ckl3bjJvRW1XZTBGRzRvWjhKRGhpbXJKUGZRLUp2a1BQb1B5bDVOaGx5SUNRbUYzLXprN1RtblpJOGdKdGZnMnM5c2pKbzRETkVBVXlNLXR3?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Wed, 13 May 2026 16:37:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "BREAKING: EFCC arrests energy commission DG Mustapha Abdullahi over ‘N500bn fraud’",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUGtIdE8xc3BBTmhBTDdLNkZFOW5QU3Q3RW8ta3B0d2FURzRqTVFaWmE0S0lJYXZvYzlJQVdXaTY2VlY4SGExQk9la2hTMGJNZER1M0w3bWR1RG9VaGNJc2l3WlJrejZjZmdBbU5PSDlsNWhxc1VlZGxmaFlUQnBGNmVzVnRhLVlYZ3BWTWRWeUpjRXlxTzdkT29BQlVVWThpM1FyWjJFOA?oc=5",
+      "source": "TheCable",
+      "pubDate": "Wed, 13 May 2026 16:36:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Gbenga Daniel benefitted from consensus process he now attacks — Ogun govt",
+      "link": "https://www.vanguardngr.com/2026/05/gbenga-daniel-benefitted-from-consensus-process-he-now-attacks-ogun-govt/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 13 May 2026 16:18:22 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Seven in court over Kano GSM market violence",
+      "link": "https://www.vanguardngr.com/2026/05/seven-in-court-over-kano-gsm-market-violence/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 13 May 2026 16:10:14 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Germany Moves To Strengthen Economic, Development Cooperation With Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEVvdzcxUDZkWnhSa3U1QzBnLUJramcyNG13enVOcGxRa294OUFKLXJDSzdYTG82d05KQldCaDh2cWUwN2NIMlZDZk5sQnpTMXlHLVc5czg5Qzd1cWg5N0JvZHl2ME1JVFphUnQ4SUVnVUFldUlDeTRzRmRtWTMyYkZ1SHJVWDBhUWl6ZkJudFJuT2RGdWlBYTBUUm1TQQ?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 13 May 2026 16:08:40 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Food security key to Nigeria’s stability — Akpabio",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tT25PTTNkeXNxdE1RbWtBbG1nRlg5Q2lXZzJQVm5wOWtxZTRlQWwyUGpmQXRrY3BMUXNVVGlITUpVTmVmZnpIWmlUR0pDS3pMVlNqdHBhX2pJb1p3Y21ELXZYR0JhU3BXMGJpOUctTTg5b3Zw?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Wed, 13 May 2026 16:07:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests fake fertilizer manufacturer in Zamfara",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkN1bWppY2dVM3hRNUZKQy1KNV94ZTVyYmZvOXowS1Blcm9wV05QRjVFeTZwblYybEVpRGZrX2Npakc0Q0hLUVBwb3Rqa1FTTFNYSkVZOS1HZmVGSE9id2YwUmEtd1gyeTZ2N0RVUTlsLWNyTDF2SW9iOFdLR0RYNGt4SGVXOWFJcUHSAY8BQVVfeXFMUDJ0OW90aWs2ZmljU1lGWjdqVEM3Zm5DaGVCUUFVcDJMV1NoRm5OV0hNeV9tSVJxeWduX3o0bVY2czRnVmlVQU5qVHpwUzBDbHVJLU5EX1ZrYWRhano3aXdHVF9KSXBWNzB4ME1aNUk2X2tjTWNOUnVVY1M4Z0NkU3lCSEMtcGdKSkxjd2g2NjQ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Wed, 13 May 2026 16:07:20 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "Nigeria Records Marginal Drop in Road Accidents - NBS",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1NucFMtNFM2aUlwQThfMlBBeFRaSkl4X1lxaG1sc2ltMTdaR0RDa2JRd2d5OGhQNmgwUHM4akxGdHB5ZW5JVWxES0x2V21FSm1xUjNWZ1VaLUlXbVRKa3J3LUIxX3hVRWxYdWxQc0JYdldRZlVBZFBsbE4yM1E1RjBSdUlhSVhyZXNaUVNMQ0hhUHpVU3VhSEx3dHhUc3Z4VEpaVVU2VGpudUE?oc=5",
@@ -26,13 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOalV3eVM2dlJZN28yWHhTRkl5c3lLMVlIa3BhS0V6djVIX3NWc2ZWMGctOGg3aWNXaTRZdHd2WkkzbmZHbU9ZWFNtNWNqalMwT1lmYXN4bHF2aGxBTkptSjZOSUg2UUlFc1NtQVV2elRuMHpWVWV1akpIN3BSV3d2b2VyeEo?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Wed, 13 May 2026 14:56:28 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Family reveals cause of Alexx Ekubo’s death",
-      "link": "https://www.vanguardngr.com/2026/05/family-reveals-cause-of-alexx-ekubos-death/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 13 May 2026 14:55:51 +0000",
       "category": "Security News"
     },
     {
@@ -50,41 +134,6 @@
       "category": "Security News"
     },
     {
-      "title": "Iran military says control over Hormuz to bring significant economic revenues",
-      "link": "https://www.vanguardngr.com/2026/05/iran-military-says-control-over-hormuz-to-bring-significant-economic-revenues/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 13 May 2026 14:39:55 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHNRTzg0Q2JsR1dmR0dybGtRenBaNElvVGhaM0VFVVdBZWM3RkpwbkZwTzJ5Ni1DUGllV3hOSnJjUlRSVW9ENFNSM3lmcU5IYm0tZUtZUHVaMWdTa21aQzR3YURic2Y5U01xcXQxaF9LbXEwMTBqNGlVVWJYcF9ZYjY4eno1dzhGc3VhckQ1c1NWREVJQVBzLUl6SWNrVTJoakFoRFhDT3fSAa4BQVVfeXFMUHZZc2lSa1A0aDJnYVB6ZkpwbjUxeWdnZkkzZlB1WlFsUEU2Q01ZZWxSeFhsZEpabHQ3Q0pTYkFUVzJSUXdGOEl2Umd1d0N1RTN6X292SFUyMXFoRk1iakxPTE4yLUV5dWhMeGNEY2YxRnVkT0tuWnZYVTBmeElMaHRlblE2WVJEdmp4ZDR3Nld5dDZmU3lyTWJBSG4zMjRQLVk0Tk01QzBuRVRxeEx3?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Wed, 13 May 2026 14:35:57 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "No delay at ports, Apapa Customs comptroller warns officers",
-      "link": "https://www.vanguardngr.com/2026/05/no-delay-at-ports-apapa-customs-comptroller-warns-officers/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 13 May 2026 14:27:49 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "EDITORIAL: How Nigeria can end Violence and Bloodshed during Party Primaries",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUE2UFhlYUF0dVJnOWpkNGY4NTRNc3VjdGk5WmhxRWp5aXJ5Sm82VHpISF9Ud3kzc1ItYXNRV1ZTVVZVdjJadzhla2NzeXVkbU1ZUzVhOFlweENRTC1LT0VKS0hDZjhISVJTMHVqOTZ4YmxVSll1U2J5V0I1eU4yM0otTlA3NXZhNkVxMnZNQWU0WDY4eGVpdEIxVXFRc194dkZET0MtSnFUb3l0U29mSllBbw?oc=5",
-      "source": "P.M. News",
-      "pubDate": "Wed, 13 May 2026 14:26:26 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Piracy eliminated in Nigerian waters, Tinubu declares at Africa Summit",
-      "link": "https://www.vanguardngr.com/2026/05/piracy-eliminated-in-nigerian-waters-tinubu-declares-at-africa-summit/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 13 May 2026 14:17:31 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria now on world stage — Matawalle speaks on indigenous defence equipment production",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXE3bXdqd1EwTEMxSTFPNjRpbnVSZFRBOGN6NThOTzJTa2JCcVp2S1dKZldZQkN5YS1qTF9RSlBFLUM4c0dfUk4zeG9sMGp3M1dFUnY0cWR5MUl0WG9MYVI3b3lKLWhIRUNTeEJ0RWQzdlpSdVVLWFAtcWx2RDY3NjYyVi04VWJWd05HbEhTakhxcXZ6REM4N2U0QmREU3pJZVdnUlQyNm5QQXFYeFRTRlgxblFkQ2JzSnQw?oc=5",
       "source": "Daily Post Nigeria",
@@ -99,13 +148,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Police rescue US-based doctor from mob attack over false kidnapping alarm",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWRnbERMZFFzYktORDk3MVZEYUJmSml5ei1aN0R6alRUUXpZOVNhWWZDekx3VUZPdFBqZU1WYzNVQkhtdHZfeTd5X1BibWZmZlN2T1dOMURiVmhUUmJTMnl2T3VwWHF0ZTFyOE1vdmx6cU11OG9xUXRONTRuZTFQMVIzckhFVHdmdllOaGNYVXNpSDhseFRIYnZLaG03V1NSaHQxcVVaSTEyQkt5RTZ4aF9lMA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 13 May 2026 13:15:00 GMT",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Nigeria Pushes Military Modernisation Through Technology, Local Production",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHNsa3hXZ25IRjcxd1NWWVVGNGNfWnBPelVCYWw0WW94MHowUFJGYVI5TDVfYjV4emhEaUprUmRNZE1RQjk5VGZndXlfdkdxYm1iMXRNVUVWVGZQNjVCbWtFQ0I1cExhSl9XakcyTlItRk9OZlI2aVZnRlgxdHZTaXFmT1M4WEU2aHdpam9wZ2JUakliY2lnLU1UQTl1dnZjV0pZbm1FNVJBWkpfaUpOS2wzTmJWcG9sMUluRmllSTdwU0NyQkgxVw?oc=5",
       "source": "Nigeria Info FM",
@@ -115,16 +157,9 @@
     {
       "title": "Why Violence Persists in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0MWxmVGtCbE5jYW1ZUDA0emR2d2Nodk5sMUU0cWo0MGNRa25xTTR4dmlzdFJyX1VIeF9UdUtnWWN6c01ES1hBdlJpX3NvcWk3WDFRX2RELVlmd09INHk0M3hkOGw3SkI2ampOTmZtZDRZaEhwTi1J?oc=5",
-      "source": "Foreign Affairs",
+      "source": "Foreign Affairs Magazine",
       "pubDate": "Wed, 13 May 2026 12:40:27 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "AFRICA/NIGERIA - After being kidnapped in February: Father Nathaniel Asuwaye is free",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWJUaS1sbVEzSWpJSktORkthenF1cEFoQ1Y2aEtNVXdBcDlyb0REY0h4OGI5SkFUaG93RzduQjdlQ3E1UWpnLXpKbGtoclBpNzVxVUw3bFQxQlNuampYdDBYZV9uVGU4Q0huTDZYRmJJNkdKRGhyYWRRR1FTQXhrdmNoT1FVdThYaUo1dDZTMWhPWi1GUjVUMW1hVEFKM3REell1UFBFejdmQmVvM3l2ekN3WjR5dWhS?oc=5",
-      "source": "Agenzia Fides",
-      "pubDate": "Wed, 13 May 2026 12:34:36 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "NSCDC, FRSC Strengthen Partnership to Tackle Traffic Violations In Abuja",
@@ -132,6 +167,13 @@
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Wed, 13 May 2026 11:51:08 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHNRTzg0Q2JsR1dmR0dybGtRenBaNElvVGhaM0VFVVdBZWM3RkpwbkZwTzJ5Ni1DUGllV3hOSnJjUlRSVW9ENFNSM3lmcU5IYm0tZUtZUHVaMWdTa21aQzR3YURic2Y5U01xcXQxaF9LbXEwMTBqNGlVVWJYcF9ZYjY4eno1dzhGc3VhckQ1c1NWREVJQVBzLUl6SWNrVTJoakFoRFhDT3fSAa4BQVVfeXFMUHZZc2lSa1A0aDJnYVB6ZkpwbjUxeWdnZkkzZlB1WlFsUEU2Q01ZZWxSeFhsZEpabHQ3Q0pTYkFUVzJSUXdGOEl2Umd1d0N1RTN6X292SFUyMXFoRk1iakxPTE4yLUV5dWhMeGNEY2YxRnVkT0tuWnZYVTBmeElMaHRlblE2WVJEdmp4ZDR3Nld5dDZmU3lyTWJBSG4zMjRQLVk0Tk01QzBuRVRxeEx3?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Wed, 13 May 2026 11:44:41 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Mali’s Escalating Conflict Raises Fears of Jihadist Spillover Into Nigeria",
@@ -145,20 +187,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZlZfTDFIQzhWUWJNQi1waERUcEZHS3dMTy1zRWNoVnloazJGUFlNTW0zRDNrWDlUcGhpWTg5N2V5MVJYVUo1ZVlSZVNoVHVxMEVzZDlMZWtqd21RWnRwck5HdktNcDlNS3BITGl0T25qZWQtNm1KM3BkVlpXbjA?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 13 May 2026 10:42:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "SportyTV lands NBA broadcast rights for Nigeria, three other African countries",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2FWcnF3YU05cWV4aWVqVUg3RGl5NFZDc2V3Y3FyTHVDemhUNFJfcWNQbExrUV93b0M4OGN0NlJnbUhISXA2T3E2MTk2MkFhb25ISWMydi1KMkd0eFhMaXlxRWdUa1ozRDJMbjRZTF9PS2lUcE1BT3hoYzdpT1FjTjhwLWwyTDhpX2NQWDdPb3pua21OYm5ydDNXZ2x0VF9NRi0yR2Z6MlQ2WmJaSHlXZFY1QzZVQVJBNTJhRTVrUkNOOFdQdlRfZWlRR3ZQeUd5Ty16Yl9MZm9oQWxKc1pPTA?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Wed, 13 May 2026 09:55:34 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "UN condemns civilian deaths, urges swift probe into Nigeria, Chad airstrikes",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS20wZFpDaGJaZnIxeHZKTXhEZ3hwTVFmaC1QQjhrUjRyTS1iU3MxTFdJcDBRemNBeC0xYW5TZGx1VkFHd0x1RDZEalQ4Mnh1SjFBalhQYmhzRnJXSGFDZVQzd2Y2d0ZuU1d3V0xwV1hPTm9RcE9raXVCWV9OX05aQjdzcWdMaFpLekw3Y2dwbU4xOWdlTVRORUp1cjZyS1V1Q1E?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 13 May 2026 09:55:00 GMT",
       "category": "Security News"
     },
     {
@@ -232,17 +260,17 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nollywood actor Alex Ekubo is dead",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3X2xac2JEakpmUWxqUDF1NXJRQnotRHpJYk0xeU14Z0M4RWVRUVMydnR2SVZydkpkamU2M0FCZWx3NExibWFvUndybHBsMEpaRkpJOWVTdWYxdnZhMnZCWUhGcU8zUnk0OFdHRFZHOXpUNGp5R2c?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Tue, 12 May 2026 16:45:26 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "How we built security infrastructure Nigerian compliance tech has been missing – Pronalytics",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2lXMU4tVUZaNDBtSkR5dHF2UUpwa1NzdmUtS0pLR2Y3MzZqNUhEU2Q2U3dDakVTUVpDczVOclVCZkNnU1hJSUFUSEZOY3dTbHpDNUc2MkNTYW43SXdnUlZEQ2VZWDhzLUFjaTZBOUg5Y19ha0N3X3FFN3BJZ1ZvbF8zbmJFbEtvTmx6RjNNTnJCb0RzSWxnRWlxUmhNQzNEOHY2Z1Y3RHpjdTBiTXh4QnlFVmZPNXEwX24yYzdmRXRDQmdmbjFz?oc=5",
       "source": "P.M. News",
       "pubDate": "Tue, 12 May 2026 16:32:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Treat Nation’s Security Collapse As Emergency, Atiku Tells FG",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1ROZ2JDcGZGRGRRYThTOTk4YUJNXzZEdkF5cENha0RMNDdLTFJhLXJDYVV2WVFVU2FIX19wRzdmSk5XeUlEM1UxaTMtMFVYbV95ams5REFETUZfUEJ0ZVlqcE82M0R5bV81WU1fd1ExdE5SNjNfbkJqZnB3WkVaSk45ZWNjbWZrMUtJ?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 12 May 2026 15:51:05 GMT",
       "category": "Security News"
     },
     {
@@ -334,34 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UU5ZamNVQTJHU2lobDFvYzRvVkNSeUxUREllYjlqRUtwbFBvMHl6VlJtOWlhdDB6RkNmNnpaR2lkQ3FXRDlhdFg2UDByV0hTY2hkWTJGbzNrazh6ZXkxZkM3LVNsQQ?oc=5",
       "source": "TechCabal",
       "pubDate": "Tue, 12 May 2026 11:58:21 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria's leader battles security, political crises",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkhwR3VmbXZORDBYd1JwR09Ibm5aTVNFTHVkSEh5ejRib0ZXSGFZMERMSGtkQlZ0T2h6eFJIQmxWLVFHMU1TeGFfOWo1TDhZTlJucjYxT0xrT2JjTXlUMGJxcUx2MENtUDBaTXBxTEpfNTZtT2dselZJdDFPbTB0OGpqdVVTR2NzekHSAYoBQVVfeXFMTW0yeGJjSDRJdWU0aTJIZ3hONFY1QlVXcjVyZkxfV1hxckZEeHZOREo5UjNhXzJhMjBSeFp5MEw1ZUlIWDVwQndDN2tzanNQa2VQajR2MmtZMG1zSkZ1TkFsLVp0a25PXzRFR21KMXNFaDV1RlZMcnVNZGszRFo5NDJWaUN1bXpOUHR3?oc=5",
-      "source": "dw.com",
-      "pubDate": "Tue, 12 May 2026 11:10:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "CLOSE-UP: Adeyinka Famadewa, the general who challenged Nigeria’s military-first security strategy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTBUdVhicTFQeGYwVDNkbmVvOS1xeXQ5Zlg2UURtUGwzYmRtdEhqU1RQQk5mOTJuemxJTk9pcE42bkVCT1dFMzFWbHlobmd0aVM3eXVVUXVVdFNDWnRLZmZXbWR2aktpbl9jSmpUTDVSYks3RG5KV21LQXhFMVowUDM2M2RvN3ZKNVdvaEpBMlNZQzNNdl9UajJGV3ZrMEpxRm5KUExVV0pHdnFBRmU2QTZxRTYyQXZoUmdFWA?oc=5",
-      "source": "TheCable",
-      "pubDate": "Tue, 12 May 2026 10:50:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Pray For Peace, Unity, Security In Katsina, Nigeria, Radda To 2026 Pilgrims",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE5BQ1RrZjg2bGdkeFg5Y0RpTENuX09WaVhpRnFhWTZrOGdacE1PZWFDYUJoMmxCZFhxVjRIYUNqUm9ETUFQX3BmUW91SzR1UVRkRHl4ck1YckRyNEoxZ0ZNU2tpVncxVDZKVVRWeTNydm5qWXE1R3NmVVNsa1VNTVNGMHg1Y3YzM2RvWG4yQUpRU0RqZm5iX2dOVQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Tue, 12 May 2026 10:03:58 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu’s homeland security adviser appointment raises questions over NSA powers",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdreFhoU1owQ1JJS0hNVjFCZ2lVcFRIcVBuLTVPalZTUUF4YldySkNaUXZBU21MbU5pbmJlcWZ5em1Kb0pRb1ltTDN1R0dNcWR1MjBtV1FJbXZOZUJBWG1QY3lwUXRuUHpBbEpXd3l6ZDdFSHhlc0swcGNPU0JHZnJDSkdNU2pyd251M29qWlBPcktET0lUb3FlY0o2SXNFc0pEaHVjdDRjXzF6WTdtS21ySVpzZw?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Tue, 12 May 2026 09:52:31 GMT",
       "category": "Security News"
     }
   ]
