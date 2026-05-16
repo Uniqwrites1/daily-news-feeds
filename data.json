@@ -1,31 +1,109 @@
 {
-  "timestamp": "2026-05-16T09:35:22.479Z",
-  "generatedAt": "16/05/2026, 10:35:22",
-  "totalHeadlines": 178,
+  "timestamp": "2026-05-16T12:27:04.338Z",
+  "generatedAt": "16/05/2026, 13:27:04",
+  "totalHeadlines": 181,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 113,
-    "Law Enforcement": 12,
-    "Military/Security Operations": 29,
-    "Insurgency": 9,
-    "Armed Conflict": 11,
+    "Security News": 121,
+    "Law Enforcement": 9,
+    "Military/Security Operations": 25,
+    "Insurgency": 11,
+    "Armed Conflict": 10,
     "Traffic": 1,
-    "Banditry": 3
+    "Banditry": 2,
+    "Kidnapping": 2
   },
   "headlines": [
     {
-      "title": "Six ISWAP bomb makers killed in IED explosion in Borno",
+      "title": "UK Deepens Partnership With Kwara on Trade, Innovation, Security",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODduUlpZTDRtRmtoZ1RGb3R0cVNkWDc0SWpVQWEycjdORHFzaGE4NW1WX1VDV2JWTm5ucXNfYXh1WWFiR1lVcVZJX2dnbFJlY0J3eTRMbE9RQWI4VXhNQzhZQTZ6NnJFMWFzeG4tQmg5VVdSRVZrSFJTWlBFb2ljeFZNbEpEcmVPM0xfdzEwU3hzb25hTVdVUUhsZjk?oc=5",
+      "source": "Radio Nigeria Lagos",
+      "pubDate": "Sat, 16 May 2026 12:22:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Things to know about Abu-Bilal al-Minuki killed in Nigeria-US operation",
+      "link": "https://www.vanguardngr.com/2026/05/things-to-know-about-abu-bilal-al-minuki-killed-in-nigeria-us-operation/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 16 May 2026 12:06:25 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "abducted after school invasion in Borno village – Ndume",
+      "link": "https://www.vanguardngr.com/2026/05/42-abducted-after-school-invasion-in-borno-village-ndume/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 16 May 2026 11:36:04 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Israel confirms Hamas armed wing chief killed in Gaza strike",
+      "link": "https://www.vanguardngr.com/2026/05/israel-confirms-hamas-armed-wing-chief-killed-in-gaza-strike/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 16 May 2026 11:28:35 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian, US forces neutralise senior ISIS commander in joint operation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmtldzdhZzdpYUpOeF9LalUxLURDVGZST3dfMDdXUmxDV0RFRnJWTnZoZUNOWlJJcUlPQ1NwOXBPd2NJZUNwc3F3OTZZUjJFOVJnVnFMWlg2NEU4UjNqR1J0aHZ5WElENmVTMTN6TEt5MV84UjZ5emlXSzhMeUZONnc3elk1cjFJa2RQMUcwT2hPUTdnQ3daY2tOeDRORUVsenJV0gGoAUFVX3lxTE5GOFFTLUZiRnZWdV9WSjAtakxQRWxqdFd4eVlYNmFHQjNmNG1TMUZVZ0JnRzZJNVZZUHNlODVLMk15dl9BTW83a25PZ3d6aWQ1MlgyajNXeVlIb0lDMjZ2NGtYdjdWdnIwZkRNTmU4ckhWZGlqZEFhbmpkQmZsTjBnc2JjQURUWUxxemZyUXNiSUpCNTBRaVNqZkxOaXVMRnRPUENTYWxOQQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 16 May 2026 11:16:37 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "OPINION: How the Elimination of Abu-Bilal Al-Manuki Could Reshape Nigeria’s Counterterrorism War By Olayemi Esan",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nVVktbzF6eno3OXpFekFCa2FvNE5RSThkMFpjSDNGVl9CaWJOdjdxT2ZkQjk0Tnc5elBCSzRVbVlRUVgzNnpSWGZfdDFmZDdrSVY0RGZJOXNWczdNbG1neTI5dXVWWjJXNmNaUERNMVE?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 16 May 2026 11:07:57 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Dike Chukwumerije: Nigeria I A Country In Conflict; There Are Too Many Headwinds",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUItY2xydFRQWTkzcUw2U05xRm5xQ3JNMDY5d3FtZE83OXpKVlZhVUxObDdrRy1KMF8wUVpNNGh2R2VVRUpjMFl0d2F3S3pKX3FnRDlUSnNQaUZJbUxlS2puU2x5WC13VEJZc3ZFMm5iMDV6WTlCY1NuTDM0elNtY0FHcmYxc2xXOWhVNEd0azVDa1I3WWVvZHl4a0h3WnVRdEE?oc=5",
+      "source": "Arise News",
+      "pubDate": "Sat, 16 May 2026 10:58:20 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "From Borno to ISIS command: Profile of ISIS leader killed in Nigeria-US operation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlEzbk5KN1Zac0lnaUdwT1NjZURGa2xSN3J2VUpwYkNiQ3NmUmc5dWdBc3FmVkRMcF96YWd3M1h4XzlXcm9KX2lfYjBkLXZqVS16bC1vYVBkTGpLZWJJVmhzanBNb1lNcXZzUEE2cFB2UHR6X0E2dVRJSlU4TkxNRzY4dWJZMGR3WWhTNWltTC1WTHVSR3JfMXVZNE9hZXQzRGZN?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sat, 16 May 2026 10:53:40 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Abu-Bilal Al-Manuki: US and Nigerian forces kill ISIS second in command Abu-Bilal al-Minuki for joint operation",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPWFo4RWNwVTVXNEVaMlBhSlQ5VlNEQ1k5eDNCdFhQZHFDRDdXWG41ZmlaY3M1ZWtCRTFUaEw2M2VibXZvSlhVeFNnc0VzWHBHNzB1UEQ2NlN2WDJJ0gFiQVVfeXFMTTFTVTVwYWJkRzdiV0hPZEdUQXpQQjVLZzhqcVpCc2ltcFZ1c3hySWpIOHVscnZHT01ZaURIT1hTZ3BSWUZ2dW5ZVkdPbXRzbS1yRV9fSWtETEQ4VnRQYk90WEE?oc=5",
+      "source": "BBC",
+      "pubDate": "Sat, 16 May 2026 10:31:36 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Kishiya: Between Ribadu’s ONSA and Famadewa’s homeland Security — by Yushau Shuaib",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnNiVW1UMGN4bUt4b0k2MXhXQklvU1d5eDhsbTVTVVV4X3NGVjBJMmJIWDlueU1LSXRoSVdVMUdQdFhqU01jZktackpHM29qc2J1SVdUczFZREZXeDhiSlBhbklidlNFc3lOb0FGdTl5cGNsNloyTk96Uk1fOHhPUUh1NDdQMzRQUUxYUTV2TFRtdzBhUUV3RnVpQ1dodW14X3MzQVUta18?oc=5",
+      "source": "westernpost.ng",
+      "pubDate": "Sat, 16 May 2026 10:29:42 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Police neutralise two suspected kidnappers, arrest kingpin in Ogun",
+      "link": "https://www.vanguardngr.com/2026/05/police-neutralise-two-suspected-kidnappers-arrest-kingpin-in-ogun/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 16 May 2026 10:03:18 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Six ISWAP bomb makers killed in Borno IED explosion",
       "link": "https://www.vanguardngr.com/2026/05/six-iswap-bomb-makers-killed-in-ied-explosion-in-borno/",
       "source": "Ayobami",
       "pubDate": "Sat, 16 May 2026 09:29:25 +0000",
       "category": "Insurgency"
     },
     {
-      "title": "Police Seek TETFund’s Support For Scientific Policing",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WVnowVGRoVVdCVzNHNjJ3WGhjOWZnM1AtMnYwLWZjbXpqTlZhWVBGbmdjSzJQb042N0RlV09WX1c4dng3WDluWjJLQ3NjYWQ1b1ZUQXZKbHdvaHVtNThFdTNQM2NiRjJERUJOXzYwT2RrbXFrV3ZKTE13d3E?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 16 May 2026 09:19:14 GMT",
-      "category": "Law Enforcement"
+      "title": "Tinubu Confirms Killing Of ISIS Leader In Joint Nigeria-US Operation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkhicFpnNmtmSWViZnVUZ3lSZlp4ZWljV3BaR2RFM0I3c1VPNmRUV0llVC1wYkwxT0dZeWYtUlFXUHhNLXllSFk3aVdPUVVWYVExbnVGcXgxQTctRUlsQ3lRRU5MSnNvVUpxQnRGM2s1QmNEa2k2dm0zdU1Xa0hCSTVoS1lPTVlkb1RDaC1kTzJ3M2huUDN30gGcAUFVX3lxTFBtT1d0bzAzUDJqMkxrSjFsTXlYbUhya3lZV3FhcG8yVnktYVJldjBoZ1FUZElaRVgwYmp3aTBjMVBGWUVzZkJ3WEFBY21sUlpobUJQem1rNGpPYUdaei1FRDVodEwxLUp0VG5meENsSTFEM3NKcEQzc2QzUHg4Uzk4dUdTdUhLR2otcElfVEs4cEJsTkVubGg4T05qMQ?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sat, 16 May 2026 09:27:53 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Tantita strengthens maritime security with 15 gunboats handed over to Nigeria’s Military",
@@ -35,11 +113,11 @@
       "category": "Security News"
     },
     {
-      "title": "Senior IS leader killed by US and Nigerian forces",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcEZyN3lNRmQ5cHdtTmpZbzViMlBFR0lRR2pNUHRPODJ3bVVGWnd0TnpWN3BpdUdLY01wdHRFVm5QTy12TXk3czhadXMxWUNhVnNGYXd6c2Nrdw?oc=5",
-      "source": "BBC",
-      "pubDate": "Sat, 16 May 2026 08:45:09 GMT",
-      "category": "Security News"
+      "title": "Breaking: In Joint Operation, US, Nigeria Forces Kill ISIS’ Second in Command, Says Trump",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWNOUS0zRTRjXzNHZGtYWF95SnJBWWdMcWQzTDBXSU1fNmNBWkJVVzVXV01qVVZUOUpKa2U4ZlFOQ0M3T3hITFJWT2xqa0hZa2JFdjFCYzFoRGFXODZzZzRUNERNTkdKRDZfVlBYS2RNY24xaHE3N3g3cUZDY0NnLUd4SW8waVpfVldsMFg5UEZFalhEZzFMYkxvMVNqSW82R3RuVEEwdGNyODhrVTBZTFROQ1ZMWlJxdmhUdDdlUjZadw?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 16 May 2026 08:37:59 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Tinubu Confirms Elimination of ISIS Leader, Abu-Bilal Al-Manuk, in Nigeria-US Joint Operation",
@@ -56,18 +134,25 @@
       "category": "Security News"
     },
     {
-      "title": "FG Confirms Killing Of ISIS Deputy Leader in Lake Chad By Nigeria-US Joint Operation",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWVqM21nMXNRV1BHRUd3RHZWX25QWlRkS29nNkVyMXVHTVVIbFpheDZPdklVSHBLYjU3a1R4ektYZWd5eTNFM0pCUGF6RWNOZGlYRW5nNjlDUGI0Z3AxOWI2OXA0QVh3SWR5ek9pZGE1QVVIaW5TcmlydVJ1NXB0LTNNd1hXU0duci1wbVczYTlLQ1Z3RkczRm9aYkliOEF2dmlEUVhXMFhjNkNv?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 16 May 2026 08:23:49 GMT",
-      "category": "Military/Security Operations"
+      "title": "COUNTERTERRORISM OPERATION AGAINST ISIS SENIOR LEADER, ABU-BILAL AL-MANUKI",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3RtblFPc0ZZSlNRVFZ5T205RXVSRDktV3dIczc5QU1lV2Jobm9PZlNSbTdlZklYckNCTVE0Y0VIWFNaa0Fob1B3ZWhtdWFrS1NOcy01X3VocTctSmh6Rjk2VnhnS3lSaTBiTXpseTBYTklMdG9Ub1ZkdWlMWXlQLXNxZUlWTmVqT0RlTTg0bWxuWlVaQl80cjRvUmwyMlRh?oc=5",
+      "source": "The State House, Abuja",
+      "pubDate": "Sat, 16 May 2026 08:14:42 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "ACSS Nigeria Chapter Takes Centre Stage at West Africa Counterterrorism Workshop in Côte d’Ivoire",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vaVhLelNZMW84d2MzTlBrOEtyVXg1S05kNDZnTlRNOGtHb0JobmN3c3pIcTZJbm1JYURMclZZdmw3LTZUZl9kWmRKNjEwa3VfV1k0eEVwempCSXkzck0tVEI2ajE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLelI4QndQUGJPYjVZQXRlTm5DeEpCdGxLeGhpWW12OTlCandYdXdkVDJHRjBHanNWdl9ueFFSajhDUFdtU2c?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Sat, 16 May 2026 08:14:31 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria, US Forces Neutralise Senior ISIS Commander as President Trump Commends Joint Operation",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wbVVUcDkxSEl2ZHY4Y0VHZVB2eElhWThIWTNFYXdFaFA5MzloeFJqSjhGbVhGSUQ3YlVjZHV1NnZ0YWZybEZndFp4TVhDTVllWEFLUE1YUVkwWFpsX0ZxSVU2OA?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 16 May 2026 08:11:11 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "China, Nigeria Deepen Tourism, Cultural Cooperation",
@@ -75,20 +160,6 @@
       "source": "Voice of Nigeria",
       "pubDate": "Sat, 16 May 2026 08:10:17 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Tinubu confirms killing of ISIS leader in Nigeria/US operation",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdk5wWlYyYWNNUWlpY1p4eExER0hBeC1VTldIcWx4MU9oWmdIRkhidlNFZkg2c25seHVIZHNoTV95Vzdld2drM05USVpyeGk2Nk91VEdOLVo1VjRiTnhtVnBtWHpBLWt4cE1kbmR1N2lfcGlxb1NLa2FieWU1NG4yRnhHY0p4Q0VOczEtT2dxbw?oc=5",
-      "source": "TheNiche",
-      "pubDate": "Sat, 16 May 2026 08:04:49 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Kishiya: Between Ribadu’s ONSA and Famadewa’s Homeland Security",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zYkJ6R1pGQ2ZTUTJ5cmFWdTl4RTAxcGRRNTFYY1NQOUZpTEdfOVcyaVRkbFNVUWxCTTJOUjJ0RUloSVBVWnRLWGhtbXo3dEc0Q01xWFdYYU1HY1B0OWRGRGE3dGxoTTJ5?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Sat, 16 May 2026 08:04:04 GMT",
-      "category": "Security News"
     },
     {
       "title": "Tinubu confirms joint Nigeria-US operation killed ISIS commander in Lake Chad",
@@ -112,46 +183,18 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Nigeria confirms Islamic State second in command killed in joint US operation",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeUZzVjQ4UEFaLW43eFl5endad0Q2cnJGczhEUExBSXJiMTE1RllkWlFtU0QtUHE1Q01hZnB0ZEs4T1dnVGJCWlh0clo2eUFNZTUyUWFPUGVacTJNMGEtZTNBOFpoQ2c2aThPTENkdUZjTGNqbnFURFRrcTU0czBPUm9uWTZHakIxc09EYjNzSGdTejdwVVBhUVBnVVlTU3kyeVpHSnNsSVJ6X0xqZFZBbDFJajF4WDAyRktRM3lOVnZ2UUgxeVNES2ZkMDhlU28?oc=5",
-      "source": "RFI",
-      "pubDate": "Sat, 16 May 2026 07:45:56 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Abu-Bilal Al-Manuki: US and Nigerian forces kill ISIS second in command Abu-Bilal al-Minuki for joint operation",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPWFo4RWNwVTVXNEVaMlBhSlQ5VlNEQ1k5eDNCdFhQZHFDRDdXWG41ZmlaY3M1ZWtCRTFUaEw2M2VibXZvSlhVeFNnc0VzWHBHNzB1UEQ2NlN2WDJJ0gFiQVVfeXFMTTFTVTVwYWJkRzdiV0hPZEdUQXpQQjVLZzhqcVpCc2ltcFZ1c3hySWpIOHVscnZHT01ZaURIT1hTZ3BSWUZ2dW5ZVkdPbXRzbS1yRV9fSWtETEQ4VnRQYk90WEE?oc=5",
-      "source": "BBC",
-      "pubDate": "Sat, 16 May 2026 07:39:29 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "President Tinubu Confirms Killing Of ISIS Top Leader Al-Manuki In Fresh US-Nigeria Operation",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamJxc2pPQi1DT05JQm1RUm9yaHhuUVBrOU1tQXJtekhITHlQVERveDJrX2ZKaURRS2ExZ2Q0UFFlaWViNmR2ZTZMaGY0cmVwMnpjcEpXMFhhZnpMU05tLXhPVEdRS1NzYW9faTRDM2h0T1RETDZERTVSSVAxYlEtczdBTC0wcUZVVTlIOUdReDZtdGVtUlFEZGtDbkpMdnc4WGFVbDJDUHdMODMxZGs0VzFGb2FuZHp3clBFNkRJZXpoRjNkcHVvUmgwa9IB0AFBVV95cUxNNkpvUWVsUVVfcDFLN3hjU25XN1Z1OEVYZTZQT1VRM1lCc09CWFB0aTBRRzBmbTJMM3Y1TEFValF4MTM2dzJTZG1ZbVo2YlJyZzR6RmhGakhNc0lycV9OTkw1bXV0ZlFnaHM1ZmtTUXlXOTVQQXl4Tk5JV2RuVzRLaG0tU3pwZzUtcTlfVnRrd1lYbW1mZi1QSTBUM2w1ZDd5V2RxVGVMN2twZDlNVWFwY0F6RTVxcTRQUnl6OFY5SXVtNmszT05YR1hXeFh5aDJ5?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sat, 16 May 2026 07:33:47 GMT",
-      "category": "Military/Security Operations"
+      "title": "Abu-Mainok: Tinubu hails Nigeria-US security collaboration after joint strike on ISIS leader",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTY0VHNpby1VZkU2WjhUaTRyaVFTOEo1OFVpbFRZNVhKN2NsTjYxNWppUjZ4Z0NCUlQwQ1NIT1hNcXBpYWNiS3NyNGZkcUFqR3FoODg0RzJFdkVYcW1rbVc2UlI3QThYODJ5VE5abkJVUlkwWTFfN2hfX2JuZ21rVlpidDFJMmplRldNVTZfeUdzQmNjajhtZlBDVGx3RG43MEVHSEpmZGJRcnFwSGFwZ1NUb1hTUWdJWklFNVI3d9IBxAFBVV95cUxQUENSNXJyRGdZeUgzQjJGYlBwQ1Y2bml1LTYzVk1HQVVrbDNWcGFnQ1ZJbEVYeHg0d09wT1JaLUZyYkJzYXlrSnFFVVU5YkRndjIyRFJ2WldyazZWV0lYLVN5OW95TDRHV2VRcDlGcW1HenI3MUdWMWJQTURzVFlOdE55dDJ1RVlweVl1VW9CaGNKM3VoS19FZjR6a0VhVmQ3MERNOHdnLV9VRG5BOUpVREZnd1Z3cDlpLUZQaWJRb3pRT2RK?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 16 May 2026 08:00:17 GMT",
+      "category": "Security News"
     },
     {
       "title": "Tinubu confirms killing of ISIS leader in Nigeria-US joint operation",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HczdoR3h4Z3o0MkJ0YS0tMnYyaWs3Z29mNnlfMTFCMHJYeXFYYUxnc1AxWlFJMFFHSHlEOHJNMXhFWGEy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQi1MdUZQWVVTaGhhcDFVN3diZm9kRFNhVWhtXzdYWUVKazNqdnl6MkROeE91UmZnZ1JkZi1heEc0MElKSkxBWWk4cTMxVzNnMGxndE9wcXlxbjZGT1dOYTNOZjA4VUV6RTI3YUZHUVA2eVNjZmtZS0hpNXVweWM0dU9PaEEtb2hOU0M2Rl9JNUlfM1k?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Sat, 16 May 2026 07:28:28 GMT",
+      "pubDate": "Sat, 16 May 2026 07:29:19 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "US, Nigerian Forces Kill ISIS Deputy Leader In Joint Operation",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVJ5V1kyNUF1QmRocE80TjRoenV2dFMwYm0xQzh2UnB1SmR1T0VSRWxTdHlTdFFEd21aVDJ0c3ZtZUJyNnFQV1UyYTQ4ZGVlOVF2aE1hUnJkckxDeXQwbnNWd2s0NlctSlZBeU5OQVBleHNQN3VXc05uU0lmOElNR1BzUDMzTnNLUUxV?oc=5",
-      "source": "Arise News",
-      "pubDate": "Sat, 16 May 2026 07:28:12 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Gunmen kill teacher, abduct pupils in Oyo school attack",
-      "link": "https://www.vanguardngr.com/2026/05/gunmen-kill-teacher-abduct-pupils-in-oyo-school-attack/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 16 May 2026 07:23:15 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "JUST IN: Tinubu confirms joint operation with US killed ISIS commander in Nigeria",
@@ -168,31 +211,10 @@
       "category": "Security News"
     },
     {
-      "title": "Top ISIS Commander killed in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VejRvT25jRUJZQmlhRW1xSktvV2RmeFc2NWw3bGpXQm1WRFlJdTg2MnFKZ0tfMTRIMEVkMW16Q2JHX3NoWk9VbVdqR0ZiRkhYSjNDNERWVVFDOXFtLWt4cDNNUWthbkUzcTF1dg?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Sat, 16 May 2026 07:16:47 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Septuagenarian arrested for alleged rape of 10-year-old in Bauchi",
-      "link": "https://www.vanguardngr.com/2026/05/septuagenarian-arrested-for-alleged-rape-of-10-year-old-in-bauchi/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 16 May 2026 07:16:38 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Tinubu confirms killing of ISIS Commander, Abu-Mainok in Nigeria-US operation",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkNqdlZReFFZeGZoWXpZNWRtVHZ2YVE0S0FYaGtCeFFpMHVfTjBvUHl2NlJQZXBudEhCZnZlRHZ2b210MUtzZkloZlduWXE1NmY4QlU2TWxCbk9sMGhwTEwtaURxRTdQMmRFQmJ3S3J4QzNVUTFXLVk0OVp6bHB3YUNoUkJxZk0tdDBJVEVUMU5lZkxQMjNDOHhRM1VEcFA0M3kzek9oSkFwWkotcmc?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Sat, 16 May 2026 07:14:14 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "FG confirms killing of ISIS deputy commander in Nigeria-US operation",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGpjXzRjV2tTQ1gzdWhvUzJEcWgwNUVlUDFXZG5Oa2xzMHhHVmhMZHJldlNBSEdUc284eUNWZVI5N3ZFeVlqVUZRRF9ZbUR4Q1M1cEFoMzFXX1d3VjFta1I2UzhRRHN0RG1nbjljWVlaMk5NYTNXRFdHRVdranlTVElZeWM0bU1TNDdTWElDVjZsLVk0dm0yY2pvMlF2TXQ0Wkw4bjcyclLSAa4BQVVfeXFMTXQtZHJQSXRoTWswTllqSm1lY19QdXFRQ3IxWDg2NVRGdjZEZ3pTSUhCUkR4UXVNTTlTSzl2VHlvbWtHcEg1eVBSbkw2UnNLS3p4MzFPMTZYaWtYRVcwaWJ0c2V5WVFpZHFsSkNRamgxcV9vbmExOWpWRWRxNE9kd2lyd1FBQnFCS0RBZFNQdmtIbV9paGNzOEtSQkUyNGNDaGY0bHBDYzdyNTJyM2l3?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sat, 16 May 2026 07:04:57 GMT",
       "category": "Military/Security Operations"
     },
     {
@@ -203,13 +225,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Tinubu Hails Nigeria–US Operation Killing Senior ISIS Leader In Lake Chad",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNekZmSHV3a0JUS2l6MnJBNm9PUnhVeDJPV0luLU9CbjJaZE5ENTNnSUg5cC1Gc2VzaWE5YUdwWUMtaGUzS2NsdzVESkVxLWkzM25XUEZ0NDFUWmxaOEw5OVhKaXMySXRLVl9lTWlYNFlTQ25BRXc5NUpUVHZEc25mTUhhLUlxUDZzZHZ5cXZDYk5Pd3d2TUdUdU00MEV4UQ?oc=5",
-      "source": "TVC News",
-      "pubDate": "Sat, 16 May 2026 07:00:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "ISIS second-in-command killed in joint US-Nigeria operation — Trump",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3BTdEZPZkhVZndFamU0Sm41THpvWUpMRktfckVpV096eWo0RlkxTUFBbHJPVFBPTkU0OWxJa0MyRDlYLUh3SGo3ZjN0eURyd01rT1A0S2t3cWE0TDl5d1Z2NnlTZGpmR1Q0UEpMZDJTQXhjRVl2N2FmZ1V0U3pCVEVrZXdpZjNaaGtUZlpwRnowNWRBdlI2a0xqRlnSAaIBQVVfeXFMTXFjd3FDNmZLdnAzeWdYb2hKeU05enU4OW16ZlBXcHRNRXdsSE1JZkxLRDBjY3FkZG1KREVqMnBneUg0dEI1ckE5emZ3enlQaGZfSnFmX2NZUG5JSks3MGlSaHM1N25Bb1JUUE82eU9zaUpTWWpMUFNKREJkbzh0dFNSRERmZ29pTG1kVkNNZWZGdHZSN3JwNi15Y3ZJWnFROXVn?oc=5",
       "source": "The Nation Newspaper",
@@ -217,24 +232,10 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXkyb29uWXhuLTBqNG94U2I1bmlMOXVVR21SMW5TYmVEc2s0djhpNEpBUjZOYUppWGNiRWpiQ3JEdm1XZU9fckJweEFLei0ySW5XZzJyWTlxU2pHNkRwN3A3YUsyVHJrTnlMYV9hWk44UklOYWdtLXpNQUJsTGNnVk9LRF90VHlRZWxETm5RUzdKMnZOUVNTemFWTEVnUVJRcy1lSjBNdFdVcHpmTWdnbVpxdzZhWnNEczdz?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Sat, 16 May 2026 06:47:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Excitement trails elimination of world most wanted terrorist in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVA3dGQtbk83Qm81cGdKQjNYNkoxZVRESV9IN3FSOHdzNUdodTJUOE9HbWYwOGR4ZXB6VUNpcUJjWkFfeFNmTkVaaUlfaGFsQzNqcmFtOU5ic21QblRvaDU5SlRJWGp6blZ5TFhPV0VCSUJkS1pyQjItdGpfd2tLVjZvZlJObEtMMmtZRmdwVTdsbzVXNXdVazU3NHdNSHZ6Yl9Uaml3Zw?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Sat, 16 May 2026 06:34:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, US ‘Eliminate ISIS No. 2’ In High-Stakes Raid - Trump",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVNoSk1oS2VyUGFfS3ZkNU5qcEdpMm5JaUw0Q24zWHNJSzJxeWtxU25rUUUxRVpNbTlXRVlHbXhETzNtSm45cGd1dHdQRlpCMWs5a3NWXzJIR0FHMENMNzRNaDJOdVF6ZXZuNDgwaktnNklTTUExRTVYcGl2VENCd3Z4blFoYUE?oc=5",
-      "source": "- TVC News",
-      "pubDate": "Sat, 16 May 2026 06:18:00 GMT",
       "category": "Security News"
     },
     {
@@ -252,17 +253,17 @@
       "category": "Security News"
     },
     {
-      "title": "Breaking: In Joint Operation, US, Nigeria Forces Kill ISIS’ Second in Command, Says Trump",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWNOUS0zRTRjXzNHZGtYWF95SnJBWWdMcWQzTDBXSU1fNmNBWkJVVzVXV01qVVZUOUpKa2U4ZlFOQ0M3T3hITFJWT2xqa0hZa2JFdjFCYzFoRGFXODZzZzRUNERNTkdKRDZfVlBYS2RNY24xaHE3N3g3cUZDY0NnLUd4SW8waVpfVldsMFg5UEZFalhEZzFMYkxvMVNqSW82R3RuVEEwdGNyODhrVTBZTFROQ1ZMWlJxdmhUdDdlUjZadw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 16 May 2026 05:13:31 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Appointment of SA on Homeland Security",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qdzBUb1ZWUHZkeV90Q0JaNWstcEI3cW9oSjFfRXNfT3U4bUMzcTZhMW9wcW9JNmRhX3pwOFVMWVpUcDgxelZ6Yi1uUG55V3pKUE1QQ09GY2xYdUlGZEtURnRJUmpBRUM2cHdGbEt0bw?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Sat, 16 May 2026 05:02:08 GMT",
+      "pubDate": "Sat, 16 May 2026 05:11:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Food Security, Funding Unite NASS, Agric Institutions",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkVyTUkwMlMxeEhRcU5WUWNZRVRhNmRFajdNdXZ0VmY0QkhtRmMyYk5qREhKVXJmdW9RU05ScDJ0S2lUOUd5SmVqcHMyTUZPbE03WmxnTVFIWmZuUjljMktLR05fU0ZjX2xlWU1FQ1Z0cV9iWUhqbDEyNXZfY2lrQzZwR3JydnRwbzFvNlVTMUV1Y1FLTTRLYU9tczM1eEZyNlE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 16 May 2026 04:55:00 GMT",
       "category": "Security News"
     },
     {
@@ -271,13 +272,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 16 May 2026 04:12:00 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Food Security, Funding Unite NASS, Agric Institutions",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkVyTUkwMlMxeEhRcU5WUWNZRVRhNmRFajdNdXZ0VmY0QkhtRmMyYk5qREhKVXJmdW9RU05ScDJ0S2lUOUd5SmVqcHMyTUZPbE03WmxnTVFIWmZuUjljMktLR05fU0ZjX2xlWU1FQ1Z0cV9iWUhqbDEyNXZfY2lrQzZwR3JydnRwbzFvNlVTMUV1Y1FLTTRLYU9tczM1eEZyNlE?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 16 May 2026 04:03:07 GMT",
-      "category": "Security News"
     },
     {
       "title": "Kukah Centre calls for harmonisation of community security initiatives",
@@ -298,13 +292,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUpsVDV6VjBDeXd0YzJNRXJoOUhmUFNOX1Q3dFZkQXBZQVJTaGhuRk5RbERsQ29NeVdHWWp4SkJIb2I2NWZreEdhVHJnU2xYNXZHYzh0SzZ0eDhKNjd2OThpejZlczdodWQ0WjdqYVFEYV9rOGJtMk1KUzlVckdMTU1n?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Fri, 15 May 2026 23:18:24 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US Delegation Discards Chinese-Issued Items Before Boarding Air Force One Amid Security Concerns",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWd4Z0F5U0FDTkhEdFNGbE9ZOGFYQ0dIbFotUWVtd0FrRHM4TVRrWGFMekJTRnNtbDFqNHZpZ00zalY0VC1LU0p0RDZIOTh6ZXU0ZjhRVXNKS0pKWnNob3FNVWdZa21WYjEtUlJ6dEthMDhmbzFLZDBkTl84OGdMZlVSR29lSjlmMjBiekJKVXl5S3VtUU1pMnh3M05VX2tTb1A1RG1oTzV1YWxQRXBuMklMZU0ySVY5bHlvTEZCVHdyWFZmbURr?oc=5",
-      "source": "Opinion Nigeria",
-      "pubDate": "Fri, 15 May 2026 22:54:44 GMT",
       "category": "Security News"
     },
     {
@@ -362,6 +349,20 @@
       "source": "nigeriahousingmarket.com",
       "pubDate": "Fri, 15 May 2026 15:32:12 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Food security: Nigerian Army Supports Zamfara Farmers With Fertilizer",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNREZwX2RXd1ZWTlNleHBibFg5VEFIQjJrRkNfbTFXTzVQNTVzbWlEOXVQQ09HY25wRFh4TWpmS25nbXFsZll1VWE0eGwydUFRclBlNlp2dnh3NWE5aEZnWWZndnZxY0hUZ2ZUX3BSbDVFUUhTbkg2aUxIQkV5M3VLYUNzZzNoLUtURUw2cEFCUGNDQQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 15 May 2026 15:16:45 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Steps up AI Surveillance, Anti-Drone Systems for National Security",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZldDcjNDRmFWX2hZVDMwNjZISDJINGIzZFFXUmhOYk5Sb2ZzTUhEQnU4M2NNY3hKQkk4cENDcGh5UlE5MGNvOTdNY2JLcWVoV29zSEdMQUlublFWTk42cHdHdkRjb1JleWhPNUxXVFVjbVhLcEZjdkk4UkhRSnk1VFhmYkRMS0xGZFFNTnFUbHNtWkdPNGdFZ0g2TGhVOW5veXdVdE1DZm15QQ?oc=5",
+      "source": "Business Post Nigeria",
+      "pubDate": "Fri, 15 May 2026 15:08:01 GMT",
+      "category": "Security News"
     }
   ]
 }
