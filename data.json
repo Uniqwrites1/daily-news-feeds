@@ -1,32 +1,95 @@
 {
-  "timestamp": "2026-05-18T16:10:32.612Z",
-  "generatedAt": "18/05/2026, 17:10:32",
+  "timestamp": "2026-05-18T18:42:12.520Z",
+  "generatedAt": "18/05/2026, 19:42:12",
   "totalHeadlines": 184,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 11,
-    "Security News": 119,
+    "Security News": 121,
+    "Law Enforcement": 12,
     "Banditry": 4,
-    "Kidnapping": 5,
-    "Armed Conflict": 16,
-    "Military/Security Operations": 9,
-    "Insurgency": 16,
-    "Traffic": 4
+    "Kidnapping": 6,
+    "Military/Security Operations": 8,
+    "Armed Conflict": 15,
+    "Insurgency": 17,
+    "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Nigeria’s security environment remains complex, dynamic – COAS",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXRlVUg3eWx4RW5peG03LTBLNlhwM0JiXzlSVllGeWZNRDlWR0tLOVdlZVV1amVQbnM5XzRCMHJFcE1wSy1aVmE5RThJcm5IeERUaFZfUUdpZHprMDZxM2Z1TFBueWprcXNIb1cxNHlJQnBMN0dPczRESHloZXhrSXhiWi1oNUtLYjZOSg?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 18 May 2026 18:18:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria defends State Police plan at UN, says reform will boost security, accountability",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckpjeHY3cl9ZQkNVRlg4cTh6VV9teXhfeUV2bE4xbjVlTkN1Sk9HYUpZbF93TmhJQVB3ZVFTUEFnWmFPYUdZbzJybFI1LXY3UnpLY01xOVJSdFhkYVRONFV1Vjc1NF96SmRmZjU0azVZSW9JLTFGNGN2TndrcTc4ZW5jZjNIdTZiTWt1S2hjVGhGclkweTgzSVVFNkgwQnJfeUhURXhqdWZXWUtxZkhKNHFmYWg3X1Zz0gG-AUFVX3lxTE0yVGJ0NzBmMy1xcC10c09uQVZLaEZManhxWlVXSDhvNExTT1lqTEZLLXRDeWZkSkpWTmNPU0hHQy00aGRSSUdhTjEtS3pVNGZmVDhNbDV3dkNjakl5bVFZazdmUlNLaUhCU2pqaFVsdDJ5RlBTMVp0dmVldXBsSnZVck5iNmk0R3VhaWNHc1VqZE5zZTZYMXFtWmN0dXZJNGpYVTdhd0wtVUpRY1J0eGtSZnlOLVlyYlBkWHA4TUE?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 18 May 2026 18:15:49 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Osun: Accord fumes over ‘second attack’ on Adeleke campaign office",
+      "link": "https://www.vanguardngr.com/2026/05/osun-accord-fumes-over-second-attack-on-adeleke-campaign-office/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 18 May 2026 17:46:08 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "School Raids, Airstrike Killings Rock Nigeria in One Week",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2FfYmdWSGxtN2lrZklyOGdyQ09VU1ZwZ092SFNWYmo3X2lDZlVlcm9PeUJHY2owbFN5b2N4OVR0MWVINGtzcUs1NEc4SURIZ0oxazhVUi02d3pscmNqWlFoZHl2M0VRaE5BRzFTaTRsa2xlWUdBNHNQaWhGdk1DUTNsTzRweThmYW5rUnJaajl0Ykt1?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Mon, 18 May 2026 17:43:33 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Army Deploys Troops To Benin Republic To Support Democracy, Security",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnZvRkI5eHNBcUQ3ajZVWlZiS1pnTkxYbnA3eGpYdHRDV3Y0LTRnU0wxZjRacFZVSVU0UlFDN0w0NlVZaW1odjU0cHFzRTE3eTB0VGtGV1ljRnBhY3pnQTRtX3hZaTdXRUYzYTZFeGhqcW9zQi03a3k4bUtOU1A5YkRGX2ZGdHJqdFIwS1ptZ3JoRUZ4S0pqZXNjbEtBYWM?oc=5",
+      "source": "Arise News",
+      "pubDate": "Mon, 18 May 2026 17:34:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Kidnapping Crisis: 39 Pupils Horrifically Abducted",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQkFyUjg1VENNaW9UMFhLV0h6U3hqNXJnQlhjcHpJSE01RFNBME80aVJCWTRJSGZSbTkxWVhJeVlQWU9wSDZ6eS1yRDQ4NzdhQklyWHJGQmlHd0Fob0pjMEV2OGlySmF3YmNHOGFmZVgzWFE?oc=5",
+      "source": "Brussels Morning Newspaper",
+      "pubDate": "Mon, 18 May 2026 17:34:17 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "EDITORIAL: Nigeria Cannot Keep Counting Kidnapped Students Like Statistics",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVZ2VkstRU5DVHJfVTVHZzJ1ZGtBbC1UenlrRW5MOGdMM3lwZU14aXNETkZZVjZGTTB3eno1SU02MFNvc21OWnk0UHUtQThtazBZbzRZUDJJUjZxNkc1bFFFckVZWjJ4ODN3cm1JdTRBOWl5MnNFZFVSSWtEMVc4SERlTE4zdkVodkswdnhCSlM2SmJDaUdmLU02d3RNMkg4Rm9xVXA4b090Um4yNUV3ag?oc=5",
+      "source": "P.M. News",
+      "pubDate": "Mon, 18 May 2026 17:28:54 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Ogun govt dismisses Gbenga Daniel’s violence allegation",
+      "link": "https://www.vanguardngr.com/2026/05/ogun-govt-dismisses-gbenga-daniels-violence-allegation/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 18 May 2026 16:57:36 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Gunmen storm village in northwest Nigeria, killing at least 10",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0E0NWltR3N6YTJyNFEtSFhkQlh2WFJBcVpxczlXMG94RDBRbHNwNlUwekJtLVNXZGszNVMwN3JmMDBRQ1VOanh5UXdxYWpSazMwZjhIYVAxVXBLYWhzMERxblBrLWVoN0NYakk4bzRhR3BacGpTdnhVOUwxWXBzQ29HU2VqSnVnOGFQdUUydVBIb3Np?oc=5",
+      "source": "AnewZ",
+      "pubDate": "Mon, 18 May 2026 16:48:00 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Germany deepens development cooperation with Nigeria",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGxlZUVOMUZHREtHd1otTlhobFFaaDBXN0JMZlgxeUtXTDNqSVdSSmdZR2hqeEtkRnhMY242VnFIYVJkZzROU1h5VVItaE1XYWdhbk1qbzRieXdUWmRQQWRPaEltZmVJcVBEbnFzRl9OQWlHdzlXeGxCb1NZNFFUYVdrTnJuVjA?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 18 May 2026 16:01:51 GMT",
+      "pubDate": "Mon, 18 May 2026 16:13:55 GMT",
       "category": "Military/Security Operations"
     },
     {
-      "title": "Regional Security: FG Requests German Support On Nigeria-Benin Boundary Demarcation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGdBakRJS0JDUVNzX1BEUGs5OTVkVE80R0hfNDRuUnNwdHg1ZFByd2lXMkZEa0JPNlB3cWhiaG9KdHZzUkFsLW1RbjVfTGl0b0I1MXJPdThNamwta0FEVG5SVkFnbXVZMElzQ3ByS0JUNjh4QUU5VTZtZDFuUkRObnRybDhUeGprTjE4R1Q4NHhGYWpNdXdWVUY5YkVqYmI3aGVsYw?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Mon, 18 May 2026 15:58:16 GMT",
-      "category": "Security News"
+      "title": "Nigeria-U.S. security partnership marks major shift in counter-terrorism efforts, says COAS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXdtTlptYkNPRjB6M3c2elZpU1ZrT2ZSLUI1NVpybGR6RlExd3RZWUNOeElDakVGdEtQNnM1SGpyMS1jbUNaOGNCWjV5OVlicGM0RXgxUGJhcGdwYlgxN0wwOFJ1UEIzWXg3cXpfRW1SVmt6MklqMzRudExkQjZHVkVCcGNhN25Ga3JaRHc5M29FV3BIejJSQWNCeW1aQzdJSUZscllqN2dkWEZ1emdJUjRSWQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Mon, 18 May 2026 16:12:07 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Nigeria-US Military Kill 20 ISIS/ISWAP Fighters as Operations Continue",
@@ -34,13 +97,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Mon, 18 May 2026 15:30:09 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "US Congressman Credits Trump For Strike That Killed ISIS Deputy In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDQwRFhrdF9LS1o0QjNrSVJKNmVUN2VFd3UzY1VZZ19xOEt4a0p6ZnpVOEM3eEhhOHNVRzVvTkp0NWZ1TDFuLV9EeGdwWEkza1l1ZlFReVA3TGdnVXNUdEdCaGxmeDR5a1oxY3poeFBISWxNQWdxNmRoNnBUZG50RXVMWHkwdkNOdGdPU19RTzN6MkhKbTRYNzJFcklYZw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Mon, 18 May 2026 15:11:55 GMT",
-      "category": "Security News"
     },
     {
       "title": "NPF Mourns Officers Following Attack On Training School",
@@ -71,20 +127,6 @@
       "category": "Security News"
     },
     {
-      "title": "Ondo APC Primary: Thugs attack Senator Adegbonmire at polling unit",
-      "link": "https://www.vanguardngr.com/2026/05/ondo-apc-primary-thugs-attack-senator-adegbonmire-at-polling-unit/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 18 May 2026 14:09:59 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigeria’s Federal Roads: Potholes, Promises, and the Cost of Delay",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1NWVkdVbk5Pa2FBaTlWbUZoWC1JTmhYZ2F4b2hTMnBsNlZlM2RLLWVnejQ3MGpZLUhwazZhTjJNT1d3QVladG9ublRIUG94dllLMUNKZjg3eHRTa1pnTVpJVnBjWGd4WEhXcDRlSnphTzRfSk11amlzSlNrei1oSVBUY0JZcC1rbEJidS1wbzl4TS1IbnJKbzFlRUxENl9pbERqQWtCUQ?oc=5",
-      "source": "The Nigerian Observer",
-      "pubDate": "Mon, 18 May 2026 13:59:35 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Army chief: Nigeria has deployed troops to Benin Republic to combat terrorism",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUh2cXQ3YktVUmJsT2c3b3BXMmI5SG40RHZ0c2M0QXpzT2VnLU9JOENKTDZBdi1ueUstbERPUWt2bVE3cVpjS1JFbFQ1UElWQ3QzS3lLLTh1eFBIVm9faDE0NFptREstcERNbl9CTDV0VGJkMUFpdXJNZVNHOXVTaXZBOVJZSTloZnJBLVhhd3l0MmZhMWxpRU95Nlc2aTRqcTlR?oc=5",
       "source": "TheCable",
@@ -97,13 +139,6 @@
       "source": "Voice of Nigeria",
       "pubDate": "Mon, 18 May 2026 13:42:47 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "$30m boost targets 2.5m conflict-affected children in Nigeria, Kenya",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTJxYV9DSG5ENHdzQnhkUnF2UnI4STJ1VVVVeFo2MmJ2MFg3S0pORXY0WFg0VlRVX2pMZm9JWDJRRHh2Uk5vVkU5S3Q5dnRGLTBRMHA0a0J4NmpITUt3aFFCNHljLVpGTFZTbGJzbUVGT1JzQ3VtRWJxUFpKYnlKVVZQT2djWmhCYkYtbjd5bGtDZkRSekVvNUpRdkI?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Mon, 18 May 2026 13:31:38 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "After killing top commander, US sustains attacks on Islamic State in Nigeria",
@@ -120,13 +155,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nigerians slam Sheikh Gumi over ransom-for-kidnappers comments",
-      "link": "https://www.vanguardngr.com/2026/05/nigerians-slam-sheikh-gumi-over-ransom-for-kidnappers-comments/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 18 May 2026 12:22:47 +0000",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Army Chief Orders Strengthenened Operational Strategies Against Terrorism, Banditry",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUtIQllZZ3BaLXVMeTNjR3hzVk5fSHVnZkVEdWhST0s0eEQyZTZfYm02WDBhTVVFeEpHb0hxdmxSWEpVRHh3U0FVYmFQVmNsX3VjcERnNXRMcjJyUkx6YzI1VUota0d6X1VXOXQtVTdMRkk0LTVpRWJtQVF5MFV0TkF2aUdNRGJXX3o4YmtDRXkxUTVMX2h1eGtqZE9NdjdlaVQ1blBkQS1LZw?oc=5",
       "source": "TVC News",
@@ -141,24 +169,10 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nigeria @66: DAGN launches Operation PVC to boost participation in democratic process",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1V1SWtDN2g5am5Nc1pwMWE5NjlKZkdsV0V2dnFGaERRTjZ4STdZTS1GbmY2SWdXNWoycUNjZnNtQkhHUkNDTkloSEpZT3E0dVFSR3d0a1Q5LTZvdGRrdi1XU1F4TzYxbEhkS2lMdkR2bkc4TmxXQkFncjNMWVJHbXVMaEFTN1Q5UEFfRXlBMThDTlRGb0ZsU2xaOG9LWUVReU9YZ2pzSW1hUjlHbGtuVWd1QXdERzQ?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Mon, 18 May 2026 12:10:38 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Kishiya: Between Ribadu’s ONSA and Famadewa’s homeland security, By Yushau A. Shuaib",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzMwcWhyeFR0UXVsTURQdTRyYmZseFhFT2ZJYnYxWi0yd0ZoYzdGVnBTaGpxdnhNVzBwclZuU29UWUdITHZfRzFZUHREZ0p1VllIQ3B4RU50R0RXeWtHa2pZSjRRR3gwSWw1emF6eW45ZkV0a2ZMTWhZMFVKbUR0SzFFT09IQVZtUEg2NjY1eE90ZUVPWU9oN2xjS0c2M21Zc1pVTlpEQWZ3c25BR3RURkVUUWxpVmhxWUNGSklodFpoSnJneVgwSGxB?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Mon, 18 May 2026 12:04:44 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Sokoto Senator declines re-election bid, says NASS  lacks powers to tackle insecurity",
-      "link": "https://www.vanguardngr.com/2026/05/2027-sokoto-senator-declines-re-election-bid-says-nass-lacks-powers-to-tackle-insecurity/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Mon, 18 May 2026 12:00:00 +0000",
       "category": "Security News"
     },
     {
@@ -167,13 +181,6 @@
       "source": "valmarino.com.br",
       "pubDate": "Mon, 18 May 2026 11:59:38 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Techpoint Africa leads Nigeria’s tech media rankings amid AI-induced traffic slowdown",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1ZNa0JUQ0xKNmxKQ0JsUXpXNEd4a0dORUtlZlVqQmp1aDlCSHlYVTdtWmN6R05NS0VZMnJCcEN0N2dEa0NOcWV2djlWMExiRXlieFZSci0xNUxsMDBmZW1BZTNZelQ3bS1BSy1vRlZjYjVLdXNSY0pMYVBwS2RBTzFHMEFzanUwLUE?oc=5",
-      "source": "Techpoint Africa",
-      "pubDate": "Mon, 18 May 2026 11:54:38 GMT",
-      "category": "Traffic"
     },
     {
       "title": "‘Don’t test Trump’s resolve’ – US Congressman Riley Moore warns terrorists in Nigeria",
@@ -300,13 +307,6 @@
       "source": "Punch Newspapers",
       "pubDate": "Mon, 18 May 2026 07:51:27 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "State police in Nigeria: Reform must not outrun readiness",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzlQYVVGY0xOSkZfaHNYbFhFTkpXN09qRTd6ZG5hSGhVeUg1bjJySVNfWVk5RW9TU29MSDVKTGFvdmwtTVVtNVF5MGFkaXNhdTJZNTZCZHo2d1FQX1F1ZHVIMXFlMnBELVZ3eE1QcEVxWlVlNUpnVkI2ckV0dlBocHd2Rm1Pek5k?oc=5",
-      "source": "TheCable",
-      "pubDate": "Mon, 18 May 2026 07:42:07 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "DIAN Chairman calls for stronger local defence industry to boost national security",
