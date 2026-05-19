@@ -1,25 +1,116 @@
 {
-  "timestamp": "2026-05-19T07:20:50.472Z",
-  "generatedAt": "19/05/2026, 08:20:50",
-  "totalHeadlines": 180,
+  "timestamp": "2026-05-19T10:20:25.791Z",
+  "generatedAt": "19/05/2026, 11:20:25",
+  "totalHeadlines": 178,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 117,
-    "Law Enforcement": 13,
-    "Insurgency": 15,
     "Military/Security Operations": 11,
+    "Law Enforcement": 11,
+    "Insurgency": 11,
     "Banditry": 4,
-    "Kidnapping": 5,
-    "Armed Conflict": 12,
-    "Traffic": 3
+    "Kidnapping": 7,
+    "Armed Conflict": 15,
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Police bust human trafficking ring, rescue 30 Malians in Nasarawa",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVMyTXNLU0JPZC00aTVnNDVqNXZKd2pMQnBYT2tNYjdsX1ZGWXRHbmlNd202LUdwdEUydkxUQjZSUlZtTXBfQ1poWnBRdkhwb3NhdVVwRVFCWTJWSnl1RnljWTFUWk1KNDNVTXdFLTZxLXR3RmRBMWdpei1uRm44QUdZem5KRlFBODFrVDktSXhXNk13SWgzd3VrdFk3NGlpSXRPR1Radw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 19 May 2026 10:18:05 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Gunmen kill vigilante in fresh attack on Plateau community",
+      "link": "https://www.vanguardngr.com/2026/05/gunmen-kill-vigilante-in-fresh-attack-on-plateau-community/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Tue, 19 May 2026 10:07:45 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Expert Warns Nigeria’s Dependence on Imported Drugs Threatens Health Security",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVFaUXlIbnNpdUNIUmNzRTdUckpiQ2JqS0xBaWFvdmdDYks5ejRTUERPY2o0QThYX1NUSUdfQVRKUFplSklPdE1TdElWNl92czZfNjFJbHhHME9OX1RKLUJoWmJ6UXQ1Tlk5ZmlDWnRCUWYtOUZnTlg5T01xQnFOQlNELXFIT1VoV2JUN1JXaWtiZXRyb2Z0NHpFczVKaXpkX3ZfSFMwRDBIOElVY3Nn?oc=5",
+      "source": "Radio Nigeria Lagos",
+      "pubDate": "Tue, 19 May 2026 10:06:46 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Four Nigerians arrested in India over multi-million naira romance scam",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcW1iZ3lxWE15bFBNeWlscjFERVBaMXNua3VCcGJBNW5obUJUMi1WUGRqSFBpa0l6ZjlEa1RjM1lmNVBPR0RaRGlxdjVFZmt6am92ZVR4QWltbDJrc1V0VllXQlZXbGJkSGMwU0dtS0R6NmdCeTAzWWh0S3BQTnRfZjF5djZfam9DM1RRRGNUOTRuMXpUbWdjd0VfMXFvX2pWbUtITENMdnVGNWdwcTRB?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 19 May 2026 09:45:57 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "EFCC vows punishment for officers linked to UUTH operation",
+      "link": "https://www.vanguardngr.com/2026/05/efcc-vows-punishment-for-officers-linked-to-uuth-operation/",
+      "source": "Henry Oduah",
+      "pubDate": "Tue, 19 May 2026 09:33:00 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Insecurity: Nigeria under Tinubu marked by recycled condemnations, not action – Atiku",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2k1RWxJbmVIZkotUXVJTVBZRmliTW9yYkMwUElZZXZ1eEJ5UXp3RnZoR3B4cG44dkoxek9tb3RnN1BPWlNLTjZOc1JGczdWSTVCTWJBUmhwdFBxdmNpMlRUQmhoVUYtbDBmcFMyV2ZQbUZXaExmeVNmSjNyTElwdlh1amxwUGNtcHZnYnNyNThqTVU5UHpUVEJ4Y1RFNVg5NEMwVGdSb1VuS2ZmVkExOE5DNko?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 19 May 2026 09:21:04 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Navy, UAE Deepen Maritime Security Ties",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVhFWl9pb0JFVEhTUi00T3NfaTBDRk1KRmhDc1A1ZEc3X3ZYZ1JkRTN4N3J5NFBXMkROSHgyNVJRTVNMTW04NVdvZ1dQNDhucUtnVjlZWVZPbDZlOEloNU92ZW1zbkVXY0ZTX0tKY1FLLXM4R1lCNUQ2QWZESVcxX2NCNmtFeFoySVVQaV81TDc3WVdPTTZocjlR?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Tue, 19 May 2026 08:46:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Full List of Oyo Kidnap Victims: 2-yr-old girl among",
+      "link": "https://www.vanguardngr.com/2026/05/full-list-of-oyo-kidnap-victims-2-yr-old-girl-among/",
+      "source": "Oboh",
+      "pubDate": "Tue, 19 May 2026 08:30:27 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Police trace Oyo school abduction suspects through phone calls with bandits",
+      "link": "https://www.vanguardngr.com/2026/05/police-trace-oyo-school-abduction-suspects-through-phone-calls-with-bandits/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Tue, 19 May 2026 08:13:15 +0000",
+      "category": "Banditry"
+    },
     {
       "title": "How rampant violence made Nigeria an insecurity hotspot in the Sahel – mapped",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkRwOVJGZlZoZHhCT1dEZ3BkUjYtVExOdHFmTmxLUHozX3ljV21IYkpZSFdaQ1c3dExXSjcwS1BETGRsaTV0YWlxRkFOSy1tbXJLei0xaDlVRXNNUWxpWnBBTk9ON3k3dVM2R0xycEpNamZfeUFTZXBnT0tBbmlnUlc0dmFxRmgtZ0tQdWgxdVQ4OW5vSXVxRVphc0tGaWdtT21TOF9qZXR0ZEhYMDdZblRjeTE3Zy1BM1NUUHdn?oc=5",
       "source": "The Guardian",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+      "pubDate": "Tue, 19 May 2026 08:13:00 GMT",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria, US Forces Kill 20 ISIS/ISWAP Fighters In Joint North-East Operations",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1lkamJzUU5OQ21LZzlKS3JRNnpEelF6VkIwWHVxWG1qTnhCYngtdDJFU29iLWljalllUEhzU2UzMkN1b1Z2WjF6X1VTd0x2enVhU01vTEsydjRMS3VfVjd1ZkRHMGNRN1ZfdC0wd2JMN2RmTnlKandhSkIxc1FNcXFNa0VjbzI0Ml9WbEl6blI3SW1NVEFyNlBCNHBnRzQ?oc=5",
+      "source": "Arise News",
+      "pubDate": "Tue, 19 May 2026 08:04:54 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUxkNHNjMkwzUlVaMHpKVmxiS2EzOFY2OXVGN0tEcmNMMVlxTXgwd003bHJPVC1yLTlWZXlpMUFqWTlVVWFValFKU2YzeFlZUGNjV1FBSjRrM2NvS3JMTXM2YzVPekp4MnlMSmpBTG1xVVlvTERsT2Z2V2JPUGM0VmRHalIwU3o3NFZtamVoRGxYV2NkaVQ0OHl3bnJuUXBPOVFVMEdqelhZMmVQdVc2NtIBsAFBVV95cUxPLUxkNHNjMkwzUlVaMHpKVmxiS2EzOFY2OXVGN0tEcmNMMVlxTXgwd003bHJPVC1yLTlWZXlpMUFqWTlVVWFValFKU2YzeFlZUGNjV1FBSjRrM2NvS3JMTXM2YzVPekp4MnlMSmpBTG1xVVlvTERsT2Z2V2JPUGM0VmRHalIwU3o3NFZtamVoRGxYV2NkaVQ0OHl3bnJuUXBPOVFVMEdqelhZMmVQdVc2Ng?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Tue, 19 May 2026 08:04:09 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Bishop urges FG to reorganise security architecture to tackle insecurity",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmNMckF6RzFQQUloUU9PTXlsdWw1Rjd6ZjJjWW43MzYxTzdZaUxfYXVtRHlXcEwwT25JUTBYc1FBZHh1UG1oTVdUVUs4WU5wR0J5U19GcEZfdU5aS1oxTkVtM2lsazVMN0pabnJ0bG93TjRJNDFpRjhXQnBfTW9GRUwwUFRRRGxPVEtYa2JXcEpCVnk5V2hIakpzSUJyOFdVaVE1dGRyNnBrVm1JWjEzRnJiT0Q?oc=5",
+      "source": "The Nigerian Observer",
+      "pubDate": "Tue, 19 May 2026 07:54:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s ginger export crashes from N26 billion to zero in three years",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk15UVRBNVlvNlRhSjFEcTgycWdfenM3UkxXSk4tS2xndHlaVVp4ZGM3blZwYjhXYzNLQTlFSDFRcmNRdE5nVGtMVl9OeEZ5WnhESXlEbkxFdk1FcXZucC1qdjZYcUhRb2hnbDU1SUdvYmtWZjlmZVk1R0lhdVhkS2FpVVBCeFBaMzJYM2YxclBVQ0g1N19yeVdwUXZ4YnRSYVRkWHNnY2h2dw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Tue, 19 May 2026 07:49:17 GMT",
+      "category": "Traffic"
     },
     {
       "title": "How informants helped Oyo kidnappers during, after operation – Police",
@@ -36,13 +127,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Sugar industry key to addressing unemployment, insecurity — NSDC boss",
-      "link": "https://www.vanguardngr.com/2026/05/sugar-industry-key-to-addressing-unemployment-insecurity-nsdc-boss/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Tue, 19 May 2026 05:33:15 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria Pushes For Permanent African Seats Amid Calls For UN Security Council Reform",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0JfVGcyY2tKUzJoVTlKMTcwME5aQXZCY0RRbmRMaUZhY0EtMGI2cGEtb3RJbVNldnpnb3VGQ2dYd1ZJRjNhajZubkJGOXFkTU5kSlI2VHlZdHN4cm9yemZ6SDNEdXN3dmROMjNqWnBxa3kyMXVWbWpMQ2lmN0tWS2RkOGZad1dPMzFkWWRCSlJGUkhuVkctcW5YRWFpUW4xWEk5SjZtVVJVR2M?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -51,9 +135,9 @@
     },
     {
       "title": "Nigeria, Benin deepen cross-border security, trade cooperation",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1VQYk14ZW42VlFFWmVaMzBtMlNtM0d0YzB4N1VDTDJaN2pRMlI5b1NvYjlDYVBRQWFSNUY4Vll6eWZHQ1EzcVd3ZXVrM19xWXVlQU83aEpQeXRtSURIM3h6bUNCa3AycWpqcVdZQkYzWW1WeWdwZmF4Z0J3bjFMdkRwaFBzdkJtNTB5Y1Nn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd01FUG56aDJLMkExUkMtX3BHbmxoSGRQU1lDQXU2ank2STMtMVAxS1lxLWF4SEVtN3A3d3VBM0xCRFJnZ0g1aHVKVjdkTUFLajJYWnE1OFFHX093N0tuOUlGeVlSN3djZmlQaWFyUjlFMjdXRjZNVE0tSFNQTEFTdDdKMFJ2R2E4?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Tue, 19 May 2026 04:47:25 GMT",
+      "pubDate": "Tue, 19 May 2026 04:47:30 GMT",
       "category": "Military/Security Operations"
     },
     {
@@ -64,6 +148,13 @@
       "category": "Insurgency"
     },
     {
+      "title": "Strategies for combating terrorism financing in Nigeria (2)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlZFejdXMTJQY19Tb2tBR0h6ZUg1eVJURVRJTjdEaEQtcVJlaHJSNUFfc1JVaHF3N2RRYUZxZVljcUhoRjlQOFVaSlJLWUZhTEI0WnB5dkNhdllsSGNHa182OWxFcWx1UFF6bWlYOWdaLUdzN2U3S08xX0VHUkhUWEJtYlEydTBGejJEMlRIbw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 19 May 2026 04:00:00 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Nigeria Police and Nigerians",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcmJVUmpTZUNBT1U5dHdRVE9ZYndaczN0OE5lVThpSy1uY0U5OU01WVYySzZzTzhBOF9SYjNoNzdCUWNTN0ctbTRnQmIzanNPLUNHQWk4UUwzTEFxQTdrRmloT0FHWWs4TmRZ0gFwQVVfeXFMT0ktUEd0TFloUW8taVpiUjN1dW5BOE1MVmV2RzBRWmcyY0k5YzRCdWJ0c1NPTFVzU3Y0MHhsemg5MkxzX1JNeHM5UUNwbGlJUFBkOEZyanVFSGRzR1JuQi13STNkZzZTQmlSNTFqbG1yUg?oc=5",
       "source": "The Nation Newspaper",
@@ -71,46 +162,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigeria’s ginger export crashes from N26 billion to zero in three years",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMU8yNmFURF9kUjh5Y0ZGZHVGMkl5TGl6Y3JKUjNMS0FhSUNWa1VPR3VaWFAwSC1sdFRMbnhhU09SaWtWZGROb1puQzB6MGc2cnE3Zno4OFV3aU51MnpacWFBVFdHMDFsRGZLZ1hhcXBkclctU3JySHVKLWxmLV9EMHFQRXhhckhmNkNrb255Q1NsSG95ZjUtVGNEY2Etai1IZk05YkFfdUJ1bVFMM1hJN05oZWU?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Tue, 19 May 2026 03:40:45 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Suspect arrested over serial fake bank transfer fraud in Ogun",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWJ4aEIyY09UamdZMDE3UVhvaGpUNHNsYVkyNkNGU2NpMUxCejlMbGVEanhHMktPTGRELXdpOUIzazlFMFNCOU1ZWUlEUlNLckZZbFUtZk80dFlubEJoZnNvZ3c0TUxkOVU1WXREWWw5UGw0aWMzc092YmpxU3kwLVFaRHYwTXpYRUJZOEpRWlRVTnkzT0RVVDRVSDdkc29ZWTUw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 19 May 2026 03:19:01 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Strategies for combating terrorism financing in Nigeria (2)",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlZFejdXMTJQY19Tb2tBR0h6ZUg1eVJURVRJTjdEaEQtcVJlaHJSNUFfc1JVaHF3N2RRYUZxZVljcUhoRjlQOFVaSlJLWUZhTEI0WnB5dkNhdllsSGNHa182OWxFcWx1UFF6bWlYOWdaLUdzN2U3S08xX0VHUkhUWEJtYlEydTBGejJEMlRIbw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 19 May 2026 03:17:03 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Phone-tapping charge: Court grants el-Rufai N100m bail, allegedly re-arrested by DSS",
-      "link": "https://www.vanguardngr.com/2026/05/phone-tapping-charge-court-grants-el-rufai-n100m-bail-allegedly-re-arrested-by-dss/",
-      "source": "olufemiajasa",
-      "pubDate": "Tue, 19 May 2026 03:09:25 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Operation Sweep launched to rid FCT of criminal elements",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS3hSQjBVNW5VREhISktBSHEtOVl6VDBxTl9jdkhmZ25ISmtzNk8xV0RZWjdlN090eV90R1hMcG5FalkzSHIta1N4X2VmN01Zb21JSURVNFJkTHFZczRtT1NXNTlPSU55M0NHX1Fpc0hWTmdDZ3NfX0ZYbzVwUFBHR3NhQkMtcm8?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Tue, 19 May 2026 03:04:12 GMT",
+      "pubDate": "Tue, 19 May 2026 03:12:35 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Oyo school kidnap: Teachers, students protest colleagues’ abduction, killings",
-      "link": "https://www.vanguardngr.com/2026/05/oyo-school-kidnap-teachers-students-protest-colleagues-abduction-killings/",
-      "source": "olufemiajasa",
-      "pubDate": "Tue, 19 May 2026 02:31:44 +0000",
-      "category": "Security News"
     },
     {
       "title": "Ribadu-Rubio meeting spotlights regional counterterrorism, stability",
@@ -127,32 +183,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nigeria To Experience Largest Increase In Food Insecurity Globally In 2026 — Global Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnpPRWk3Sks5RDFIek5YWlY3WktkVi1PeTFWSmNPUm9idF94a1JRRGs4cEQ1NjNIaV91VTFtdmtXNkFyb1N5cGFwSkM4ODdGZlJhalRuMHFQSksyd08wVlNvNnIxTC1CcGpSMzk2Njg0bXpmcUF5U2ZKbTBFaVhEbUg1dUxhTUhQdGNHU1ZoMkJOMVdXcllCUk9GRzdacHJQTElzQU9qcF9DaVlfbm9uUnd3?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Mon, 18 May 2026 23:57:28 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Relief for SMEs as NACAN Launches Fight Against Expensive Broadband in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVl9VUFRteC1jOE5jeDdHWndwNmdEdVV2c2pkMFBybGkzQmtPZy1ER1JFbmpCSnM2d1IzbEQ5VXBScGFTblpLREdBejczaU14TUNWVGtSaU1XdWZnNEpudUdkOHpDZzE1bUJSMGc0VER2bFF1NW4xbHM5bFUwbWxXTktHUEdfMUl0empCZmxVekk3OTU1UlVjaDkxZjZEMEJRRkRINnhtS0w0YWI0RlRxSXJjNU9KSGktT3dnaElzS3dGZw?oc=5",
-      "source": "Nigeria Communications Week",
-      "pubDate": "Mon, 18 May 2026 23:27:51 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Nigeria Urged to Get New Buyers as UAE Exit Threatens Oil Market Stability",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDhtTXlUQkRyQkNIbFFEeDd2Rmp4WHhOOTJyY1JXSU5TeGZWTzdLdkx6alRMQ19WRm13X3Z6UEktQmRQUUVDaHhpc0JPTkRhMDFoUURVU3ZPVkg3UnhJU0hhWGdkQlNNT1NFVTdoMk5qa1VZZk1YWDIxVGxlOE1pN3BXNTNKRTZheng0ZG1BQThWV1ExWmpIUmxoWE5nbDJrTWJVbGltdGUtaFEycFdoVWFXZmM?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Mon, 18 May 2026 23:06:30 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "After killing top commander, US sustains attacks on Islamic State in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1JHNkh5Zk1wcTQwMFM2dUdHUUtBaHZKZmI2X1VNWVJVRWFHc0Y4RTQ1REtqVEQxT05hclZFc2tyY184d2h3NU9kUWJKWG9icGkwcXRtUkNqMGJnd01OY2VqTEtvYXg1anZCVWZoa2JyS3BwMTRxR1JHQ0xGWXFmRFRGSmYxTXFyczV6QjdZSEdVYld4Q29rcmVnRVVpYmk4MUlJX3NCTFFLd3E3?oc=5",
-      "source": "CNBC Africa",
-      "pubDate": "Mon, 18 May 2026 21:57:03 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Ugochinyere Sympathises With IGP Disu Over Army School Attack In Yobe, Demands War Against Terrorists",
@@ -162,25 +197,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Killed Twice? Nigeria Had Already Declared ISIS Deputy Dead",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlM3YlhESHE5VlQzLTRtb0M0NWlJUzRYVkdsYnVxOXBCbWNVTm9DdWoybVdKbzFXNk1PcGhRSlJ2eFVmYjRyT2l3QzF5STVxZTIzblVpQkV1Tlp1b29XLVZodnQzX29XZlZzaVd2a2tZa1ZWVDZkYmdFc2NFb3hWeEhHZGVFT2drdjZQNlhIeWU5S0RuWHM0?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Mon, 18 May 2026 21:02:56 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria–U.S. counter-terrorism partnership, turning point in intelligence-driven warfare — COAS",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjZoVFB6N3dYWDNZa2JIdjA0YWlPajZRVUN4VjlJTEtfNi1qNkpYb2VjTThXRDB2N1RvOUp0cDBVOGFIUU96c3hCZjZ4dUlSN3d1WDdtWGtSVU1mMXZGXzVKdTF4dlBQNndZOVczelpjVWJxM2QzSGV1aXZ5Tk1QX1FYbUVxVmQwZEUweEE4SEpIbWMyclpJbjV5bmo5S1FMSVRIWEM4cFhBdGJkYXdYRQ?oc=5",
       "source": "News Agency of Nigeria",
       "pubDate": "Mon, 18 May 2026 20:56:15 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Nigeria’s Sugar Sector Can Generate 1m Jobs, Check Insecurity — NSDC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzFzOXdFSm1XLXhEV09NSVowbVN2OUlETWdBcS1zNk50U3RNQ0Jvb1RlZlRlTV9UXzRPRTdnTGtDbm9qVlFEWFdSdFJ6ZjNTNTVWQXU2M0RMRjVYdERja2pRSlRaLUF0VzlGSlR2NUNoaUFkamRRT3dZV24xNklrakQ2VE5TRXU1b3FCUg?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Mon, 18 May 2026 19:50:05 GMT",
-      "category": "Security News"
     },
     {
       "title": "Kwara NSCDC beefs up security ahead of Sallah",
@@ -218,13 +239,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Germany deepens development cooperation with Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGxlZUVOMUZHREtHd1otTlhobFFaaDBXN0JMZlgxeUtXTDNqSVdSSmdZR2hqeEtkRnhMY242VnFIYVJkZzROU1h5VVItaE1XYWdhbk1qbzRieXdUWmRQQWRPaEltZmVJcVBEbnFzRl9OQWlHdzlXeGxCb1NZNFFUYVdrTnJuVjA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 18 May 2026 17:00:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Nigeria-U.S. security partnership marks major shift in counter-terrorism efforts, says COAS",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXdtTlptYkNPRjB6M3c2elZpU1ZrT2ZSLUI1NVpybGR6RlExd3RZWUNOeElDakVGdEtQNnM1SGpyMS1jbUNaOGNCWjV5OVlicGM0RXgxUGJhcGdwYlgxN0wwOFJ1UEIzWXg3cXpfRW1SVmt6MklqMzRudExkQjZHVkVCcGNhN25Ga3JaRHc5M29FV3BIejJSQWNCeW1aQzdJSUZscllqN2dkWEZ1emdJUjRSWQ?oc=5",
       "source": "Peoples Gazette Nigeria",
@@ -246,13 +260,6 @@
       "category": "Security News"
     },
     {
-      "title": "Army chief: Nigeria has deployed troops to Benin Republic to combat terrorism",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUh2cXQ3YktVUmJsT2c3b3BXMmI5SG40RHZ0c2M0QXpzT2VnLU9JOENKTDZBdi1ueUstbERPUWt2bVE3cVpjS1JFbFQ1UElWQ3QzS3lLLTh1eFBIVm9faDE0NFptREstcERNbl9CTDV0VGJkMUFpdXJNZVNHOXVTaXZBOVJZSTloZnJBLVhhd3l0MmZhMWxpRU95Nlc2aTRqcTlR?oc=5",
-      "source": "TheCable",
-      "pubDate": "Mon, 18 May 2026 13:57:00 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Governor Makinde Reaffirms Support to State Security Agencies",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0o4RDhKajlsSXZaY3hGUWF0VnVBdWZraWFaMERxbWJpTEt4ZV9lM0dtLUN2bV9CNTF2VldteGFRZ3RMNUxoNXdDZFA2VFRxSm9OUC1ST09OTm1hYXlyS01XbTFYUWxRakpIaWZMOHNOQ2hYTFFPT0JmamZ5WFJEd3lTMW5JUHRh?oc=5",
       "source": "Voice of Nigeria",
@@ -265,13 +272,6 @@
       "source": "TVC News",
       "pubDate": "Mon, 18 May 2026 12:19:00 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "US-Nigeria air strikes kill over 20 ISWAP fighters in Borno offensive",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOem5aU0JzY2puQ0p6cS1NcDdiOWZ6Y3A0TkNkYWl3eWVVOW42bmF2NjNZVWFPRkFHajRiMXNIR0NMdFc2Q0k3LVBQZzI1RGM2Ykdxd3hMQkpQTFVtdzlxYV9NZFl3V2JQN19XZEI2RmNmbWRrM0VNd3hiWWg2Y0kweWZhUkNhRTlzekJwY1VCUGhfLUo1WlVXbkk0eWFKTlRLWm5DYm1ibkVPQQ?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Mon, 18 May 2026 12:13:20 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "Kishiya: Between Ribadu’s ONSA and Famadewa’s homeland security, By Yushau A. Shuaib",
@@ -323,13 +323,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "US military carries out more strikes against ISIL fighters in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWl3VWFUZEpYYndLSFZEX3IyNlhqSFNPTzBBb05DMWNhd0VrY05qQzhfV3VhYjJyVW82SzJiVFdZR1QxU0tubEI4Y3lPMTJTSEtSRFVORlNCTDhZOC1fX2xLby1QMURJNWI2eUlzSHJ2cUNmREx6Y2pVY0l6clBKT3dpczN4UmM4d2swZ3Z0aG9lRG9nVHRQT1RfZ2F3d2pTQW85ak9wT0NLcVg4Q1Rn0gG0AUFVX3lxTE9aeWFJQ1ZNVkZ3TWVFeURzOC1QTlRnSWVWX184UWxBX2RfRTE1WGhCRnZLV1VtZlN3NGprU2lDNU5QSmN2ZXlrTnMwdVY0Wjg4TWRfX3d6MkV4RzRpQll1bk03OTE5WHhPMFkwaGdUX01mRHllWFdXcE1Cb0hWY2ZOdTdEOE5fVm43M1JWRHA3RkdTdlAwRHQtVVhvWGNmMWNpcXc0Z29HdkpJWThMVFhoUjg5Qw?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Mon, 18 May 2026 09:44:21 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "How Sugar can Address Nigeria’s Security Challenges – NSDC Boss",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xaVZqZE8ycmdXUVVuRjM0WDZaSjBhSUJRY2ZTNkJEVXJWbTVlWThTR1ZJalU0QUlDelNGdGhfZFp4VHNMSXFZU2FjQS1VN0pSTlZaanpUN2wwN3p2LXdOVThuVW9GRE15NzJn?oc=5",
       "source": "PRNigeria News",
@@ -363,6 +356,13 @@
       "source": "TheCable",
       "pubDate": "Mon, 18 May 2026 07:01:00 GMT",
       "category": "Kidnapping"
+    },
+    {
+      "title": "Senate Pushes State Police as Fresh School Abductions Deepen Nigeria’s Security Crisis",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGdFUUh2M090XzY1UEp4YzRSQUZHd3lpX2ZkQjh1eVhNSzRrVFhIdWY0NndwQkhlQ0k2bzlYdnhtMVhPNWhGVktKQVYyQUNIWk1GNFJfekE3bFZLRDBWMEZHb29aQV9FeF9zZlh0alVvZFNtYXRaS2xXcWtqUlFfS1ExRnlpNGpmSl9xRUJPWmt2UnNrOG1EQk90Z0cxWnVuYlA3QkVKbmRxSWs?oc=5",
+      "source": "Arise News",
+      "pubDate": "Mon, 18 May 2026 05:57:01 GMT",
+      "category": "Law Enforcement"
     }
   ]
 }
