@@ -1,19 +1,96 @@
 {
-  "timestamp": "2026-05-20T16:13:30.441Z",
-  "generatedAt": "20/05/2026, 17:13:30",
-  "totalHeadlines": 179,
+  "timestamp": "2026-05-20T18:54:18.769Z",
+  "generatedAt": "20/05/2026, 19:54:18",
+  "totalHeadlines": 173,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Armed Conflict": 10,
-    "Security News": 117,
-    "Military/Security Operations": 10,
-    "Banditry": 9,
+    "Security News": 111,
+    "Military/Security Operations": 9,
+    "Banditry": 7,
+    "Armed Conflict": 13,
     "Law Enforcement": 16,
     "Insurgency": 12,
-    "Traffic": 3,
-    "Kidnapping": 2
+    "Kidnapping": 2,
+    "Traffic": 3
   },
   "headlines": [
+    {
+      "title": "CSO: Killing of ISIS commander shows military now more coordinated",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1ZmcFVvcHNVV21ITC0zSUtWcTFCMnpnSGFVSWdkNVhoeHh5YXpKSDJEYjE4WWRRaXRWSXRwMEtIaG5zbG9ENGlIaGlFUFVXSGxDa3VpaXdGYjNUUFkwd2xOajB2YW9tWGJmZk1Ia3VYODRTR3dlN1dtcS13X0JSejhDSVpHUmdmc24yazJDYVNqM2Jr?oc=5",
+      "source": "TheCable",
+      "pubDate": "Wed, 20 May 2026 18:27:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s internal security architecture undergoing most ambitious transformation in decades - Interior Minister",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUFfajRkd1p2MmdSX0xLQTcwV2NhMGlSYmZPSFo3MXRDLUNWNU5Bb3dlbnBkUDFsajZwcTBwNVlRT2J2QmdHYzJFUzZtejZkM1RGTUpzUzRNQjYyS19oMW16MzV1eHVtVHBjUC1rMlNjb2RqZjZzMWpZN3dZV0Mxc2lfVkQyMW15eU5SZTg0SjBETFJQcVVlLXVZMUZPV1kxWUNJMlI2c3hkZkFLZDViSlJYNnNCd29TNVJzUy15QWJvRWw0dFlMVjcwbw?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Wed, 20 May 2026 18:21:49 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Atiku unveils economic, security plans at ADC presidential screening – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWFnbWdSbDRkS0ZZSUwtVDBZdHFyMW1LNEo2Vl9EUUhlX1ZndUNGSHhldldMQUxjUXk1Sm5GYkw5YnFiZnFQMjdqcF9FTml6S25ycU85NDRUYXl5bWZWcC1hZjNhYWJmT3NIaUlnN1JQRUFEcF9iTG9neXU4bEFrQTdvQ1dMNWhPV0FFb3p6VlJPUDFZbGRlZF9RVmhQTW9tVWk2akVjNUVuMGM?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Wed, 20 May 2026 17:31:07 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Security: Traders Honour Onitsha Area Commander For Effective Policing",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzh0VzBBNnBsQk5uYnQyanF3akJMaEhtd0RKZ1NSYmhHU3V4czMyZm40SzZqX3pZc05HcDBrSkVoTG9YTEl4Ym5TVjMxVFNNb1JBYjhzY2QzQzhqM0pTUmprSVp3R2xERUFLblhuMXN1VG53TkhJV1VLcE9nbWtFWlRHYU8xeTdRa2lMemZMWUhkTkJSbWticQ?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 20 May 2026 17:30:17 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria records four years without piracy attacks, says NIMASA DG",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDduLW95YmhBekMyYjh4dDVHWlpZRjcwakJmY0xOSVl2djdWaWlpSm9sT0JUb193Z1FKSXp3RkZvZXlHRXdvekd1eVBaT245WFliOUFHQnBFVkQwSl9tN1VtVC1BRnQ2M2VjSjcycTVXTU44anhiNzBpZUFIdmlMWGlxb0gyUGZJbFJ5ZERhY016SXc?oc=5",
+      "source": "TheCable",
+      "pubDate": "Wed, 20 May 2026 17:22:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria Releases Outstanding Allowances For Stranded BEA Scholars Abroad After Months Of Protests, Hardship",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnJmUHVSQ3I4MUFJZVk3SGNXc3U3cV9MZjB6bXp3MHpBcy05YzNaak12VmRaTlZPMlB1R19PMEt3RXU3UlBoRlN6emlzM2l1alpPY3BYd1JyeVN6VTRRQVBCVjJwQUU1V3dtSTdSb1kwLXN4WHJBSm02UjVxVi1PckV1a2tRbmRIeVRjd2lDcFV2dFY3MjdXeGpQcFQwb2xxMVcwb1VWcnFhekpMNzhIb0NTcjZtNnFYUDlv?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Wed, 20 May 2026 16:58:25 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria champions call for swift response to security threats as African Air chiefs meet in Tunisia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMERhY3RaYUtRajhTblRQM19ocmJyQlJHeWtvcWlZY2NUTFcybVdTR2Y5STk3dnI1YWVEalRhanF5OWhfc0tuUzNhVzE1bG82YWF0ZC12cEc4enpLZUlfTVEyYXRYTXcyYkh4ZEhWY0piMmlEdDEwSWNNN0R6OTFkdTFDUGlYaDBrLXNrcF9YRXdGTVlFLV9WMjB4S0hBT1h6S0tIQ0R0SExrS1VkUkdCNWRQd1ozY18zMVHSAb8BQVVfeXFMTXVoT1U4azlPRUsxa3phOHlJVm5TWlY0WjMtend3ZmVlUGpPcjNGV2pCODN2RGNkVHBacy1oTlBSNVRKR0k0bU9Fb2V2ZDlXYlVoSWJFQ0lpREpFVjJFeXYwMUwzcERLcXlSNUQtUmM4SnpjbGJsbmt5STBTSlJEeFNzZjV1UEhsbFlWU0M5aWFNMW9fVEJIT19nWDFIVUVaVVhMbmNuWU8ybHE1dS1CRXE2aURCZTBYb2pOdUN5T2M?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Wed, 20 May 2026 16:52:27 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Inside the informant networks undermining Nigeria’s anti-banditry campaign, By Samuel Aruwan",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXpmeGV1ZDNEQ1NCTlB2OTgwQmZwQnJ0akNIb1E5N3ZOeS1DVWxkZ0dtRWtoWnotOTk4NjVvdEJJT2JzMkFVOEZScVBYX1ZGTnhBcVNYQzVyaVFHQlo2cU1xRWh4LWYtcE1YYllkTnptR0pYcXJaelNNeENWdnRSTW5iWkQxX1BXQTVDeTUwTUVMWTJJN3ZFU3VCQm1zTXV6aE1Pc3dPXzhnZ2pybFlFSUYwWjQwUWc4b2x2SzNMeXZJTnE2c0dIbDlZdkpvcS1UeUQ0MVVSNnI?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Wed, 20 May 2026 16:50:06 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Coalition hails elimination of IS commander, says Nigeria’s counter-terrorism efforts yielding results",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVlST2ZfcEw5ekpBd0Nvdm44a0E5dUlNeE93aW5LQXduMzhvWDJkRU9fUXpFXzF5Q21Sc0VxaUR3Z29OSnZESXJTbVJnUVl2YTBQZDBneHMtVVVDNEhjNnVwSlhSeTB3RUJUOEU3LXh4NlZ1RXNKcS1BX0kxNzJmX1dsTTVkLUZYb0pBT1hNTzJNWFd6OWIydi00OWFmeXJJN0lCQjMyQlZpUTF5OXZoMkZlMmo4WG9FZDZjVDVveG9WWHZnNXpLMnl3WdIB0AFBVV95cUxNOWl5MV9SRkcwemczS2JQV0hCRkNMN0gzLUkyRTVVS2g2ckhIUmhHSnh4amFONldfcDh0bEVqNlVvaFlVdWRtSEw0VENDQnNrc3diSGZFd0VIV2xCVXZMM0ZtTjVxSmR0YlU0LWhGTjF1WXdjeDZYVlNLbVc2OUx4WnR0WmpTVThSVUJLQ2VWWDlnaTFqVFFQOEtEVXd0RlkwS3NiVldJZl9uZHZJY1dWbF9yX3lLLTUwQXl1QV8tM1M5MmY5S25NUTB3RWFvNlR5?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Wed, 20 May 2026 16:37:44 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "NDLEA smashes Nigerian-Mexican meth cartel, arrests baron, three Mexicans, six others",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXFIaWt4Xy1QeTJDVGRKUkNSenE5U25nUDEtWENzb3kzMlBNbkI3MkhRRnlrWFhfX2NqemdjNGgwdGpxTTNETXpWUjV1NzlzOEI5aUxVRWotam5wQ1Z2N2s3SnBCUTc5SFBubHlhUnZZSHNOdXliRUFOMlg5bXU1eXBITGhMNGZMVklqR2wzTmFIM3pHZUJLdlVZTmxJUGxyM1ZZdU44dTNtYUpGellna2Myb9IBuAFBVV95cUxOb3RjOVJDVkV0OVFadmhRZ2JhdjQ2Smp6eWIxd2VyeHVlUFVrcUgxdFpTYS1zZFpYckVuUDltRUNwV2NwbHNFbllFc0N4OF81YTVLaktjSnBFdlVqTnN3bEVBSjZDeDc0U1puejhwZ21OUUUzbFJDdmR2UEg5TlItZmQzelF6WjdHcXgzMzV1c3dWNkpDY2RrY2xpSWZSWUlQV1ZTQVNjVFFaLTFPemttQVJOVXp4MmM0?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Wed, 20 May 2026 16:25:10 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian Navy Seeks Stronger Maritime Security Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTJUTzd1TF93SGpKYUxNNWFhZkNzV0ZOVnRYMmVkdlNqQU9ucDdvODBEM2hYcElsV2hfODVWaHpCYVRaSXlNS1ExeF9STUE5N2RWQzhETldKVThTWEVuampZMGdicjdJNnlhZ3YwS1NXLVlJZ2ROckNNOWJIOEJ0cW5vSV9XRHg1Zi1sRA?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 20 May 2026 16:15:35 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Buhari, Tinubu govt enabled Fulani terrorists to overtake Nigeria – Farotimi",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHBlb3NBaFZzMi1MbHJTQzdld1Axa3FGMzMwdmlYdlpyOEtGVWZhT05jRGxqSzRDZklHRkRSdjVjUFRqeGNINk9NODM1UzlKelpGSm9VbHhsVGlvTlRpNWQ5cDdBc1JpOHd3RVpiMzI2ZVUwNndTdENiRDZrbkt3bTNJWGtNYmJXODJCSlNIYklpS0sxTzRBYVNzTmhpSkFFb3d4VTVnRnJUQQ?oc=5",
@@ -29,20 +106,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria strikes on militants welcomed, calls for broader security approach",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3hRU0VkaVRtWmUwaTF4Tm1MOWxsb3ZhT0JxSmwwY1VlOTk0dGNOcWtUVVZ6RlNQNVZncUpFZHdzQXVQVUJIQUxnZmo1ckotaUk0UXZYb0VoM0FDOEtPb09SamhGcVNPU2QwYXBwMkllSmdXekQ3VE1yWGpVVXFIbXJKT3E1eGltS2JSQm5ZSHRSamRPM2RMdkRFRmNhR253TUVPVXhtMTE4LUg1SktGbW5XemhDd0hTbVNGNU9qTUJZeFU?oc=5",
-      "source": "Channel Africa",
-      "pubDate": "Wed, 20 May 2026 15:51:27 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Atiku appears before ADC screening panel, promises security reforms",
-      "link": "https://www.vanguardngr.com/2026/05/atiku-appears-before-adc-screening-panel-promises-security-reforms/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 20 May 2026 15:44:11 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Atiku storms ADC screening, unveils tough Security Agenda",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV01Ya3Ryc1RBMnRHejhocXZyT0RubWRVRVZmZ2xHX200TGxrMUhhTTQ5N1Q5UXpCZUQxaGdFOURtaG5KVFFOejMwLTJUN050cGNrY3kwZm1hRU9KY2xaYkEwdXZydGthZU5ZSjU0cThRV09mU0M4VnNkMHNQZnZCS3c2M3ZwNEV6Uy1FbURRc1Jmekl1QVlUNjRB?oc=5",
       "source": "P.M. News",
@@ -50,32 +113,11 @@
       "category": "Security News"
     },
     {
-      "title": "Oyo school abduction: Rescue efforts ongoing – Husband of kidnapped principal",
-      "link": "https://www.vanguardngr.com/2026/05/oyo-school-abduction-rescue-efforts-ongoing-husband-of-kidnapped-principal/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Wed, 20 May 2026 14:53:37 +0000",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Atiku attends ADC presidential screening with economic rescue plan, security agenda",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXlPYWFWbk80Z3pueXZkaVhYZGlIdWFpbkhBaWxpZW5faTdYSkloRG5UaWotR0NOTEFPX3RzajVUQkJqNGdXWXJpVE9ObkVuZW5PNVMtZmI0bXdCX3JYZWdabEJOQVlkMW9iX2tsWXc0MktzRnJJU241ZUI2LXYzVXgtQjR6akRWelJ6amRMT0VkWU02ZWdudzhSTlFKWF81NzBfRWVpZw?oc=5",
       "source": "Blueprint Newspapers",
       "pubDate": "Wed, 20 May 2026 14:45:39 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Terrorists have infiltrated no less than 40 South-West LGs – Gani Adams",
-      "link": "https://www.vanguardngr.com/2026/05/terrorists-have-infiltrated-no-less-than-40-south-west-lgs-gani-adams/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 20 May 2026 14:40:30 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen abduct two travelers along Idi Ayunre–Ijebu Ode road in Oyo",
-      "link": "https://www.vanguardngr.com/2026/05/gunmen-abduct-two-travelers-along-idi-ayunre-ijebu-ode-road-in-oyo/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Wed, 20 May 2026 14:40:05 +0000",
-      "category": "Traffic"
     },
     {
       "title": "Xi, Putin criticise U.S. on nuclear, security issues",
@@ -99,13 +141,6 @@
       "category": "Security News"
     },
     {
-      "title": "Four die, several rescued after vehicle plunges into dam in Kano",
-      "link": "https://www.vanguardngr.com/2026/05/four-die-several-rescued-after-vehicle-plunges-into-dam-in-kano/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 20 May 2026 13:30:45 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Crippling logistics, energy costs threaten Nigeria’s non-oil export growth",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGdfNlkwaUFtaUFPSmlRYWxTWjFuZm95WXNDX0ZCQ3RoMUMyN0JnV0p3V01mM1ZCN3B3WjZkWk9MUlYwbURIYng5MC1mcVFXQ1R5dHlCN2w5aTg1aVh1a250YjhQMHMtNG9GbmgyWGJOQk5vRnQ5VUZaM0Q2RmRpclAwbGpxUjkxQmNDRmNaZEp3Y3RxYldLMmtySFN1T0RLSlpCYkM4TXpNbU5mcHc?oc=5",
       "source": "Business News Nigeria",
@@ -120,25 +155,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "Inside the informant networks undermining Nigeria’s anti-banditry campaign, By Samuel Aruwan",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXpmeGV1ZDNEQ1NCTlB2OTgwQmZwQnJ0akNIb1E5N3ZOeS1DVWxkZ0dtRWtoWnotOTk4NjVvdEJJT2JzMkFVOEZScVBYX1ZGTnhBcVNYQzVyaVFHQlo2cU1xRWh4LWYtcE1YYllkTnptR0pYcXJaelNNeENWdnRSTW5iWkQxX1BXQTVDeTUwTUVMWTJJN3ZFU3VCQm1zTXV6aE1Pc3dPXzhnZ2pybFlFSUYwWjQwUWc4b2x2SzNMeXZJTnE2c0dIbDlZdkpvcS1UeUQ0MVVSNnI?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Wed, 20 May 2026 12:27:19 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "NDLEA busts Nigerian-Mexican meth cartel, arrests drug baron",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0FteG0telpuWFB3dWQzdWdiX18zMlBmSGVtNEY3OF9CcldacVE5OGZlc1hfdFZlb3hZSkVKbWxmbFBpM2VQSk00YjFFR0kxOVc5dThJLV9saFZYZ0NpQ3pZQWEtd0xUUGpoZVkyU3VKV09jaW1Oc3I3SEtXZDlmZHpmRW5PYzRtSFk2dVozakxsUGZqWEVTSWItZ1fSAaIBQVVfeXFMTTFzbFlCdHV6NklIaXZ1NFUzM1l2Z0oyOHNwWVhTd0kxM0hkdnVfTy0zQVAwSlNRcENGOEhMcml0VXFZVWk4QWZVS1VUaEdvYzdyM2lQcS14b0V2V1Z4Vm1HY0RrTGFXVkVXX0o5Z1I1TzNzVEo4U2xXam0zNXVXeWMyVVlFQ05JWklOeHdlT09FX1NFRkhMLThnbHhzbjhuemNB?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Wed, 20 May 2026 12:10:08 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NDLEA busts largest ever meth factory in Nigeria, arrests baron, 3 Mexicans, 6 others",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmd3WGV4UXFXMDF3cVExQkwxS3ZlNjNXbjZfQml1SmVzcGtUWkhJX1BhbTRveFllUzJwZ1lNNnVoZ2JBNDNBMGRXVjR3VXNDeVNjbFlqVjlXd0NaUnZ5V0NObkVOYlZrNWNKRzJiSXhmNnlYUE1yNzJIWmFSdkpQWWstR3NWcjc2S3R6clRQaVlHUGFOVmdOOWMxRG9HMVdVYjZWd2U2eEFlLVF6SHVXcVhXUTRGQ1oyZGpjZA?oc=5",
-      "source": "P.M. News",
-      "pubDate": "Wed, 20 May 2026 12:00:02 GMT",
-      "category": "Law Enforcement"
+      "title": "Niger Chamber of Commerce Blames Insecurity for Slow Development",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2xnb09EdURpaU1wcW1SUEM4R1FPeHlScjJFVEVTTnRXczVkRFJWalZuLW9xcklEYVZkejF6S21oT3RRYzk3VEVuMG9VNVY0M0staEFIQTB3Si0takRRQnNIZXJOMkJhenpVLW42OHZ2M1g5YmQ1Wkg5cW5HcFdhbnFvMThxOExjYWgzNg?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 20 May 2026 12:28:31 GMT",
+      "category": "Security News"
     },
     {
       "title": "NDLEA arrests Nigeria-Mexico drug syndicate, seizes N480bn drugs in Ogun",
@@ -183,13 +204,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Nigeria Hosts Ugandan Defence College Delegation in Abuja",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUwtMy1yTl9ka2lweDdUTFA3VkljeU53RGdtMVZ1NUlJZTZ3MUFJOFNYcTR0UFBvblgyc3JFQTJWMWpydERLb1NXd2FsZFdDZzJKRk52Rnd2aDVXbXBUV0hGNTUxTUtvT0xibGhZYm9KVEpGSUtVZ1VDeUxRbHNDaUtBRQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Wed, 20 May 2026 08:48:38 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria arrests former minister in hiding after corruption conviction",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ha2FyemI2MHkydFNadGk3SkJOblVqSVlacms5eGZVbUM3ZmNaUGM1NjNnV2hQS3Zydm9oYTdXWHBUODVsTFN4cGpNTHVTMlRyWEoyQmJidzhPUQ?oc=5",
       "source": "BBC",
@@ -218,13 +232,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Bandit attacks threaten northern campuses, student group warns",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVB5elZlbUhCVWdvdWZEMEdab3BRUnhadWdmdjFjWllZa2pwVlR2ZW9LcXJvaElLYzNmM0tWT0NqZUJpNTlrM29oMnVXQjJuMnNweXVDQmZVUHVuc2pPdWRJbHVHWG4xUGFndXUxQjZtbUVlNGdRTmZybVpIa2cyVHB6SGhaQkZBMWc?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 20 May 2026 07:04:23 GMT",
-      "category": "Banditry"
-    },
-    {
       "title": "Arrest Ahmad Gumi immediately – Adeyanju tells Nigerian Govt",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWJPXzZtQS0xbXowOFZHUVh5OUdDVUI0WkVHUUhlaVVubGdsb2tHVW1qdWtlVjVlMFBQa1cxUlFTR1U4YThMMWNRU2k5QnhrSG5adjdxN1A4OExZOEIxc0lqZmwxT1RXbXRtN19ZV1ItdEpBZ2xjVDI1Z2puMU82UGZ3N1AzaDRWejRLZEFZX1BOTDUzUFE?oc=5",
       "source": "Daily Post Nigeria",
@@ -246,13 +253,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Nigerian sugar industry will address security challenges through job creation – NSDC boss",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXRzTm5GQkFzX3RlZ1F6R3RQaDVMbE0ta05VeWNUYlBJbUtVTktBZFB1cTh4blFzNnRQMy1seWlqaHVucnczQzBzdFZ3X3V3OURBM1k1N0llQ0JTWWwzeUhldnlwb1I0RUJKMnotdFhFaDA1TEFOR0JHVVY0dFZwX1FFM00zblpuZ0pBN3dOeFA2MVhLQkVZblhOWVl1cHFJcHpHb3JHR0VIb1dwZUE?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Wed, 20 May 2026 04:43:08 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Making rural governance Nigeria’s security arrowhead",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0ZGT1NJNkJXNU1meEZsYUY3aC0wWm8zOGZMenIxMFdGYVlyaEd4NjdhVjdfa05iOWd5M29qNjZQTDZFUDZ4YThOVnVuMXV3aVN4dXhwc2hFZTBkb3dQNVp1UG1JODl5dHk4WkI0SHVMQ3psSGxVTklOSVNTY0dJbkJFOE4yanhTbVBxNG5sSdIBjwFBVV95cUxNT0ZGT1NJNkJXNU1meEZsYUY3aC0wWm8zOGZMenIxMFdGYVlyaEd4NjdhVjdfa05iOWd5M29qNjZQTDZFUDZ4YThOVnVuMXV3aVN4dXhwc2hFZTBkb3dQNVp1UG1JODl5dHk4WkI0SHVMQ3psSGxVTklOSVNTY0dJbkJFOE4yanhTbVBxNG5sSQ?oc=5",
       "source": "The Nation Newspaper",
@@ -260,11 +260,18 @@
       "category": "Security News"
     },
     {
-      "title": "Killing al-Manuki: Is US cooperation changing Nigeria’s intelligence capacity?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeEJqRG1ILWRxTC1qRF9NbGhnWi0tRG5tVHg4RmhPT2tpZ2ZuVmZoc05wdklNYnNsR3U1d2h1R3ZhdGZONGJhcVpFbnhsSDJBdTFzOXpyS09paVlFVzZVMXJtc1ZIRW5RenRuQzhzX3RZaTF1UzU4cW9SdXZyX1hkME9OZWFWNFUxVXY2bGJfQnJKUXZ3NjFZSzBfekVQY2FOa2c?oc=5",
-      "source": "TheCable",
-      "pubDate": "Wed, 20 May 2026 03:56:00 GMT",
-      "category": "Military/Security Operations"
+      "title": "Obi unfazed by Jonathan threat, says focus is on rebuilding Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0c1YmhOVFp6VzVYaE9aQzktTXl5QTkwMEhHVWt2QXppTmNfaEQweWpwck9nZlVOVzJrckcyMkt0X0toNjNZanBZWWxhQ0JZYTR0UFV3MlhWYTVlSW83VW9QeW5MNThWWXNYNWUwVW1GLUFBUThKbFIxXzhSVXlMeWFJbHotdGNwNWlsMkZPTDQ?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 20 May 2026 03:33:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "ADFD reports progress on Nigeria road projects, others",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tM21POUxkby1XRjFVTExSLU10RzdTMXpSSU1kVHlidjd5MVNQNDVUZ3g2eVY3a3ljU2ZZWGF4OGt2ZHJZSm9Rc1lnXy1rUjNTVWg2QlpEUnIwSVJDaFZpcTZHQUlOd05aRmphMG44dkVTR0owM1VZcERiaEs4M1E?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 20 May 2026 03:30:47 GMT",
+      "category": "Traffic"
     },
     {
       "title": "Shettima to Unveil Ex-MNJTF Commander’s Book on Counterterrorism War",
@@ -272,13 +279,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Wed, 20 May 2026 03:21:53 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Nigeria-US forces kill 175 ISIS terrorists in N’East operations – DHQ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWlFaU5KVjFNeGZvc2xIdUpmT1dJOHZ4NmZXQ005cGVsVWE1eUExWWw4bkVmanJKMVVTU3hyVzc5X25YRW9EbGtEd2ZBNlN3Q3BjaGFhTEpzcFJIVVk2LTZhdE1qY3RHZFBFU29Yc2FNbklfVVhteGcxaHJDRGNtMnRzX2dLZHRnYTlHekEtUzI?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 20 May 2026 02:33:28 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Experts seek legal backing for state police",
@@ -323,13 +323,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "ISIS fighters killed in Nigeria-US counterterrorism operations, says DHQ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0NiLUZScVMtbnltYUhlQjFhbWdTMU9wTXl6NG82dXZ3d1ppVERZaDNHeFBHMWZmUEd3SHhQZU1XSzJ2SmJqZkZfbl9aRVRaMnk4SDhYSXJJbmU2bVpMVFU3Sk16UVFLYnljNnVmZnRIR0gxV2RLQkJETEdEcjdUZVhodFJDOVRmQlBjRUQ1cUJPTDdndl92VVJhb0lfd29jRVE?oc=5",
-      "source": "TheCable",
-      "pubDate": "Tue, 19 May 2026 21:12:00 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Reframe Security Policy Around Public Safety, SING Boss, Idris-Etanami, Tells Tinubu’s Homeland Security Adviser",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZU5sa2Q1MXo4WUxaZ1RtTk5ST1NoNzZHMjhZVlE5aDdkS3Q2REhUV0w4Ynk2cC1iczVXNUtHUHdBVDh6eDB3YXk5b2xEYzZyb1NuOUktR283SFRUVVUwdFlJM0dFWGh3SzJTd2V1TEc3V0taSXVOZkJuNnlUQjhqN05nc2NZMlhTNC1ybW84M2FPQzAxcWh6aFZSTUY5WHZLbFhTeVJmQTlYcktaRU41cU9EaUJFMzViZkRIUFdWUEktRDA1ZlZvUHVCMlY?oc=5",
       "source": "Independent Newspaper Nigeria",
@@ -344,13 +337,6 @@
       "category": "Insurgency"
     },
     {
-      "title": "Famadewa and the insecurity quagmire, by Kazeem Akintunde |",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGRRRkxialpLaEJ6aFRad3ltTTJxc2p4TTdKLVgyTEVvbzJvQjNqTDZjVGFMZjdXOUV1M2tfWFVxMjFYcG84dXk1aVE0M19EUG5zdGNsNnY3M0lHek94RExwZTdCTnJrMmRLandiVXhjdnBnZ0JCek1oWDVHeGdTSVI5RVdlTW1FWUZqYzlrTEU?oc=5",
-      "source": "theeagleonline.com.ng",
-      "pubDate": "Tue, 19 May 2026 19:01:40 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Responsible Journalism Necessary For National Security -CDS",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzVlZzlia2pyUW1fanJSVUYtam5xM2QwZHVGdDBkaUQta1hRUjdqM1VENVpGSnVoeHBUWEktbWF1YndKcGtITEFudWRtUTJma3pnRXdkWjVnWmFLOTNxbFpxLVByWlF3RU9sNnFRMzF2RDNMT1YySnN2ZFlnb3k4dWRYREU?oc=5",
       "source": "News Agency of Nigeria",
@@ -363,6 +349,20 @@
       "source": "Truth Nigeria",
       "pubDate": "Tue, 19 May 2026 18:58:54 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "As Nigeria’s Top Security Expert Meets Vance in Washington, Terror Abounds",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkxmaHFoZHZKaUplcGV4bE1Mc1ZIODI0UDJ2cG50M2pPUmFTdnFWQy1lbFlIZFpPVUxjdHBBbGYtcWIzcEJiVGpJQ3lTZThIV2FRU1VucWc5TzA1ZTEzMTNxdWh0bU0wUWQtSGZWY3NaMVJoWGY2dENOSnEwVF95LWhTOERrQWJrWjlmMk9zTXVzZk9xYW5rSXZWU1U2TDhac0p6MnRBRlhMZw?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Tue, 19 May 2026 18:55:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Police refutes claims of fresh attack as students flee Ogbomoso schools",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTBjQ0ZkaWljR0ZfVzhkcWhNU0JROEZxWnFHYmM2THNPMmVVbE44RGNXTGlTc0pJcm12X1NmVFppWmt4Zy1hR0NOR1lDTkZLZEZiMF9hbXBuT2d0LWVROTFBS0FfeDdQd0NqTEw0eG1hOGpadjN0SkQ3UkduYUlkUVduS056OUR2VXdiWW9LOWRPNkxtNGZqbUxTa2I?oc=5",
+      "source": "TheCable",
+      "pubDate": "Tue, 19 May 2026 18:38:00 GMT",
+      "category": "Armed Conflict"
     }
   ]
 }
