@@ -1,19 +1,68 @@
 {
-  "timestamp": "2026-05-25T00:57:22.045Z",
-  "generatedAt": "25/05/2026, 01:57:22",
-  "totalHeadlines": 151,
+  "timestamp": "2026-05-25T04:34:34.442Z",
+  "generatedAt": "25/05/2026, 05:34:34",
+  "totalHeadlines": 155,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
-    "Law Enforcement": 6,
-    "Kidnapping": 3,
-    "Insurgency": 8,
+    "Security News": 113,
+    "Law Enforcement": 9,
+    "Kidnapping": 4,
+    "Insurgency": 11,
+    "Military/Security Operations": 4,
     "Banditry": 6,
-    "Military/Security Operations": 5,
-    "Armed Conflict": 6,
+    "Armed Conflict": 7,
     "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Tinubu Pledges To Deepen Economic Reforms, Strengthen Security",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmFzcTV4UWs0U1c4bU1xRGVXajNBT20yckd2cDNXeHVVSllBVVNnSnlJU212TlJUcFV3MEVwYTNGa3FRc1dJbm9XOW1yaEdmSlFCaDlJNXY2dHRROFJfU01qV0VpZE5ncGFMaTRYcEphaElTVS00bjVqRHZLaUYtd04xSDAyeGROUFhHTXh3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 25 May 2026 04:14:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria records 2.2m kidnappings, N2.2tr ransom payments in one year, says report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2V0Vk9FeVNsek1sYXUtSU5mT1M4d2lXY3hBdlo3X0tFbTB4MWhOTTlPQm9wSDlOeTktcl9YLXRGTVNMaG5BTktrdW5fMUQ3a2plUURqdW1kTktmVjRmVGR5aG5ub3JIaEpNdHlWQVRlNmF1T0lkbGQ3N1VPa0o1eXdHSDJBNE1mR2pEVHhCWkl1YmhkUHI0MjlyVnExYjJjNGYtWTEtZ1o?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 25 May 2026 04:02:44 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Law is not mathematics: Reflections on conflicting judgments in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFvRmNLUk5fcC1YbDgtSXBLV3kzMkxFOE9mdzN3X3QweVBhRV9tcnFPcF9lSEpSa3VZcEpfakxIdGI0NDV6QlpkNWo0SnZUQzROdUplajlIdzFlOWxpbG9VQ3E0Wi11aWJIdDRTdmd6bTUwTUtrc0ZHb2ZYMndHTWFZcEtlSlZEUFpjZW5oWk5jaGlXZkFwUW9BZ3RKQmRU?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 25 May 2026 03:49:30 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Navy, Police dismiss reports of Bonny Channel blockade after vessel collision",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRW8xcnJlSnBEZXY1a09ncnp6WUNGSG5YdXgzb2R0SFFHbkJqdER3WEQ5bVF1Zy1SSEhBT01yaC1Fc3ZFcUNNMmJ1REhlODZUaXlTZVpIUWVhNUR3ckxsSDIxRkpwNXN2aGFKQWp4OWYxZHlralpJM3BPVUhoRDBaUVFlVnZ6WGRFazBNekgzNUdGV1libE9LS05zTVNXRHQtY2ZmekM5TFRvY2x3QXNFbUVpRjlKbFk?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 25 May 2026 03:28:29 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Police bust Lagos drug warehouse, recover 425 bags of Canadian Loud",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1FKWmtvTzlwU0NVS1ZRWUY2ekF5b1F6Q2lzQjVJTWdjSy1iRktnczFIeFBaWlhhRS1zYnl6aTExXzM0VzlNbnQ3azhIYy1RbmVLcW9YNnlSMW1XUkNIY2RqWEpmbUQwbnN2V1BUYi1IQm1POEdVY1dhcE9DVmdIdW9TRjB4Y1JqOFJmYThvM3JXVzdUalg1azhZVXNSRzhKUDJzbmNPa3dIdw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 25 May 2026 03:18:32 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "US 2026 counterterrorism strategy and its implications for Nigeria, Sahel",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHZZUFQxNmtFMERHWXJ1UndxMnhwd2IxRmJTUVhKMkw5RTVieU9ZaC03eEJIOUVJOXB3MDRlVkt5QTItb3htUFVfejd4eUFlTmVzaFR4aVpORjZtTUU2Mkc4WktiUkZfV25wRHF4QVB1WmVNdTNTNHMwWEtKQnZIaG9QU2hnNWgtMGJnaVN3VFl5S3NaeWVxWg?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Mon, 25 May 2026 02:42:26 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigerian forces rescue 92 people held hostage by terrorists",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1o1d0IyX2J3TWZ3ZTZMNk02Z2RRN294WEhNeklGajlLUm9LTDEwOS1TVFEyb0MzUnB5NnhNcDZJaEV0SDliejczdUt5aVhIUDN0T1JPMy1MU090MHFnaVhKWXpjaDFNZmYtZzR1R2JscWo3NHo0d1FJZUUxT2g2d3lzWVhkb0loWTIyWUR4Ym14eWpweGlrTkx0RmVubjFq?oc=5",
+      "source": "Anadolu Ajansı",
+      "pubDate": "Mon, 25 May 2026 01:23:38 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Dadiyata and Nigeria’s missing dead",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01V0tHYXd2ZXRmb2dUVExMSDgxRl9CZms4X0tRRWZqNVZUeEZIR1VfZnBuenhxZEdQMUdnRmhxVmdQV1Naa3lIOF9SOWFFbXBja1NRMGhfRGYzWFhxZS1vMHFTbGFDZEdvY2VhcUZ1dUtucDQ?oc=5",
@@ -39,14 +88,7 @@
       "title": "PFN slams politicians for prioritising elections over security",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlFxX0tYRlVuS2tCYW5SMllUYTVZNDFRRGVGeDE5Q0VFaGtiY2J1UkJlc0V6bWhEdlJEalJCanFMMVU1b0M2VTN4OG9wenZWQ1RiN0hMRTFwXzAwNnc2YzQwd3dzNW1fdGJIS2wzNEZLNlh0LU5GNXNxSWE3UFRVeWVKQmFGTlBTQm8xZV9CZThDZw?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 24 May 2026 20:36:30 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Pray for Tinubu to end insecurity, Cleric urges Nigerians",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGtnLU1PUHZjSWpvTmViWWxkN2hKVk8ySFB3VllVUGdsdW1aSHY0Y2dLcU1KU0dtWE1wQzFnQ2JjUGd4Qm5CNHFqeDhVVTQ0MVNIT2ZCWXM3RGdHd1pSMmQ5VTBZS1psWERnNHdHZDFldGotRnp3eFpmZTlqX1VlTEdzeU0tQ2dIUEtVYmY5TXYydURwRVdiM3lJYzB5Qjg?oc=5",
-      "source": "The Nigerian Observer",
-      "pubDate": "Sun, 24 May 2026 19:26:01 GMT",
+      "pubDate": "Sun, 24 May 2026 21:31:00 GMT",
       "category": "Security News"
     },
     {
@@ -78,13 +120,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "The Insecurity Triad: Azikiwe, Awolowo, and Chinweizu — Nigeria's elite class of framework builders",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGJlNFd2NVZZaHlfRlRod0sxcWJKR3ZpVjJvS0o5QTB1eWRLanJ5VjZxaEN4QUxVWVlQa2UxN19QSVA1bEhtQVVHNmhkdG1IblBKQkNJM0RmY0F2c2xlQU1fTmV4clJJV1JkbWFEOFRQRDNWTVNURGs2NUgyRjFGNHd2SHpONy0wSFYyWmhSaF95LVNXMU1hLXF3SV9YdWUtZDMtejM4Z3lqS1kxVFhuSXVhWTJmZmt2NG5HbklXbzE?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Sun, 24 May 2026 17:26:40 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "The insecurity triad: Azikiwe, Awolowo, & Chinweizu — Nigeria's elite class of framework builders, By Max Amuchie",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRURNMmUtMkpJRVRGek5LM09VSEJ3MXlEeWIxZ1RVS21jZ05VWXh3V1M5Y0xqSV90aGRLR3dvWFJTWXNCOVFBTWhMU1ZIRUFiQXUzV2ZTdkRzVVViWGd6VzlWQ0hiSTNGMEx4WUJlMm9hdmQxMWk3RDEwTk1oemdVNVRBX2NjcUFWRXJDUFpPZXBDc3VuNW9fUGF1c2NhdGRYa2VzNWJibk1MbEZYZl9USlNYeWpFaG5EVHR0QTZlbnVUaXhQbVItdGZ2QjVJOFpWbU9ZaGw5djI2eDNja1lMdlVqSWdWNHpENXow?oc=5",
       "source": "Premium Times Nigeria",
@@ -113,13 +148,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Shettima reaffirms Nigeria-Benin ties, calls for deeper regional cooperation",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5pd3lGV1V1dFNPMzh2N3FrT3pnVHN5d19uc3JwSFlRRllMS1ZGNVpienZtZUw5cEFJSXR2TVI1SW9jRHNF?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sun, 24 May 2026 15:36:22 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Over 200 Nigerian politicians, governors, senators, security chiefs, senior civil servants, and other politically connected individuals have stashed at least $7 billion in Dubai properties across at least 1,824 traced assets, making Nigeria the second-largest sourc",
       "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPNFAxV3VPazd5LURsQkQ2NGNoalNhOFdEa0w1SVpscXlEZFdRRzlFRVNfQjczUEE2aU9ucGFHbzh0dFI2YzJXaWZJcHJ1b1JlMkpkbU95RG80aGQ5MWlfZXQydkhoN3RZQjJ1RHdSODhFa3BZNHotTUtqM0lWRnNVYXlYaXNsUFFZUnp5UE5FaWJJai1DSkVDQUhyMnpDUTRWNWttcUxqZkdyLWdTMVNnQlRscjA3eHJ4UFR4Ylk4SjVEQ1lTeEx2ejg0cWk4bnU5a25aR0loVzViY0pDN0Y3UHNTZzllS2ZLV1RvaEd2a1dVYTJwZk1fR1RDQWExbmJIeHBjLXc1RS14VlhqTEd3M04wOXJfU1BTeVFGWllNWEJpLVFTVU1Gb25Mb1R0blhTX1hKcnhWdFotU1dyd3daRTdoMVFRc2UtdGc?oc=5",
       "source": "Opinion Nigeria",
@@ -132,13 +160,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Sun, 24 May 2026 12:45:00 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Mahmood Dahlat: Nigeria Prepared For Ebola Threat Despite DR Congo Outbreak",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMklHUnk5TF9ESnlLUWtZZ0xKQnVDSTZudXhzU2VyeVo0TE8wWDctb2NUY0stXzJMd3lPeGVhbFB6dDJMSmtmSkViQVBUNklpX2pJNDRzU1d6RG9FTmlTajRDX2tfajhlSURnckFTS25MeGpMd3JDUDRYb09JTWhJVS1LWm00Sm5lNWI3c0U4YV8zdkFJcGFpWjhNbXA?oc=5",
-      "source": "Arise News",
-      "pubDate": "Sun, 24 May 2026 12:33:16 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria records 2.2m kidnappings, ₦2.2tn ransom payments in one year— Report",
@@ -342,27 +363,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 23 May 2026 04:42:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Tears as slain teacher in Oriire school attack is buried",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVVJazl1dEZBRGdWTU1pNzBFVEZMd1ZDeGNXRUJpUVJ5THFoVFJwckVzcnExTDg5SlhXQWVvRjBLQlhRMl9OQllvMnhhUGZkQk1lQWd4OEtyVlc2V3NzTUVxbmltRnA5eVFLdVNtR01zN3R5Z3NISkg0d2REQ1BvU1JIeWlQU3U1dDFMc1J2d094RkJoSW5sY3dlUTA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 22 May 2026 20:30:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Navy @70: Naval Chief Seeks Support for Troops Fighting Terrorism, Banditry",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MSTJXTzVaWlg1bEFGNzJEYmh6UFRtdkx0eVA3SG5oWjU3Q1lXYS1EV2dMNTduMlEyQ0ZYUU9RWWNsTEJrWjBMLThzaXU3NDhFcUY4Zlo3R1YtYno2TTRPVDJqbEJ0a0tkVHQ1R1lISQ?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Fri, 22 May 2026 19:41:15 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "NAF, U.S Deepen Security Partnership Against Terrorism, Insurgency",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KQ3UwZjRPTVhzME94OW03eDJLV1B0bENsdGNsUkwzYVVSMUltQV9GdnhDZEdUWklZUDh0dmZXSmw3SlpLSkZTclF4RS1MSEJTcnZCeUVJNUN1eWNIY18zb09QUQ?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Fri, 22 May 2026 15:53:39 GMT",
-      "category": "Insurgency"
     }
   ]
 }
