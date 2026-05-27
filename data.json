@@ -1,32 +1,95 @@
 {
-  "timestamp": "2026-05-27T13:19:36.571Z",
-  "generatedAt": "27/05/2026, 14:19:36",
-  "totalHeadlines": 158,
+  "timestamp": "2026-05-27T16:20:18.119Z",
+  "generatedAt": "27/05/2026, 17:20:18",
+  "totalHeadlines": 162,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 108,
-    "Military/Security Operations": 10,
+    "Security News": 114,
     "Law Enforcement": 17,
+    "Military/Security Operations": 11,
     "Armed Conflict": 8,
-    "Kidnapping": 4,
-    "Insurgency": 6,
-    "Traffic": 2,
-    "Banditry": 3
+    "Kidnapping": 3,
+    "Insurgency": 4,
+    "Banditry": 4,
+    "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Jonathan Calls for Prayers for Peace, Security, National Unity",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWFnM2JFeGVEVlhrQnBwaHhtN1FUUUt5RFc4ZjhxcFFHLXAzMzhmREtTTG1uTVNKQWdIRE1HcTVBSnQ3UWxrZTBGa0lMd0pQU0xqLVJpLVI3S3I4Q1dUR3dXbl9HMVdsQXdHTTRtRFF2eV9sVFlLNnptOXh6bnhueGpxeVJRdkoySFMxMVFzR1lXXzl2ZmxBeXpyX0RpWXN3V09Cc3BVTjlJbkM1WTNyVXN1VQ?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Wed, 27 May 2026 16:13:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Côte d’Ivoire deepen cooperation on trade, security – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1puOEFSV29KcjRKNEh3WG1PY3QzMGM1MWRHc25LcXVfdHV0NlkzWnU0WUhEYVB0VzFiVHBvZS1ic0lVSGY4X0VTNDl1bWtvbllKSDZyYWszS3hEV1ZIY0FGWUNWRUxMTWJRME1tZVh1OU8zTlEwZy1KbVVYWHByRnhtWWNjM3c0bGs2TUNJUmlRcmZlNFpmTGRXZWxIdw?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Wed, 27 May 2026 16:06:40 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "HURIWA slams police over unresolved assassination attempt on Ugochinyere",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzZZNDQ3LTdGUS1sNUpLdlpOSHZPU3R2YWp4akpOTUhFOHFuNWFJeUM1Vy0xM3QyS19fVUMxYUpWZjFBd3pvUThIeXA2eEs3cDJBR0pWMHZ1Ulcyb2tQWEdZcUNJamdjdVNsblhHMHdIMzlGM1p1bGw2Ml9sNEFmLWpRVmU5Mmo2UWpENmxYVk04dlpGR09WYW1yMjdpVExvU3F6Sw?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Wed, 27 May 2026 15:38:08 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, Algeria, Deepen Bilateral Ties On Peace, Security",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0pFVFJyRFVVckhUQm5LbHBpTE5GSk5GMnpFMUpjMktNdm9OcE0yd0xoMjY3S2FhVlJfekdtVzJaaWQxenVaUDlpRjZZSlZBVGU1RWpVTzVzSlV5OFNybjZfTm9LZkx2a0xEcDQtMWRBeTFNeXhLN0ZYQlZZcENQcHlwdkRCQQ?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 27 May 2026 15:20:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Eid-el-Kabir: Matawalle urges unity, recommits to national security",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUE5eTVEVDVYaE1aRXFUMnZLa2tmZ0VXZ2tpSWpxb1FQanBaSE1RZUUyVGtOakpuV0w2V0hLejlxT21rbkFaaTRiNE81aFlDTDNQdVdfRW5ka0FDZVlzbW5TQVBETWUtM1J4X0xrSXF2MUtVMnZPRVF3ZVR5Q1ltTE1RbEFMcVF4VjZhOGJSaV81WVE?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Wed, 27 May 2026 15:06:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Governors seek unity, security and national cohesion at Eid – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0RuS2EwSk1VdkF5RjQ1U1BTdHJHOGwyaWwwR251SWZleFBqZlpsV3RmazFFNXJ3a2tPXzN1Ynh0ZHRtR0JqNF81aG1kWGRxOU10dDVJWTJCQ2dJakpQUldfclVqVVY3LS1BZWdRZXlZZm5DMGgyLXNEMU8xV1B2VE9rc0tzWG81bFMwd25Fdll3RDBmMjcwb3Z1ZGhYMDQ?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Wed, 27 May 2026 14:49:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Eid-el-Kabir: NSCDC deploys 670 officers in Abia to ensure peaceful celebration",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVRaTXgzWkh3ZGVPZkowaFZBcmtKZU5KcnBwSGVVWnBOci00R0RISy1UQmJYUnI3blVrWWhVaWRqbDlDbHhGb3lNTkhpYXJYLXhqYkJENGZ5cEk5MHF5YktVTmNRWDhYME81cEF3SUd6R2dWZXpjcWpxVFRPRHYwbGU0SjFOeDB0eXQtVnc4VkRaT2hxRlhhSFJHSXJVeXVEOEJReg?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Wed, 27 May 2026 14:03:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Defence Minister Seeks Sustained National Backing for Troops",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1pfYUFJZWV3R0gtX01Bc21wdjlxa3RxMVNISndOV2lwWUJxQ29oeG5lcU1GQWZ0Sm8ya3dfZUxsdHl3MTNtbzRhVVUyNmdCSEhYRnF0N3FzUm95cEk1MERDZ2JmVHJXTl9VanpoVkxqZTdyaVdVYV9uNzV5TG85NHVJUkRXNjQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 27 May 2026 13:19:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: Armed forces regaining dominance – Agada as military neutralizes 317 terrorists",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWJ4RGRxNkZtejhfVUNmWXZOZEVvcXljMUctSDVyYVlOMEVYbTdpRmF3cVBsTjVRUnQ3N1N2T2pNVEZoSGRsQmdmMndNZWZwcE5fOURIV1lHemEzN3c4WloxOURNbEc4WW1jWEExZnNpV0VnNVJOUlBuXy02WExiTF9NaFo3M3FnOWZETXNlV2lEZmRjcTJIbW5LUW5qS190cTlrLUx0Zll4Rk1oRTN6dGNleTVYNC1BLXlkamhR?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 27 May 2026 13:07:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Thousands of Fulani Militants Fuel Nigeria's Insecurity - Report",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BUkFwbDJxZXQwaUlMTGlDbFMteUItQ0ZXMXpfdWg1RkZ5bW54RHloMjJqYjM3SkRKeHVUSWQtZ2VyWjdDZTV3REJUSG9XdnkyMUNJazZERW90MjRDZjFqMUU4SzlqNWpidnFn?oc=5",
+      "source": "allAfrica.com",
+      "pubDate": "Wed, 27 May 2026 12:50:55 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Gov Zulum reaffirms commitment to security, resettlement in Borno",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDVrVFg4eTRVTUZIdkl2RUpiTEdUM2N4eVJCUlJqS0ZyUEZnTmJuMU5kZnpjRUxHM1pQZGRiaFB5cU9hNElOYlMtblN6ZEVueWdRY0lvaU5mLXprRFlpTXJmOXRIc1NFWnhmb1F6UVVmNGY3WTUxTVNtWjdqVVJpQmNHOFdHWGlGczNZdmZaYkxMOTM2Q2djZ2NHUHhXZw?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Wed, 27 May 2026 12:42:48 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Why many Nigerian marriages crash — Relationship experts, Seun and Ibitayo Ladokun",
-      "link": "https://www.vanguardngr.com/2026/05/why-many-nigerian-marriages-crash-relationship-experts-seun-and-ibitayo-ladokun/",
-      "source": "olufemiajasa",
-      "pubDate": "Wed, 27 May 2026 12:34:22 +0000",
-      "category": "Traffic"
     },
     {
       "title": "‎Nigeria’s oil wealth leaves Niger Delta communities trapped in pollution, poverty – Ndukwu",
@@ -43,25 +106,11 @@
       "category": "Security News"
     },
     {
-      "title": "Eid-el-Kabir: NLC blasts govt over hunger, insecurity, poverty",
-      "link": "https://www.vanguardngr.com/2026/05/eid-el-kabir-nlc-blasts-govt-over-hunger-insecurity-poverty/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 27 May 2026 11:45:53 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Will the US-Nigeria targeting of ISWAP’s deputy weaken terrorism?",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWNFWE03Z0IxZmZfY1Biejg4LXAwNGxUY3ZkWGI3X3V6T2d3d2Z1em1aMTZudzVzOHNCbVV1THI2eEpLVHVOM0FvbmQyWi0wSS00cWtXMUNDdTVpYnd5cG9sQ1plNk9jcG5ZcURtejkyZG9DU3EzQmdFd3pic205bkZOa2ZiaEtjX0czUU15N21yb1djdjVJdk5KeTM1c3hseTVoeWw4TlMwb1hEZ01ZYVV5d1BqdHlnbVBRMEJB?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Wed, 27 May 2026 11:45:20 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Women pay the price of surging banditry in northwest Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXJJRUJsUWRSZXlmQU1Gblk5VE54ZG9XdU16NF84ejRqbzNIVko2SnpyWWpFNlg0cXp5RUxVcnZ1SUlyS3BXbXNKR0hFVDdzc05WcGRLMmhuNEhRMjcyeDNlVnQ2WUVUYUR0a3E3Wmhab3RJV0xIU3hxZUlFRmtBY2dROER6c2M0ZHNiRGk1cDM0ZEtWT3JuZ1ViaVliU3VYX2FLZENQbC1HVFVKalE?oc=5",
-      "source": "The New Humanitarian",
-      "pubDate": "Wed, 27 May 2026 11:07:42 GMT",
-      "category": "Banditry"
     },
     {
       "title": "Eid al-Adha: Ports Police Command Tightens Security",
@@ -99,11 +148,18 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, Türkİye Sign MoU To Deepen Cooperation in Solid Minerals Development",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnRNSWhnczVKZzE1a3luejQ3ckVEemF1c09SV0twdnhfM3pLWlhfWWMxalR0c0VVTlhvOEs1NVl0Qkg4Z1kzZDhURTF0WEVlM2t1ZlN1dTFPSjFEVmo1T256Nmg5RmpQb1VyZTM5NWE4Zll0TmdFNHJNUVRZU1hTM09jX2tfQlgtS0I1N1pXMUh2TEZyLWxVYzFoNUd2YWJCRkRVNVRRTzhCSlFWbk0yeg?oc=5",
-      "source": "Energy Focus Report",
-      "pubDate": "Wed, 27 May 2026 09:54:36 GMT",
-      "category": "Military/Security Operations"
+      "title": "Military tightens crackdown, eliminates terror spy in North-East",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmV6SklqZUJaVkhvQ1l2RVZfei14ZmlpTFlvZmJ2dFJJdlAzR1NCWnN1UW1CSExJZUNnS2RRMEhpMTRrYlozQ2N5b1pnblBpbjNlUnY1T2ZBaHV5WlRrdFVkUWNqTHhCMHhvenhmY01mdGRmUXBWT1d5MlNRcFBXdDZWRGNQR1Itelp2Q3YwY0pyTVVTME0yM3dQRFVkQQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 27 May 2026 10:19:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Women pay the price of surging banditry in northwest Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXJJRUJsUWRSZXlmQU1Gblk5VE54ZG9XdU16NF84ejRqbzNIVko2SnpyWWpFNlg0cXp5RUxVcnZ1SUlyS3BXbXNKR0hFVDdzc05WcGRLMmhuNEhRMjcyeDNlVnQ2WUVUYUR0a3E3Wmhab3RJV0xIU3hxZUlFRmtBY2dROER6c2M0ZHNiRGk1cDM0ZEtWT3JuZ1ViaVliU3VYX2FLZENQbC1HVFVKalE?oc=5",
+      "source": "The New Humanitarian",
+      "pubDate": "Wed, 27 May 2026 09:43:29 GMT",
+      "category": "Banditry"
     },
     {
       "title": "NSCDC arrests 10 suspected vandals, robbers in Kano",
@@ -120,24 +176,17 @@
       "category": "Security News"
     },
     {
-      "title": "Military tightens crackdown, eliminates terror spy in North-East",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmV6SklqZUJaVkhvQ1l2RVZfei14ZmlpTFlvZmJ2dFJJdlAzR1NCWnN1UW1CSExJZUNnS2RRMEhpMTRrYlozQ2N5b1pnblBpbjNlUnY1T2ZBaHV5WlRrdFVkUWNqTHhCMHhvenhmY01mdGRmUXBWT1d5MlNRcFBXdDZWRGNQR1Itelp2Q3YwY0pyTVVTME0yM3dQRFVkQQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 27 May 2026 09:24:22 GMT",
-      "category": "Security News"
+      "title": "Peter Obi Blames Nigeria’s Hardship For Rising Migration Amid Xenophobic Attacks In South Africa",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BRanE2MGYwaXBKVkdja2h1d2NvLUZCeHRld09OOTBxdWV0ejVIUy1KTUJ0S1BoS1FoWFZUMTFlNDVvOThEYnhTdlFVRkRGQm9xN3FBWk9kZEh4ekh1NmV1TTJaNTdJdUpweVVacU10eFV3Vm9LWjI3REJQMVlUenQwNUlvWUNoUFZ2bmtrTDF0WmcyVkU4cDNKc2p5cGJ1eUFwNDdMbnNSREIyZXlNWGVyNlVEWTY2?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 27 May 2026 09:23:52 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "IGP Disu Felicitates Muslims, Orders Tightened Security for Eid-el-Kabir",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzVxdkJ1T0JtQWhrY2FfVzBQU2hZNjhHV3FLaU1XT0tCcjlHcDhUUnBvbnVWYkhvUjN1elNrbkFFNlExNzJoUHczbWx1M3NxVldHeHBEWkU1a2tzXzRaTmRMdTNmVnd1M0RyNUZINHpKLUg1VVBQWUlDWGtRU3N4QXlWNFdSZmlWU2d3VTJmRi0zWUxtUTRUQ0wxeTFwMkxNazJBQm52b1Y1bHFkdFBrZHJ2U0RDeC1GVmJwWWQxWnNhdw?oc=5",
       "source": "Nigeria Info FM",
-      "pubDate": "Wed, 27 May 2026 09:13:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": ",000 Fulani Militants Driving Nigeria’s Insecurity — US Report",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenZWN3V5bHFfb0M0UGdWQ3MxTGEzLURRLVNKSHlYYml4TGtna2hsMDgxWWJYYUh5RzVidURtelVjTXpUX1B2VzFjZWVxRUJvRml0MEdERTR1b1pPdUwxSTBvTl82U2EwTVVUWmJ0N0sxLTFjNnJ3WWVYTFgxQzJTblNGMjVxOFBsWEZV?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 27 May 2026 09:09:54 GMT",
+      "pubDate": "Wed, 27 May 2026 09:14:48 GMT",
       "category": "Security News"
     },
     {
@@ -155,11 +204,11 @@
       "category": "Security News"
     },
     {
-      "title": "Imo police parade man for allegedly raping 19 years old neighbor",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc094NDdybkhGSVNyeXpGY1F0RjVjbEY3NFBHZmhUY2hRMmNBb0JocThMMmZGY0pGd1RRckU3Wm1IY3l6dHVCdG0tLXlxcGg5TFZQSVllYjYxbHdWbVUycVNsSGFkekloZm1GSlpVRW5ZeXNQZlRKdFp1X29uQ1ZPZHZITVNPQ1NsdUZrbllaQjk0QVFybkhyR21pM1FRWU9BTG5PS2V2aw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 27 May 2026 08:23:00 GMT",
-      "category": "Law Enforcement"
+      "title": "Eid-el-Kabir: IGP Boosts Security Deployment Nationwide",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlFmSmsxZ3BrNWZ4WEN6Qmd1N1pDSUNnaVRUOFlsUElRY2pEZ0liYWpMaUptMjlTVlVjSll2RFZ5QTBkTDlwYnlCU3VOTUktcHdBS1VYNFpPNkEyMm1XUUtua3h3TFFUVnJ6c3pnX3BfNjlDOTZZRFM4bnR0a0kyUS1FellZVlJHNXN0ME9lWmlBWTNpOHVaWdIBngFBVV95cUxOZFczVjR0bnlBZW02a1NqZDk3ak5kWnd2VVlqVWdsVnRCQWsxbmZQb25lZG1kSjFBZUFYZmp0SmxnNHd0V1psck9zZDF5X0ZmM0FNUjFQVVdEeGtqX19WQmswUEdYNTBtNmJlaHBoOEJadnhHdHVaMm9VeHhsMjZVTHkyUF82SkFISHFHUVI0aFNVZ0paQlBFa3NYRXpsZw?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Wed, 27 May 2026 08:19:19 GMT",
+      "category": "Security News"
     },
     {
       "title": ",000 armed Fulani militants driving Nigeria’s insecurity — US Report",
@@ -183,20 +232,6 @@
       "category": "Security News"
     },
     {
-      "title": "ID Cabasa Criticises Rising Insecurity, Urges Nigerians To Speak Out",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPejBaZXQtSmdUWURYYXA2dHdjb0Z4MnJKcjM4WXQ3bFBWZVBib0tBd0RRZnBiY25lVEhKTDdnNXlmbUJqeHJxMEgwdlJOeGRDdkRQU3VqcnpDNDdZM3JNMllQclVLc3NGbGxSTlhOV0hpRFlNZm55NTNtQzZSZGlHSmpIV0tOSXRlWXJPR0xoVnBKeHBm?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 27 May 2026 07:23:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Moves Towards Evidence-Based Fight Against Substance Abuse as MTN Foundation, United Nations Office on Drugs and Crime and Office of the Vice President Sign Landmark Cooperation Agreement",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZUxFUk1EQ0NQV2xYVUQtVHhVR3dJU1N1MnNRM3lNZ0d0MlFyamVfTHY2R01tM0c2cUlLUzFmOXl2ZEtLaGxER2pleUZtSGJoQjFPM0tsTXBWSkpYRHZZVnNJT2lSdVZjbWprcG5JbGJmZFY0aUJHUDF0RC1EaGVXYjdZaVVKbGJLYnZZQXhZU0szZkFXbDJrMElVN0JzNTRlZktac2MzcW9CcGZ5cnNWaDduU0N6QmlWQWdKd1AyeXEzYVRyV0VOUU1BTUVOSzdfVlVFNENHMG1ZZTEzaV9XOFBTMmRJWENWSHBhVW1xWkM5RWUxdjhlUk5PVEp0UFg4TktPeWZMNmN5eTlPM293ZTFHVEU2ckFidzR5S1FFMy1FVTRFYkVORnRETndsclJLalY1dWc0SXpadzg?oc=5",
-      "source": "Encomium Magazine",
-      "pubDate": "Wed, 27 May 2026 07:11:13 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Eid-el-Kabir: Katsina police announce statewide security deployment",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGVBZnhGczdUMV83Snh0b0pMOTRDc3RUMi0wLWZpU05hZ0llLTBHb2U3bGMwTnFheGVsVVdsOUtuVHhGQ2pzN1l6SUZMM1YzZFR1S3M2eS1tanFOTGZLSURpdUtKUHJJWkdjby1TMXVENkpfRERQdnJWMlctM3BkZ2hmUWJpbGFrbWE4WHJQWURpODUwLUNzeDlyX0pGMS1l?oc=5",
       "source": "Daily Post Nigeria",
@@ -209,6 +244,13 @@
       "source": "Blueprint Newspapers",
       "pubDate": "Wed, 27 May 2026 05:05:24 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Residents raise alarm over ‘Shilla Boys’ as police intensify patrols in Adamawa",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0hIekdFWWZ1ZElkSWdqVmFTaG12Ulc2STI2NW1PdzZqMDNXb0pITmx4NGtTMFBxTEdkQmFIQXZUYzU2cWQtQ2xPT3l2X3lkck5URGJDM0xrd2h1LUVSQ1hlOEhvcjZxREZiVTJXU0pWbjA3SkR3VWItWkZzRGlsYUl4VG9qdFRCa2ZzUWFyS05TV1VWN3lobzZ2YUNYa2pkSUpET3RqR1NSYWVIQTQyaE5VTHpHRWJJ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 27 May 2026 04:09:00 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "AIG deploys police personnel, assets for Eid-el-Kabir security in Borno, Yobe",
@@ -295,13 +337,6 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC deploys 2,357 personnel across Nasarawa for Eid-el-Adha security",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3BxbU1LMWlaeE13QXlPZEtrUnpVcWlsY2xKOEV2LXlDZ3R3T05KRlQtaTJWeVFkeU1mNUw1VGVRb05TMnhwa3hzekotbDFyRkstRkNBRUxwWEplS3Fza0xfakFRTi1odGhna29aeDJLZC1BNmNjbjkyeFlWeVJCdThiUGdHeVJzY0NuNE9tWEYybW5WRmJMcA?oc=5",
-      "source": "TheGuildNG",
-      "pubDate": "Tue, 26 May 2026 18:31:29 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Police tighten security ahead of Eid-el-Kabir in Kaduna – FRCN HQ",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmlpUmJiREZwZ08wSmNvWndkVGxNbTJ0OXJMckVXdUllakYxM0YtNVJmT25qS0hkTUo1WDlHc3NzTHNaQmdsSmZYWk1peEEtTnFvdjVFdUJVakxnMXpwQ29FQ1Z4a2hGTWEwZ1p4MHZKRlBSRi1JQlNwRzE2LTJtc3FtcXE4SEx3OTBjdFdXMjdQei1hRHNTME1Ccw?oc=5",
       "source": "FRCN HQ",
@@ -328,41 +363,6 @@
       "source": "Vanguard News",
       "pubDate": "Tue, 26 May 2026 15:48:51 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Eid-el-Kabir: Police in Osun tighten security, assure peaceful celebrations",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2o3d29YMlJZdkNELUJvR0xVYlJUcFpiLWo1M3BETlpWUWxna08tU05xZ0VuaWJKaURIa3AteU9ydFcyVXFneEFHQ004dFdPZnBWYWQwXzgtRXFTTmdxUExGWTlNLVljVlVLZ08xZHRRLVFaa2Z2MlZyTUNPbWRIX19FcjUzT1MwQVY5T2ZmRnRNZlRmV3BvU3BMWEx1UQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Tue, 26 May 2026 15:34:17 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Filmmaker Ndukwu’s US Border Tour Offers Lessons For Nigeria’s Security Crisis",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzFyYklYS25peG1aQk1jZnUxR3hvaVhoSGJ2LU50ZDhMNVlpVE9YR3M1UUNRa0JPSE1HYTVVUHQxMExpVTItNjhKNFBCbXlZU21wZHgxLU5UeV9adUxMdzVaaHVPeEFLZDM3c0hETElrNVVxaFhyQ2REUVJvUWpqeUU3dVFMdmF0bm9fMndMMmNnQk5CTVR4cjMzQnpjTm9N?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 26 May 2026 14:38:17 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Addressing Security Challenges Require Holistic Approach — Minister",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE41ckFFLXJhelV5YkxNT1BfR2lpVk1kVENGSjhFX1NvenN3ZFlSZWRHaFhGRzNwdnpfaGYxTkZvWm5nMDFS?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Tue, 26 May 2026 14:24:41 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Eid-el-Kabir: Tinubu Assures Nigerians Of Improved Security, Calls For National Unity",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeW84amRBX2dKQ2xFNDltNDJnZmJaUnE1QUVuaTRKS2kwV2tRUjRhekdJSjEtOW1pdzU1VHZ4U0lDby1tTWpLalY4X1RHdFdiVFl2T2RCRzR4ZDF4Y210UDljNXc0alV0OTlOQjBUSGtYTlJuY1YxMmlxZC1FaEtvOGltWUpvaEFLejFOYlZrNWpRbnBEMjRSVjJDQVFiQ0pidDR6aEVhbGxTWGwycks3VE5YR1FpTWs2WVE1WGtJONIBxAFBVV95cUxQM2hiYlBDb3ZKZzNZYWlzYW90MEtzM21tX2F2a2hMZ1JSeF9fWDcxTHhSTTRwR0lSNFdlTjNqVG0tU2IxV3hVTm0tOU9FWERSbktiRkI5MHlnMmNHU0tWTUNid1Y4M1ltYXZ1X092TlR5RUN6a0RJMktuYW1qd3JYUnBKZWtXRHpOSzE2Zkg5bTdIYVJZLTNHSVRrUElMMXhURFoxR0MwekQzREtPbFpoZUxmSW5Gb3FzZFVNTWQtdkR0V0p2?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Tue, 26 May 2026 13:15:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FCT Police Deploy ‘Operation Sweep’ Ahead of Eid-el-Kabir Celebrations",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbktnaGxvUld6WTd0NDRZSFFQS2xoeDV5Mkt3aG0wZzVtWWJTTVlRRDd1U2VBMDdzUjZMWWVJcmxkYmowU1Vocnl4R3d6YkdhSXd3NkROcXJLVjlSZWxKMU1rd0ZXWnYwcTRpY2VhM2txRnlFRkxERjlSR1RzRVB1Y25CVFFONjdDX25lTXhZeUZnM3JRejBV?oc=5",
-      "source": "TVC News",
-      "pubDate": "Tue, 26 May 2026 12:47:00 GMT",
-      "category": "Military/Security Operations"
     }
   ]
 }
