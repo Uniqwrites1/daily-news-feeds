@@ -1,19 +1,61 @@
 {
-  "timestamp": "2026-05-28T00:51:31.892Z",
-  "generatedAt": "28/05/2026, 01:51:31",
-  "totalHeadlines": 157,
+  "timestamp": "2026-05-28T04:30:51.133Z",
+  "generatedAt": "28/05/2026, 05:30:51",
+  "totalHeadlines": 159,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 105,
-    "Law Enforcement": 17,
+    "Security News": 107,
     "Military/Security Operations": 11,
-    "Armed Conflict": 8,
-    "Banditry": 4,
+    "Law Enforcement": 16,
+    "Armed Conflict": 9,
+    "Insurgency": 7,
+    "Banditry": 5,
     "Kidnapping": 3,
-    "Insurgency": 8,
     "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Children’s Day: CAN decries attacks on schools",
+      "link": "https://www.vanguardngr.com/2026/05/childrens-day-can-decries-attacks-on-schools/",
+      "source": "olufemiajasa",
+      "pubDate": "Thu, 28 May 2026 04:28:59 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Insecurity: US panel accuses Police, Army of collusion in militias’ attacks",
+      "link": "https://www.vanguardngr.com/2026/05/insecurity-us-panel-accuses-police-army-of-collusion-in-militias-attacks/",
+      "source": "olufemiajasa",
+      "pubDate": "Thu, 28 May 2026 04:12:15 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigerian Navy investigates death of female warrant officer, denies allegations",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3NWaHVpVTY4Nm9qSVFvWlpBU2pkYkR0WjEyeEtUeDMzZm5ncExmZllTd2t2VDdPbmFiVXhISjJ4OFZOY2MzQTFlV1I4Qi1ZaUlQOVphdzAwb0kwdVlQbF9NeHVFU2c2SzdteHJrM3FXZ3F2T1VmRVdVTGExWFp4WnljT0xTQ2tDdkkxaG1vNnMtalF1Z0VsT3JfZWpHdXRmVUU5R19kdEFkTnFFTjdMeDJ5dGZJeFlQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 28 May 2026 04:07:43 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria records 12,954 violent deaths in 2025 as insecurity worsens",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUy0yN0RSOGw5dU93OHA4c0Q0V0IydzlWZWVxbDZDSGNOQldjQURpbGFvX0JkNkxPOG5JMmFXLW03SlRnUHVnMkpJdWd4aUpsNk02NnNxT1NrRHc4VEN3MmFzWXQ4UkhPYmZvMUZhb3ZRd3hNRDR3M3p3d3VRSWIyNEdqdnA5RDVfTG4tQkczS2djaUtDVFVDRTJndVV1RkJ6TWU5Mm1ZQQ?oc=5",
+      "source": "P.M. News",
+      "pubDate": "Thu, 28 May 2026 03:55:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity, hardship: Church, PFN, CAN offer hope through Lagos mega crusade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXgxenQ0bGIzXzVjdFdkallJWUlieTBxUkstRnBQTGUzVUpHTXJmenFJbkxKQ25QV1BoMUN4TmFlZlRNdm56eFNYcTNyRExOQzZMem82T0pzQ3JtYlIzUkJrM0VZbEIyRGdXdkVrNjJKZ0xGaE1SUy1MancwRmZfNTV5dk1VVUs2SzNGckpIU2xmcXdiMWlDTjRyNWVqa0dTUGd6eEh6Zmg3aUMwWXBwMnBR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 28 May 2026 03:27:13 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Mass atrocities worsen as Nigeria records over 30,000 deaths in 6 years",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUZXd3J2ZjJlY09CYjlTNHpNU0NvRG96YTgweXBNYTN4WUh0Sk5uMTRYa1JhZDR0U3RsYllLd2J0bnJQSUxFN05Qal9maVBkU1FhUVJkTDQyY2s2WTIyZWFVdk5QN2YyTXpzWGxtcmhDWktzS2JCcDEwQVJkOG9TN1VvU1lJb1pybmlMR2U4OHRubXhtQzhxbmR0cmo2d3du?oc=5",
+      "source": "The ICIR",
+      "pubDate": "Thu, 28 May 2026 03:00:05 GMT",
+      "category": "Security News"
+    },
     {
       "title": "New Security Advisor Position Suggests a Check on Authority of Nuhu Ribadu",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFBhRnFDUi12ekZFNzlRVDBGY1U4cjVUSnRGSlozMkhIQ2ZZdEdzSVZ5bUVvY2ktWjBlRzJNeVZUSDZvaUJzNWNLWHR6dFVxRE00Ml9Tb0dsRDBQU1dZLTNDQTBmWG0yVHgxa09XVDhvNXRxcFhLdExudU1OSjhoWVptMF9BYldCOWszNXVLVDc0MlJBOFdXcTdDMkRfNnBEUnVpSlNTeXFzMFNS?oc=5",
@@ -29,6 +71,13 @@
       "category": "Security News"
     },
     {
+      "title": "Oyo School Raids Reveal Insurgent Network Exploiting Southwest Forest Corridors",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2VqaU5iZE1aMjFYTGVIeUFHcHhZOUI2elplX1BtREZVUzNhX2hGNk93cFJ1WElVUWhXWGd1a1lIOFpIblo3MTREM3J2cGZ1TE1fZC0zNVV5MGo3NXpDSmtLQWV2Rl83N1JQbHlZdmRDYUs0RlUyc3ZQNldwQ0wzWF9wUjRENE01VVEtVWVfaHEtSzZJb29fQTc4b2RNRHlXUE4yQkhhYmdwSWlaTWtjVDg0OA?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Wed, 27 May 2026 21:08:13 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Eid-el-Adha: MAN urges resilience, vigilance amid insecurity",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2VYMkpQYk1kc3VYT0JvWXRNVTBsNFh0Vm94VF9IZjRCMDFSQUYzNDFkbkRXaUIzWk9jdW0yYW1GN3VERmlvaUo2dXVoM0pXLVlxYmplLURHd2pDa29QOGRaSWZValpkSXV6MTJieTlmQ1A1UXNFNlFDQy1SMm0zcjNwbzlJR2FUQjdBZw?oc=5",
       "source": "The Guardian Nigeria News",
@@ -41,13 +90,6 @@
       "source": "Arise News",
       "pubDate": "Wed, 27 May 2026 20:33:36 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Edo Police arrest two suspected cultists",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXI5d1FxbmN4cUlWcTN4NU85NGItUkJ5U3ZCZDZ1M1FncXZ4alVwZW8zX2FVVm1aT0ZMSnBydWM0SUlYdGhIbjlLOWxjNG45Ukt4LVpwMHN6QTJ4ckltRzE0NWZyd2NtdDROUUVSckRqVGs1UG1CMmNxRnhnaXczWVl3T2ZMTmM?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 27 May 2026 20:02:37 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "FAAN partners judiciary to enhance security across airports",
@@ -76,13 +118,6 @@
       "source": "The Whistler Newspaper",
       "pubDate": "Wed, 27 May 2026 18:27:03 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "NAOWA Expands Welfare Drive for Military Families at Sallah",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHR4U19RSXZJc29KOFVXTjBSTUpnRkQ4MGI1eWVhU3o4R05sdS16ZmNjZHVXR3hoQmNuY2dZbnc4aU44MUU4Zk1LMXA5anA5aEpVaUE4TmVsRWtWMGhKdmhGMmFkTjNUSVJXczJ5TllmQmtCWUtWOTRlNEk3STA2bnU3UmZQdw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Wed, 27 May 2026 17:32:32 GMT",
-      "category": "Security News"
     },
     {
       "title": "Tinubu vows renewed hunt for kidnappers, promises rescue of children in captivity",
@@ -148,16 +183,9 @@
       "category": "Security News"
     },
     {
-      "title": "Young lawyers from 11 of Nigeria's top law firms back anonymous reporting platform with pro-bono legal defence",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbExFaWFEUlM5UGhHVWtJNTJFcTNPQVpmMm1kUVRBZ1BOTm9nUzR1QW9EWFlyT012aG1NdkZpR2JpdmpFUklRbHZxLWNWS0ZUYnhVNDdwbVFIR29JNFJ4UWd0VWl6NUd3a3pkcEJXSXlVUlVPOEVkSnlSdHVXbElOSW5OQUxick56LUlELXE1UjFuWUlIX0QzanhKeDQwU1ZCQnpvN05DREZEWFlLdWpFQUIwcE1pTHhtRWdXZFVhLWhzV1lpQWxZNjUwNm51QThwMjg5anVoSDBVMTQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 27 May 2026 12:54:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Police in Lagos deploy massive security for Eid-el-Kabir, Children’s Day celebrations",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnduNnd6eUxtYTdZRE14VU9hQkdESUxDMDU4R3BTeVpmWDF5UGNUZGdpazhYMkVhQVJCR0JiS2c3ajZ6aUNvX1BuSHFheDdHR2xMTVNlLUFmQlZLNTNOVFRiVGNGSVU3TzFBN0d4bWlLYzY2R1Y4VjJBc0h6cEFiMExYWGN5dVFrcWZzUlNCdUxfS2ZQRTVCbnhkb3JMX0lpaFpoSlE0THRTazV3X29MaEdoeHQxQmJkZ21lM0N3?oc=5",
-      "source": "PM News Nigeria",
+      "source": "P.M. News",
       "pubDate": "Wed, 27 May 2026 12:38:52 GMT",
       "category": "Law Enforcement"
     },
@@ -211,13 +239,6 @@
       "category": "Banditry"
     },
     {
-      "title": "NSCDC arrests 10 suspected vandals, robbers in Kano",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JM2l0enduNndYdHNGQmVMV3cyMjhwTUNibVBKOU5zOFlmOWU5ay13RmZHd2NKdXVvLUxRNERSSllES3BCU1Vyc21XN0plckZDUml6U3pZZXVHRzlqVHZzRkJfMDREMW03T1NJNmpPWjhPLVpydUw0d2FERHk?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 27 May 2026 09:42:46 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": ",000 Militants Fuelling Insecurity In Nigeria– US Report",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHNPM0cyZ2hKc2M1Nk5mR3RxeUMtczI3Nk1mUU50NFZ1T0l4RTBJSkR3NWV4VGtGamZPQmZmcy1BaEg1ZmlqRURSazRRWE1zVmtlNkhRcmdTQzZSbXJ2bjBZOXBXelQtZ3NBMFFnbTZveFRlQUxpRHBGMUYwTFByRUZZbm1uZHBBOWRXaXl0eXVFQXRZWjJBZzVfb9IBoAFBVV95cUxPOGloSWREcUpLeEV4UktxbjB6MWhtZExBMGktbkp3WmJLRTNhUXRFejZfbjhsQjFGSjVfeGxEU0VhR3V2dVVBcHdkVjNjMUZOdnUyZ3B3VEdyUmU5NGZ4QTdvZFJVcFNHNmg5eElJblc2ZThpYzdtVnVvbnhZNHBiZ0VYTzZWQzExcExjRmd0ZTdITjlnaEhubmJEVm9Jc29R?oc=5",
       "source": "Channels Television",
@@ -248,7 +269,7 @@
     {
       "title": "Eid-el-Kabir: I-G orders enhanced security nationwide",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVmpjRmEzeGhtcTAzdHk1WXc1MWU3T016UnV1TXBtNV96OUcyUDA3eUd6VkRzZG85cXVGRWlBdE1XNUxIVkpFM29LcUdwNlFtcXhKMEVSeExuNzlnb1NsdG9LQUpYbE53WUNLQjBxOXpjTUttM19qY1RWLVJ3a3NsdEtQalloU1NaZHBBMDJGR1FDbXB0?oc=5",
-      "source": "PM News Nigeria",
+      "source": "P.M. News",
       "pubDate": "Wed, 27 May 2026 07:59:12 GMT",
       "category": "Security News"
     },
@@ -293,13 +314,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Wed, 27 May 2026 04:05:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": ",000 Fulani militants fuelling Nigeria’s insecurity – US report",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWG1DU0tKR1JPVlNVd2VTSklIUFloNGZkNnRpUGhGVXJaREFPQ1VaYkxIS05sNExPZG4zUFFFLXlfUEFXVGVnaWxaRVdkWGpEOER2SmxNMlJSS2pPWEZrSV9Ma0xJVTAwbmdmS1pwN0VuVXBLS1ZQT0pQWklxZXU3cmZDTGw1aUhfbUE?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 27 May 2026 03:49:25 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria Cannot Defeat Radical Violence by Avoiding the Truth",
@@ -349,20 +363,6 @@
       "source": "FRCN HQ",
       "pubDate": "Tue, 26 May 2026 17:36:34 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Addressing security challenges require holistic approach: Defence Minister",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTlFpNWlKMVJfc2FNM09XMnczcVh0UFRXR0ttVzVkRVdSMFhwY1c3T0p5eFBaRktmWVJ3am85eXdNc2l1LU4wbnF3R0FodWxnYmNnNW9vTkNoZUU0QkF2WnJmZUtxZlBSVGdLU1Y4R1lwNzZsSTd4ZXhLSUtQa19aU3d2ZDB0OGNhTDFNbGFCVWtTaWZvanZNbDNXbHZqZw?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Tue, 26 May 2026 16:33:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Sallah: Lagos NSCDC deploys 2,150 personnel, assures residents of security",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnZGN3Q3YTlyOXI4UTJzOFMxRzd5cHF5cFl5ZWRnSFhrWlREb1dCUHZVTGtFYmVFb1NoMTQ5SXhvWHN4S0ZrRTFtMWFNOFZDVEdwTXU5ak93RWFVV1Y4aS1WbWJjdVdLd0JLS280LWlucjVJQUtEekRFczEwb0ljeVpzRDRvU1NZSFJmZlhEUTh6UFZQWWRmYjVZbkl6V1NRYmhqU0xVNVNVTlM40gGyAUFVX3lxTE9UTnBkNmNZRVhOMDdoT0pHaUdyR2F3eVBDU25pTXZJRWlUQWdsOF9iLTkxa0tkRmxuVXZHTF8tMHJhWW85c0lwUWpHbTFGRVZOdkc3amxWN29IMGliVjFCelpQUXE5NGlnRHJwTk1oeXVKNzgyOEtVS1VzeURZaFNpc1Z2MlBOZE9CZ2I3RkpLTk1mdE1LV3dGd3UxWjAycnRqSWtfUEh2aFJ3dnA2QWcxWWc?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Tue, 26 May 2026 15:48:51 GMT",
-      "category": "Security News"
     }
   ]
 }
