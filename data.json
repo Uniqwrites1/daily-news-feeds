@@ -1,19 +1,89 @@
 {
-  "timestamp": "2026-05-31T09:54:48.168Z",
-  "generatedAt": "31/05/2026, 10:54:48",
-  "totalHeadlines": 171,
+  "timestamp": "2026-05-31T12:35:38.898Z",
+  "generatedAt": "31/05/2026, 13:35:38",
+  "totalHeadlines": 174,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 120,
-    "Law Enforcement": 11,
+    "Law Enforcement": 10,
     "Military/Security Operations": 6,
-    "Banditry": 5,
-    "Insurgency": 5,
-    "Kidnapping": 5,
+    "Banditry": 6,
+    "Insurgency": 8,
     "Armed Conflict": 14,
-    "Traffic": 5
+    "Kidnapping": 6,
+    "Traffic": 4
   },
   "headlines": [
+    {
+      "title": "Nigeria's Rabe Abubakar: Retired general abducted with wife in north-west",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93LVotRkUwb1RWbFZwMFZkWUd2NVVRSTVpbkpGb1g3WXZicHdCdEZZQXhtOUFfNmIwdzNlckUwYWJQbl9yUlRBUmJheWhkbElMVnlnT1JHc21UUQ?oc=5",
+      "source": "BBC",
+      "pubDate": "Sun, 31 May 2026 12:11:32 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigeria Can’t Be Intimidated By Insurgents — First Lady Tinubu",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0NBbFkzeTc2Q1NHWVVuS2M5YjBZXy05RndmRHFyWFpzeGlCT3UyckZIMTdUb0FMb1FXYmRVQTZtNzd2N0VnLTJwVTV1U0tSWF9UdlVEclRkM1J6OVJibnRSWUU0YmR6Nml6MzJCdXQyNEctdm0tbjdFRk8wWU43QTFWSGtQMVVEQnc?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sun, 31 May 2026 12:05:06 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "APC faults naming of Umuahia Bus Terminal after 2023 returning officer",
+      "link": "https://www.vanguardngr.com/2026/05/apc-faults-naming-of-umuahia-bus-terminal-after-2023-returning-officer/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 31 May 2026 11:34:43 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Our people not involved in kidnapping, banditry in S-West – Council of Fulani Chiefs",
+      "link": "https://www.vanguardngr.com/2026/05/our-people-not-involved-in-kidnapping-banditry-in-s-west-council-of-fulani-chiefs/",
+      "source": "Urowayino Jeremiah",
+      "pubDate": "Sun, 31 May 2026 11:24:26 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigerians in Philippines, Cambodia threaten to sue FG over demand for monthly dues",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2VlclRibThZVndhTEFQaE5ENWJ2aUY0aHBVXzdpdHk5S1JBc0pWNWZIRFIyMGIzTV9wUjJuVl9MSC1scFZUVzRnODhEX0RERmFzekYyZ1ZleGxVWWNKZW9obmR4Rm5MZXZWNGM1dGlGZmJiNUpIZ1ZMb1lJZXZKcHFPYnRsQUI1R3RNMFNvWmVhRElmMnlkczg3eGZEVTMzZGpfX1h0bWtPVXp3bHY4OHprbzRFM1VDOEHSAb8BQVVfeXFMTXRFeC11X3ZBYUc3TEdyX2hudTBOcnIxbF9ub2tUYVpPYXE0U202QW9TUVFRRDVzcEFwckQ3T1Blbkg4b05MeHRFMnlaRXJZVVBIZ2UzSDJsdGVKZ283VnVQVUo0d2tKcEVvSmcxY3BaSmFfYXJUMEtwN2hiVGlETkRQbUpKcWpvRHQ2MWQ3RV9SRHo0N0VUblN3ZTdRTEZuc2hZZVRIeHZONjZReHlnU2J2UnFqV05NaUt1ZFphUFk?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sun, 31 May 2026 11:23:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "IGP urges responsible use of police-related videos, warns against harassment of officers",
+      "link": "https://www.vanguardngr.com/2026/05/igp-urges-responsible-use-of-police-related-videos-warns-against-harassment-of-officers/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 31 May 2026 10:44:04 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "SERAP Urges UN Chief To Report Nigeria To Security Council Over Killings, Abductions",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3VYam0xTUdXN25uZjFsMkhVVGFYRUIteE1uaDBoUjFqaG5yYktrVmZacXRGMGp4OHlIMzNBOUF6SGg0a0Q5R2JvTXljcHViTm15cmxCWjFzM25uZmNZSXBVbW1qNmpUd1RtOGFTeVIyN2stZ05FOTdLT3FyQnFjOVBKdTVKSjRXQ3Z2Rmh1enFwT3ZOSWx3NDdwNDJEV1pHX0pOVnVLaXNtRGg1dGJrQjJWZkx2SzA?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sun, 31 May 2026 10:43:49 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Police launch manhunt as bandits abduct 2, injure driver in Katsina",
+      "link": "https://www.vanguardngr.com/2026/05/police-launch-manhunt-as-bandits-abduct-2-injure-driver-in-katsina/",
+      "source": "Urowayino Jeremiah",
+      "pubDate": "Sun, 31 May 2026 10:36:15 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigeria too great to be intimidated by insurgents — First Lady, Oluremi Tinubu",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2g5ODM2TWxfZ2tQbC0zalY2Tmc3aTIxcG1SMHFkYk1qenBtcTllT2x1M2pXMmk4U2daRkJyaFdkTkJwTmdEclRINlM5TGdZX3pwV1dJOEV2SEFJaUJud1l2cnJoRW5tVlRpSlExTTFuUkxycm9Wb0tGbkJjZjRZU2hRRXlpTWdXU05YSDJoVnhSdXVwVmpUMWJMcmh5WU9kbzR0WUYyd2JxUlNt?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sun, 31 May 2026 10:30:48 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "SERAP urges UN to act on Nigeria’s insecurity crisis",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVRrcjBjZWQ1TElzSDBHWFlkbXdYU3oxMGd5R2lnMWJhR29aUXFpNFR5SG9LM2J6VlJzd2hjQXBNWEp3d21YOEdqQ3E1VzJqenRZWExqNVphNFdLeWdoZ0tBTmhLaUJMQUdsdy11SVpPOXh2Sk1wNDZubW1RY1dIaktn?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 31 May 2026 10:25:44 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Abductions, Killings: Group urges UN chief to refer Nigeria to Security Council |",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWpLSUs0dmFOMUJ2cEM1cDhic1pIZTRwSnRoeW1vX1l6WEoxanBtQkhuZ1ZLeWtGV2FleU1uLVRSNkZzVTNrTVlNLTBSQ3pRVHhFR1ZOazR5M0V2MXRTNDVJMk5teFl5c2hzb0tKVFJSaFJKOC1HWFA3Ty1PZTJkY25iQlRqS0M4MXdtVHVvZEozT09FT3hWemJtMjVJYmVEU0s2TGNyeG5GNkxH?oc=5",
@@ -37,9 +107,9 @@
     },
     {
       "title": "‘Refer Nigeria to Security Council over abductions, killings,’ SERAP urges UN chief",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1MzM0gtdnRseE9KNnNtQjRmdUtIeUJSd2JQZVoxM0h2LUNkSGU1V2RWV2RmTUY2aUJKMFNaSDZQSl9tRGlwRHExTllwSG85NGJrRGdvN3lRQTVPNG1ibmphejlGR1lxWW9rSC1RS3lUYS1SN0dhOFRGX19LUWs3Q0g1OTVfLVk1X25qUzhMNDJJcnZWVjVJRFg3SWZwcHppaEVkYzRnQldpeGYxT29qOFBNU29vbmdCd3pkTdIBvAFBVV95cUxPZ1MzM0gtdnRseE9KNnNtQjRmdUtIeUJSd2JQZVoxM0h2LUNkSGU1V2RWV2RmTUY2aUJKMFNaSDZQSl9tRGlwRHExTllwSG85NGJrRGdvN3lRQTVPNG1ibmphejlGR1lxWW9rSC1RS3lUYS1SN0dhOFRGX19LUWs3Q0g1OTVfLVk1X25qUzhMNDJJcnZWVjVJRFg3SWZwcHppaEVkYzRnQldpeGYxT29qOFBNU29vbmdCd3pkTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTVDZXNfdFlIYTl2SVJVY0s1TnltVUxONkNUQVZZdVBrb1ZXTFZhQ0pHWldoNm5pd1ZMTlVUTUt0NXNHa24zLVpKbXVSNHBwX1hzS0Rmb0FTYm9Yakp3NTBSUndueVJSLU5veVloa19nSGJxUkZnRHpocWd4bnZxb08yRFBYOW1qNWt4ZmJaNEk3TjJFWEJwTWxDVm5SUmxySnZaSG5RRzQ3akpyUnVtS3dOM2lpTE3SAbwBQVVfeXFMT2dTMzNILXZ0bHhPSjZzbUI0ZnVLSHlCUndiUGVaMTNIdi1DZEhlNVdkVldkZk1GNmlCSjBTWkg2UEpfbURpcERxMU5ZcEhvOTRia0Rnbzd5UUE1TzRtYm5qYXo5RkdZcVlva0gtUUt5VGEtUjdHYThURl9fS1FrN0NINTk1Xy1ZNV9ualM4TDQySXJ2VlY1SURYN0lmcHB6aWhFZGM0Z0JXaXhmMU9vajhQTVNvb25nQnd6ZE0?oc=5",
       "source": "Vanguard News",
-      "pubDate": "Sun, 31 May 2026 09:00:16 GMT",
+      "pubDate": "Sun, 31 May 2026 08:53:12 GMT",
       "category": "Security News"
     },
     {
@@ -54,13 +124,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3QtLVRraXhOOGZRcUd3OGlWSmRHY1VlcGFHelN5UlY5UWlkV0ZqUFpZRlFxdDlrbU1vVGo5azJyaHYyMDdpR241SFVwWDh1VXJtSjlMazVnMlpBeHZJRWI3dTl6ZlBlNHJWeGxha2RyejNTUFp4UE9TMTBaMVc2ellZX2RFazQ2WTZvRFU5a1JueS1XZXk0ZF8wcHNqS1FwTkY0TXNUeUpFc2RIcUR1M2JubXZ1akF2bGgyM2NvR1lYelV2T0HSAcsBQVVfeXFMTm0wa1RHOFBSS3pBZjMzOUVqRkViZ0xSbktuWlUwVllxU0lXejNJQ2NUQ0hfOWRvR2NnTTdqVWp6SmNKc0JybUZFVGNiLWpyd2t3c2cxYmVRazdlNHFBNHBBNFZfOGFCX0pkSnR0QXoycUR4TlZpdTlEN0ZiQm54WHFNNlo1Mk5oLTA2UUxDdlo4NnZvMmxPOEhfbU9uelJZRzJ6bnh6UzROTEVTYmIwcVFOb0tQNWVxdFBycnBEVnZYdXhSY21MRGdpRnc?oc=5",
       "source": "Vanguard News",
       "pubDate": "Sun, 31 May 2026 07:17:57 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "arrested in France after PSG’s Champions League victory celebrations turn violent",
-      "link": "https://www.vanguardngr.com/2026/05/416-arrested-in-france-after-psgs-champions-league-victory-celebrations-turn-violent/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 31 May 2026 06:52:48 +0000",
       "category": "Law Enforcement"
     },
     {
@@ -85,20 +148,6 @@
       "category": "Traffic"
     },
     {
-      "title": "Sokoto Govt highlights gains in security, education, infrastructure, promises more projects",
-      "link": "https://www.vanguardngr.com/2026/05/sokoto-govt-highlights-gains-in-security-education-infrastructure-promises-more-projects/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 31 May 2026 06:04:07 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "FUTO student dies in Man O’ War custody, police arrest three suspects",
-      "link": "https://www.vanguardngr.com/2026/05/futo-student-dies-in-man-o-war-custody-police-arrest-three-suspects/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 31 May 2026 06:00:21 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Police blockade of PDP convention attack on Nigeria democracy – Agbedi",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3BhMXVzX0I4STRERGVlVjBKUGZnRmdJWjZBY2c4LURDdkFUTjdfeEtFWmppSFhTWXBkbWM5Q3FoRGNXQVpNTFkyMnk5ZTNHSEVZMHc0c19XRVJESGpmSlhjdVE1azJ5UVU5RVo1aE04WXN6ZTZvS3FHeG4yd0NHd2VUdEh2aTFhNEYzSHpCbW1pNzd0cV9NRUw3OGFYMzNpY2xr?oc=5",
       "source": "Daily Post Nigeria",
@@ -106,25 +155,18 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Gunmen kill eight, burn houses in Imo community",
-      "link": "https://www.vanguardngr.com/2026/05/gunmen-kill-eight-burn-houses-in-imo-community/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 31 May 2026 05:57:50 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "WHO warns against travel bans as DR Congo battles deadly Ebola outbreak without vaccine",
-      "link": "https://www.vanguardngr.com/2026/05/who-warns-against-travel-bans-as-dr-congo-battles-deadly-ebola-outbreak-without-vaccine/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 31 May 2026 05:53:39 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "On The Road Again: Cost Of Political Ambition In Nigeria",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmdtcHJwSVlFVEJoQ2FtcGw4SXh6XzJXOGdMMVBLTm5janIwYm1aYTY4dW9wRW1ubDN5SERpV0NzZkpuVzh1dzhqUTh4bEljc1Ayb1VNblJSRUZSRUlXYjR2eHFuYV8zXzB3ODlWSVhSek51Y3FQaU1RNDBnZW5rcU9JLWdNZw?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Sun, 31 May 2026 04:14:07 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "Defence Minister vows freedom for kidnap victims",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakpmNVQ0OVIzUlRVQldpZmdValhWWDc3bTlSS3VYWEFVbDNzVUhZdnF4c3lEQ3ZyMjRlSnpldXBWN0EyUFNlU3hzMjg5anlPLU5zYkJSbDh4VGk1Q3U5SGVEZ0dPYWpMZ3lfeWFSeldDMW9MYm5neWhYODJlZlN0WlFfX0dES2R0aTdXS2Etcw?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Sun, 31 May 2026 04:07:54 GMT",
+      "category": "Security News"
     },
     {
       "title": "US Acknowledges Violence in Nigeria Not Driven By Religion Alone, Says 1.3m Displaced in Middle Belt",
@@ -138,6 +180,27 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWo2QV95Zll5cmdaSTNuN3U5VjRDdFhyRGptd2pOR2QtOHFqNFhZTmt5LS1MQmlkRHprTVRFYTlwWFJzT3FmbWVUUUVPRW52VjY0QlJyWm1fTjNSek0xVG9STWlNMmNDd2tzRFUwOVFzRXNVQV9SdG9VRGxXbzYzYjMwWHFHd0VNS3M2RGhFcm5CSlU?oc=5",
       "source": "westernpost.ng",
       "pubDate": "Sun, 31 May 2026 01:56:19 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria-Born Catholic Priest, Anthony Odiong Convicted In US For Horrific Sexual Assault, Faces Life Imprisonment",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWV9MY0UzbG1ybmt6V0VpSVNOSkxUaG92SFJVN3hiTmhzWTh5ZzA0ZFN2WkxMVm9oU2xZS3FGTjJ1a2tZOHRHQko4R0IyZU1xZjhYWTVSM2x2RldUWS13cU5hZkxGOG8wZFVDejhrVHZNMWRfTW9tSG5xUThFRnRoTWtKcFpDR01iazNTb0s0bGtkemtQNFBIbkw0aFFEX2psLVlEQ0N0N2luTzREdFFxclNpVm5WRENOWW5yNERneHJVUVk?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sun, 31 May 2026 01:11:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "How Prince Eludoyin is Shaping Nigeria’s Security and Power",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZW9sNy0yQWhPZVJrSGV6c1RpTzVMR2ZZblNocXJaeGRGSkdsNVc3VGE5Zk03M1RNUXpDZFBTVlNkZmxxR3RkU1pZRVBuTnlMbVJ2UU9UQW1JZjRvUGNXRWpESDhGZ0FVRVVYV1ZfUERMaURJbFNfMDVLVU56Sm1iS0xWVTdRbTVvVHJTZGpKYmtvV2dOWU13XzlQV01ISmM?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sun, 31 May 2026 00:31:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "I can’t resolve insecurity issues until I’m president – Makinde",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3BRTXlpelE0OVdwQm9qRVNERGlwQm8xYmI2MDBKeWFTWDM4VE9aNC15b1dJdWd2MGNjaVh3d1pUZ2pLdnJxYVlLd3NzZGlsa2s1Qng1NTlrSVVpZGpiNGJKbVJORkZEeVRpNnlRT0lZZi1fWjVwU1lwTm1NbGgzTTVjNDFrMmNjTHBSZXk5VFg4NEE?oc=5",
+      "source": "thestreetjournal.org",
+      "pubDate": "Sun, 31 May 2026 00:14:02 GMT",
       "category": "Security News"
     },
     {
@@ -162,11 +225,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "Nigeria too strong to bow to insurgents – Remi Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTRIcnBUM1dOYmpXaGEtTzM4d0JuY3ZHQmRUR1hmbm0zUVRwczV6Ny1Cdkl6Um9EZW1LM2dWeVJjXzhTWWpGRFl4SDFMNnJLVUFKWlJzZmZKcThteHNuMkV0VlhqR09SYlNoeGxWamgzaGpkRzZNdE1odTltS0otUUNXTVNibmozbTBjTkVJN291WU0?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Sat, 30 May 2026 21:26:09 GMT",
-      "category": "Insurgency"
+      "title": "Nigerian-born Catholic priest convicted in US for sexually assaulting women",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmRFZjFXLUl3NXk2TjBhQ0VTa2RKTnlFc1hVZXBSRkpPTkFLOEx2UFphUlNXYVNucDFyZS14V2lwUktJbzZQMnhZclVsd3NtZ0ZPQ3ZGcHA0WUVZWHV3aVlzeGZEbDlPYUdtUlJWMkhUM0NIa1EtZXR2d1NyZXJnYlpWNFpHVkV4VTZEV2FuMDhDbW5wOTF0bFRSY21uanBxb1pUcER0cmZULVVwRkcwTHhQY1o2NDBKTWVmVEp2Zm9BN1BGVnFQd1oybHNIenF2VlpOZFhn?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sat, 30 May 2026 21:04:30 GMT",
+      "category": "Security News"
     },
     {
       "title": "Obasanjo Blasts Tinubu Over Oyo School Kidnapping: “Government Has Failed to Secure Nigerians”",
@@ -174,13 +237,6 @@
       "source": "Tell News Magazine",
       "pubDate": "Sat, 30 May 2026 20:33:18 GMT",
       "category": "Kidnapping"
-    },
-    {
-      "title": "FidBank UK broadens investment pathways for Nigerians into UK market",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXZzREQ0R1J0THVlRVZpMXpiOGZ5Wl9aMUcxS3AtWUplUzRmM2dSUVRyMG5OZGJRcHoydF9IQWhxOTJOaU9oQ0ZmeWRvY1E2VVZoYUg2Y3hlSzBneW5jNGQ0dGdmTVlQZ280WldFaVdkY01oTE9jRG1ZT0J6NHZDTjFaNFotS19DT0lqcTQtRlJodVlqRjd4YjdpNF80YW5xSHpvdHJ4OFdUbm83YkhmN1lZVWxCUXA5MFhxT2VpNnVENThlTGlLeU9DZmFkeGs?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sat, 30 May 2026 20:30:22 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Presidency: Makinde sparks debate with remark on insecurity",
@@ -211,11 +267,11 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Obi accepts NDC ticket, vows to end insecurity, fix power",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWtDTHdpQUN4bktYUXhCQk1Sak0wRkM5aXplZ3FoNzRuREFxdGNCdFVxVnFRZFhDay1ZU1pwenNUZTBDMVVJZHFiTDZxanl1OXl1djRoOE8wR1pELXR1Q3g5NXV4YmFXZTBiajM4VDVNd2RXNTlNSS1IeUZ4ajJzNkpB?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sat, 30 May 2026 19:31:39 GMT",
-      "category": "Security News"
+      "title": "Police Warn Against Attacks On South Africans, Businesses Over Xenophobia Claims",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTR1cXhpVHJNbmQxcExYbUx2OFNPTHBlSWhGOWVsYmVFb1FaWEU0MFByQkVnd1FXRzRhNzZrQ1ZtcEtYTERwLTZGdF81OXpWX3E1VjRFUF9aenYwb2dYbExuaEFlYzR6VmJjb2p6TW5RcmlLVVE5QjUxWFdTLTVPSjY4dk5HanZ5QzB5XzYzbHJYcVpGV1IxVGFPRDZ6R1diNGRr?oc=5",
+      "source": "Arise News",
+      "pubDate": "Sat, 30 May 2026 19:30:33 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "South Africa xenophobic attacks: Nigeria Police urges calm as fear of retaliation heightens",
@@ -236,13 +292,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2RWREZwMWtaSG9ZVzMxc2IybEJHeWQ0MEIxMnZ2Zl8zU1hvSGJlLW5nVDZERTlaX0FRaDR1RkNqYTJ0Wm9YUlAzWWdWRVFXb2pQYjV6cFlrS0xOV0V2eS12WWw1WWozcjVGaDdFSVo5SFpoQTNFcWRaLVI1WHBycURfVE04aVd0MThUZS10VzVjTXJLdjRPc0g5SS1IQzd1blhQM0RNV0N0WlpiM3J1V19abGtsbXM1cmczS0FOckJCenJfWnBNNg?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Sat, 30 May 2026 15:57:07 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Institute Condemns Continued Detention Of Commander-General Of Nigeria Forest Security Service",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLVRETWZnQ0w1cTRQYmIxYktkTkVDRktlcl9veVJfd2FHNHY0MkduM0VJTWljak1WWXZ6dXkySnlIRk9RdFJlcVJEWVExVGhfS3NBNW9HMXJINldaRHllZ1Bjd0xnZF9ENmVOTmdOMjNLZ3A5TkNOSWV0ZEZEQVJkMmkwUGZnYzQwT1JmLXNoaWphcGtXcUJhNkNqejhJUXdQLWFxZlc3c2dNd1cwLS1NQnZVZmtwMmI1?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 30 May 2026 15:43:48 GMT",
       "category": "Security News"
     },
     {
@@ -267,10 +316,24 @@
       "category": "Security News"
     },
     {
+      "title": "BREAKING: Suspected Terrorists Kidnap Nigerian Military Ex-Spokesperson Major General Rabe Abubakar, Wife In Katsina",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGFaWHBReGlxMGF4TV9rTS1IUmdSamYtUmQzak1hZDE0Vm9yRGZMUV9KNnVYYnd2WVU4ZkEyNk5pMWc5eHktQkFFeWNqZUFobnVMYnB2MERZRGdxcWRieXpRUGdzS1lOcGxmNDFUMWJCOEhPSG85b1dISXhDT1M5Z19aZm1xQzV4YmtpZTFfZWZDZ0p6MkNVaE5SbnZseEctdnZMV0lvTWhKdlhOMGFlZUlhZzlsWGNHT2UxVFJJVlo?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sat, 30 May 2026 14:33:12 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "My ‘Defence Minister’ Will Be A Drone, AAC’s Sowore Insists",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVU1TLUFWa1cwTmxIU29jQWFKbm5SM1hSQktaZ0cxX2VQTnd1bzNIQk0xWVFFQ3BmOTFRdGJxYm44aUh4NFVsWkZRYnNKQ0d0Qy1zVUlZclliRkZpemJVLXRSUnd0ZDNxS2JfZXdGVnNHZy1nQ0x0VFpTV1ZwYWtRVW9ZSkJKUQ?oc=5",
       "source": "TVC News",
       "pubDate": "Sat, 30 May 2026 13:57:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Catholic priest convicted of sexual assault in US",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVJxSkZYODM2OGNobGxVSXdlbXV5Ukd1d2Ffb3BDRTMxLUVNM3g2MWNXc1dINnZONzFWVjU4RWpTc1VlUjQwNnozSnAtU2QzY2FlcnVZYWtSaWE4N2x4bW1PZnpVMHpRNzRSUGtWUF9uNHBLVFdWV2lIZng0QmpwV29uSlZPRWZwUWJ2TzhnVHVRVVdFdDNsaDR4WdIBoAFBVV95cUxOUFFkeHdFeWJCLXl5SGVlaElJV2hzQVVxNFFjRHF1UWpkb21lRDBCTVE0dW1CZkdQU2I2S25JYm4wemdZczlmRHJJYmJtYWNpaWxpRjhlMzZzUkZoUDFLTHdSRmRyVHhCajB3aHRINFQ4clRjMTh4Ml9KWFBLVE5XdXJVMW5nUDFpSTliRUtvOWd0SWRWZlJiRU8xZlU5eC1V?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sat, 30 May 2026 12:55:31 GMT",
       "category": "Security News"
     },
     {
@@ -299,69 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTFBZUUzaDMtU1NGdk4xam14dUx5bHVOSGwzUmdYamJCYl9jS3dja1J6ZmtZNUVpUkw5QU1GTlpoSWlzdGFWQVlQWFNNcEhnejlhSm90NEk4YjU5ZHMxSVEtYmYwRDI3aEtKdXNreW1oY3JIQzRmUjk5RVhEYV9sVnBDX0EzWFl5RFQ3Qg?oc=5",
       "source": "News Agency of Nigeria",
       "pubDate": "Sat, 30 May 2026 06:52:25 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity has reached a level at which no one feels safe again —Major Salawu Rtd",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWxmdmp0R3MyMkNVdGlJeGVKRjl5QzhhOUxaMlBxTVI4cXlrVVhYZzhuS2FDd2FCaUhRWTc3Q3pjaWV6NzlKRTdFSkt6eE8ybW90aFQ1QW9OZ0p2enpHa19QMXdTeTZSUXJoRnhwU2NuRVhDZEh5RG9lTzRwUURPb0FJdDZjR0k1RldyUmNJTUVfU2gtUTlDT2dKS1lVWVNBRWt0eXpjUlVZXzZGLVHSAbMBQVVfeXFMT1g4azRLdFR6NHVMX3lhZ01ISWdIaUJSY2EwQVg0Nl9jODJuWmFOZTVYdjRuV0QtM2tYdU51LXpDZnhrMmo0SjdQWGI2Z2NrLTlfeTVvMEpVbTEycWozb1pieFo1YlFydHFLTERjQ1pPcHF3aWc3eGJXU3ZORmY2SWdNS1FBMHNoQzhMa1UtRk1kU3U2WTlZZkctWUNlSF9PZUkwWHptSG1jbkt5Z1ZrRG12TDQ?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sat, 30 May 2026 05:55:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Banditry, Kidnapping Cast Shadow Over Safe School Initiative",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUZrN1ltU1RNNC1yYThUek5nejV5MU1hS0Z5NWlJSUxLR3d6ejBma003RERZYUd4OEZmRkdsb0daTXJoUk52aFloYnlkVWtmM3l6aE5wZUhfMU1qZEpnRE5YakhuVHIxQWVvUG1zY091b25SN2EyYUFpTWhsX3ZRbVhPS3hXeDRodzFaSUdXN2RMc0U?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 30 May 2026 05:08:00 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "Insecurity: Pressure Mounts For Release Of Oriire Abducted Teachers, Students",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFV0QUtFVVBMcWJSMm9KY1BIQlFDVHNrV0pBYm4yMTRkWXZfTm9aZ1R2S04zTFBwR3B2RVl1VkFoUnNKNWdSVWtpamVGdlVwOHhZRjItVDZKbS1aMzJKRjBZbjQ2TXBOUEdQOE9sckNWcnE0bTlrQklOVG1HY0VHeEFzeGVlOFNpQTZxMTI2LVRuWV9IMnE4OWY5Zjg4SlZ3VV9J?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 30 May 2026 04:55:00 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Cows in Abuja; security story not only an urban nuisance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEgtTkJCbi05bjh5Q1Y4b3QtR1o1WHZQbnM0U3REMG00LTJtRU8yYWJmbzlScXFhOGtjVFBKLTVIX2pDWnFza1dXQVJJTlI1LWFvaHNxa3RiYmNXUDF5aUlwa2dBR0hnc2pKX1FfcERJYi1jWjMxa3BFTThCaExKU1lUMzViUQ?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Sat, 30 May 2026 04:45:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "How Nigeria can leverage climate-resilient agriculture for food security —Expert",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzcya3NoVlFtamxyY1pkYnc1ZUVoMDVXRFUzYzY3S1VLSXVmUElWLUJoMGdHVG44M2lfaERXNThRc2o3NE5GRHlMSGpyOVFadEkzOHF0TXQ3UEdGNFpCRkdCdnB0Qks3OTRfU2lWbENVU2o1bFg3SUJ0dy1NXzJJMFJ2LXdYSEpMaEY2SFFWQTdhaUw5OTktYTZBNGs1VXZtUlhKcjlTdlRfendV0gGyAUFVX3lxTE0yN0Rla2QtX0pqSU44WjdBcVQ5ODZ2Z09LWElWVVRSalp5UklOd19nQk1yQjFQeUk5THVhQUVNelp1dHFJV2wtOTdrLU5VMFl0T2k4RFE2LUtldmN2T1Bwcmg5LUc1bjRVYnoxTi15TzdIcndTV1VrcjNiWmZ5QXV0azFDYWNXWVhsTGF4ZnNHRjc2ZmhObXJuTWhmY1lqS1JrREZHRkdEYzhVSlVubHZZR0E?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sat, 30 May 2026 02:30:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Operation Safe Corridor and Women’s Inclusion: Closing the Gender Gap in Nigeria’s Deradicalisation Efforts",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUhMVFhDNDRCc1dsNHZrYnFUczlLT0d1MVhNUThsVDdpVWNvT0owS2VDQlZXVExSVHFRLW45c2M2MVR0Q00xR3RzeW83blEtcGJ1QURDbmJWU3dNaFg0XzRIdVI2MFJYVTBmbWw4WDh4UHV0akhKcS1MemJUZzVTbzdacmhGbVlSZ2tsRXQ3TEZQZkFnN2dicmMxZUtUMWgySE9Nck9FTFJwc0wzck5hMWdkN1VyZzRsODBYUjk3RHRoU0ctN1l1Z2dvTlBLdw?oc=5",
-      "source": "Centre for Democracy and Development",
-      "pubDate": "Fri, 29 May 2026 22:00:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "WAEC disowns fake letter on deployment of security personnel for WASSCE",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1k0SmtDYV9qSDBmcm1qX2dmRFZNUDBiQUNHOHozREdCaXlNSUt5SE5IRVg3TGNQa3hSQW10cWdtRVFGaU51d1NkUzdpNjVra1JpcEZyektfbnpMV21KUTdPdjJ6X1hoWTRQdVkwUkdHLWY2aWZpblF6RDhnUE5rR0xocll4ZDNxUXkwYndTbXl3MVNtaFpTLQ?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 29 May 2026 21:22:10 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "WAEC disclaims letter on deployment of security personnel",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzlHdEUxNWhQYWNlY3lwU19nbmNKR2Y5MDZUdF9XQWNfV2x5YXpTRF9YVEFTdGVnRTVwR0RlLVlCby1VdVFxRjV5aDJCSkYwM0VlRlA1QmlsYTJhLThFRmswWXdNRlhIa1FaMjFaYnlVUmNVSndSTmd0emZjN3NwLURtR2tjM0U1V3puR0R1SHJqUzRhQjFuUG1na1loUUNjMEl4cDd5Z2NsTElMM2hZckVoVkk?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 29 May 2026 21:07:05 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Renews Call For Africa’s Permanent Seat On UN Security Council",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWE52c1c4ekF0MXQ5ZW1OOEctcWtTMXZkaER3ajQ4dVJ3V1VqYk9nYXhCWW5zRXBUWlprR2cwZXN5eVNqb1k1MDhzeDRnVTktdjZNcjNvZVBUR1JqQkVZUEE1NEFKY3FvTFphbUNWQjY4bXE4eXVhUXRlckRIanVYVnFBdE9rZk9QdDI4MG1oSXNJZ3FsMnc?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 29 May 2026 20:49:55 GMT",
       "category": "Security News"
     }
   ]
