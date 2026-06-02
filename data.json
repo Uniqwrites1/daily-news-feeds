@@ -1,19 +1,54 @@
 {
-  "timestamp": "2026-06-02T01:01:52.455Z",
-  "generatedAt": "02/06/2026, 02:01:52",
-  "totalHeadlines": 165,
+  "timestamp": "2026-06-02T04:34:02.406Z",
+  "generatedAt": "02/06/2026, 05:34:02",
+  "totalHeadlines": 170,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 114,
+    "Security News": 118,
     "Law Enforcement": 7,
-    "Insurgency": 12,
-    "Kidnapping": 5,
+    "Insurgency": 13,
+    "Kidnapping": 7,
+    "Military/Security Operations": 6,
+    "Armed Conflict": 11,
     "Banditry": 7,
-    "Armed Conflict": 15,
-    "Military/Security Operations": 4,
     "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Okumagba: ‘We will support Bafana Bafana despite xenophobic attacks on Nigerians’",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONW1waDlGem1ycVNuUXdESFdDLTFKb1NrbzR4dFNELUFWV0ExNjRzTzZuYjRQT1N2TVB3REg5RXcxNkRvY2M3U0VJMGN2YURZVW9aQ29BcERHU183cnZmbUdZa09ad3ZlU1hvWi1ENE5CMVJjYjltWElsejhIemRQT2k3NnZuTFMzS3NxNEg0cnJ2UFRkTWpPTTZZTXNRdEZoM3B0RkNRNlE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 02 Jun 2026 04:20:17 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "We’re working to rescue kidnapped retired Major Gen Abubakar — Defence hq",
+      "link": "https://www.vanguardngr.com/2026/06/were-working-to-rescue-kidnapped-retired-major-gen-abubakar-defence-hq/",
+      "source": "olufemiajasa",
+      "pubDate": "Tue, 02 Jun 2026 03:58:30 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Cut terrorists’ arms supply to end attacks — Northern Christians",
+      "link": "https://www.vanguardngr.com/2026/06/cut-terrorists-arms-supply-to-end-attacks-northern-christians/",
+      "source": "olufemiajasa",
+      "pubDate": "Tue, 02 Jun 2026 03:51:22 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Police launch manhunt for killers, arsonists in Kwara community",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkh5OUZaUm9XT1Z0cU0xbUY5cmJ4WUZmN21BU0Z4OE9NNG5XRmpISWk5TkVnUGp2NmMwVGx2MG5VSEdsMGwxcjRSaEFlTjZRdUNPQ2hiOThZSlZ0TE8xUm1WSFlwdi1CdGdPMi1NTVFwOTFmTDROX2NBUTlhUVhmY1c4VHFyaGhjUXRjSlZOb0lGN2d2eDRWOV94Vl9MS2oxcU5lb3c1Zw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 02 Jun 2026 03:04:09 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria warns of rising antimicrobial resistance threat",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGMmVnZ1lId1pQLXZwVkJTNWtKQndKNDJsVUtFSWJ2dEJ6MkpndTFFaW4tVEx1YVRJd0RfYmFVeDZZQ1pQYW5jT0FzbmNZeThEYXdHYk0xTkc1ZEx3dXlrRzN2VzhlNTZGMkJqbTFKNjFJYVFJSTN1UHBzcldYdHPSAYQBQVVfeXFMTk5sNVlIN2pCVURMRElSRjdWUDRHdHF2c0pGalpkbWFWSjFSLVJyNENvMV9CZThWYUhsM0JHWTk1SExJa0NRVHc4bmZ0ZEZsbHpJelRBNVc5NU5vMjhJbHhuS1RvUTczSVNGa2pjUU9uX2Y1Ui11SUpVWjVYVFVMZ3RVd0hr?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 02:48:45 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Nigeria's Obscene Money Politics: A Threat to Democracy",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBROGZmV1lIa0M0ZEF6UkRtWkxQdjZINWZIMnZaV2haQWlFOHhZMUpSMVpHY2RMUHctdjJ0cng0bVVtY2w4c1M0eUVPdjFHeGRrME5kM1FhcGJtd1dYQjVrUGxR?oc=5",
@@ -85,31 +120,10 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Tinubu commends Navy for 7 decades of providing maritime security",
-      "link": "https://www.vanguardngr.com/2026/06/tinubu-commends-navy-for-7-decades-of-providing-maritime-security/",
-      "source": "Henry Oduah",
-      "pubDate": "Mon, 01 Jun 2026 19:37:17 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "The Security Force Tinubu says is saving Nigeria billions",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWxSRTdyVDBNRWVfNU0xS1M4MlQ1dDgwYVV4SDRQcVpOR1llYXZMdmlqa2xXaVlqRlZWTjJkUnpQTEZKLTU2QWc4X0dKdUpESjNNUEpIWkFuYTBMTTJKa0stYUNGRGpMdFVZdFpQNkZ3OFp3dXhzWEhTN0l6eFpGMnNna2MyOXRuVGotRXBuY21vLXRtX2kyOF9VUQ?oc=5",
       "source": "PM News Nigeria",
       "pubDate": "Mon, 01 Jun 2026 19:09:08 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "One killed, three injured in tricycle collision in Jos",
-      "link": "https://www.vanguardngr.com/2026/06/one-killed-three-injured-in-tricycle-collision-in-jos/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 01 Jun 2026 18:58:28 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria warns of rising antimicrobial resistance threat",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXBxcms1VHpiZ3Naay00OTNZNlprRVh2dFVVUDVQTDU3YWkwWEYtZHNJVUU3Z3Nra2JNSXlnSGw4SW1fa3ljaTFiaV8yTlNjQkQzTjZ5UzVIZUtOb0tBR1hvazBSR3ZLT3g0eldTQVZaMlFJbDBnVGdYUXJseXRUTFFjUmd5aV82VkNNanpn?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Mon, 01 Jun 2026 18:36:02 GMT",
       "category": "Security News"
     },
     {
@@ -169,13 +183,6 @@
       "category": "Security News"
     },
     {
-      "title": "terrorists killed in joint Nigeria-US strike",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHdRSXNvUmp4bXptcmJhaHJEQjJBQ2dUX3hwal9LWXZtR3pPSUx3RGpOdHVYMVVOODlpSnFnQ281MHg0RW50eW5tMnIxZVNqVFI5b1d2WkMxRWtuZGNXVDhMOWhKc1dUQU9xbDVQLU9xZENiekoxYThCZGxRdjh0bnQ3ZDdUNkZZY21SZNIBkgFBVV95cUxOdWh4c0Z5SjVnamZ0dXM3N0p4NElCR0xHRnh5YkEzVlR6YUZnRE94QXlEbTlTX1BaSlVVYUprUjFBOU9IQllqMXJXZTJDcDZFSDNpb19zN0RJUUFPVENjYnNYNE5mZ05iZDFTUHVIZU1JNUhlanludlBhaHhPOVI5LXk5eFpvSDh0aW1idV9KNmpudw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Mon, 01 Jun 2026 15:43:23 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NUT Calls for Increased Security Presence in Osun Border Schools",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUtPcEdnMnVDRm1TN2dnbXB0bzhYZEFUUWNkMTRFaW93dC1NRzNTQVZadnVETkRIYXBtT2pXSTNSeTJGZ3dvdjltSHdhcUdzdGlnczlURVZwWGdQdnZWZjZhaFBOWFNmazR6dXlfanhmeWtmSmI4clZobWdEZXRkTzhLcThONTgzNU9YTkRLYUZaYkxrQV9HWGEwSndUODdRZUtEMVdLdw?oc=5",
       "source": "THISDAYLIVE",
@@ -208,6 +215,13 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckJtT0J3Y0NZcVBMeUdKSC0tQ0pCM2NsOVk3VktLbERNa3p2NjVBbElkbFZIbFJmMTZnYVZTWlV0SC1DSmM4YXhyVXM0NGtBTWlNNVVnSm4zQ2djVDYxUmduRDIzUDVOT0o4VThpM25tMlJDMEZiWG1LX2dVamNKT2x4M2NtQ250YnMwd0dwSFNENmdTWWtBTW0wVEFLZm05aXdTeHdaUjJwWU9hd0FMSg?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Mon, 01 Jun 2026 15:07:00 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Troops rescue 23 kidnapped passengers in Kogi",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWh2R3ZlVGJYT3ZkaTdxeE85RGdybVdqZzBmRmk3LXRENEQ2WXMtM3hPVnQyV2RLZnlXWjdJVDl2MDNxcW5yNUNQSU42ZjJOY3pHYzlTZXkyNnNYY3p4dDAzMGtyMUdCd0g4cWxYLUhPX0tSMU1JaE5qU25HaXFmOEtreVU?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 01 Jun 2026 14:45:23 GMT",
       "category": "Kidnapping"
     },
     {
@@ -295,13 +309,6 @@
       "category": "Security News"
     },
     {
-      "title": "Insecurity In Nigeria: Are Criminals Targeting The Government Or The Nation? -By Abdullahi Abubakar Lawal",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1BqcGp2SkUzcnc4MjJwSm91VTBfNE5FZ0tZUzBkMnliUzB1c09EWkdBa3NiNjNYN0hoVS02Rk9UdDg1SlI2UDZuUVBON3hEZVRadzNmUVpCaWQ2U01TcTMtUzZGcVFrbUZ3V1Q1d0M0UElBMV9lUHVPTTR4WEZyQ2t4cDA2aEU0alp0ZTlWTjFWUGRSc3doblJub0FGcUE3VDl0aklWUFZWbHR6bmpFbm9XeEN1M2lXSXpLaDE1X0ZDdU9pN21kOGcyX0ViTzg?oc=5",
-      "source": "Opinion Nigeria",
-      "pubDate": "Mon, 01 Jun 2026 08:25:36 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "SERAP Seeks UN Security Council’s Intervention In Nigeria’s Worsening Insecurity",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSE8zMmlrR29FdWxSSW5EYU5icHJpWXZxNVV5SEcxWlhuYU1kV0lsdGJNTHBPenZvTWRQaWNDOV9iUVh2X3RLb2VTc3pjQ1ZBa01uZW9QZ1d6bjd6SnNLUzE4TV9VZEIxR3cyR1F1cWRTREFMZU1GY2pyejFMT3ctbVRnWjZRQTY3ZmJpNkRhVXpBUnJxbmNaYVliRmdYdTNEcWlJ?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -316,24 +323,17 @@
       "category": "Banditry"
     },
     {
+      "title": "Nigeria’s ISWAP leader, Ba’a Shuwa rejects appointment after Mainok Killed in Nigeria-US strike",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkRsMWVfT2t4SXR2UlhKdld4bW1TbUt1bkNzYkdzcE9ydkkzWWtxNFhURjcwM0hoQVRqTENpZThHMTNxaDhZRnJ4TzJTRldhdEpncUFZa0JaS2JPakRDaEZMWDkwdnpqaWowWTJibDJHVHFvOWdST0JMLVk4M1p2dFNaeVRHQkVjSVl5aTAwNk45OTlrVjYweDZqVFhGZllXdTJMeDJjaHlSMVRFSUtISS1XLV81ZDBlR2tsLWtveE1PUUU?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 01 Jun 2026 07:31:50 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Kogi Suspends Echane Festival Over Security Concerns",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVVDd1VZbDZwVlVINWZzRlFjSF8xLVlHc3V1emwzSm1ZZVB1SlBhUkl3WmFxdzQ4b3l1SG1oZlpSQUFLRmZGeWRDNlFCcmk0OHNCSGFVQ25MRHRZdWM0ZlVvWmhrYkxlVklaSEh4bWg4d1QxdGNZYlNHbFh2OS1rbklR?oc=5",
       "source": "THISAGE",
       "pubDate": "Mon, 01 Jun 2026 07:17:25 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria seeks used German H145M military helicopters and support on Sahel security",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG9yNkNxX1VmWGdVbGY4NG91eTExdHhQUTBzZjFad283U0dFZHJ5amVuYlNpWlJhZzcyWjViNXdoSXlmRDI1MVF6Q0lNSjRlNS1KeFhPMlQ1SUpxblZweWRuMmN4MUxVUHdpcENOYVA2TjZzV2VNcHhNWHJObHpzUVczanZQTXdOUURlR0Jqd1BQcF9mNVNwSlZuaFItS0JNbzI5clV5UW9VeFZadmlvV0VqT0NJdkhmWjVV?oc=5",
-      "source": "Military Africa",
-      "pubDate": "Mon, 01 Jun 2026 06:47:22 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu is strengthening his security architecture",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTJSX1ZiaEdMbDNqZ0wteDhOSHZucXdFbzlCN1VKWFNmNGJlUHoxc2ZzT1RWOW1Bdy1zTHFwOTVJdkN6UGZENmQ4b3ZaOTRFTFdFZ2RqZGRFLXJjc1d1cWlhTWFxclExLXJoVU5NSUlZXzFyTWhtSzdDVDJkYkx6M0xpQjk3MXptZWYtWHo5Y9IBlAFBVV95cUxOQnRwOE1fZWFBRF95MXpjZ2lMM1MyeDVQbXJGUEJYc2pnT0hGaXJrQTZzVWs5amc0bzFFS3BBRjhfWnVtYWNtZ1VRNWU5RV9fdV9QZ3kxYXdPeUlvbU9jQnk3Ti1PSFZtWmc2cFVhbVAzSVJBVlhyMEoxV2I5TElJTFV1eU8zS2s0MEZBR3MtTEo3TERi?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Mon, 01 Jun 2026 06:43:33 GMT",
       "category": "Security News"
     },
     {
@@ -351,18 +351,18 @@
       "category": "Security News"
     },
     {
-      "title": "Trump’s US commits $3.5m to monitor religious violence in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXA4VUpaampBUFItaUR4MVdoLUlvMDh0UHM0VjlLM0NfbHBHMEpIdTNyMVdidnhkMjNDZ0lFWUdZMUdMQ1Q1OWJGZFFiRFNNMWVNSTg1d2o1UGxPeDdJYWo5V0gxaXJQV0Vlbm45Z2phWC1DNTZmRHlmQ0hvV3daUTd6VGpMY0tjclJvMjJQOGd6dEYwNk5xMGlMdGQtM0xVdUc4?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Mon, 01 Jun 2026 04:48:38 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "‘Resign if you can’t secure Nigerians,’ Ajadi tells Tinubu over rising insecurity",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0RYdXg3WHVxamREZkJWYW1MNXlYWUJxRUh6YmdoaldzY3BjUmNkeTJ2Q1ZkdDhCR2tsUDRxTVVMVE5lQTNVMjZyRndkaFB4U1BObFNqaGR3a1NmUWFBVXdVeGZhaTlvNDIwWGN2N0pwbndBeEh4NFFyaVJFOHh5YmRlUDgzUTZTeXFPZEVJTU5wd1AxUmhCcWVMaWlQTGh6ZFJpT3VpNWFtSmNDdGh0TTRuelXSAboBQVVfeXFMTmlDZi1weUM0N21VVC1vQ0pwOEZibkZDN2NNZjl0Zl9mRmRwZU5wdjFJa0tyWENERVBzcXVfNVB4OENyM0NOdGF0T0tvQ3dPb1Y5VTZ0MW1oZ0RRVFE0Y2tuYmRwaWFFYmFZb3FhR2JmQVl2YUg4ejdXbjJaZmdKRW5ObUNvajExcWtWYzhTQUFSQnpvdmw2UGRqa2lmTV83c2FLVGRyQlpKYkJNcTBPZUQwbDdvUkpMYTFR?oc=5",
       "source": "Vanguard News",
       "pubDate": "Mon, 01 Jun 2026 04:30:01 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "State police: Between necessity and risk",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lZ1RLQmlFUloyS3hTZ1lhNGQtZ08weUtCSk04Z3haand2SF9CUnRYanVCX2NtaGl0VjdNclBhU1dFdG8zWkd0OFE3OFVqcE03RFB3RmpURkRXNmpVa0lTSVpYakFlZjI0NXdLaFNHenhKWWxpc1FSNnF30gF_QVVfeXFMUENaMDlGQnhaRTJiazIxNXVPT1BkYmlxdWYyWjBnNng4SnR6dXFZS18yajUwOVN3cGNCQnNyd2pKZ0JsZlF3cGt2TFI5YmZEanRHcGJVa2djcDNIQkhVN05veXdWTlJFYTBMVlF0Ykt0RDRhWG5sLWt5VGttd3FHYw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 01 Jun 2026 03:51:54 GMT",
+      "category": "Law Enforcement"
     }
   ]
 }
