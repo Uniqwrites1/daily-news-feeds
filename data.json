@@ -1,22 +1,101 @@
 {
-  "timestamp": "2026-06-03T01:08:47.427Z",
-  "generatedAt": "03/06/2026, 02:08:47",
-  "totalHeadlines": 11,
+  "timestamp": "2026-06-03T04:34:44.495Z",
+  "generatedAt": "03/06/2026, 05:34:44",
+  "totalHeadlines": 177,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Military/Security Operations": 1,
-    "Security News": 5,
-    "Insurgency": 1,
-    "Law Enforcement": 3,
-    "Banditry": 1
+    "Security News": 117,
+    "Kidnapping": 7,
+    "Banditry": 11,
+    "Insurgency": 11,
+    "Military/Security Operations": 10,
+    "Law Enforcement": 11,
+    "Armed Conflict": 10
   },
   "headlines": [
+    {
+      "title": "Emergency responses and Nigeria’s security challenge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGhCY3RhYzlWWktaTVhCRVVwRnRnd3l4bGpuSkxRaGlsXzVYVlF6MFFWSkVnZG9XZ2FsVnptMXFPeGtrOFJ0WkJHOGREekFNUm4xQ01ULWFvM3E2RXZ2M2xUc3pZUzVrZWhXVjBWSXo2d2szZXduUjBKOHpqWnNmX0ZZQ1VrV2NhcGfSAY8BQVVfeXFMT3FET2pOcVM5SkVSMGE3SFFkbHFGNzdBcDZQek5oTTNWSGdYbmlrZ2FWX0J3UUJ4dzdqV0xIUmFDeVFEUm00ZWh3eUlXT3BtZUUzVVJVWDVEMVpGNld1MWpiSkp4VGRQWUJidEwyYnA3c1FPdjhFM2NoQmR4UTZqSnB6WE9Hd3VkX05IVV9MQ0k?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Wed, 03 Jun 2026 04:08:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Get rid of terrorists within 90 days or resign, Adeboye tells NSA, CDS, other security chiefs",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTdEb1RNNGtaMjYxRzNCSzdCS0NyZkNyeGtESmRucjUyZU43eUFaZkduNnFZT3VxbC12X250ZEROQWNBaDFZSy05a2Z2alVVMUVyVDQ5aVJmbkxFUFdEVEZ3Y2E2ZlBhdnFiZUp5MTZPWkw4ZU9ZNzl6QTBuRm5sdTlmRE40ZTRFWnJfNzNacHd5NjEyMjdKdnJXS25CVnFhV2hMT0QxWURxaFVHcGfSAbMBQVVfeXFMTTVjVEdpWFV2Znd0THNHVnVCamZUb2lfRThGMm5SbHFodnRteGZ3UXVvM3NKcVdTTmhvZERsckp0bzhfUzY2SmdPSU5LU20zQndBQVFnNVlVb1JBSzA2MjF2dGljdDRQc2QwSEVaRmt5Q0JveElYWGdmY2xrV3ktS25mVXJ2cWh6TkZCUlZ1RmdNZm5ZZGdYWVlzMGxYdWdPNFowTlNOTFJlTi14U3c4OHBwVTg?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Wed, 03 Jun 2026 04:08:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC Intensifies Digital Transformation, Trains Officers on Research, Operational Excellence",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzZDMkFoQmlkUzFpMmRFZEdvWVl2eE8zZFYxRUg4dVllYkNzRHhJMFhmNWZiUFBuSEFVcVdwYVlEN0JZWVluWWF0ajVpck13aXRjcDdkWG42QnVUM0RYYXhucTRQNkpnZkNSVktRNnNGVkNlc0ZEWVY1RURMcEUtQkl2Rl91VlRMQkVRNzBlV3hvdm1YdUh4NENUX2lEV3BBYk5BTWcyQnJyS1RqS3Y3N1lSdTctRkp2Z195V0VkS0VxQm5LZDhNU3p1TG9HQQ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Wed, 03 Jun 2026 03:41:27 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "WHO rates Nigeria’s Ebola risk low despite global threat",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3h2RGtOUlRwbkgzSVExM3ViNWZudXo0TEVqaTQwSHlmazRQYUE0aWtrNWdZV1Q1bmM2aE1hRmVXQ0pGY3Z1MmxLQ0NxcEpSN0d3VFA5czB0QmJfSkp6YWdGd0g1RUNkeHZ5Y2NLaEJRUTM5dUVQNFctX1M3RnFBbERmNG01ckp4?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 03 Jun 2026 03:39:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "CAN Declares Three-Day National Mourning, Black Sunday Over Rising Insecurity",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmNQUjlWd0xxNGNwVjh1ZUVTeDdKSk83eVFrWWFwTHFKN3pmVzVvVTdTanR6ZG9iYVhCT0VOSWdXcDlOQkFGcy1tQUQwZzY0MEFUaENyamhZa2JobWtQVnpXdWVRMFNBa05OU1lMSVpMY2Z3TVFNTF82cjkwRjhBUzNlcGZBLXdvRDR0LV9KdFh0QTdrck5vbVc0ZDRxd0E?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 03 Jun 2026 03:24:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Reps Urge FG to Strengthen School Security Nationwide",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaFRkdF9CRHhfdGVZdEVtcExHSmtiS2hmODRiVmo4RkswdzlJVHllRjhmQmlpLS1uQWg0cWJwLTJPTkJXaWRuY1VvUkJDUVJKRFBZVVh0dHoyTklFcG8zekJuNmxLMnRpUVRrTi1Ldko3VDcySVNWV2pwd0l5QQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 03 Jun 2026 02:02:36 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian youths see opportunities in growing China-Africa cooperation",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82ejZxd1YyZTI0dUI2YzZuLTE1SmZYN3RSc3FFVGV3OXVob1BLYUZoM0hBZkdPYk55TWdScVZEZGxReFZSdm01WDctOWhJc3J2T2ljWjYxUlcyYzVrdTJDa0habw?oc=5",
+      "source": "People's Daily Online",
+      "pubDate": "Wed, 03 Jun 2026 01:29:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria, Liberia strengthen regional maritime cooperation",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUNuOHBWZUg5WGY4TzVsdDJSZGN3TlcyRUZPUmI4dFh4Z2d3SkxVY21YZzNnMG1OUldpN3pYQzByYXlfZmh5OFRCRmtvRFdzV0RLWWFNYVR6cDUyNlR3ZENtbzBHQWhkT0RENExLLTAwXzBYVFE2c1c0M09OT1lBSNIBhgFBVV95cUxPZVdHdlhFT3BnQUZ2UVgtRFJUYWhNTkptTUdkR1BnT0Q4cmpKdXZYTm5GSDNPNEdoTnUxZ0w4OWRNY0pTd2RwdVJYeFMwSE80MFIzdy05S0c1YnpXMWlGR05tdE45MHQwd2tzN0lPUkkwT29XaFcxbmEyN3ZkUWlJSGNOeFlodw?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Wed, 03 Jun 2026 01:07:30 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Cybersecurity firm joins global payment security rule-makers",
+      "link": "https://www.vanguardngr.com/2026/06/cybersecurity-firm-joins-global-payment-security-rule-makers/",
+      "source": "Urowayino Jeremiah",
+      "pubDate": "Wed, 03 Jun 2026 00:27:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: CAN declares national mourning, demands emergency",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMV9TVE1WX1FabkIwVGpjSGp1UjdRYkJKdnluSW5MdDVVaVJXSEs0cGxZWWVhXzY4SldRZktaR3JYM1RWTjNQdVpQbkdJQk02VTVETV96T1ZxNUNNTlZBZjBHYUkwYkxERWhockQ3UGN1aVFCWG9nbjFqaUQ4TVc2SXNmdW1PRTg?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 03 Jun 2026 00:24:39 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Operation Safe Corridor: Between justice for victims and mercy for terrorists",
       "link": "https://www.vanguardngr.com/2026/06/operation-safe-corridor-between-justice-for-victims-and-mercy-for-terrorists/",
       "source": "Emmanuel Okogba",
       "pubDate": "Wed, 03 Jun 2026 00:19:01 +0000",
       "category": "Military/Security Operations"
+    },
+    {
+      "title": "Declare state of emergency on security, CAN tells FG",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWlNbEZkVmFyanZNNHg0QWRnWUVNODVvWDJxOW5sMUpJbDAxb2ZLQnY2dnMyU2EzLURYRzdHZmtVSzQ4Z0dxMzhCUmVSVzR1cVVWcnN1R3pwNDNteE5tWFM4UnFrYkdoaUU0UDhoVW1IdGZOcERnWDY5czdIajFjTg?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Wed, 03 Jun 2026 00:18:31 GMT",
+      "category": "Security News"
     },
     {
       "title": "Insecurity: Incompetence, collusion or both? By Ochereome Nnanna",
@@ -33,11 +112,32 @@
       "category": "Security News"
     },
     {
+      "title": "Nigeria: Conflict - LTS Situation Report (Telecoms Area) #113 - Reporting period: May 2026",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlNWQU00NzQtNjJ5c2pFdGFEVzZuY0c0ME4walQ1Q3p2MGtCQmdfUWlIY0FGd3VsdklxcmNsb1BldG5ueThrR0FHUHVxdktSblp5WEc0eFlSVDdURnFwdmtPNmJ1dzRSVEhsQXlHdVJPSld5c0k2ejFJVVB6N0hIVjVwbm5UTlZMQVhmbkVPUXZfWVpoekJDMzZtSXpsYkptYVZfajlqbUdIWjRKekg1dV9OYVBpVm14VFE?oc=5",
+      "source": "ReliefWeb",
+      "pubDate": "Tue, 02 Jun 2026 23:58:31 GMT",
+      "category": "Armed Conflict"
+    },
+    {
       "title": "Faith and Tech: Nigeria’s new counter-insurgency strategy",
       "link": "https://www.vanguardngr.com/2026/06/faith-and-tech-nigerias-new-counter-insurgency-strategy/",
       "source": "Emmanuel Okogba",
       "pubDate": "Tue, 02 Jun 2026 23:46:38 +0000",
       "category": "Insurgency"
+    },
+    {
+      "title": "A’Ibom NSCDC smashes alleged militia training network, arrests 39",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjBzVjU0SUdRZXhjZW01bjdpbS1TdGt5V1k3ZXBhYnQ1NEw3T2JEM1ZNV01ZUnNkNGowaEVaTllIa1dfdXFKNm5ueGNqX2JvSThPOTJ2ZS1mM0VBb0RJbDNRcFM5QWlXUG5sS1ZadzFKaVV3SWdBanNSaHVCWmhsSl91RTZZZENqd19KWQ?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Tue, 02 Jun 2026 23:18:22 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "African Electric Vehicle Platform Raises $215m to Scale Electric Mobility in Nigeria, Others",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1gzSFcxV18tY0h6d3lvNEVtWmhqcVd1NC1WUjhjVjF4ZDhvTnNaWVcwSG4xSWNDNTE3a2VNS1V0Smt2TVE0T29IYkdXTFRHUG5UUTlfcVlfZjFhaFNlU3BieDFNMkJMLVhKdFQ5QW1sZXlaNm5rOE9WbG5nM3RnNWE1d2N0WXJ0R3BfbWpnTmNoWS1nbEljUHg5aThvSUZGTV9HZi11YXNYOFY5QXpTeHM1bHVPeHRXb3ZIN1RWSk9rRWdhNWVxSUZFeWxURDY1YWc?oc=5",
+      "source": "Nigeria Communications Week",
+      "pubDate": "Tue, 02 Jun 2026 23:08:23 GMT",
+      "category": "Security News"
     },
     {
       "title": "Police nab Canada returnee at Lagos airport over 2025 N150m burglary",
@@ -54,6 +154,27 @@
       "category": "Security News"
     },
     {
+      "title": "Nigerian Military Urges Self-Defense as Attacks Spread Along Plateau-Bauchi Border",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUtPNGlKMWw3NXVCcG9lLXg5amJPaHFqUlpOS1hxOXkwRzBYSFAzWUdUUkhMR2xJTmNFeVJObjg5ZHJfS2R5bDN0NDI2N1RXbHBUelV6TW14Wmd1dFNaU1llSnZfLVVxbjNkUUxHRVdEU2FveFFndkhTTDRTU3dHaGI1YmJKaTcyWGNmM1MxWVVubXpSRGlydUpTRUhUY1JvX0VLbC1WT01iMXgyV2lmelBFZWt5cDQ?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 21:54:19 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigerian Navy at 70: Army, Air Force, Police, NDLEA, Customs, FRSC others unite with Navy for NNS Delta sports fiesta",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTVBvXzNYQ0dvcy1GX2VRUDlMOUxfS3JRYkYwbUxJbG5zbThuMmp4NUdLdDlmTUYyc0NrbFJPcUg4Mi1ZR3RMZmpWZmxuZkFFUXVFLUFRODRicWthSk5MeVJLcTFlVVJmaWsxV3pRajM0UFo0a1hyYWNDd2xrWGExYjVrdUw2c3Yyc0ROOUkzcHdudHVyQks5eDJxZHVxR3JwVHV0MFhpVW52cTg2dFZWTVFXQXNRMHIwQXc0UC1XeHU3dDBVZlBjNTJSMHNHei1oZDVIRFI0WFY1d1pY?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 21:44:58 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Reps seek rescue of abducted Oyo school teachers, pupils",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTFyaHdoczJzLTNNZmIzekMyYWU4RVBRNzBJWkFqeFNxaFRJY3prandoZHhBUUxDNlFSb05ydnRCYV8yZTBZQzYwZ2FmQzExLXI1WHJEWXo1UTQ3UjgzR1huVlZ1WkpNdGZDZXRvQmU5ZVdzTzNlcy1jUVBJZjdkS0JyRHZ0UQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 21:18:33 GMT",
+      "category": "Kidnapping"
+    },
+    {
       "title": "Police nab accountant over alleged ₦150m Lagos burglary",
       "link": "https://www.vanguardngr.com/2026/06/police-nab-accountant-over-alleged-%e2%82%a6150m-lagos-burglary/",
       "source": "Emmanuel Okogba",
@@ -61,10 +182,38 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "Boiling Point: Williams, Dare, Onigbinde Lead Debate On Nigeria’s Kidnapping Economy June 14",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVm1za0NwNHA4MzY1WG11QUEtQzR5Wms4NjR5NjRDZFpOWmwwUm9FVVp4dWxIUkhQQzNmNTFCc3NOMDd4c2VVaFNxWEFVVE10QVBxX2syc0FBNGVKOWhVUHhQVUZNeURyQmNaN2dGOWtoYU9jWEhaOG55dHp1ZDg2YVdjUGlmVW1aZldGOWVGVHUyRGFvZC03Y1lhcE5wLVhQbm83MDh2NV9TNGZfQllZUnRn?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 20:42:42 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigeria’s insecurity challenge: The need to disrupt the supply chain",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1hCZmlERXFfbmZTRjlsMGZDSzFUeGJ0QVE5X2NSdHBjSVZwUmtYb0lwb0RXVTA1aHhKQWtZMHVscGhWc0lNVkhVa0NwUDl5U3JseFdtOExGdWQ0NTNjNllibWg1bTFpRV9URWtBTWlvaS1iclQwSUkzRWxtaVNTQ3N4bksyTmJCR2dSbmhLOTBndjFsV2c?oc=5",
+      "source": "TheCable",
+      "pubDate": "Tue, 02 Jun 2026 20:38:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Lagos council warns Alimosho residents against fake security alerts",
       "link": "https://www.vanguardngr.com/2026/06/lagos-council-warns-alimosho-residents-against-fake-security-alerts/",
       "source": "Akinbayo Wahab",
       "pubDate": "Tue, 02 Jun 2026 20:34:06 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s leaders not trained for security challenges — Olawepo-Hashim",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVdEOWRFUjlTblJBSldyTXBGMnlFUWFwbkdXRGtVQ2c1WWZFNmZJZVFLUHhqcXJXVm02MTlOMjVqUlc5WG8tR1ZHY2I3bGNkdFV5OGtaOVRTMV9zeDJrclp4bXBKQmVwbU9mUHA0cVN3M1otbTUxOVg5RF8wd0I2UGlJOHhpdmwtN1R4ZG1Zcw?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 20:30:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Adeboye gives security chiefs 90-day deadline to defeat terrorists",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNenh1N1p2QkN6UWN4Zmp3WWpGZTJ3TV9xcll0NmZ2MkdXTUNyMG9seXVIZDVpMWJiV2dyMk1CVmhrOGJIdlN0ZW5MZEpncHFtbTZlNEpoVVNVMENSTVJxY2RDOWtLYUpYbFV1VUU3WGRSdUtzeVBKajJpQk11ano5YldFSDlDc0VzRjlTU1k2cDdNVXpPdThhSEpR?oc=5",
+      "source": "westernpost.ng",
+      "pubDate": "Tue, 02 Jun 2026 20:22:37 GMT",
       "category": "Security News"
     },
     {
@@ -75,6 +224,27 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "Insecurity: CAN Demands State Of Emergency, Declares Three-Day National Mourning",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzlsZnJqcklmR25ORUZndGdVWUVyYk40dFFlbTRnZm1qemRqYjktZWtCcFlOTTFMbGtCRWxjYndWbXRHQU9EZm51cGlzT2lKZlNCQjl4eWpJeVp1UUJEeDVfRUJEWWItUUJ3V3hyX3FXN29XdUhZbWR4Ql9zZ3g1OV9XOVBtVHd0dHREY2xhdXFydnpNUU1UMW04aFZrcXAzc242YXR2YUw1czNnNmwyQXZJVWNOT1ky0gG-AUFVX3lxTFBBZVJPdVdZQWJWMEpIVmx1bkY3akRqb2dqQllpQWp2c3gxSWdNRHJ1MEI1LUNMZXF5cjZVc05WbERZcWRmSEJ4bUFfMDRsV2djNW5KNFZwZ1lvcXlpRXJsZ000OXNtMjkydm0tSDR1ZnlBeEJCbGxpVC0ydVRxVlhUS19VY0NTcklieG9oRG9mNHJxMDVTb0NUOUJqeERvMkdCUUtKb041dVJ4c095ZVdtdEt1WWY4TDl4VFE1Smc?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Tue, 02 Jun 2026 20:10:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ogun Police dismiss banditry reports, assure residents of safety",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFhuTDh6aExFLUZtVjNUQkhoZkhTMUpHU0gwRjhmR2pVSXRYODRaRW5EcEVMb0VTQTBISGpzREFreEttYVZpQWJmSjRuV0xjcGd5SHZBQ2lHck04WkI1bWM4Z3J5d0d1eW9yTGR3RlZGQmM2UEhfRTVfSklMX0MtWG5sTWRJYnItVjNpUXI1SlRSWTduTVh3aldEc2F3cWtZc193VklR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 02 Jun 2026 20:10:00 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "ACPN Urges FG To Adopt Stronger Tobacco Control Measures As Nigeria Records 28,000 Deaths Annually",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON094OXEwN01LZkw5dEdKRlNLaTdENlEtejRlS0V6S2JJS3Bsbjd5UHZEODk5UFpDUDkzQzhMLWItY2otaDFQdWNaVTBfN1BXRzlzOThKWDl3a2g5QTkzZGhOaEVDLWVPZW9Ld2NoT0I0a1A5cHNVY3ZUM3hjc1lZNW5mTnRBcXZXaEk4SmdXRUgxRzRTZHVGX0taZGNPMkFxdWg0eTR4ak0tbXBucHhPSVZRTVI2SWhzV0tneGp3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 20:08:56 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Court halts Coroner’s inquest into death of Chimamanda’s son",
       "link": "https://www.vanguardngr.com/2026/06/court-halts-coroners-inquest-into-death-of-chimamandas-son/",
       "source": "Akinbayo Wahab",
@@ -82,11 +252,116 @@
       "category": "Security News"
     },
     {
-      "title": "‘We need protection’ – Eleko residents cry out over alleged bandits’ presence",
-      "link": "https://www.vanguardngr.com/2026/06/we-need-protection-eleko-residents-cry-out-over-alleged-bandits-presence/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 02 Jun 2026 19:43:30 +0000",
-      "category": "Banditry"
+      "title": "Oyo abduction highlights wider insecurity challenge — Bukarti",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZU53dU9jUUNZTFdYTlVhcjhfRHJMTmlwOW0zbi1pVmNScFdNS3lfQl9meXFoU0hIOXRPV1lWdndOUG44VlBjczN2WEhLZnVqVTREcjB0NjBQSmRvQUVkY3J5VFZHUnNEN0xlWVhSRzBGS3BTX3ZaM2VON3hkMnNGZy1nMjFCQlpEemfSAYoBQVVfeXFMUGVOd3VPY1FDWUxXWE5VYXI4X0RyTE5pcDltM24taVZjUnBXTUt5X0JfZnlxaFNISDl0T1dZVnZ3TlBuOFZQY3MzdlhIS2Z1alU0RHIwdDYwUEpkb0FFZGNyeVRWR1JzRDdMZVlYUkcwRktwU192WjNlTjd4ZDJzRmctZzIxQkJaRHpn?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 19:29:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "CAN decries escalating insecurity, kidnapping",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVF5RFZvYmhTNGRpQ213aUowblQ4NlJrajRpVllzdmF0LU0tWnNHamFoUVBJaW5jRW5QMkdoQ2ZNVDBOVlhCaUlNaTB2S1BrY3NWWW5sRUVIX2x2aGUwd1pFdFhpeE9wNmZrLWJlajFLaURzeHkxQVRxWjctaXZBRlhCeFV2RlFRdFpYRQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 02 Jun 2026 19:11:00 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "BREAKING: Nigeria Introduces Border Screening, Temperature Checks For Arriving Travellers As Ebola Threat Looms",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmlucktCYXJTRll1V2l6SG9fYXhvamtlMThjQVRGR0VqSlZCR3NCN3BYUktaOVJLT1B3YXVzR0JFUlc3am9SRjJmX1BfNWtlbU5pZl9rQmYwSjJObVFDbERvaGhMaGxnQ3NsZ1dDN016SDRGYWxva2EySElGTjVnSUlkemxoYXBJNE9kOXh6Y29PSTY2NENvNXRORFRBa0RqR0ZvMFR0QTE2MmZOSzVOUElYVERidzFyX3BoMXdicw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Tue, 02 Jun 2026 19:04:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Violence Rising in Nigeria’s Borgu-Kainji Axis",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3Q1elhrdUY0cVR6NHM3X3NuLUJqRDdRcWRWeUE1bUhJbnlqSjR0YXJmZTcxOXJ1YUFrRlVDOF9OQWlnbG9CNWpWZ0hwem1fM2wzdHEwMXdGMWV3ZUdfY2EtclpsQlY4cXBhWDEyR0t4RXBGWFpZRXl6S0ZTMkFHcGk5YnRuUQ?oc=5",
+      "source": "Africa Defense Forum",
+      "pubDate": "Tue, 02 Jun 2026 18:58:24 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "RCCG General Overseer Adeboye to Tinubu: Give security chiefs 90 days to end terrorism",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLVlKV3prNlBjT1dnMDlUUFdPdzF4WlpzdHNZdHhJTzNrelNXamVMdFo0SU9nS2FYRGlQT0dZa1hqSFMzaVRWWjJDOE80Wks2TFdjd3lVOXVpeUI2WkJXaG5xWmxkcXNPWGhBYzJ0b0ZtSnBwcndOcTVxRTlHbEFad05qVjU0OUx3RkJNWklPQjRQU1hIQnI4ZjQyMkp6d182R09BcE1HOGhiM28?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Tue, 02 Jun 2026 18:51:51 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Insecurity: CAN declares three-day national mourning, seeks emergency security measures",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeERfd2JKUjRpOW5lbldvbjhUYjNyQ0NJdUVUSkljdUhtRWZwZTJiTVRodkV1QUVyRmZodUlWXzNKek40MkhhTEwtUWNEaE9HVWRYOGQxRDZxTlFfWVpqcmVNbUFNOXMxTjROdnJRQ3VEX2licVZNMFZxcHctVU5XOTFrQmpjTkVwN3VrUzMxd2d5X0tXVURnVHRDd21UZmNCUzM4M2x5bUQ3dXI5MVVmR2Z1QTRDY3AwYVd1azlMZw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 18:49:27 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "CAN To FG: Declare Emergency On Security Now, Stop Killings",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2F2YS10aENCM2VlbW1kUHpoOGUwYUdxb3pCYzZqSTlxNUtpZDR6RjFOVzUwVjZXWkFmUVJOb0dRNkpxMXdxYTZadlN6dTBCT3VlNUlwbENuU3daVUl1ZUhHUTFHbk0tRGRfNFVtMlVtVnFlNHg0czBNU2xpN1B2TkFGc1RTR2I3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 18:38:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: CAN Declares 3-day National Mourning",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BXzRkbzU5SlFOOUFEVlBsUnBLMHRlUXZ0cHotU20tbEEyTW5GbjRyOXNCR19fMmNBa3ZOYTgzdHkzZnYwQ0hTZXhCaHV3aGg3dk1fX2VqbkdHUnVBQUFrb3FKSFZ2eXRudDFlTW1BcGUwWTZKdUE?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 18:21:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "‘Get Rid Of Terrorists Within 90 Days Or Resign’ — RCCG Overseer Adeboye Tells Security Chiefs",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVy1aV1FEb2NVY0psTm45WmluS2R2VGR0WC1ucWRNV1hWT0diZFhrN3E3a1U2UVpVT1h0bE1Oc1BtMTNMTWZCOXNNczRtSmQzLVJsVVNCSUVsWnVmUHN0eXJ4LVRMSW4yeFpxZnptZ2xCa1BlREkzdHpEenREemc5bUp2eEg2QmQ2aE9uTEdoLTVmVWxFUkZGNDNxZ2VJV3d2SEVMT244X05rR2pYX1dSTGdlQQ?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Tue, 02 Jun 2026 18:07:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Energy insecurity hindering Nigeria’s industrial growth, says expert",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0NRalRJSG9fWkwyWjBoM3dxcmZKUEhJa3FTbllna3lpeEZqSFlKYlhoTlZib2tKaEZaVjY5Y1I5UzRJSjlaU3BYUHVQQ0NQVFBnaG85bDJkWUh5VTR3UkFPUi1WcFNVUktQa1hJWEk0NFo1cF9rUFhyVk1FY3AxMkFkZzBHYzZ5WDNZYjNzMmctR3U0WG0xdTBWb19VUmxNbFZZ?oc=5",
+      "source": "EnviroNews Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 18:06:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests 39 illegal security men in Akwa-Ibom",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44U2M0T0FRX0RKcVg0Mm56S2NseHRkdG9IaGxwQnpTR3c1LVRFZ2dmak5rUGx2M3htVEtKdkp1eFFveGh1MU5JcXVUSjhQQjlUdTZRdTNMaUU2eC1HZzdPblBoc0U5aC1IVFBGU1RfdnlJY2xhdjVnQ0ZGN19PcFE?oc=5",
+      "source": "TheGuildNG",
+      "pubDate": "Tue, 02 Jun 2026 17:29:05 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "CAN declares June 14 ‘black Sunday’ over rising insecurity",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGxHRFBMMTdFb0l5cTd5aFMzM0tnSHAwOTEyMktKU1VBOTI1YzN4eW1JWlZrc3d0MGZQbEJ0U3VTSlp6a2RfTHFaVXZTTjNFWmlqbTB3N0k1SkZ6d0xnQl8wNVlYT0xYRnNRVmVNR195cXhmelZ4WXl5VWNXT1R0NHd3aWU4QjF1c1VkWkE1UndkMjg?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Tue, 02 Jun 2026 15:49:06 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu Applauds Nigerian Navy’s Contributions to Counter-Terrorism, Maritime Security",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTEzOEU4QUFFUzMybVdoRXVQdDNtQzFOcXhRUE5OdzVxUDBYaDI4R1VFZk51d2ZnZnRHaWVuM0ppV0pnNk1tTEZRZ2VsV21ISVV1Y3ZPa3MwTVYzNGF2UERGaFVjNDI5b0JtZG1LWkNoa19aUUZpS3plWVRwaFNLUk9DZV9xS1hnV3ZLanRIOXdGWlE0RTJuOUYyN0NBOEtZSzhnS3NoQVhoNWJkRTRhNkp5cUoyUW1P?oc=5",
+      "source": "Radio Nigeria Lagos",
+      "pubDate": "Tue, 02 Jun 2026 15:47:33 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Adeboye Calls for Elimination of Terrorists, Sponsors by Service Chiefs",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalljRTNYRGxOVWZuUFVad3pYMmM1ckVBWE01NFFINFR5Yno2Z0d4QzB0RnVyOHZRblRidVAyQmhwV2RIbmlILTdQQnlJTWhEWDR6eGNkSmxKWU1PZGx1aU04Rk82eHRQYTZOOTAtQVJwWWVfVHY5T1pJQ2duYTk0aDR1Q3VzdjZ1bGdHNl9nVG1fdE5pTUM5czJn?oc=5",
+      "source": "TVC News",
+      "pubDate": "Tue, 02 Jun 2026 15:36:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria. Unremitted pensions: The silent threat to workers’ retirement security",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGJRSklvQW80U3ZLZDNNQlR0Q3F1TWRxQ0FXajBIbXlLSzBCdDV5QUxqTVBsWEgxV3FHd0VULVZYNmpUTndaREswVUt2eE1ESERadDVxemkydnpYQlN5M29nRGFOempiaThxcmtESG9QeXh0a0h5dGtRV2JXOW9DVjJJUmo2UzMwVWNNUGw5OGVUdWpFc1B0LTRxeGRFWk54UEw1SjdiZUNtNk00ZFRDbU1rYUxWZGFwUlIzdQ?oc=5",
+      "source": "Pension Policy International",
+      "pubDate": "Tue, 02 Jun 2026 15:22:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Oyo kidnapping: Nigerian teachers protest abduction of schoolchildren and teachers as victims still dey captivity for ova two weeks",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ualg4dmY2QWFxODVlV2tzOW1zV214bDdSRFJBY0Yxa0JpUnlBRW1yZWpXUTJTTlFwRnlqV0o0OXM5TnhxeElYd0VzVXMwMDNMNU96Wk5MdGpBYTRr0gFiQVVfeXFMTzd6cVBYSUVyT3BnbC1Idi1VbHd1N2VDTWJUTUtRVW5ERGpYdUttZ1VIRGwwc2VKVnVMZk9uYWE5TWVYRTlMSGROREZCUkdjVFRVQ0lLQXNqc2tQWjQ3aUp3M3c?oc=5",
+      "source": "BBC",
+      "pubDate": "Tue, 02 Jun 2026 15:01:29 GMT",
+      "category": "Kidnapping"
     }
   ]
 }
