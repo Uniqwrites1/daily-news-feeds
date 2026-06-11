@@ -1,19 +1,75 @@
 {
-  "timestamp": "2026-06-10T21:43:12.252Z",
-  "generatedAt": "10/06/2026, 22:43:12",
+  "timestamp": "2026-06-11T01:01:15.655Z",
+  "generatedAt": "11/06/2026, 02:01:15",
   "totalHeadlines": 174,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 127,
     "Insurgency": 10,
-    "Banditry": 9,
-    "Kidnapping": 3,
+    "Security News": 121,
+    "Banditry": 11,
+    "Law Enforcement": 7,
+    "Armed Conflict": 11,
     "Traffic": 3,
-    "Law Enforcement": 6,
-    "Armed Conflict": 10,
+    "Kidnapping": 5,
     "Military/Security Operations": 6
   },
   "headlines": [
+    {
+      "title": "NEF demands security emergency as kidnappings, banditry surge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkhaUUpvUXJEdjFucFJBbFRoVGtqZ0ZteVJUemxDWWFNZ1l0TUE3Q1IwS2ZqcVNCZk5TQTB3XzVTcW13VzVXdWRrQTJTaW1MTEZHVDJockxJMjVNT01ycGZjVDNjcW8weDFMLXlDeW9DTWVlcnM3OTZUSjFQMlRmV0Yzc2FwLXRseC1tQzJn?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 10 Jun 2026 23:38:10 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Kogi State school attack: Six-year-old pikin, vice principal dey among pipo gunmen kpai for Kogi as Edo receive advisory on planned attack",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WRVVPblpSaHozdVZfRHg3UUp2N3hfV00za0ZDRlUxWDlTV0hDMU04aHl6NjFHOHlZR1o5SzFXZ2VHR2l6VGM2ODMzQ3RzYjZaOWRHUzNOU1lmSGJz0gFiQVVfeXFMTklUNlBraFJSZVdHT0tfZk1JWmdWRldxUzlTMm1oVm5PMnd3enY1aDlObVFuaHVUN2dPMVdEVGZfZW9WeUZpWjRaZmFwelg1ZXJpcXNjRDF3a3Bib002M1Nnamc?oc=5",
+      "source": "BBC",
+      "pubDate": "Wed, 10 Jun 2026 23:31:32 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Zamfara gov’t supports security agencies with 50 APCs, 210 patrol vehicles, drones, 600 bikes in two years",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOTBZUHlfYjFBWjhtbEtFYXZqNV9QdkxDOXNwWGdoTG1iN2JtS1ZteW82OWZIcEhfeHh2eEpkUWVyUnB2dnhuWjJneFJ4cUpCOFFmOUZySHNPOTNEc3owTGx3QjhMd0s0UHV3T2Z4MnYwQTdYdl9uR2o2X09qekYyVUxPTnlFRlFHczZaSUFSQ2hLR2pXeGNpT3oyM3FmcUs4WnhKMGNsZ3h1dEw4M05fc19vdVNzTW9Hd0prSFlyUVRCNXZGR1RycU9VVm1wdw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Wed, 10 Jun 2026 23:29:21 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Customs, Police Deepen Collaboration On National Security",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVk12YjdFRktYT1VQSTRwU2ptMG9yMjlZSTJVYUk3OFBFSzFJRGhISlYxbkVkNVJDUUpiVzVhQ1lQZXpCSHFEM1R6UzhhblQzbzZaLTgwOVZHSU1Kb29vXzZXTUpTbU9UaEtJNlpjOWIxZ0tiUUlhM1VKOVotdFlGNGlxSWdFY0E?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 10 Jun 2026 22:47:46 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Insecurity: Badagry West LCDA moves to strengthen border surveillance, community security",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2FUTlMyOWtXT0xTZk5IT2RzR3hEdjFrdHNMZXBBZ2hhbU1oeDFhOG1zWEhZR0ZUUTRMSlpuVTVCWl9tLWxnNG01OFRLQUNlekVBOFExUWctLURJZWRoSWY0ZV9OZmJ0SFVpblhwdGxJa2hVUkhybWVPYXRSbmRRSVplZVMxcVlOSWY5ZWlOYUhzczVzekpVaG1zVXFvM0tYRk9tZmlKV25YVGlkWDJmc2hnc3VDa3NSc0RoZjc2U21VUdIBxwFBVV95cUxPV0hxS19fX0FhWjRkMHFqUy1KQXNla1FtaHN6N3NPVWNlQ2NCMHlqZGpfTTduWEwzSEJKUWxuem8wS2RieHBFWUVPbk96V2kwSTNOMkpNR25iQmhHVTZzaEpYWWYzV05qUW43Rm5QeG05MmE5R1FLV3JObXE4MkxsdjlLbnZuSW9fNlV6SU12dUxRUUxDYmN0a1dJR2M5a2JsNWVPU3NxVGd4dU1KTElKcWJwMVFHYUZrY1ZxcnBGMjlOQlF6Nzdr?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Wed, 10 Jun 2026 22:22:24 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Sad our children now pawn in deadly ransom economy – Peter Obi",
+      "link": "https://www.vanguardngr.com/2026/06/sad-our-children-now-pawn-in-deadly-ransom-economy-peter-obi/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Wed, 10 Jun 2026 22:18:24 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "US military says carrying out ‘self-defense strikes’ against Iran",
+      "link": "https://www.vanguardngr.com/2026/06/us-military-says-carrying-out-self-defense-strikes-against-iran/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Wed, 10 Jun 2026 22:14:44 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: State police not solution until institutions are reformed — SAN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2RSR2d1SWRMTm1BQXg0anAxLTRSRHREUGJvWjdhY0hJamlrYmVBajUxbTktbTR4UndxOTBRRFVLQVZSNnlGWFJlT1pQM3ZodTJOUnJXUXRwV0oxbmY0dXM1Mm4zT2F0Z3dUOTFzaHZJR2YxcmhaSXBaMDZ3LTBGZzBFbTZ1WmhiSWtUMWdXR2I3ak9ubUZjZ084X2pZZ2NqUjE00gGoAUFVX3lxTFBsT0IwaUczRzl3Mng5aEdXNXBhNkE2UEhWYkJDZ2ItUnZEYVZRVTJJdG9nNVVoZW1TcHpTTVlEakhNb1kyUGI0SUtMeVZOZU1WZHBnUm5WOEZNU2t5LTZsNV9OYW1oUUdLS2pQNVdMXzJ3Wjd3T1E5S2g5eTVwVldqMVBsYm9IU2VHVnZuOFVDVDQwQk40ZWYtaVQwblZGLWRsVk9IVUtyaA?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Wed, 10 Jun 2026 21:45:00 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "FG, NRC launch investigation into deadly Warri–Itakpe train crash",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGExSDJnVnNsNEhaQzEzbmw1ajM0UEZidDdEWUM0MHZnajNySWs0UUNIR1hYYnFXNjdMZHRzQ194aEZhWU9Hcmc2ZXo2bUZfcHZLRlBmOHl6QVd3Uzd6NWR3ejJKdlA0WkVGaU5ib2JxeUlCNmdTV3JwOGJyRDYwS2JUWU5tUzJFd05HSzVSVkJKdEw0?oc=5",
@@ -71,39 +127,18 @@
       "category": "Armed Conflict"
     },
     {
+      "title": "MTN unbundles MoMo operations in Nigeria, Uganda to unlock new investor capital",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0RWcTZnTnRCQzd0YTdmcWFpdzFldjF1eTdlOEpRd1ZsVjNsU0VvdlFvaEZDZ011aU9Dd1ZVMVdwOHBTbVAzYTFkZjhGQ2sycTBfMDQtd2hVWlJ3UmVodTFzVy1uRnB2N2lxV1dvNk1qYzFCb204djFlTEE2dXVvVFkyUDFhTlUxQkYxU0RLSW84cjFHclQtQU5xMGtSeFBROU9RMFJoSm1sVWhNWXpjYlIxMjk3UVFFWU9VOHBB?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 10 Jun 2026 19:28:23 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
       "title": "Insecurity: Nigeria Bleeding, Declare National Security Emergency, Northern Elders Tell Tinubu",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjlaSWxFNllHY045NGV2TjZwQnFrZWRkc0RUQ0xIcVFNUHFYZ1VHUXJEOEVkMFh3a0lHWmswTlFpU0VBb3dpQ0JZaVJ2VkxRNGhBVUJ5U0g5UUFBaG1VSm42bzhpeG5lNzh5VFNZbnNRWU5NbEhiXzhOMmx1ZHFFb2ExNzNyQU9JVE8xbW5lX2RuYURCQ3hiWG5DS2p1TWVKVDlROWdOZ3pjdUtNUkVmWXdaODBCQQ?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Wed, 10 Jun 2026 19:25:45 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "MTN unbundles MoMo operations in Nigeria, Uganda to unlock new investor capital",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0RWcTZnTnRCQzd0YTdmcWFpdzFldjF1eTdlOEpRd1ZsVjNsU0VvdlFvaEZDZ011aU9Dd1ZVMVdwOHBTbVAzYTFkZjhGQ2sycTBfMDQtd2hVWlJ3UmVodTFzVy1uRnB2N2lxV1dvNk1qYzFCb204djFlTEE2dXVvVFkyUDFhTlUxQkYxU0RLSW84cjFHclQtQU5xMGtSeFBROU9RMFJoSm1sVWhNWXpjYlIxMjk3UVFFWU9VOHBB?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Wed, 10 Jun 2026 19:18:45 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Panic in Cross River as Cameroonian soldiers cross into Nigerian village",
-      "link": "https://www.vanguardngr.com/2026/06/panic-in-cross-river-as-cameroonian-soldiers-cross-into-nigerian-village/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 10 Jun 2026 18:59:47 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Reps vote on state police bill Thursday",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NRTlXeGFBTTNNMDR1VTF6MDJYUmU4cDZkNnhETW1RVWJCS2lhQ0JsYnU2MkwzVFRQQ0hYNkZQc0pmNjdWRjAtQkZSN01jMWNubFlwSmNPS1M0VzlHTGJzaU12UGI1c3BOWEpUY0kwRjkzc05yOG9VWFdiYw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 10 Jun 2026 17:22:55 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Kogi Bandit Attack: Obi says targeting schools is direct assault on Nigeria’s future",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVkxZGVvNDBXZXpNUXpXbzhZUm1fZFlnVFF6RlItQ2h5cHl2R19od2pmS21yTUxWNmo5LThMQk1EYXNoX3RPcmxVSmlkU00zazBzNnFxVENrdHdZazg0dEhBODVZdkpTNW9aWlZ2RktRUVppVnhWaWVrT0VOblJRSFNWSEdBcHhEbUNJenNMdkhYZ2NDMl9UNjNxa1VSdzdmelBzYnNWckFKS2hZ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 10 Jun 2026 16:59:00 GMT",
-      "category": "Banditry"
     },
     {
       "title": "Security in Nigeria, South East not for political games — Bishop Ikeakor",
@@ -117,20 +152,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RMkNhZWpab1I1VXNleUxHaHl3TEpJeTZjWGJISXo2OWZtdVdSWmEzakRKbVB3aDNkdEg4djlDS1pGeVNEejdURlhkeVo1QnBvYnNWS29KTEJsS2ppdmZKSzdhTnFiUG9scjZLY3B6SVBFZFE3?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 10 Jun 2026 16:23:27 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Defence Headquarters Debunks Fake Video Misrepresenting CDS Oluyede",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUJrZk5Ud3Jid2h5TnJIV1lSMzRBSTZhN1ZQRm1rTTAyYWRNNnQ2Y29vX0lHdjRqVW9temN2VTF1d0I3QXRVYUcwTFFtaFNhYUhvSXo5VjNMV3lSTUhtU2VXRVhxMU12QmFVUm1YbGxjY1ppNG41ZzlJUjNpTzZDS1M4eFJCWklzMWU2M3l2VTg?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Wed, 10 Jun 2026 16:22:05 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Businesses Risk Sanctions As Nigeria’s E-Invoicing Deadline Nears",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlR3UE5Bc3RKbHpBR2JQNkd3bDE3dHFIdElJVDVhM2EyRmlZZ3V3c1BNY1ExQVBoclB4OThvUVcxTlAtNGU3Vi1WMEtDR1JvYUZPUVpXNmRNTzhWRHgwbWo5Nkt1dm9ib1NFbjFQVmp6THNLcmNGekp6dDZVcGJUbjBMckFzd25tZnJZSw?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Wed, 10 Jun 2026 16:14:48 GMT",
       "category": "Security News"
     },
     {
@@ -155,6 +176,13 @@
       "category": "Security News"
     },
     {
+      "title": "Reps to vote on State Police proposal tomorrow amid security push",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHNVYURvY0l2Rm94YVBRRGlfWjg0Nk9OcjYtNjN5NDlyU3BEUHdvZW1yR3VEb3VLbTczVnJrUmIydzI5TldsOF9MOU11aHp5N21WdTVGMngwRE9GS0VRMFBvVFBQaGp1bGpNSUcwVVBIaDVhSjFRRW5kVEV2Sk1pSnhhNHBfMGZQWUJUcFVtclhscjBOdmxpVE1yeXZiVHl1SmN3StIBqgFBVV95cUxPYlhJV2toMnRNMUVTNjlNNXRyN0hWdkhZOWIwR3Z6NW16akRUZmRTckNrRndjTkE3ZFpfWGR1SkZuWW90RlphcWlISGUySnJFU2VCRDdObHNNajlfYWdmT2dRY29xLXpieVRfbWItc19RQU9QUjRwYUdicjJiOE1LM2RDakFoWXRLWUVibHBDdWNyVVF5T3RpRF9wa3hkbmNXbVREUU5KQmlpdw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Wed, 10 Jun 2026 15:15:31 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Senate Committee To Probe Killing Of Benue Health Worker, Insecurity In Benue South",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzVLQlJST1pQX0x1cEdGdDctbS1CUDVtczQxdEpoc3BfODJvdlFkak9zczIyWmFld0JvcU51X1dhT1pvaUFNRTZmME9aT0pBa1plMjdabVBuRnEtT3FxVi1sV1BSdkQ4NmNZcFEtRzBXTC1sbEMwR0dKcmllanhUbUVDUUlramJEUDE3YVJBRFJwQUxjNHNTcnJkZHdfNWJyOVVyVWRwX1JGMDdyaDYwSXI0NDBHR0tIc2pSMmtB0gHDAUFVX3lxTFBpT3RNa2doTUVzNHJfekdNeWpGZkY1dHFjMFB1MjR0Tm5PY1NlT1ZvbUg0cm96dWhQS0oyak9RZkxLZ2NKT2pFVE01Q2k3VHBRaUxyenJ0a2VEYkdKdUNKYmxTSDFfdU4tY0FMcnk2eDdfNXFCUjdXYjlCVVBBQ3FEMlpWemk0NXdXYmREZUszbnNVUjhnSGsxUE1WcVByMTVaQzRHUDNUOFRMR0RJZl9aaWlzRGpqOUxpcnE5NjVIVW1yZw?oc=5",
       "source": "Channels Television",
@@ -167,13 +195,6 @@
       "source": "Vanguard News",
       "pubDate": "Wed, 10 Jun 2026 14:34:37 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Sharia Council urges decisive action to end insecurity in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZldQd180SVpvOE9KYzVuR1piWFJNT09mMEJITldMUGhsY2FaQ2paZ3V6TllDaEMxZkg0MlhWeURmVjhRY3FGbzktcnM5WjV6WWVDRzdBSGlGV3BSanNDZGtibTRrLVh1Y0xuSnZEQVIyRU9kaU5GNFkxbmMwd3FoOGxQS2g1R0g5c1hpY1NUTnJWdHFoYkVKQWoyY1dFeHM?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Wed, 10 Jun 2026 14:30:40 GMT",
-      "category": "Security News"
     },
     {
       "title": "Nigeria extends registration for voluntary return of citizens amid South Africa xenophobic attacks",
@@ -195,13 +216,6 @@
       "source": "The Sun Nigeria",
       "pubDate": "Wed, 10 Jun 2026 13:29:28 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Okolugbo: Nigeria’s Silence And Delay Emboldened Attacks On Citizens In South Africa",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUxOM2haVEpmMU0yRmQ2aWRxdktER0EzNTNDSU05Mk1NaEJyVF8tejN1TzVqVlFNQjNybERFbmQ2Z0JwVXR6YUNiWmMzNzEwS1R4aDZSMklZZDJhNF85OUo3N2prbElEOFhCdUphaldKLVRxLXcwakxWMkNiYjRXOXBHbmdzbFB1M1ZjUkRSaVRiUE80WVpZMmxsSm1oaFpDUWNwSlFKbw?oc=5",
-      "source": "Arise News",
-      "pubDate": "Wed, 10 Jun 2026 13:09:25 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "NUJ Seeks Stronger Media-Security Partnership With a Summit in Abuja",
@@ -271,13 +285,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHlKMWlFVGYwY2JxOG5iYy1ZZC1kc21YbFM0cFhDZUlNVW5NY0phVWNSNFJ1c0V5eXlpenFtMXBNOGhFSGw2bVFKaHdsWWI0OVpyM0xZZ0xMNjZvUE1NZ3hPeU96RDhxdk1tc1dJbWdQa3B3cmdZa0FjSlpVWFdxRGpFNU9lZXlqMEtEZWRXVHZKcmx4S0FEVVdyM00wTXBsdEhoSjZiaFJ2RmxjY242T3dXbU1kTzJYeGotcE51SQ?oc=5",
       "source": "Nigeria Info FM",
       "pubDate": "Wed, 10 Jun 2026 10:34:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "DEFENCE MINISTER COMMENDS NIGERIAN NAVY AT 70, REAFFIRMS COMMITMENT TO MARITIME SECURITY AND BLUE ECONOMY – Ministry of Defence",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnBENThYWVFzR0c0WHRXX1BmbFdpN1gxOEJRdk9ZbkUxS3BaZS16VEpFT28tOUNiYXd4bEFTWS1ZdFFSNlZOMzRyZlRDdERHY2RMOW1yYl9fTU5Xc2xoXzczWmFRbWNMcnYxNlpwTWx4bGVWNTJJd0VOSzUwajAydTBBd28td0lJaGxLRVowTnMzNEtINVZTbTRIdHJlWTlieGFmS2Y5MmpqSlZ1eGZGUmM2YkIyQS1ZNlQxNWxFVkpBNnEtU0FzYkpLMkpibjFjNS15TmJn?oc=5",
-      "source": "defence.gov.ng",
-      "pubDate": "Wed, 10 Jun 2026 10:23:50 GMT",
       "category": "Security News"
     },
     {
@@ -355,13 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkc0SVF0Y3pBUWVac05PaEJqM2RJd0tXMkVPSExCbVo4ajg0d1lyNExSSjhWWUMwNU01VFVFNFo1Y0ZmUjlRQXYzUXd4dThwUmhES092WXBiVlhYYWJ3c2lRbWZqeFpxX1RUTFhKakxRWEFWY3c5eDNna3htZHlfQm9BOTYtNUgyX0J0bkZLM2Z0T0FqRGc?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Wed, 10 Jun 2026 03:53:39 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Indigenous Arms Production Gains Momentum As DICON Partner Unveils Tactical Shotgun Platform",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3VTNVZRWXVCMmRhQ1hlTmtMaTR3RVVtNjIxemFXeHdTemlwaEplNXZZd2lVemdwd3lVS1RDb1cyTE1SWWRsRDR2b2xnV185MlhlNlZ0bjFBT0JBUWVaS0ptX3htdWwyei05Zm5kS2xwNnpvSV9Wdzk1WkdsZmtGQ0hteWxUemVWNzlKWnpzUFRBb3hpNER0aUE2NzMwbWZfOFNEQlNkcENrWnlJZlROV0ZqVjZZT081YnpQbWxwMlgtZVBUYVFXWTdqWkI?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 10 Jun 2026 03:50:43 GMT",
       "category": "Security News"
     }
   ]
