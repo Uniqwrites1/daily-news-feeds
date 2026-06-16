@@ -1,24 +1,73 @@
 {
-  "timestamp": "2026-06-16T01:10:26.528Z",
-  "generatedAt": "16/06/2026, 02:10:26",
+  "timestamp": "2026-06-16T04:37:23.018Z",
+  "generatedAt": "16/06/2026, 05:37:23",
   "totalHeadlines": 167,
   "dominantThreat": "Security News",
   "categoryCounts": {
+    "Security News": 110,
+    "Law Enforcement": 27,
     "Banditry": 5,
-    "Security News": 114,
-    "Law Enforcement": 25,
     "Kidnapping": 6,
     "Insurgency": 7,
     "Military/Security Operations": 4,
     "Armed Conflict": 5,
-    "Traffic": 1
+    "Traffic": 3
   },
   "headlines": [
     {
-      "title": "Killed general: When the protectors need protection",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFphb01MZjBJNmV0d3h1MVZscWZPajBic0VRUjVDa3pIeVlRVXVYVnhlckFteDhVT0JMVWJtSUR4RjFSUEVWMFNjRWpta0ZyVVFLZHRwYXczN2VBcUljMXlFaHBtZkEtT3JJcmphRWFadG1oTWphNFVwZVpyM2xnWXZXUTBYcGVnUDBlTDRDV092SGtCR3JBdWdSUHFKWkttSTVtbkVjNjlTYWR2VzVZaUd2TQ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Tue, 16 Jun 2026 00:51:23 GMT",
+      "title": "Years After, Rural Nigeria Still Faces Broadband Gap",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHk0TXZNSGxsRmVWbUNQeXBTX3FPYXllRjQtRUZWalRVbm1XZ0VHdlEzVDFtVkNzYWdIel90NFhNSWo0ak5pcVVkWllkRnNaYVBiZ3FXTG02Zi1RWDMzdW00bTBWTWRScFlSMFJ0VXVoN3RhUG1UN3JqMThIU2VSdXBFZXU?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Tue, 16 Jun 2026 03:40:31 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Security agencies arrest 46 suspected illegal immigrants in Ogun",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1V0LUk5RFMxWUNwcGZSaGFaenpvZkpveXdlUjJFanNreXNDc2Q4MzZaV2djVG5QcjY2eXpHY0xCMmV0LTBFdFBFN0U3Z1cyMFlkaGwxelRRUmFqRGJBMG5pSnd4RURZOUtBM1lHTjdHaG1KUm43bDVpd2ZjZ3hZXzB2UkU1S3RPQ2djRjdRTzB3N3dtaWtneG1mcm5hR1IwaVJrWU1tTQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 16 Jun 2026 03:15:44 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Customs intercepts 130kg elephant tusks, arrests four suspected traffickers",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEMwU18zdlVpWGtlWXViOVlEUlQ0di1JOXhvWFNUbWpYLU9nbWU3RFhOMThnc2VoR2ZjLUd6dHl1VzlsSG9iUUVvZEgxMElTemdRY0RuempKNF82WmNhZlhIUE5XR1YxR244WlpyazFuMjFfS3piUFFnWTJKQ204dU5KSjNmU1BHc0hwb0ZzNkhkUWNTXzZnNmFpSEJoQnBQOFRDbUlRY2tKa3RPLVViUlFuWHY?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Tue, 16 Jun 2026 03:15:44 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria Moves Toward State Police as Pressure Mounts Over Christian Killings",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFBvY2NobER0QUUzLTBsOFNUclFaSWlmelJKTVBIWWpZQzJDVlcxOGVwM1ZkRVJleTVoSlQyX3R2VFRQVC0yMHBKSExDdUduaFZfYjItNkJXZ0d1d2VsVzBPb25aLXVMYlkzNjNuQTdqVWtfdFJ2ckM1VHZ3Rm1VTjB4NFBlZGJtNmpvNEI3RWtKT1g2NXhqdkdHeEZlcmtzdUg3U21ldjNNQVdiYUhz?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Tue, 16 Jun 2026 03:09:35 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Insecurity: Nigeria to begin digital postcode rollout in October -Minister",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHVsWFNuM2JvM0toek4xNm4tdGlVWHh1NjZoRGlZNmw4X0xwaGxnV1FvaHdCMGtlbzA1blJGVUQxVzVrVmlObjdFSWFqdkNpanBrcVR2eFY3SXNpcEpqOTRjOVpZYXpGY1F5bUZWTGM2U0Ntb0tiVWJ0MzRYWHRIMzdxNGJSNHo1d3Y1LWs0NUJrZHBYeFHSAZsBQVVfeXFMTzBNMlFwVW91R2JCS1o3aU9SaFlMSUlxcU5QZXZ3QlFXMHlhTFVBN3lHSG5jMmhpWWNuT3UwbzZ3RVZsSnlNWFBLQkY1VnN2OGZsWFNUWXdadllpR0JOV0pmR0xRdEJKM1MzWlFDRUlocFdCOURmMXozZnR2WXBFWHkwcGMzZ0luU3RMdTE5S1Z3ak1Uam5DZlZMRlU?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Tue, 16 Jun 2026 02:00:16 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Army, DSS, NIS arrest 46 illegal immigrants in Ogun",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hdnMtLXZUNGJsMXpOdmVieE5SZV9rcWRYTWpVLUNTRGpXaHc1RE8wbHllNmFKd2JjUHQ5Ni1JejVScVhZY1pSZGUxem85OGtJR0NsellMbHpJVGFvRTRZV3JTSTNFQnM4bzR5WTNndmpleWJyaHN30gF8QVVfeXFMTk9NWlZxMkoxc2JnS2xDMDA0QnF6NXhVSmFwSVJGT3FBOW1SMEppMi1GQm11WjFwMWFXLTd4WlZ6YWdMNDNJa3BlX0hoUExXeTlWTlhJWk1hdHFCZTJPcnlvcDZSQTdFVE9rTk4tV3hFc29OZS1WaFQwTUNJQQ?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Tue, 16 Jun 2026 01:30:43 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "More than 90 dead as cholera spreads in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0xseFl2ZlpqS2hkV3E4R1Z4aTNKNm5NeXlBajgyYmJzYVJvMWJEZm1CWmRMN2VIVWYtc0ZTaFJvTGVUZE9NTjY2TXN0b0dKUEN2d09fcWdmQ0MwZHZnenFPXzduMl94U1U3NFUwVkQtNFRGdmhpaEhvdW0ybUM5MHFmWmhCNW5rSHU3aDlIZXY1LTFBSUFYeS1IZkRwT2QzWFEzU0EtOA?oc=5",
+      "source": "news.cgtn.com",
+      "pubDate": "Tue, 16 Jun 2026 01:27:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Major General Rabe Abubakar wife rescued: Nigerian military rescue retired Major General Rabe Abubakar wife",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQzNBV2JqWDNJc2lIOWc0aWtkNkhIMFNCN3VXbGdBcVMwcmc4REdIQWNOcWs3c25HOUpkS0w2QWhzWTZydVVZSURrOTVucWI2eXhvNlhMMHVkT21N0gFiQVVfeXFMT1FHTlY1YmE4cUk2QnpWQ0lsZXdSem9Ick1ZdFpfVlVPeXdNTWR3R2FmMW9TV1FGX3AtSUhIRmxYYnhPb0RYYmFoenRoeDV6UlhEYWhfLUJSb3R3YmI5VUxnSmc?oc=5",
+      "source": "BBC",
+      "pubDate": "Tue, 16 Jun 2026 00:50:04 GMT",
       "category": "Security News"
     },
     {
@@ -85,6 +134,13 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "NSCDC arrests suspect over alleged theft of 60 litres of diesel from telecom facility in Edo",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVB6QlZZdExnRExUaFVqUEFuUjVHQ0QyVEliX0VWTGdxTUpoR2xPdG1UbHN1Zk9IMkdyWEZ3UEFjRnExNmFOYmFTWnBQdnRYVlUzRi01a01IQ29nM0UyLV9CQ3hxMWU2Sy16TGJUV0FpbVU2bW9uZ1BOb20wcWs1UzFlVm9uM05yTF9ydzVXcWdRMkJtNmxUZEtSZ252N0dvcVZLOVFodEh0TnBpeVJSdFdUbzVBY01VZFBtTDhOdDJPVkU?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 15 Jun 2026 20:45:14 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "State Police: The Constitutional Imperative for Security, Federalism and National Renewal",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkppMVRLSUp0SUR1ZThGTEJ5ODRPdXlfT04xLTR3MjFWdF9jX3JBZ3JzcWNsUmtHLVNSdHU3Qzc5RTdSZGs4WEhQY1hwNzhnWE1qOWZDa09sb1BfeERQOVBOamhEQnBaS1AxNTlIZzVMQ2RoVGhabVl2eHpFeGhhWnlSWjVaQUFXSXFkTlBCVDJ0ZGxLTzVnYnVLang3cEFhMV81NE1nMVdOY0FNc3lwY1hKMThsdmZqaGE3OGdERDhXbjdmMWc?oc=5",
       "source": "THISDAYLIVE",
@@ -92,25 +148,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Major General Rabe Abubakar wife rescued: Nigerian military rescue retired Major General Rabe Abubakar wife",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQzNBV2JqWDNJc2lIOWc0aWtkNkhIMFNCN3VXbGdBcVMwcmc4REdIQWNOcWs3c25HOUpkS0w2QWhzWTZydVVZSURrOTVucWI2eXhvNlhMMHVkT21N0gFiQVVfeXFMT1FHTlY1YmE4cUk2QnpWQ0lsZXdSem9Ick1ZdFpfVlVPeXdNTWR3R2FmMW9TV1FGX3AtSUhIRmxYYnhPb0RYYmFoenRoeDV6UlhEYWhfLUJSb3R3YmI5VUxnSmc?oc=5",
-      "source": "BBC",
-      "pubDate": "Mon, 15 Jun 2026 20:22:44 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Police deploy ICT tools to rescue abducted Oyo teachers, pupils — DIG",
       "link": "https://www.vanguardngr.com/2026/06/police-deploy-ict-tools-to-rescue-abducted-oyo-teachers-pupils-dig/",
       "source": "Henry Oduah",
       "pubDate": "Mon, 15 Jun 2026 20:16:23 +0000",
       "category": "Kidnapping"
-    },
-    {
-      "title": "Insecurity: State police won’t fix Nigeria’s crisis, Ezekwesili warns",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2hRWjhEV3N5VDUwUzU2bHZvQ01vQ1BSang2R2h2VEY5TXptSWlXQ2RiMGxlTnlBZG54MTNsNllQS1plOEk3TGRHTXJMWHIwV3JOenE4aEVBZDBFaVFuRkJvdFYzT044ZHUzOFdHRzI0ZGpMdDNYd1AyVDZvY0pYc3JsZjZrT1ktRFE5dNIBkgFBVV95cUxPdWp0TXc0WU9jaENVd1VLS3lRclRBakZVMGhXckt5dkRIeVJSazVDRjJqX3RkQjJhR0M2ckVHUGdRZk5aN1phQzVubk9aVmVaWHFWZkh6ZGtCM2ptQjF0QTJWRkZ3ZlU3TW1kSWg0b011Vm9QRFg0QllwWlB3dG5JNnc1QWdpYzJkUVpIZU9ZTDU2Zw?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Mon, 15 Jun 2026 19:49:47 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Reps caucus leader tackles Oshiomhole over Peter Obi’s security record as governor",
@@ -137,7 +179,7 @@
       "title": "Reps launch major defence law overhaul to tackle rising security threats",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWV5bkdTeVU3TU02Y1Z4WG9BU2FPTlVRMGFXSHdDVzA4djZ0N1ZZLXZyX0JBWW9GcEdGY0VsVTlPcmtVbHpXT2pENXpUZlNBT05UTzhRRVpLM3phdXNUV3puS1EzMDhsLVFFNFZweXpDdU5SRXIxNEJBeV9UeTBvbGR0OHk3NWt0dThnQkQzdW90N0hJRU1fMk9HTEpNTXdPdFFydWFVRQ?oc=5",
       "source": "Ripples Nigeria",
-      "pubDate": "Mon, 15 Jun 2026 19:16:02 GMT",
+      "pubDate": "Mon, 15 Jun 2026 19:17:14 GMT",
       "category": "Security News"
     },
     {
@@ -146,20 +188,6 @@
       "source": "TheCable",
       "pubDate": "Mon, 15 Jun 2026 19:16:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Reps move to review defence laws",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mMnRPVEpIdTlkaDJyLVY1SmF3QWJPeWdRQ1N6dGxwTE5rOEYwVmJVc1lRWVJ4cE90Z1k5eU1ZYjRiRjU2ZG5BNkRZTUJXaS1MSUlmMVV0T0I2VV9TRllRT2NwcGdhOXAwM3hmTTVyeDltQQ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Mon, 15 Jun 2026 18:57:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Arraigns Over 600 Terrorism Suspects In Fresh Abuja Mass Trial",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHhxU3J2M3c5NmwtUjY3Qi1TWWtOUmhUVW40Y1VqX2t1WktUdmlfLV9VcGJOczdjVmtrSTg3d2x4SDNVcF9pb3pfcjNEemVTUzA0RFNtR21lakZhcXBJRTAwNDE4N2JLSm9PQzJiTUZ6d24yYTJRckt2OXl2QTVCb2g5YUszd2VjYkxhY1E2RGpYY19ITTFr?oc=5",
-      "source": "Arise News",
-      "pubDate": "Mon, 15 Jun 2026 18:37:19 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "Reps seek defence overhaul, say old security methods have failed",
@@ -190,31 +218,17 @@
       "category": "Security News"
     },
     {
-      "title": "Boko Haram mass trial: Nigeria government arraign more dan 600 terrorism suspects for mass trial",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05X1FvdVhmVHN4VXJSeVoyeVBSRy1oQ25aSGRkcGt3RllBNkdkalZqdl9TcVQ4cUhwandJNzlqZ2dzZFVJSHZNRUJpREJ6UkxDVVkwU0t1Z2Zla1RS0gFiQVVfeXFMUExORjZxeEZReXVENlVUUkJJT1VTaGgxSHgzWVdWQ0VGRDJhX01uYmtxNl9hdEVGR2phWWlxQjA5d0stNzM1MDNwWjVRRHZUOE5XX21BcEpSQlllNFpVZnRNTEE?oc=5",
+      "title": "Justice Minister defend why more dan 600 terrorism suspects dey face mass trial",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05X1FvdVhmVHN4VXJSeVoyeVBSRy1oQ25aSGRkcGt3RllBNkdkalZqdl9TcVQ4cUhwandJNzlqZ2dzZFVJSHZNRUJpREJ6UkxDVVkwU0t1Z2Zla1RS?oc=5",
       "source": "BBC",
       "pubDate": "Mon, 15 Jun 2026 17:52:44 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Gov Abiodun charges NYSC members on patriotism, security, electoral integrity",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3RrZHVYQ3czTEtWamZuSnUyVmlNb00xVXROdjhleFI3YzNfTkZ3cTRycDZIb191cDJ5VmFWd1ZLaUh4Snp3YjNXZng2SE4xUnYwVEhGMVJfeTlxeTlfc1VhNEQ1a3hPT1BCNXpQSkxseEhDTzdSZFJGeVpOT0NoN3JZUFpBTWpRUmtHbUZQaGZoOU9kVG9PWWZvWENiYVcwencyb2szUWJXREM2OVJJS0t2YVVhRmRtSXJ5d1BONVBpWjM1amc?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Mon, 15 Jun 2026 17:18:42 GMT",
-      "category": "Security News"
     },
     {
       "title": "State police is not the answer. Restructuring Nigeria is",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlhtNEh5OENjR3NES2NvQlVZWW01T1hjdkVYN2dIQXBncFgzZk9rVXV5MXItblpJajZYOFJ3eWZ2U05pNFgxMTdnOXpDdGJWLXltcU43eXRZX01WT3lZeExCYThxTldPMHNLQkI2YWpKLWtVMDV1ekNIN0RCUEJ3MkFWMEtOV28?oc=5",
       "source": "TheCable",
       "pubDate": "Mon, 15 Jun 2026 17:07:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "State police won’t fix insecurity, Ezekwesili warns, urges full restructuring",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjJZYlhXZElzdWNCTy1EaFB0UWlEN2dQcEZRTzRSR21aWkFjbFA5dzc2UlFaWmRBc20xLVQ0ZUN6Q3R0THljTmFMSVRsVk5FcEVTcEdrVkh4VEdTa1JpRWVabDlEMjZkcmhISzRTVkE0Zkl3UkRGeDAwbDF5ME9ZQURXb252YzQ0eHY0VEdwYnhRdzc3d1lXcUVDZw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Mon, 15 Jun 2026 17:06:05 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -253,13 +267,6 @@
       "category": "Security News"
     },
     {
-      "title": "President Tinubu Seeks Stronger Security Ties with Northern Rulers",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHlRSV9ZZGtXc01lMWFxakIxd2puNF83bzhhaVM5eVZBNnJ4OGQ0djZHZUNFQXd0NlpFMXNLald6Nm5ic0JCNmZ0eXYtU2J3bjYzajBVYnR2RWMxNGZtcUc3SjdtU2FnUzNlU2trbjZZWkJ6VzVsbVZMZEJiN1ZtUVN4M3lxNE9YSjJKLW5yTQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Mon, 15 Jun 2026 15:14:48 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Defence bills will strengthen Nigeria's Military against evolving security threats – Speaker Abbas",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnJBbmZjR0NYdFBoSnFaWXBBWVBMWVVIckFoN0xjWWUwaWNOSTMyeFZEX3FTeXZEaWs0eVZKWDFORWxCVHg4V0V4bzB1MUdKN2w5a2ZyLWRRV0lEMzRZRmg4WnE4clcxd1g4ZEdXQ0xxSnlUcjNXdG5XS3BTSDdqTk9XandHaHByeDRwMUhSUW5WbzVVRVkwNXBidlBSWHNPTlhJeXo5VG1wN1MtRXJHQkpFZFkySTc3ZDZ1MjhpRXBZUQ?oc=5",
       "source": "Tribune Online",
@@ -282,9 +289,9 @@
     },
     {
       "title": "Nigeria’s security challenges demand bold fresh thinking, says Speaker Abbas",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRm9sdDh0ZXNWbV9LSFNmM083WF9ER1RnUHhRMGpzSmtqdnlLMElTRFp2RGRGeUF5N3E5aTBHb0hGcUc0azZLOTZMR1BnZHdZVUttQUtxR1V5cTJZMmNJM05DN0xpTmJVZ09RcnlpQ2pfX3BTUjYtd0JpR3F3US1NUnVDSW9xNDlZeHdOMEYzcVlsY3NnQzB0anI5NkNfRlNuWEZqY3h2Z3lWb2VxUFHSAa4BQVVfeXFMUEZvbHQ4dGVzVm1fS0hTZjNPN1hfREdUZ1B4UTBqc0pranZ5SzBJU0RadkRkRnlBeTdxOWkwR29IRnFHNGs2Szk2TEdQZ2R3WVVLbUFLcUdVeXEyWTJjSTNOQzdMaU5iVWdPUXJ5aUNqX19wU1I2LXdCaUdxd1EtTVJ1Q0lvcTQ5WXh3TjBGM3FZbGNzZ0MwdGpyOTZDX0ZTblhGamN4dmd5Vm9lcVBR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlF1MkFlNGdKUlJndHpYWlMwUTVrZWE2ZzUzeXJmV3RIb1FjWE5kQUFadDNBMlMyZnFnaGZ2aGFLOEE2dl9uYmlGbUFFaVY0SVMtTjRPRFh1SGwxeDBvenQwdGRIUjF2SGZCU0pDemktcGZUR25ocGFMU3BUS2xGazBTZTU0bmlPQ2taLTJTcmw5d3llenpud0JnMW81alpWQ1Y1WGh6aFDSAa4BQVVfeXFMUEZvbHQ4dGVzVm1fS0hTZjNPN1hfREdUZ1B4UTBqc0pranZ5SzBJU0RadkRkRnlBeTdxOWkwR29IRnFHNGs2Szk2TEdQZ2R3WVVLbUFLcUdVeXEyWTJjSTNOQzdMaU5iVWdPUXJ5aUNqX19wU1I2LXdCaUdxd1EtTVJ1Q0lvcTQ5WXh3TjBGM3FZbGNzZ0MwdGpyOTZDX0ZTblhGamN4dmd5Vm9lcVBR?oc=5",
       "source": "The Nation Newspaper",
-      "pubDate": "Mon, 15 Jun 2026 14:09:40 GMT",
+      "pubDate": "Mon, 15 Jun 2026 14:07:40 GMT",
       "category": "Security News"
     },
     {
@@ -314,13 +321,6 @@
       "source": "westernpost.ng",
       "pubDate": "Mon, 15 Jun 2026 13:16:41 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Why Is Tinubu Afraid To Sack Military Chiefs? Banditry Can End In 6 Months – Gen Williams",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTR5UWxubDMtZGNnM2c1NURFbTNCcnlqbW1SS1YxanVvRTVhQnRRQWxpM1d3b0Nndjc0TEdhMndtXzZHTVJpR2hoRVBGZVBrcFFiQ2FUdEpoRy1CR0pNVk0xTFBRTHNpRF9fSEc5cjhtaXlCOWUwSTJNZ0NYaHNvZU5nRVV4a1h0amNSSmFvRTFzQzJYX0dYZGdsT0N5V2hYSDJka2ZxaU1NZEVIU0hz?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Mon, 15 Jun 2026 12:42:06 GMT",
-      "category": "Banditry"
     },
     {
       "title": "Nigeria’s insecurity crisis: Why the old approach is failing and what must change now",
@@ -358,11 +358,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigerian Army arrests 46 suspected illegal immigrants in Ogun",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEZ5YjNqZ2syUmdaSVFJYkZmS2RtaTItQ01JVm5kMHdiUFlDeHFXbExjNG9WSmhTUFBoRHkxdU9HRURJTkJuWndaU3V2bVRzMVFINzZJNmdhLWpMYXZqdFB6R191VzhDWk5fdllKSlYwTVVOVURjWl9nYms0NXlLc2lHTzcySUpWNVNJZGY4SmphckhYcjdxTE93?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Mon, 15 Jun 2026 09:35:12 GMT",
-      "category": "Law Enforcement"
+      "title": "Rabe Abubakar: Kidnapped Nigerian retired general dies in captivity",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kUHBpMW5pc2dBMFktMXFjUU1UalpuRGRqWmk2cE1HMW81aE9NVUJTZExBNi00Nm5ZeEllSFd2UF96MWZ0RWRBN05lWVlCNHU4djRhY0tWalNoUQ?oc=5",
+      "source": "BBC",
+      "pubDate": "Mon, 15 Jun 2026 09:34:11 GMT",
+      "category": "Kidnapping"
     }
   ]
 }
