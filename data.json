@@ -1,31 +1,164 @@
 {
-  "timestamp": "2026-06-17T13:23:11.925Z",
-  "generatedAt": "17/06/2026, 14:23:11",
-  "totalHeadlines": 174,
+  "timestamp": "2026-06-17T16:19:10.589Z",
+  "generatedAt": "17/06/2026, 17:19:10",
+  "totalHeadlines": 170,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 127,
-    "Law Enforcement": 20,
+    "Security News": 120,
+    "Law Enforcement": 23,
     "Banditry": 6,
-    "Kidnapping": 3,
-    "Military/Security Operations": 5,
-    "Armed Conflict": 6,
-    "Insurgency": 6,
-    "Traffic": 1
+    "Kidnapping": 4,
+    "Military/Security Operations": 7,
+    "Insurgency": 4,
+    "Armed Conflict": 4,
+    "Traffic": 2
   },
   "headlines": [
     {
-      "title": "Immediate establishment of state police will address insecurity — Ojo",
-      "link": "https://www.vanguardngr.com/2026/06/immediate-establishment-of-state-police-will-address-insecurity-ojo/",
+      "title": "Reps minority caucus gives FG 72 hours to rescue abducted Oyo schoolchildren, teachers",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnFCWUhpdzI4SW80TXRpTF8wLUxKdW5IcV9hUm5NOXhVaVNFSjZkdElxM1doZEZpWkFZQ3FIV3JEM2xfcmpQOVp0aEpOUWVFT19jSHMxM0VtUmg4UVZrRUtkcEpCSWMzTlBjQWNXbVNXdkx5NlJqWDFrbDBaVFFuMHR5LUxyWTI2V1RoeDNQby0tQ2tUNUY4bVk1X0lkbDVEUXFBeWhGb9IBrAFBVV95cUxQV3ViX3hfUjJkUHkxeHdHR0xVenIyY2tybzBQQV90cnM5b3k1LVoyN2EweDVDcU1zandOVEd3QWJKakFVZVlSZ3hKYXlZdi1PamFPM2Rlc3ZJTU9iYkt4VGxvdkRIamhsQml1QUtsYWtHUGlfX1RWZ0dwM1dDNFJmYl9MamJhR3NuaktKejktUHo0S09LWjdXZUhJM1UyZU1ZXzlFQ29XZGZfWVVR?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 16:03:27 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Army rescues five kidnap victims in Kogi forest operation",
+      "link": "https://www.vanguardngr.com/2026/06/army-rescues-five-kidnap-victims-in-kogi-forest-operation/",
       "source": "Nwafor",
-      "pubDate": "Wed, 17 Jun 2026 13:21:50 +0000",
+      "pubDate": "Wed, 17 Jun 2026 16:02:56 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "ACF condemns alleged ethnic profiling, threatened deportation of Northern women in Ondo",
+      "link": "https://www.vanguardngr.com/2026/06/acf-condemns-alleged-ethnic-profiling-threatened-deportation-of-northern-women-in-ondo/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 17 Jun 2026 15:58:57 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Launches Digital Broadcasting Transition Project",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1NqemxsMjVrbEROS0pVYkJETlBrMXAtNkRQMTk1M05iVVpzNWdMT1l0SjkyRUJMMEFiLTh3QV9rbTJ5ZF90V0VfX2IxYUJDYzBvdnpxU2w5ck84bmloTEpVbk1EWHhLV2hCSHhEWHhuR0xLZHM0Qml0Y2NkWXJTeU9B?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 15:44:24 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "‘Nigeria is bleeding’ – Reps Minority Caucus asks Tinubu to overhaul security architecture",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNel9CYVBxQjVJeGxVWmhOTG50TWJzVmdNVVdPbkJLQUZ2RklYXzNwZGJsZHo4bHFnX2ZPLVNkalRKVDEtM01zRFY4LWpWX0lYR2VNSzgyUEpmRi1WMUZaeFY4UDltNm1Gc3d4NTdaM0tuWFdTaE40a0JaeXowTjBEUnNmNi01amdTQTN0STVLSlhudDRPaWZ4ZUVrM28tdEx3MlVxTXhOaWNib1ZZaDFEY0JqaC1IV0M1MWRV?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 15:33:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "“Come back to your senses”, Rarara blasts Davido for taking Nigeria’s security challenges to World Cup event",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUtxRXFYMUt0b1lMMDc5TE8xOXFiN3RXY1pOTDdTTzRIdE5aMlBLTHRkUllVZWFRM204Um0xc3oxaDREYUotX3VLSXczSktwUXlUZmZlRXlGS1QxbUg1Njcxdmphb3BwQmNLYThCdGJWcjFOQ1RDZXVZWjUwSGF5NWxaeXRmbGdEUHYzSDRia0k5UVpqZ2Y5WFdQWFd6NE55bFBqMVNpUlFEbHdqMDhWY1lZeDBLR3lKYjZfUDcxV3pvUmtLX0M0cjQtOUVqdlVYN3c?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 15:29:53 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Cameroon Sign Agreement On Border Security",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KOUI3WlhLMmFhcl9rOXNTU053RlBldGN3MXZvTXRoc1J4Rm50Uk9kQ29iTjNNQWNGVXlHMk9ycklrN2VBUG9QaERFM09FME9XQ3o1dUZrM1JTWDV5dFkxZVpMQjYwTkZJbk1CYWFXS0xfX3dyRWkwdTlFOERsUFU?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Wed, 17 Jun 2026 15:28:49 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Cameroon sign MoU on security around shared border",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmEzRHg3cWdMNDZWYWx2T3B2M2FlNV95ejdITkdWU2JEdG5jOUNNd2ZiSW5uYUthV0hUSW1NWHY4d2E3clpiQkRBT00tMXJvdU9nUW5pYjB5czBNVFZ4YjBNZktrbnc4THRGcEQxeGRqRk4wS2pocVM3cWkwZEs0Tmx6cmhBeFc2b2lWZEYxSzI5WF80?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 15:25:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "House Minority Caucus Calls for Improved Security in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlJhcHFONTdFdFBwTmpTd2ZFYTNPcHphQ0tRQmFjcWV6UHoyaW9yakp6d3VNbUQtMlZ5TjdabDZ1ZGROLVAwY0NvV2pvanBMeWFPMGkteGkzcjJiSUFubUh6UlFIbmdTRkxvUV8tTEJPRy0tWVUyUVJFcVUtMlVGRWYzQWVzdzg?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 15:21:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kebbi Police arrest 4 suspected terrorist logistics suppliers",
+      "link": "https://www.vanguardngr.com/2026/06/kebbi-police-arrest-4-suspected-terrorist-logistics-suppliers/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 17 Jun 2026 15:21:21 +0000",
       "category": "Law Enforcement"
     },
     {
-      "title": "Women can drive growth, good security if supported — Minister",
-      "link": "https://www.vanguardngr.com/2026/06/women-can-drive-growth-good-security-if-supported-minister/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Wed, 17 Jun 2026 13:16:28 +0000",
+      "title": "Troops rescue 7 kidnapped victims in Zamfara, foil abduction attempts in Katsina",
+      "link": "https://www.vanguardngr.com/2026/06/troops-rescue-7-kidnapped-victims-in-zamfara-foil-abduction-attempts-in-katsina/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 17 Jun 2026 15:09:12 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Stakeholders move to end ethnic stereotyping in security, media reporting",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVBFaHRxNEFSMlBUVl8xX0EtdmtPMkJ2a25TcFkzT1FURWhSQ0xLYkxneWVmZ1JUMjc0U01yUC1uc0NTSGt3QjVBUjdFUThQcGJBWGdwaXBFcVFsN1VTeVliRVRaT2tFVklIRDJXdG9ETHdMT1BBTkZnUXFuZ0k4MC02aXgtLVJpRVVJSWpWeTg2Z0wydEhpLWR6bkJDNG05RkU2NW5Nb2t2UQ?oc=5",
+      "source": "21st CENTURY CHRONICLE",
+      "pubDate": "Wed, 17 Jun 2026 15:06:55 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Adams, Alao urge Tinubu, Senate to fast-track state police bill",
+      "link": "https://www.vanguardngr.com/2026/06/adams-alao-urge-tinubu-senate-to-fast-track-state-police-bill/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 17 Jun 2026 15:04:31 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria’s Education Ministry Assures Public NEMIS Data Platform Remains Secure and Operational",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQzRwZ3o1Wm1aWV9wbm1NSlg3Y0x5ME9rR2lVVklUY3JRd3U0ZWkzdERfcXhTVFNVZ0tUbVlNR0NjRk5DSXNsdFgyVGNCaFZ5SGF0cmZNdEladHJkTEx1TF9Ld3FxckluM3h2bHFEbE50YlN2MFBmdTZHT3hIa1FSZmpTTDRnQWlsVV9QeG9aVENBbk56elFKTEFfRFFxektSRFg1bzNGRzFwbG1lVmJUS0tyeEhGZnMwbEZqZGgwbV9SeWtGWEI5T2hEZmM?oc=5",
+      "source": "TechAfrica News",
+      "pubDate": "Wed, 17 Jun 2026 15:01:25 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Kebbi Police Report Major Security Gains, Rescue Kidnap Victim",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFN5dU0xN0l0RG03VHZOZ3NXMXpIZUpyMmFrbzVKMGtzb1R3emY5cWQ3clFPQXhLZkthOWtJN1lnYkNrbE1pSHNnRzRSWFR0LVJBVE5tXzJ4NGhuZUFWSHNPN05LcVotbHBIaHVQQnJnak0yLUNaMjFOR2F3QnpCSVdHSnh5VjBG?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 14:55:48 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Why Nigeria can no longer afford to wait on State Police – Ex-AIG",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzVpRUZsck00U1R4NXBVdTNHU01Uamt5bEJVNnEtMU11ZXc3OGdRQzdpMlFlenl1SE1xTkMwcmQ4OVpBN3RRU1d2SllKWUhVd0NOSnpqM1pwNFl2U3JpaU52cWgyV0lNZkVCZTRIbVNwSEJaNzgwYjQ2ZlZCVFVWb21ENS1oWTExZUxNem8zQ05wTDg?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 17 Jun 2026 14:43:31 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Kogi govt applauds military rescue of five kidnap victims",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNejZQVkxGajlnSmpjYnk3LWhUZ00zMWgwcGQxUkhnbzZRR1d5aXRlRFBKWUE3RW9GMlFCaG5IUlB0NG9xeURKTjdOQlRyclZkYmJnMVNqVVpsTlhaZlJxZFFTRG1xdmFNZnYtTTBxVUxRRUJZODgzNFlEWW80MkRDSjA2SlZqaHREeHhhQ1lFaw?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Wed, 17 Jun 2026 14:40:13 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Accelerates Women, Peace , Security Implementation",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbW44cEU5MF85UnREMDFYc0JzQm4xcFFXemhWZlVBXzlJTEtWSlo5U0IyLTJNbXVtbFpSUHJsZ2ZXd3pXWlBWbElmMlNsU2RwTmdtUG56dUREVU5LclU4RGJoX0YzQjJYY0hJSVV5Rzdoa0l0VGNpbHQwWE9pSWdUUQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 14:31:07 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Arewa Youth Assembly Calls Urges Unity Amid Security Reform Debate",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlQwNTJKY1pBLXlFeXRycUJNOWprdXBOa2lQYl9BOHpDdVBXZWhBampEUG9aRVJTbEVKWnNjU3JRRlZZd3FWRk44dkp0QUtBaWFlbklVY3B0RHk1enpTSVJBVDctNGx4QkpHNDIyNGRRRmZCYy1LWVdDcmwyeHRXQUFnMy0tRXhIM1hKVXdpdVFBSVlTYnZySjVvUEVfaDZsV3NOQ3Rn?oc=5",
+      "source": "Pointblank News",
+      "pubDate": "Wed, 17 Jun 2026 13:32:47 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Breach: Kogi Varsity Imposes New Security Measures",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FNENETHFsVWN6emlIS0J3eGREYzNHMVVOeWhSN0ZZX3Uwd2VNalJNQkJRUVhoaXh1LWkyQzVjWHduZmxxSXBBaDY4QTI5cnhrRU0tWGhUZnNYVHJCUDhXQVBwVmdlQmVjNnhyaVFWckowakwtSFJUNg?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 13:29:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NIGERIA, CAMEROON SIGN MEMORANDUM OF UNDERSTANDING TO STRENGTHEN SECURITY ALONG THE SOUTHERN BORDER – Ministry of Defence",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEtDMUI1X040RW1MdlZMTlFYVGQ1eXpVSHRQaWpnZ3lUaW5JSHoxa0lKWHV6b1pudUlJR2FmUFpEOXpjQnBXTWdSckhVdGI4QlFjT05VcGRueTZBTkxrSkltUVNqZFdZNnhWbTFXQ3R4Rm5BVjdPaVR5QVRvWWtTNzlnZTJGY1lxMmRleTZOS0FGTTBWOU1XYVBaRVBGU2tqZHUzVDJ1eXVlTEh3NGlCTWZVYU9QbGRMVTNnQlNfa1ZUTUxSVG5jQ3kyLVhTZw?oc=5",
+      "source": "defence.gov.ng",
+      "pubDate": "Wed, 17 Jun 2026 13:29:32 GMT",
       "category": "Security News"
     },
     {
@@ -36,13 +169,6 @@
       "category": "Security News"
     },
     {
-      "title": "Troops overwhelm terrorists, recover 3,403 rounds of ammunition",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2hyQWxWdWNrLTg5dlhadE85Vk9SeWRQaTBCblhzZnpTbGFlRVZkY01rc3NsMThFVG10SG12UlhQNTBLS0FJajhRUldTbDEzdWd3TDRKbmw0b0Z0MVR4SXZab3FKTHRnZjZhVnpKQjYyVXpGeXI2eFMtc2d3S1V0MDN5NFVDV0xxd2FDNHVDQTFDN0F3SEZxbHNuOHBjZGpoNS1Z?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 17 Jun 2026 13:05:26 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria, Cameroon Sign Defence Agreement to Boost Border Security",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYlRWOWItZlJhS0NOZm1sUVQ5U0lXLTktb1J1cXlWMEtIbHcwTU40SkFLVHgzbDBQUHRSSkE0S2gzWDdXeGFwTnB3ckhOZzNvUS1lTEZ1WExkSlVvamVxUjctOTdWOFloNmRhSUtReU9qMWZDU193S1ZqUjBYb2c4MjExZEN3SjVVOE9UQV9ya3h4M1RJVnlGdGVIWERlNG1RSXV4ZHRDcHBaMUh1TFExRkVGM19YQlBjSUdoRQ?oc=5",
       "source": "Nigeria Info FM",
@@ -50,11 +176,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, Cameroon sign MoU on security",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakprLVpmWnY1ZXpMWDdaRzBBTGRfSFlBRWRSVXViSTZfQ1M1aEp3bFU3QkF6X1ZYSHNSd1Mxcm9yeHZmS2psTnZGTi13QzMwcEd2TkVsQlJPYXdLWWpaeFQwYnRUazVfWUtWY2Z0eXlwU2w1cDRpMEgtTEZsOW8wa3EybXBMZE5SN09YcHJBbjlwbVE2dHpMbWpLVQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Wed, 17 Jun 2026 12:37:26 GMT",
-      "category": "Security News"
+      "title": "Lagos-based university alerts students after bandit-like men spotted on campus",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjB5QmwwWnNNdFBPcE11MWpDaGxUZ2xfLWhsd3hjaHg4SVpzN09nOEpfaG1peHNwNTRyRmszOTZhbjVHLXY3bUxxaGpuV0dzZWstUE8zbzR5ZGFlbEVjRkpiNDBLaF9BTmRQMDhIUjhwdHliWUJNM2MtVUtuUElmUC1pQTNEXzZNdmFfd1ZmQ0dvZzdwNW1WejVVbTFETm41aHlLTGtJaGJwWUVYX2RkbGJ0SU5sNTY5?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 12:50:59 GMT",
+      "category": "Banditry"
     },
     {
       "title": "Nigeria, Cameroon sign MoU to strengthen border security",
@@ -79,9 +205,9 @@
     },
     {
       "title": "Nigeria, Cameroon Sign MoU to Strengthen Security along the Southern Border",
-      "link": "https://www.vanguardngr.com/2026/06/nigeria-cameroon-sign-mou-to-strengthen-security-along-the-southern-border/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 17 Jun 2026 11:46:25 +0000",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTlqaG1fejBtWHJWSGhHWDNQdWg3OFdpWG5QcW5xMVlnVUJFQzdWa0M5alZVdFdtOHZHOWpRcTdkRlkxd2hqWXVoLXJkNXJuYzZEekwzT1FPLXBfUEZJOG50cjlnSFBzY0ZkZnVER0ptUVU5T2pPNFBfYTA1c0w2ZkZfRFJ4QnpFQW8waFdoOW11UVZVYnJzbDVTV3NSb1lYd1U0ZFp6b2Jpc04walJJetIBtgFBVV95cUxPYURYTHoya2taS0Q3WHExeFhVak92Q1FrUVRUSHVTeVdJZERRUEZnUE9DLWFBVVNyUUh3VDVvb0FScDg1VmEteXVaMG9vSVZIOUhDTkF5bGRwMjlpMDJxWGFtekRGY3BrQ2VoS2MwVnAtYmN4OUJJMWNGS0g0UXRPaWhHLTF6ay13a2ZVeU9ZN2ZUdUhacmVMVGFITDl5VGtsbWpOSHNIWEJCOW1SbTdjNFFmRlUyQQ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Wed, 17 Jun 2026 11:47:23 GMT",
       "category": "Security News"
     },
     {
@@ -92,25 +218,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Trump threatens ‘dropping bombs’ if Iran doesn’t ‘behave’",
-      "link": "https://www.vanguardngr.com/2026/06/trump-threatens-dropping-bombs-if-iran-doesnt-behave/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 17 Jun 2026 11:31:24 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "AYA Urges Restraint On Security Leadership Debate",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DZnlRVGJoenJZLUtfLUc5UmhjbHMwTEJfblk4Z2pJYzcwbWJDVnJ2VThnVnlWM3F6NzV4VFpKaUMzUVU2NFJzMjV1LWR2UDhfNjktb3czV1l6aUFPV0lLbnZ3bzBFZ2tDY0RkZmVJdXRwNVFTaE4zd1ZQckJDUQ?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Wed, 17 Jun 2026 11:29:58 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nine killed, 11 injured in attack on Kaduna community",
-      "link": "https://www.vanguardngr.com/2026/06/nine-killed-11-injured-in-attack-on-kaduna-community/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 17 Jun 2026 11:27:56 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria Is Bleeding, Minority Reps Blast Tinubu Over Security, Economy",
@@ -120,24 +232,10 @@
       "category": "Security News"
     },
     {
-      "title": "‘You’re prioritising 2027 over democracy, security’ – Reps’ minority caucus slams Tinubu",
-      "link": "https://www.vanguardngr.com/2026/06/youre-prioritising-2027-over-democracy-security-reps-minority-caucus-slams-tinubu/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 17 Jun 2026 11:06:17 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria, Cameroon sign border security pact",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByVEVFT0dMMVpfZWVIbWxmalVoTmNwZDByS2Y3Z2QzWDNERHMybjZUa19iamlCYi15Nzg4anJMV1owa3VhdE5FbzRjWUduaUZxNHpid3JzQk9Ra3dCRndlcFJWMmNWQWtSdlhaSmhKNnk?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Wed, 17 Jun 2026 10:17:25 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, Cameroon Sign Landmark Border Security Pact",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQW9jdjhqdEFtUnVyWmwweTgza3hlNlU3dVJna0IwNXVpelYzN0twZ1VDME5EUkhGekw4bXBGY1ozWWNObjJTYlZEMXpQaVczU2VqbEV2b2VGY2t5cVg3UVVsYmtiQmVTZkNkUzRkbFA3VnRKM2c?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 17 Jun 2026 10:17:24 GMT",
+      "pubDate": "Wed, 17 Jun 2026 10:30:48 GMT",
       "category": "Security News"
     },
     {
@@ -179,7 +277,7 @@
       "title": "From Chibok to Oyo: Nigeria’s school abduction persists despite rising security spending",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObExqOUlGVThMN2hmbHFIenZNcmN5U2t4TkJNYmJGOXdYS0szb1loeG55c1JDR0taUHVLcXJjUnljSGpodE5wRTA4UTBuVUFMcjE1NXBZMWFYQ3poOUExYjR4Z0FRMzVFd0lhcVBrU0JyNEc4MU4tekVVUllScHc1NG1nQmJkcVJXRWhDUGlDa001eGNwbk1uQm9vRGdZWnV2ZnFkcDRJSEsxUE5ZclllVXcxTUNRZ2RBZW9QLVBoYVI?oc=5",
       "source": "Business News Nigeria",
-      "pubDate": "Wed, 17 Jun 2026 08:03:45 GMT",
+      "pubDate": "Wed, 17 Jun 2026 08:04:42 GMT",
       "category": "Security News"
     },
     {
@@ -204,13 +302,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria records 150 terrorism convictions in ongoing Abuja trial exercise",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkt4Y05YVGI1WXhKNlJ4SjdkaEJVdGVPV3hlSFhDVUVxbkF6VVpBb0RKWHZCQTRwY3hlWFQ1Mk1qT3BSbE5ZZlBnbm1VdlZHNkhrcTJNSWZmU2hMblgzaXJOMjg0NVBfdEdJQWJpeUdCakwyNVVnOVc2Z2VpdndCVGJYMThQa29vdTRlc3lBeG9oVkVCTTMyZy1iOTRsaTFueFNoRlJCNmpVWXRFQXlv?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Wed, 17 Jun 2026 05:53:02 GMT",
-      "category": "Insurgency"
-    },
-    {
       "title": "Nigeria’s biggest security problem is its banditry ecosystem",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1NjR3JjNm0ybDJSM05SSThuQW9PQ253SnBiZFlZdzRzb3BsbFVRSjMyOFVxZVlaN1pSZUczVGZaV2JWU1lING5IMEVaV1Uwb2NGMExvb1FHNy1aenJ2WTNGSkhyUVpVa1RNRHJkeG8xbHVFYXhWRXhRQndSbkhJbHo1OXMzWFUxRXRQYzRfX0puVmZXOUtmQUxRQXNocmx1aU1R?oc=5",
       "source": "Business News Nigeria",
@@ -218,11 +309,11 @@
       "category": "Banditry"
     },
     {
-      "title": "Insecurity, weak funding killing Nigeria’s 40 million small businesses",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMGsxZjlVcW9JYW02LXFfUUFpTkdYYmVDU3M3WFJSbEtpYjZrMi1CZGxhYjd4MXlZcXhPbUw1X0k3Nl9aUW5kd25PaDlSMEozdTA1eFpVaFdOcWpkaDl3endEd0VaRUsyQ3ppc0loQUNLV3RTTWNXVVB4QkUtV25OSHZmR2ZYZDJYSGthSEtZWTFPcF8ycDlVeE1SSC1fbG4zbFJnNE0xdm9RTDA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 17 Jun 2026 04:00:00 GMT",
-      "category": "Security News"
+      "title": "Weak Borders Fueling Terrorism, Arms Smuggling — Ribadu",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOckwtbWEtNWkwNm1EYnE4UHZRR21GWHNpekRSQ3VRV3lDcEVGdkl6MUlTc3Z4N3NsVTJkZjB0bzRINDFKWWNNYUNydThUblhsa0p4cmdkR3RwUWJLRE8za0ZJYkp3dXJYYjF1S09BSHNKSVNmVUgxYWpldEdoX0xsWFB3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 17 Jun 2026 03:23:34 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "State Police Will Curtail Nigeria’s Security Challenges",
@@ -230,13 +321,6 @@
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Wed, 17 Jun 2026 03:21:24 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Insecurity Now One of Nigeria’s Biggest Economic Costs",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tja2UyZGZVSU9kdmtqWk9aa0l0SWo2aXR0dFBOODN3cFhSZlQ5NFZGMnQ1cTR0OUl6OFo2VXlJbldMWENHbjNkNmNUTldMODZWN1FSRTBVX2h4ZkxMZjktVzVNT21veUpEQnU4OUJnZEgwSV9UaTkzZTJWSFdVb29EcXFfdXhsbU9WUHl3dllnSVNWcHNFag?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Tue, 16 Jun 2026 23:35:00 GMT",
-      "category": "Security News"
     },
     {
       "title": "[VIDEO] Xenophobic Attacks In South Africa A Wake-Up Call To Fix Nigeria — IPAC Chairman",
@@ -251,13 +335,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Tue, 16 Jun 2026 21:32:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "NHRC condemns death of retired General in captivity, backs State Police debate",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBpRDlGTEg4NUEzeU5KXzNqNVRKS29EcEphUmdQLS1uamVxOURLQ2EyTGRYRnF5R1pVTmdLRWVEeGJoUDhjcFBldnpGbnFsVnhLOGZpRTlNWnRTdTluQzk5TmFRb2xpYzFtLUFnRk52MEFyMkhZcXZwTC0wTHdkdXVNQ2tUdTlqbjVNNVcxQnQ1UzFSTDYtdzctYUVRNUF5RWxiWnZFVTVHakVI?oc=5",
-      "source": "Apex News Exclusive",
-      "pubDate": "Tue, 16 Jun 2026 20:43:36 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC arrests 2 in Edo over alleged damage, theft of telecom infrastructure",
@@ -285,83 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3BrTk9PNXJFeG84cVdpN2Q3UUhZZWpMYmpNa0RzTktBUlhIZXJnUVRqckRoYnd6N0hGcTVha0lmTzFPeUtjc3JaNEJpaGpGZ1JJSnJqc3BQd3ZhSDU2V3FSM2ZEaDZfYUQ5dm9vLUpIaWFZZ25ILU1aMWhrWnlFWEdwRVBZellpc2NodnkwVGxmOEctd1F1YUtFVE5fMXotSjFOdHR1NlRzSnpRMmRtZDNxSm1QSDdlUjNiZzdOTkJoV3Ax?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Tue, 16 Jun 2026 17:43:46 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Oyo Governor Reaffirms Commitment to State Security",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yejBjQlZHZFNzQWQ1VlJfNURfaS1NVWNyWlMtd2F4SnBQVFdOclA0aUNiQUFFWU1PREMydlRDOThPNDVhTUZ5R2pldzlaOHJHYm9rcnYtTGhnV25BbXZ1T3hBcEprVXFBazg4ZDhIc2lqeWQ0M3BjTEpLaw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Tue, 16 Jun 2026 16:32:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen attack Nigeria’s foremost policy institute, NIPSS, ‘kill two’",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2wwbmFMcmdWQTJrOE5OZElLSGdlUFFSUmdOZTlKcGk4V3ZqNHdZUkpuRjFEbWJaeHl1WEpZTDU5ODNxazlhVDdoRU5VdUNhMGFVVVNaT2hDVGpaRFZSYWlsY0RUSmNWR0FEZFQzWjE3dzVveTFMd1RhdWVBQTRaWklnXzE0bWdvN056TXE3cTRXX0FYanJydnNMRGMzQWVWUW9vSjluZUNmeUFaNGNqNVhFMlk0MFBCWTRZYw?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 16 Jun 2026 14:43:47 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Police Reform, State Capacity and the Limits of Decentralised Policing in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUVhmUGlBX3gtLUdCZ2lNeU04RXFMZDc0NUNZd1dKTVczQWtlSXBJUDNmMGVQaXVDS3IzODRwSEFxVk1ub3p5QXEtRHdudDRqU3M3dVM3Q0JFeTgxUll0ZWR4ZDQxenZDMGZ6cnVrRHJmWjFZMXAwU0tpYjFZZGRBSmNNWl9nU29vUFZzNmUyS29aLU1Yb3k2aXVCZElWMXd1SmVoSjlGT0thVzRVTzJyUjhQczNvNGt0YVh1M0QySEdSdXdiVnRYUER3UWM4OWJJTWpDVUEtbnVacUlCcXc?oc=5",
-      "source": "dataphyte.com",
-      "pubDate": "Tue, 16 Jun 2026 14:23:45 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Northern Governors Chairman Pushes for New Security Plan",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmNRTk13bktseUlpc3N3M0lfdTdSZTJQZ2RyeERoMzd1U05fWWRTYjN2NGRzZlBXNlpBOTVvSzJRUTBtOWk5amc3Yi1NQ0dYV25JZVcwYVFjRzdkX2FVekt3dUozS0NOalpjRm1IMEJJYXNDWWIxWHZDOTJnRi1Zd3JB?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Tue, 16 Jun 2026 14:22:07 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s porous borders fueling terrorism, how we’re tackling it – Ribadu",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHJyM3ZpQkR0MmNGSV96RTV2cFc2ZHpJVmdmckI0ZzUwMlZJd3Z3eEdRN0l4N2dQMFA5T0JKT016a1doc1JacUluRm5mZmF4T1g0NkNhcTVubmtKeFJVb2tIV2tQc1Jrclg0My1UaHRndjNEVjFYUXowMU5SanNHQllSeDNGYk5WUXowWGxURVZraFZNdDAwTFU1V3ZnemM1Q3VPMkRKb0ZZT3NubDVsWU5aT2FHZzM4OHE0VXVNdGNXUmRi?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 16 Jun 2026 13:07:48 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Nigeria Showcases Blue Economy, Ocean Health And Maritime Security At Ocean Conference In Kenya",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSy1KZ2JWQkR3QncyemZMdExMZjlhdEx6VVZySlItTl9MWEYyMWlWTnBlemprbjNaM1VtSkZYUkVuMmEwYTNYSGQ1S3pYb2NfanMzeC1BclVpeFR5d2xieHVTbXpXOUtWVER1NEFzMGFZUXlhOTZuc0thRmR2VmF2aHFHRE1mVy1CcTByVURfcHVYZ2M1MXIwa0MtYk9lQkhyY0tjRFdmWDJ4eFZQSElhUGFBUnpONWdnWWc?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Tue, 16 Jun 2026 12:34:47 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Gunmen kill three security operatives in attack on NIPSS",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzBMblhXWC1zM3Z3Q0sybmlPbjNzQ1Nfb2pMbVJ4ZVJUMGp2d094VnN3czNFOTdZVGcxaUJkWk01QkRWYUlMdU9KeW0tbC1pMDJTY1FKNkItdlZFbWYwa2I1ZzdjSnVheHpZWTFzUFpRVGVFZDg4VzZ2M3ZVaDlXWUd3UHpRZ3ktNjR0S21PcXp1VlNMMjZSTW1n?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Tue, 16 Jun 2026 12:25:57 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Mike Okiro: Nigeria Must Rethink Security, Consider New Strategies",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaW1tSjZGSXBOVVI2UUNxQi1MTTN0UFlRWE9sTHVJSUR3MWNPUjRhemJ0d1FpeU9BbUw4NUN5MERiVlJ2NjJIaEc1ZHZFZmlLVHdPVGhRaVA1TjhNaEFaUUVOdXU2endRSjdPdUk2R0hPVUlMeWJsMlcwTFVSQ2JMWmFyS01yMXFodU1EcTNYVQ?oc=5",
-      "source": "Arise News",
-      "pubDate": "Tue, 16 Jun 2026 11:47:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Reps Seek Overhaul of Nigeria’s Security Framework",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53ZTFtdlhmS293N050UHhTWUVEZkctODRMbWNHQzc1bms1eGtIU2YyV3B5SGtPc2dHMXNZV2F1SDZSelFGeDl3M2N5NnFsejZvc2ZwX2lhM1FvU3EzZ196SVVxS2ZERi02V211eFhqSDdUeW53V016cjdzRQ?oc=5",
-      "source": "NALTF",
-      "pubDate": "Tue, 16 Jun 2026 11:44:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria's kidnapping crisis explained through General Abubakar family case",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0IxdGlfekVmbHo4MzJaMmhHakQ2N3RlTmpDNHpUUURjeU1jZ3JpM1ZOeG5xOUk1TlRjeDQ5MXIxaG42R3ZWODJUdlBsLVExTlhmTFNZVm1tMndBdmlxcDByRi1QaVFueWRTOUs2WGpMZXhTX0EtQjAxRFV5Uno2UlFLbXFMYm5Kaks5UnBLVzNrZkR4UlBuT2JyNA?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "pubDate": "Tue, 16 Jun 2026 11:07:16 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "IGP Urges Greater Role for Traditional Rulers in National Security",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nTi1LVUlDZnZfdlZvZDFLcm1ZNTN1cGkzNTYyVGRQVElOam84UVc2QU5ZS05CN1JBVG9YRWUtRTgtU1RnQnBTeTZ6ZDRrVHVpMlV6eWl5T2N6VUg2c1hWLUFkUGtOTzA?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Tue, 16 Jun 2026 11:04:20 GMT",
       "category": "Security News"
     }
   ]
