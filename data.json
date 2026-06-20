@@ -1,31 +1,80 @@
 {
-  "timestamp": "2026-06-20T10:03:54.313Z",
-  "generatedAt": "20/06/2026, 11:03:54",
-  "totalHeadlines": 154,
+  "timestamp": "2026-06-20T12:43:44.072Z",
+  "generatedAt": "20/06/2026, 13:43:44",
+  "totalHeadlines": 149,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 117,
-    "Law Enforcement": 12,
+    "Security News": 113,
     "Military/Security Operations": 8,
+    "Law Enforcement": 10,
     "Traffic": 3,
-    "Kidnapping": 3,
-    "Insurgency": 4,
-    "Banditry": 5,
-    "Armed Conflict": 2
+    "Kidnapping": 4,
+    "Armed Conflict": 5,
+    "Insurgency": 3,
+    "Banditry": 3
   },
   "headlines": [
     {
-      "title": "Troops crush kidnap plot in Sokoto, rescue 22 victims",
-      "link": "https://www.vanguardngr.com/2026/06/troops-crush-kidnap-plot-in-sokoto-rescue-22-victims/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 20 Jun 2026 09:19:20 +0000",
+      "title": "NAF airstrikes destroy terrorist hideouts, neutralise scores in North-West",
+      "link": "https://www.vanguardngr.com/2026/06/naf-airstrikes-destroy-terrorist-hideouts-neutralise-scores-in-north-west/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 20 Jun 2026 12:05:10 +0000",
       "category": "Security News"
     },
     {
-      "title": "FG explains flooding on Lagos-Calabar Coastal Highway",
-      "link": "https://www.vanguardngr.com/2026/06/fg-explains-flooding-on-lagos-calabar-coastal-highway/",
+      "title": "Enugu North by-election: PDP candidate Ezeme votes, alleges violence, voter suppression",
+      "link": "https://www.vanguardngr.com/2026/06/enugu-north-by-election-pdp-candidate-ezeme-votes-alleges-violence-voter-suppression/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 20 Jun 2026 11:46:06 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Insecurity: Why President Tinubu Can’t Ignore the Zamfara Questions on Matawalle",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkZkMC1sWDdaS2NmSzI2bHpyMWFEZlBRRGhsWFluT1FGQmFVa3JOd3B5OUtXQ0gzRnp6YmRoT29pVVlKOVhVVk9MaURmdEtSdk9RdU1kYmNESVphZF9tVmN2Y0JSOXlQZE1SRl9LZWtzblhrZlQ3UDFvdHNxdXNJd19SOFAtYXgxUUVRMDlrTTQ4UGR4YnZSMWMwUGlBQ2lWUG9CY0ItNkRwTUU?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 20 Jun 2026 11:32:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Why Kidnappings, Violent Crimes Are on the Rise in Nigeria — API, Experts",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWJaS3FZVGxFdDRqbW9NMjhRVmw5YlhWVkpuNUNPRzNHNjdtekpoNnZSTXNyX0g1YTNtMmdOTzFjb29MRU5NVUVqMFJmSEVyOGg0Rk5FTV9hUjhCMnFHY0pkbWk0RkpJZ3dtTy1KMjBHRVVoY2l6TWh6TWdwNFBsTUdrcjU3U2NMSUVtRDh4QUNnT2lveFdpcEllOA?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 20 Jun 2026 11:32:39 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Minister Reaffirms Commitment to End Conflict-Related Violence in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjZZVk5FOE1LRHRObFNVeTFCaGxHYThrWnZrakhVdmlha0dLbGlCSkhJYWZRc00wTzNYRnMwRXlkbUVTZU9DWXVUNmZROU5iR0lxdlctS2Qxa3RrakxEUGhzSXhUWGZXWHBVazBucE5BVVNFMDhSLXZrRS14LXdIOEVta2lVdkdpdVVOZjMtNG0zZEJOWG1QZQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 20 Jun 2026 11:29:25 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Gunmen attack Plateau community, kill pregnant woman, youth",
+      "link": "https://www.vanguardngr.com/2026/06/gunmen-attack-plateau-community-kill-pregnant-woman-youth/",
       "source": "Ayobami",
-      "pubDate": "Sat, 20 Jun 2026 09:01:03 +0000",
+      "pubDate": "Sat, 20 Jun 2026 11:23:42 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "NUJ President Raises Concern Over Emerging Security Threats",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFBQbDZlSC1EOGRnT2hMUS1OV3hDX25xamxsOXlRdFBoVnpqTUJqNzFYVDAwa3l4alM0a3lQbUpZbUdsQjFIdHNIaVIyYVNocnIxTXZyZmNIeHNkV1NXemtwRm1tT0NIUDNISUh0NUstY1FPT1lTUXVnT1hqcExUT043bUR2Zw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 20 Jun 2026 11:09:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s security crisis rooted in governance failures, poverty, scholars say",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTVJN2IyN0ZqWUIwcm5xa0xMaE5ITTY3anNueWt4R1ZUNXpYRVo0bWlLcjh6ZDFkOFBQUmFyZjl3SE5kUXphZGFVdjgzbG9LNEhIOFhQVEdUbk1zOTNTU3pSUFpZeUNnM0xFTnFXTjNqSUhzaWY4aGY4MVVqUXllSmctV1FENjBvMnFhcm5MSF9yVkhOS3h3em53cXFxR2FURV92cVVXOWhlSkN6YUYwN2lzOWt0V2xtYzRIZldHcGplWG9XUEVVbFBDME1TUQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sat, 20 Jun 2026 10:27:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC identifies reasons for rising insecurity in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZV9mR2FZd3lyR2xTSEtXVkNENHBwZ0ZrSUIwQXpNcGJTTDBPY0dkbVYzYVgwT0hzOWZULVBZampsNklNZm9JRExUcW1LbWxqeGxHOWlHMjRlTjV4eGd3ZXJFU3BFay1Ub0NVNWptZXNZUG5TR2c5LXF3SHFKV1d3azlR0gGHAUFVX3lxTE5Zal9xY1FCZDdIemFDam5Ob01OY0VpSWZjUHp5Ri1SbDB4Q0RSQUl0X2d5YklvRF9KcllRbTA0Um1tVnZNVnNqVUsxTzBpNjBMTlo2bFU1ak5UVEZkWVpmVDF6Zm9XQ2NkNjZhRTJBTGlPVWNabmJZa1VSQ1Y1Y2JvTGxfZDRYUQ?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Sat, 20 Jun 2026 10:15:37 GMT",
       "category": "Security News"
     },
     {
@@ -33,6 +82,13 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW5XN3liTjBIUlY1blNsWl9IclVHaHVyWTlZTGM0WHNEeXB0QlNlS09kU2E1TU1oSHhfQ2hCZ1FFcUl4amQ0aVZMR1RCQ0V5TGdBV2p6RGZvREF1M3U4cDRSWjZLSUJqTVNpLVZRLTdNaG1yeFh2OG5YZ1VUVkZ6TWlqVTdHckZnbXoycEJzNGdIamtId3JvQjAyZ3BUZUVpdWd5R2V3?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Sat, 20 Jun 2026 08:58:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian academics call for reforms to tackle security crisis",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2pnaXBxb1FlNWxGZzBCek4zOXN0X2R1czJwbEoxTEQ3T2NvRjZaYTVfb0c5U1hodVpxX2tCT3h5Y1NBc1FGNDZwNEJEUE9sN1RRanlJM0RPSThqQkxRZDUtUWVGTlhoTlBCbG1hUkZNQjJGQkVSaFFabkFrVS1qUGlkSnJFUlJuRy1SX1RFVzk?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 20 Jun 2026 08:41:00 GMT",
       "category": "Security News"
     },
     {
@@ -64,10 +120,10 @@
       "category": "Security News"
     },
     {
-      "title": "Insecurity, impunity threatening fundamental rights in Nigeria, UN envoy says",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXd1M3F5OEZ5WkdzNHkyZ2pLdURfMmw0c0ltbFBmNGV1elBXdHFfUU1WZGN5YzBPWUFBQk9Sa0I0LUhlaWEzSjRsbC1QWEtWSmRNY3pZMExjUGxvMkJ5eUkwOE15UjJfR1lsR0Z4TFB2VW9ITmZCTXZfenJNeUgwS1d0SGJZR1hwXzdqSE5RLThJdndocmhCQzBYUTcweEhnaEpUdzlDQdIB8gJBVV95cUxNTklGU3FWbmxxaGhHRFJQUThvSlk5Ulh3eElrekM0WWdUMjMwb3JmY3JyVlQ1U3F2dUtjZGpsT3ctMTVOWmw3QU81ejZKYWRfZXBKVnF5anBfdTAzN3dqNXFJeVV3cjlFdHVWeXJjSnRwYUlyRUloaTd0VlZJaVF1NXdGeU5ySGZ2Q0wzY3JxYW5vSzR5TFF6STdQU3lXWGRMTnJHN0dVVEpZV0xxakZOVWhjMk5Pd2tiYnI4bEY0bmhuZGNyOUs3NVZYQlVkdUN0c1plWnRQNnN1MFdLb2Rla1NtNnFQYndiQTBsd0lCbDhlczl2YVh3THNMdVVwX2VfakRuYXl5R2RJSkFCVkZPQ1U2YXQ2enNVOWdNaThtWFZHRGFFTVdpYTBYeHJkSkdWTlY2ZnlwYnp5V0xlVGU4OW9XTjloSHhWUDBfaEZUOFNoTVNxaDBzMVJETDVlY3FYZDdEMm1QRVNWOUJhTllWdmNn?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Sat, 20 Jun 2026 06:27:29 GMT",
+      "title": "Insecurity in Nigeria is our collective failure — Maj-Gen Agundu",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDRVcGxBMUlSRmpDUzJvaTl1V1JfTkp5ZVNmYkticlktSmRMTU5vZzVUdnNLdEpidno1d1RJU2RtM0JNQjFqZnJYblNPbmwzN29SVWU1U2FsOU5fWC1DSWV2Z0JFLTJuUmtKWUtvUzhBVEdUaFp2bFlUMjlZMnU0MnJoS0Q1bnVPT2ZNcVVCVQ?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Sat, 20 Jun 2026 06:14:53 GMT",
       "category": "Security News"
     },
     {
@@ -82,6 +138,20 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRU9UWVRMUWU2N2hJQXl1cFVHWkpoYnNmM0hfTGowRDZTYXhLbmU4UEVnTDlvMFl4VVBxcmZOa05nZ1ZHbldaOUhBbXZsaS05bGdJSmZwSWItdklGanpndDZpSEVMRkFWdTJrd1lYQmdITWRQV2loa2J1dWMxWnUxVzgzZU44MEtLUkxYSU52VlpwVThkeHZEaG9OOURfaTZiSmhCeV93?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Sat, 20 Jun 2026 06:11:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "UN Envoy Raises the Alarm over Insecurity in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlNuQzFBNzI1OWNIQlZiX2pFQWZzanl4RlJRa0hKVjNUSUU0LTlpZVMzd1czb3Bzd2tlcDN0eUVxUUdRYy1YT0pxdmZIUzJBRE9BYnZib0R5R1Z3Mkx4ZW9FX1N4aUdjNWdyLU5KWlFoeHFfcmhIMVJQMW1rUDh2SlloNmxpN290WnpzM1Brc1Y5bEpxaktj?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 20 Jun 2026 06:11:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Interagency Rivalry Fuelling Nigeria’s Insecurity, NSCDC Commandant Declares",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpkazlXOG5rS00teWItMDA4d2M3a0lBMDVSV2tsWHZmR0lveVI2YTAwS3NYT3JRRFBWQzhNZXZPNnRieDdiTDk5d3JucU9rRmFxdWdHSVZuYkNYUkVxMUhfZUxfQ3JhSmxwWW5udUp5a19fLXJ1MlppRW0za0xJc3JiZ1cwZ3VRYmdHOF9kTVVvLVhsVWt4MW5UaXFJMUg3YkEyVy04eU1VSlE1dEJ5NTZINHM?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 20 Jun 2026 06:11:07 GMT",
       "category": "Security News"
     },
     {
@@ -127,13 +197,6 @@
       "category": "Traffic"
     },
     {
-      "title": "Insecurity in Nigeria is our collective failure — Maj-Gen Agundu",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDRVcGxBMUlSRmpDUzJvaTl1V1JfTkp5ZVNmYkticlktSmRMTU5vZzVUdnNLdEpidno1d1RJU2RtM0JNQjFqZnJYblNPbmwzN29SVWU1U2FsOU5fWC1DSWV2Z0JFLTJuUmtKWUtvUzhBVEdUaFp2bFlUMjlZMnU0MnJoS0Q1bnVPT2ZNcVVCVQ?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Sat, 20 Jun 2026 05:35:25 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC Reaffirms Zero Tolerance For Conflict-Related Sexual Violence, Expands Survivor Protection Framework",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTBDbEREM0NQeG1xTVl5OUNlVHZHcVNsMjdubFRsdmU0NXcydDBRNDBsbnBIbHR4UEdjMlA4NVJlMThjT3NCVmg4cU5XcFMwVzBZM2lsUVNBTlRSWG5FYVdfOVE4VHpab0ItOC03LS0yNXRVaDMwMkxCUk5QRi1KMDkycnB5ZmlWNkZVQVdPWVBOTDJKdzZHSm5VbmZaR3pvMnR0T3NMWjc3RUVXU3M5OHgyN0VJT2J5TUIyaTNLaVpoT1FVdHc?oc=5",
       "source": "Arise News",
@@ -158,15 +221,8 @@
       "title": "Abducted citizens and the government",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wRFZ1VEVfRkNNajJjZDRJbjg4YkEzNVdhQXdyNW4xem9jZlFtTm9xdkEtd01kN2JYai1jcXBlaldHWUo0emI0VVBuTmVpVzJKZ3hYLTdlNDRDc1FPR2Ywank3bTNxSS1rX2VUWA?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Sat, 20 Jun 2026 05:13:36 GMT",
+      "pubDate": "Sat, 20 Jun 2026 05:20:47 GMT",
       "category": "Kidnapping"
-    },
-    {
-      "title": "Climate change, insecurity and Nigeria's abandoned farmlands: Turning forest havens into fields of prosperity",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTVFeTNOS3l2RFJLUEtsSC1aYVNURTNsOW9Pb3ozb0h3a3VBMnN1aU1JWDFXOTF0UGNkRUdUMnVrMkl1UUJnbW4wbWhXMlNBQnE1YkE0aXVVZUpQQW9La0lUcmdTMVFEU0ZVVksxMGVBQkloekV5RUJZMEIxWFpISURMdlhfTGwwQWNkSi10UXhTY1ZlS2U4Mnptb1ZjUFZ0WFhnWVpPUTVYbGhtR3BuN1YzV2xXekZyWFM0N3c3cnJBbDkwQXdNdjFPV1I1TDgyd1VR?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sat, 20 Jun 2026 05:01:10 GMT",
-      "category": "Security News"
     },
     {
       "title": "Malnutrition, drug abuse fueling insecurity in Nigeria, says NUJ",
@@ -181,20 +237,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Sat, 20 Jun 2026 04:51:43 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Interagency Rivalry Fuelling Nigeria’s Insecurity, NSCDC Commandant Declares",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpkazlXOG5rS00teWItMDA4d2M3a0lBMDVSV2tsWHZmR0lveVI2YTAwS3NYT3JRRFBWQzhNZXZPNnRieDdiTDk5d3JucU9rRmFxdWdHSVZuYkNYUkVxMUhfZUxfQ3JhSmxwWW5udUp5a19fLXJ1MlppRW0za0xJc3JiZ1cwZ3VRYmdHOF9kTVVvLVhsVWt4MW5UaXFJMUg3YkEyVy04eU1VSlE1dEJ5NTZINHM?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 20 Jun 2026 04:16:28 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "UN Envoy Raises the Alarm over Insecurity in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlNuQzFBNzI1OWNIQlZiX2pFQWZzanl4RlJRa0hKVjNUSUU0LTlpZVMzd1czb3Bzd2tlcDN0eUVxUUdRYy1YT0pxdmZIUzJBRE9BYnZib0R5R1Z3Mkx4ZW9FX1N4aUdjNWdyLU5KWlFoeHFfcmhIMVJQMW1rUDh2SlloNmxpN290WnpzM1Brc1Y5bEpxaktj?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 20 Jun 2026 04:13:11 GMT",
-      "category": "Security News"
     },
     {
       "title": "AIG Scores Gov Mbah high on investments in modern security infrastructure",
@@ -215,13 +257,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmxicUdnSGVWVFlBVzF4c3RNUWxkS1drdVNpMVdNcTJ4SE5Wbmtvdk5YQmJhSlFXLUxLNWRrQ25KUG9jTlhiUjc5WW5SNUxGRGRZWFNXUkpGeGtCaUE0UnlkN2RPMXVRSDJGNldxQy1jZ1B0aThmZUt3Nnl1T0VGQm9oU3hMUQ?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Sat, 20 Jun 2026 03:21:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Malnutrition, drug abuse fueling insecurity, NUJ warns",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rcFBJcjg1bEx3bFpTaW5UbkllWWtCUHRpZlpkTTBRN1VaTk15YlE5LTlTcmwybUJ3cnhwOW9IU2NsQXdNU0lUbHVkUTQzM0laak9QbUtvNG85OWkxNFlGSkYzYUJsSmZIWXlZSmxjVzhPc2pkZzMzaElucEg?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 20 Jun 2026 03:06:07 GMT",
       "category": "Security News"
     },
     {
@@ -328,41 +363,6 @@
       "source": "PM News Nigeria",
       "pubDate": "Fri, 19 Jun 2026 16:51:46 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "Reps Recommits to Joint Action on National Security Challenges",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2IwYjdVNE12cmdobEtkSmlhQ2oyd3JFYXJDd3FoaXFRRGkzZ19GTlprclBRNzBweU9OSHVFWTlic0Z6R3FocV9lNVloTlJkQ0xVUUY4N3JXSlhIQ2stUXdFSFRqRVNreFNFZURoX2RESDhLU2RlSlJ0dWVCaXhCTzdYWkEtMGRFSzdlZVdoaw?oc=5",
-      "source": "TVC News",
-      "pubDate": "Fri, 19 Jun 2026 16:47:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Firm reject links to 46 suspects arrested in Ogun",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUpqVGRzN1BPOXlnR01pZlpKU2s0ZFhjWjg4c3NjTkFXVEFwM2JPVHdlZHdyc0h1QTF4aVRoal9HeE9oSzUzZ09abkxjTzdXalR3S2JaWEh3Rk04bkRNbTE2WmotUGFMbWFTNzNBa0VkSWxQenh1VEUtUjVJQ3FZZQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 19 Jun 2026 16:44:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria and Cameroon Sign Security Agreement to Boost Cooperation and Tackle Border Threats",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmlrRUhpTVlYYjNhSHNZYTczaXc1OUpWR28yUjd6UEJYa1RRcGxlUW8yTXBaUDN1XzRFbGd4YTRWZFdyUTI0TFRmSjNMa2dRODZJYVlkQmRXdE1kSnc1TF9uY1d0YU5YeGs2MjZjcjY2U3llVndZY0Yxa2FsZkhvWk9MVlN6cXB4U1lPNEJDMTZHZDBqVG1kWXZTRl9iY2M0WTZmNnMyYkx3dnE4QVRPaE9QZ1o2SlE?oc=5",
-      "source": "libyaupdate.com",
-      "pubDate": "Fri, 19 Jun 2026 16:39:57 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Oshiomhole urges review of NSCDC Act, says Nigeria’s security challenges complicated",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbktKbV80WlZsSFU5VEp6VG0ycmdGSzZPendMeXZTMVNxZXBUOXBMbFBnVkN3U0V0QlJOMEZrOC1OQXdHRkk2cUpueF9nUUs1SExjVURqOV9BX0JfLVR0bjhtNTVHbVBGVG5NWjRoeGRJcDlJU0VycjhKNjNsNW9OaEZxcF9Ud0lCdlZrQnBxU2EyZ241RUxPZmJ5NGV0MkE2QnJMckVsQUJLZHcxYUdVamdmNWI5d9IBtgFBVV95cUxNbktKbV80WlZsSFU5VEp6VG0ycmdGSzZPendMeXZTMVNxZXBUOXBMbFBnVkN3U0V0QlJOMEZrOC1OQXdHRkk2cUpueF9nUUs1SExjVURqOV9BX0JfLVR0bjhtNTVHbVBGVG5NWjRoeGRJcDlJU0VycjhKNjNsNW9OaEZxcF9Ud0lCdlZrQnBxU2EyZ241RUxPZmJ5NGV0MkE2QnJMckVsQUJLZHcxYUdVamdmNWI5dw?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 19 Jun 2026 16:13:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Inter-agency rivalry: Why Nigeria security challenges more complicated – Oshiomhole",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUpER0JNOTFmS29RNVRBLUJ3QnNqbW1vTE5sWlRDRGl1M1RLMUxVSElUUXI0TWRRTUp2UF96RXlUTm1mT1FCQ0JTNUo3ZjhpZFBGYmxxakVkNjNqODRaUlZXa3BnTEpEcno5bklpbk1Fb0N3ek4tZjBOd3I5RjlrVDBZU0xZUG10d21NMmxBenFJbVdicE45YXRkOW5oQkZUM200Qw?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 19 Jun 2026 15:24:36 GMT",
-      "category": "Security News"
     }
   ]
 }
