@@ -1,32 +1,81 @@
 {
-  "timestamp": "2026-06-21T01:05:37.444Z",
-  "generatedAt": "21/06/2026, 02:05:37",
-  "totalHeadlines": 161,
+  "timestamp": "2026-06-21T04:35:21.979Z",
+  "generatedAt": "21/06/2026, 05:35:21",
+  "totalHeadlines": 165,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 118,
     "Law Enforcement": 15,
-    "Military/Security Operations": 9,
+    "Security News": 119,
+    "Banditry": 5,
+    "Military/Security Operations": 10,
+    "Kidnapping": 5,
     "Insurgency": 5,
-    "Kidnapping": 4,
-    "Traffic": 3,
     "Armed Conflict": 4,
-    "Banditry": 3
+    "Traffic": 2
   },
   "headlines": [
     {
-      "title": "COAS Tasks New Recruits on Counter-Terrorism, Professional Conduct",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3U0hXX0diQjRmZnJ5Q3FDMC1ydlJUd0RvcUN6S0pqV1lnZmlJV1pNN0Vnby1IUUQxUERLTU9lem9VRktpOHg3cWtKRFZ1MUwzMEtuRktHYUZiZGoyQkdxdWgzcDZOeUxm?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Sat, 20 Jun 2026 21:24:24 GMT",
-      "category": "Insurgency"
+      "title": "Kebbi under fresh terror attack as gunmen invade community",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGZFQjcyU2tVanZaU0tHSC1iME9wTkxETGg5WUFJb0cyMDhiSGM3Z203VFEzaFMzUWg2ZHM1dGUzSmJIbmI1ejRPQXNvbFd3cXFyQnJnSkF4VkEzaHA2TjBtdUxyZDU1akVsY0hOb0VvN0pXVTVIeENFYmEzWkRKT29tWk5DRm9QdGxUY0hpT1poS1loNk1YcFcyTVc?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Sun, 21 Jun 2026 04:32:39 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "New kidnap horror in Oyo as terrorists kill pregnant woman, ransom bearer",
+      "link": "https://www.vanguardngr.com/2026/06/new-kidnap-horror-in-oyo-as-terrorists-kill-pregnant-woman-ransom-bearer/",
+      "source": "olufemiajasa",
+      "pubDate": "Sun, 21 Jun 2026 04:30:41 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "We Can’t Find Them: Why Nigeria’s Tech Fails Against Kidnappers – Experts",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDYzbzdVaE1ZVm1sYi1MaUNXaHBiOHFVcld3MjVoSXI5cThQaklNdEg5WVRnbnZaOGdWYzhiYVNZMkl0VjNELVVpTWlyN041b0U1SklGYTNRUWRIZ0VqOWxyckVfRzRhRzA1SDJmRHdQcDNZaTFMczZXckJQbjdYelhUZUVXZDNKUzA2em1hTk9xN2lacUE?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sun, 21 Jun 2026 04:14:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Rethinking war against banditry and insurgency",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJ0TkRiOXhScEpZNFM3SDdLNTVrdXJsMnZtbnhqT2FrTEx3UndpVENNVi1NRDlfNlRSTkNZRE1lOUZydS1BemFBYVdzZWxyUjY0SHc3RWk4QTcyVW1UcUd0N050bXNGZ251ZXFSUEhRWnp5a29heFBFVUR5bmJ6bEJrOVVlZw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sun, 21 Jun 2026 04:12:01 GMT",
+      "category": "Banditry"
     },
     {
       "title": "TMSG Urges Atiku To Stop Politicising Banditry In Nigeria",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaTdmdGlVdGs1S1dYaFBCX3V6VFMzODVJd0hjQ2VXSjJOZWhTeVRPLVcyaHgtZVNoUjhoUThJRUpTZE1lSldmclp4eFZIeEJTRnpxZjl1dk9raDdLV3BlLWZ6N2JfT2d3OGZNR1h5dTVKc1JPVkN1WEt2WENfbmZMZWJrTQ?oc=5",
       "source": "thefact.ng",
-      "pubDate": "Sat, 20 Jun 2026 20:57:11 GMT",
+      "pubDate": "Sun, 21 Jun 2026 02:57:11 GMT",
       "category": "Banditry"
+    },
+    {
+      "title": "Inter-agency rivalry fuelling insecurity in Nigeria – NSCDC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1NCVEJMNjg3WHlEX3B6MEYwVEI4TzdzcWU3MnpvYUxOZWpqd0VrdG5oczZQTVU5X25ObkZSdWE4allOZXNRazVlNERISm9EOFB5LUYzYndQeFJyMndmQmV5V1lNeFRRMEc5V2w4Qm1GdFlGcTJEdW15aWNiZHFSQXFn0gGHAUFVX3lxTE9RZ0ZBNnZ2aWcxY0MxX25JMTh5eGhDUHZPeS1LY0Rmd1FjTC1naEtOZGplRUo0cW5DUWpYWHU2M0pGMGNfVnZ1a19uaUxRa0Z2UTdOM1dOd0V0RUxSLWRlYVBESDgwMnhiOElVSVpOX0RKVXFmYTdJMVcybVZxNUhsdnV2QXpPOA?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Sun, 21 Jun 2026 02:52:21 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "State Police In Nigeria: An Imminent Reality?",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZZFFNQU1Vem1zUUJ0RDhSRGtPbHdzWXZmOUlyakRXbjdiOXdIMlVvSE1TNHVpY3BPMS1DVThxVEFWS3k2YS1JanN0LXlTMGIwSTZxY0NXR01vdXZVYjB1eURmOFhnRXlCWnlBNTFhYUIwemJHWlE?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sun, 21 Jun 2026 01:59:42 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "When Bandits Go Live: Has Crime Entered The Age Of Digital Celebrity? By Haroon Aremu",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SaU54Y0JpNzIzWXdjUHA1VWQ1SEtsbHRKeXIwU1NiajIyQnhwcnJyeDlGYjlmNVo0WUNtTjJCZ21DMVFBa25fVzJjQ0RvdEZyR2FlR0pZUkRfaTN1TmVLWmFyT3MwTVRQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 20 Jun 2026 22:13:48 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "COAS Tasks New Recruits on Counter-Terrorism, Professional Conduct",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mRTBHeW9jS1FudHNwX2dKQUtYc1dRR083Nm0wSWNYTFl6UXNHYjhmWF93cDZ4UnoxN3dmQm9aVklCTjF2R0E?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 20 Jun 2026 21:24:24 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "AU Chief Condemns Armed Attack On Niger’s Airport",
@@ -61,13 +110,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFREbGM2QTZrU1ZVOVRZczgzMEJWY3VsdHBwbHRGRDBKNFdKdkpKYjRnekQ5dHhEZ2tTM2lwWm0wcU1nd1VPa2VtUElsZUtvdWUyQ1FCb3dKemFGQlltWnlqWWZ4Q2h0bW01VlNRWGwyNjNONGZneV9sZ2tvbk1nMnVmc1V6ak5JT2dwOXZ5WU11cE9ja21lMGp6UjNpRDBaUmwtVmJuOWNLVTdhRTI1Q1NGekVROVRrUDN5ZjVycVJNX3ZBY0Y3OG0taGQ?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Sat, 20 Jun 2026 19:31:54 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "PTML Customs Reaffirms Commitment to Officers’ Welfare",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KYThLbGM1UkwwRC10bk5wcFVZcm9wRy15WU40ZmFTNzNWczBlSUJENG9RTGJqZ2xCb1h2djIzTGE5dGVxNmQyWmFGWTl0QmVUNVRvUDR2R3BzMWw1OVI0Yzk0STQ3Z05qU2VLTEJTZkxOTnFhZ0ZjOWFvMzA1UQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 20 Jun 2026 18:41:03 GMT",
       "category": "Security News"
     },
     {
@@ -157,7 +199,7 @@
     {
       "title": "Ekiti governorship poll: Heavy security in Ikere-Ekiti",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkg0M09lY0pFY04wYjhOTXl5TWljemUzMlpnQlNQMUFrVkFRTm51QUdRbE11dnVCcF9ONmpVUTIyNnY1WXFieHZvN3J5R1BOajlJbnUyb0hDM1lzUkFzeDlnaFpIQXFyUVgyLTR5RVlZaTh3dFRGaUotSUZ6TTBrbXNzQzd1YllWOU9kU0lwOTU?oc=5",
-      "source": "21stcenturychronicle.com",
+      "source": "21st CENTURY CHRONICLE",
       "pubDate": "Sat, 20 Jun 2026 14:10:35 GMT",
       "category": "Security News"
     },
@@ -181,13 +223,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Sat, 20 Jun 2026 12:15:23 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "State Police: Necessary Risk or Risky Necessity?",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NOV0JwMVc4bElWSjM3bXByLTB3dGVUUC1sVmptbnNnY0V6WjdfRWdjdjRlb1pSejdZSGRiQnFiVEFzOTFPVmJHTVAwS2ZNTWxSUFI0WjMxR3FsRWNFenZkSEpQel9aWndBa2oyWU94MWlMNmx2RlczdmRLNnduWi1RTVNyblVveGZNdjd5OA?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 20 Jun 2026 12:15:00 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "House to Minority Caucus: Despite Security Challenges, Military Recording Operational Successes",
@@ -215,13 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTVJN2IyN0ZqWUIwcm5xa0xMaE5ITTY3anNueWt4R1ZUNXpYRVo0bWlLcjh6ZDFkOFBQUmFyZjl3SE5kUXphZGFVdjgzbG9LNEhIOFhQVEdUbk1zOTNTU3pSUFpZeUNnM0xFTnFXTjNqSUhzaWY4aGY4MVVqUXllSmctV1FENjBvMnFhcm5MSF9yVkhOS3h3em53cXFxR2FURV92cVVXOWhlSkN6YUYwN2lzOWt0V2xtYzRIZldHcGplWG9XUEVVbFBDME1TUQ?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Sat, 20 Jun 2026 10:27:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC identifies reasons for rising insecurity in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZV9mR2FZd3lyR2xTSEtXVkNENHBwZ0ZrSUIwQXpNcGJTTDBPY0dkbVYzYVgwT0hzOWZULVBZampsNklNZm9JRExUcW1LbWxqeGxHOWlHMjRlTjV4eGd3ZXJFU3BFay1Ub0NVNWptZXNZUG5TR2c5LXF3SHFKV1d3azlR0gGHAUFVX3lxTE5Zal9xY1FCZDdIemFDam5Ob01OY0VpSWZjUHp5Ri1SbDB4Q0RSQUl0X2d5YklvRF9KcllRbTA0Um1tVnZNVnNqVUsxTzBpNjBMTlo2bFU1ak5UVEZkWVpmVDF6Zm9XQ2NkNjZhRTJBTGlPVWNabmJZa1VSQ1Y1Y2JvTGxfZDRYUQ?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Sat, 20 Jun 2026 10:15:37 GMT",
       "category": "Security News"
     },
     {
@@ -288,13 +316,6 @@
       "category": "Traffic"
     },
     {
-      "title": "NSCDC Reaffirms Zero Tolerance For Conflict-Related Sexual Violence, Expands Survivor Protection Framework",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTBDbEREM0NQeG1xTVl5OUNlVHZHcVNsMjdubFRsdmU0NXcydDBRNDBsbnBIbHR4UEdjMlA4NVJlMThjT3NCVmg4cU5XcFMwVzBZM2lsUVNBTlRSWG5FYVdfOVE4VHpab0ItOC03LS0yNXRVaDMwMkxCUk5QRi1KMDkycnB5ZmlWNkZVQVdPWVBOTDJKdzZHSm5VbmZaR3pvMnR0T3NMWjc3RUVXU3M5OHgyN0VJT2J5TUIyaTNLaVpoT1FVdHc?oc=5",
-      "source": "Arise News",
-      "pubDate": "Sat, 20 Jun 2026 05:31:31 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Fake News On Social Media Aiding Terrorism, Gen Abdulsalami Warns",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzhNbTlPbUJhc3IyVXB3QjZFa3FwUnI5SkYxWURMb1VtM1cwRzdIUDUtcmw4S0hLeThIdDlvQ0RDd1NMVzBYWkl3b2huUVNKSGFVSXNvQWloSE5tdl8wWTB0SUg1cXJUbXpfZ2RsOEJXbWNhNFA2UXlqLXJPeFltX1AxMGpZcXFzUnRCUHFTVHE?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -342,27 +363,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 20 Jun 2026 04:00:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Experts list strategic steps for energy security for Nigeria, others",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSE1hXzBfemVlQzVINU5yeEZSeV9VeF9NamtmZ0poQWlWSDhCd1E0Ukd1NDNMYjVvQ2FVZzVZS2x3bHpCLU9uQUZzdHVDNkFVOEFTeW1vOGZYT1FYSjJvOVhrWnFXZ0NvYlZPQ1BrYlZ4Qkc2ZUxIV3Y4ZnpQOV90ZGU0S1F4OXBFVkZwU0dvd2VDZ3dFTDQxVk9QZGptMnRIWUtQVGZjZG9YUQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 20 Jun 2026 04:00:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FCT Infrastructure Boosts Security, Mobility, Tinubu Declares",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmxicUdnSGVWVFlBVzF4c3RNUWxkS1drdVNpMVdNcTJ4SE5Wbmtvdk5YQmJhSlFXLUxLNWRrQ25KUG9jTlhiUjc5WW5SNUxGRGRZWFNXUkpGeGtCaUE0UnlkN2RPMXVRSDJGNldxQy1jZ1B0aThmZUt3Nnl1T0VGQm9oU3hMUQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 20 Jun 2026 03:21:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Enugu govt, Police train security agents on tech-driven policing",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX180UVpNeWszOHZCWjlDMktOUFkwVFNXNjNZNWJmbVFsTHNYSHBvLUo5MlFZUlZrdk0ySTEzWThBZjZlX0M3NnNiYWdiMko5N09TSENlWHVYU2x3SGpDN0dRYXQ4dTdHNmw3Nmd2WThzaEQzUGt3NFBxUWh4ckV3N2hTeVFsRTFkX1RvelNzNUNwQXNMeTNnaV9FXzNqQXBqZy1lMThDblBNbE92Y21oUTk2dWdLUQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sat, 20 Jun 2026 01:36:17 GMT",
-      "category": "Law Enforcement"
     }
   ]
 }
