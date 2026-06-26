@@ -1,17 +1,89 @@
 {
-  "timestamp": "2026-06-26T18:42:11.207Z",
-  "generatedAt": "26/06/2026, 19:42:11",
-  "totalHeadlines": 161,
+  "timestamp": "2026-06-26T21:33:22.468Z",
+  "generatedAt": "26/06/2026, 22:33:22",
+  "totalHeadlines": 165,
   "dominantThreat": "Security News",
   "categoryCounts": {
+    "Law Enforcement": 49,
     "Military/Security Operations": 11,
-    "Security News": 88,
-    "Law Enforcement": 45,
+    "Security News": 86,
     "Kidnapping": 4,
-    "Insurgency": 10,
-    "Banditry": 3
+    "Insurgency": 9,
+    "Banditry": 3,
+    "Armed Conflict": 2,
+    "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "NARD threatens indefinite strike at LUTH over call meal dispute",
+      "link": "https://www.vanguardngr.com/2026/06/nard-threatens-indefinite-strike-at-luth-over-call-meal-dispute/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 26 Jun 2026 21:01:11 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Akpabio Says Integrated National Identity System Strengthening Nigeria’s Security",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLW43NG9obU1OcFZHekJEcUlqd29BN3V4em94N21DbUJuY3dHZHMwTTZDaGd1TUJiTjMwaEJpam5SS1A5ZWJRbkMwelJBTjdFM1VqUEhPUHFKTGVFOU5GQ0Y0OUJVVFNZVndUSVlESjc1Vy1PcWh5RlBwQmI5dW1OakRiSURjb2hoVkFYNEdhbXYyd3ByUE0xanFWUXBFLXNGRjRpVQ?oc=5",
+      "source": "Arise News",
+      "pubDate": "Fri, 26 Jun 2026 20:41:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria arrests seven notorious terrorists returning from Hajj – Official",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHc1TVV5OHB6Q2U2aGdkZzJ6M2c1YVhoUnVrVXA3dEhPRjFnT1JoaVlsSExkQ080ZE9ienlad3RMV1kteDAtb25BcWFYX3N2RHNHMnh4MXlfRmowYkQtajlCRzEtZDQyb1JldDNCLVpPZ2NxYWdDNlo5ZFhqb2l5bEhJT19JQXFuOVhfSEpobzJXSnVIMFo3b2hwOXQ0WXI1YXdqQXFLeS15X2NWS2xfSEhQT08tcVVmNzhqT19nOVpEM2RwTU94Mw?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 26 Jun 2026 20:39:31 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Benue: Miyetti Allah chair killed in ambush after peace meeting",
+      "link": "https://www.vanguardngr.com/2026/06/benue-miyetti-allah-chair-killed-in-ambush-after-peace-meeting/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 26 Jun 2026 20:20:15 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Why state police implementation should be suspended – Peter Obi",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYy1UUzZFT3R6Q1pXVDdHSXZXVWxuWmRFdlU3cXdvMnRpMmZzZ29CZW8zZWFrSTc2YkNMVjhkTDZvY2RPNlJQeml2cTh5R0ZuWlctTzYweUNHX2IxV3l5Q3k2Y1ZGanBuWERkZFd6a0hJYUhmRDZ3VlF5a2NjYmVDbHZNWEhDdTRvMUozUl9ld2JXS2VUZFNVODRpV0lIazFIWFhHY1R4YWUyOVd5aTBOYkJ4dnJLTDFxVlE?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 26 Jun 2026 20:04:20 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, UK Deepen Defence Cooperation, Review Security Agreements",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZk9PbGdFb1h2eU8zdFc5ZUtUeVZLLW4xOHNiZW5mMEdhUnIyUmJZQU9lNWsyT1h2bkxFWlBvN1U2Y21rek96VmNSOWRNTU9naWJXSUI3dGozVmY0ajladzZSM1g5VVItSWE2OFRTZlVxa3FVel9CcE55akpudHpPdkJranBvSDBPa0ZXcGhrUQ?oc=5",
+      "source": "Arise News",
+      "pubDate": "Fri, 26 Jun 2026 19:36:48 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigerian Army To Recruit Additional 28,000 Troops To Tackle Growing Insecurity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUZJUlVXTnJuMUxyT0hoUDV0M0podmtaMGQ5d2ptc2x1Q1h4c2xheGJnZDhLVGpZVmhCaDE4OTJlTFRyVTBXcFI4b2N3N2h6ZGhQY25QcFBGcnRWalVJNWFuYURRNWVxbWJ5MG4wRUFZZE04LXAzTlRnekFSblpSNzFQa1B0RWVEV1ZnMjNCYVd0TzEzWXp5UWw5aXZBMzZl?oc=5",
+      "source": "Arise News",
+      "pubDate": "Fri, 26 Jun 2026 19:36:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Trump threatens 100% tariff on EU countries over digital services tax",
+      "link": "https://www.vanguardngr.com/2026/06/trump-threatens-100-tariff-on-eu-countries-over-digital-services-tax/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 26 Jun 2026 19:29:07 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "things to know about Nigeria’s proposed state police bill",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWW5DalpfTzhsTnFKTEkxbGlBWmdScHkxY1ZlUHRzRXhERVJ2aktIYVdjUHZyN1NTb1F0b3U4RWRSVjFuakRKbE4xYWJtc2xadDAwQkZFWWdzVlVJckhDd2IySktpT25oeWdmX2lqNjU2VThWaGdJQUVrNjM2SVplUVBqQXZxbk0?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Fri, 26 Jun 2026 19:24:10 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Lagos moves to tackle population pressure amid climate threats",
+      "link": "https://www.vanguardngr.com/2026/06/lagos-moves-to-tackle-population-pressure-amid-climate-threats/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 26 Jun 2026 19:21:34 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Nine people killed in building collapse in Lagos, Nigeria",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWtUUjMtMjdUVWZZZHE0RTBVS0ZIUnd5blFxMFBfVE91cVk3LUY1WnFmbWtOOVRfQ0djQnBHdHg2a25TUlVlcmM4OURoTklKM1E3MWtEYjZzdGl5c3ZzZDA5cUF0a2xibXpyTWRQQ2xsSjRlWk5iNUlMZXB0S0VqUlRQREppSDRrUlBodWthaERTUUhreVVPanpRVlQ5Z9IBowFBVV95cUxNaHRmdFlOVnFCNFk2WDREbzJuY21fdnl2dTdXSENoajgwcUVSUmE0U0VoXzVDanBBTFVSd1VoWWFkd3ppWHNrbFFrVlFhQUVlNDUzazBkd21aS1Y1d3ZDNUg5SzdQcTVLd1dzNTVXVGQ4Z0Rvc3lVbEQ5Qlk2Rk1lWmtFcGE0dFB4bXd5ZHBYY2U1eVB4dVo5VlM1MHRScTlxTXpv?oc=5",
@@ -41,6 +113,13 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "PTML Customs, Port Police strengthen maritime security partnership",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGVMYVJyd3hJY2FiNF9lUTNjaTQ5dC1UR1EzdHl0cEpmMmQtYUoxTkJ3VEJmQWVPNnVsSGxmM0F3SmRiMm53Q0dEdFRzN0FaT2xESEdHWHVuSUFZOEc5eFc0R2Z6TGxzRi02NGJ3SjMyQjNFVEItWlFBZXY0c0YzSmNJRG1zV292N3kxSFlxclY1R0ZTVDNSZmhWOGpoZVZITDZMY0V6d1lVcjZPVGtRN0YwOA?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 26 Jun 2026 16:40:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Nigeria’s Integrated Identity System Boosts National Security — Akpabio",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2ZXTGFDRnlDZGdkSUI5MXJheTJ1cDJ4alpid05JTGc1cjdPVnFaSk9TbXo5TmF2QllQRTNkTnY1S24yLWQ5c1E5NUwxWEVnNWZnZmRzTU5XSG9mOXZXUXh5LUREWDBQdGF4SnRzQU5HTGRUOFFQSllYbl9yZE1QM2I0NkgxX09DS2hFQTlwVld1UQ?oc=5",
       "source": "Voice of Nigeria",
@@ -55,66 +134,17 @@
       "category": "Security News"
     },
     {
+      "title": "Edo ex-LG chairmen seek grassroots role in security",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRExpalVWMnJrMDk0Q0tWcm14M1lvaUVnU0tVdUJIZEdTay1BMUJ5aFJ1bVhXaGI0NnBTdmxGX3poUUFuQTFaaEFSTVJTenFYYS16UE1YUXh3dlpJcU9HLU93OEFkUVJCSnJYYlYzRDlyU1c3a0h4MWhHV2xyN1VfQ3o5dw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 26 Jun 2026 15:59:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "US Military Commends OPHK, Reaffirms Security Partnership with Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iZmxNdU5TbnlTTXFfS3FEWEIxdGNVWmpLT3owQ3B0Z0d0OF9nZ0ZVVmRxYjRqTXV2djBTZi1pazloSkVnanoybDdIbHZYTkJoOWwxdEZwWC1lT0FDbk45amRkcjFBVkk?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Fri, 26 Jun 2026 15:54:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nollywood actor Joseph Momodu joins US Army",
-      "link": "https://www.vanguardngr.com/2026/06/nollywood-actor-joseph-momodu-joins-us-army/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 26 Jun 2026 15:52:06 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "PTML Customs, Port Police strengthen maritime security partnership",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGVMYVJyd3hJY2FiNF9lUTNjaTQ5dC1UR1EzdHl0cEpmMmQtYUoxTkJ3VEJmQWVPNnVsSGxmM0F3SmRiMm53Q0dEdFRzN0FaT2xESEdHWHVuSUFZOEc5eFc0R2Z6TGxzRi02NGJ3SjMyQjNFVEItWlFBZXY0c0YzSmNJRG1zV292N3kxSFlxclY1R0ZTVDNSZmhWOGpoZVZITDZMY0V6d1lVcjZPVGtRN0YwOA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 26 Jun 2026 15:45:54 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Benue Police rescue eight kidnap victims, neutralise three bandits",
-      "link": "https://www.vanguardngr.com/2026/06/benue-police-rescue-eight-kidnap-victims-neutralise-three-bandits/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 26 Jun 2026 15:40:55 +0000",
-      "category": "Banditry"
-    },
-    {
-      "title": "BREAKING: Senate Passes State Police Bill as Tinubu Pushes Historic Security Reform",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fcWJIWFJ0R0dDVXkwMzdLYlVIV2FtbHpDWWJxYTkxRGdha0xqNkRBQTY1NVJ1eFE2TVBKM2dCbXpPU0taanVBNG5WdDJqR0xvV3diVzhsRy1QcHJfeEFlVm1hMGxDQnc?oc=5",
-      "source": "Tell News Magazine",
-      "pubDate": "Fri, 26 Jun 2026 15:35:57 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Army@163: COAS urges troops to remain steadfast, committed to national service",
-      "link": "https://www.vanguardngr.com/2026/06/army163-coas-urges-troops-to-remain-steadfast-committed-to-national-service/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 26 Jun 2026 15:12:14 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Edo ex-LG chairmen seek grassroots role in security",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRExpalVWMnJrMDk0Q0tWcm14M1lvaUVnU0tVdUJIZEdTay1BMUJ5aFJ1bVhXaGI0NnBTdmxGX3poUUFuQTFaaEFSTVJTenFYYS16UE1YUXh3dlpJcU9HLU93OEFkUVJCSnJYYlYzRDlyU1c3a0h4MWhHV2xyN1VfQ3o5dw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 26 Jun 2026 15:05:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Ebola deaths exceed 300 in DR Congo – Heath authorities",
-      "link": "https://www.vanguardngr.com/2026/06/ebola-deaths-exceed-300-in-dr-congo-heath-authorities/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 26 Jun 2026 15:04:54 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Drug trade fuelling insecurity in Nigeria – UNODC",
-      "link": "https://www.vanguardngr.com/2026/06/drug-trade-fuelling-insecurity-in-nigeria-unodc/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 26 Jun 2026 15:01:42 +0000",
       "category": "Security News"
     },
     {
@@ -125,13 +155,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "PDP backs state police, warns against political interference",
-      "link": "https://www.vanguardngr.com/2026/06/pdp-backs-state-police-warns-against-political-interference/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 26 Jun 2026 14:54:14 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "You’re rushing State Police Bill to mask security failures – ADC knocks Tinubu",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenBhWHdYd0QwUjBoWTZIWkVtcXhzTWpyOEdzNDZRSUtwYVNuTFpRUDhFWXhCaUR2NTA0V0t1aG4zeGVVYmU4ZjNCN1pTXzlzLV9KeUFrQWJQT2hOdXhuVlFBaFBlTzlvWFk2SG9VUEJVaFp1UjJHRC1sbjU1MXpTN3QtMC0xMk03cDgyb0tCX0NOWkxFWDloSEZiYlpxeW12OXhZd2pyZ0dyR1lz?oc=5",
       "source": "Daily Post Nigeria",
@@ -139,11 +162,18 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "m out of school Nigerian children threaten future – Pate",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXJFYlJhTXlzamZmdFA1U0pNTHlnMHBORmsydWRlTHFLOGhxNEhUbmZqSlVlWnA3azlTV1NSN09fZ3V0a3ZpMDJ1am90akwtU2tMcFVXY3Y2c2lQbVhTVmlEOTI3MEcxMFllbnZ3ME1iaTItVjJhQ0NOc1ptaHRubkVFUmhEeWNOVFRiNlRRNA?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Fri, 26 Jun 2026 14:43:20 GMT",
+      "title": "DIG Fayoade harps on security collaboration among stakeholders",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXRPUV83dWo1UTg1QlZBVldjN1EyY1VDaTBiZXVFVi1kaDJ4SVJNZVU1TVljUVBjVjZmZHkwN2FIbHJybDJLUVZnUHlJclhWUHJuYVdudmI3elJjRHpZYm5kZjc5b0JnaDVGY2VLM2hpWHdWaHNGYlZjTEN4c3dWaXBMVWR4UkU3VmFFOGEzTjZUdw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 26 Jun 2026 14:30:00 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Beyond the announcement: Nigeria’s subsidy years, and the road to 2027",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnlDYnN3S05Qa3cyQVNTU200Z01GUUg5WVBxRmtpekNNZl9pa282ODluUWdSaGdnUVRtV3haY1F6Q2xveE5XbUdUako2a1BhZXQwR3QyUGM3N0xyWGtLU3htRk9fNWVYSE9iMGo0NmJhcjZubFY1Ql9ybUc3YzZGRWVHcm1YYTFKOWJzWE9Ib3dmWWc0bUZPbnJjX0w2UQ?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Fri, 26 Jun 2026 14:28:20 GMT",
+      "category": "Traffic"
     },
     {
       "title": "Explainer: What Nigerians need to know about the State Police Bill",
@@ -160,6 +190,13 @@
       "category": "Security News"
     },
     {
+      "title": "State Police: Justification, Hope for a Secure Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGVlV3dYaUN5YkxhMHJUMzFBYlBIakQtTE1MZ0dmQlRqamowU3RoVkppczZSbDMzemZWUFFXU25qU210d25qazZ5Z1NacnJkOEJBRXM2YjI1RWlOMW52OE12djFrbEZfV3pHejNmUWZ6NWtibTZXYUwwLXlTUjNxOUM1MA?oc=5",
+      "source": "Kogi Reports",
+      "pubDate": "Fri, 26 Jun 2026 14:09:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Gov Kefas Says State Police Will Strengthen Nigeria’s Security System",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjgwdm53cVFPSWpuT2lmaFhVNENZcWtyUHQ3Q25ISV9rMGRHcm9qakZkYlhQRHRjVmNHcVNhVl9ENnl4SzdPU081UUwyc21LeFdFcXNnbVJlRDVTNDBjNVVhVkpCREVwTTNLX2hzWEZUcTB0dTFMY2lTaFRSNWk4SXFsSGFRazg3cnlKQk1RbGpFelZINFE?oc=5",
       "source": "LEADERSHIP Newspapers",
@@ -167,18 +204,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "DIG Fayoade harps on security collaboration among stakeholders",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXRPUV83dWo1UTg1QlZBVldjN1EyY1VDaTBiZXVFVi1kaDJ4SVJNZVU1TVljUVBjVjZmZHkwN2FIbHJybDJLUVZnUHlJclhWUHJuYVdudmI3elJjRHpZYm5kZjc5b0JnaDVGY2VLM2hpWHdWaHNGYlZjTEN4c3dWaXBMVWR4UkU3VmFFOGEzTjZUdw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 26 Jun 2026 13:33:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "State Police: Justification, Hope for a Secure Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGVlV3dYaUN5YkxhMHJUMzFBYlBIakQtTE1MZ0dmQlRqamowU3RoVkppczZSbDMzemZWUFFXU25qU210d25qazZ5Z1NacnJkOEJBRXM2YjI1RWlOMW52OE12djFrbEZfV3pHejNmUWZ6NWtibTZXYUwwLXlTUjNxOUM1MA?oc=5",
-      "source": "Kogi Reports",
-      "pubDate": "Fri, 26 Jun 2026 13:11:36 GMT",
-      "category": "Law Enforcement"
+      "title": "Security forces kill four bandits in Zamfara – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEQ4VDloZkZ6UG42SnZCeFJXUGpaWEhZZThBM2VPTTVBcFllQ3l2UXlIUU1xZ29aY05ERGczeUdhRkpXSV9LY2J3em0tRllZcHQ0UjVrc1lkMG44THl2RHN2SlI0QTBFZ1draEVDNTZtNVl2MFEzLXVPYnpYTVhpTHdoUDJkYTc0MXRSbA?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Fri, 26 Jun 2026 12:54:24 GMT",
+      "category": "Banditry"
     },
     {
       "title": "State Police: Insecurity in Nigeria fit end wit creation of state police?",
@@ -191,7 +221,7 @@
       "title": "Nigeria Strengthens Defence Cooperation with United Kingdom",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm5iWDF6VmF6SnR1R3JTZ25MeFhOQ3l1bDJHcWpQOUdabUhvVmhzbmo5ZWdDTDlMdW52ZHprbnF5VVdnTTA0aExtT080MWgxa0dfUm9PRF80UlF4b1g3anVUeGRaOUVoRF9NR1pmampMbWVuVXZLUE9HM2J6Wk5hVXFjWEFUWE90UWJ0VFJPTnZjQk5RcWhsald3QWxVRHAy?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Fri, 26 Jun 2026 12:46:32 GMT",
+      "pubDate": "Fri, 26 Jun 2026 12:47:49 GMT",
       "category": "Military/Security Operations"
     },
     {
@@ -289,7 +319,7 @@
       "title": "Nigeria, Netherlands sign customs agreement to boost trade, strengthen border security",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUYtMDZXaFJiY0lzQ09MVUc3b1h2Z3FQZ2xTS01JUmZZSXNEbU1XNEEyZV9aQTZ1aHZ5ZGxhY2ktY0dLcnd1WUFEU0dHZUxlWXoxT3FUX2RtSmZfc2lTUmRGWHpTelZHTk0yR0thQzFrcDBuNl9mR29EcmtFVkoteUhqNzJzRmJaODNSOF9XZlBzbk5DeGJHTEowTDNNWUhVMXB2VUVNa3hrTHlVVVE?oc=5",
       "source": "TheCable",
-      "pubDate": "Fri, 26 Jun 2026 09:04:00 GMT",
+      "pubDate": "Fri, 26 Jun 2026 09:08:21 GMT",
       "category": "Security News"
     },
     {
@@ -307,18 +337,18 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "NSCDC Operatives Arrest Two Wanted Ex-Togolese Soldiers, Over 30 Foreign Nationals In Badagry Raid",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODZsaXBTNmVXUFpxcDVlWmFVeGtSX2dRTEtRS2ExUGtzUDJHTmJYV01IZVZwQ0x0Q3JiejljaHBJYVN5V2twT0FWWHM2ZThnUHRXNmg1V0JVSmxRWldBM29lVEtmUWljUl9kQjNNbE1YSUxyWFlUZVJ1TXlpMWc5WTU1WGp5d0FRQVlVeDUzcEk1UFlwd2d2cFNKMDNlYlh1RGxhejBJVGYwQmZLbFg0b1dNM3U1QVZucGZhRnNR?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 26 Jun 2026 08:05:06 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigerian Schools as Terrorists’ Playground: Tinubu, governors advised on how to prevent next mass abduction of schoolchildren",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR29TbzNOVVBubV85LUdnMlpqTFBtc3NqbVczUm1DV2dZR04tRGRvRmd5UHZlTnE1Vjg5VEZCd3FsaVZSU3BoODBLSEF0NW9tRFJJR19PV1pXbTd2azY1dVZJZm1FbnBMTHJCWTBEVUdsSG10MG04WmVXLWJBUFFQX3JndlM0MlRISEdvX1gyVl9FVmtkUXlRZGVoN0trRUllTFRObXdKd3g4WjVMTHZiQi0wNVFlOTZzVUlpUklBOGlCbGpWbVNMRmh6Z3FuajBfTjMwR2EzWko5SkdjcmJr?oc=5",
       "source": "Peoples Gazette Nigeria",
       "pubDate": "Fri, 26 Jun 2026 07:51:05 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "PRP rejects state police, says Tinubu lacks credibility to drive reform",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWNadXN3T0k4eDRoeVhmSjRuaWtpQWdnUkt6OEFMMVJxcnM1QmQ4OXoxSGppYnVkM0NFa2RrT3pWdVE0LVFfTWpHRlkwTWZobi1HVE52S01XTHdfNU1TSk01akJTS0dzMnlOdmRFRmtaZEU0SzVCM29hRUZKRG83aG5fbktRTzYxazVxYnp3OW1neklja18wVmd4NFF0c25SWGI3T1lGRk9KbnM?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Fri, 26 Jun 2026 07:39:36 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "PRP Rejects Creation Of State Police Under Tinubu",
@@ -333,34 +363,6 @@
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Fri, 26 Jun 2026 06:08:29 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "NGO Threatens Legal Action Against Fed Govt, Others Over Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMlp4Tl9sVWxWWUlENjRHYURhcmRNVm15TVVwSm9jNFBydDZrVnBHRlZ5OUd1WXJLQXMwbTFhXzJIeWN4XzVaMEJqREdqdkFEbXl3YU9YLVphZy1LNnZBNGN0aEdEWEpqekhPRlhHenoxWU5ENDhOVFVjNVdLdUQ2R1ZEVkdBeWxKV1dkZkI3cEl4bmc?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 26 Jun 2026 05:54:32 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "‘Our worries on state police’ – Parties, other stakeholders",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFNPbjQ2WjlpcHRZb3Vra3VSd0FKTjdWWVl1aWR2dU9pbm9NOVpkbHVhTDlyVE1pcnRINGhWdUNXUTA1MTBBSUxVVnlrb0RMY2JZMXEzS0JYM2x6NmRXMWxQY1RacHRRUTNFOGlROHM5QlVPcWdqYkJfSC12ajFjbV80aHVHcmcxZUdzaWtrM1lBWmVicXl1OGFR0gGfAUFVX3lxTE5fV0lHbzRsMFVPQ0RXNFhTOVJWM0M4MnFnemVDVll1bXBBS0JIMEhsb1RCUmZJUFVKdUhLZUQtLV9Qc05EV1kzRTVKcEFJMTl1T3NlM09zN1NjdkVnTDJpLVozd0sycHllOUVfT1Vscnh5d282QjFyNG5VMzhRaHprV1VUNDRyVTgxQS16OUg4Q3B4dWg2RmFnUXZtdElHYw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 26 Jun 2026 05:26:56 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "State Police: Atiku, PRP, Falana raise concerns as LP, Afenifere, Sanwo-Olu back move",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakF4ZDhndkpxaklkbWoydTB1TS1xczl3XzJGdHpZOUNpdlhXTGpoUGlXZUZpRlpGNEQzSnE2OVBXckxKQ3p1c25FaUYyR1V3RHRMaXNSNXNPeXlmTU5fT21tMW5qTVo5SUdncGd4M1hucHpqXzkySkJsZ0Q4TnZsQ1RLQlE1YTNoODFfYy1lMmxEa3ZINWt0ck5fZ0ViVHFGT29jbkNEWWpxZw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 26 Jun 2026 05:00:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "US, Nigeria security partnership has saved lives – Envoy",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVNvTXJxYlpoQk9HRnhDTUcwS2hWMTVMUVo5U1NfM0IzYl9tVXpscnAtRGZwbTJzYk12NExOb01Ic3JFQlFNSENWN3lST25lb2dzNUdFRXVzQWFNbHBZVW5HcnZMY1dLdFQtMElLS3pmUEhQd0UyNUhOOU9BNG8xNjVmMA?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Fri, 26 Jun 2026 04:59:26 GMT",
-      "category": "Security News"
     }
   ]
 }
