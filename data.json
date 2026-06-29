@@ -1,32 +1,109 @@
 {
-  "timestamp": "2026-06-29T07:52:29.136Z",
-  "generatedAt": "29/06/2026, 08:52:29",
+  "timestamp": "2026-06-29T10:39:34.418Z",
+  "generatedAt": "29/06/2026, 11:39:34",
   "totalHeadlines": 168,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 40,
-    "Security News": 98,
-    "Kidnapping": 4,
-    "Military/Security Operations": 8,
-    "Armed Conflict": 2,
-    "Insurgency": 8,
-    "Traffic": 5,
+    "Law Enforcement": 35,
+    "Security News": 102,
+    "Kidnapping": 5,
+    "Military/Security Operations": 7,
+    "Armed Conflict": 3,
+    "Insurgency": 10,
+    "Traffic": 3,
     "Banditry": 3
   },
   "headlines": [
+    {
+      "title": "Nigerian troops force top ISWAP commanders to surrender",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjhDenBudllVUmJUR25pZGtucmFlR3F1LVpfYW9yYUZneE9PQnMwcVNENmtjQU51WjNGakVfQkFkblQ3NnFZeW5weE1WSlRydEtOSkk5OHlTSzlRWHBZTWNZbUVhaDZrVGJxZXdFcDhYNTV2NmlNbGNqR1VLb1Q1Y2hRQXE3cUxINkpvUkRrYjN5T3psQmtTdDZUVQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 29 Jun 2026 10:36:51 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "June 30 protests: Illegal immigration concerns valid; violence won’t be tolerated — S/Africa president",
+      "link": "https://www.vanguardngr.com/2026/06/june-30-protests-illegal-immigration-concerns-valid-violence-wont-be-tolerated-s-africa-president/",
+      "source": "Ayobami",
+      "pubDate": "Mon, 29 Jun 2026 10:32:00 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Argentine footballer’s family killed in Venezuela earthquakes",
+      "link": "https://www.vanguardngr.com/2026/06/argentine-footballers-family-killed-in-venezuela-earthquakes/",
+      "source": "Ayobami",
+      "pubDate": "Mon, 29 Jun 2026 10:13:46 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Police rescue kidnap victim in Imo forest operation",
+      "link": "https://www.vanguardngr.com/2026/06/police-rescue-kidnap-victim-in-imo-forest-operation/",
+      "source": "Ayobami",
+      "pubDate": "Mon, 29 Jun 2026 09:25:58 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Kidnapping Has Become Nigeria’s ‘New Normal’– CSO",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13SnRaTzhYTHFEWmw4T25jUzFIUURnclplelFrUnczeUpkeFJBSjlHSFRPckFqSWc5SDR6R1A1MXFTWUpGZ1lzZUxIaElGZEpMeHFIeTVyRWJIN21TNEp3MUFVOTBLSVhZemRUOXZxN0N4bXlETnlF?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Mon, 29 Jun 2026 09:24:20 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Terrorists Crumble as Military Pressure Forces Fresh ISWAP Surrenders",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUNoNWZ2RWdUSFRTcWVoY205UHBjOHNKdk12eThvUkxfbVZMNmFpTnV3aVFoM21QMzJ3RHJZZThIWTRaRnBtUUlJRUY3dVY4VVNJSzR6dnhpWVZ4ZDZNamh5X1NOQ0N4VFNYcWN2a3R4T3hYRlk2dkJ5T2s4dk5obS1qU051Z05Cd1BJMUxmWVdqMmc?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 29 Jun 2026 09:05:03 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria’s Military Offensive Forces Senior ISWAP Commanders to Surrender",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0lmZVIxbGNvQ3M2SFVhV3dwQ1pSaWR5VjdaaXpwNW1PUUt2UnZUaVpzamM1Q0gyR3FUMEpZc0hnSG04OWpna3kxa3o1Q3JVTlJJNVlta1hVYmU3dnV3aUd2YVlzOFNQTnZyYUN5akg4VWtUMTZVVzcwTTNaMllMV2huZ29RNGVETHdFZHQwdUs0NzJnM3c?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 29 Jun 2026 09:05:03 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Oyo forest ambush: Sunday Igboho confirms recovery of injured ‘Iru Ekun’ operatives",
+      "link": "https://www.vanguardngr.com/2026/06/oyo-forest-ambush-sunday-igboho-confirms-recovery-of-injured-iru-ekun-operatives/",
+      "source": "Ayobami",
+      "pubDate": "Mon, 29 Jun 2026 09:00:01 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "State police bill may worsen insecurity – Security expert warns",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjRBX2UyOVhVeGI3LThvUS0zb1ZOelpmT3l3eVFlSTkwMzA5ZFRoMjMyQk96NFA2LTdQaTBYLTJfWkNGRExFck9kYmo1VmZPVHUzN0lqNnUxamVUOUNUUFFNcWVsZE0zVTZyX01HSGJ2eHlWNHZ4LTFlaGdGb3NabzkySk9uWjhMNk5GZkJPQ1B3blNoRzhzM0VB?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 29 Jun 2026 08:55:57 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "State police in Nigeria: Understanding the proposed constitutional framework",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjNfM2dJZm9fZ1hQQUt1b3JvNEJiS1dhd1pTNWc4b3haQXVEbDNIZ0d4OWlmejJYZDZrWDRaUnJjLUpkRkZNM1lwT0xVNU93LWZCSi00UmU1NVVFU0NKZHdWdmMwOGpBZEVCTjF1UThmbUg0TDhDX0JqSFYxNENnczhSd1pYQmNIVUh4cno0RF9IZWhnMlNzcFFaT2JOM1E4bjd3RVkyQzBCY2hNX3VwUVlSaw?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Mon, 29 Jun 2026 08:47:50 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Police arrest seven suspected robbers, recover stolen items",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVVxaDU5X1VpNS1SZ0UzVWpybFktTWJKRmZUa3ZpVWdoTlpTUy1nbFQ1ZW51NVRQOGtkaEluZktQcTNXMWYzVEFOLUE4VUliOHVic0ptYTZ2R1pNWnZ0WjFlQkthd3F0Rzh2anBhcDFuTDc1Z1JJNDFxY1ZZTFVuOGRiZ0ZuQ0FFYXdZdVB1eDVuMGJERmtEc3dJR05FcGVTNGhfZXQ5bDVQLWlOV2NqdjFJUm5KRWc?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 29 Jun 2026 08:36:15 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Silent Heroes Award: Nigerians urged to recognise sacrifices of security personnel",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWU1SMUxrTG51cjd2YVRoaDUtOElwS19lLVdKSGUwOHpURmJycmZPcmpuaWVYREkwWFZZV0lrREI1ai00VFMwNlM1LThpSlFBSEtadmNSY0duR28xYm1uREVZRjAwOHQ4Ym1seDd6bU84cFFDalhOOXlnQ2tUMm1lbWZTVEFwUzUzZ3RZSXdSWjU3YVdhOEx6dTR6N2hiS2FuSzdOQ3Nn?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Mon, 29 Jun 2026 07:58:28 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Five die, eight injured in Niger road crash",
       "link": "https://www.vanguardngr.com/2026/06/five-die-eight-injured-in-niger-road-crash/",
       "source": "Ayobami",
       "pubDate": "Mon, 29 Jun 2026 07:44:30 +0000",
       "category": "Traffic"
-    },
-    {
-      "title": "Xenophobic Attacks: Nigeria Evacuates More Nationals From South Africa",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdC1ZWElxODBod3NUSXJEZTRaRUtDb2pvQjJsVlpwOXZKdVFtaE9XQWUzUmFuRW1lYW9SMy1zNmxYLVdKMldoM0dYUWFENmRRQ0lrVVAzWmNLMXFCNUFmS2pTSU1HMUp4NzY1ZjNiZDVfd0JtQ1NBNFg0QnN3bzlQRmNEMnA0NGtpbU50X3FvbmxCcjg?oc=5",
-      "source": "thefact.ng",
-      "pubDate": "Mon, 29 Jun 2026 07:37:59 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria Raid Yielded Biggest Terrorist Intelligence Haul Since 9/11, US Says",
@@ -64,20 +141,6 @@
       "category": "Security News"
     },
     {
-      "title": "Motorists, commuters stranded as floods submerge Lagos roads",
-      "link": "https://www.vanguardngr.com/2026/06/motorists-commuters-stranded-as-floods-submerge-lagos-roads/",
-      "source": "olufemiajasa",
-      "pubDate": "Mon, 29 Jun 2026 05:47:00 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Photos: Top ISWAP commanders surrender as military intensifies offensive",
-      "link": "https://www.vanguardngr.com/2026/06/photos-top-iswap-commanders-surrender-as-military-intensifies-offensive/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 29 Jun 2026 05:40:00 +0000",
-      "category": "Insurgency"
-    },
-    {
       "title": "Nigeria, Netherlands deepen ties on trade facilitation, border security",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkI4dWdqUDhaeDZKOFNoVEQwRHFFQXdPMkVJXzdXZlZZNmxkNTVPQUh0a0gtckhBTTNGMFBDQUZIbU8za3psOTlENXZzbW1VRmppaEhFMzdIUVdWUk5LUEtLbVEzcGVrNzZ6V0xINFpmZU52VnFFSUNIeWZ5clhDMUhpNHd5TlFveDdMdU45amJRMkVVQUpaaA?oc=5",
       "source": "Peoples Gazette Nigeria",
@@ -99,13 +162,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Drug Abuse Threatening Nigeria’s Future, Association Warns",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3pUNHMxaUVLQ2xFZGI3SkQwcWdPYl92dUV3RnhmbElVY2w2LWUxRHNYQi1RUndGQW02Q3VWR0lIcnVLeWdDLUt5MkN1NmMxeVhZa3BMaTVLUmd3dVRoeTEwQnhab3BJRVRvMjJ4UFFwZ05xT0RmZ1pMT1hmNzJ3a3F1LW9KZw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Mon, 29 Jun 2026 05:07:45 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "June 30 e-invoicing deadline puts Nigeria’s tax reforms to test",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTVBOGprSjV2TG5DUEtKT1BaQ3V0YW1OUHRRb2trelJscGNBb2ZibWcyekd2bElVR3VCWmJkNlo2Z09nRFRZbl96Q1dqb2NlRzVaNXNrc2JLZll5cW40cVpHdXZWZ2J2VW9pNE5FUDM2S2FkRGQzeGlNV2RGcTBMVS1TMU5lM2p2RW1WTDBEbXBJclBqcTZPZzBXYWRhUnRpTDBEWHF0Z3lsWUlUYkxaMQ?oc=5",
       "source": "Business News Nigeria",
@@ -113,10 +169,10 @@
       "category": "Security News"
     },
     {
-      "title": "Poor information sharing fuels insecurity, says Man O’ War",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNTdrbmMydmZGTUt1dm42a2ZtbGZzM3M3cEZtczNFNkxNNEY5d0JCSGhZTFNxZWJtU3JfR3N2akh2Q09KWW9qUzBPNExwaGlVUFdmY3ZEdF8zTnJVaHA2MUk0cHEzcXFxdU9SdGQ5TU1DMUl6VnBYcTJxZlRoS0pzME44U2o0VUxtMjZmUnFRc2V6YkN4dkUzUV9SeU41cmFRVnFOeTNMOHE5YVVMSmJTUFJxY1ZQT0ludElz?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Mon, 29 Jun 2026 05:00:43 GMT",
+      "title": "Gowon, Mamza seek end to Nigeria’s security challenges",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2V4Z2Q0XzFWRGRFTVpmX0tWeHNjWDZ2R2tfdll0eDZuM2otVWttYklhMm94aG55UGE1T2ozT3MtZTV1RkZnQUVBa2R0SFRRR0prdWpoaHBobXVqQS1MSDZBdlZLdGZqeHFkWWlaZWVVQXVUbEsxMWhmN1Qxa1pHYkxHT0Y?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 29 Jun 2026 04:34:00 GMT",
       "category": "Security News"
     },
     {
@@ -134,38 +190,10 @@
       "category": "Security News"
     },
     {
-      "title": "Gowon, Mamza seek end to Nigeria’s security challenges",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2V4Z2Q0XzFWRGRFTVpmX0tWeHNjWDZ2R2tfdll0eDZuM2otVWttYklhMm94aG55UGE1T2ozT3MtZTV1RkZnQUVBa2R0SFRRR0prdWpoaHBobXVqQS1MSDZBdlZLdGZqeHFkWWlaZWVVQXVUbEsxMWhmN1Qxa1pHYkxHT0Y?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 29 Jun 2026 03:38:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Niger Delta peace, stability and Tantita’s pipeline surveillance operations",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1NJWTQyc3JNeTU1UTZ5OU54eERyaFV0X05fYU9YTlR6c0xzQllBTDZxbGl3V0NSTnJwZV9LNU1VRzk2RVVkMjZadXBubVZ4X1lWT2UwOHBUY09VZkx1bUdKYUhCUnFObzluY25TcjhSX1dpVTJwMnVIbDR1V1gydW1zVEtzaE5nUDZyeTNrRUhjY1hNd1NFUmRwTEZRN09tLVRsLU15N3EwSXg1TXBnNGN0QQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 29 Jun 2026 03:22:31 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Opposition to state police grows",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRXdBa2VOUkZVY3RnbnlBOVFHc1oxa2hxeG1oNmxOdlh0SUo2RGpiNjNwLXEzMXFjUHBFcE5Zdi1EZ2gyZ2hFMkdmZ3BNVmM3cTIzNWlVV1U0bENONlJDbzUxOGp0VVU?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Mon, 29 Jun 2026 03:13:53 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Two die in road crash involving army recruits",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamo4eTlBbWxQUVY2TFZiOTlxWEFHQTRWNEh4dHRGTS0xVEM5RWI5UjVNVE9nbEE0MkNlRl9sRTJYZ2taQWFodTFNaktpcHc4MDVlR0NISzMyZVhxZ2hzWUVpZjQtbEVyR19vY0Z3WmVuTktFNTZUME81Z2F0cmU5engtTFdYLWtQU1J2ZFJ3?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 29 Jun 2026 03:10:26 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Judges as undertakers, state disorder and State Police, by Owei Lakemfa",
-      "link": "https://www.vanguardngr.com/2026/06/judges-as-undertakers-state-disorder-and-state-police-by-owei-lakemfa/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Mon, 29 Jun 2026 01:33:00 +0000",
+      "pubDate": "Mon, 29 Jun 2026 03:25:00 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -218,13 +246,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Guangdong seeks robust economic cooperation with Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVptSTJOYVQ0YUd1VXNHaGJtMFl3MEVEUlMtQ1o2WVhGMFpiSGVpU3A0dDNPRnZhOFhBc2U0ZTZCVjFDSGh3N1M0REE2ZDBIRFVmQi1tUUU5ei1kZU4wTjN6ekZkUEZtQ2x1YWNsUE9HUE0yQnpvRmZpNUNVcXpwcDI4cnZVT1E?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sun, 28 Jun 2026 20:57:24 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "State Police Bill is timely constitutional response to insecurity — Oladele",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclY3dDJvMXlzY0lBY204dy1UN3BJNGwyUlBPZVVSQlRsSXFmSzJycFNtakpYWGQxTXp2cmFSZHZxYWlrc3dDLTNlX0MwSjRDNjNBRW1oN21nMVhoOFJEUTM1VG1za2RrTGg2ZE41aFdrOG9YYnhGeFlxU1lLRmVDQ1FNb3BjNGotYjZMTzlxdGF1Y3NENjRyX0hRTml0UTB0YVF0a09HWmpVeTZFU1hN0gG0AUFVX3lxTE5hQUE1NnlNZUtwcjV1THJqM195bnBQLUt0WGdxbk1ZTl80em1KM1hiRlEyY2o2NENvRUZBdy1BSDV2LXFmSXcxQzVwdXJEeUNseEJEeVU1VXFCSlZiNVhyYzBrNzl4QUszdlZCV2xOeFc3SnJuXy1RZjRodjU3NElub2V2ZWNQbER6c1lWVVhNUklhTUx2dzljYkZCS1pxMnFVUGZpWTR1bEdBM21TcWpBSklRQw?oc=5",
       "source": "Vanguard News",
@@ -244,13 +265,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Sun, 28 Jun 2026 19:08:00 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "CDS, DG DSS, Others Honoured For Leadership In Combating Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0R4NFZic2ZfVVFxazJlU0pBaVJCQnZEQ0xaR1NiTmtlZVEzUkJCT2ZMckdBOWdOU1lJRHJtWVpYQmFkbmZ2NW1NUTd3VXNWTE45bk1UUHdLOURyUzk0WVFLLWpoZS1fMWxVcFZfQ3UzZHZRWGg2XzlreEFFLWRvWHh3eTlCSURGRXZEdnlyZ0I?oc=5",
-      "source": "Arise News",
-      "pubDate": "Sun, 28 Jun 2026 19:02:40 GMT",
-      "category": "Security News"
     },
     {
       "title": "State-by-State: How ready is Northern Nigeria for state police?",
@@ -309,17 +323,17 @@
       "category": "Security News"
     },
     {
+      "title": "CDS, DG DSS, Others Honoured for Outstanding Leadership in Combating Insecurity in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWdIdVRGclhFekhQLU5QVE1QWHh3WlA2cDJHUEpNQzcxT3R2SWdVSmVFUlhEME1PMjF4WVVHX0pqUTA1UGR6TjgxbUtRMVF1aHBrQzN6ajdRVXRGejMzY3Nab0Vva1FDYzNrdVFkWWh4dUh2QS00b0dWd3VlWHpSOGJFMnFVZzZKQ0dOZXRKN25nMVo4UldSdHg4UjdaWWJic1Q1eVpFSlZIX1FGRFBLZ01kNW50cnRPRVZ1bW9MWnU2dk9MbGZZ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sun, 28 Jun 2026 14:42:52 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "FCT NSCDC to sanction private security firms with expired licences",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME9od0JlbTFUOUhFbkFSbFJ6aHVyYWJNTXVyVklmUVpxSGNEQkJoSXltSmRzYUxMdnhDdHlCWGZCYV9WVFhYUG83eUd0Nmpjc0ZoNkcyREpiRkszVTJEZDh5VEJRLUUxMlItUER0T1U1d0FQV2h6RUMtRjJBX3RyeHFidklNelBwV1dRTjJrc0Q?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Sun, 28 Jun 2026 13:29:26 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Silent Heroes Award: Journalists, Security experts seek citizens’ support to tackle insecurity",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRzJ4dEhJRm5tRGxiRFZKeW1tUWdqQk0tRHdyQ2pZR1R6bnBiUlRMN1pJc2ZMSGFpVm0yS2hoSjZvclVBbk5mdkRyeXhuZVpvRUtQZUJaeGYxRG1aX1d3LVllNUllQnRXbE9HajFZc2tJWk1RSU5UNVNUQ3V2SHo5NXY1TVROS0FQZ0xOaHFEY1NfU1FlZjU4QVdxUnJPdWdwYkVLMXNQRld5dDNSZHlwWkh5NHYtV21NRFNzdk95SQ?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sun, 28 Jun 2026 12:23:31 GMT",
       "category": "Security News"
     },
     {
@@ -330,13 +344,6 @@
       "category": "Security News"
     },
     {
-      "title": "CAC General Evangelist, Ashinmolowo, Optimistic As Nigeria Battles Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXEwSlVVUmJ1bVpjRDllb3ptQUtfbGxEOEV4bjlja1dnLUMyMnlNSl8yNDFxMTVjczEyb2ZsakxPQXJVdTR6UEhwVWVXNjdfSlBpMm5LZFBNS3lxcGJkYzZ1dnJzVVVpMHhteGc5MFBJZ2FvTWYzZi1FVV9fZkpKT2E3Q3laRzMzT3FNQVpaclFZTXp6WnkxeFFlYnN2ZlBx?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sun, 28 Jun 2026 11:48:07 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria’s Foreign Policy Fashioned To Serve Defence, Security Goals – Minister",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHNhdWRPNDVqZkxualBXVHl0UEhUMTZ1UGVHQ05TN2pxWDROS3B2cUJYSkI1SG9rVDZJS2lSbDNfNnVsUzFZQWZsNmZBVHFIUDRzZlozdXJsU0R5ajNFWi1OTFZxd3ZHLWVIbjFiRE9pQ2dRM0poTFFKMElydWM2dC1jYUFFR1pXdnlMZDB6eVl0WWpwUnZqcmlR?oc=5",
       "source": "News Agency of Nigeria",
@@ -344,25 +351,18 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC Seizes 45,000L Of Suspected Illegal Ethanol, Arrests Three In Akwa Ibom",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGdOTVNCX3V5WHFvblZtNWJEc0JKTXFwQmhsTzFnZkROTnd5YjJHNlhVSVp4eGdEWHB4VF93MExQZHFhR0dNdHlwSUM0ak13U2xUV3FYR2Rlc2ZacjRrMExNREVNNjk4cWJpQ3g2b0VsQ1FyLXRKREhJMHZPQkdvUWJqN3FpTXY2ODY3aVJOTEl3RUxpU3lJY3pTRS1kcGNXbVpYR3NVOTFTeHdZUDE1YWZfcF_SAboBQVVfeXFMUDlRak1obWMycFRpRzlibzNXYWtoXzNvekl1c3lpcGhKS2pRUUtieVRFN05xckNUdmVIM0dmQ0NaWjh5aDNhWWt3Zk5qbE1QMnV3dDl6RUxNdlVpcHVub3FxcUNoNUp5SGtTSnZWQ1JNa0JwRFBJWkpvSXRpbFRlZkJWblhfdkJ3QmpRQmZ0QVhkTDk4NGhrTnZJNjViSkhzbVVJSkx2ZG9heFR6UlI4X0JWNXhodjJBMnNB?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sun, 28 Jun 2026 10:35:53 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NSCDC Arrests 3 Suspected Oil Thieves In Akwa Ibom",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRZ1c0UkhoOFg3N1lReDJGZlVCbEhUSGNIaTVjWTRwZmhtODlSelN5dUJmdjIwS0VGLTBhM2k4bUZDeU9sSVVUaF95dzVjSklIRm54aDJPZEtBQlRZanhpbnNXWllGWTNuSGFCaFRnSDBVeV9YamFwaHBOOEhYZw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sun, 28 Jun 2026 05:55:08 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "The killing fields: Inside Nigeria’s staggering human cost of insecurity",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnplcEtpdTZ3UndCcElLcE1lVHVLcC1KNkFUZzliTHFMZ0ZKeHZNeXZpRV9mYVNoemF1Z0pPVFBZb3FJa1N5YjRkUm5yUl93blJhakFfQUExdUJRbXU4eEp3eEhmUEJNblg4Nmh0WUI5d0ZUMVFiamFha08wNGJiUG9aajhKa3ZxeDhpRndJeUdoOTZZcGpIVmJGaUl6SVl0ZGpyZjF6b0lFT2M?oc=5",
       "source": "Business News Nigeria",
       "pubDate": "Sun, 28 Jun 2026 05:33:04 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "What The Latest School Kidnapping Tells Us About Nigeria’s Security Crisis",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWNPMm1XR0R3OUdJT2l5ODJqU3k4X3V0M05xT1kzRTRPclpEaTJfSnd3Z0Q0X281VVpSamxVZ1RuZXczOEhsNzBrOC1mb21Bc3FHWTVZc2dxcXFNZDhvYjVqa2FodXNOV3M1a2NaMlVVQWhRamp1Rmo3YXczOG80RWdfdFhrNmE1aUhlU2dQakxSU1loOWZDbXV6cVc?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sun, 28 Jun 2026 04:34:18 GMT",
+      "category": "Kidnapping"
     }
   ]
 }
