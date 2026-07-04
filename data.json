@@ -1,18 +1,96 @@
 {
-  "timestamp": "2026-07-04T10:54:19.355Z",
-  "generatedAt": "04/07/2026, 11:54:19",
+  "timestamp": "2026-07-04T13:35:34.697Z",
+  "generatedAt": "04/07/2026, 14:35:34",
   "totalHeadlines": 179,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Insurgency": 16,
-    "Law Enforcement": 22,
-    "Security News": 118,
-    "Military/Security Operations": 12,
+    "Insurgency": 14,
+    "Law Enforcement": 23,
+    "Security News": 117,
+    "Military/Security Operations": 13,
     "Kidnapping": 4,
-    "Armed Conflict": 6,
+    "Armed Conflict": 5,
+    "Banditry": 2,
     "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Kidnapped worshippers rescued in Ekiti — Police",
+      "link": "https://www.vanguardngr.com/2026/07/kidnapped-worshippers-rescued-in-ekiti-police/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 04 Jul 2026 13:17:12 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Elections: Oba Akiolu warns against thuggery, violence",
+      "link": "https://www.vanguardngr.com/2026/07/2027-elections-oba-akiolu-warns-against-thuggery-violence/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Sat, 04 Jul 2026 13:08:05 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Looking Beyond the Headlines: The Quiet Work Driving Nigeria’s Security Gains",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWhqRXEtbFBuVFVRMlg4YnNLZndMOWFiOFN4SEExNndkUjZ2WkhBS293Y0U1YXZZeGhyZVp5cXpQTFRiRi1CTkNEN2dwbjc2dFVoV010RGhfc2Z3NC1TRzYtY0Z6RmlLeVFKcFl3bEZwTzBOc29sdmxtVEZWTFlvelhHMHpzY3VGcmpTUU1ZOTVGZHQzZ3B4TllkSm5URHdlR1ozV0VUX3lTVFlEVDhucVh4RFdod05I?oc=5",
+      "source": "thenewsnigeria.com.ng",
+      "pubDate": "Sat, 04 Jul 2026 13:03:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "State police not solution to insecurity in Nigeria, says DLA",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXluTEtzNE5aTzdDN3VfbTJIVjBLdUlfMldXN2hnSWYwaFBnWDZGb3pXQV9hRFBaSHBXLWRVVDIwekQyQ0RzTEIzT1IzY09Gc1JIeklLQmlLY1JELVE3d2VadThvSEZGZ0lvZEZrZndaMmRROE5yRkpOdVZ3OURidnZWbDlqQmZTb1hLX3lVQjdOakVm?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 04 Jul 2026 12:35:40 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Stakeholders recommend family-centred approach to tackling insecurity",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlZtX2hXbzB1M0pka2luTFZzc2haQmhfeWdIMnhWemFFN2ZZZEdsal9rVDRYaHdZNjE4ZTJUTzVkMzE0aGUwZ1B4d01XaHdVYTJadXlGaU5OTl9HMElpZVBqUUJ3WHZJYlNWOEh1cDVrNHgwZF9fWXdiaVdRZTNJM0pRZC1sdDBGMGo0R2NUVmFYaDdORWxKRQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sat, 04 Jul 2026 12:20:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "What the Sahel’s Security Crisis Means for Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGtMQkxnUGpYNkpQa2dsR190aHhaLW9CenA3WkhIOEs0a0U5UnhIUklhRXJPdExOQ3Y5ZkpocjNhcnFzZTBZY3lIMUNZQTZ3NmlvamJfMlFFbHZLMkxxaWo3T2FhV3VkS2pILTd0bFhRS3JfUFZMWWM4N1lQSXNjOVNQYW01Q3ZhSWs5c2xLMkw?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Sat, 04 Jul 2026 12:18:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Lagos Police arrest suspected Eiye cultist, recover ammunition",
+      "link": "https://www.vanguardngr.com/2026/07/lagos-police-arrest-suspected-eiye-cultist-recover-ammunition/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 04 Jul 2026 11:35:07 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Intelligence-Led Operations Key to Defeating Security Threats – CAS",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFprLUNONllFbVRPZEZFcDVCOTNubmx6LVpxVktqZzJ5eFNiSVkwU3VnYmcwaDVYR1BIRUZCeWZtLVBveDZKeEw4UnFzRWNjRHdyZnpTLVJGeU9faTd2NEhoeUJmd0dYYkxEQWh2a3pSeFAzMHQ1VDZEZ2c3eS13U0gzQzByd3hPMFdxS2VR?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 04 Jul 2026 11:28:13 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Kogi recovers 1,000 rustled livestock from late Battijo, other bandits",
+      "link": "https://www.vanguardngr.com/2026/07/kogi-recovers-1000-rustled-livestock-from-late-battijo-other-bandits/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 04 Jul 2026 11:06:55 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "IGP Disu visits Osun ahead of governorship election, vows to deal with security concerns",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3hNVC1NQU5yU1duXzV4eGtIVk9Nc0VXRWtfQ2pTR3ZQUlRURzBHV2RfdURfVVp5OHRIcGhWQnEzUWxQNU1KS0E4eWU0eGQtVlZ3SUpIb2VJQmNFVUdMUjd6YlhkQjRjY3hpMVQ0V2VaNFBxNmNUbzZpZlE1cXlsSmJxWUFGdlNSMURnSUFwMG1nYXE1YzR4a2gzZU1GdzFReDdpamVZd280anRhMlFoWFkweXNwbmU0MVh0TGxaaV9Xdnc?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Sat, 04 Jul 2026 11:01:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Put a price on terror: Why Nigeria should place bounties on bandits",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWNOUkhPejZfMlE1MHNSZk5GM2tyNDhvUFVGeV9vNXAzaGFrYXl4SktWUE9xVXNuVFZicDgyVDF3N29OdDZkYWFqWHlPOG5UaTlWV1FzY2lpMDFLUGQ2UjRlWHNTcmk5OThldjdoUWNyZVQtZG1iUUVCcWJrMTFyYUo1VFV2QnZTQkNuTFVDdldoYXRLaGc?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sat, 04 Jul 2026 10:55:48 GMT",
+      "category": "Banditry"
+    },
     {
       "title": "FG demands compensation from Côte d’Ivoire over Nigerian trader’s death",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1NBNlNsV0RTVVB5QmoyZzhrVTdHempmeVRicTUzZmI1VHpLTXF4ZXJ0dDl2TFA2VzBZVml0NHdmYk5vMHZLUXhYTUhoSjJGWHJuaEI1WmVsVXdPd1RDczFOQ2ZEbk94ZWZCWjVaYjE5M1g1bVJCaVF2Uy1oWHY1TXVxWUIzV2xsN0lCdTU5aWdDd2M1Q1BLUjg4aw?oc=5",
@@ -35,31 +113,17 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Kebbi Hisbah arrests 25 youths in hotel raid over alleged immoral acts",
-      "link": "https://www.vanguardngr.com/2026/07/kebbi-hisbah-arrests-25-youths-in-hotel-raid-over-alleged-immoral-acts/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 04 Jul 2026 09:32:23 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Mali hit by new wave of coordinated attacks",
-      "link": "https://www.vanguardngr.com/2026/07/mali-hit-by-new-wave-of-coordinated-attacks/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 04 Jul 2026 09:22:33 +0000",
-      "category": "Armed Conflict"
+      "title": "Air power critical to tackling evolving security threats, says CAS",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0lZRHctbkZENGRpaDdCQUJmV0lJY1BGTHpBcTFweURlb3RtYlZYLWdCZjRiQ0NrNnlvbDNfdzFwV05faGUyWDVLWGdBNTN1LWdNbThXWXFlNXhJdjdmOW12WlQzcGlmRVpGeE9CZzhvZzRQOGxGVW42NlJpRkRSOFlycW9meHhFVVp1M090cDZ3T2RjU2pKNXRZUk9fQmc?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 04 Jul 2026 08:56:23 GMT",
+      "category": "Security News"
     },
     {
       "title": "'Show us drug dens of Nigerians' — S'Africa rejects FG's compensation demand over xenophobic attacks",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVg3MFlub0VNR29GZjV1WlY3QUtHT1JOb0lSRFdnRHBNb1gzajlKZ3RWYkM3dEZKX0JnYVJCRmJpNi11RVgyUWxPLUJnSjBHUVYtTndfb3RYdVFEYWhaZGs1ZHp0ZVFxZnB4Vkl2bVhBSWl0eXdIbEFfS19JS3c5blAtZVNoVUFiSER3aHBjQ1p5VURRS3pMcmxBckVqZkZpN1FBdjBCZFEzNjhCY2xDdzloN1lGSk9XazBV?oc=5",
       "source": "TheCable",
       "pubDate": "Sat, 04 Jul 2026 08:45:05 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "US turns 250 as Trump warns of ‘attack’ on American identity",
-      "link": "https://www.vanguardngr.com/2026/07/us-turns-250-as-trump-warns-of-attack-on-american-identity/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 04 Jul 2026 08:29:33 +0000",
       "category": "Armed Conflict"
     },
     {
@@ -157,7 +221,7 @@
       "title": "State police can’t guarantee solution to insecurity –Ajike, security consultant",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnF0QjFmOVhVamVsSnBxTEd2TkpGcnpra1NlVVZwLVRoTmZxRkJpdWp2c0NNeFkwOU5LejdjeDV4b0lQZDdfV2tVYW5vN1NyTktnekJhWjZSWVRBLXdrWjZ1VGlERWFjcHVoZnk1RXVjMER3R1U3d3lhLWdlRy1ESS1fQkZKZGFPUnMtZU9Id3NES1M1YVJBeW1vMNIBoAFBVV95cUxOR0hWV2R0TkV4TEZLd2NHcG1zR1lKVnlSTVhNWWNPUHl4UXJfU3d6QUZtN1h3YVlfTmtoN041dzRPbmtDd2ZyazRUejV6ZTc1WTY2M0NsUXdZc0xySEFZOTc3T193bXRWbzlSQWNrTU00OUdmZC1wS1lPMENOWEU3S25idk9TWkxIQ20wZFJILU53TWpmaThLSzNkaVQ4M3Bx?oc=5",
       "source": "The Sun Nigeria",
-      "pubDate": "Sat, 04 Jul 2026 01:52:30 GMT",
+      "pubDate": "Sat, 04 Jul 2026 01:52:49 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -168,17 +232,17 @@
       "category": "Security News"
     },
     {
+      "title": "Nigeria Summons Ivory Coast Envoy Over Death Of Nigerian National In Prison, Demands Compensation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN040VmI0eElEN2g4SHptVnVJTFZjeVBkVkt3c2Nmb05FSlFjWGdUMW5MMFdsbzJjN05KZ2hzcjMwYlptTS16ZFo5S2UyNnlfaF9zajZGRkszTk95anQ5aDdnQkhnRGJwZENfTmZNaFNlR2FGOGhWMmV0djlvbnZFY1NXQ2h6a2VPX3ZjenNpTzkxSHBVblgxRklEbEk5MEtjZ3kySS1KamM4dGdvcHU1dF9rXzBET00?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Fri, 03 Jul 2026 22:45:26 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "US Withdraws Some Troops From Nigeria After Joint Counterterrorism Operation",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDUwWTlkVjJ6YVBPZk5yVjJkdS1vVHpwWUdmWkhkWG1obXo4WWlrUXJSZjlOa1J5SUxMSm1VVW4xSE5raHhfRnBQRFlWa3hFZ2NFV2NfTmJtRFZyZVd3MDFMT1gzWlJ1dTFTVEdQdWZ5bFBrb1pOQVM4ZkVvZ2s1Ul8zWXZZTVJGLVluTmxpWTY2eElKUE05WHM0NWxxMWNFNEc4WDNfWFc2TDhrYVlDT20wdm1rQQ?oc=5",
       "source": "Channels Television",
       "pubDate": "Fri, 03 Jul 2026 21:37:05 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Unfolding the strategic means of financing terrorism in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW8tR2dfSHI4cGs3OWdNa3JfcVVld214cms0RUJzc25jNXljNmdaYUh0OGs5bGRLSHVMNGZ3ZjRQdzNOVVc0bzZTbURSaEw3eHhsdzFKejBUaWhYMHBtUzM3QVhiX2cwQ3pqa19MZEhHSEhZT1hHa0hkSFVRWTRuaVNGYjY2VExZUGx3dEJ3aDlrbXN6WUVj?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 03 Jul 2026 21:07:00 GMT",
       "category": "Insurgency"
     },
     {
@@ -245,13 +309,6 @@
       "category": "Security News"
     },
     {
-      "title": "Air power critical to tackling evolving security threats, says CAS",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRG1TeHZ0RWkzb2JpQ2lQQXp3NktDZVYwdVdTelBqaUJhQzNXTm1GdlJycGV5MkFBQUV4azZWLUNmU0h4QWs3YVRweU5OQnNRZ09GcXFuSFRlUm1QbG1XZEhTZFFkMDJ5MU1ES3otYmFGU1BaOWQ4UzJwZFBDRV9zRTBEUThqdzg2elM0SThvc2NWRm9laWhheUJPR0w?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Fri, 03 Jul 2026 17:26:56 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "US Withdraws Military Forces From Joint Counter-Terrorism Operations In Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWI5UUtUOVA2LWJWaHh6cGFqQ0RpaU9UUkQ2N1NndExSdkt1T2NaWXJhV2k1NDZwdks4NFl6Y3g4Z01Db2dwT3BxOTNIM3Frb09RWWxTRHdFSTM5Z3dxLTBzcHc0RjdjN09NbGZQUjc0UTlXNnQ1ZXhBTzZuVDBkeEVGSEpVV2NXOTgwU3VtWU8xQnlJRzBjWEUwb2lKSmh5b2hv?oc=5",
       "source": "Arise News",
@@ -262,8 +319,15 @@
       "title": "Insecurity: US troops withdrawn from Nigeria following counterterrorism operation",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekxWUlotTEZFVVpqVDE4akplQ3EteHRfcVVPcElIX2VpQUozbG5qSzFmdzdRdHByU1NZTEhJck1wQ2x4OU1XWTJwTkgxUTlpTGo0RlRncm1qeFJGSDdtZGdpckNXZ0I5Xy1GaTF3ZVBuZ2JkYW81NDZJUGdER2paeUotNlJGcjFaTHhuck5vSE0wLVp5REVnamdOMTNpc2lM0gGmAUFVX3lxTE90ZUZrOW1nUUdMcHVQRHZHcXplSlhYenluRkJXY0R2STl5VU02YUViRjNoQmUxd3BNdG5DY3lrLUttalRfYXZfclg4NjFjaGZURXFLaEhVb1JaVmxCTHM0QzdsVk5MN09pU1BYMkFRTWdiRllWZ0JXeWxRODdCYThzMkY4czMzaUJJWHlKWHd6TUFtTFRWUXhpbXpwTlFjeVA1YVgxRlE?oc=5",
       "source": "The Sun Nigeria",
-      "pubDate": "Fri, 03 Jul 2026 11:36:48 GMT",
+      "pubDate": "Fri, 03 Jul 2026 12:41:57 GMT",
       "category": "Insurgency"
+    },
+    {
+      "title": "Security, safety must come first in NYSC deployments – Ekhomu",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUJTNWVuTmtLQUg2M2xtSHJTTlhsU1dqR3ZyYmFKUTVBLUwtaVdEeFBENUJDenBuMUkyMGIyN2ZxcXlMV2ZEenlmbDY2RzVFSWNob082LXBQMm1iSHJ3eHRZZkx3WjVyWndSemZhS1VrcEVUMnlQc09xZkp1Y0JJZHNEQdIBiAFBVV95cUxPMjB3N2Vvc1lPTkdBNkNWQmVxSGJMSFYwOVc2QnVJQTN4dkhRR0w5SllsZ3pWM3c4cXJvb1NreTRuRjhXeXhGLUthU01KRVJiSU5nUVBVbWFLdjRRRC1OU1p6SzBEWkYtWkcxQ0RsQ1E0eUtUbzF1WGRvcEE5Q3pYLVRNX0RJcmZv?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Fri, 03 Jul 2026 11:49:54 GMT",
+      "category": "Security News"
     },
     {
       "title": "China delivers first full-cycle cassava mechanisation equipment to Nigeria, boosts food security drive",
@@ -299,69 +363,6 @@
       "source": "Voice of Nigeria",
       "pubDate": "Fri, 03 Jul 2026 09:08:54 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Security, Economic Reforms Yield Results – Nigerian Leader",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmFfT01mWUZhd2ZKVmpiYnRrVERiNHVNSk9URl9vcjhiZVgyX2VsVWY0aWIxTU05MDRmZ1NfdmhLTjhpQnJnOFdCbGlUa3VaQUZjSm9GT3FXX3pnYmV2WjRsZHpwbFp0Qzd3aFRTZGVFRDVuTWtYdkdsZHRFU1pDbg?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 03 Jul 2026 08:16:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Police Accused Of Abducting Secrets Reporters Journalist Over Investigation Into CBN Deputy Governor Emem Usoro",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRk9wdkdkS19hQjhqSFBiSXJ4LWpKSy13bktLclp6ZEhoazl5Y1VyRXZ6TC0xVWZmMXdsYjlOV3pNdUhHMVoxenN2WE01OFFrZkZpY2tUNm42X29EZnprMjZBcnhWZFdjdzhlbU5Fa3BVdkpGVU9jbjJMN0RYUlRMUUUxdTlsNnU2bldwNkJOZXZseHdiRGVuc2dlQU01UWpSZGpkek5XQVhNZkFCaU4wUjN1dGNVbW96dEYzSVBHYzM?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 03 Jul 2026 08:11:44 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Security expert advocates strong family values to tackle insecurity – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmZSd2pldVZxa1FzamJNeFU2UXpVajZiR1JYa0V2QkZ0ZVhlcDI1TFBnWkdtNVA3aDBURkdOOUNXRVhHcmVsNF9oUXM5X0pQRkZYZmI4bHpTalJnbFJOZ0ZNRjZHVWM1R0x1QU95eFdDNS1hR1UtRVpjWnkzUHo5Qm9xcnNJbjdNOFlwNGhET01CN3FxQ3F6b1lxYVN1ZW1aNEhRaTJnMWlMRFE?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Fri, 03 Jul 2026 08:08:46 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian troops kill 1,597 terrorists, rescue over 1,500 kidnap victims in six months — Official",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb3NPRzY1aERNZ0ZXZkYwOU0yVV85VXJQbWJwZUY1eGJBSmtBbkhvc0NHTDU4V190MG13eXFtdlhuTHhaX2ExYXg1bU5tbnlPUUcwU2NQRWQ3S2ZKOXctbC00b0xEQTJwUEFZM1ppckNrWFZFTE5HaEEwanJlaC1GanFkQzJRRmFoU1dpQ0czUHhRRXp0cktHcFFXQTVSdGVKSm4xWkFLZmdCMUl4WE0tbFY3UVBPX3NWYW12YnlKaXE0YUdicW5jV2RrNzYxal9XYmNmUzRiWmNuSXRKSHpEMHFn?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 03 Jul 2026 07:32:08 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US withdraws troops from Nigeria after Lake Chad counterterrorism mission, retains intelligence support",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckNUa3F4em55U3B3T2hzaGlrajNkMTc2NWJvaG1Ec0dTaVo5ejQ3YnlZOXVWN29FeWp2N0Vzb3JiQ2hjczVUcVFXNnpzNlRkMnhiWjFFWTh6WVYwVy1Tc1REUWVRNjZ1RHdIWTNrRlAtbmJtMnNWU0JYY0xwVlBwSnhlbjNhRDRPRkw0aG9rNVRNY1MxMzBaRS12UTRlbkRQeVZVN2FrSXQwa0I2aGs0QXUtNGp4Q3d0a2dmNnJDVTYweFVIcC1aSElfMjVLZjNWSm9WZmJR?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Fri, 03 Jul 2026 06:16:09 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Tunji-Ojo Seeks Stronger Federal-State Partnership On Security, Governance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1l5Q1M1bzF3V19lMGh3NUFxVHQ0bzg1TWtuUjFQSm40NEhGU1FvcEVDV3dnd3ItbWRYaGdPY1N3RTJYRFlGYmprQmJ5cTFXN1VKN1JRcGFnTUYzaUlTUGVlUVU2ZVk0YmVlemxZUHZ3QWtjdWtnMTV5ZTJlM2pvcFBIdmxwWHRMYjNHZ256YVJXSDFuNHl1aE82RQ?oc=5",
-      "source": "Arise News",
-      "pubDate": "Fri, 03 Jul 2026 06:15:51 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US-Nigeria trade hits $15bn as America pledges deeper economic, security partnership",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXBwRFpZSGFva0dtTlpIMWRfRkREa0x0SHNPYVhxR3pqOHNBcVY5Sk1nVmx5UFp3aGdBb2U5b3hEVXcyTHdZTzhpMHlucllFZ2Q3MFhXNk9jNURYY0hqQ1RXRDlYV0o0Y20zN3JkUWhMZE0yaDhNMTN6c3ZabUxfcDhoY1d0SWZpc3pyWDQxb194anRnM1JlV3dqUGItMHVnSURr0gGoAUFVX3lxTE9TdlBETUZSVU9EdVg1dHljNGdIcFJHZFNJcGU2Q1FUdVpoYjh6dkJIQWxfNmNyZDVUX1F3T3E3QU11WjBHaS1lUUVVSm1tamFMR2JGVDNHSGNkNlpaT2ZOU3E4TG44WEc4cjh6WFZycWFvYUxnSFk1ZmVITmlKaDdxQ0ZJOVFjeEYtWjBCbWd6Sm8xekRDUzhXNTE2U05lZEVYSXQ5VDhRbg?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Fri, 03 Jul 2026 04:32:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "th Independence Day: U.S. to deepen security, investment ties with Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVE5qRzJoa0pqSl9SMjd5a1VVWGZ6YWNUOGVlMTQ0d2k2Q3pQS1RJMGt0enZ6ajA5QWdVVmRzQVZjNDg0ajBfMldPdEp4TXE0NnZ4UzVwVEduc3NDb1A5TU9ESUltdEpLLXVXVmFBY2VOdjU5QUtRaXZCZ1JIcUFKM25SRTJOR3BqWDRVWDNXcl9HZEViOTBaYUhSb3F1Yy1raXc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 03 Jul 2026 04:03:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US-Nigeria Trade Hits $15bn As Washington Deepens Economic, Security Ties",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXBFV2V6aFliMEVNTEZrTmJzZFEyOXZVcnV2VVZOczExdmp1em53dWZ4YXJFN09VU1B3TW5jTVBTSEZkRzFLcldGbmR0S3g3Y1VWbExnTzZ1NWNBaktnU3dIYUFaMlZuOThTanNHRHVDcEw5QlFNbW5pXzVqS2lidEZaTEN4Ynd3XzdOYkFqLW03WTNpX0dUZk5TWQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 03 Jul 2026 04:02:03 GMT",
-      "category": "Security News"
     }
   ]
 }
