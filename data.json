@@ -1,19 +1,103 @@
 {
-  "timestamp": "2026-07-05T13:41:43.867Z",
-  "generatedAt": "05/07/2026, 14:41:43",
-  "totalHeadlines": 179,
+  "timestamp": "2026-07-05T16:09:50.091Z",
+  "generatedAt": "05/07/2026, 17:09:50",
+  "totalHeadlines": 187,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 116,
-    "Law Enforcement": 25,
-    "Traffic": 3,
+    "Security News": 126,
+    "Law Enforcement": 26,
+    "Traffic": 2,
     "Insurgency": 13,
-    "Kidnapping": 6,
+    "Kidnapping": 5,
     "Armed Conflict": 5,
-    "Military/Security Operations": 10,
-    "Banditry": 1
+    "Military/Security Operations": 8,
+    "Banditry": 2
   },
   "headlines": [
+    {
+      "title": "Army executes over 250 intervention projects across six geopolitical zones",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1lEYzh6SUEtWXllRktPRy1uQ1c2eXlpWmxuUlo5X2VaZnRmYWI1N1l0eGY4c0dfV2F2QW0xVHA3bDBmdkFEd2lrSlF3US1RM1V3T3RzYjhycm9Sb29mcUxvQy1HM1JfVlhWcXlpc3BhV2VNUGZPd2p5azdBb01POE1aLUpMbzI2OTlLZkw5UmIwaTRMU3N2Y1A2NjlIVlJhdnc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 05 Jul 2026 16:04:53 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Meth labs concealed in forests another emerging threat, says NDLEA",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVktVGZhNDdGX1VoaC11bDRkYXBkRm1JZV9iMEpPUE5pdGZrSkNsM2ZtRzgwUVYyd01hcmNtYWN4SF9kckVYeTM0RC05REY4MGNjR3BiaHlxY01USXpmZ25ObWJoQmJhU1RFQzMwYTNPVVprSmdvd0hFS3F4eVppdjZhZkY4VWhMemxhUGs3OTk4TUM3T3c?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 05 Jul 2026 16:04:47 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "CPI defends security agencies, slams Sowore’s ‘derogatory’ comments",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDJiZVNydnlzNUdvN0N1MnhhRG9Lc21IcjFMVHAzc2RxNGdhVXNMandfbmhGV0FCdFEyb0w1cmZ2TTR3UWZ2aloyN3VMMmc0a0dYbjU1MTRpRmV0YXVQdDYwZVR1ZUVPaHZZUldtT3RIMW9tUjYxd0lia0NNZmR6V0dqcEJlRmNtX19ZbTJ1Y9IBjwFBVV95cUxQSDJiZVNydnlzNUdvN0N1MnhhRG9Lc21IcjFMVHAzc2RxNGdhVXNMandfbmhGV0FCdFEyb0w1cmZ2TTR3UWZ2aloyN3VMMmc0a0dYbjU1MTRpRmV0YXVQdDYwZVR1ZUVPaHZZUldtT3RIMW9tUjYxd0lia0NNZmR6V0dqcEJlRmNtX19ZbTJ1Yw?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Sun, 05 Jul 2026 15:46:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Instability in Lake Chad, Sahel worsening Nigeria’s insecurity — COAS",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2VMMUl6NnRHdmJyc1hmV3BSWjVEZE5MdFpteG5RUWxIUzhjTW13cGhDcHItR0hGSGpyNFJndWtIbGc0bXBiWGFhY1FIMXh5ajFEMVdFUW1XRXFQZ3hOa28yb0xjTTBQUUQwcWdlbW8xc1hPTFJicTkyaVVmY2hlaEhnQ3BnZW9kZ3VuTFlVRzM3UDlPVVRWTk9OelloYlk?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sun, 05 Jul 2026 15:35:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Zamfara won’t negotiate with bandits, says Gov Lawal,",
+      "link": "https://www.vanguardngr.com/2026/07/zamfara-wont-negotiate-with-bandits-says-gov-lawal/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 05 Jul 2026 15:11:11 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigeria condemns deaths of 2 nationals in S. Africa protests",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE5QaV8yeW5kT0NDRU02S2N5TDBDbTIxNHFEVUNocmw4a3hUMDZGbEZ3NUI2YTM4SHI1UkpNX0dGd2tBbWlOMEljeEFyaWlGVGY5RjR3Yl9PN0JmeXN1UlBkejlBcTVKUWxfY2tTcGxkNWdhM212Y3hhTk0yRFY1SDcxSzk5TlpmNkdtd1ZnblcyRkZoU0pnQ3hVZEPSAZwBQVVfeXFMTktOT3k4MTdaR3VRSktycVQ0aG9lY2NJQm56ZGhWZ3ZkeDJVWDlJQjhaVlB0ZXRhOVRyQ3AtTmRmM1k2TTMwT1F6dXdTUmZ3TGRlUWFYbENSY0VCQzVNbGlJeE8zQi0zRnBmOVJjRTY1ZXBIMzRqRTk4c21FR2RPSG5XeDZYZ2oxcXU1SXB4LVVPR28za3BJWmRiTUNz?oc=5",
+      "source": "DW.com",
+      "pubDate": "Sun, 05 Jul 2026 14:49:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Anambra police link crackdown on tinted vehicles to security concerns",
+      "link": "https://www.vanguardngr.com/2026/07/anambra-police-link-crackdown-on-tinted-vehicles-to-security-concerns/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 05 Jul 2026 14:36:30 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Tragedies of insecurity in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZmpRRU81VUpTaHJZMkJfWmZhb201MVFjNnd0YmRkRGNnQTAyOEtidVZ4WnFqOUhLZTVkM3RJZERHX2Y3anltOUkwNDZJcjk4N2M4Q3ROcjdqWlprMW9HOU1ZN2xnZ1RhSWhLUWVTcWhMeUtDRzVIb0tpb0FDUzg?oc=5",
+      "source": "Champion Newspapers LTD",
+      "pubDate": "Sun, 05 Jul 2026 14:23:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Two more Nigerians killed in South Africa following anti-migrant tensions",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGUtN1VZSDY5NTktS0pvTE1qc2VnWEMzQVBSTFhfZXE0RVRRc1BQdHlUTFM4aktiellYMmRXUW5SNnZkTE1mcWk3N3J0enQ5VEc3YWRwb0VUakhNYm9WNzdPTTVHTkxUZnhSZVBtOXZoWElDRTUwNm50ZnpRWnE5MnVYQUJ0YWNYXzJOSzFhZms0eXZzeWVxMzBrbkNWQzg?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sun, 05 Jul 2026 14:13:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Imo Police impound over 25 vehicles with covered number plates",
+      "link": "https://www.vanguardngr.com/2026/07/imo-police-impound-over-25-vehicles-with-covered-number-plates/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 05 Jul 2026 13:55:31 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Man arrested for alleged attempted car theft at Abia Church",
+      "link": "https://www.vanguardngr.com/2026/07/man-arrested-for-alleged-attempted-car-theft-at-abia-church/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 05 Jul 2026 13:49:31 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FG Slams Killing Of Two Nigerians In South Africa, Threatens Action",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEt3Wm45eG44WEtzXzBYS0RoOEhfMVduWVdQVWFsM2RTcFExTU1HM3RFR2c1Umx1ZEdyWWtzTzlpNzZSemFBN044bFpnOXVYQTh6YU5jVE1xRC0zVTFkblFyeTI0SW14ejJjVGJnWGc4c0ZmWW14d01xUTNIT0pCSVVXRFcwNlhfeXdPYkJGbzFJdG5ma3NZNzFDQmpUcGI4SW1rcEpEX28?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Sun, 05 Jul 2026 13:42:03 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Industrial unrest looms over threatened FCT workers’ housing scheme",
       "link": "https://www.vanguardngr.com/2026/07/industrial-unrest-looms-over-threatened-fct-workers-housing-scheme/",
@@ -22,24 +106,17 @@
       "category": "Security News"
     },
     {
-      "title": "Nigerian Army Highlights Sports’ Role in Operational Effectiveness",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ204OGNkNEYzbmRBcUNhenpzYWVvdjNocTJvcW1rRFdBYndEeUtEcWJkYllHb3Bicmt5QTNON21MMG1KeHd1SkUzc2JJdmhoUDhjZGJHbl9OcmFFb1NWVy1YS1NQbHAzZ0lhMl9JUHAwZ3M4M2dHT2QyQWRycGdLSlI1MklzSWJDeVVyaXR3?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sun, 05 Jul 2026 13:22:42 GMT",
-      "category": "Military/Security Operations"
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wM1l5LUo5RFdUZEhfSXJib0xqRTd3VnFJZlktZExpcnZka1RIYUxSVnZYXzBPRFlveDZlNl9ibE9JbkQ5WDFEUjAtRnhSNE1hajJGMWhGbmhPdw?oc=5",
+      "source": "BBC",
+      "pubDate": "Sun, 05 Jul 2026 13:09:20 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Police impound over 25 vehicles with covered plate numbers",
       "link": "https://www.vanguardngr.com/2026/07/police-impound-over-25-vehicles-with-covered-plate-numbers/",
       "source": "Akinbayo Wahab",
       "pubDate": "Sun, 05 Jul 2026 12:59:06 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Lagos police raid criminal hideout in Alimosho, arrest suspects",
-      "link": "https://www.vanguardngr.com/2026/07/lagos-police-raid-criminal-hideout-in-alimosho-arrest-suspects/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 05 Jul 2026 12:56:07 +0000",
       "category": "Law Enforcement"
     },
     {
@@ -64,13 +141,6 @@
       "category": "Security News"
     },
     {
-      "title": "Interfaith dialogue key to tackling Nigeria’s insecurity: Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGhwUDBWSTRXaVE1UkVDb0J4WEpOTkNEQlpJTjF5UGtRbHA4U0xfZ0VwTjAwSkNjUVMwNmJjcVZfeXNwZE05VmhkTTBWTk9YUmxOZkdacklHLS1ZdjVUNW9RN09RZ3dNZDNVTl9lQUJmM0c4MHFjU0FkTWZibDVoOXc0UjFNTjRNN1VxbHhwcw?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sun, 05 Jul 2026 11:59:32 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Wildlife trade, insurgency fuel risk of new disease outbreaks in Nigeria, expert warns",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTJ5ZEk2RDNTRk14c1VHdlF6T3VqaEZfTVJ0cXVQaDZsOVJjVU80Z1BLdFhGRDNhcWFkcjk1Q1EzQ2pkbFpXejlTWDY4REFjUms5VGx0YlFibnhKWENsaHlmN0Y4YTFrRG9CWk9lZ1NYY3hVaUVOMHgxQzRQUVhQdEpqZVgyelNUaEdmekNYR0x1NVZHRE82T1hGTklYdzJRemdnUk83blN6dUVWdktBZ1RzOFg3VmZUc3Zz?oc=5",
       "source": "EnviroNews Nigeria",
@@ -78,18 +148,25 @@
       "category": "Insurgency"
     },
     {
-      "title": "Three vigilantes killed in night attack on Plateau community",
-      "link": "https://www.vanguardngr.com/2026/07/three-vigilantes-killed-in-night-attack-on-plateau-community/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 05 Jul 2026 11:29:09 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "National security and the role of the military industrial complex",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjAzRDFHMEpNVDV6TGpITlVaTUVkV1BILW9GVG1ITFhVZFlSeHJ5RWthdHdKNHhrR0NKQk9vbVFxV1VjU0xiU2djWVBvckR5bWtNY19iU3pkc0w2d3R2V0MydC1XSEhsUm9aYUM2QzA0NlFtRUJfMlg0ZTdQWDN1UmNvQXNMc3YyNHNoa3BERHFkc2xQ?oc=5",
       "source": "TheCable",
       "pubDate": "Sun, 05 Jul 2026 11:07:00 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Nigeria Demands Justice for Citizens Killed in South Africa",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFBvUk55bjY0TDNiTmFnUFk4OXNhQm5uVDVNOXpEZlVuaFk0ejBkMkhRRFVWTFgtRkdZc0ZSS2pUd0tRQ2tZZVA0eW9sUFdxb0pqRmRSUlk1ajE3UHZDVno1MWhPdWhOZ196M1BMaS15aGRMX01idkVHZjlIT0NxWC0tX3VNcnhS?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 05 Jul 2026 10:36:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NDLEA arrests Nigerian-British grandma with 13kg cocaine hidden in plantain peels",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3NnVlJFUDd3bzNkeGd2dFgzRkV4aEFuQzEyNjdvb2s1WXdZSUI5TW00YTNiamlQQ0hKbEpTOWZoc0gyTHlVZ1NVYkVIaml2aExRS01Rb2pnbVlVdEtTM001bEZQTmEzMDhiMElxUW8xcXU2S2RJM2JKUVE1OWg2ZXpDdldKOHhlQ2tYS3BseXNhMVNscU8wZGdKeTBGVFRDRUpnZA?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 05 Jul 2026 10:27:00 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Air Force chief calls for intelligence-driven joint operations to tackle insurgency in Nigeria",
@@ -113,25 +190,11 @@
       "category": "Security News"
     },
     {
-      "title": "FG Slams Killing Of Two Nigerians In South Africa, Threatens Action",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEt3Wm45eG44WEtzXzBYS0RoOEhfMVduWVdQVWFsM2RTcFExTU1HM3RFR2c1Umx1ZEdyWWtzTzlpNzZSemFBN044bFpnOXVYQTh6YU5jVE1xRC0zVTFkblFyeTI0SW14ejJjVGJnWGc4c0ZmWW14d01xUTNIT0pCSVVXRFcwNlhfeXdPYkJGbzFJdG5ma3NZNzFDQmpUcGI4SW1rcEpEX28?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sun, 05 Jul 2026 09:27:26 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria demands explanation from Côte d’Ivoire over death of citizen in detention",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmFxdHBfSXFnZUpfMFpNS3ZiWGxBRzZiLTJCQjRzUC04b3hKZ2p3aEZtTUJqMWFabFEtOFBnSHRLemhQdUY5QkR5dVVCaGJYX2hxdHl4ZGt5SFdTS3dpeHpXbzdGQ2ZNY0RxRF9JUGI4X3NYUUFwTlNvWmJiWVhpdjZLXzh1VWRvczhiRkxSa3JsTjNLdXRLbVJkS3o4ZHdWc3RXMnFpMVoydXpJQjdQU3JjaFJPd1lV?oc=5",
       "source": "Business News Nigeria",
       "pubDate": "Sun, 05 Jul 2026 08:51:03 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "World Cup: 2 countries crash out of  Round of 16",
-      "link": "https://www.vanguardngr.com/2026/07/2026-world-cup-2-countries-crash-out-of-round-of-16/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Sun, 05 Jul 2026 08:41:10 +0000",
-      "category": "Traffic"
     },
     {
       "title": "Police rescue abducted woman , son in Kwara forest",
@@ -145,13 +208,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclhvdVdCNldYQk9jWi1DNjlodmlMTU9SMUp5SkxoTkR5OTVROVhMSzFremdOd1paN292MTJTbzcwVXI4NkVMSkxsejRBU1puUUZ5OXNpaUg2SkxRV0gwYnEtSVgzVzd3RDN1QUZoTmNBVmdMeXlWb3FCTnpULWFlVlJ4VDdHVXdzMjR5emhCcnhYazV4QUlIOGw0OWMybHFjOGx1QXdUYzVBTGZaeTZjZnViTDdSeEtEZmY0NTln?oc=5",
       "source": "Arise News",
       "pubDate": "Sun, 05 Jul 2026 08:28:20 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Peter Obi Blames Leadership Failure, Insecurity For Nigeria’s Deepening Hunger Crisis",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjZaUkpFWkhkNVJ1U25DbG9LUTFiWXoxLVd5MEpMeFhldUh5SEdBVGtDS29qTTF4TUJJSlFUU1JrQVZobFVKRzRtNDhZVlR6MDV3V2tsRDUzeVhwOFdJVUNPRGNwc2gyUzFTcmVTbHNMb3ppMU9mNDJCM2h2SDgtTkhSQ2ltTjBMb25ITEZ1SE5vSl85R2VNVzJtUG9rekhkdGFKZk9Zd0U?oc=5",
-      "source": "Arise News",
-      "pubDate": "Sun, 05 Jul 2026 08:26:15 GMT",
       "category": "Security News"
     },
     {
@@ -218,6 +274,13 @@
       "category": "Security News"
     },
     {
+      "title": "“Much more needs to be done”: Catholic Archbishop of Lagos on Nigeria's Insecurity Crisis",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWNFU3RJVDJmeFpuVEZUeU5zZHpyYkc0WlNKaXFrUURoWDJlUGs4OE5zWVdOXzRtVEdhWXdNOFgxOFFzTXJMamFOd2oyNUtfUE02NFpWLU1TLWo4QTlBR2o4NlZnOF9EczFBbHFGbkJiQUdYTmpnQUFWRW8wWnFhaHY4S3NBSHhiSENNNTl3YldBQ2I0NkdlOUtkc05HZ2NVRnhWUHR3MWFUM1V5amlNX3o3VTdENk1RSmRSU0xwc9IBxAFBVV95cUxQTDFfYVh1a3VCaHBFeEJZOGVPMUY1aExLeGJwZml2OS15RjRKTzVlSzFTcTJNb0I3MjlMYTc5anMwNVVxaktEcExza0h2LWIxSktLWUducGpUSEZ5Yldkd2RPbXhmUUFGUHBJd1BsM3MteUxqRzI5bjVYbkNFUjQ4RzhwRHZHclNFZHFab3V4S3djYndwMmFFT3VkekdJbWpISmJtY2otRFFqWXk2dlNKZXB1NXUtTVRPeEZvYU9jd3drQk1K?oc=5",
+      "source": "ACI Africa",
+      "pubDate": "Sun, 05 Jul 2026 03:48:01 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "US troop withdrawal: Experts urge stronger security architecture",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnZIMDJ0RzFrenlpM1lPN1lWdnNCTU0tX1c1UFVrTlRwbmFyWEtiampvR1E2d0tjLW9QZk9kNHpnM25uN0R6VWVqT0hRaV8wcEhLVi1YdkJDWWhlMnhiSlJRUFNieVNIaHhaOU1lckp5UmxTOEJydlJ3X0hxSi1ydzNCSmx0blUzRUtQaA?oc=5",
       "source": "Punch Newspapers",
@@ -267,13 +330,6 @@
       "category": "Security News"
     },
     {
-      "title": "After evacuation, Nigerians left in S’Africa resort to self-defence",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ085bFlGY1lYeHdTZGg0ZDR3WXhja1RhMmhXNEEwMzBUMkdFa0ZJdnNUbXh6NUpnOHJmZGxDTkpMMy10UzZaSFZDczkzbkh0T2tOVWZkRTliS2EzTFN5LVd3WVFyMzluWmF5Q1Zha3JuM3BnSGhFb2Z2dEk5MC13U3JGdk5iTHVlQTlyVXI3SEJLaGUyN0E?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 04 Jul 2026 18:16:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "COAS reaffirms commitment to tackling emerging security threats",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVNNMWF4NXJySDFIWm5lVDFNS3FLb1gxRzlQeUxCZTdSbEF1SW9YcDFRUFRaT2l4YkxHY0dwV1d6c0xiYmNSSlRLYWQ3Tlp1cE1wOGZMaGVqWjBhV3ZGSkJhb3ZnTWpwSGswa2VwT1lHNFRPRlB1N2E4RDFRSldiUk04MkZfUXMzZVNYUXAyOVM?oc=5",
       "source": "Peoples Gazette Nigeria",
@@ -307,62 +363,6 @@
       "source": "The Nation Newspaper",
       "pubDate": "Sat, 04 Jul 2026 12:35:40 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "What the Sahel’s Security Crisis Means for Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11RnRKOVpTZmtnZWQxWlhnSlJMQWxDb2lqbWZQSEdmTUtYa1hEWmo3RTlfbEZuMVpzajJtaUZQcUdXQUkzS0c1WnhDYWFJWjA1WmNDM3EtajhTeXFhVFlHd0g5S1V1Q1piRGVvQ0piMGk?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Sat, 04 Jul 2026 11:51:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Intelligence-Led Operations Key to Defeating Security Threats – CAS",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFprLUNONllFbVRPZEZFcDVCOTNubmx6LVpxVktqZzJ5eFNiSVkwU3VnYmcwaDVYR1BIRUZCeWZtLVBveDZKeEw4UnFzRWNjRHdyZnpTLVJGeU9faTd2NEhoeUJmd0dYYkxEQWh2a3pSeFAzMHQ1VDZEZ2c3eS13U0gzQzByd3hPMFdxS2VR?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 04 Jul 2026 11:28:13 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "US Troop Drawdown Raises Fresh Concerns over Nigeria’s Counterterrorism Readiness",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUpvbnF3NTZmNzhQNFdpWjZJakNveDBiUmNqWDItZnNXQXBraGJHZmdBbmNaQVdKcmdmTWtvdkF0TnhCMk54Z29HSElkcTR6ZDdaN3pnTnVzNXN5ZjRENG5zS0VZdDZpdjRNWHloVHJLVHBuaXVuSUpCdjdySUI1N1FkeEQtSHpXQ1hhVDJGaDVvUUhUSHAyTlFTOUNjcllnQ0NfWEE0bFE0TjVHRXRDVUlxdDJ5NWNGV1FVNw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 04 Jul 2026 11:12:07 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Put a price on terror: Why Nigeria should place bounties on bandits",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWNOUkhPejZfMlE1MHNSZk5GM2tyNDhvUFVGeV9vNXAzaGFrYXl4SktWUE9xVXNuVFZicDgyVDF3N29OdDZkYWFqWHlPOG5UaTlWV1FzY2lpMDFLUGQ2UjRlWHNTcmk5OThldjdoUWNyZVQtZG1iUUVCcWJrMTFyYUo1VFV2QnZTQkNuTFVDdldoYXRLaGc?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sat, 04 Jul 2026 10:55:48 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "Nigeria's Security Puzzle: Can Vast Forests and a Rising Abduction Wave Be Tamed? Defence Minister Musa Pushes Back on 'Ineffective' Label",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUxqQm42TTduNFBnU0lyTjU2TEtoeDZoUzczX3RfWkJnV1BMek1UejJ6c1hkWVZ0ZFNWcFJMWVBJT0FqNFdjYlppMmJxTFZzTlZwOVkyM3cxRFBKdkRCTDlfYno4TUp1dVpkdHBuMWdRQjFZeFBMbW9HbnYyYXBrNGxWb0JRbWFfS2NkN1ljNkUzcWo3clHSAZQBQVVfeXFMTzdTb3hrel83cWU5YlBOXzhMU3Vna0o3MUlfall4Z2ZXWTd4S2JTVWhucVdvN0NkM2pWMnd5cmVtc1FPX3V3UE1qSlVpek1LcHhNUlZlT0UwNmxOclUwOWo2LXZXdnN4MTUxZFEzeXNnNHcwRGQ5Uzhyc3JhQUxmZ25zblVEd2d1QUFyZ3k4NkFnZU5Gdw?oc=5",
-      "source": "Modern Ghana",
-      "pubDate": "Sat, 04 Jul 2026 09:57:45 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "South Africa rejects Nigeria’s compensation demand over xenophobic attacks",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObk84M1NJbUVFbUNIWHQ3cVVFRFJ6UG0wQzJfMjlteWZNYjlicUdObXJYVUxMOWVGckZYeTJ5b3lQWnhKcW1LaUcwaS1GNEJmVndkaUZid3M2a0VwRTFIRXFVUU84Q2tYTEJYTzRVWHlxXzhDN1dscW45US1wWW82TGRQYnk4NU93SFlXOHVtazBXM1FSUDlVOGV6SXozbkFYOVdZMTRPUjlXUDQ4TlpF0gG0AUFVX3lxTFAxSTR6ZlBZNkRDMEJyLVdyaXRWM2xlT0xueG41R0YtN2UwWElXZkNleUlhMlFIeFh1ay1rc2s0UDl1UGpaZnV5OWNtLWhia2xyWHlpcXdGMW5zVGc4bUVYZ09MMldCQmg0LWd2MTVYWEEybENQYmJwMEJUSl82NV9QUnNoYm1YVmNtNy1wWm5LMks2aEloendBT01LVkF5Z2o2ZHRwNmp4NTR1Q0xRMmdLU0lnbw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sat, 04 Jul 2026 09:44:39 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Air power critical to tackling evolving security threats, says CAS",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0lZRHctbkZENGRpaDdCQUJmV0lJY1BGTHpBcTFweURlb3RtYlZYLWdCZjRiQ0NrNnlvbDNfdzFwV05faGUyWDVLWGdBNTN1LWdNbThXWXFlNXhJdjdmOW12WlQzcGlmRVpGeE9CZzhvZzRQOGxGVW42NlJpRkRSOFlycW9meHhFVVp1M090cDZ3T2RjU2pKNXRZUk9fQmc?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sat, 04 Jul 2026 08:56:23 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "DHQ dismisses reports of US troop withdrawal, says Nigeria-US security partnership remains intact",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU3pMMUZnY3BwUlhlSmdqY2JnU1hvNGhMNUszZks3MkZZbkhPMlJ2dWpSZ0c3ZFlEcXV0T1RaeFh1LXNvSzhnOFhYN19lWUpRQi1pWHduZldPSU9DNlg0WWxPSjlwQ3hhU3JKUEF5bHRBT2RLZGdVczRHV3lOc1VrN1RhVHFuZmFJSXl2d2dFMXB0T3FsUl9BWGFqUFAzMGVycnUtV012VmNGMklVQ1A4ZmdwY2xTQlJ1TG1mbEtsdWdIa0o5dFpyM1pWX2dIZw?oc=5",
-      "source": "Pointblank News",
-      "pubDate": "Sat, 04 Jul 2026 07:37:07 GMT",
-      "category": "Security News"
     }
   ]
 }
