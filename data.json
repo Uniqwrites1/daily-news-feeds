@@ -1,31 +1,143 @@
 {
-  "timestamp": "2026-07-10T19:28:59.649Z",
-  "generatedAt": "10/07/2026, 20:28:59",
+  "timestamp": "2026-07-10T22:04:26.865Z",
+  "generatedAt": "10/07/2026, 23:04:26",
   "totalHeadlines": 180,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 110,
+    "Security News": 105,
     "Armed Conflict": 6,
-    "Law Enforcement": 29,
-    "Kidnapping": 16,
-    "Military/Security Operations": 6,
-    "Insurgency": 11,
-    "Banditry": 2
+    "Kidnapping": 17,
+    "Law Enforcement": 32,
+    "Military/Security Operations": 5,
+    "Insurgency": 12,
+    "Banditry": 3
   },
   "headlines": [
+    {
+      "title": "Oyo victims’ rescue: S’West Fulani chiefs commend Tinubu, Makinde, security agencies",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNk14bUlWczB4amo0ai1IQUl4czF1TVA5enQyelprYjdmSTh5YmNrQ1ZQOC1OVWdlRGtjRXNKeTRSdUNfdjVybEVSWUd5NFVWSjM3WW9nckxReWxjOXZ3OVJOUV9EZ0QzV1MzUGlTa0FBeTJlbm4yU3VwUFNPQURxYXhFczItZlI1UE1qd2wxbWlBLS1fY0h3S2M5MkxURFhRYkNzUXMxQVR0X2wt0gGyAUFVX3lxTE0wMXV3dG9XbXFxVk1rNVNXVGY0WFpkRU5Gb1MzX2tNS0hTVHNpa2JqUW80WFhoOE5tOHFzZjNHUGlzQmFiYTVWNERwbnNIeFhhUWYyaWg2T3NpQjZielpFUFMwR3dyZEZSTG5zdGpqUjZUanRKbGZUTDNyaFEzQ1RQZG80ZnFHRE5ZYVZqWUpwOEVmMXJVWTJzeUNiSkJCbE9ETENPQ3daM2p4TGJQRTQwNnc?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Fri, 10 Jul 2026 21:55:14 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Oyo abduction: Abiodun, Obasa hail Tinubu, Makinde, security agencies over rescue of pupils, teachers",
+      "link": "https://www.vanguardngr.com/2026/07/oyo-abduction-abiodun-obasa-hail-tinubu-makinde-security-agencies-over-rescue-of-pupils-teachers/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 10 Jul 2026 21:46:44 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NANS seeks counselling, scholarships for terrorism victims after Oyo rescue",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG1DTDc0ZXVtbHRJcWZDNTF1alZpVDFBQldXM2d0dnZKLXRkNnQ3UEN3LU4taEhpSEhkV2gySjZoR1Ixdk1Fb3pGWWdWZFJ5SFgwZHMyUmpDOTNHVHRpWUZ0Tm9uVHAtbzFodGRwMlVJT0tveVY2N1BFNjJGUG9JcEV5MmJUSUxaT1FwVVdfTU9YQnhna1JHSG53WXo1Nl8t?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Fri, 10 Jul 2026 21:42:44 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Rescue of Oyo schoolchildren: S-West Fulani chiefs hail Tinubu, Makinde, security agencies",
+      "link": "https://www.vanguardngr.com/2026/07/rescue-of-oyo-schoolchildren-s-west-fulani-chiefs-hail-tinubu-makinde-security-agencies/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 10 Jul 2026 21:41:45 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Senator Buhari Hails Tinubu, Makinde, Security Agencies Over Release Of Oriire Abductees",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGVPeWVwSkY0V3pBV2ZhUXcwcWFWTHozZEtGWTdIZ2xZMG5MR1QxaG9RdFpmYzM5ZVdubnFEMnRRMFNNTkJOb3BSOTdjajV4YTk0dmJndWNPbERlWkhSSkxaMTdBSy1FRjJuSXRkc3V3a1E4aHdQSDlQUDE2NFNRNDFMM3llNTFmaVN0b0s3VHgzQ1Ytc1dFbDBVZldlNzlFVmVvQXlSLTlKeG5uNlBuOEl3UQ?oc=5",
+      "source": "lagostoday",
+      "pubDate": "Fri, 10 Jul 2026 21:29:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nearly 50 abducted pupils, teachers rescued in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR25jSVduaG5SSkxtcXJ1QVhCTlFGbFJBblZUTWJpVi1iQWgwaG4tMnpVZXdzSE1xWWFETHowTmRoUW9mbG9qQ2dXYnZLT2k2elg5N2tNeE9mZ1dfUUQzckZDZXM3LWY0TE4zcURkV05KbjdTUlUwaktuUkM2R1cxQWxyOTh5c0s5NU1hT2JCUXdxamplekZDMmNTWQ?oc=5",
+      "source": "Bangkok Post",
+      "pubDate": "Fri, 10 Jul 2026 21:24:59 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Governors Blamed For Insecurity Without Powers, Says Makinde",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUV4amNodmJuTF9ZVHhhYnowUURRUVV6bVBWR0pzVTJ3ZFNBM2plNC1UbXVPNHJieXZWaFJ1UlhzY3U4cVRKNWNGQmI1S19NRnM5UkhRX0xuVExZOTUxR1pYejU4WXNDeHhIUEZJd0JDQlpLeUZHS3dhNWpBOGRSTjNKajZHNi1CRFMwaFFjWEFNdHcxVDVfa1otSGF6Q1k?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Fri, 10 Jul 2026 21:11:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NANS hails Tinubu, Makinde, security agencies over rescue of abducted Oyo pupils, teachers",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzJSemdNZTkwYjNkQ1hLOGgyOEQxcl9qQ3MtRjBOdjZpRTZFSXBLUTlKajBSMlV0ZVJ3d0lER29FYVZ6SVE2c09uR2FMY2dCRkstRmhJaFg0SzVFcGhtOU1WdFFxNzFBWWhHdm5PZk52a0xBak5QVGtvMTljNm1PQVNUcE5QMFNvS191WTVoeGMydFhDNjhyU1ZiTlNqUlN1TWN1b0xZSk9zVW9uSHQyLXNRT1NyQ1ZfUHfSAb8BQVVfeXFMUE9vVVY2cjMzbklZVTNsWC1PMnZiM0J1SHcxcGZVdndGdEdZOUx4c3M5dkRCWjV5eEFtWUdnbGRRckdIMVdMT21ucWpRV0pweXJ4bVRYRFlad2VVUUtWTGNIV3NDaXRnUUpPaXZwVVJkbnc0MFRDTEh3eHUxQzktMHdqMXBaUEY2emYyb19sM3RPTHJmTWFGc1FXZXhEWTVGWUUtMTkwWEotaXNsRU9FWU04eXJqN1pXVjdxS0l3Mm8?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 10 Jul 2026 21:11:15 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVE5ya1VkUnAwMXB5X01DMzV5R0xqYnc4QWNjUVg1TkNzYllBQi1tX1FPbFJFOGU4TTJicDg5MkQwQWVUcC03a0VBMWZuUExmcWExQ3NNMFNaVWctQzFKT0UwbVh4LUliU2Z3S3lWc0NDa2dwekI0MTI5dl9sOVBGcXo0M0ozSTNBTlVlWXRkSFJTUUJ6SVlsRER2Wm1oSXpWNDVPZWliTmgzUdIBrwFBVV95cUxPcHBPcWItQ2dOdnl4SmxRQmRwLVo2S3pRSHlNdU1la3d2WnZPMjlSNHJkUXJweGdFbmYzbDFCbDhaeXFGZ1VKbkZULVJlSU1DdW9QeFgwN3pnS2Mza2JRMVN5eWVaaXV1S01FQ3FYN2RxdlpWZW5rcE94MUtkN2ZGN1JJNkZkeEktS25QcXpfTUxvOWVLcGNDNF9JMGpPcF8zMlh6dEVYU3N5T1NfaGpz?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Fri, 10 Jul 2026 21:04:21 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Oyo Abduction: No ransom paid – Tinubu",
+      "link": "https://www.vanguardngr.com/2026/07/oyo-abduction-no-ransom-paid-tinubu/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 10 Jul 2026 20:43:59 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigerian military rescues 46 abducted school children",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTVXd1phNDIyYkJzaHNnVjA2YmZMRW4tdG9rWjVRRDZNVVlnTXBlOTJ6ckpkUFFvdXFfU2hRSnJQeWpSV2dGMGpkQlBGOVRpUmVVbVpBcHRmVzFHSkFVbDlDMUk0b3loOE15bTNzaWVKbVFZcDRPc2ZuUEdBeGNRQmhyV2hnYndQa1F0czhvWdIBjwFBVV95cUxPc09McV9vVHdDSTVKLWRObnhoOU1TZ0J5amFIajFSOUZXZGRFQmxmR0EzWEx1QTk4UHRpdXFzNWJiMkt4TndBQUNCcUtXYS0xc2F0RUZnTUFGaTRCX2lFV2pMRDRGcGhkRUlxdnFZd0JVbEJ3aW1oTkU2MG1vOXB4Y2Q1SU1mNkFiQ09hMEJjRQ?oc=5",
+      "source": "DW.com",
+      "pubDate": "Fri, 10 Jul 2026 20:41:41 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Uche Nnaji: CSOs allege abuse of power, threaten protest against ICPC",
+      "link": "https://www.vanguardngr.com/2026/07/uche-nnaji-csos-allege-abuse-of-power-threaten-protest-against-icpc/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 10 Jul 2026 20:21:50 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Lassa fever surges as Nigeria records 66 cases, 7 deaths in 3 weeks",
+      "link": "https://www.vanguardngr.com/2026/07/lassa-fever-surges-as-nigeria-records-66-cases-7-deaths-in-3-weeks/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 10 Jul 2026 19:53:05 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian security forces rescue dozens of abducted schoolchildren and teachers",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYnlNM3Z5MHhMTmR4RmU0VndRc1VZNVh2X0Z0M0Uyd21rVlJBelB1a0YtZjFYNjg2cGN4cjBFT2w3YjFBakZhNDNlcGhJUnpYUVFILWNZbWpnWDBiYkYyRTVCbTBObGFFckQzaWZ5cElRSDZ1b3c4LUkzVHhmRHl6LVBGQ3BwU2xlalAyVE5NOWpuNDRabmd4SEN6Y24zbFUxMnVrOG9MX3h1UEdtdFRQbW13R1RBVFpybjY4T0dJLThSZ2pjbm1EN1c2cGNKcHpNNlFHUnV0QUJWdGNvVnF3?oc=5",
+      "source": "Le Monde.fr",
+      "pubDate": "Fri, 10 Jul 2026 19:36:19 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Police arraign ‘DJ Chicken’ over alleged threats to kill Seyi Tinubu",
+      "link": "https://www.vanguardngr.com/2026/07/police-arraign-dj-chicken-over-alleged-threats-to-kill-seyi-tinubu/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 10 Jul 2026 19:36:17 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "President Tinubu Commends Security Forces for Oyo School Rescue",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWg1RjlIZEkzelpxQ2ZEdnRKUTZzS0t5TWkzU1A3UnNNQi1SSHdsYkJTX0Q3eTJYemlVTFRJVDR0d2FCeHRQTW9nX2VDMm9zVGZqZG5LRmVSZWZCY1k3aVFxRk02SjU2Vm9nVlBZbU03RjJjbUR3bWt6eXNnTDhtNUZoSEo4V1RiRnJz?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 10 Jul 2026 19:28:03 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Lagos NIPR advocates strategic public relations as critical pillar for security, nation building and public trust at PR Fest 2026",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZzFocnNtd2NKSDdzcnV6eUFsZV9UZU1qN1F0X0FfMWgzV1BmdGdka1J4TG1xbG9iVTRaejV0ZTlFakNncmI4bnV1RERhSEtCVEthQ24zUVY3R3NwT2hfeVhLTUNIU29OTmw3ZzU0MGtoRjRLNG9RNHFya1BTOTdHZnVCRVZ4YzdxbmhkQUtLNDBxdGwxaXJWZTlMbFNaN3M0Q3JmVVNSeUFaYXMwRnc2dG9tYjhvVk4xbm0tOFA5N05kcGhIRlo4NUxTY1hmcmZVelZCa0JUWnROR1lONXE5YmluMTNoTE1meU84V2Y0OA?oc=5",
+      "source": "Marketing Edge",
+      "pubDate": "Fri, 10 Jul 2026 19:27:44 GMT",
+      "category": "Security News"
+    },
     {
       "title": "CSOs threaten protest against ICPC over Nnaji, Nigeria’s former minister",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2ZQQkFiaXJ3TlZhaXRSM3FWVC1HLXVGckg5UHFsTGZkc2pnUDlhdTdyS1hCR0JfUnhnQjdjbUhoWlhCR2JuTHFqMWVOeV9zMldGRnpZMFlYTGplZE9PSHZMNm5WMXg5ejhEWnBLLVlQREtMOFFSYkd4SGVZdkhxQlRzWmRkUHJSd3pCTFJxRlVQOGtiSHNNUnQxSW12anc0eG96cEVoWUR1VDg?oc=5",
       "source": "Business News Nigeria",
       "pubDate": "Fri, 10 Jul 2026 19:20:50 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Oyo abduction: Makinde thanks Tinubu, says no ransom paid",
-      "link": "https://www.vanguardngr.com/2026/07/oyo-abduction-makinde-thanks-tinubu-says-no-ransom-paid/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Fri, 10 Jul 2026 19:08:51 +0000",
-      "category": "Kidnapping"
     },
     {
       "title": "Oyo State Confirms Release of Abducted Teachers, Pupils",
@@ -42,11 +154,11 @@
       "category": "Kidnapping"
     },
     {
-      "title": "‘Parade the kidnappers too’, Nigerians react to rescue of kidnapped pupils",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU3o2c0pkSlZ5NHJmc1R0LWg2cE00YTNPQW0yemlXREIwUU0zWmwtdVR3TTU3ZGNpRmtGMWhDaElXeWkxUlgwTWgzNDhVdkF0N29LcWN0RjJWWmd5T182SG1zTUxWVm9YdVYyVGttTVhlaWlxZmE1eHdvOHhFZ2YxcVZVSTNWNEdWejlYWEY0RTc4UUlpR0dwWEREUms2V191Zk4xcXljUmhwV2xW0gGyAUFVX3lxTFBUSk5fSy04TkZ6SE5UMy1oS3V0MVZEVlBuWU1WcW10cXpnSGw2OHh3QnhLbTI2TEFKaERxRkV2dU1Nc3IzR3UwcTBadmtBNk8yejBFTXVuc0xrVkNKVk83OTkzcFJCOGtQWFFBM0tDWUJPcHh2WFBDbHJQNElPcEVSSERzOU5nT3V4d0doSk1hZDVwMzB4WGlDTlZzVE15YUdwZUVRMi1TM1M5YkloRE5tWHc?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 10 Jul 2026 18:46:30 GMT",
-      "category": "Kidnapping"
+      "title": "ACF backs Northern Security Trust Fund, says it’s strong step against insecurity",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUV2bFdWVjM5WnFuOENVcm94R3UwbGNxSHBITEtNNlBVT2J3U1lWNWhDYjBIb3lVSTMyVmNOTmE2MC1rc2hXMllxMkpNT3NzZVVaMTVESFN4MHc1WHBMYXJHb2tTUmk3TGtBcG1UQk1wU0FHcTVOQWVZckFTLTlxOUhTdzdYMVlOYnVCcTc3TVlUOGdGXzZ4cTUyUVI2NzJLdGc?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Fri, 10 Jul 2026 18:35:18 GMT",
+      "category": "Security News"
     },
     {
       "title": "Students abducted in May by Muslim militants in Nigeria are rescued, government says",
@@ -56,25 +168,11 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Oyo Abduction: Eight kidnappers arrested, others  killed  —  Presidency",
-      "link": "https://www.vanguardngr.com/2026/07/oyo-abduction-eight-kidnappers-arrested-some-killed-presidency/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Fri, 10 Jul 2026 18:16:33 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "How Israelis tried to kidnap a Nigerian politician on the streets of London",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XYXluRkpsVU8ybm5CeDhOMWlTY0p6Q2I0ci1mcHBBR2xZeGxVdFprSkFEaEx5T2FoeHRFWEVQNTRWcEpNNE9KVVdVNEFZUDBxVElSRHh2Y0xER0t3TTcwRjhB?oc=5",
       "source": "Ynetnews",
       "pubDate": "Fri, 10 Jul 2026 18:16:03 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "How abducted Oriire pupils, teachers were rescued",
-      "link": "https://www.vanguardngr.com/2026/07/how-abducted-oriire-pupils-teachers-were-rescued/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 10 Jul 2026 18:05:49 +0000",
-      "category": "Kidnapping"
     },
     {
       "title": "Countrywide Catholic Youth Activities Suspended, 2026 National Youth Day in Nigeria on Hold amid Security Concerns",
@@ -88,20 +186,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjA3TmpNNHVBVUlLN29QV085Tk9ucVhaZDVVdXRfQ1hrLXIxNFR3TWI0Wmd6UkJMNXJqQVhuTTNsa0JyaW1meFRaRkR4cG9wR0NJNkRJbWRrM253QkdyTVh5SzRTTVhIQmRDNFZVSWdBLXZiS1NrVHFqRkhSbTZfZ3lCamhIenNHWmtwMFkwdWtJc2xXYm9HOVlsUmYyN1k1eUZ6WTRVTUpKMEV4YmFJWEotUkltdFBZbFlfS2dBY9IBxAFBVV95cUxPWWRjU0k3bm1zMEphSWdQU0QxX05vUjZpV1JsbWRJY1NqTFdIZVlLVERPcDBKT3lEX2JWekdUUFM1UWdEVnFYTGdldXJPNExiQ2tEQUNIOUFEMTJYNDNHaDRoWUQwTG9QeDZCTmlWVGk2UE1JTW1weXlZOWhnLXZzU1ZFa1p0dEM1bUpnVEJzd1VadDNGV2VNRU04TWNxNHBvMU8yWnFKOVNvZFlXMy1EMVktdnNFd09GSkhmWG5fR2pFUVVh?oc=5",
       "source": "ACI Africa",
       "pubDate": "Fri, 10 Jul 2026 17:56:41 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Tinubu settles for Shettima as party beats INEC deadline",
-      "link": "https://www.vanguardngr.com/2026/07/2027-tinubu-settles-for-shettima-as-party-beats-inec-deadline/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 10 Jul 2026 17:52:30 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "BREAKING: Kidnapped Oyo pupils, teachers freed",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU02d2gxV2YzdjdYbnRFQ1pjN0lrUm5JcFNhWEM0VUpLUTFwbTdfY24wUEFQM3ZIbnl2bnM1c09HeGJNaDRTcG1YWkN5Ump0S3dIUy15ZVBCMV9oWDczZVF6NEpwejBsSENwVndsUEtuWGV1X29uOEkyazRGaHF6bjc5b0JkQjZKUnF3N3dsNkc4UE9uSmFPUEJ2dTF3b1hWZURHZQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 10 Jul 2026 17:49:22 GMT",
       "category": "Kidnapping"
     },
     {
@@ -119,11 +203,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Kidnapped Oriire pupils, teachers rescued",
-      "link": "https://www.vanguardngr.com/2026/07/breaking-kidnapped-oriire-pupils-teachers-regain-freedom/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Fri, 10 Jul 2026 17:26:58 +0000",
-      "category": "Kidnapping"
+      "title": "Alia, UniAbuja VC advocates state police, education as panacea to Nigeria’s insecurity",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFuSU10VTg3MzdoajNCR1pfby1FRWx1d3dYOWQydVhSQ0RLSWRGalFveDN2bDB5ZENNb19NcUczWURNdGtWN0luMDlTZTdCQVJORjBaSG1qS2k0Y24zVWhXc0o2a3RENmpBaU13THhhcUVzMXBiY1VrUlF3ekVuLTVla1F5bTZOaUxOZWp4dzBNeWVXSU1kWThGQkEyMS1kRmlPcF80Rmk3d1U1Nnc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 10 Jul 2026 17:09:00 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Beyond the Gunfire: Understanding Kwara’s new security landscape",
@@ -131,27 +215,6 @@
       "source": "Blueprint Newspapers",
       "pubDate": "Fri, 10 Jul 2026 16:55:27 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Alia, UniAbuja VC advocates state police, education as panacea to Nigeria’s insecurity",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFuSU10VTg3MzdoajNCR1pfby1FRWx1d3dYOWQydVhSQ0RLSWRGalFveDN2bDB5ZENNb19NcUczWURNdGtWN0luMDlTZTdCQVJORjBaSG1qS2k0Y24zVWhXc0o2a3RENmpBaU13THhhcUVzMXBiY1VrUlF3ekVuLTVla1F5bTZOaUxOZWp4dzBNeWVXSU1kWThGQkEyMS1kRmlPcF80Rmk3d1U1Nnc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 10 Jul 2026 16:12:03 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Nobody wants Peter Obi dead – Umahi",
-      "link": "https://www.vanguardngr.com/2026/07/nobody-wants-peter-obi-dead-umahi/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 10 Jul 2026 15:51:36 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Police rescue 4 kidnap victims after gun duel in Abuja",
-      "link": "https://www.vanguardngr.com/2026/07/police-rescue-4-kidnap-victims-after-gun-duel-in-abuja/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Fri, 10 Jul 2026 15:42:58 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "Tinubu’s best cannot solve Nigeria’s insecurity – Peter Obi",
@@ -165,6 +228,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSURRMldQNXVNenRDZDBRM2ZPQ3l0bnhtS1pBRlVCdVV1cURXaFJ5MUktWEg2RENNbVJ2SmRaQzM0Q2I1RVY3NlRXcTBBcVFKelpBNzF3U1Vtc2FkX25CY2NQTjdlNnJGb3R3MWxwU085c3lTQk5uV0JJNEdFS2tQdUpsM2NMN2pvbnRMOEJBdGQxY1FfYWRxb3p0M2l4c241WTQtcXllc1JWWnRq?oc=5",
       "source": "Brand Communicator",
       "pubDate": "Fri, 10 Jul 2026 15:33:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Peace Corps seeks inclusion in security reform, cites 187,000-member capacity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVVnMk5CX2hEQUxJZmg5UGg1RVNhYjVNd21yMkZMVlA4cVEtT2swSzNZNjdUVTVDdkt1VnpENnVMcTdCTjZyeHJJaXZUaDZEUWhaSmt3T0hxeGNncFBmVGRMaU95VHhTWDVabkxYdzdwZkhyd2Nsb2EwTDVHX0p5MGFaZk1KZnpTaTVMSzE2ZTh6YkxmdHpBdWV5cGZ3Nlp6?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Fri, 10 Jul 2026 15:25:41 GMT",
       "category": "Security News"
     },
     {
@@ -189,6 +259,13 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "State Police And Education : Alia’s Two-Pronged Solution to National Security",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT01iNTgzT1p1VnVETVJacmVYT28tT3BvNXYwME5NbEFXTElZUUZHMFNFV05TX0IwWGRILTZ0OXN0Sk11R1U1SWxRNDBoQUNXTDJ5OTJYRnByckM3LUx5WlNScGI2YV9VVGtDNHpEMFhIUVdpR1VQSFRPeW94a29lbUdFekEtc2V1bGdTM3RFZnExSG9YdDRJTzlHMjJiNmFYMmlvd2RR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 10 Jul 2026 14:27:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
       "title": "Nigeria Intensifies Crackdown on Terrorist Logistics Networks",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1VsaTBnbTYwQlhUQnNHWGQ3aU1zaW5OYzhUVmJIUXRsLWJRYkxoR015a3RhN1EzRXlrQnM3MEVTd1VIcGphekx1NmJybWZrN2k3NHFqTklyZk9RaTBRSDNON2tPUFExd2dUd241SmNhSF9wbEsySF9oMVlqTWRydW1rUm9ETmly?oc=5",
       "source": "Voice of Nigeria",
@@ -208,13 +285,6 @@
       "source": "Daily Post Nigeria",
       "pubDate": "Fri, 10 Jul 2026 13:48:53 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "State Police And Education : Alia’s Two-Pronged Solution to National Security",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT01iNTgzT1p1VnVETVJacmVYT28tT3BvNXYwME5NbEFXTElZUUZHMFNFV05TX0IwWGRILTZ0OXN0Sk11R1U1SWxRNDBoQUNXTDJ5OTJYRnByckM3LUx5WlNScGI2YV9VVGtDNHpEMFhIUVdpR1VQSFRPeW94a29lbUdFekEtc2V1bGdTM3RFZnExSG9YdDRJTzlHMjJiNmFYMmlvd2RR?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 10 Jul 2026 13:31:04 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria Investigates Bombardier Aircraft Incident, Releases Report",
@@ -242,6 +312,13 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjRCdnAtQlktbkh0d1k4MEFuYnFhbDdrcktackNxV0I3dmVvVlNaN1FFQmNESWdVY2RXUVptLXdfUHlMNVJTOGRxaWZvSkVjVG44MDZsWEU5WTlHMlRjVklLMTFkU1RNcEgteTdPX1dGWWFLUlFkQmdSZUNHdFdjMUFxaVRQNURtZXdWM1AxeVBIT0cwaUFEbVE3UEt1RFhCeGFOWFZsRjhxZW45MEdPYzVBaE1mekRocDBjYlRQU0ZMU0oyY1I4OUJXbVdwREdUUnRwU3hzSUNxR2M?oc=5",
       "source": "ReliefWeb",
       "pubDate": "Fri, 10 Jul 2026 12:10:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu convenes closed-door security meeting – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNndkbmNvVktOTmowRjRlcGk3ZGlUMjBTYkpYZUFsNEdmRTNvUzNSdlJzaDFhdEdFOWhtVUZLT0xQcDVYenQxZmlrbnlxV09kYlpCOENmTk01aWNJc3AyNFZ3SndGcnBHUlZJZlNxdE1JTU5KaGNQV2JXZGNJdGNrZndFVVdMVC1MbkJjUw?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Fri, 10 Jul 2026 12:10:13 GMT",
       "category": "Security News"
     },
     {
@@ -273,13 +350,6 @@
       "category": "Security News"
     },
     {
-      "title": "Customs, Nigerian Navy Deepens Strategic Security Partnership",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUh4QkZOZjUxYThMT0hLRkxUSXBMTHJ1YVFVYlR2YzJwWm10ZEJncGNmWmFzMVNFWHlRV0lZTXFuMEhNdXdpaXFJR0NaRzhScDVDWkg0UC1ORWRmYWtvaTlFWTVsN2FhU1Eta0pJclplOXFXbzZwdzcxNndfODY2ek1CMV9MejE4UWlPUA?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 10 Jul 2026 09:40:27 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Tinubu summons security chiefs",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU2N5RUR0QmcxRE9pLWk5VkVGcHFqYVN4QkQ4MnlCenFaYnFNU3NlUkhMT2hNVXpEbVNWQWQxSHJDdE4wU0xXY0ZWSkV5N29Qb003X2N5Q2tXeFpqWF9OajdWbURLU2h4T2ZnWnZ0WQ?oc=5",
       "source": "Ripples Nigeria",
@@ -291,76 +361,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSnNSSm5RMVJ5MlJPNE9CdXdlaHJ1VEtLWmY1d2o3d1o3NGxSU2RJWlJTTU85Q0tHMllVRVNxN2VqZGlHNXZvTld5MXZKeDNSUmdvYjNmcXR0Nk92dDA4M3RLeDBLcFBDSUc1Q1Rfa1dMaDBpQURabld5dG9ncXdHRXpMOWJFcUlyNnRv?oc=5",
       "source": "HumAngle",
       "pubDate": "Fri, 10 Jul 2026 08:53:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Abuja IPP, AKK pipeline project will strengthen Nigeria’s energy security – Presidency",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHRPS1l0ckZnMGFNTzlmQnM3TWVSSXVYaW05SzFHNUVLcWFpeFJ6Z3MtYlZkN2VxaWtjX1pLekZaOUc1cTRpVlFwUmN0RXYxZTIyN0MzSW5rVGttX3hBZUJSRE55RjJYQTlHVHRuOUFsTTBsRUtBdndLSmxSWXdVU3lOVmdGWFFRLTBObW8tTV9fTHdRejBiSFBWMWN2Q3QxWHJBeHFhcw?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 10 Jul 2026 08:43:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Climate change now fuels Nigeria’s security crisis, scientists warn",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWmd0M1VGRmFJQkptcTByakxSQ0EtOEFwU0FDOGMzME4wdWxyeFlDMW8tTE9GSFJSM0d1c2pEdDdCMnZuZDdsMUViZjdwWGFqVFRONkZoM3docFhEUlc1RHZVMkdNMWp3N3RNZWs3YzZ4aGYzUGxpV3NBNFJqdm1PNnBsVlBkLVlnM1VQOERESnVqS2J5aFV1MDBzZElST044dWlHdU9mdi10cnFRMFlUbmZ0NFFWNlROSFlvUmt6REhPdHB6N18xTGhqTkJRSjlrSUgyR0VYRlE1VmpjRFE?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Fri, 10 Jul 2026 06:49:12 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ATT hails Northern governors over security Trust Fund",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWkNBT19obEdsUzNQaVg5ejFVZFpQeF9nUlNYZDlMUUhvdFJsWVBNc2Z4OHJwcHdTci02TDdxWHJDMWpma3hYYzR1ZGwyOWNrdEk4dlBLcXAycEdnaTA0N3BJVDdWYmEzb0ttMHB3Qmo0QmFfeDRQU3phdXZhZnJCYw?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 10 Jul 2026 06:26:49 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "President Tinubu Convenes High-Level Security Meeting",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1dwWmRwUmhxUEFWM0FlV3duRDFwVWNyM0ZvWG9fYlhxMUlwQWREeGk1UWZtRkZtYzVuVFdVUXVQeGwySl95S3FHcVhXcEUyQThjWVRuREVvTXJRejlEaGVfUXlkWVBvVnBBa3p6YUswakRTZ0VDNU15LWtNMjdWZjc5alFxREFYelg1aw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 10 Jul 2026 06:02:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "President Tinubu Reviews Nigeria’s Security with Defence Chiefs",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0pYYkhVdGZRM3lXWVEwa2EyX3VYYk9VSXlYQWFVa2ZtdTRPdzdhdjZLdXdjOUhPSWJ4Nk5ZUmhfM20yb0tudnplampjMUpyTFVkV1ZWLXNKZkQ3dW5HaXFGRTE0emVoN0ZnYTF4ZmJ0Z0ZDOVFPQWhJZGsxSnJFWW5paWltaXVzNnc?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 10 Jul 2026 05:42:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu Meets Security Chiefs For Review",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TRV9lZlBOSTlZUlpCM0wwbWdvNWVJcEd5UjlRN0VEbmFPT2E5LUpGbXU5NkVZTUZ6czd3d2hTakxfejVpS29MWFdjdEd3eEFBOGE3S28yeTBsdlh2SGpQMnVZcmtLMGtPOV9HTnlRNA?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 10 Jul 2026 05:08:36 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "State Police will give governors genuine authority to tackle insecurity – Dauda Lawal",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelBESi10WlpsNmhUMzE4Yl90SGh5RUF3TWI3c3kzMGllLUZGRDFDd2FOSFlRWF9rU0Y4MjlfSEpXWkJfRE1FeUg2Y1VpU0JsME11QUhpY19yMG1mTEh3VnViNV91OEsyVjhWVW9odHh4YW1UaDk4eldzc2VUNHRnU0U1LXc3N2tLUjhhYXZSY25qNVN6SnZsYVJyRzJwQjl6bTVUT205dlE?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 10 Jul 2026 04:32:38 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "State police will address Nigeria’s insecurity –George",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMcWItc1RLSlpDVU4yb3phMzR3Rjh2ZlNTZV9yT0ExQUZRZldCb2FnUFFicW16b21JRGJmVE5tTWVxem1uelBTRllnUFdEdC1YVm1TMlNGM2JzTTB3VDlSaFZ1aXo1djJaNzh1OWR0aXJCSUp5eEhtLXE0VdIBgAFBVV95cUxOb0FIamZ4Y0p4Y0hYUEN0dlFtNG4yNDl5SHBaTkdwZGVfZ0k0c1d6d29GZFB2a2VERVRkYWNBdkR1d0paWEdqN2I1NmVfSzlMNU1ZNk4xYi04dmVmN2VxLVNLajcwX3BwWnR6c0VMUlJ6NURHSEhWWnRtRVg4Sjh2cg?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Fri, 10 Jul 2026 02:34:12 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "ONSA, DECAN Strengthen Partnership On Responsible Security Reporting",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnlNM2pKUGE4M3NuSG5MSHNqUTdtbjFwQkd1NHRMQWtMZU9FQ3pjYzVtRzYxczhXZllKWldTNkU1Mks1ZUVlY0xkbXJUVzNmd3lNWWJaVThtRmRWWEl3aW1XbDJkUlpCYW1GQThFRkE2amtsMDdHdEtnLVNnRmpaUzUycGJrblVtdHVfR0MteWo?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Thu, 09 Jul 2026 22:28:39 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu meets security chiefs over insecurity",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUVlUcVlOTHpfdmtJaEp1TlI0NGhoaDFLYzJoYVRZVWE3bW51a0pJUjhrcVZ1Z3RZNFlkVnNES1BscS14TGFKeWVlY3BweE4xbjRQb1pRWW5VQzVvWVRGR3hfclhyZlJNOVRoV2ptblRmQUxJb3NVOEVaN09CdlU4djUtZnZRU05ZSUE?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Thu, 09 Jul 2026 21:17:29 GMT",
       "category": "Security News"
     }
   ]
