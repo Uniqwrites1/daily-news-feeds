@@ -1,19 +1,145 @@
 {
-  "timestamp": "2026-07-12T10:35:05.493Z",
-  "generatedAt": "12/07/2026, 11:35:05",
-  "totalHeadlines": 173,
+  "timestamp": "2026-07-12T13:21:59.382Z",
+  "generatedAt": "12/07/2026, 14:21:59",
+  "totalHeadlines": 179,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 18,
-    "Kidnapping": 37,
+    "Law Enforcement": 19,
+    "Insurgency": 7,
     "Armed Conflict": 4,
-    "Security News": 97,
-    "Military/Security Operations": 9,
-    "Banditry": 2,
-    "Insurgency": 5,
-    "Traffic": 1
+    "Kidnapping": 38,
+    "Security News": 98,
+    "Banditry": 3,
+    "Military/Security Operations": 8,
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Opposition lawmaker praises Tinubu, security chiefs over rescue of Oyo kidnapped victims",
+      "link": "https://www.vanguardngr.com/2026/07/opposition-lawmaker-praises-tinubu-security-chiefs-over-rescue-of-oyo-kidnapped-victims/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 12 Jul 2026 13:18:24 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Ebonyi CSOs threaten legal action against EEDC over alleged overbilling, disconnections",
+      "link": "https://www.vanguardngr.com/2026/07/ebonyi-csos-threaten-legal-action-against-eedc-over-alleged-overbilling-disconnections/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 12 Jul 2026 13:17:49 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Troops intercept truck with illicit drugs along Lagos-Calabar Coastal Road",
+      "link": "https://www.vanguardngr.com/2026/07/troops-intercept-truck-with-illicit-drugs-along-lagos-calabar-coastal-road/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 12 Jul 2026 12:56:28 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "State Police Cannot Succeed Without Democratic Reform and Accountability",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTVVYzBRWVZjNDZhaXdyTmxnNjdJU21nN3k1OXF0QTloc052UjlNT2RJZi1UTUxlZ2E1cE0xMVNoX2pFdjdFRVFxQm9YeFFfRFRRanM0OUdOOEY4aTBjdS04eXJpY2NtRWl2N0dlLTc2TU14clB6dVg3Y245RlktMURsY21oZGp1NHlmdHZRM19YYjVWSDYwV3BJSjRyMVF3eU4w?oc=5",
+      "source": "dailynewsngr.com.ng",
+      "pubDate": "Sun, 12 Jul 2026 12:35:30 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Illegal Signal Jammers Are Driving New Security Measures in Nigeria’s Vehicle Tracking Industry",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0p5ZGNFaW1NVEc4Zm9rdmpNOHZJQlgwRm5ROHpQWTczdmNMVjFHTUt2ZFYtR1NWcjU5NkU1OVF0LXFZTmhqSmkteGxBSUVFYkh0WGZxTTJibnRBTERpWlZyYU83ZWVBaDh0c19INkhkeS1PSl8tTWpwQXhNcEVTdHM4REhCamxmaEluSWJySVJUZU05R1p1V25uVVRvYVUyeWZ1Mkpmb3lMVjZDMnMyRHFhRlNkVVVwUmc?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Sun, 12 Jul 2026 12:34:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Oyo Pupils’ Rescue Victory for Nigeria, Security Agencies — Senator Buhari",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2dJdG0zUzNJcFZVNTkxR3JEdVdoNWdOMVozRTZRWUlHUEtjNGRRckJpYUFNV0syeU1WejVVb0dlbnNKZjhIQVZjMHB6SlNjYVlFM3dEY1pQRlVaN0o1Mi0xa0dXR3lfLTNtMmwxT2dkNzEteUlVc3pKeW1pTWQzNjVXV2RIa0wyWGdPRzgxNXZvdExlczlRMGlPMXk1MnFVc1NuSA?oc=5",
+      "source": "therealmediang.com",
+      "pubDate": "Sun, 12 Jul 2026 12:18:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NDLEA arrests South African woman for heroin trafficking",
+      "link": "https://www.vanguardngr.com/2026/07/ndlea-arrests-south-african-woman-for-heroin-trafficking/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 12 Jul 2026 11:58:09 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Rescue of abducted pupils victory for Nigeria, says Oyo senator",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzhXOWtYQllMdzZkcWdTaldtM1p5cXpjbm5XRGJQZnRrOGNYS2FrZ05kVnM4T1dfQjRQY3dCN0l4OV9VQXpJV0VhcnV5WU8yNE0xZTZOQzdna2NndGhIZ1BnWTl4d2xnb2VRbUsyLUdVRWlfMkwxYkxLeFBLX3R3U05ndWFIQXoxXzlXRTNPamU?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sun, 12 Jul 2026 11:49:31 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Oyo abduction: CAN celebrates rescue of kidnapped Oriire pupils, teachers",
+      "link": "https://www.vanguardngr.com/2026/07/oyo-abduction-can-celebrates-rescue-of-kidnapped-oriire-pupils-teachers/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 12 Jul 2026 11:45:02 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nine family members, two-month-old baby killed in fresh Plateau attack",
+      "link": "https://www.vanguardngr.com/2026/07/nine-family-members-two-month-old-baby-killed-in-fresh-plateau-attack-2/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 12 Jul 2026 11:39:06 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Army Reveals Month-Long Mission That Secured Release of 44 Abducted Teachers and Pupils",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOWFaNEhmOWhqWHR2RWJGM3lQSVNEeEhIM0s2U0paZXB1ektMMVEyVlRacHNkaEcwekM1QW1QYzRXMEdBOGlxOEVOTld0Mm5OMk5CRTBRbzBCZkZPdXNsMUt6V0ZEYWpnVWY2WnEwdHNHQjJBcjZFay0xTmJPOEx3enRTSS1iWWRpRmpDVnpMVERpa0ZibW5vUUNLUi1ieFF5SDBsX19XMjdWenpBN0c0Ry1nRlhmVUJKd25IOUV3YWlld2Y5U1hKQQ?oc=5",
+      "source": "thenewsnigeria.com.ng",
+      "pubDate": "Sun, 12 Jul 2026 11:33:49 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Ex-defence chief urges veterans to continue serving Nigeria beyond uniform",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEJnTXRIRUtxa3ZwcEZYbHgxMTBrVUpsR0x6Y2prRlpSQlExOXRnMW1MdDlLZC1rTjRIb3FLRnpzYzFoSWRVZ3poNmZJbS1BNkN5cFctNmItdENLZlpvQ1BXc1FmV0xfc3NLUWtiV1M0OUFmdE5VS1k5MnVWSHJXeWRCN1NWQmdtdnBuNEN0Y2h0b0t3QW1WdFlOMmNrUXc?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sun, 12 Jul 2026 11:33:18 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Borno students, groups rally behind security agencies in fight against terrorism",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEE2bk50dWpWd1FLYWU1Wm9pa1NzTTdtNzhYMHlZT1hhZDdTRVJQSnBlamQwbm1SRTY5U2FEejk1S1ZhR3pScE9JNEFXM2pFcHJMRDNWRTM0Uk14SENlNDNGS3h4WHluckFpTFJTcGpGSlhzVFBYTHJ6TVEzbjZFMWhGNnRRM2llRVhBdmN2dUVFYWgxU2tFS0c1dXBCTmZkTTYwZFkyZWdZOUtHUm1xNVowY2wxSU1mRE9Hb9IBvAFBVV95cUxOOEE2bk50dWpWd1FLYWU1Wm9pa1NzTTdtNzhYMHlZT1hhZDdTRVJQSnBlamQwbm1SRTY5U2FEejk1S1ZhR3pScE9JNEFXM2pFcHJMRDNWRTM0Uk14SENlNDNGS3h4WHluckFpTFJTcGpGSlhzVFBYTHJ6TVEzbjZFMWhGNnRRM2llRVhBdmN2dUVFYWgxU2tFS0c1dXBCTmZkTTYwZFkyZWdZOUtHUm1xNVowY2wxSU1mRE9Hbw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sun, 12 Jul 2026 11:32:40 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria’s insecurity beyond APC leadership — Kwara ADC chieftain",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlo3NGNvMEJCazdaSGRLd3hnWDdBUlpqM0FXd0V6R0ROWnBhcFdIcEdQV3NDQlN1UVZwcGwteTJVZXFpbzZMcndFVkthalFocmVYY01kb2cwaDdRRVFkWEpVZURrXzNfOUpWSldIRHM3alBvb29maGpJS19rdURaRk00Ml9vZDMzTWtaVURUcktYUkJK?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sun, 12 Jul 2026 11:16:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerians demand broader public engagement on constitutional review",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkstYWtyMmlyeXJ5TEhPRFVRTS1MdkFiVzFuRU1tclV4b09KQnY3UVhsLVBYSXZQSVNsd0R5a2ZDNlJQVUx1bHJGcjZjNHEyeG9OaHVQTFBNeHZYWTV5dXdEWE1paEFpZGtKa2J6dVFBZ1h4T1VqX25fclN6S3hPVVpZTmpjay16eHBrdWhuNjM2QXZyQ1E?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sun, 12 Jul 2026 11:02:10 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Borno Students Rally Behind Security Agencies, Reject Terrorism, Call for National Unity Against Boko Haram, ISWAP, Banditry",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRUlFRnpxd212bzk4RmFXZmlNWnJja1VPYkV4MGppN21RYVF2R0VRbGpNZXBUYWtpX1BJUXhUWm1IMHhXZjl3UTZZSG5XSmg0UnRqSGlZMlJVWjdhODRVc0ZPVHRicGtvNjlLSDV0VzZENnY0TmFYVUpaWmhuZHBkaUVmWnpuLTQzb0w2WW5NMFBXRnRtamNpMUF2Z21jUVE3V1g4ZENCOVZFQW0ydmVCNzhKaEZCSzRwV21ZRGlZMV9oeDI3bFZ0YzdkWmZDV1Q4YWthYTk3bF8wMTZqaXk4UVRXdEdLTjNNd2RGVEw3bVpGUEs1cGpZVg?oc=5",
+      "source": "ZAgazola",
+      "pubDate": "Sun, 12 Jul 2026 10:58:29 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "NSCDC calls for public support against terrorism after Oyo rescue",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanVzMWxMOVB6TXdTZnRnQnNhOEJsakIyUmFmUHJNV0xrSkJycjBrcGlpcHd4Y0ZjTHdhLXVsYW44N2I3bm9GQ1AtakQzTTNra1AzZ2NpNDVzQzBZYV9ab2xLM0ppNlVHLWpFb0JCYjNZN3RNeVkwYVJ2QldQeDZFaVhBeno0M0xUWGxWZHE0dkVHcHlqQU96VDlwTWhzUzg?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sun, 12 Jul 2026 10:55:11 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria Condoles Qatar Over Death Of Former Emir Sheikh Hamad",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHFVaHFDTjhBTFJfSkhoYmNUVE5nR2V1a01qLUtuRFdhMzFTYnVUSDN6NFlJVXJQMGlIZE1TMDFwYnhIUWxPX09LcTA1YXJNa2JkRzk5VU14eE1Sb3hYNk1KeWNSTHJSN01YUFI1T3RiLW1FZVVoRXJEWTFUdTJKU0g4SG5uQ3RORXhFNDFqLWFZY0VhTFZRQmh2U21hQ2ZyQVE?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Sun, 12 Jul 2026 10:47:43 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Nigeria Condoles With Qatar Over Death Of Father Amir",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzVubkliT2pMY3AxZERIZEw1RXQzZ09OQkRDWkhvbnpRN2ZSaTZ5OHNmWmM1U2dpaE1CZG1pNFRhemI3VC1qdV9ZMmtDdmlKdzFGR3pfMHdxY2wwYVpDQWJ1SFJWSFgxZU01LW5JdzZpR3V2RzNlZFhwNnd6bmZnY0c3QQ?oc=5",
@@ -22,11 +148,11 @@
       "category": "Security News"
     },
     {
-      "title": "Ukraine sets Russian refinery ablaze in fresh drone attack",
-      "link": "https://www.vanguardngr.com/2026/07/ukraine-sets-russian-refinery-ablaze-in-fresh-drone-attack/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 12 Jul 2026 09:52:00 +0000",
-      "category": "Armed Conflict"
+      "title": "Ekiti govt hails traditional rulers over improved security",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaG8zbkFaODFEQnNKRVNYV0x0R3VyX3NlOXpxY0tvOVpGcU92WHRvX1A3eWk4Z1NMd1ZJWDZDT2w5Ql9MMF9rc2haQTJfSk5jLWNtZUktZG9jVEY4bmdvcG83SjR1ZTFKeDZTME9IYzJLTkd5bzU2aWs2bWQwcWJzcmpmTHQtR3BOdWc?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sun, 12 Jul 2026 09:11:26 GMT",
+      "category": "Security News"
     },
     {
       "title": "Army: Intelligence-Led Operation Forced Release Of 44 Abducted Oyo Pupils",
@@ -53,7 +179,7 @@
       "title": "Oyo rescue shows Tinubu’s security strategy yielding results, says Kekemeke",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHpOdjliaEk1UksyRmw2ZFZrSUhTSGluMDdPTWRzUjB2YTYtcGwtdm9sZWlGVFlzRm1aTDhid1QxSWdyN1NuN2QwS2xpNU5XSG5vemsydzVxOTYyMFpBUnUtQ3hiWjNMNzhCLU5oVU1MV0FmZ0w0YUtNTVZtYlhBQ1RETnVkRjdUeVZ6NVduX0ZiMGZ5Z2ZqYWRVaUVIUFBxS00wR1lsNVRxOWZwRTFz0gG0AUFVX3lxTE5NRXRWQXllU1ExcFc4X3hvY1pZV0F1UXM5V0E1LU1VMElOQ2p4Ql83V2lCc1JlVk5oSHhRaDMzcEV1MUF0NWNFQU1CUXRIM2E2VWtqUkxVTmVCX3R0TGN2azRlbGxxZXZPdXVXR3QxMDM0WGJGczBZaUF1ZFRGb0cyUmtiNm5TZ3RINkxmQWNkd3JfYmx3YzFLYnJSR2FXTjc4c2xNcjZoNXRHUGdBZDhBWklBdA?oc=5",
       "source": "Vanguard News",
-      "pubDate": "Sun, 12 Jul 2026 08:22:24 GMT",
+      "pubDate": "Sun, 12 Jul 2026 08:22:40 GMT",
       "category": "Security News"
     },
     {
@@ -92,20 +218,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Orire pupils’ rescue reflects Tinubu’s commitment to security, says Sanwo-Olu",
-      "link": "https://www.vanguardngr.com/2026/07/orire-pupils-rescue-reflects-tinubus-commitment-to-security-says-sanwo-olu/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 12 Jul 2026 07:22:55 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "ADC chieftain urges Tinubu to resign over insecurity",
-      "link": "https://www.vanguardngr.com/2026/07/adc-chieftain-urges-tinubu-to-resign-over-insecurity/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 12 Jul 2026 07:17:47 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "The Commander Behind the Rescue: General Nnebeife and the Oriire Hostage Operation",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVQ1QnZTUUR5Wko4RmhtMW92UUJBWm9LekloWVg3NzZqRk5GdTBSNldzeWdsYTdkS05NOUVieHBJcF9CMVExSWF2NnBWa25oTHZGc1Y5NWthN1pjSUh3UDZmMDFXVHk3TGpkR2lWR3dGUk11dUFwaHJZQV83bEk2aE85aTY0a1FzV0lJWjBUc1M3eURJb1otYjRENUxMWnpsQkt3TVhrVm9BWWdmU0U4ekRxLU9DTkNjYmFoNDRQM3M?oc=5",
       "source": "thenewsnigeria.com.ng",
@@ -113,25 +225,11 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Candidates’ List: INEC extends deadline to July 14",
-      "link": "https://www.vanguardngr.com/2026/07/candidates-list-inec-extends-deadline-to-july-14/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 12 Jul 2026 06:59:03 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "No Child Should Endure Such Trauma — Peter Obi Says Oyo Schoolchildren’s Release Exposes Nigeria’s Worsening Insecurity",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRktxbHc1QXRwaXpweW1mMzg0NW9rcFJfTUV6eVRfYzB5Y2RCanZZemRuMFRiV0VYMmJGMEtOM2ZXODg2NVFIQ1JoUDlrYnBzWWItVnVxOVcxOEpfalNmaERYdy1idG1aZTJmTW9Ca0YtaWE4dExOdXBtalNnR2drdXQySkVXN1JCOE02cVQ3MW91NElGd1NVYk5uSnNDWlpKcE9jel9zTWVQdkVXQTlpaWZ3M1IwREM5QW1zRzhjemhiUQ?oc=5",
       "source": "Sahara Reporters",
-      "pubDate": "Sun, 12 Jul 2026 06:45:00 GMT",
+      "pubDate": "Sun, 12 Jul 2026 06:51:32 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Beyond Rescue: Lessons From The Release Of Oyo Abducted Students And Teachers On The Urgent Need To Strengthen Forest Security Across The Region, By Yusuf Kazeem Kolawole",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0hGVk9OMVpJbHFHZkZFS1lBWENNNHV2U2FXUy0xSEJEZmV5M3JIZTlOd3lfTjl1Y2NxcmFfUWR0Y05XX09pazh6akpQTWhIa2RzbDVHZkdra09Xa2FPQmo3VzZJaE9FQkViOVUwYjNrbnNsZzRLSnZZMTk4NVFGMWlLcXVUR3g4bUhxc3JOY184SXZQLUgyTUlZa0d1cGhLTXQ4a0k5SmlyZGMwM0drMnVCcld4cU9Lbm9WNUN1b2dpOVVH?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Sun, 12 Jul 2026 06:45:00 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "Nigeria First Lady, Remi Tinubu Launches Food Bank In Lokoja, Describes Project as Significant Milestone in Fight against Food Insecurity",
@@ -166,6 +264,13 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHFocEFrYnp4a2ZrQkxra0RibWExa3VnbFQxS3RiZ1pENlJBaEQzeDlvS3dsbjYzOURoOUtDNDhBUzNqUUdlQ210VkR1b01QcmJ5ZThmcExLaDIxTGFxY3FidXVqMjlDbVVrYklUVi1YanE5SVk1NFVUMDU4TTBQeWc3YXVwdlIxSFpNekgzVjkydEhjbFhLYXBPcnMzMzM2R0x3MHRGdWJuN0dKbFhrUXZ0aGt2MC1Eb3FLdGdaRQ?oc=5",
       "source": "LEADERSHIP Newspapers",
       "pubDate": "Sun, 12 Jul 2026 04:53:40 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Kekemeke Hails Tinubu, Security Agencies Over Rescue Of Abducted Oyo Pupils",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM1czeTRCRTNOcWRJOTRoOWZjWFhuR0x1MlJzeVdkTWlGVHBYTjdNUWhmN2hLN2dOR0kxN0RiaGNCLXEzXzB2ci1Jb2tLS1ZPOV8xTEp6R2RxTl84S3g2UWJNNElINlBIdkxxZU9nVXZBQU9IaDV1NTYyV2hjSUFwUEZ6MDJMeU43cGdDdlpfaF9MNTc1Slp1Wl9vS2hWZw?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sun, 12 Jul 2026 04:46:14 GMT",
       "category": "Kidnapping"
     },
     {
@@ -257,111 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0F2MGtXNjdBLUVCckN1QVJXQjUxTmk2OU14TmJySnhhamxsTnZBUmdlanZFNnNqYy1SVFNTZGE4ZXBvYXlRYkFQRGY4M1FXd1RwemU1cUlNOV9tdW9hS3VPMXB2WlE2WEU2RzdMQTBwN2J5dVFmb1R0YjNyRkJpNEtZMGxaTHB2NHBZTEFlYUZhVGxOSWtLbm5telpsVnpEZ1pFa3l1SEFjWVBx0gGyAUFVX3lxTE1fU2FFR1R5TTVzYUlDRmstZ3VTODBnNFdJRmVQUTQ5aVVrMXRrdEZWQmRvc1N6OFVLelowTzRXN0xKWVd2SWZWNkdjUjFNZTdmMVZpSl9QNk5lTFJUWTItTzFWb2JwTWFfZzUxdFdsSmM4eDZFdEVBMGVsNE1vc2FRNVVHNXA0MmlmQnA2eHo5RnlDMzdYWndCX3ZRN1QwNjd5T0x4LUk3bUpMelNBZHduWWc?oc=5",
       "source": "Vanguard News",
       "pubDate": "Sat, 11 Jul 2026 21:52:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Peter Obi Celebrates Rescue of Kidnapped Schoolchildren",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGJvbEZBbndXN3ZBTERjSW1jejdWYUNEc2pfeHBiNzJUT3hueFJxam52dVQyVlBsaGNHOTVqNUJtaEdFTDhRMWJORUgxamxvWXI1RzdLQnNQLUQyVTUzSVd3NF8yb2NtTVRoT1U4b21rMlJSSjhueXdWMEZkN0I5dnI5Zm8xdw?oc=5",
-      "source": "TVC News",
-      "pubDate": "Sat, 11 Jul 2026 21:08:00 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "RCCG celebrates release of kidnapped pupils, says God fulfilled His promise",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkpjVmdCdC1Cb25ydWZhc3ZWR1JiUFZkVm9PS3VmUUhLTVpaT0ZNTXVLbjBLV05ZMi1GVTFjYzRQN0RQSU1Idnd3Zzc4a0gzTng2ZnpNZzJuLXdSTjc3ekxVeVNxZEhuaG5kTEJSamRYcmJ3aXp5MnFVNllTM1pzak5sdnd0b201d2ppRFJYaWRtbUtneXNQeFkyYTFuUGhjMjVDRlZjUW9Fc0NkZmlyWF93?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 20:37:45 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Nigerian Army Rescues 44 Abducted Oyo Pupils, Teachers",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWHRhMG96Nk9aalZUenNvcXB2T19RdlAtYnctQVF4ZzhsRGIxVUJRSi1mdzZ4YUsyZGVPQzdjWkRmODZ3dUpzVGpQRkVyRlJQODl4NEVuS00yc2xMcjJSQVYtWEw1TENkZlpESWk4eFRqM2FNVXgzMWFGZnpzQQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 20:28:21 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Obi charges Tinubu, govs to strengthen security, says no child should suffer kidnapping",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekV5VjdwSFAxdlV4NGZyMGZVaXltb1ZIZWY3MVpqemExRHVZTU5ENkFMWGhyeTdwY1lSV2ZXcnF2Yk56d3c0Mm1TRkdfV2pvU1pPY2JOcjFBYTQ2N09vZnRublRyQlRiMXczVnU4bTFmd1NlWmw0V2Z2VXh2bnB4anNxZlBNX25CR3pTYVhMS0k3ZkZadWZUek1ESk91TURabDBUbVkzZHB6WkdZRWc?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 19:46:07 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Adeleke congratulates Tinubu, Makinde on rescue of abducted pupils, teachers",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHRZbTl0UTNJaTZUSjBSYjllY09pVHJsM1Jsd0phWWpfR3Z6OW1VVHI5dUV0OWpJamxtbUNrM0tVT3VoR3U3ZHdRX3ZEWUpUZ2JsdmhRYUJyTFlpUzctYjlHdGF4VVlvY3BScmhLa2VvMEE2Q1hsNlJLMmV1dV9aZU91cU15TGl3dXBLelFQc29QVmp1eGJaStIBngFBVV95cUxNeE9LdFIzQ2hOVWpERW0zOEFkNTQzdGxSWm1McWVIa1lSVWUtdTBaRnJtYmI3VDV2TEVpN2VYdHVwQ1pFMXh3NlpFNUNpN1NwQTFiTTkyZEpFdXgzZ1R5UWZ5TWRmQXo2YUtEbFpEdThpWXNHeF9GQjQ3SUFKRlRIZmFmbzBURUhpbDJaS0VKbGRhb1ctb2dWVG5mUmNpUQ?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 19:34:34 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Oriire: NSCDC reaffirms commitment to safe schools after rescue of abducted Oyo pupils",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFh6M2VMd2dyc082MEdVX0dxenZfSzhpb3R3RUhoUDBBUENLYjdTcDRDX3BZZjY4RDd6VE5ZR3M5Y1pndEJMbDZpaHRuT1poaGU4UHVRQkpLWEFIbzVXTW5hX2Q1Y1ZWbFVQZEZmT1MwNHVTdUR5QkJWYkoyek9xZ215QlFXTWRaekZ5V1YzOXpWNjhieFRmbUNkRDVJeVFlN2ZNb18wU1RLT1YzbHo5dndOTTZpdi1CcHE1TNIBvAFBVV95cUxPdFh6M2VMd2dyc082MEdVX0dxenZfSzhpb3R3RUhoUDBBUENLYjdTcDRDX3BZZjY4RDd6VE5ZR3M5Y1pndEJMbDZpaHRuT1poaGU4UHVRQkpLWEFIbzVXTW5hX2Q1Y1ZWbFVQZEZmT1MwNHVTdUR5QkJWYkoyek9xZ215QlFXTWRaekZ5V1YzOXpWNjhieFRmbUNkRDVJeVFlN2ZNb18wU1RLT1YzbHo5dndOTTZpdi1CcHE1TA?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sat, 11 Jul 2026 19:22:04 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Kekemeke Commends Tinubu, Security Agencies Over Rescue Of Abducted Oyo Pupils",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2JxN0hRSU4xbUc0LXlET3NHbjRyX19jUm9ta2FIb1dabFJTX2o0eHpVZlZhMVFoQzlMNHhROW1jQlhHUk0tbDVDZWFOV3gyZ1RjcVhodG5QcFg0c3lYNm9GX1pnbVF4TVBKTENhMjRXekZDTXMySEpHaHduMnFaeTY5QjhKRGQ0bHBzaXgtSEdicWYxVUZxSC1za3VQR3lhV3U4?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 18:51:05 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "NEMA Receives 39 Nigerian Returnees from South Africa The National Emergency Management Agency (NEMA), Lagos Operations Office, has received 39 Nigerian nationals who voluntarily returned from the Republic of South Africa under the Federal Gover",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeUNoVmJGS3NER0NPaVRyQXo4SE1UcUZaV3hTcTRNYlJMVm1fb2dEbW9ib2czWVZhOUo1TXNrb3FybC0tSEJCdmtLcFFrTHBRVkJiRTFiOUhmakcxYms5OEVKaU1aSGlxb1M3b0RxNDRQNG12RV9qNm1rbUJ3ZE5lU1dLeEg1aXJENUFSYUlGMGxsQzJrV2thNGtsSHF6ZUV0MHZGUVViRl9NZmxfQnd4MEhfM0NhV25NR21WRmdNVFJCNGRhNTFYdzdjeUdIbkdZS3AzcW1tQkY?oc=5",
-      "source": "facebook.com",
-      "pubDate": "Sat, 11 Jul 2026 18:30:35 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Gani Adams hails FG, Oyo, security agencies over rescue of abducted pupils, teachers",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9ORjZHVjg4WEpBMmkxS0VvM1NkRTY4bUZJaW5zcXhjRFk1V2Z3TzJHQkdjMnhYYVFuY0E0MVZqZ3dEbmpCNG56ZGVBblNMLVBtQ1RoeFgzMmhiOFBQUzBmVjg3Z0hlMklKV1pseHpaSm5SVjZmd0FDRExKNzFPWWxZLVlZUi1YZ2dBcE5MMEl4c3ctbkZRc0o5a3dkSy04YUHSAacBQVVfeXFMT2VKUzZWamVZZERUdmNPWThhZ19lTTRHMTl4VVdFcnNMNm9yc2RQZFB5TmlzMEFVbGU2ZWJ5d2h0TWdiTEoxVkU0NzVwS3VBSmNQekp3aDNuSDlmZy1CWFVFaVRlZ0VTVG9CNko2UzQ0dmdGd0h3WTNHMm9EYnVBTm52MVRrZ2hZbVJzUDU3VHJfZ2VWRkV2aFVnbnRBb0g2WV9xWFIxdWc?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 17:17:46 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Kekemeke hails Tinubu, security agencies over rescue of abducted Oyo pupils, teachers",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTld3OXNlUTZINHJJaklodG9UZEl3SVBPNDhDeTBBRDJfZ21sdmEwclpKWWY0WXF3MjZ3bVkzSk4wLUUyZmg5T0U4VkRGUzBIb294d2RsOHNYb0hBQ1gwSk9lT283Vjg0ZUd4Z3hPazdUWktWMmFEZmppeEx6YkE5TU1UWjlheEZRc0ttTTBjWjIwaWhUTXpvVFlheUVacUhlWHV1cGRIbE9fUlFsd3c?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 11 Jul 2026 17:14:00 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Aiyedatiwa hails Tinubu, security agencies over rescue of abducted Oyo pupils, teachers",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmZjYVB5dldMeldfazdOMTNUZG5Db0xlMnNXRmlkR0xJYW5uNjM4Nkh1eXVpMzNJTi1JQVYtZ2N4NC1GaUJwMnpSY1VrSGhNM2tkZEgxS0RzVXJpNnZLZk5BY3JmZVp3emtIUUx0QTFLMFF0d0pmOVdXLUhEaUdwUzRndGtvQWpmR1dxa2p3Z1Q3VjZwZG1DN2hLWEZkczNaYTJ1cllVSndhenNDVTRSWWNlZw?oc=5",
-      "source": "westernpost.ng",
-      "pubDate": "Sat, 11 Jul 2026 17:11:42 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Hashim Lauds Security Forces Over Oriire Rescue, Calls For Strong Political Will",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVY2ai02X3V4WTZKZUVOYzkzZEtlbzEzYTVYTnJLdU1fbU5YNUl0LTRmS01pZ285a0RvY0g0MmxRbnhoVnlVRFpleGpSMWxVZWVrRUsxRXRWdXV1SXpxbEU5SzJiTVJySDc5NGFxaml4Wjg4dkVnMjJTZzA2X3NhQk1KYVFPZW93S2paaHNGT0FzbmVLdEpTRldkRjhwcGF2emZuUw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 11 Jul 2026 17:10:54 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Oyebamiji hails Tinubu, security agencies over rescue of Oriire teachers, schoolchildren",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVnJUMjBweUg0ODRqQkttTnZYZ19GX0liTm5ZNV9FQzlXeVY1b2xqc2cwTzNWWkR6TDNDWk9pWFZ4TWNvR2pCZUxPak1PRU05RUxWVndOdy1oMm5Sd01vY2N4LW5vRzZiNkU4ZmVJTzNmdmhUenRRVjJ2ZkVCdFNuWGJJa1I1OV9Rd1FiUFJydEpoYWtvdzBtSlVHcDZlYWJxMnFucjhxMkhhdkpCQ3FtMmh5S2c?oc=5",
-      "source": "westernpost.ng",
-      "pubDate": "Sat, 11 Jul 2026 16:56:22 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Oyo rescue shows security forces can beat crime with support — Olawepo-Hashim",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEEybDlRVEVmNEJhUDZDemxTc0JiNEVRejRHNEZxSWFjRFB2a2tfV01IX3h6OFlIWURiY3dNbGROSVduTmp6OHp3d1lPVW9RMjhXaHpCbk5fNHEwSmczMWdCMkxXelFDdkFPQ3RxLUt1WXZobWlRbVlKWklma0FDdGh4cjhtbkdXdGI3SEg3dkZMbWRJY1ZKaE4xZFI?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sat, 11 Jul 2026 16:36:17 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Ooni commends Tinubu, security agencies for rescue of Oyo schoolchildren, teachers",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0hHTXZsaFpHX3hrQjB1NnlKRmZKVU9HOEtQdjJKWHRfSndNV3JZTlN1U0RFMTBPMVdwQ3NMckJfdDZqZUNOaFc0dTRSckJiZ1VvNW9kYjAyTHVwekk2MzJ1MkdNY21uMUNPX2JjOUdFNUg3Zy1ESF9KQ2RFeUpvNUd1WV9iU3dEaFJFcVA5cjJEbXJWTmFZQVBOeXRoUy0tZFhYdnRFZS13cU5IWGhraEV3Zw?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sat, 11 Jul 2026 16:28:58 GMT",
       "category": "Security News"
     }
   ]
