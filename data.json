@@ -1,19 +1,74 @@
 {
-  "timestamp": "2026-07-14T21:58:12.965Z",
-  "generatedAt": "14/07/2026, 22:58:12",
-  "totalHeadlines": 157,
+  "timestamp": "2026-07-15T02:33:01.564Z",
+  "generatedAt": "15/07/2026, 03:33:01",
+  "totalHeadlines": 153,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 88,
+    "Security News": 87,
     "Law Enforcement": 31,
-    "Armed Conflict": 4,
-    "Military/Security Operations": 8,
+    "Armed Conflict": 2,
+    "Military/Security Operations": 6,
+    "Insurgency": 9,
     "Kidnapping": 13,
-    "Insurgency": 8,
-    "Banditry": 4,
-    "Traffic": 1
+    "Banditry": 5
   },
   "headlines": [
+    {
+      "title": "NSCDC arrests 2 over alleged theft in Kwara",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PM3NROUlsUUVISk5mYm5GSXZiVGdPS2MyLWxuZy11Q1B5Ql9UMTlFZ3lMVDFpbGJDTzZVQkoyeGpPV0d5XzFveko2UFpyelh6QkY0cnc4WkVHYjhIck5mNnZGTDdiRnNkSXJIZ2tFWEdVWEF1Vmc?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Wed, 15 Jul 2026 02:19:19 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria’s Security Crisis: When A Nation Develops An Autoimmune Disease (2)",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzhUQ0x0cXVoaFdrRmFSRF91bmNzckZFc09mNWxFRjVwMk04RHhoZlJHa3NsNEtacTZ3bDd1NUtWNWhESzQ5bHBnbGNHMHJrSGxfQ0x3LUN1UjhsR1RXRVE2NTZtWEJpMWpoZGpzZVpxVjNWZnAwWmVncnYydE5sWGs2R0tQcS1GSWtJSFY4d01FcUlqNFh4TFdkNA?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 15 Jul 2026 01:23:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s hostage politics",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ddk9UTVh0OW5SUG5XTm1xSU9LdjY3bUhvRXAyZHJ4OVpBN01Mak1NMFZOTTFQMjhxaU95RFBLdWIyT2dESGpHeWV1Rlh6RGdaaHM2eHZCTjdPWEtRYXJJSHk4T1pnM3PSAWxBVV95cUxQZWNGU0daVUNKZ0QzaWp6WXFibGhVTmVZTFg1aGRWSjFsNE9Hck9PQWh3LVFaTzd5N28wZmhuYkM4S21VcTRfOUNzRGxHcktXZGhLdzJfNk0wWmxiR1lTRU92MkNMeUpqVnkyMVY?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Wed, 15 Jul 2026 01:21:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "PenCom aims to improve police pensions, says exit from CPS not needed",
+      "link": "https://www.vanguardngr.com/2026/07/pencom-aims-to-improve-police-pensions-says-exit-from-cps-not-needed/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 15 Jul 2026 00:35:00 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Onyema Blames Security Firms for Nigeria's Image Crisis",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFVsb1FTQ2NYTWx4c1BYVWtBa3hWM1FXYmxZVWxoRy1ya2h6UDg5UzZKNHBkbmtNWG5MU2YxUTAyUTFYY0VxQjZtTE95NDduZDFiU3dMNWVDMVpyWEx1OGVYdHRjb0hZYVgtS2NHVDBPbEZjZngwbzU3UzYxSlB6dEYzb3l1amFNbzRGUi1ncHJiTVdmN3Awd3lUYkVoc090MlR1TXVLMEZkZHMzZ21iX2FBQkJBckk?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 15 Jul 2026 00:14:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Celebrations over CTJ’s killing of bandit leader Sani Yellow in Zamfara",
+      "link": "https://www.vanguardngr.com/2026/07/celebrations-over-ctjs-killing-of-bandit-leader-sani-yellow-in-zamfara/",
+      "source": "Nwafor",
+      "pubDate": "Tue, 14 Jul 2026 23:45:00 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigeria, US renew defence partnership to strengthen counter-terrorism, regional security",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjh2ZTdsRGs0VUZ6VTVvRmoxYnhxdzNrNEhjQnR6SV85WG44SXRjNTV3T1V4dE5ENHdhd2RFVUdrOVI0N3ZqU0EyZ1Bld1psSXBqZHFMLUM4blpYRG42bGZDcDF2cjN1ZHpMNnB6NGZMRUtpaU9ZczNvRERpdGVYR19oSnItbl9nSnZ5S1JUUThTdWFjYlVrVGFOVkludGZ6dVh4YTJ2RVhvQUk0N2RpTnVza0xWUmRNQVE?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Tue, 14 Jul 2026 23:37:30 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Reps dump own state police bill, adopt Tinubu’s version",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FWTlXcTJxLUc2c2xFN3M2cnR2VXh5bmI0VjdYS19lNDdCc1BVc3A4c0xSbzI1aS1pSlFwS3BncnZ3ZFdn?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Tue, 14 Jul 2026 23:30:13 GMT",
+      "category": "Law Enforcement"
+    },
     {
       "title": "Colombian military frees 39 people kidnapped by guerrillas",
       "link": "https://www.vanguardngr.com/2026/07/colombian-military-frees-39-people-kidnapped-by-guerrillas/",
@@ -32,7 +87,7 @@
       "title": "Why Nigeria’s security crisis reflects failure of conscience, not just policing",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaTNGRVlBemZHLXZwb203bnVxRi1vQ25VakMxS0JVNnE4d2NhWlJyYXdBUHRrZmlXSGVKSy10cXNCTzFqMTYyenliVW1UMWJiR2NpaVlGT21rd09RQ05UNGtESkJQT2VOcGRGLTM1MVhwNXhya2pNdUJXUkhwaVNpTi1lRnAxd0lSQUpRRzM4XzgxZTBoYTFhN0xZQ2FZRm85VHRVR25HYTRnckRlN1UyeDNDbGY?oc=5",
       "source": "Business News Nigeria",
-      "pubDate": "Tue, 14 Jul 2026 21:14:35 GMT",
+      "pubDate": "Tue, 14 Jul 2026 21:22:32 GMT",
       "category": "Security News"
     },
     {
@@ -58,31 +113,17 @@
     },
     {
       "title": "Nigeria, US deepen defence ties to tackle terrorism, regional threats",
-      "link": "https://www.vanguardngr.com/2026/07/nigeria-us-deepen-defence-ties-to-tackle-terrorism-regional-threats/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 14 Jul 2026 20:36:47 +0000",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXh2M3RHcXM5ZFRDeU1fcGRfbEEtNVY0LXJpSFdLdm45V2JRMHVDX3B0YWhORE5jMWRFdnpZV0I4RHE5ZEctVmhmdDNkNUxmSnF5T19RUENBcTZZZThQQUZKOUN3ZFdMQUNBUVQ4QnZPRGhpa3lwNDRPNnU4NHhpSUYxUGdfS2JwYnQxdVRESTc0ZVNuZXZEeUVoaUhWQklkTXFSaUF2QdIBrAFBVV95cUxPWTh4R0doWUlrZUtybllBdHVzSGlYZ2Q3T2o3Sko5eW02MXZlT2hHQ2hDa2kxZFlVZF8ycmpTT0pZOWJsbXBGbDZYRm9vT0hvbFVwc3FudW02TVNpU3o4MUluYzBwX2lUVC0tRUwwSWxUTzE1UnBoTHhQeFBsQ2lJQ2I1MGI2MjVJeXVwaVVnbldrWnhHUTNBMnlCNFppZHdDSE95cHN4TjBzM2pI?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Tue, 14 Jul 2026 20:37:31 GMT",
       "category": "Insurgency"
     },
     {
-      "title": "Police confirm murder of youth leader in fresh Benue attack",
-      "link": "https://www.vanguardngr.com/2026/07/police-confirm-murder-of-youth-leader-in-fresh-benue-attack/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 14 Jul 2026 20:14:31 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigerian Army At 163: Legacy Of Sacrifice, Service And Transformation",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1hSc28xOVBwb1BibHRyX1RleVNtdC16dHFZaTVxTm5TdU5Hb1VJb2ZnYVJBNktfWXFmUjQzclBSdm9BVjUwdHEtdmhNeC1sMzZDeWRCaUJsd0VsYi1fZUdETURnNXA4R0w0czFoZ0t5R0RROEJ0d2NPelVVVkFPYWR2cWJwOElWOVhpT1hqZUU?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Tue, 14 Jul 2026 19:55:37 GMT",
+      "title": "Nigeria’s Lassa fever death count surpasses 2025 as outbreak worsens",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZkw0d29CT3RUVXBpWWNOTVdLTk1fUnBFcnRZYjFKVEZ3RWJ1b2kxRDB3TVpiY29JZjFOMGYzRVVYWVlWS0hZeHR3MlVvT09YZFpwTUpIZFBCV0ZaM0RRMlR6WGRSTkljNHBpZFlGbHNOU1EyYmRFX1pOblRWY2tqM3B5NUFmazV2NU5nX2RIMkdDX0hPQlRkOHJPLWRNZE11S3E0a0NxUVNxWlN0U1hYNjBEY05feVk?oc=5",
+      "source": "CIDRAP",
+      "pubDate": "Tue, 14 Jul 2026 19:59:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Panic in Mushin over shooting, death of NURTW chieftain",
-      "link": "https://www.vanguardngr.com/2026/07/panic-in-mushin-over-shooting-death-of-nurtw-chieftain/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 14 Jul 2026 19:50:29 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Oyo School Attack: Senate Accuses Makinde of Politicising Nigeria’s Security Challenges, Rejects Calls For UN Probe",
@@ -106,20 +147,6 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "DHQ engages military veterans on welfare, national service",
-      "link": "https://www.vanguardngr.com/2026/07/dhq-engages-military-veterans-on-welfare-national-service/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 14 Jul 2026 19:15:05 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "CSOs reel out 15-point roadmap to push for “Nigeria First”, others",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0N6djlxOWY3VzZ5eG5KWVFMWXo0Sm9BWmFnZDgxN2l4SThsb0ViaVo1Nm42Nk5mdXlDNE1ZVGYta0ZlYkc4Y2ljNkhseUJDalJGWktDckZJZXZuU0w5TXNKN2doOHdTQjRXeVlHcVJuTE5FbFQzM25TOXlzcGJBOGRvYVRXbVY3S1HSAY8BQVVfeXFMTWdETlJBM1hIUnRNREQzZlVmM2VhbkUySnlzbEVxdHI2M2s1dm9WVGJyUl9VX2c0TDd5UFpubjRTYmxjcTlremhZR1NEYWJJTTlXbHk5eHNhZHdVRGdRdUhWOVJ0THdxRms5Y3hlRGZiMG5iY0tMUmw4ZU1kQUxtSmZnVXhja3JPeXo4dVVHMzA?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Tue, 14 Jul 2026 19:04:44 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "What the Oyo situation teaches about Nigeria’s emerging security doctrine, By Crispin Oduobuk",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWXNBcW5helFxTUREbU10WGR5bXpSbk03ZmpUWllNd1RrSWlEVHVxTXRwTHdmb2ZHTjdYTzhMTUNfTFVzMm9ITWdYTGpoU1ByLVhzU3NaLVVUWjFSSzhjYTktQ0dMV0EzdnA3bFktUXpMcHgyTTRCQjFHR0N2S19WdHo4c040bUVZcjdpaE9vaTh3VWpYSFdvQ1RyYnZYTU1NMzd6d0xNOWN1OWdSUDFqRzNVMWRUSU1BUUFyaGRhdGZPMFlxUzJHelRYeF9hbjJlcVhIbi1fV2lwUQ?oc=5",
       "source": "Premium Times Nigeria",
@@ -139,13 +166,6 @@
       "source": "Blueprint Newspapers",
       "pubDate": "Tue, 14 Jul 2026 18:38:07 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "Video: Lagos arrests 56-yr-old man for dumping refuse in drainage",
-      "link": "https://www.vanguardngr.com/2026/07/video-lagos-arrests-56-yr-old-man-for-dumping-refuse-in-drainage/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Tue, 14 Jul 2026 18:37:09 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "US, Nigeria Deepen Security Cooperation, Target ISIS, Perpetrators Of Anti-Christian Violence",
@@ -197,13 +217,6 @@
       "category": "Kidnapping"
     },
     {
-      "title": "Tinubu asks Reps to fast-track state police bill",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3RjMVFuZ2JrTy1XYmRDVWswSDJHcVE3ZG9sOHdNOVZBWVJMN0RNclRyWU8xMjF2c3FzX2hkN09UcngzNUhHWHZneDZfdTZBcHZ0RDVPSHlaeFJCZlc3M1JLTEp4QWtsWE5mdE81bVJiZkNydEhKUG9QY2ZrMXJJZ0drb2ZHRWViMlY1akdGTVZOMlZKdEVSaldrcUNwWXZMZEc0R1RRSVE?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 14 Jul 2026 18:01:47 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Go after other bandits, terrorists nationwide, Senate tells FG",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmpsV2k4dHUwZjJfbjN2QmRjbVc5VkFOT3cwUUVBNmFLWXBJY3BJaXo3YmRmSGZ6ODBUcmQxTWRoVG9hSVI1SzVqbU40a0d0UEFyaEtnMXdYdFhtR0N2LWE4Q1dVdjY3V2FRT1RYSXpGaV91TnNkZ1ZFTU04V010WWl5S3VOcWtwSy1rbjdyal9URzhSQTVSRDBaaWlqakU?oc=5",
       "source": "PM News Nigeria",
@@ -225,10 +238,10 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC arrests 671 suspected illegal miners",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00MXdEQ0xDdE01aFk1Z2l5Yk1qM3NDYXZaMEZscXMwMGM2V0xld01wOEVXNlFpRzZ2SXA5N0d3NnJCVGxs?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Tue, 14 Jul 2026 16:58:17 GMT",
+      "title": "NSCDC Mining Marshals arrests 671 illegal miners, secures convictions in nationwide crackdown",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDZoR0owUUI5UERXZWNRUEltbVZmejhwR0JUU29BeWM5b3Atc3pSdWd5dWRCY2NxQlFHeDhYVTR0bzdlWmF6NEYxNGFHX25vRVpYNVFwRDZiQV9wcDEwTnpmV0UyU2NMMkE3MzB4dnNLaTVwSkN6Qktsd2Q2MHhGUC02MjJJQzdUZXlzOVBQZ3F2Umh1STNydzVVUnF4Qnd3dXNEbVJn?oc=5",
+      "source": "Daily Nigerian",
+      "pubDate": "Tue, 14 Jul 2026 16:47:26 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -242,7 +255,7 @@
       "title": "NSCDC arrest 671 illegal miners, allege sabotage of Nigerian economy",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHZpekFSTkkyQlR1eC1FWktNeWVnaERoTGNpZmRlVHhvbVctRDJKTHpra0gyUnc3LWdZT2JaZ0tlSWRXNWlYczNuN19TZWdpbXdOUHYtM2lmWTFfbmlYdnkxUmthQVNxYk5Ibk1mTXNzemVtc24wWmZ2Uk9fNkc2YzhzWndZT1pjcGIzZkV2MW12TnBPNzJrcFZLRjNOd195X3c?oc=5",
       "source": "Daily Post Nigeria",
-      "pubDate": "Tue, 14 Jul 2026 16:21:49 GMT",
+      "pubDate": "Tue, 14 Jul 2026 16:22:24 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -253,10 +266,10 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Senate urges FG to intensify military operations against terrorists, bandits",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTVuckFibUVMVG52dmV3YTlkdEY0Yloyc29TTW1zM1VtTFBqWVU4bjRJOGJaZF90aHZfMkpRT0VnMG96ZzF4MlVkZnBxQWJfcFhfTGNKRXhIRkpDTHBfcnZDUkxzbVkzeGV6el9hQ1dyRVJ2X25kN1RNRmJBNGZpVFdvM3dFTkZrMW9QV3RrMmZqVlBEa3NxTzI2Q2tKdjNRYnNvMGViNEdIR0Y2VmpJMXJ30gG3AUFVX3lxTE0ySzc1Mkszc2hDT2dPUVZiaDJ6U3d6Wkl1R2dFY2NTS0hhQVZRdUVhR2RBaHV6eW9wRUxEczdPcUc5TFBDbFNKLWhOcVlUZ0d0TlV6enA5R2ZlYlNKcHUyTE1neWZ5VTYxVXN5bldTbWRMbFZNN3JfdnctMjdlVFk4NkRTVUpQd0VsUGt5TG5jMFVrMFpMZ1Jqb2lkV2RBTlhLT0NNbUlsanUxYkdvTE9maE5zZl9EWQ?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Tue, 14 Jul 2026 15:16:15 GMT",
+      "title": "Senate to FG: Intensify military operations against terrorists, bandits",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3laQTN3TFI5S2hCRHNncFhvRnl0VXlIYTRNNmRvdlhfbGJ4TXBFSmxud1BjOEtqVlJfa3kteEFwMlVEdnNTZ1VmY0oyNjg1TFJUbS0zbElfSkZYdGxzOXgxcG5weXpuV1VrUEFNMnRFcXZEYXlXR3JDQ0Zib3ppbldnNUVldFlWT1NiNWh5VDdjdDVONEdHZWZjcF9xZjFmRzVicGFZRGY1NHJmcDlZRw?oc=5",
+      "source": "The Nigerian Observer",
+      "pubDate": "Tue, 14 Jul 2026 14:52:08 GMT",
       "category": "Banditry"
     },
     {
@@ -337,31 +350,17 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Tinubu Writes Reps, Seeks Constitutional Backing For State Police",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJUclBQRzRWMWJnVkc2R25yaWZrejdzLUZTd3pjdFBqVmc3VDdtSWd0b2MxZXZuTjhsMEI2T3FndU91Wi1laU1FQ1pSMzF0bW9qNjNqS1VhVFZDaVF6Um1tMWJ0OTNpYzRJbmtlT2JLNlZUUkktY0taUENGUlVtR2FldUJBaE5XQnB0c29uYmdiZGpoNmNRR1I3TnJCUXNFc0daRW93?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Tue, 14 Jul 2026 11:30:13 GMT",
-      "category": "Law Enforcement"
+      "title": "Nigerians React As Police Release Fresh Update On Abducted Oyo Headmaster",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZklvR3JOYnNWWHVGbzY4TFZzbkpPbzBoR0FYRlZMVDZiWHg1d3NfdUE4TGEzc0N0djRyeGxoVmt3aEJCQzFvSUFCT2h0TDFTc0dPRmpyT0RHVDBxQl9Wbkt1X2NfN1VQQTlNcUR1ay1Td3pRblpnTzFaWWZuTUdhUUJseEZ2ZnZVVDJTWUktZG9UdFlvTlVuV3JwdGxqZGs?oc=5",
+      "source": "thewill news media",
+      "pubDate": "Tue, 14 Jul 2026 11:41:50 GMT",
+      "category": "Kidnapping"
     },
     {
       "title": "Yobe, Adamawa tighten security to curb illegal mining",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXNkQ3BoTzJmV05ZNUVSMjlNakc3SlhWWVlHZEhMcFRXVmo1dnhtZmFSeU52cFZDN1lweXJzZUM3d3RKY3J4dUYxaXFOV1kzWGdENDUxNHQwRGFySDh3NWUzSkFObTQteDV5V08wXzZtQXNLOHNGM3pyQmJ4eWJubDZkcjZRMERBZk1rUHdwcXpLcmFEbExCejY2U3ltWXNVbjkwdDRrTnNXQVpjak9Jb3VBeC1vZWc?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Tue, 14 Jul 2026 11:15:53 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria : More than 40 schoolchildren freed as military acknowledges casualties",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE0yYXBiX2ZUQno1YTRGVDVydFJ1QVY4emhRamlWQXJCaE94WUZSMDY5STN0ZVBKTGw4bDhDXzB5MVhIREg2MFJUUS1kWWpPRHhScVZldGQ2aWpVcHlzNkdOamFxQ2o3bUNOdXhSSERlRWdrNGk0UDFrZXJkSVJSLW5uc0hnQl9obnMycXFfbjBQS3Q5X29IOENhQ2NySzBSYmZ6S2tOUnlwREVwaWVjX2VJcGJabDFhLVlj?oc=5",
-      "source": "Sahel Intelligence",
-      "pubDate": "Tue, 14 Jul 2026 10:57:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Ribadu Hosts Top US Diplomat As Nigeria, America Strengthen Security Ties",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmk4YWlmdFpaWXVVNVlZRFlCNG91UzJGRkstdFRMZ3drSHZBcm9EaU5wTHF5OTRsYjVVN1hWUUdkRkJ1WF9PcGk4TDZFbDl1Q2RkLS1ZWlY1b2FqMFhnTVFxTEFQTlc2Q01DNWR2NGhoMW1ySjRnS09XS0lFa3ZpT05wTThnbWFxdng1SUVrSXRudUVFdktwYnlrdEo0NDh6a0JHazVJTFpXc21Ybkw2SA?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Tue, 14 Jul 2026 10:47:08 GMT",
       "category": "Security News"
     }
   ]
