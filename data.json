@@ -1,32 +1,116 @@
 {
-  "timestamp": "2026-07-15T13:45:08.606Z",
-  "generatedAt": "15/07/2026, 14:45:08",
-  "totalHeadlines": 163,
+  "timestamp": "2026-07-15T16:22:43.471Z",
+  "generatedAt": "15/07/2026, 17:22:43",
+  "totalHeadlines": 167,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 94,
-    "Law Enforcement": 27,
-    "Military/Security Operations": 9,
-    "Insurgency": 10,
+    "Security News": 95,
+    "Law Enforcement": 29,
+    "Military/Security Operations": 11,
+    "Insurgency": 11,
     "Kidnapping": 13,
     "Armed Conflict": 2,
     "Banditry": 5,
-    "Traffic": 3
+    "Traffic": 1
   },
   "headlines": [
     {
-      "title": "NPA introduces new truck movement rules to tackle Apapa Port gridlock",
-      "link": "https://www.vanguardngr.com/2026/07/npa-introduces-new-truck-movement-rules-to-tackle-apapa-port-gridlock/",
+      "title": "Police rescue kidnap victim in Osun, foil ransom exchange",
+      "link": "https://www.vanguardngr.com/2026/07/police-rescue-kidnap-victim-in-osun-foil-ransom-exchange/",
       "source": "Nwafor",
-      "pubDate": "Wed, 15 Jul 2026 13:40:49 +0000",
+      "pubDate": "Wed, 15 Jul 2026 16:12:47 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Kogi School Abduction: Examination centre was a ‘Miracle Centre’ — Police",
+      "link": "https://www.vanguardngr.com/2026/07/kogi-school-abduction-examination-centre-was-a-miracle-centre-police/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 15 Jul 2026 16:10:18 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Iran FM visits Qatar days after Iranian attacks",
+      "link": "https://www.vanguardngr.com/2026/07/iran-fm-visits-qatar-days-after-iranian-attacks/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 15 Jul 2026 16:06:57 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Troops rescue 13 kidnap victims, foil terrorist operations in Zamfara",
+      "link": "https://www.vanguardngr.com/2026/07/troops-rescue-13-kidnap-victims-foil-terrorist-operations-in-zamfara/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 15 Jul 2026 15:54:10 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "World Cup 2026: Ronaldo fans behind ‘FIFA favouring Messi’ conspiracy theories — Mikel Obi",
+      "link": "https://www.vanguardngr.com/2026/07/world-cup-2026-ronaldo-fans-behind-fifa-favouring-messi-conspiracy-theories-mikel-obi/",
+      "source": "Ayobami",
+      "pubDate": "Wed, 15 Jul 2026 15:49:21 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Sant’Egidio Deepen Peacebuilding Cooperation",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Tlh6U0pWRVlycEZUTlIzU3ZIS0xnWjhpX0pDS2N1SlVGYmc1WE5ucXZrRGVucy16TUhTVUNCb3ZjemtrU29oQXE5Rm03QVZXZ3kwYlZFNmRoUHRtNUpxNHlZdlpxODVTbjlydUpnaTM1V1B3bFNaMEl3aw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 15 Jul 2026 15:35:18 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "BREAKING: Police recruitment: PSC releases names of successful applicants",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHFDZklVb1RlSFc1T0JrWHY1SFltSW1mRjBiOEJ3ZlVYU1ZTbWJScmlTajNraXBxV0pILXRSLTJfZ1hnVmh1N0JQMGRPaFlCSEM4bmk2cmR5M2xlZ0ZKOEVUcERrNHIzNjVUWFBTZW90aVYzaXpyOTcyaGkybTJVNDF0VHFpLTZURE1DLWZPSjU4b0otcmRIYnRKTQ?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 15 Jul 2026 15:23:49 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria: Airpower, Community Intelligence As Critical Pillars For Defeating Terrorism",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTFONHlxb3lGZVFmaXNVeHZKTU5qTUlyY0F0UHZWb3REYXEwcVNtcmRuazc0eEc5a0hVTE9ZNWtaTkRNbWZXN2dtcFZReFBtMVlzTzQ4eVpVXzZlcUlnbC1HSXJMb3hyWGpvanZORTUyMjBzWExIcjQ5WGpKWnRrc0UwdXB1cGNpOVBhVjFmU0tFWmVtRVB5dGtxTE1kTGNlVV8wTUpB?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Wed, 15 Jul 2026 15:20:41 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria Begins Nationwide Digital Registration of Births and Deaths",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmMxaW4za0lCVnVBR0g1X1pGVVoyOV9tQmZHN19DUmx4UTZ6czE3NFd4X2hfZlR5ZzNycEpEYVMzRFpLVEJVR291SUxVRWVjd0xHcUNTMm9TMDQ4TXFkOVFxYWVTOHRQUDY4QXFhanp2cXlJb01RaVlDd2JVR2RTclVDWkZQYjI4SC1JN0tn?oc=5",
+      "source": "AIT LIVE",
+      "pubDate": "Wed, 15 Jul 2026 15:19:17 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Abbas: State police must comply with prescribed national standards",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenBnWnB6MGlVSTFzeWZJQTJRTGFuaU4wNWlGbWFTSTU2U2lHTXpldGNKWHBvcGdRNGkyampWakVuRDYwaHVBNFVYZjl5TUYweElvNW13VjZMaVBjYXI4MVJVaDlYMHlQNlVrUTlGRllrZ0RKZVdCb1l4NDY4MTF1aDFXc05XekowYTdZNDl2ZFZGWkE?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Wed, 15 Jul 2026 15:18:13 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Commission Commences Nationwide Digital Birth, Death Registration",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWhQU0o5VU5RdjgzNkJyb0lJaXNhSnZDcGxmRDNNakRaM1BDaUFrRHhuSFFWSGxMY2pHbmI4M1BIQml5emJmc3BtWHktQkZrSFRnTGtRY24wLURoVnkzTWNaWldoZThxMEhvd2kza3lJamZidlVBNEx1TnRtSl9XeWpMQ2ZlNFV5QWNaVQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 15 Jul 2026 15:15:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Trump tells immigration agents to keep traffic stops despite killings",
+      "link": "https://www.vanguardngr.com/2026/07/trump-tells-immigration-agents-to-keep-traffic-stops-despite-killings/",
+      "source": "Ayobami",
+      "pubDate": "Wed, 15 Jul 2026 15:04:10 +0000",
       "category": "Traffic"
     },
     {
-      "title": "Just in: NCAA bans pilot who landed plane on Delta road",
-      "link": "https://www.vanguardngr.com/2026/07/just-in-ncaa-bans-pilot-who-landed-plane-on-delta-road/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 15 Jul 2026 13:14:45 +0000",
-      "category": "Traffic"
+      "title": "Nigeria Police Academy Extends Admission Application Deadline",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekpzRnVjcFYxamkxTl90TXQ4NjBjMGxBdFo3eHZxblF3N0JWenFoODIwWEFRSWFpZnRQeGpQUGNwNXVsc3oydlhEZmctVG1hZ0g1eGRjQlZWT1M3TmR3RWZiUkNCd01RSWpyNHhvdEg0V01OMEhiMVdOandiRExpc2xoN0c0Zk5ST3hJZERn?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Wed, 15 Jul 2026 13:53:06 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Kano Deepens Development Cooperation With France",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aczgwX1pyWkZRZlljQ1BmTS1VVEx3MXJ0ajFHcmw0SXhIYVRHSnZBUnNWMk1iMERYVDgwcVI3aUZMblBaYWpzUnNiN1Bhd2ZQQm1TZHZJQjFVRlVtV0hQVWtjTDA1MWFtb3Z4bVFBaVNJcUNCT3Nj?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 15 Jul 2026 13:44:53 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Why security agencies rejected kidnappers’ demands in Oriire — Ngoshe",
@@ -36,39 +120,11 @@
       "category": "Security News"
     },
     {
-      "title": "Senate approves ₦50m for families of security personnel, teachers killed in Oyo rescue operation",
-      "link": "https://www.vanguardngr.com/2026/07/senate-approves-%e2%82%a650m-for-families-of-security-personnel-teachers-killed-in-oyo-rescue-operation/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 15 Jul 2026 12:59:19 +0000",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Labour Party says it met INEC nomination deadline, dismisses contrary reports",
-      "link": "https://www.vanguardngr.com/2026/07/2027-labour-party-says-it-met-inec-nomination-deadline-dismisses-contrary-reports/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 15 Jul 2026 12:35:12 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "NPC: Millions of births, deaths still go unregistered despite five million annual births",
-      "link": "https://www.vanguardngr.com/2026/07/npc-millions-of-births-deaths-still-go-unregistered-despite-five-million-annual-births/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 15 Jul 2026 12:23:40 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "UN special agent briefs Security Council on insecurity in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFA2emlxcjA1aTAwQ0N6Ri1OSF9ZN0pVU3hYUDU2TkQ4V3VTZl9mSThldnRnUUpTU083QlZLUUl3cTg1ek05TFRBcFpPaFNma1NsSDYzRG16eFBIYmRpQW1ZcXQwN2RVeUM5VmM0clB2eVFBQk1BR1dlaTk0dHhvT2hXM2Y5eEMtYVBlR1dtbFpBWG8?oc=5",
       "source": "Peoples Gazette Nigeria",
       "pubDate": "Wed, 15 Jul 2026 12:23:18 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Gombe police arrest robbery suspects, recover stolen vehicle, master keys",
-      "link": "https://www.vanguardngr.com/2026/07/gombe-police-arrest-robbery-suspects-recover-stolen-vehicle-master-keys/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 15 Jul 2026 12:08:01 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "What is really driving Nigeria’s persistent insecurity?",
@@ -92,11 +148,11 @@
       "category": "Security News"
     },
     {
-      "title": "Ex-DSS Official Defends Oriire Rescue Operation, Urges Nigerians To Commend Security Agencies",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ1U5cGdXQkQ4WWo0aFlwdFhUeGhXcGVxSHF5RVNZR3BKQ2tDLXN6QUphWS1OcWJYNnVwTlY3bDR4TElRaG9mb2VlSW8wVzVPNHZzX3AyTTU1X2poZnBqV0I5cG83ZXlLSjlWYmcwb2o2clBudkx4UmM3TkpLdGhiMGdpM0x3ZVptZTFpaUNJMldYRXJwVUZxMk8wLTBGRDBYNlFSVGtMbTFteW5WTWdfclpJaUhtN1NHeDdWbmRPN1VJX0NIYTN1TXE4bw?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Wed, 15 Jul 2026 10:26:45 GMT",
-      "category": "Military/Security Operations"
+      "title": "Insecurity: Police apprehends suspected bandit in military uniform in Kano",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWZ6UXpDb3BXeTNuUE5HTFYzcGRwMXNqZjhXbzN6aDA3STdETHdVZzAtVWZuQ0JoU3JPMy1SQks5MDNWMFZpY205VFVoMURTSDNKYVdBUkxKd0dRU3NDbzVNZF9ldkJDTFVBOUg2T1QyQmdMcHlJdjNaQ0hhTXVnM3M2Zm1hS242RkFkRjlsUDAxX1gxMi1BMjlIV3lDTXN0VXVMMlpqM0dpTmNITlN3TDhHYw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 15 Jul 2026 10:40:00 GMT",
+      "category": "Banditry"
     },
     {
       "title": "Arrest of foreign ISIS operative among insurgents in Nigeria signals tactical shift in Lake Chad region",
@@ -113,11 +169,11 @@
       "category": "Security News"
     },
     {
-      "title": "Esther Adeyanju: Why Do Nigerians Celebrate People Who Succeed Abroad?",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWTE4c3didjh5NG43RVI5TV9fTFdIeFJnLTlKSFB3Z2ZZd1UyMTZSWDhrX18ySFRsQzVWWXoxVUkyLXFkRWJncXp0U092MlNDaTUweXVucVZKRWdRWkRmRFNlMVJ4VEItR3Z4SWF1ZE4zV3hqU28wN21QTUU4dnB2eXhRbkcxaV9OQjRSRDZwMFg0ZXZTMEdUVzlELU9xUnRXOW9ZcUxtWQ?oc=5",
-      "source": "BellaNaija",
-      "pubDate": "Wed, 15 Jul 2026 10:00:20 GMT",
-      "category": "Traffic"
+      "title": "CSOs back Tinubu on security efforts, unveil ‘Nigeria First’ development blueprint",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFZpcF9HWHg0blpyZ0U0RUxXSDE2dXFXVm5DOVB5aTJzeFpsQmNaYS1xbkRXVFRfcGdKcmRSQ1dHQWR5aWNkcEp6UDdfYTh2ZWNvRUt3TXRwRnM5NGUzZFkyZ3lZcjNzWW5pTWxLMUV1TkF2TEJJdi1IYnhjMldwc3J5MDVxRmFOenZFX0VYWE1zV0dyS1lSb1RRLWsyZ1JJTVBmQ1FKSkY?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 15 Jul 2026 09:59:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria, Benin Customs fortify border security with geospatial tech |",
@@ -125,20 +181,6 @@
       "source": "theeagleonline.com.ng",
       "pubDate": "Wed, 15 Jul 2026 09:46:25 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Police apprehends suspected bandit in military uniform in Kano",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWZ6UXpDb3BXeTNuUE5HTFYzcGRwMXNqZjhXbzN6aDA3STdETHdVZzAtVWZuQ0JoU3JPMy1SQks5MDNWMFZpY205VFVoMURTSDNKYVdBUkxKd0dRU3NDbzVNZF9ldkJDTFVBOUg2T1QyQmdMcHlJdjNaQ0hhTXVnM3M2Zm1hS242RkFkRjlsUDAxX1gxMi1BMjlIV3lDTXN0VXVMMlpqM0dpTmNITlN3TDhHYw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 15 Jul 2026 09:44:02 GMT",
-      "category": "Banditry"
-    },
-    {
-      "title": "Adeniyi Adeyemi and the PFIPC: Nigerian police arrest boss of fake agency",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8taVVJNXRUZDdlMUpfMUpEVDFCUno0a3ZGNTBmM1JwZ0VtbDd4WW42MkVxMjIzSkVQSEF5QU5qOWIzaGNHVlVJNzlIZ01xS2JYUW8tU0thQVByZw?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 15 Jul 2026 09:42:09 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Feru Community Leaders Call For Joint Security Operations To Stem Violent Attacks, Kidnappings, Protect Legal Miners",
@@ -152,13 +194,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sS0IwN0VWczZDVHY1aTlHWEtNMUdoWU5FaUdzM2FQWEFDa05SRXFScU91YUQxbTlhVmFZVzNlOFRwa21yZDVEbk5uUVFZcmpENU03UEt3YzU0bDhsV2dUZ1V1ZnI3WU1EWXFzU3BGX3Z4TG9wQjdJbU50MWFnQjg?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Wed, 15 Jul 2026 09:10:55 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "CSOs back Tinubu on security efforts, unveil ‘Nigeria First’ development blueprint",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFZpcF9HWHg0blpyZ0U0RUxXSDE2dXFXVm5DOVB5aTJzeFpsQmNaYS1xbkRXVFRfcGdKcmRSQ1dHQWR5aWNkcEp6UDdfYTh2ZWNvRUt3TXRwRnM5NGUzZFkyZ3lZcjNzWW5pTWxLMUV1TkF2TEJJdi1IYnhjMldwc3J5MDVxRmFOenZFX0VYWE1zV0dyS1lSb1RRLWsyZ1JJTVBmQ1FKSkY?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 15 Jul 2026 09:05:45 GMT",
       "category": "Security News"
     },
     {
@@ -218,17 +253,17 @@
       "category": "Banditry"
     },
     {
-      "title": "What Special Rep told UN Security Council about insecurity in Nigeria, other countries",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWNobktHRlRHVGhHVjVwc2x2VFVrUTJTUDFMOGx1Zld2dVdqWFRlZVZaWHJSTEVXcmVldWpSMEpKakVOblJKUV95NmZqUUFZSUtzZ3BRUU40QjhWZktmbFY1eF9lS3o3cUlhWGRFSm9pcGpiQWNRelRFcEJLZnNyM0tfa2E5YWpReFV4RjlJWkI5cy1leVdDeEFWT1ZvOEVoTm1ROHVfRXo1VS1VS0NKeFgyNDc3TnMzRndWRWhwa2g?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Wed, 15 Jul 2026 06:30:16 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Oyo schoolchildren’s rescue: Senator Orji Kalu commends President Tinubu, NSA, others, urges politicians not to play politics with security",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNXzdzbF9TdGVDM0R3T2RoZzlKSVVZM1h6SlA4WURubWtycUNlTjJ0ZTUwUXhOLTVHallqUWVWcHBZNm15QUJQYlBPRDVSRGdQaGcydjJjVGVvci05WE9DaDNHS3JVOWVPb09UYmtBcERBLS1vLThhSGFzc3RPdmVIYnl1d2V2RnBINHp2VXo4RmY4aTk4cnF6UnMxSFFldi0yaW9vTm5HTThrZ0YyNUhHajJrdXNqVFpXUTJ6RElEdnpaTjJVMnRnRXBUVWxYcmV0eG9SSGpQU2ZkaG42VERaT2FZSEx4Nlli0gHuAUFVX3lxTE14SHBZSTdLejdnazlNaGFjVldKNjF5SF9wNXZCWVBoTFpsNEtCR2JnNEJvY3hPNThSODNiYVhReWg4QllzZkNuVDNHQUpaWEl1Yk1zQW1Da3pkYkVodVkxNmdaZkdYdWtER3VYd19jMGFfbmh0czh5TU1vb3VwUThmcmd3bnV2endZZ2NSTjFCSnlyV0RMT1RScWowRzUzS3hnNmVIdmtKWENDSjNlQTlaaXRfV3BWbVRnTm1zeU90dFBLRDg0Wkt3d3RDd0Z1aHpfYS1fVlNCcC04RHJfX1NjeTZ3UHdDMUxhclNiN0E?oc=5",
       "source": "The Sun Nigeria",
       "pubDate": "Wed, 15 Jul 2026 06:17:07 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "How The Benue Model Reimagines Education As Nigeria’s Strongest Security Strategy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX21yYWE4RmhFTnRaUTc1YnRFZ0ZNOVBIcjRCdkpJTUhDM0pCeENwc2tDVC1TTVRCbkI3S29zMi1ZbnE0Z3ZFUEp4ZDZWbUhNcVhpcG1faDdIZENRc0NxVU95b0ZHUm9WaXBZRU9hZ2lmc1RtN2hJNWxPazd2bVJlRmlhMHZSUjg3SnB1LVFSUGZxTHpxTmg2S3hPSHpWZ3FsRWZuT2FR?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Wed, 15 Jul 2026 06:00:29 GMT",
       "category": "Security News"
     },
     {
@@ -274,13 +309,6 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Nigeria, U.S. reaffirm commitment to strengthen defence partnership",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSUtWMUFLQkxDRXNWSHNIMGNyc0xSdnBFaFZCZGkyWFhJYlVYSFJxNXlTd1hLQ3JzSHJ6cC1LcDVza29PZUZpNmc5blI5anJIMlRwZUlqYlBRTHZmSGZpc3FJTFc0WnBIWmp5dlM2a2xWX19qOC1YOFRMMFVSeWlwajdjRkJiRlNWU04wNDZZeXlxdGNYYmc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Reps Rescind Passed State Police Bill For Tinubu’s Version",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1lQZVhtYnlUdkZrU0E0TUlFN19DSmZYdHBCSmVsdk0xV09ZV2d0c3BFci0yRU5jdzJTYnY0R3FzV2x5M0R0RjZnRFY1MlVmdUZHa05YUFAyWGpnVHlFVllZaVJLWmVPdXFGbEw5SFZaVnZMZVpoQVpqT1VoOF9NOW5MUkJPdkpj?oc=5",
       "source": "Independent Newspaper Nigeria",
@@ -309,13 +337,6 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC arrests 2 over alleged theft in Kwara",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PM3NROUlsUUVISk5mYm5GSXZiVGdPS2MyLWxuZy11Q1B5Ql9UMTlFZ3lMVDFpbGJDTzZVQkoyeGpPV0d5XzFveko2UFpyelh6QkY0cnc4WkVHYjhIck5mNnZGTDdiRnNkSXJIZ2tFWEdVWEF1Vmc?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Wed, 15 Jul 2026 02:27:47 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigeria’s Security Crisis: When A Nation Develops An Autoimmune Disease (2)",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzhUQ0x0cXVoaFdrRmFSRF91bmNzckZFc09mNWxFRjVwMk04RHhoZlJHa3NsNEtacTZ3bDd1NUtWNWhESzQ5bHBnbGNHMHJrSGxfQ0x3LUN1UjhsR1RXRVE2NTZtWEJpMWpoZGpzZVpxVjNWZnAwWmVncnYydE5sWGs2R0tQcS1GSWtJSFY4d01FcUlqNFh4TFdkNA?oc=5",
       "source": "Independent Newspaper Nigeria",
@@ -342,27 +363,6 @@
       "source": "Ripples Nigeria",
       "pubDate": "Tue, 14 Jul 2026 21:45:57 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Why Nigeria’s security crisis reflects failure of conscience, not just policing",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaTNGRVlBemZHLXZwb203bnVxRi1vQ25VakMxS0JVNnE4d2NhWlJyYXdBUHRrZmlXSGVKSy10cXNCTzFqMTYyenliVW1UMWJiR2NpaVlGT21rd09RQ05UNGtESkJQT2VOcGRGLTM1MVhwNXhya2pNdUJXUkhwaVNpTi1lRnAxd0lSQUpRRzM4XzgxZTBoYTFhN0xZQ2FZRm85VHRVR25HYTRnckRlN1UyeDNDbGY?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Tue, 14 Jul 2026 21:22:32 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria, US deepen defence ties to tackle terrorism, regional threats",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXh2M3RHcXM5ZFRDeU1fcGRfbEEtNVY0LXJpSFdLdm45V2JRMHVDX3B0YWhORE5jMWRFdnpZV0I4RHE5ZEctVmhmdDNkNUxmSnF5T19RUENBcTZZZThQQUZKOUN3ZFdMQUNBUVQ4QnZPRGhpa3lwNDRPNnU4NHhpSUYxUGdfS2JwYnQxdVRESTc0ZVNuZXZEeUVoaUhWQklkTXFSaUF2QdIBrAFBVV95cUxPWTh4R0doWUlrZUtybllBdHVzSGlYZ2Q3T2o3Sko5eW02MXZlT2hHQ2hDa2kxZFlVZF8ycmpTT0pZOWJsbXBGbDZYRm9vT0hvbFVwc3FudW02TVNpU3o4MUluYzBwX2lUVC0tRUwwSWxUTzE1UnBoTHhQeFBsQ2lJQ2I1MGI2MjVJeXVwaVVnbldrWnhHUTNBMnlCNFppZHdDSE95cHN4TjBzM2pI?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Tue, 14 Jul 2026 20:37:31 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Oyo School Attack: Senate Accuses Makinde of Politicising Nigeria’s Security Challenges, Rejects Calls For UN Probe",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLVdVd01UOFBZS2REOWFrRjN6ZjZhZW9La3dFQ25ZZ0Y3blVsRW9Pc3ZOSG0tQXR5cUhjZ214V2ZGWjlyeUVNS2hLMFVzelBYYlpoM19uV0xTUHVmZ3F1QlVNT2dzSjJOczhxb3E5RWdmZnE4dHN6Rl9MZjZWQXZNdzUxWTF3Y1BUMnFuZ2dFei16R3JnaFloNWE5WFNTUnJPNVJJMThjRXFHRjBJZUp1SjQ5eTFhRUN5cnV4bUl4a19Ebk9fUmoteUZfUTZiVHpWY0V3?oc=5",
-      "source": "thewill news media",
-      "pubDate": "Tue, 14 Jul 2026 19:33:04 GMT",
-      "category": "Armed Conflict"
     }
   ]
 }
