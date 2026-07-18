@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-07-18T05:27:22.685Z",
-  "generatedAt": "18/07/2026, 06:27:22",
-  "totalHeadlines": 170,
+  "timestamp": "2026-07-18T07:52:00.842Z",
+  "generatedAt": "18/07/2026, 08:52:00",
+  "totalHeadlines": 169,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 95,
-    "Armed Conflict": 6,
-    "Law Enforcement": 28,
+    "Security News": 96,
+    "Armed Conflict": 8,
+    "Law Enforcement": 24,
     "Banditry": 1,
-    "Traffic": 1,
+    "Traffic": 2,
     "Insurgency": 16,
     "Military/Security Operations": 12,
-    "Kidnapping": 11
+    "Kidnapping": 10
   },
   "headlines": [
+    {
+      "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
+      "link": "https://www.vanguardngr.com/2026/07/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 18 Jul 2026 07:46:30 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Venezuela earthquake death toll exceeds 5,000",
+      "link": "https://www.vanguardngr.com/2026/07/venezuela-earthquake-death-toll-exceeds-5000/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 18 Jul 2026 07:29:40 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "PPDC deploys 50 police duty solicitors to curb unlawful detention",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0ozZFhtNkplMmE1ZDhmb29nZHpQMG4xSldRZGVRQ3Z4ai1qZXV6Sm5KQWI1aVYzSFV0TWEydm1ibDBSbHZjeUQ5WWZsTEVFcE9pZ29WSjJ5SmNuV3lKMi1sdnVNNWZYcnJvM2pnMXlHWUNXdVVQc0djSkk5LXFucXl4RVQzN0MzRXgzOE83RC1iaVNfUWc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 18 Jul 2026 07:13:49 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Troops rescue 42 kidnapped victims, kill 8 terrorists, arrest 18",
+      "link": "https://www.vanguardngr.com/2026/07/troops-rescue-42-kidnapped-victims-kill-8-terrorists-arrest-18/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 18 Jul 2026 07:08:47 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Breaking: Cyberattack disrupts NBA presidential election",
+      "link": "https://www.vanguardngr.com/2026/07/breaking-cyberattack-disrupts-nba-presidential-election/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 18 Jul 2026 06:57:30 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Plateau: Five months of violence claims 200 lives, youth coalition claims",
+      "link": "https://www.vanguardngr.com/2026/07/plateau-five-months-of-violence-claims-200-lives-youth-coalition-claims/",
+      "source": "Oboh",
+      "pubDate": "Sat, 18 Jul 2026 06:36:40 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "The Northern Nigeria Security Trust Fund",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2T3QyLVkxYXVaOWdYUzhDb3lrX3RMN1RMV2dwTWRFaVEzaldIbC14UDZpUHVIOEtMdEppaDBuUEhMZnY2N2RjeXN6UXFMLUlRQXJDX1lTcGZwU0x5MU5malJiS0lDUjAxMTRhbExmTmI?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 18 Jul 2026 05:42:15 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Mary Habila: Government has legal obligation to probe suspicious death — Oshoma",
+      "link": "https://www.vanguardngr.com/2026/07/mary-habila-government-has-legal-obligation-to-probe-suspicious-death-oshoma/",
+      "source": "Oboh",
+      "pubDate": "Sat, 18 Jul 2026 05:34:33 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "President Tinubu Reaffirms Commitment to Roads, Schools, Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjAwNkE4UzJORUl4Qk5PTGlKMXVjVEstemU2WkZfWnFvdGpCVkdyYlZndUoxcVpMMG9lY1liLWJWQnVrT0NoVy1kT0NmRzN4Y3M0dV9DMEJOTlhQUkY3V1o5SDl3eHdxS2pSWFl5OVAwbkRuRkpkNG1McE9BakR0VG1ORUJhSUFNRVdFU2dn?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 18 Jul 2026 05:26:49 GMT",
+      "category": "Traffic"
+    },
     {
       "title": "One Rescue, Many Questions: Why insecurity still haunts Nigerians",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0VNRG1DaktkVDhDM0g4MEJmeDlrWTlRN3lJU3FmQ3lLX3pOeUYyVDd5dnppdHJGZEFSaG1KdmhPa2NfenZ1OEhhYWMyc1V4TkNFOFhNVUNuYVFwbFY4MUtlV2RNb0VEZTBPOGxDRU9UUXYwT0VSUUlLMjByS0ZCQl9nSzZCdnZTbGlfcnI5Qm1yb00?oc=5",
@@ -43,6 +106,13 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "Carloha Nigeria, Stanbic IBTC Partner to Make Chery Vehicle Ownership More Accessible",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3dBLTFiSjhkeG5YY2l3Ykp1enFVaFZTc2N0QlZIeTViYnh0SzZNN2hXWFNXVDZWdXZJY25UMW9pb2VMeDNVVV9jYnB4MEloRFU2dVRNbFdleGR2WTIxaXpkdzBrb3F5alJwaWdwWTl5WEQ4OW1HRVNVcnMwSzg5d3g4akdOODlYUl9zWTYxSEZ6c3R2SGNVamdwVTZycjVoTnkzSk12SjZ3QjQ2ZGVQT2hQcWxXakFOMTVCSmZONV8wQQ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 18 Jul 2026 02:26:30 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Author recommends ‘local police’ instead of state police",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10TnpyR0Zfb3QxME5vaFhJZEJkRGh4NGpuOUt5M1J1bVVOSmtGUF9GRjc3S1FvZzQtYURibjRXN2hjSzdIY2h4aWVITkc5enJwTG05b2ktNldybGNZRkhiV09pTnlHUE5wbmlBeDVVM3dQRVQ2ck1TQmhybWVYZ9IBgwFBVV95cUxNWDBab0VYMzBaZmplM3RHV1MzYTNybWFWQjN3eGhOMnp6UFVoeFppczN4NXlPc1JoZzZnck1lclRsOENtbEFlMnFmRWttcU56ckhUTl9CSFhhM2RRS2hsUkh1QnZicGFFY3I4Q0FUS0hjMDEzQTh0djYtRFppN0pDeHZlVQ?oc=5",
       "source": "The Sun Nigeria",
@@ -64,46 +134,11 @@
       "category": "Security News"
     },
     {
-      "title": "US forces launch new strikes against Iran – Military",
-      "link": "https://www.vanguardngr.com/2026/07/us-forces-launch-new-strikes-against-iran-military/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 17 Jul 2026 21:24:06 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Navy dismantles 48 illegal refineries, arrests 91 suspects in anti-oil theft crackdown",
-      "link": "https://www.vanguardngr.com/2026/07/navy-dismantles-48-illegal-refineries-arrests-91-suspects-in-anti-oil-theft-crackdown/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 17 Jul 2026 21:12:59 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "‘State police need funding, protection’, APC chairman tells Tinubu",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmM2TEZScE84bXRwS3NEb196SEs0YTlaYVp6YkI5UGlyQ2hmeWRzb2c0enZ3Y21hRTV1amxrbUlWZ2t5ekdkc3VBaFY2NmhFaG5ZQzlBTTE3VTRqaTdvUUlTRHlCNUpUUTJSVVpxSUMzU1VLOVFRRXlaNFVla2stX29qNDNJcVRhMFJrdzV1WlhLRUJsZjZBc180dkdKNkg00gGmAUFVX3lxTFBTb2dQeWhPOHNEX1IwV2pVWTZGdXVpak9KY1hXV0htR0doV0pndXNsel8wbHdkSjN6MUtfVUxsZm5iZTdRVU4zajBGZ3FzSXVfRjEtN2FpVllHMmh0bmhBRHd2TVY4bXRkaE1iZno2dmZlTDc4Z2M5UGZheXV4VXowLXhadnBNTU5oX3BuZjUtVXBZd1JOTjBicWtkTi10N3NpWGY3Ync?oc=5",
       "source": "Vanguard News",
       "pubDate": "Fri, 17 Jul 2026 20:32:56 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "NRC boss seeks stronger security collaboration with police, demands tougher penalties for vandals",
-      "link": "https://www.vanguardngr.com/2026/07/nrc-boss-seeks-stronger-security-collaboration-with-police-demands-tougher-penalties-for-vandals/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 17 Jul 2026 20:19:34 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "polls: NNPP raises concerns about potential misuse of state police",
-      "link": "https://www.vanguardngr.com/2026/07/2027-polls-nnpp-raises-concerns-about-potential-misuse-of-state-police/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 17 Jul 2026 20:14:23 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Niger investigates suspected infectious disease after child’s death",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDdxcUJHdXJqZjVnVkFHb2pGeFVNMEEtdE1pekMydzBWTkVoU05sWHU1Q25CN1FMejBoVi1OcUZ1NGJsWWxpZDZWUU9LWUtZdE0teFZkSE5NRmRrbDdoVWJDTkpZSDdkeU1kZng5ay1hbWtlMDYtOTlGWmhIbGk4UURWbU1HOERMR1UxY0lqb1NwUVZOSmtiQUJoblB5WE5vaXZCYmU0UVFhV0dEZ1BVUEpVb2ZqbVBjNnV2WWVFd0c?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 17 Jul 2026 20:01:26 GMT",
-      "category": "Security News"
     },
     {
       "title": "NNPP’s Onu warns against abuse of state police",
@@ -125,13 +160,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Fri, 17 Jul 2026 17:53:24 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "Nigerian Army Commissions Lagbaja Complex to Strengthen Logistics Training",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQkJNUXZaVWJHTDBGUjAteC1INzNyU3RTNkkxRXFkYVM5TlBaWkJXbDRQMmZLMUZ5QVgwd21tbWpnMWE3a1pFYVF6YVpQcGNMSWhvX3llalIzWUdNY2NKeEh0czc5TThTRDdFVlVEaUctMDhBWlFMWTg1aXBOTW9vdS1xdWFPc2l5bjlmUzVFd290YTcwcmhkcVVR?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 17 Jul 2026 17:15:01 GMT",
-      "category": "Security News"
     },
     {
       "title": "Anglican Bishop backs state police, urges reforms to strengthen Nigeria’s security",
@@ -160,13 +188,6 @@
       "source": "Business News Nigeria",
       "pubDate": "Fri, 17 Jul 2026 16:04:48 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "FG arraigns three suspects over kidnapping of Oyo pupils, teachers",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzBLY3EtMHlGMTJRTDJ5Vm5NMWhETnVaNy1aVG1EcnRlV0pUeVVJaUFocC1WTTBuWGRBWXQyX2NxYW5xOWM0NDdUVHY5ZF9VazZReUhmY3FabWNXTXRkSnpXeUJPaUN5ZHlKbldMRHR6el93akIwTnJRSlRGZTNsdlBBRmZzZWNUX201Tl9rdHJtbEYyV05fU3VNUnAwY280UldSdFE4Q0c?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 17 Jul 2026 15:42:00 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "US House Backs Bill to Suspend All Assistance to Nigeria over Terrorism",
@@ -260,13 +281,6 @@
       "category": "Security News"
     },
     {
-      "title": "Tinubu will secure permanent UN Security Council seat for Nigeria — Jimoh Ibrahim + Video",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazItTm51QWM0eTE2eFpQREh5Z1FETU5LMWV3Uk1VVF9nSm14bXl5RUJnNE5UY2FLTnpmbUVLTmNXdVAtRDE4Q2t0NVBQcGwzMXRpMWhPcVItclNqWlNxeG95UUR4eWFRUDVaX2lDNklIZzloWl9pMTk3LXduMjZIMzFDUGxHa0lITEVqY3c4TFpXMlBvSDJpSWVLRWZKdFJxd0dHU1dKbUx4Z0JnSWpLMXVrRnlQaEE?oc=5",
-      "source": "theeagleonline.com.ng",
-      "pubDate": "Fri, 17 Jul 2026 11:36:22 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Seyi Bakare: No hiding place: Inside operation Kosaye, Ogun’s new security doctrine",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWFHTkp4R1pPbjlZVzE1dFNwU1FYNXdyZFRIM1VyRDhVdy1GSWVJZklsVUFxT25yYzYzbllKeTAxRlBfNHFSUHB6SjV0cDF0SjQwU1N4c0hxcDZMa2NieEtva3NQbjV5S3dYUXNxa1M4NVhjU0xBX1RhWlpZeUc5QUZadFJxakdjR2NYeTA1OE5sZkRoVjlWek9RenladzJnR3RwZGZ5dFRXRFgyZ0hlU0pn?oc=5",
       "source": "Daily Post Nigeria",
@@ -288,13 +302,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria is Finally Prosecuting Terrorists at Record Levels. Here’s What That Means",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWVEb05FdUZqT1pKSnpDN2Q4SXdVUUlVQnctMlhYNC1QTlBPNUktSmRZcVpHVV9icWFsX3JnbnBaeUhGcmtNU1k3c2pCNTFaYU1hMjBIMUg0anhZb194MlJid0U3YWdXM0tzZHF5MUVkYXc5Wkwtd3FkZkI4XzNzT0NyZVlIRE9ILXEwQUVEZnlCX1EzcFVubjRRR19WTzlhVGgtMGloY0VJcWs?oc=5",
-      "source": "HumAngle",
-      "pubDate": "Fri, 17 Jul 2026 10:07:56 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Digital Threat: NSCDC Trains Private Guards In Edo On Cybersecurity",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3Qmx0ZW1UOG5ETVdzODd5NlNtSUp6emplTUFIMWhsRDgwUllfT2NhbXRMLURTZzJzM2pqczNIMWNUalBl?oc=5",
       "source": "News Agency of Nigeria",
@@ -306,6 +313,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2ZwdmM5R2FHclFybUdOM01jdHlUZEFaWjVVYXBHX3VHdzJLajQ2RjdNWXA2Z2twTTZ1UVkzMGJrVC1qeEtWWDJTclBqZ2pEYzNwbWVoQTlRdVo4WS14M2FGTVRCUGxEd0JfN0Z3M21iRWNCd04zUkNfc0I5VGt6dWhkN21xR2lUdkV4anJCdVVJTHhTQU9jU0xMWktGM3UyV3FjU19aQ25MZjBsRnc?oc=5",
       "source": "Tribune Online",
       "pubDate": "Fri, 17 Jul 2026 09:15:02 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "The technology Nigeria desperately needs to tame insecurity",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDVleElNb3lxY0J4al93SmtBT0ZQdFI3T3Z3MjJNWGZfNFpkd0FnVmxxcVhLT1BlOW5oX3dOU3ZyY2xtazhQdzZtZ0hwd2V0OTNmZjFvdlN6YjhrZzVnUHVEX0I4bzItNjZCclhkM3VrU2FIaS03ZThnN3YyU1dDYVFBc2hwODBhd2tqRA?oc=5",
+      "source": "TheCable",
+      "pubDate": "Fri, 17 Jul 2026 08:45:45 GMT",
       "category": "Security News"
     },
     {
@@ -349,20 +363,6 @@
       "source": "The Sun Nigeria",
       "pubDate": "Fri, 17 Jul 2026 01:58:39 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Tinubu Will Help Nigeria Secure A Permanent Seat In UN Security Council, Says Jimoh Ibrahim",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS1VZSEdaMkUyNmVNc09sMjY0MHdHdlNMUGtfWFI3TGtsV3cyODVFelR2cDV4Q1pmM0lsQlJSOHN0T042N0xzdUhWWkVyQ2pqemh0TGlUY2Job2tXZ1FIaklMMUlxdmk0T0IyRHVHc3lFTnJCTWxKdmhFck9FTERfa255aHBnSDUtTjI4bldqTVJ5cGRHeVFpSnhCMExhUkx5VzltaGpfMzNoWVB5LVAzekxSdGd2eXNzZHFzQ3hhSXVaOEcyWGl3?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Thu, 16 Jul 2026 22:19:48 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Kogi govt announces rescue of kidnapped NECO official, students, principal",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFFLM2hkTTZ5dFNValJsWlduRXZFNVZrdHJXUTVZVTY4THdWS1hFQ3dLUi1URlgtZ2dJRGhLRGJVMGFQUXpHR2JxUnBtUGYwUTEycUxsWmdyNWg4eGIzNllNb2djQkN1RG5iek1DNVpWcW5GamFiaWI0N1NKTVFLOEpGU1J1QUVaRnVvNE44SWo4MFV2UVR0RmNFVHlhdGNPTGtzN3JMdHdLTk1TSVBF?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Thu, 16 Jul 2026 21:49:57 GMT",
-      "category": "Kidnapping"
     }
   ]
 }
