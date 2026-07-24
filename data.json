@@ -1,24 +1,80 @@
 {
-  "timestamp": "2026-07-24T05:50:53.653Z",
-  "generatedAt": "24/07/2026, 06:50:53",
-  "totalHeadlines": 168,
+  "timestamp": "2026-07-24T08:28:31.612Z",
+  "generatedAt": "24/07/2026, 09:28:31",
+  "totalHeadlines": 170,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Military/Security Operations": 9,
-    "Security News": 108,
+    "Military/Security Operations": 10,
+    "Security News": 111,
     "Law Enforcement": 21,
-    "Insurgency": 11,
-    "Armed Conflict": 4,
+    "Insurgency": 10,
+    "Armed Conflict": 6,
     "Kidnapping": 7,
-    "Traffic": 5,
-    "Banditry": 3
+    "Banditry": 3,
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "President Tinubu Approves Four More Divisions for Nigerian Army",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakloZ1k3TEVEeW5YZDBEbWpzQTBDT3A0UDkyRnF5eWpPZ2txcnBIcmFhS0FIMGNGVGZGRzhfX25jcU1VNkRwYTlXOEdWTUZ6ZVN3S1huMDB6M09vbkk0OHoxdVA1SWczcUtVYUFOSEJDMUtCeHNIb3EtS1kyWW16Rk5WRXZ0d2lPcTUzRXNGTE1kbnBlLW8tYk1ncHpiaTV3TzNzQmJJZTI?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Fri, 24 Jul 2026 07:28:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC arrests 10 secondary school graduates over alleged banned “signed out” celebration in Adamawa",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSHN6VjU3QzgzMGVKSURPUHBmTlpxNnl6STFfNFV1XzdvZUliOUNuUnYzZVJ6MkNFbGFlV1BkeGVUZjQ4UGhvd2ZDLWFOYzJwMjJlajFLVFhlaGh2M25UWVEzYXdzREY3NmdqR043VC1IQ2RNWU5ZelA0TnBOX3RzaVBJbjc3bVpZaVBiSTUxYjBBOHlWVWt2SnRZTlZwR3BueWF5Q2lJWmFIclhvM05wM0QwNzBzT18xQUJQMXpJY09jdWRIMWxCSmdR?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Fri, 24 Jul 2026 07:22:04 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Iran army says attacked US bases in Bahrain, Jordan",
+      "link": "https://www.vanguardngr.com/2026/07/iran-army-says-attacked-us-bases-in-bahrain-jordan/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 24 Jul 2026 07:13:23 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Anambra offers plea bargain to criminal suspects, excludes murder, kidnapping cases",
+      "link": "https://www.vanguardngr.com/2026/07/anambra-offers-plea-bargain-to-criminal-suspects-excludes-murder-kidnapping-cases/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 24 Jul 2026 07:08:36 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Etihad Airways to Resume Nigeria Flights in 2027 as Keyamo Seeks Abuja Operations",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNklTeDVjLWtuWHJ1UWlMNFJUcFF4V1RrbWZKYlVUMlh3QjE5YV9IWGF4eE9OYjlKSmJBWHdqYnJGYWVBSENoS2dzOVVva0dHSmZqeUIyZHE0dFNFUld3MXN1RURYejlFRHBuT3pYNTBRN2k0SlY3NjFKWnluclFlQjUxNlZ1cnlBUGdGZDlUa0FHeDFZQzl4aDFTN0J2SzhfRXJrenBZa0E?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Fri, 24 Jul 2026 06:29:02 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Tinubu Approves Expansion Of Nigerian Army From Eight To 12 Divisions, Orders Recruitment Of 28,000 Personnel",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNlZzWldQc3ZuMmROczNLdk1wNERCWHhfWU9xcmpEazJmQnlUbENfbnAwTWRtUXVGVXdLbXhtRkg5dVZhWGNBUmt6SURGTDhHMEZicURabHNzbElNMElzM0hkRWZsamZycEVSV29NR21aeEhCSVZqRThpTlhHdUxKRGRwb3J6amJya212MGtETW1DeGUxVTVuNy1xN3ZkXzQ3c0IwRkZPbVJRS2JvTUVuUmhUQy10WnhyaFpNWW4wRQ?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Fri, 24 Jul 2026 06:23:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria: Beyond protest against hunger, kidnapping and fuel",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGxBOG8tNV9CcEtzSWJBb2ZkNTJHaXpaNnBTNExPUVF1d0FBQzhyOUE5SHByUTJZeXpValMyb3l5cVdZVzJDeGJOQ3F6TWpGUzNZMlA5ZE9BajI3SmNDNE1jaG1DTmdPbEM3SkZvUkwwR2I0azRlb0pJY3dXclE3ZW5ja0xxVXZodm13UjRURkZ6aXE0YTh0anp30gGfAUFVX3lxTE1oQnMzUjJNLWRtaXcyd3UwV3RMZ1VNdTVkUmRLLVN3V3B0RVl2clRidGVHT0VCUEVYMnJUbWp0SWZhMnJNTzVkR2Q4eU94cUZNRHB0MndXQWllcnRKamJKMGhrcnB2N1QtLThfckVyampxM2pJRklkeFBFQW9yYXJXRGl6czltRUhJWXEzWmFXZ0pydU0tdGRfSlFFY0c2OA?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Fri, 24 Jul 2026 06:20:44 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Christian Killings: Nigeria hiring lobbyists to mask insecurity — Ted Cruz",
+      "link": "https://www.vanguardngr.com/2026/07/christian-killings-nigeria-hiring-lobbyists-to-mask-insecurity-ted-cruz/",
+      "source": "Oboh",
+      "pubDate": "Fri, 24 Jul 2026 05:54:25 +0000",
+      "category": "Security News"
+    },
     {
       "title": "Another Nigerian killed in South Africa",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NWlZOeFA1TEt6RDFtc0JTOERRRThXSGtiZnlGNF9ER0JSV05MejNIVzI5UVp1dVR3Y0JBNnIxMTd0OHdya05DdkhjZzFUeUppRlc1cWhDTjRNTjY4NWk4d1Q4LVNNRlBZMUVOQzBqVUhpaDg?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Fri, 24 Jul 2026 05:38:34 GMT",
+      "pubDate": "Fri, 24 Jul 2026 05:40:24 GMT",
       "category": "Security News"
     },
     {
@@ -43,11 +99,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria’s insurgent reintegration dilemma",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3bG5vSXdxMFpGU2otLUs2akVMTTFueXdpaFoyY09KNHlGcU9CVkd0RDVmeE9lRzU1bkJVTWk4UXdCSnpuVkNGQVd4SWlNbnpoZ01XeU5jWHM1U3diZVBsZm1ZdGxiTE1uNm9US1lLcWNKejNwS1NoeTd0NNIBgAFBVV95cUxNNWlMQXRFdURLYm5DZGdKYzZ3U1dQeTIyWkZXX1A4T2J2ckRBZFBCYlprT04wZTl1dWNCMnlEQmZJWkJfSUFQVzN6aG5PUER3bG40OHBsU29JNlFrTHQwTVY0V25kNjE2TG9ibUtVc1FWNGZrdXhla1hCend0T3FEUw?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Fri, 24 Jul 2026 04:09:24 GMT",
-      "category": "Insurgency"
+      "title": "NCAA threatens Air Maroc over poor treatment of Nigerian passengers",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHNGRW5vUE14ZFlMS0hJMHZRXzVaZGRqRmZhUXgyVVdwTGo2VFp6a0tsVGpzYzZGYnFaTllEWUlodmpXVE9aNXZpQTRPbi04NFFBQjJfUkN1NmR4Y004bzVid1FWUkxBYXFuN096c1JRd25NS0V5MnRQUGo0S2pRa0ZJdkZVLXBaNlJzMWpsSkRLZHk3aEZMMQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 24 Jul 2026 04:00:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria Unveils 10-Year Agrifood Roadmap, Targets Food Sovereignty, Poverty Reduction, $100bn Investment",
@@ -55,13 +111,6 @@
       "source": "THISDAYLIVE",
       "pubDate": "Fri, 24 Jul 2026 03:44:09 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "NCAA threatens Air Maroc over poor treatment of Nigerian passengers",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHNGRW5vUE14ZFlMS0hJMHZRXzVaZGRqRmZhUXgyVVdwTGo2VFp6a0tsVGpzYzZGYnFaTllEWUlodmpXVE9aNXZpQTRPbi04NFFBQjJfUkN1NmR4Y004bzVid1FWUkxBYXFuN096c1JRd25NS0V5MnRQUGo0S2pRa0ZJdkZVLXBaNlJzMWpsSkRLZHk3aEZMMQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 24 Jul 2026 03:43:30 GMT",
-      "category": "Security News"
     },
     {
       "title": "Ikosi-Ejirin LCDA hands over new divisional office, operational vehicles to NSCDC",
@@ -85,31 +134,17 @@
       "category": "Security News"
     },
     {
-      "title": "Igboho vows to flush out bandits from Kwara forests",
-      "link": "https://www.vanguardngr.com/2026/07/igboho-vows-to-flush-out-bandits-from-kwara-forests/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 23 Jul 2026 23:45:00 +0000",
-      "category": "Banditry"
+      "title": "EU Unveils €20m Security Package For Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43UGt0WlpGeHdXQU5xVldndEEyVzlOV1BobFNTcWhkOHp0VGcxdV9vcURka0Z5aFZuMC03MWRGc0Z2QmhWSlhnSkMzV0s0R3otcnJNXzdnWWR6cHlta3l4QUJjcDlRZWljM3VMSkdNal9BdUh3VzVZ?oc=5",
+      "source": "TVC News",
+      "pubDate": "Thu, 23 Jul 2026 23:46:00 GMT",
+      "category": "Security News"
     },
     {
       "title": "Lawan applauds Tinubu’s expansion of army to 12 Divisions",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTRPS3RtMmlnVGYyZ0xQR0tVOWJxQkV5UjFzb0tlU3FsOUg4SEJweUhwcTEycmtoYnlkUW1lRm9BTUd6OU1PVW9xTm9ObnY4VHA2Nm5oMmNuR0s5SWFmc3VWMDhQRW5wWXVJUjNuaTRLTlJ3V001VUxrcVVaNzBRdV96ZklhU2hRNTlHa2RaYVNvM2UwY18yMdIBngFBVV95cUxOZjRYYWIxTlRyTEJ5UnVHWml2bGV1TmMwRzBxeVEtUTIzNGg1ZHR0X19QZzlBU1A1NHktWUl6OTVPWHlpd01paXdFT0Mzb3N1OWtzS1lOOG9hZmRoemRBWlJVdUVlMENfTzk0VlpXbzA4U2I0ZUJxU2hZamVmdFVKT3RsazJzUkpreFJXM3V3bVJYYnY2aXM4QlZ2T3RNUQ?oc=5",
       "source": "Vanguard News",
       "pubDate": "Thu, 23 Jul 2026 23:44:07 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Collapsed Benin–Sapele–Warri Road: End cycle of palliative repairs, Ugolor urges Oborevwori",
-      "link": "https://www.vanguardngr.com/2026/07/collapsed-benin-sapele-warri-road-end-cycle-of-palliative-repairs-ugolor-urges-oborevwori/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 23 Jul 2026 23:15:00 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Tinubu Approves Expansion Of Nigerian Army From Eight To 12 Divisions, Orders Recruitment Of 28,000 Personnel",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNlZzWldQc3ZuMmROczNLdk1wNERCWHhfWU9xcmpEazJmQnlUbENfbnAwTWRtUXVGVXdLbXhtRkg5dVZhWGNBUmt6SURGTDhHMEZicURabHNzbElNMElzM0hkRWZsamZycEVSV29NR21aeEhCSVZqRThpTlhHdUxKRGRwb3J6amJya212MGtETW1DeGUxVTVuNy1xN3ZkXzQ3c0IwRkZPbVJRS2JvTUVuUmhUQy10WnhyaFpNWW4wRQ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Thu, 23 Jul 2026 23:02:04 GMT",
       "category": "Security News"
     },
     {
@@ -125,13 +160,6 @@
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Thu, 23 Jul 2026 22:11:06 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "New York and the Global Validation of Nigeria's Road Safety Leadership By Abdullahi O Haruna Haruspice",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93b2wyeG8wWHN2NnZVQWstSUd0NGQzSEpOeWZ6SUhLVU1FZjBmR0E2Y3lXSE9Fd1EwZ01PNjFxaWlWcW9iNDYwNkRCY242Y3hQLUVKNzR3U0xQbUhGc3lUVjZGcTFJbTJ2QWhybA?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Thu, 23 Jul 2026 22:06:44 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Nigerian Government Launches Multi-Million Cover-Up Operation to Suppress Reports of Christian Genocide",
@@ -176,13 +204,6 @@
       "category": "Security News"
     },
     {
-      "title": "Three men sentenced to life in jail over Nigeria school kidnappings",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Q3p1R2FLdGZBRW1ubmY3ZlhvVGNHMkNiMUNnQ1NHM09aYkhESmRzbDdfXzNjTUJWTUkzekpFcVdxMFJybFBydmk4MTY3MElXQV90TDZRNWtFQQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Thu, 23 Jul 2026 20:31:41 GMT",
-      "category": "Kidnapping"
-    },
-    {
       "title": "Nigeria’s UN Security Council Bid Deserves Global Attention — NAN MD",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmdlVFV3UkpvSzN6R0xxZjk3TzRwUi1NZUhHTW9Wc2FYUm5zc0N2WEtrYUJ1MnJoSlhXTHhUOFBzeklxeGRjM3JWaDMycTU3TDRjV1dtVENWbUVrWnM4WGlzSmF6XzhOTVgzTzIzMC02elJ1aUd3T3gzOHBWNXFYdkFGTzc5MDhWQjVLMmpR?oc=5",
       "source": "News Agency of Nigeria",
@@ -211,11 +232,11 @@
       "category": "Insurgency"
     },
     {
-      "title": "Tragedy averted as Enugu Air aircraft crash lands in Benin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUNETmRGUXNfajFQZmRCZDNhQVd0OFlQeXdrbTJvWGJHbENWcnZxOF9CMWk1WE4zWV9aU3NuUEo3YXh5dEk3aS1PYXIxa1hoTlZNcEt2VGlWOXI0ZmFtajAyRTV3Zi1oRUZEUXg1NUdiblpXRUdIdENWRmJ4M3Q4Y2thbmx1MzVoQTEyRg?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 23 Jul 2026 19:12:00 GMT",
-      "category": "Traffic"
+      "title": "Army declares soldier wanted [PHOTOS]",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zVkNqZ2I5dEVtUWJ4WWNsVGFBSHVxeXZtY3dtRGcwOS1yaU55SHdKUmd4cTRiNVlPQU9kR0xiZmhWdk5Wb3MyZkhVVHg4bldiODFCQ2N5RXRIUzJlb3JlcE9Fclg1NTc4b1p4S1ZXelZkRFdrcHFv?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Thu, 23 Jul 2026 19:36:51 GMT",
+      "category": "Security News"
     },
     {
       "title": "Tinubu expands Nigerian Army to 12 divisions, approves recruitment of 28,000 troops",
@@ -342,27 +363,6 @@
       "source": "Daily Trust",
       "pubDate": "Thu, 23 Jul 2026 15:46:18 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Protect Plateau first before funding regional security initiative’, Ropshik tells Mutfwang",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE1nZGw4NWFubkNNZklHREJCa08xVUJfeUVHUDlDZlpQV1hXanVfbnBGNUF0STZaeVFuY2tpRDBLSm4wSVRpYXRzMWVQMkY1VmNtY2YzcFNNM2hhdjZaeHdBeXNMcnNJemYxV05YZ2w3TEtYbXczc1J3SGs4SlcyLVVIN1ZXS1BrUFpDYWlJR2VqVTJndEJTa0hzX0FKNmQ4V3I1eGhiRlQtbjhMbGc5TWN1NUI?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 23 Jul 2026 15:31:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria must integrate security governance to attain economic growth: NWC Commandant",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmFGdHlWOW1kdGpjNGNZRVd4ZDBfQnBld0VDb1lzZWVOWmJxazl3TDNTNmFGZE5zMGxRSUFzdTVyUDNMTFdyQjRiUGlCTUJTYVYyTWFMdlpId1B1bGQxQ191TExLMC1ya2FSdGMzXzR3M3c3Wk5odjZXNmZCeWVIREMxTWI5WUFRWlNaNGNpVXNoNHV0VUt5dXJTdTVNV2JvQVhaQUxCUXdNM1k?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Thu, 23 Jul 2026 15:29:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Armed 'bandits' kill more than 20 in Zamfara state",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSGV2eUU2dzlhaHA0V0JfVXY3RzVyTzhQcG03blRqdTQ3azd5SEV2aUdhX1BNQjZlVm1LaTRlN2JEa2ZKOExYTV93SDVnS1M2ZWh4dU1WbnJwdFR4U0xqWXFXYlFNQWJDMXp2Q2xMakhObjBRMVZV0gF3QVVfeXFMUHFBcGY2Rm9vZVJ5QTNoX0xrT3kzRjJMWjZRRmxsczQtLWVDSmp5UUppb0hzS1pHanJCMVF5aUk3Z0JTYmZCcWJ5T284RlNvV2hZM3dNMERXeXk1Zl96bndlV0FlMWxrN0pfTTFwVlBHZ1JLN2tzb1U?oc=5",
-      "source": "DW.com",
-      "pubDate": "Thu, 23 Jul 2026 13:52:23 GMT",
-      "category": "Banditry"
     }
   ]
 }
