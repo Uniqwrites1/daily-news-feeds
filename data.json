@@ -1,19 +1,137 @@
 {
-  "timestamp": "2026-07-29T11:26:18.458Z",
-  "generatedAt": "29/07/2026, 12:26:18",
-  "totalHeadlines": 198,
+  "timestamp": "2026-07-29T14:11:23.383Z",
+  "generatedAt": "29/07/2026, 15:11:23",
+  "totalHeadlines": 202,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 141,
-    "Insurgency": 8,
-    "Military/Security Operations": 9,
-    "Law Enforcement": 20,
+    "Security News": 147,
+    "Insurgency": 9,
+    "Military/Security Operations": 10,
+    "Law Enforcement": 16,
+    "Armed Conflict": 13,
     "Banditry": 2,
-    "Armed Conflict": 14,
-    "Traffic": 1,
-    "Kidnapping": 3
+    "Kidnapping": 5
   },
   "headlines": [
+    {
+      "title": "Israel army strikes Gaza mosque, says used for Hamas ‘weapons storage’",
+      "link": "https://www.vanguardngr.com/2026/07/israel-army-strikes-gaza-mosque-says-used-for-hamas-weapons-storage/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 29 Jul 2026 14:08:21 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Italian Radio Station Visits Nigerian Army, Reaffirms Operational Mandate",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWFDa2RJUk1OT0EzX1pnTWZpaTUzUlVtT0Y2VFpvcVQ2T2c2VV9LSDZWQXpSS0hNSUZINEJTeDRnVHMwbnBBMm9LeVJQYXZfQVVhZWVYUllZZWprMklCMDE3YUZUQmVtVS1DejJVN2x4T01yYjJ5eEZ4OUZ0VS1Nb2I3Z2xjRXJ5dUIwQVlIdzZHejJsckEyMlhDMXI?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Wed, 29 Jul 2026 13:54:21 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Troops rescue abducted soldier, civilian in Zamfara",
+      "link": "https://www.vanguardngr.com/2026/07/troops-rescue-abducted-soldier-civilian-in-zamfara/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 29 Jul 2026 13:28:28 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Surveillance Aircraft: Makinde’ll replicate Oyo’s security model nationwide — APM",
+      "link": "https://www.vanguardngr.com/2026/07/surveillance-aircraft-makindell-replicate-oyos-security-model-nationwide-apm/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 29 Jul 2026 13:24:25 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Army chief appoints GOCs for newly established divisions",
+      "link": "https://www.vanguardngr.com/2026/07/army-chief-appoints-gocs-for-newly-established-divisions/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 29 Jul 2026 13:01:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Edo community denies allegations linking it to kidnapping",
+      "link": "https://www.vanguardngr.com/2026/07/edo-community-denies-allegations-linking-it-to-kidnapping/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Wed, 29 Jul 2026 12:49:33 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Tinubu Assures Catholic Bishops Security Reforms Will Defeat Terrorism",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkZiVDdlWHBFWUwxVTViUnlKSGx4SlBweDMtVDgxRVJNWWZGLU9jVVdHbmdrY2hfRDZqenc0NzZtWmFIbGk3X200TjlzOUZZZGhzS19XczhGSWtBUTBPZ05ZVm02WjEzR1JjcUJTbG5QNDBjckJIQXcwZTlkMVVoN0FBMElkSjMxX19LbVZrbkVtV0ZvZXFv?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 29 Jul 2026 12:46:01 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Army Dismantles Illegal Bunkering Network in Lagos",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MSmJOdi1LMnliNmpnZUJCWUREejQtYlRJUlB1TmFfVEp0V3ZhaUpVTFJIN1UxZFk3eTZ6dkFxTVNaR2dBWXVTQThkS0ZCUTNjOFM3M0M0ZTdoVjFOX1loS05GRE9CUy04R1hseEpnTkFMaTZWeHpfdVln?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 29 Jul 2026 12:42:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "IGP directs police to refer terrorism financing, banditry cases to specialised units",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVmtNNElxZUdpcFhzb0JvdzZYa0ZyVS1nZF9oZ3JjTHVtWlBDcnBodGt4MEZ0am5YdlNLOV9sLXE3QWZ1ZzdUZ0JCdFRVZnl5ZTA5X29lZUxPNUlkSF9Md0FETTJOQ2dNY2pCeVVPb1J1dEdVRW1nVXA0dUJBcUFaLXRyYWM1dXctbnFuSzQ4U0JDMVFETTJBM2ZTUUlJODllUUs2VEFxRHp1QTRVQzBuUVJVVXEzY1Z5UkNCeUppX010NmFLX1JiT2ZpS1IzZGpGem1mWVpydw?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Wed, 29 Jul 2026 12:36:21 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "countries with strongest military in Europe",
+      "link": "https://www.vanguardngr.com/2026/07/10-countries-with-strongest-military-in-europe/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Wed, 29 Jul 2026 12:36:16 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Lucky Irabor: Time Has Come For Military To Re-evaluate Its Involvement In Internal Security",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1dHM0ZYYnQ2YWtXeEVxb2l2cVd5ZTFlbjBPU2tzYmdFbTNId1RabG0tNWMzY3pqUVBMT1dSSkIxdWV2ekp3SkZWSXVlbVYwd2lBRW9haWotQVFrenBWWHRraVFlQnluLUxyRkg4dDFocEpLaERJWVN6R3p0dHdRN1djWVlINGVPN09zT0laMnhRYXJPV3Brc0J0UnNQSEhvUkdaRXYwOW1qMUNuNnlVUC1PZw?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 29 Jul 2026 12:36:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu Condemns Kaduna Massacre, Orders Security Agencies To Hunt Killers",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjQtd0w0a2NJaWE1dkx6ajJHR3ZTXzBIMnhhT29LT1E1djJkbzZsWFhTNEZ3OTgyVzRGVHQ1Mmd2M0gzaXpFVS1SemJGdWJxODM3cjRYVl9ZRVk5NUl0T0tEcks1dWJlbDhVdndyUlloazQyYk1QSmFzSkxTOHl6dDVXUGtvYWJpSU1jcWtvVXcyS1lwQ1hZcWlR?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 29 Jul 2026 12:31:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Violent Conflicts and Sustainable Democracy in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEFzNzlrUjAzTkJ2WWV6N2RoeUFqZWFHOEpjMmFTTXV2VE1wZUhKQWdaeUUtajFITEM2UVE1NDdBUEhST0VERXYxVk4xNzg1MnhPTVRFejVpTFQxMTZVSUJqY0RJbkpwbC02RlNwUWI0dml2dXl5VEo5WXhsSmdkOEFKREZ0UQ?oc=5",
+      "source": "Kogi Reports",
+      "pubDate": "Wed, 29 Jul 2026 12:24:32 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria meets South Africa over xenophobic attacks",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0pOWWwyZzNJclRxX3FaVFZkeWNJSnY2Mll6UDl1cURuNFF2MUp5RlFrU2dkVk9mUjE3Y3NleFQ2YUdsU3ZrWWJYdFY4RWlENHcyalJUMnpsTEw4elNGRDVzTi1pcVFxYW80cG1TeXF1QTJETExadS1XRUxRWmVIQWt4U3pSMU5Ecy1V?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 29 Jul 2026 12:21:55 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "FIFA issues deadline to members over plan to sell $4 bn stake",
+      "link": "https://www.vanguardngr.com/2026/07/fifa-issues-deadline-to-members-over-plan-to-sell-4-bn-stake/",
+      "source": "Henry Oduah",
+      "pubDate": "Wed, 29 Jul 2026 11:59:40 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "State police alone won’t end insecurity in Nigeria, groups warn FG",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ21velI0X2FKWUFSSjZ4NzFGUzlzcThFUjFkbVZXeUJnUHlSNldFS2tvU2laRHVFTkJ2UUY1U09mTXVYZXhoRW8xWjdJY0p6SXZRcUtNQ1lDMWZjYWZ5Y3FULVFXSlI0SG9MOEtpT2xHN19hRE9kaE1vb1FRZFRuQ2tPU21Rejh5WG9ZOWRvOXEtUzVuVW80cTNHU0VKXzkxUFlr?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 29 Jul 2026 11:49:53 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria, South Africa Hold Talks Over Xenophobic Attacks",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRHJORFRFcDlmVll0TVNIV1pUdmtFYVh6a1RsOUNjRUhRc3A2OEFrb004VHJuX3J4Q3I4Uk9NTkszTm5JTzdaYm1kS1ZBVFFzeW9jaXFzZmRUUzg2Ul9hNEpDUHVVcXpRWnhrVkxuOC1YYUJMR3poT1UxWVNZWHBweTdPbTNUSFhyTzVKbzdjVVhvYzd5cDJUWTRR?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Wed, 29 Jul 2026 11:49:27 GMT",
+      "category": "Armed Conflict"
+    },
     {
       "title": "State Police alone can’t solve insecurity, groups caution govt",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVk5BS1BpWm8yOUJvZ3VNOWh5cVZ4X05ZQUcySzdpLWt5WnlOeXRWeWkyY0hCYXczVy1wVDNSOUNPbEc2cndHeG5vQ295Yi1ocmc4SC1LdkhPYnVPeGxZdHVSSTJUNDBZV3hfZFNmd0VEcUZLSnh6TTlydTVRUkJrMUh5dENNYTVZT0ZETzdTeVRDNkZCVG1Gb29FSQ?oc=5",
@@ -64,45 +182,10 @@
       "category": "Security News"
     },
     {
-      "title": "‘I’m sorry’, Viral Canada-based wife apologises to husband after celebrating mother-in-law’s death",
-      "link": "https://www.vanguardngr.com/2026/07/im-sorry-viral-canada-based-wife-apologises-to-husband-after-celebrating-mother-in-laws-death/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Wed, 29 Jul 2026 10:23:34 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Woman arrested for allegedly stabbing boyfriend’s manhood in Kano",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejl0NjhQalNpaDMtWUFGYlNCem14VDVna1E5U09XWGg4ME5sR0gybzNkckwtTjA1WGFUOEpWSFN4aFNXWFh5RXlDUnRVZUtYRUxEV1V0aUlvWDlkQXNHZWRkaDYxSTVIQ1c3YmsyX2I4NjZEZXgyT0pqOGhXclRSbzlpVXFRM1hsWWsxSHowUmJlNXN4eC1pOXUtRm9wZW9vVWp1ekNRRQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 29 Jul 2026 10:11:46 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "FCT Police clarify reports of alleged attack on Military Colonel",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQktJNmJYMkwxNDhtaC0yb1U1QkhoZzhfcFNBdWpETDl4Wkw2UlVQTzNfWHNvWXkzQ05HdTcyUHAtYmRBaU81SkR1djhHVFFJcTlmSldTRXZQRGhNQS16Ull3Y2xaY1pNMTRYNE1keU9CWmlKY3Z6M3RhZTk5ekhld01DVDVEdUNmeWhSN3FYMXVTUGRy?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 29 Jul 2026 10:01:36 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Benue: Otukpo imposes dusk-to-dawn curfew after Edeyi attack, protests",
-      "link": "https://www.vanguardngr.com/2026/07/benue-otukpo-imposes-dusk-to-dawn-curfew-after-edeyi-attack-protests/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 29 Jul 2026 10:00:40 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Many feared dead as illegal miners clash in Birnin Gwari, BEPU demands probe",
-      "link": "https://www.vanguardngr.com/2026/07/many-feared-dead-as-illegal-miners-clash-in-birnin-gwari-bepu-demands-probe/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 29 Jul 2026 09:48:43 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian man Obinwa Obichukwu jailed over sexual assault at UK train station",
-      "link": "https://www.vanguardngr.com/2026/07/nigerian-man-obinwa-obichukwu-jailed-over-sexual-assault-at-uk-train-station/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Wed, 29 Jul 2026 09:35:25 +0000",
+      "title": "COAS appoints GOCs for new Army divisions",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVFZhYXJzWmRadUtJRnJ5SGRjWGdJTUczM1d1YklBcm1BdXJkZDhwSElMVFJXSWVqNTQybWY2VDNsRkQydzZmR3RnS1BwcVJCMS1MSVo5TXl1TkhfdzI4eDlWNGk1Qk80aHhzYm13cw?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Wed, 29 Jul 2026 09:53:26 GMT",
       "category": "Security News"
     },
     {
@@ -113,13 +196,6 @@
       "category": "Security News"
     },
     {
-      "title": "Russia seeks arrest of Telegram founder Durov",
-      "link": "https://www.vanguardngr.com/2026/07/russia-seeks-arrest-of-telegram-founder-durov/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 29 Jul 2026 09:31:47 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Group mobilises community leaders to tackle electoral violence, misinformation in Northern Nigeria",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVjFlekVZYUZ2NDZzNHJ1ZWdwcGhzUFhZUng3QjNvMEVXOG1SZ0wzdlpWUW9OcDRYdVFZQUJOUXVfWGJuejNuX3FhdDc3N2FIcWhzNjdyTG85alYzZllRbjAwX2V3RU1JemVjOWZFb014ZUN3d1cxRFprMEJZZGM2a1VZaVlRbmNoYkxuY3UxM0NhUW14QVhkMFN6b21Gc09NZTdkbHpLcW82ZHJSYklXVW1XN3h5RlphcG00R0tWVEVhSnRtOHo5bzZmVk9HZ2s?oc=5",
       "source": "Business News Nigeria",
@@ -127,18 +203,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "COAS appoints GOCs for new Army divisions",
-      "link": "https://www.vanguardngr.com/2026/07/coas-appoints-gocs-for-new-army-divisions/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 29 Jul 2026 09:26:08 +0000",
+      "title": "Nigerian Chief Of Army Staff Reshuffles Top Commanders After Tinubu Approved Four New Divisions",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpWVEg2UTRneDJUZXVkZDd5bXJieTlLT01SS2hQNXpsaldZT09aM19JUFl0elRyaWwxbHNRYjBPZ2g4NFY3WkdydmxwZmVUbzJPZWdNNEJNYlR5MWF0NUxCQ1ZxT0FBV3p2dWlrVU9ZWmZfLXhnWExsWkhrWWFGVWpocVFXdkYyTFducFlsTjFLbVJJRGdYRnhjRU4zaTM2aUtBSkM3ZjNqUXd3NlhicmE1VkdWT0xWVU5vaDNn?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Wed, 29 Jul 2026 09:23:33 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria, China Seek Deeper Economic, Technology Cooperation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2V3ZDNLVlNaWHZjYzAtUlV6V0dHQzhRbFp3NVhRQWx3cmVxazl3R2hNN19XWjllMUxFZFBrVHpOai1vZ3pVQXczaUVwTmJ5bW5uMmd1dXRLVHl1V01seHBOd0tMbWtaMmlNMVBCcGZpV0EwSHVvSklfTWFhMkxIVl9sRHkwb1Ix?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Wed, 29 Jul 2026 09:25:49 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "Ekiti govt intensifies security deployments in border towns",
@@ -146,20 +215,6 @@
       "source": "Business News Nigeria",
       "pubDate": "Wed, 29 Jul 2026 09:22:48 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigerian Army appoints GOCs for newly established divisions",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUdwWHE5SlllVU4xbk02Y0M4LWFtM1YxNk9tTU5JUFZSdDBqOURNVmR5Z0wyalFiZFo3VG1oTnRMN3psM2pzOWNpV3lzdTB5NTN0T0o2dmt3MG5jOFQ1M1A3R3o0R1hraUpHaFJ5TC12TFcySWUwZElJa0JNRE4wVDcxZXJxYlNvc1dYd1FvYWdMU2xoRnU4?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Wed, 29 Jul 2026 09:14:49 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FG pursues compensation over South Africa attacks",
-      "link": "https://www.vanguardngr.com/2026/07/fg-pursues-compensation-over-south-africa-attacks/",
-      "source": "Ayobami",
-      "pubDate": "Wed, 29 Jul 2026 08:57:25 +0000",
-      "category": "Armed Conflict"
     },
     {
       "title": "Morning recap: FG's N12.62tn debt overshoot, EFCC auction row, Army officer killed, other top headlines",
@@ -190,13 +245,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Fani-Kayode condemns alleged killing of Nigerian by South African Police, demands justice",
-      "link": "https://www.vanguardngr.com/2026/07/fani-kayode-condemns-alleged-killing-of-nigerian-by-south-african-police-demands-justice/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 29 Jul 2026 08:10:21 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigeria, Benin, Cameroon Customs Deepen Regional Border Cooperation",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDIwZ1JhWFlPQ1EtOGU3TlQ4TXVSQ1ZMR2lwYmVwc1kzbHlFR1F1UUFsYTdvakxpdGhuSzVRNDB5RnU2Yndfa3RrejlTZjEteXdkQnpPNlkwV2N3dER6LU9xd3FtaG5SU3dWVDBEb3VHdVMzaGFZRFJqN3FOM3RnT0FMVHh6TmkxS3c4S0Z3?oc=5",
       "source": "Voice of Nigeria",
@@ -216,13 +264,6 @@
       "source": "TheCable",
       "pubDate": "Wed, 29 Jul 2026 07:27:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Xenophobic attacks: Why Nigeria will stick to diplomacy — Minister",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHVvZk8yLWZzcHVOMnU3WHhoVndNeWdNUkktMUxDd0l3SUdwYjNUZk5IX0dpTnRVUDdxczgyLXBUeVN3eHluQTFzZ3JCWUlzUzgta2pSNGVsVDZfNUNmTXh2NlRfZFkyOUJicldic2dRMzNReVI3cmhpUERtMjA3MDQzYXQwenhKbWlhZ0tKRWFhd0pqRkZn0gGcAUFVX3lxTE9qMUpVeUZrNUxiWllCRW1lR0ItSzNnUHJ1Q2JHeTlKTzFBVkJYRVpIVmdJZTUzZWlmMXhwcXBHal9mbHZiQWpsSWM0dWkxVmNIQlVfZFpMWDA4Q3ZmNTFSVHZRQ0Jxc21Yc2p4b19iQy1GeVlQWXhHdWhEdTZQVWRsWTNPckQwcFNheVdPWGpwMGJIeWotWE1MU0hiRQ?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Wed, 29 Jul 2026 07:25:35 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Security agencies under-funded despite huge budgetary allocation – Irabor",
@@ -274,13 +315,6 @@
       "category": "Security News"
     },
     {
-      "title": "‘U.S. tariff threatens Nigeria’s exports, port revenue’",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjVROUdsd3RhcndiUlR0eVFwSlExSkxIeDJsUVJCa19oc1ZvdnYweWFabnBwcHZ2emFuNlB5Q0pRNDdOUGtlS3IyWENNZXBQTlVkTjlkSDF6UU9BOVQwX0dncjdVQWpyU0x5UGhyWE0yWEEyRHY1TFhldDQ2WExqamVsMnZVZkdKSWJ6dmZ2TVJnNkpqckpxdngtc2tNZUhVemFGbS1hQWM5Zw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 29 Jul 2026 04:00:00 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria at war, overhaul security architecture, Olawepo-Hashim urges Tinubu",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT3JHUklITjItMnM0WFk5b2ttWTd3clp1SlFZYXhXM1FjRFAzUnd4WUJXVDRTRi15WDZwejh0TjFaQlB6X3NaT2FTRmZ4SHhLVWdfb2xnVHFNOUF2YWtKNnN4el9Wc1YxREpkdEt0WEVlekJiaHEzQm81c05rVzVZS2IxSDN0NjJnTWU2bENxTzVnQ0kxLWY00gGcAUFVX3lxTE1pcm9VaHFyODNpOFZYcXF6US1Td1VieHBQVkVzUW5TYmhTaTBWeTY0VXZySWs0OGdKUVQ5Z3Z2bk9YMW9EMlpjc2pvdW9NeXUtTDRCR1R2d0YzX090TzRTWEdpdmh4dVZrbDYzVEJhRnk4R2sxaUpqX0Vud3MwRHRrT3YzRzFUX1JDMFk2d1pFSUVxOEphTFlFWmxmeg?oc=5",
       "source": "The Sun Nigeria",
@@ -309,13 +343,6 @@
       "category": "Security News"
     },
     {
-      "title": "FG issues claims forms to Nigerians affected by South Africa attacks",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa05qOGM3RnZDVU5vbE5qaFc1OFJtSW9hZ2ZYOWppWEtvZGJCdy1Vcm1pczlLUmNjblRMZVlpMFF0VXdocE1CNmJ1NUg1NFo5NDVSTmY4azdwNWI3bU1GU0REYm1KRzVQRTJXUjdCWGZEREhhSU9iLWhfMWdMVE9rWGtKY2xaS0FNRWViRWh6NThYOFU?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Wed, 29 Jul 2026 00:09:27 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Project 774 Network committed to help FG ensures national security – Gumel",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2FBbERQOFR5TFVidDhEaGZxalcybDhESmhOOHJkRDBWbE05SWZqRENlNE1ITnRpSXVCWmhQNm0xUzRiT1IwaFVua1U0UV95VGk4cmt6ME53d093WExzb0ljZHd4anozdHlYMXEycGR6RHNsYkxoNXpzVUVvckxwa0hwYkdWbVNCWXEtcElkbnlxUDBaWEFOcUtFeUxobDhzMWVrYlJfcGxRQ1Vvb08w?oc=5",
       "source": "PM News Nigeria",
@@ -334,34 +361,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORi1lM21Tb25KZGQzTmk2blliMTZ3YnRVWTNQdlNaRHZseVV3NUYxSl9Vb0JsckVMYWNEMXVRNmppWmlhdkpHdVZ3aDNoYnNqVzliMktENXV6U1lLYVluZlhpWC1fTHlIaDBWRm43MW04WXhhWkNnVEJYcGNaRElzMG45ZU4taVVtZ2lYR1NneHE5SEwyaXRCbmpsdkRqT0c4bDBsLXJ0MjFDVFBoTWJN?oc=5",
       "source": "FRCN HQ",
       "pubDate": "Tue, 28 Jul 2026 22:23:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: Group commends Tinubu’s approval of 12 new Nigerian Army Divisions",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWdDVEMwbElxTHJlOGNnQzVrV3gzQmNiMkdJdWp5NHl6eHRYbjZsd3NnYmZXSmhIdldxREFIcVNDVDFVZDFmLTF1NDZSWHdFUUhWNGNHM0dfYjdUdVN1U2l2cUV1UnA1Z0JxRFI0Vlpia2VOd1A1eEJVdEZDN1FCblB2WmdSNGlQZXBUSWlEaVVLZ2k3VHlEc0tJM2xWczdIZG9OLUtqMVHSAa4BQVVfeXFMTjhGWGJ4MWdBYk9URUtRT1BmNV9rSHFQenBvRzUweGk2QXY5SWlnQWZPUS1MbUtvY09HOEtVUTNsNFNzUVc0MDdaS0RUbkFFNS1pVkdFSlE3V0g0ajJGVkE0aGpWSE1MVWZZV1BlWlVhcy1mbkxnOWdDcHZPRE80djF5RXA5dmRtaU5nU05GUzBXLTJORVdhVFA2TllUYXh4Y0FzYUpVU1NGeG93Q1BR?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Tue, 28 Jul 2026 22:06:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "PHOTO STORY: Oyo receives N7.7 billion surveillance aircraft to strengthen security operations",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUlZlXzhmTEhBUlZicWZ6bEE4WWVHNFhlOVF4akx1b0pJQ2ZqSEtpbEpjNTJJdDNWU3o4bHBjcENZellBbTQ5emJ1TlFyQlcwZ3VqYzZYMVNVYXp2blVWUS1HdU9pV1BDTkhYakFkR2R1c2JWenVkZXRHRVM5dml1eUV5NVNCM2V0eXk4SldtLVVzbWhWZzZFNzNpRFBOZkFrV0laUmYwUE5MVnZFMGx3a1JfZTZIbmtXQU1rOWp1YllmTUdDcHNEY1dGSFFJS2U1NGhzZV94SmFkSlpyWVBWYUx3cmdHQQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 28 Jul 2026 22:04:54 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "INEC neutral, my opponents afraid of their shadows, Tinubu declares",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUFnMkdDbVdublotQk0yQkg5OE5qSk9TYlFCSlo3LU5SSXNQNVd4azJXYUhreUd5a2NCSmdGOTYyZEs4RHF2a3p5SFJ5bkhJQko2cFRtamsycEhhRHRQX0lUVFZfYjFpaGgwTDBEdnFhOWRHTzZFbDJ6Y05HZ2MtWHlYbVNBNjhCVjZlcGZsVEJpY3VMOGNHdV9KTmVPYVQydzluNWxR?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Tue, 28 Jul 2026 21:48:46 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Northern Security Trust Fund: ₦1bn is a beginning, not the solution",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZms1Z2hMZDNRR3lDR0JRMzItZGdUY0daT1dTZ2s2Zi01bkttU2NzR0pDVGJZeWlBcnNMc3lNZGZVWWxEYVZ2VDlpeWN2ZWw2RW1qUi1rMW00UFZnb3NtWk05RTRBUDhRX2FlTnFhcHRUVEpRLXZDLXZEak9tVlBIMkluUHlhb0RPNk5xR0tKVXNkMnV2QmE4NHl6d3l0QQ?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Tue, 28 Jul 2026 21:20:27 GMT",
       "category": "Security News"
     }
   ]
