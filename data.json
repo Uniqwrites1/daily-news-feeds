@@ -1,18 +1,47 @@
 {
-  "timestamp": "2026-08-02T10:41:20.756Z",
-  "generatedAt": "02/08/2026, 11:41:20",
-  "totalHeadlines": 159,
+  "timestamp": "2026-08-02T13:22:53.465Z",
+  "generatedAt": "02/08/2026, 14:22:53",
+  "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 111,
-    "Law Enforcement": 22,
+    "Law Enforcement": 23,
+    "Banditry": 2,
     "Insurgency": 7,
-    "Military/Security Operations": 7,
-    "Kidnapping": 6,
-    "Armed Conflict": 4,
+    "Military/Security Operations": 8,
+    "Kidnapping": 5,
+    "Armed Conflict": 3,
     "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Osun Election: Adeleke Campaign alleges plot to arrest 46 Accord leaders",
+      "link": "https://www.vanguardngr.com/2026/08/osun-election-adeleke-campaign-alleges-plot-to-arrest-46-accord-leaders/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 02 Aug 2026 13:20:55 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Banditry: Security Expert Advocates New Minimum Wage For Soldiers",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmJqWkNJcXhxbGJqS1BDOEZDZWNSNVBmNC1LUldPN0FFeFU1QTBrYXVTNnZHZlgzamw4TFFiVmFkV1hTZWoxaldYdGo2YzBpcmFhRlI4MTFjc0VJWUpxMHBfaUlqZFNHOWZJOXlxQWxVWmwwaGozbFBOSGF3OVY5ZWRDc3ZweHk5dUFTeG1KSWNnUQ?oc=5",
+      "source": "thewhistler.ng",
+      "pubDate": "Sun, 02 Aug 2026 13:00:15 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "soldiers killed, 75 residents abducted as bandits attack Zamfara community",
+      "link": "https://www.vanguardngr.com/2026/08/6-soldiers-killed-75-residents-abducted-as-bandits-attack-zamfara-community/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 02 Aug 2026 11:49:17 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigeria, Saudi Arabia move to boost investment, tourism cooperation – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXFlNDFicURKclJHaGJoWm5kZEd1bFdwOHA0S3k3bUtOaXJFWkwtVWtRckExRHFJalJaeGxkVlJrQXZqNXdxdFBzUVpQMFlWc1FBbXBPTWUyTktBQl9qekR0cjVXTGhHZm1wZWZudXdGa2x5M19EenQ1YmFqYy1IaHAxT3psVTBCRjdIempiMHpKeDRjUVMyU1JXZzJ4bGg2RnVGcWM4Nlg?oc=5",
+      "source": "radionigeria.gov.ng",
+      "pubDate": "Sun, 02 Aug 2026 11:47:54 GMT",
+      "category": "Military/Security Operations"
+    },
     {
       "title": "killed in small tourist plane crash in Peru",
       "link": "https://www.vanguardngr.com/2026/08/13-killed-in-small-tourist-plane-crash-in-peru/",
@@ -30,15 +59,8 @@
     {
       "title": "Kogi Deploys Forest Guards To Tackle Insecurity",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0VW5CcGNJSWVCMjhDajE3dUdkblFVeDk1VlBrZ3BEaXBfaXVTWTIzQW5hWFpDeEZ0UGhqTDRXZkNpbUZnWV9mNzVBQVRQZW8zU21VblhXYURKbFlubmNEVTRGXzhjTWFrQzRGenkxVmhEZTlSYkE?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Sun, 02 Aug 2026 10:05:51 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FDA Africa hails COAS Shaibu as Army wins continental award",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnlFdDlrdVcyRWszSXRlVDRTSWFZb1poRXNKRk43bUpNS3FwRDlIb2dMNEU2MWdoOTJ4UXpsYndiLUM1aURSWFk0R0VGVy1NZmc5ODBzQW9Fcl9zcXZHU0hZTTJ3T293d0dtbmNqRDVCc0tTZmFrcEZMclNaWDZwTUUycUVJb0JfcXVPWHhR?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 02 Aug 2026 09:57:45 GMT",
       "category": "Security News"
     },
     {
@@ -51,7 +73,7 @@
     {
       "title": "Group Credits Tinubu With Security Gains, Schedules Nationwide Rallies",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXlSS05DOWlmUHJMOE1vRWk0djNrSmhyUGZXalhzZ2RvY0YwcFo5TmNCc0pZZktVZExKR2REdjlmWWVfSVdjX3IyVFpRLVl6NU9QTFRMUmJmci1DM053ZWM2UGc5YzlhT2JtS0Zhb0RYWmxDb2x1SWFnZUpnenJfekYyUzB3UWJuSGQ3Z1pUdFdDbmxFQnRjWQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
+      "source": "independent.ng",
       "pubDate": "Sun, 02 Aug 2026 09:35:35 GMT",
       "category": "Security News"
     },
@@ -70,17 +92,10 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Popular Nigerian singer, St Janet is dead",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tTmlPNVdVZF90Z0FuSUtNRUJNc01kT0xYWkFNenByRkRmVlRRSVVqUGZXS3E1aGMwRHVNcHRteGNkQnJqRUFCV29kMW41dUYybHNBVjdiYVQ5Q1NZT0YwZk9pWkVSR0RlNl91WmhWVHlzTWExcWJ1TnhtQ0ZXQQ?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 02 Aug 2026 08:58:24 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Fire breaks out at Lagos airport terminal, no casualty recorded — FAAN",
-      "link": "https://www.vanguardngr.com/2026/08/fire-breaks-out-at-lagos-airport-terminal-no-casualty-recorded-faan/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 02 Aug 2026 08:07:12 +0000",
+      "title": "Controversial Nigerian musician Saint Janet is dead",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZk9TLVpyU3ZJUFV0YnREN3lfQ0xCOVFCWnUtOVNhRjBvX19BNkZoYTlVcW5ueE1vanZfUkVkVTYycl9DejFGblNBSVlORmxOM3M1RFhFOUt1TXA2SXNYbndvdU1VZkxBY1gwLWVpd09ucnBsOWtyOWxUTDNOZzhVQkRMQzAtVWI4aDJR?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 02 Aug 2026 08:10:57 GMT",
       "category": "Security News"
     },
     {
@@ -100,15 +115,15 @@
     {
       "title": "Nigeria Police Completes UN Counter-Terrorism Training",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40NmhuWDBmaTR6M0NtOHVWZXpaeWU4WFp0NWdvXzFhNXp2eG9YRGdnUzBoSEM5eklsZXpRT3NpUzk1TVpINWpDbmxlRVRNUXlIcFpaamRuMldwU2NwVGxGa3hRWEVQWXNCQ3BKdWhSUG1OcF9XZUk1U09vdUd6YjA?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Sun, 02 Aug 2026 07:32:44 GMT",
       "category": "Insurgency"
     },
     {
-      "title": "Defence Minister announces South-East basketball tournament, donates N2m to Abia camp",
-      "link": "https://www.vanguardngr.com/2026/08/defence-minister-announces-south-east-basketball-tournament-donates-n2m-to-abia-camp/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 02 Aug 2026 07:28:17 +0000",
+      "title": "Nigeria joins Saudi-led Red Sea defence alliance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcFRJcEdJM1JaNkpYdTh0S0o0NDY0Wnh2WWNlMTF5U2h4eHpsXzZKUFpHdFBvS1NYRmJRcjUxRWtFTFlReVdRVUdTdV9md250UXRDUktmWDd2djdJNy1RQzU2ekE1QWFPUENUYkRuaDhFUzNDTzVOS2wwejFfUHpXX3p4Z0l0Z9IBiwFBVV95cUxPQVNUVTM3czd4TmpXbzI4bW9GSk9NVlJ2VDlENXU5d0Nna29YRm9DeGRsaU1vWS1aV29WdFc0VUh2bnI1MHdtcjR6Rkt4VDVVbzBOUEI2ckgwUGpmRTVUeWxqbE5kX1EzQlJnXzBVUG13anJOalVBQjNfbXZKcXN0RThYZWJidlB1MVBV?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sun, 02 Aug 2026 03:31:27 GMT",
       "category": "Security News"
     },
     {
@@ -154,13 +169,6 @@
       "category": "Security News"
     },
     {
-      "title": "Quiz Of The Week: Which Nigerian Athlete Claimed Gold In Shot Put At Glasgow?",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdy05dEw4VUpiMXpIUWJiOWdVeFdxdXgyRnk3NUtIMGxxbWxfU1hhOTg4UldtX0Jza1g1cnJwUmlQOXJYalZOam5MdFRJOUJGQU9wNGN1UDRPVUpfVnNGSlptWmFhcUwtd2NlTlZ5cklKTTRTcHlPa2tiLTFBODdhUV9QTFNuNFUteF9yOUVuakpqS3RyYzVpM1dKWnh5dlgwSHl6NG92eWkyVFFM?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sat, 01 Aug 2026 19:54:22 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "HURIWA urges Tinubu to reclaim forests from terrorists",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYi1BVDJycVRkSDQwU2h4UE5iWU8xOVZHaGRaOFZ2N0d5TVM1dXhHRWhTaWFtdV9OX0xsNlRWWmdFelNZMFhQQVBKMWF0eTZZVUk2OUVXQ0hpdUFteXZHWEFsUngxVnhSdzFnYm1acDNQM0FMSjRvaFF2SWFxa2M4SXFJdEJSdTg?oc=5",
       "source": "The Guardian Nigeria News",
@@ -170,14 +178,14 @@
     {
       "title": "Nigerian Government Unveils Abia Air Force Base to Boost Security",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3VkVmdRNGk5aXFnNjh5ZHVBOEtxelVxYTRSbmE5U2puTFFsQzZZWlNoRzhyakVLdVFjeEFIdzJEM2tuSXh5N0FDS2U1bkhjRXREWHFKcHVZU2hGZWo1UHBfdTFFeFpPRjVFLW1RMlhlTnBidmsyclR2SDB0aThqZkJYZUdfVXlaeUNKV1dR?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Sat, 01 Aug 2026 16:04:55 GMT",
       "category": "Security News"
     },
     {
       "title": "Plateau Endorses, Launches Strategic Food Security Plan",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHdTYXFiLXExWkx2M3Q4cDJ3bWtKZ05Zd04tZGxzT2VhM0RHcng1T09lWGpQYU5mTUVZX3JWWmE4UUxkbzhJdTdvdnpjaGdtMkpmSVp1NS03bDJ1OW1xZFZ5MkFtV1hNUGZGM3NvU1JxU2Z0STJBSmZuQndxYjZXWThvRkQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
+      "source": "independent.ng",
       "pubDate": "Sat, 01 Aug 2026 15:38:22 GMT",
       "category": "Security News"
     },
@@ -198,28 +206,28 @@
     {
       "title": "Nigeria’s Pre‑Summit Counterterrorism Blitz Sparks Skepticism in Washington",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNjBtSEtrZG1tMjR4TUtEMTU4OVBOX1IxUUlQVF9ZenZFYWVjMjdtUkI2c1NUbThNdWNVMXhhcDRULVZyaFROYW4yR3NLZWhIbFFzWWJKbG8tWC1pWi14T2lXVW1OYnJGQVB2X2lHenZCUFVuWXFPaktCNll3SGRVUVFGOXVoMXlvdVRHNVpENjl3WTkwZzBWVUhhTngyXzFaaTlaVk1iZjQ5RXBJ?oc=5",
-      "source": "truthnigeria.com",
+      "source": "Truth Nigeria",
       "pubDate": "Sat, 01 Aug 2026 12:45:14 GMT",
       "category": "Insurgency"
     },
     {
       "title": "Finance Minister Calls for United Effort on School Security",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmJwRlVIQnUtZmRqRklrb2xheWs3UFl1YnlnbjRXUy1FWEQ0VjZkNWZtaEFsbVhHeVpPTEQ1ZDRhUTA4WGZXUjY2b08wMU5qdFI0X3lVUC1LdjIxekd0c01reVdEdUhGSXJCdUdFUnphNlZlVkpYWGtQOHhibTdtZXJzRHRGQQ?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Sat, 01 Aug 2026 11:59:33 GMT",
       "category": "Security News"
     },
     {
       "title": "Nigerian Government Backs Collective Action on South-East Security",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0RCb1ZkRUoyTUNBeWVZUGNMTU4waWJReHNCSHlLT0RPNkpuSE9MeHdxc21fa0l0ODRabUh2RDZUZFRuSFhPSEZDQmpHREQ0ZGFZOFZJUkQyVUJVUzAza3JXWGFrenBfSDllYzR0anlzN2hhbXlReHVrdWprRWtiV0docjlZejBhU1hYbHBNQQ?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Sat, 01 Aug 2026 11:51:40 GMT",
       "category": "Security News"
     },
     {
       "title": "Nigeria’s Armed Forces Record Major July Security Gains",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HS19lYnJITTJRd2ZRdVBpWFBEZ3o2UmUyeHk2NjJVVGNQUVdhYUR6Mm9fYkYwdmVSLXU3ZXdQUWVUbEQ5VXN2a0RnQy1OcDJxQjBNUHl5ZmxqRXV5MlBuODJuZlR2TWNjSkhJYVluSzc0UWQwSDZ1dXBqT2dQdWs?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Sat, 01 Aug 2026 08:08:53 GMT",
       "category": "Security News"
     },
@@ -240,7 +248,7 @@
     {
       "title": "Education Minister harps on safe schools’ security nationwide – FRCN HQ",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3ZQS2dDdFQ2UVJGc2VNRC1JZzNQLXJOMEprZjlrTGtrMmtnWl90NDlSMW9nekF1QXZPS0tkTC1nT2cxSzNacnJzeVRza0s5UlMwbWxfZEZUWFNoLXhuRndXX0t6emVxdzF3eWU5dGJGR1c1dm1CdWJrUENVQjlicE5SQjU3Q3hGNFJVZkZmLWNiM2t6dmZiS0FGWmhmQjlsV0E?oc=5",
-      "source": "FRCN HQ",
+      "source": "radionigeria.gov.ng",
       "pubDate": "Fri, 31 Jul 2026 21:28:50 GMT",
       "category": "Security News"
     },
@@ -277,6 +285,13 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzFqcE0wWFM2UXJEeTZpQVRhNlJ0Y1IwWXlQdmMzWWtWdFhmZ3o1aGRBSzNmUGR2VUM5eVVhdzRlR3JJQ2lBLV9FQWRHNEp3aVJESTBQUmdwQ3dvbXZRQUtZNGczTDlfeU9zNlI4cFo1bldQaHVuVVR3WFJRRlJPeDRGNDNqbXdJVHdNZzBkbkZob3plenZqZ21JQzlrcTBJZHYwWHpB?oc=5",
       "source": "Blueprint Newspapers",
       "pubDate": "Fri, 31 Jul 2026 19:25:34 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerians Facing Hunger, Insecurity, And Harassment Under Tinubu, Says Peter Obi",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVlBTaUpCQ2czcS1oYkExb3VKZ2dfdElCR3d6ZGU4MUlUaTVHQm8xMVI2QU1majVNX2hERTlaZXpNLUcyRnUwSTdpWGx2cVEzZlB4Q0hUZ0NYa3pIMVBXcU9CNmRIUmR0X0JteUpHeExhV0RDTmpPNXVaMURXektzQmM2MVNQS0hjNWkzUGxkT3NROVBkTEhMc1dSeEtaM1huXzlJbXFwYXZCU0NMNlNFOVVCTDFfSjg?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Fri, 31 Jul 2026 19:03:33 GMT",
       "category": "Security News"
     },
     {
@@ -348,20 +363,6 @@
       "source": "Punch Newspapers",
       "pubDate": "Fri, 31 Jul 2026 11:30:53 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "A royal seal of approval for President Tinubu’s zero-ransom security strategy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3Q5R2l3X3pjTkc4WFptU1R1WDFuNmtkMWo4SzJSTTQxcDRQSFBZTmhvSGpTMmdBdm95b2lfTW9iVV9fQ180SlZPUW83OFBTRGhaUVBJejdxd3o3bmh0Z0JBOUFTN2VSalZPbk5Hb2Jza1p6TURURGZTZWcyN0V6M1o5VG95SUZGLUxzMDdfdHJZdVd0d0FqYlR6SFJnYVktWWlOdzRHdVJKaVFUWnhHY1V5dmY?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Fri, 31 Jul 2026 11:07:07 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Okpomu Advocates Stronger Nigeria–U.S. Cooperation Against Terrorism, Calls For National Prayers",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVBDeGx0T01MVGUtVkttRzRSWXBTMHpQVlVDU1RscmpNY2dlNTh6clRxNUtGblQzNW1XRFlraDJuVFd3SjFEM2FrS25HTVJZTkhpLTNNcXp4S0l4SmhxalkxRUR1NzVsRV9wd3JIblV6SG9UVmdMVDhMVGtBUTByR2xqSXV0Q2p2bV9UbVdyZDFTRTBYZUIwNXV5ZmdxNFZDb3BLaHhITmFYOTBQUzNCZmVVdXZ5TnYzemc?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 31 Jul 2026 11:04:28 GMT",
-      "category": "Insurgency"
     }
   ]
 }
