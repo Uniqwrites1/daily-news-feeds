@@ -1,18 +1,75 @@
 {
-  "timestamp": "2026-08-07T10:01:45.404Z",
-  "generatedAt": "07/08/2026, 11:01:45",
+  "timestamp": "2026-08-07T13:05:07.288Z",
+  "generatedAt": "07/08/2026, 14:05:07",
   "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 99,
-    "Military/Security Operations": 14,
-    "Law Enforcement": 17,
-    "Kidnapping": 18,
+    "Security News": 100,
+    "Military/Security Operations": 15,
+    "Law Enforcement": 15,
+    "Kidnapping": 16,
     "Traffic": 3,
-    "Insurgency": 7,
-    "Armed Conflict": 3
+    "Armed Conflict": 5,
+    "Insurgency": 6,
+    "Banditry": 1
   },
   "headlines": [
+    {
+      "title": "Kwara-Woro freed victims arrive Ilorin; children already enlisted in bandits army, says lawmaker",
+      "link": "https://www.vanguardngr.com/2026/08/kwara-woro-freed-victims-arrive-ilorin-children-already-enlisted-in-bandits-army-says-lawmaker/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Fri, 07 Aug 2026 12:27:55 +0000",
+      "category": "Banditry"
+    },
+    {
+      "title": "Nigerian man jailed 13 months after high-speed police chase, multiple crashes in UK",
+      "link": "https://www.vanguardngr.com/2026/08/nigerian-man-jailed-13-months-after-high-speed-police-chase-multiple-crashes-in-uk/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Fri, 07 Aug 2026 12:18:26 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Two Nigerians Jailed 20 Years In Ghana For Human Trafficking",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQVF5VTdhcjhDcTdseUsxRloxaHdsQkY1WjJCcW53WnNKYmlfNDROb3lEVHpVYXFpbDJqR0x4VG9rOTR1MVl2bVhVRWNReFBNWTR0enA3eTZ2U2xaLU9kY0FmM0RVRnZRV3F0WkFpek5CQUpSTjFfemtRbDFrcGVjZlBRNGF0dVlKUEZBZQ?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Fri, 07 Aug 2026 11:57:38 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "feared killed in Kogi community reprisal attack",
+      "link": "https://www.vanguardngr.com/2026/08/8-feared-killed-in-kogi-community-reprisal-attack/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 07 Aug 2026 11:47:10 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Two arrested as security operatives rescue seven abducted Ogun Students",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMDluc0lHMTBlZTJ1OTlyYzY3bDRIYjZwbWVEU1N5Mk1pOW1KVy1zYms5aEpuRWpIbF9DMDhPeE4tOFpVV2VIY3BqVlItUWRuOTRGZHhVSVloeS1vLTAyVlBqeHZnWElkdW9jc21ZVm1SQll5Y3dfNWtEc2U4TkNmRkR3NS1iQmdCWWJsQjNGaU00Zl9QY2dSckM2WGRjdw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 07 Aug 2026 11:33:21 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "England striker Toney charged with London nightclub assault",
+      "link": "https://www.vanguardngr.com/2026/08/england-striker-toney-charged-with-london-nightclub-assault/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 07 Aug 2026 10:43:26 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian mandates telco cybersecurity budgets",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTl9aMGltY0RLOHRRczdGUWVmS2VLU1NTdzA3eERYZHhyU2xPMURQUFEtdGZTUUNxRi1abzlWT2V5RDlJMTBSalJwR1hLTGRwbzlkNS1YUEhucHVEaDUxRHQ3UDhxX1F4QWxpVXBxNkY4SzdXa1ZZRXdGTXJCX3ZjZGtibmM5b3Qwcl9sajdaY0NKMzRIZGc?oc=5",
+      "source": "ITWeb Africa",
+      "pubDate": "Fri, 07 Aug 2026 10:35:27 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Teen kills grandparents, six others in Thailand school shooting",
+      "link": "https://www.vanguardngr.com/2026/08/teen-kills-grandparents-six-others-in-thailand-school-shooting/",
+      "source": "Nwafor",
+      "pubDate": "Fri, 07 Aug 2026 10:02:01 +0000",
+      "category": "Armed Conflict"
+    },
     {
       "title": "fire fighters injured in Abuja tanker explosion -FCT fire service",
       "link": "https://www.vanguardngr.com/2026/08/3-fire-fighters-injured-in-abuja-tanker-explosion-fct-fire-service/",
@@ -21,18 +78,11 @@
       "category": "Security News"
     },
     {
-      "title": "Oro-Obolo State move: Ibibio group decries attacks on Ekid Peoples Union President",
-      "link": "https://www.vanguardngr.com/2026/08/oro-obolo-state-move-ibibio-group-decries-attacks-on-ekid-peoples-union-president/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 07 Aug 2026 09:40:56 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Sokoto: Troops arrest 4 Lakurawa terrorists, recover livestock in rural market",
-      "link": "https://www.vanguardngr.com/2026/08/sokoto-troops-arrest-4-lakurawa-terrorists-recover-livestock-in-rural-market/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Fri, 07 Aug 2026 09:34:13 +0000",
-      "category": "Law Enforcement"
+      "title": "MAN says High Interest Rates Threaten Nigeria's Manufacturing Growth",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZlpPZVE2QUVSWUVXYTE4cG9SZ1FGeUMzWFVrYUl4Qm0wNjAtajZuM3J6VGRZTzRia2dKU1JyZnBjaWpGaUNBS0FOc1NLTkJ5RmY5dUxUUEtzNk9IZXFLUmlrV0wtbFNtSlBDR3A1UENRTF9HaG1IdmQ5OHBSclVUTjJ3NDdBVzZmbVJLMHdTWGEzTTJUQXc?oc=5",
+      "source": "techeconomy.ng",
+      "pubDate": "Fri, 07 Aug 2026 09:35:31 GMT",
+      "category": "Security News"
     },
     {
       "title": "New Gold Discovery Threatens Farmers’ Livelihood in Nigeria’s Capital",
@@ -49,6 +99,13 @@
       "category": "Security News"
     },
     {
+      "title": "Sapaade abduction: NANS commends Ogun govt, security agencies over victims’ rescue",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFZTRVJ6MUxEVThOeWl6am5RYjlZbHRDYlktY29HZGpIeUh1QXBsLThhcUpGNTB6NzA0WXRvM1BWdkNPWnFNSTFZamYyVnNYSGI2WUprX01tYzlseUo0SlNLMnFEbFZjdGJsSnlfY1REVDRiaG1WdU9IVnNmVDRkczN4aUJERTc2RUYxaW4wNEk5WTg0TnhsLVMyeFRJZDJmZ25wT1lWc1FYb05y0gGyAUFVX3lxTE5pVHJ2a1dGdlVBVG53VW9ER05GVFVFc0lFVkdWWlVLeDdScHFwTzY2RVZBYmJBS3V3UmVEQ1JUdk13VEZodjlmaWJnd0NETW5ONUZubEtsS1EzSmYzSHYxcEtLRDQ1ckZGVGJHMElIekVSaEI5WDNDTUpqc1liR1pxV2tWWlhIWHF4dmczNFJOWjN2UE1PV1hHeHZ5N054WUNCYnNIVTVuNVFsZGR5b2ZxWlE?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Fri, 07 Aug 2026 07:58:20 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Nigerian Athlete Jessica Oji Secures Historic Shot Put Gold",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTgtbDBCU3ZSYTlUenJ1dm9jUG1zbUpOTDFTUGc1bkdvMFlrTTdpX3dCSk5kWG1jNmk5cXJlZUpwMVJURmZpcS14dlllSDhCR0dZYUFZVHBXX09TajBRalJDSEx4ajA5RGphTi13MnB5TlhzY25makdSTklLeXVSZ0o5UEUydw?oc=5",
       "source": "Voice of Nigeria",
@@ -56,25 +113,11 @@
       "category": "Security News"
     },
     {
-      "title": "Orutugu is a gift to Nigeria, Soludo hails retiring Anambra police chief",
-      "link": "https://www.vanguardngr.com/2026/08/orutugu-is-a-gift-to-nigeria-soludo-hails-retiring-anambra-police-chief/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 07 Aug 2026 07:40:09 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Jessica Oji wins historic World U20 Shot Put gold for Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzhQOFZrdjNoNHFwcWVKQXV0Zk1DMGR2M3RnZktmYkl5V2pzaGJMV1hGVm80eWJlc1o5U21pUG1Ha3E4ek1VQmFfdG16TTdMUk5JMkFVVWpRS1FUZTVaYlhaVDk1T19zSzRlWU43UTlhZEFKUXEtdGRpWWw3R2FIOE1WMnJadEJZeHFnbUlBNWNfN0p5UExpSjBOMmhZWFFGRkM5TzRYZWM3WjhCa2tKZjVDTXRtOTdLSUwwdklFd25fLVZTbVNIUU1OYw?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Fri, 07 Aug 2026 06:31:02 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Newspaper Headlines: 315 abducted Nigerians rescued in 24 hours",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXJuUm1tX1lHbFBSTjNUMm16Um84YlBFS3NVQXh6b1RNbnNVdXEtQWxZNVJtTGJoWE9qbENXVHA0QnJPZ0w2RHlXSXZlNVd4c3prbS1BeEhIckJ4WUdCWmFib3pIZ2JLWVhqTlF4djFpRG05c1dVWkp5ZW5XQ3Bxa3VETUNXMUVfdmRjUFdWVnM?oc=5",
-      "source": "TheCable",
-      "pubDate": "Fri, 07 Aug 2026 06:00:00 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "Nigeria, Burundi Expand Military Partnership for Regional Security Cooperation",
@@ -89,13 +132,6 @@
       "source": "The Africa Report",
       "pubDate": "Fri, 07 Aug 2026 05:01:18 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "INTERVIEW: Nigeria Must Fix Rural Roads To Cut Post-Harvest Losses – Expert",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlNCQVI2R29WU3JhMEVPQzZHYzRKMVZIRWxJLTNHWkJzd2JUb2ZXOTRuSGZkcVZLaHFnWS02MzlhM3Y0b3h0b2VMWl81eXdTS1Q0ZU8xQklncnp2Mjg4dzBzZXVTLWdUUExkaXBmcTkzS05aTVZ4SmI0a09MZ2RwN25ObDRwX1FBTnZ0b00zZnVrTFpnUG92NHUyQWk?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Security personnel salary increase will boost morale — Sokoto gov aid",
@@ -126,11 +162,18 @@
       "category": "Security News"
     },
     {
-      "title": "PSC Hands Over 50,000 Newly Recruited Police Constables to the Nigeria Police Force for Training",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnlYRUVNWU1WUUJpVTltUUt2TUtBR0EtNnJxSWpKR051eElPdzRIMEdKZnJSYkNYUHI2eFB4cHlzeVZ6QldGUUZWSDhQUE56b0twcXNvS2JEUVUxbTNMeDFEeFRYTjEwNnBJcV9Ib2Z3cVJTOGJ6NGJFNjJEcW9vSVFSVlVtdHMtaGphNGNlVmY0OUdEWlJGS1NTNWFfamZFb2NPVXRDTGVzcEIyRzBtWTJrTFR2U3ZtNU1LWUNGLVpZY0dhRWstTjZPOElrVGJXemY4?oc=5",
+      "title": "SECURITY ALERT: Armed Men Mobilizing for Possible Night Attacks on Ancha, Ta’agbe",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDVWODdOem1MNjM0V1IycTNDZ0FlYWFwZFNPUkVwaHJ4LXFCbVlUR1drNXBPb04zcW5ELUxLU2w3bmhCREFjMnUxOU44b1NCNmhhaW1jWDIwbTQxMkdQUmlJYTlLV3dlVnVXQl9FNzQ1Q0prN2hFczBOZjd4Ty1WQzFfUXBwVnNQcmpxenpHNVk5eGZQb0dMYjFPSzc5YmtaVVBGWFdHanlwNFBpcmpIOE5n?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Thu, 06 Aug 2026 23:40:51 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "RIBADU AND THE CHANGING SECURITY LANDSCAPE",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1M0cFdBRW1CZ204TTQ4c0dkVlhSb3A5aVZsXzVxUWRSdnJqdDM1RlpDSVI2MWxhUlhfOTJRbXhraWtoVzhFaW8ybDJaUFA0eFZvVDJlamdoRks4QkEyUFRSOU1DSk45X3BGR1haSjlwTERDeUlQemluLU5TX2hSVko5S3E5VEh6WWc?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Fri, 07 Aug 2026 02:26:16 GMT",
-      "category": "Law Enforcement"
+      "pubDate": "Thu, 06 Aug 2026 23:24:01 GMT",
+      "category": "Security News"
     },
     {
       "title": "Abducted Gateway ICT Polytechnic students rescued, no ransom paid — Police",
@@ -163,7 +206,7 @@
     {
       "title": "Abiodun declares no safe haven for kidnappers as security forces rescue abducted Ogun students",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEVXRHRfaHF1cmNqZ3FCUEdjbTNwMGJjRmZGVU5IVy1IU2xkMWp4LUhBQmdRckZIOUN6NmRzTGhiYWRCN1N5bWdSOVV3b3YyX09kaWhTcmZxSWNNWWtfVndKN05CUzZhXy10ZGhmcXVpN3l2MU9XNVl6aVU4OFZZOVh0emZsOTRkaTRKb0FfaW95SmdjR2ZUY3VnTENlbnV2TFk3SThKM05MRUJYRjJwby1meTlFLUxTeF9JcGhaLV9BV3JmS1E?oc=5",
-      "source": "dailypost.ng",
+      "source": "Daily Post Nigeria",
       "pubDate": "Thu, 06 Aug 2026 21:43:13 GMT",
       "category": "Kidnapping"
     },
@@ -238,16 +281,9 @@
       "category": "Security News"
     },
     {
-      "title": "RIBADU AND THE CHANGING SECURITY LANDSCAPE",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1M0cFdBRW1CZ204TTQ4c0dkVlhSb3A5aVZsXzVxUWRSdnJqdDM1RlpDSVI2MWxhUlhfOTJRbXhraWtoVzhFaW8ybDJaUFA0eFZvVDJlamdoRks4QkEyUFRSOU1DSk45X3BGR1haSjlwTERDeUlQemluLU5TX2hSVko5S3E5VEh6WWc?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Thu, 06 Aug 2026 19:21:23 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Sorveo launches AI-powered video intelligence platform for enterprise security in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFQxN2pwWkRCWjhrRlR2VnV6UktUYmdJX01kbTd2Q2hFaFV1cklnNFVwUllCdWxfMXYxUjNtUkdfakhsTUNPX1R2SFRVbDl1NXlRVi13WHRZY1E5cnBOa0QtRzRaU3RKeC1TSjRsVW1JaEpVeV9tZEdsMEwxeUxYOXM2ZFNtOXlBRzNHTVZ4U0FnMzVSUmJCNkFwRHQ2WjhVdUw4ci1oT0Npdw?oc=5",
-      "source": "Techpoint Africa",
+      "source": "techpoint.africa",
       "pubDate": "Thu, 06 Aug 2026 19:07:39 GMT",
       "category": "Security News"
     },
@@ -261,7 +297,7 @@
     {
       "title": "Osun-Osogbo Festival: NSCDC assures residents, tourists of adequate security",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOakRLT1J4NkloVV9SQnVkU1VIQ2p0NDZiNnk2OGJyY19fX2xEYzVwWVFiWXk1OWZPMkkyLVZlMlZpRU5PeUZYVG5SOXB0UmQ1d01LVl9HeDZMVTZtX0tYVVBvbGhvOTV1bnZWa1pQdGZSZGhEa3hUNEdVT2JYWW5XMTVqTFlyb0IxQ3Mwd1BrQUJkVkMzd2g5Ynd2ZXdTcUE?oc=5",
-      "source": "gazettengr.com",
+      "source": "Peoples Gazette Nigeria",
       "pubDate": "Thu, 06 Aug 2026 18:35:24 GMT",
       "category": "Security News"
     },
@@ -296,36 +332,15 @@
     {
       "title": "Tinubu applauds rescue of 308 kidnap victims, orders stronger early warning systems",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalRSc3lRdGI5eU05TExfeDFxTU12UFBhY29yRmZOX3lkWjZfNU5rNElCeWhjT09sRVRienYtRUxTQ2t4S3BUOUx5VzkwSHdQWkRwVlJlUE5XeFFzNk5HQmZDd21BRkoxbmh3N3d6ODJ5UWxzUTBVMDU1bDZ3SzdSOHpwV0ltei1CcE9OZFZCOFZFcTVwT0ZmR2IxUHBKaHZ4VzExVnYwT09ndjUxcFNMVEFuMzhzeWFMWU1r0gHAAUFVX3lxTE8xcktMX1B5VlN5NU9iQ2F2M3gxYW9MU1BBaUs3aDdzSjhSYTA2eXRybHhiLXoxbEFKd0p5TUUxQkdXbUQ4Q01PWDFLSDZHcmdUQVRmWVVJcFlzbGo0VGJrMjBvSmIyVW95SlF5dEpsekgtb0p4ZVNkbnZCQjQ2dm5ocmZrMnAxSENSeXZWbFBuZHRuRWd0WHM5RGNUVHdYblRxTlFKS2JFQXBBdW5xdHBJcjFrV1IwaVVoVm11UzlzcA?oc=5",
-      "source": "Vanguard News",
+      "source": "vanguardngr.com",
       "pubDate": "Thu, 06 Aug 2026 15:23:13 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria, Burundi deepen military cooperation against terrorism",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGVHWlUtcEstZWtfYU9CQWpEc0FaQ2JUMnlXTWVXeXVLMnVtX25Yb0ttaEFhRGlkUEEzS0d1MW5yZnNhRUo4aE5DRDduSUI1LVhjVW5WOXR4NW9ZTmptbnlhbFFQUjJLT292NG84ZGdGckpxRENVaWZtaGlXaldyOVVqTzBFUFQ4Nmc?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 06 Aug 2026 14:14:56 GMT",
-      "category": "Insurgency"
     },
     {
       "title": "COAS pledges deeper Nigeria-Burundi military ties to strengthen regional security",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0FUdGljWF9NSTZEeHhxSVpIeU95M0VnOGJsd0tKaW5RQkJDR2VoSlZkMThzdWQ5U2I1NGg3dTZWZnJFbTJBVEdqSk1VVjQxWUMtQjV6YWY3blZFV1QtVjlqVE5Ld1Y2SExyZEVUNTJ1aUxRckFNOGJkbjJXVE5fVWUtMC1udHRtZHVTMEZXbzVtcDRVSUFnWjcxTHQ0bnlFNlU4d3RYVXFCQW8yYzJv0gG0AUFVX3lxTE83TWpZT24zNUd5T1B6Sm1IQXdOazZSeV9zbWNOU2dpTDJhN3FMbEdwQ21NUnJfQWtHakdRbTlMTmlLQzNoeTcyd0R5NDlSN2ZuNXJqbk1Wb2hEOWQ4N3BLVklSQU1SUkNEY0ZpWlJlbkkxTVpiUXhhamx6X0hBdk1GR1lqbWcwTWdETDh5c3RKOC1xLUxQUEtHMFNaakU4dF85OU5pQ0ZyY0Jrc2k5a056ZjRJeQ?oc=5",
       "source": "Tribune Online",
       "pubDate": "Thu, 06 Aug 2026 14:14:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Northern Senators hail Tinubu over safe release of Woro kidnap victims",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEJWODBtWmdaRldLUVpYV25LdW9MWnl1RmwzQU1NNTVSRE1fX2NWZWhucU1pQ0J4TWNvcDJ3QlJLZUFqX3V1NUxJQ0prX1FWSzhfWXpUVG9LWWw1X3Q2VnVNaEhwN0dHYUllQ2Q4ZjlFdWJQNEdKaWs0REo4UjhBNE12THp1UHFvV1QtNUc1OURtSGN2eUQ3bUFxWjYwalc4b2lJ0gGoAUFVX3lxTE9UZmZMZjBRQ3VXZVU3a1RQT2o2ZU1CYU5kbzZUS1ViMnhBZ2hlYmk5aDM4Z3phRTBUSjNISjRSQnkxNTJ3YUdabFRwaWwyWXBtSGRHTUUyNENWLUM4X2hUODN3cU5sc2dTa1gyczFsUWpGd19hSWE2ZEt2bVc4SVZrRml4NVBRUnNSZWRUMXdNUXpBZklsT3hxWmlVay1MdHZycEIwMUFTUg?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Thu, 06 Aug 2026 13:52:10 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Situating Tinubu’s Second Military Pay Rise Around Nigeria’s Battle against Insecurity",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYlRuNDZoZEYwT1oxZFNCLV9aQzc5QV80TktwQ1kxcHFxamRHNmhUcnBsTzR4QW1CUFVoTWpiRExfTWxjV1BtV0R1cjIyLVdmSzlNZVpIa3pZR3k5eGszNzJ0OHg4V2FNZkJyTWIxN0RuamVXbi14eWRLaGEwazVpNEplM0VqN0Z2Sk11RWlYS1ZqMEZ6cmR0Z21WUjAwWlVvVUN3RXBTSzVOVTJzQmVkQk9jMHhVSExWY3Uyc1lxWXB4UQ?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
       "category": "Security News"
     },
     {
@@ -348,20 +363,6 @@
       "source": "The Guardian Nigeria News",
       "pubDate": "Thu, 06 Aug 2026 13:23:00 GMT",
       "category": "Kidnapping"
-    },
-    {
-      "title": "Northern Senators Forum congratulates Kwara on rescue of Woro kidnap victims",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDg1cFVUbnJ4TTQtSWFwVC1YeHExWmRPMDJMSndwa0w0NU84Uzh1OEtQQ1RnaDhPTW83RDk4UlBYSFBYWFdQSjROQ21FX2kyWHRQMEZaMXRJbEw3U2dSZ1Q2UGdDdzVFNHRabEpyR3BnZ1h4N1ROQlptRXBNOGRyWEs4bDJyWVRkWG1aR3dDS1NTM1VNT3ZzOTIyeHJqZGZDMTdLSQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 06 Aug 2026 13:16:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Coalition Calls For Stronger Action Against Those Undermining National Security",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVG9OeHZuNWUtVTVyNlF3Zm42M3VJTVdQcnhJc2Q5QzQyTVdJUE80YlJWczRtRUJwbHNSYjdwLXBCWGpmc0JHZWVDU2J3cHp4R1FPNktGWHB0UmxrR3ZEVmdsTkdlZ053S2xNMDJzeGRWWk56OUVrX2FlUm5lZEJjZW9UZ25NS2ViTVI5dk5jdkZ6WmhnUzM0WXEzYkJsQ1k0dDI4WGxB?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Thu, 06 Aug 2026 12:37:24 GMT",
-      "category": "Security News"
     }
   ]
 }
