@@ -1,38 +1,101 @@
 {
-  "timestamp": "2026-08-12T13:10:42.726Z",
-  "generatedAt": "12/08/2026, 14:10:42",
-  "totalHeadlines": 166,
+  "timestamp": "2026-08-12T15:58:53.717Z",
+  "generatedAt": "12/08/2026, 16:58:53",
+  "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 26,
-    "Security News": 104,
-    "Armed Conflict": 12,
-    "Military/Security Operations": 10,
+    "Law Enforcement": 28,
+    "Security News": 100,
+    "Armed Conflict": 9,
+    "Military/Security Operations": 9,
     "Banditry": 3,
     "Kidnapping": 4,
     "Insurgency": 5,
-    "Traffic": 2
+    "Traffic": 3
   },
   "headlines": [
     {
-      "title": "Osun election: Adeleke’s campaign spokesman threatens N10bn suit against Fadahunsi",
-      "link": "https://www.vanguardngr.com/2026/08/osun-election-adelekes-campaign-spokesman-threatens-n10bn-suit-against-fadahunsi/",
+      "title": "Tinubu should listen to Catholic Bishops, stop attacks — KNN",
+      "link": "https://www.vanguardngr.com/2026/08/tinubu-should-listen-to-catholic-bishops-stop-attacks-knn/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 12 Aug 2026 15:30:38 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Singer Niniola returns with new single ‘O Du Mi’ after husband’s death",
+      "link": "https://www.vanguardngr.com/2026/08/singer-niniola-returns-with-new-single-o-du-mi-after-husbands-death/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Wed, 12 Aug 2026 15:23:27 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger Flooding: Northern senators seek permanent solution beyond emergency response",
+      "link": "https://www.vanguardngr.com/2026/08/niger-flooding-northern-senators-seek-permanent-solution-beyond-emergency-response/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 12 Aug 2026 15:22:47 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Osun Poll: Police, military, INEC don’t belong to APC — Atiku",
+      "link": "https://www.vanguardngr.com/2026/08/osun-poll-police-military-inec-dont-belong-to-apc-atiku/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 12 Aug 2026 15:20:23 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Osun election: Police arrest 4 over alleged attempted murder, firearms possession",
+      "link": "https://www.vanguardngr.com/2026/08/osun-election-police-arrest-4-over-alleged-attempted-murder-firearms-possession/",
       "source": "Akinbayo Wahab",
-      "pubDate": "Wed, 12 Aug 2026 12:53:55 +0000",
+      "pubDate": "Wed, 12 Aug 2026 15:13:01 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Road projects cause over 5,000 fibre cuts in six months — NCC",
+      "link": "https://www.vanguardngr.com/2026/08/road-projects-cause-over-5000-fibre-cuts-in-six-months-ncc/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Wed, 12 Aug 2026 15:08:56 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Lawmakers Seek Urgent Action on Niger Flooding",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jeWFwc1dRNzRpeHNXZ2lvSjBMTk93Rkcyc3JCcGhOX1Z1Mm43YXc0VHVCd0tHWGFhb1RPdUZnaklDejk4TkdCODZFdXVlLTBweGtseXZmak1tNlE1MXdrbVlmbEU4WWxiWDN3dkp1NkItMFc1?oc=5",
+      "source": "von.gov.ng",
+      "pubDate": "Wed, 12 Aug 2026 14:39:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria kidnap victims escape 'hellfire' captivity beaten, malnourished",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUc3S1Z2VkU4NUYtRjdITF9lTno3cm1QNGtMNXBSdXJYSTFaZEpCLWlwV1A0MlY0QV9MM21kWmpsZTR1R2NxRGhhMHMyWHJYOEpfVHFZam5zN1pJYjhFRW9qMWtsWHZ3a3pqOFVZR2Y5YXJtbnlDVnNJZ3lhdTI5TjUtT09MN3NmQ1hTeGZNMzFHRHUzMW5qMzNaV0xZd0FacUhqTVJYODE2YUptdm5ISDY4S0tTT2NwSnc?oc=5",
+      "source": "RFI",
+      "pubDate": "Wed, 12 Aug 2026 14:34:10 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s Army expansion to 12 divisions: Building a force for twenty-first-century security",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2JEOHF3NEw4cHAyNDcwVkpXSURXR1VMeFdMeVV3cFhsRElOc1FuS0MxZ2NnRGFhbUkwTGZCUmVwcWs0ZnNHQm95cF82OGVwQWdmOVZHVXQyRXk0dVNGVVc2Q2JUOHpKV3NwNV90R1JyUUdJWl9OUnBUVVZWdHVGTW9HdXQtaHliUngzMDZtMkx2cmdwQ0g4dkctbTMtZTNrSkxZWXNYMmlnckMxbS1pUDQwYkE4Z2lOUjhDRmthVVd3Z0t3dlJzYUx3?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Wed, 12 Aug 2026 14:19:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Osun: IGP Bars Amotekun, Other Quasi-Security Groups, Deploys DIG Mohammed For Gov Election",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVUMyV0JJQXhsblI1czdsYi1yWFl2NFFpSUE1T1J2UHM5U0FBd253aDM3YTgzcFJVRzZFc3VjTmx2NFVBWFNyQlJ0dm80YzVZMGs1MUY5X3V2N1V2NVNTVEpQMTVMMkJQdUF5RlQ3OGI1bzVpWXc1SlhrcDZFbDk3b216VVhPSGJuY3dRZXhTLUJFUzBneGt5cmJNR0YxWkhRYUk1cEUzT0xmb0tMak5IQXJzTFVmOUl6MWkyVHpEWDRVMk0yU3c?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Wed, 12 Aug 2026 12:58:03 GMT",
       "category": "Security News"
     },
     {
       "title": "Nigeria Police Force Mourns Ten Officers Killed in Kebbi",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1BmQ2h5Z25iLUxWZnJlUDhlQ1lEVFdNSk9uOWp3TkQwa0J5ZkZfZWJlRmZfWDhIUHhJeHFHajRKcnhHcDI3ekp1MFVBTUpKSDUyLXF2Ul93QVI5RXl0OHpHSzR5SGFVdWR1bko4M1o5TXp1RWI3YUVNOFZCZmhIWjB3?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Wed, 12 Aug 2026 12:44:11 GMT",
       "category": "Law Enforcement"
     },
     {
-      "title": "Police declare two men wanted over alleged Ikoyi murder",
-      "link": "https://www.vanguardngr.com/2026/08/police-declare-two-men-wanted-over-alleged-ikoyi-murder/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 12 Aug 2026 12:32:56 +0000",
+      "title": "Osun Poll: Police bar Amotekun, CJTF, hunters, neighbourhood watch",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNThvNmhpVGlIbDZHZS1Hd2RWRDZrWGhnS1plODFRWWlQMElqNnR6SzV0NlljalIxYWh2aDZseWtfcnZHVWlvdVUtOFktVXBvV0VWMjlQYjVPVEI5UGFSblZjWmJtMVhkTXNoNmd6aE1CT2ZFczRUMXZkZDc3bmV5WExGdHozNURYdW0xQjVZaHZJUQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 12 Aug 2026 12:36:00 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -43,60 +106,25 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Osun: IGP Bars Amotekun, Other Quasi-Security Groups, Deploys DIG Mohammed For Gov Election",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVUMyV0JJQXhsblI1czdsYi1yWFl2NFFpSUE1T1J2UHM5U0FBd253aDM3YTgzcFJVRzZFc3VjTmx2NFVBWFNyQlJ0dm80YzVZMGs1MUY5X3V2N1V2NVNTVEpQMTVMMkJQdUF5RlQ3OGI1bzVpWXc1SlhrcDZFbDk3b216VVhPSGJuY3dRZXhTLUJFUzBneGt5cmJNR0YxWkhRYUk1cEUzT0xmb0tMak5IQXJzTFVmOUl6MWkyVHpEWDRVMk0yU3c?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Wed, 12 Aug 2026 12:30:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Osun election: IGP Disu deploys DIG Mohammed to supervise security operations",
-      "link": "https://www.vanguardngr.com/2026/08/osun-election-igp-disu-deploys-dig-mohammed-to-supervise-security-operations/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 12 Aug 2026 12:23:52 +0000",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Gunmen kill two, injure one, burn houses in Plateau attacks",
-      "link": "https://www.vanguardngr.com/2026/08/gunmen-kill-two-injure-one-burn-houses-in-plateau-attacks/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 12 Aug 2026 12:23:11 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "North-East Security Strategy Integrates Military, Human Capacity",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWpISnc0Sl95RXd3TmVQQWZEemhBM21FOVBJWVRtaFFIdXBJcGN4cWQ3eXpkLXRDWHBraDVidGxoQ2FFQ29KSldfWHhEU0dkcE1tVGJWSzN5VkJSbFhJbC1kVUIwb2RlU1psUGlsMmg2WFBWbXZKNS0xZXRzN3RSbGN1bnVaNG5iMlFN?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Wed, 12 Aug 2026 12:18:26 GMT",
       "category": "Security News"
     },
     {
       "title": "Drug abuse behind 90% of social vices, security challenges, says Kano NSCDC Commandant",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcjd4QkpiUFlFQ242aXp0bUFnWUJtQXhLXzg4YklvSGxESFhKdGJIVWdteWwxM1lsUmgwY2lyamZBZVh4Wk96S2xUVkhaeG96a1FrSG45YjEzVi1FYTZTLUtNMGNzUnctbmtNZGNTdVZfWE5TbEg2aTh4TnBPSnc5V3BXdDJ3Qm9qT3dTeERxeXhLRnpWQzVscWtjb2VPc2hDNHBfbtIBqgFBVV95cUxPZVNfZk5PMDRCYXo0QkU4Z25fdzFsWnFnSlA1Uy1YQndlbHhZaElncWg0c0E2aVMzMThST21uWnc2TWE3TUdNTGFPYjJ0VVhNTzdvSU1Ub2dYQlJETXd6cS0zX2FmWDgySHplSW1ncmFZTjh3MHYyUjVvcEhxTlg4Q2hGcWU5cHYydVRZR3Vjb05xQXVTTXB0aXUzTERlLVFHYzE0WkhJTTdVQQ?oc=5",
-      "source": "The Sun Nigeria",
+      "source": "thesun.ng",
       "pubDate": "Wed, 12 Aug 2026 12:01:47 GMT",
       "category": "Security News"
     },
     {
-      "title": "Osun 2026: Residents fear voter apathy over rising violence",
-      "link": "https://www.vanguardngr.com/2026/08/osun-2026-residents-fear-voter-apathy-over-rising-violence/",
-      "source": "Henry Oduah",
-      "pubDate": "Wed, 12 Aug 2026 12:00:59 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Edo: NSCDC mobilises 500 officers for Osun governorship poll",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjE1aFJyU3N6bHk0ZjFXWXRzMlFZQWFKRnF3d2tBQ3EtWF8yeHlCOWRWMHRBSTZobDZkTGY4V192ZFZ2VFF4LVBLWXlmUWdtRlM3Ri1FWnJ5dHF5TWFRRWY4SUhFVHhzbWlXcVdGazFBNUpvYWhRWDJzUGxXU0FYUkR4UnNvZFBYOWpz?oc=5",
-      "source": "gazettengr.com",
+      "source": "Peoples Gazette Nigeria",
       "pubDate": "Wed, 12 Aug 2026 11:44:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Osun Poll: Police bar Amotekun, CJTF, hunters, neighbourhood watch",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNThvNmhpVGlIbDZHZS1Hd2RWRDZrWGhnS1plODFRWWlQMElqNnR6SzV0NlljalIxYWh2aDZseWtfcnZHVWlvdVUtOFktVXBvV0VWMjlQYjVPVEI5UGFSblZjWmJtMVhkTXNoNmd6aE1CT2ZFczRUMXZkZDc3bmV5WExGdHozNURYdW0xQjVZaHZJUQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 12 Aug 2026 11:39:34 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria says its crude is available. Why is Dangote still looking abroad?",
@@ -143,7 +171,7 @@
     {
       "title": "Kwara Governor Receives Army Battalion to Strengthen Security",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeG1yNElrRWpSWG1oNnJvakxJTHNFZWp3RENTYU5MV2hZbXEwcnVxS1Y2bkEydXk1NW1SbmZhaVctVlRRdVdJMEpJdmlMMzVEMUV6elVNM2NfOElsbXVXRzhrSExSVzZHc3Z1ZTNXYVd5My14TTZENTI1U1BKeHVBNy1GeExSeXBH?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Wed, 12 Aug 2026 10:14:19 GMT",
       "category": "Security News"
     },
@@ -162,11 +190,11 @@
       "category": "Security News"
     },
     {
-      "title": "Ten police officers killed in Kebbi attack",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1Nha003azNCWEJoRncyYVB2dksyOE5hRDk1d0hPUVNDQndSS19PNnE2RVVpTldrZXk4dElfcmQ0UDA5bngtX0pudk5JMVBhNXFmS0MtS1AzVXFLZFd1Q01RS2d5YlAxbXZMLU13MDZPaHhZZUlRS18wajhabU5PSEN1Mm8xQWttdFE?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 12 Aug 2026 10:04:06 GMT",
-      "category": "Armed Conflict"
+      "title": "Police bar Amotekun from Saturday’s Osun election",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05cFlucWV4WjRfcl8yNlRsdmcwMC1ZZ3ZPMDFKNU11NWtZbWNKYlg1ZllTX2VCcTFxRWktWW1DQV91ZW9xVFlJcnoyY1lFM1pkelozNDJicmc4ZnE0b3EwMnBSeGRFVzJWU1Q1UmJKRUZWNGZTT1ZDaXBOaE0?oc=5",
+      "source": "theguildng.com",
+      "pubDate": "Wed, 12 Aug 2026 09:43:58 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Police bar Amotekun, vigilantes from Osun gov poll",
@@ -218,6 +246,13 @@
       "category": "Armed Conflict"
     },
     {
+      "title": "Atiku Questions N144.86bn Safe Schools Fund As Insecurity Shuts 40 LGAs",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUxpdk1jenpSSFF5Z0dNUlV3VnljZmRWRzZZQjdqdEt1bkVQSWZnblVSZk9IVXhWWGFDbUZBYUxmaG4yb21YSFVDTDFKTDYwblJhYVVTZVBjSlJiTWtydkFsRVM4MWhSZ0pNeEVYMVhfVmhqT3VFV0s0dTM0UnVGODZRd0JIaV8zdmVzYno3RUxlQzlXcVBsdQ?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 12 Aug 2026 06:56:26 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Police Bar Amotekun, Vigilantes From Osun Gov Election",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjJZQmpjZkwyRFRFZnY1NkI2U2Vib19Hc3kyNW56LUdUeGluUmVEUnVMcUhKaHFadk5LRWJPUnR4NTd0NFc4dzN5bmlDNDl4SnVUcDFtRlhMQWp2WjZicF9udTljY2RFWV9UQkExUGJFVThEeUlKVG5LcHgzemtyTUtybDBHQQ?oc=5",
       "source": "OsunDefender",
@@ -239,13 +274,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Youth Apathy, Political Thuggery Threatening Nigeria’s Democracy – Stakeholders",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFlreFNHQVB2eWZXZHR0bzlRVDczcEFHblFRSXdzdG1GY2ZEa2pYSktoZjlJOEhOU3UtRkJiWl8xdUZPSFlsZzRRdVZqdlJ0ZVE4bXNYbmtEaS1LZVdrdjVHc3VwWEY1R0MwOWxZZ0l6UzBla3M0UmQ2ejQ0WEFfV1JGRWE3WGZ5cWZPWGhtTmgyZUM1T1Jod0o1ZG9Obm8?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Wed, 12 Aug 2026 06:18:22 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Afolabi Babawale: NSCDC Intensifying Intelligence Gathering To Arrest Infrastructure Vandals Across Nigeria",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXltaElOa1ZON2pKX2RjaFBsQUl6UXMxS0hxaEx6cmZBRm9qTmNBZlkyTGxXZ0RFTW42ZmZNcnJEQ2JNYkF0ZGdKOFFSbl95LWRWQ0hsWjVRMndSRjVsMkppVWJfa3picjV1ZFVZR0o4S2dQaHJHMDlNZG50bWd6V1licEtzQTdqeExHWXZUa0JVeGZlTk1VZVhhdnVpSHhTRWNicjdfVm1BWlZtX3lGd3hVV0FBQ3Q2SEFjeEw0S1pfcUNmTTBV?oc=5",
       "source": "Arise News",
@@ -255,7 +283,7 @@
     {
       "title": "Joint Security Operation Rescues 16 Kidnap Victims in Kogi",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay1qTTQzcWFZMFN5QUZaV1VlSUlEQmxrdmozN0FYUXVqbVRIejhXT0tLRHFQOUl6eVlEaHZZVE4xa3NiR3AyUnA1cFlCY2tOVElsalF5bjA2akw2bE9wc05nR1VhSi0wZWlwQVNrakRRMzQxNHJEVm81NkVxekphaTFOVmg?oc=5",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "pubDate": "Wed, 12 Aug 2026 06:11:33 GMT",
       "category": "Military/Security Operations"
     },
@@ -281,34 +309,6 @@
       "category": "Security News"
     },
     {
-      "title": "Breaking cycle of violence, division and crime in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVWYkY2azdNNkxDZ3RrZHktOGtQVUVjRFN0a1djVnZYUFNhX1RaWnVjNEd1Rm5XU0JmbU01bHhKOF83aGFCT2NnRWZ2NzRSbjdrNjR2ckR4b3ZmeU1QaXRBMHFBTVNVNk9DRWFsSUkwSTdMSktfNWNCbndnRmNRQkN0UUo2WmttS2dPeG93?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "$14b technical skills gap threatens Nigeria’s FDI inflow, EuroCham warns",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmp2MlRXOWt2SHB1NWtVRzBvTlRwV0VZRFh6TldSai1IYVdmVFM5YkU2M0EtNHhxU0NXWTdrM0JzQ2psMUw2TFRoLVdsSmw0ZTVOczdIZTVuYzZlOW0xcDVuZUtQSS1qZVo4VDJTS2NrcFI2Y3JtVGRuVzBnQy1HUUZOd0k5UDdHMXl6cnFFRFI5bnotbTQ0VlZlUQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "AANI President: Security is Primary Enabler of Economic Growth, Entrepreneurship, Innovation",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTVKbms4b3U0VkJydXhQc3F6TE1vTnJVTTF4RXlLWHFocnJXWkhmSkpCUEF0RkVOZlFnUzktNW5wVnhrLUFLbFpyTFNxMEhfMlJvWXQyWUdjQ2xXdnhzUkI4ZG8xLUU0WENSYkl1RUhCTU40Mk5FTGJaZFBuNThMdXV0NG5mRlVLb21nV2NhVTF0YUxyNUdFWC1ISUJRdkN2ZkpEZTljdm5CRGJWT2R0ZVRQOVNaUUZmelc0ZjNxTWlzOFdvYXZkdw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 12 Aug 2026 03:51:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Atiku Questions N144.86 Billion Safe Schools Fund as Insecurity Shuts 40 LGAs",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXpPTzRrWWJmSkk3WmF0aktwX2VMcktmOG5tOHk0ck9adGVBcUZSMk1oWkhmUkJ4VHpqdnFKMVdDN2xJN0ZER04yYlZrcGduUzRVYl9lVUFiOTFXR3hzbjVibktBdGFyY2xVV2cwX25heHJVdmg1b05kMThaODZyMDZFUVlfbXFJVlNIZ05KUXliTnNhTjZUN3d6bTFYZGxGNC1LcGtka1hWVHBGaTNKWnZTRDNZTEU1?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 12 Aug 2026 03:47:56 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "How serious is the banditry crisis across Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOGRXWk4tMWoxMWZoc0Vnd1VfdEhPRG5nM29KWGhwNmFacmhNSjQtSUZENS0yYU1zR0pwZnN0cktUcng5WkxKdjV4cjJDNk5aTzY1MndncjlfZXRWMS1KX2d6ek9ZTjUxcTNXZzNTYXBlSmotdGVsb2Nn?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -323,10 +323,10 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "UK offers military base, air defence support to strengthen ties with Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUVBUUptOHZKb3JHSkpEOHJRUDA0WTZULVhsWTY0R2V4TWViblYtU1ZsZ0haMEs3ZmVoVHBabjdmSjJDaENiMXV2NHdPZnNHRUxxMkVVay1fdV9ybDFORXpEOUVST2ZtZnVuRHNxclJFblhnd21vWXlDY21NNXVjZHFvMy1NdFF0czcybnJyWDRSaVppa0V4OTlJOXU?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Tue, 11 Aug 2026 22:33:45 GMT",
+      "title": "Navy, NIMASA Renew Five-Year Pact to Strengthen Maritime Security",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xUFc4eUN2QzlQSEM5VU56YmtvZjBTS1VELUJ1RDdVcUl1eE91QWxrcnlTZHA2MEYxekFRVURnMnZGMDhmWHRqZHc4UW04cTExYjVSelVRYklHMnBabXlYM1c4OTlxM1NxMzJDSmthVVBxdw?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Tue, 11 Aug 2026 22:13:00 GMT",
       "category": "Security News"
     },
     {
