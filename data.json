@@ -1,19 +1,75 @@
 {
-  "timestamp": "2026-08-12T07:25:20.676Z",
-  "generatedAt": "12/08/2026, 08:25:20",
-  "totalHeadlines": 161,
+  "timestamp": "2026-08-12T10:05:48.417Z",
+  "generatedAt": "12/08/2026, 11:05:48",
+  "totalHeadlines": 152,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Law Enforcement": 24,
-    "Security News": 103,
-    "Armed Conflict": 8,
-    "Military/Security Operations": 11,
+    "Security News": 98,
+    "Armed Conflict": 9,
+    "Military/Security Operations": 9,
     "Banditry": 2,
-    "Kidnapping": 5,
-    "Insurgency": 6,
-    "Traffic": 2
+    "Kidnapping": 4,
+    "Insurgency": 5,
+    "Traffic": 1
   },
   "headlines": [
+    {
+      "title": "Ten police officers killed in Kebbi attack",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1Nha003azNCWEJoRncyYVB2dksyOE5hRDk1d0hPUVNDQndSS19PNnE2RVVpTldrZXk4dElfcmQ0UDA5bngtX0pudk5JMVBhNXFmS0MtS1AzVXFLZFd1Q01RS2d5YlAxbXZMLU13MDZPaHhZZUlRS18wajhabU5PSEN1Mm8xQWttdFE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 12 Aug 2026 10:04:06 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Osun state election: Senator Francis Fadahunsi get police invite after 'kill them' video",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qUWR5Xy1OcjFxeTJTUUdBWGxZZjl3UjNpREZ0YjMtM2oya1l3WF8ydGFoWTQwZndTVFQwcW5aelVnRVBaMkxtbnJHbklrTUI1NFA4S3FDeGcyTWhG0gFiQVVfeXFMTXdjenpXWV9hbEJSaDBwbjczNHZTYlJQeS1qbGVrNklSdDJwbGpfaEpSWURIVlVtMUZobTA5dHphM1dqa2JUbGpaV2JFWXFxSjQ2amhYR2NUdmpRelh0T3FYU2c?oc=5",
+      "source": "BBC",
+      "pubDate": "Wed, 12 Aug 2026 09:15:45 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Family Demands Answers As Conflicting Accounts, Missing Phone Cloud NSCDC Mining Marshal Agada Levi’s Death",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDZMUkt5OUNtR1pUVFE0NngzeUoxQmVmVlJYSzVQdUh1akhjcDAtNElQSmkzUGVCSEFBbTlkUlFiWXQyQ2VIWWwzMDk1cEZWUmY3TlVoQkVUTmRYOXBRM2ZoeC1reXJ1NktzLWNrbnlKeEViNnVOUEJuR0I0bFJaV0RFSHNiaHhSYnV4NThMUnFVZFlBTXJJOXRCa21Tbl9HT2FkS0VSNkZSOXkyd3N3X1dmTW1rdG9xUE9vMzZ5UXc?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Wed, 12 Aug 2026 09:00:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Obi Denies Asking Soldiers To Reject Salary Increase",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGcVZVNVhpalRMMG03SHJfRU1Td09BWXVQUmZGYWZTOUktckh1WDBIQnZQcUF2dFc4QUFKWjFaS2wwTlhRMUVNclFUbWk1UlcweURLUG41WHJ4cmlQcldPNFl2UVlvOEVvV0hjX2p3NVJ1bGxuNUpDVUtqTlhKZGs?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 12 Aug 2026 08:56:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Osun election: Amotekun, others barred from participating in security operations",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVklXVjZabVVmSnJJQW13eDdmSzRpY2ZySzhUcXVIajFOS2ZKRjdvU21iVEc1SXYxREJkX180Z0Z0dkRZWDJzT2d6SWVoRHJOS2RYdTdDMjByVWpqNVFqVGJhUnZPYVl0S2NZZW9veFFHMTRIcHVRaHFyRDhOYUQ1V0huNDkxTFVReHpZVlByQVNlREI0cGYyRi00ZUVOVmtGTGljRTYxX0M5enYzcS1zaw?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Wed, 12 Aug 2026 08:53:01 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "AANI President: Security Is Key To Unlocking Nigeria’s Orange Economy",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG1ZUjhoSmxrQjFIdGxiY0ZHLVRHa1o0UHBlQkV5X0FUcEh1Y1dRekNyanB6eU1nY0hUS2dXWlBiZzA0VDZmdElFS1Q1d1FHU2o4Y0VBZ0lwMG9uVjFsM3ZxN3pLd0FCcDJmWUlUek5NNlFpNDlYajkwZzBfNV91RW5Bb1puYTRDdUNXWUlHbmdfRVE?oc=5",
+      "source": "Arise News",
+      "pubDate": "Wed, 12 Aug 2026 08:31:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Osun Election: Police bar Amotekun, CJTF, hunters, neighbourhood watch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmpXNzcwY3I1WklKTnUzVGxmbGg2OHNKYVhPdVZBZGNLZ0o5R1ZjOEJFSDlUem9VbTB4SVJPWHlBX0hWc2llemJWa2x5bDZmWkpwTTkzSlBCR3hjaTZRTUdJaE80dTlmMHIyNzRaNjI5TUxKQnc5MzdOQ01zdnhNMlZ5cDBycUJvNkRCYUJ3UGRHWEJmdmEzX0VUZGFNdm5VQjRwdW130gGrAUFVX3lxTE03LWVoOTgyQl9NOXgwT3NDVElTa0NBbU1XN2J3cTlMSnJhQk9FcGdIejlGakliRXlKVlpSZ29tblUtaE5mbm1HM3FHLVBYNWd1X09VOThrM1p3bDFLa2h6Z250OHFvdmRBMXFIZ0JjRWxVTGNOUEgwQlNWRl9ORjJnaFJ6d3dNMGtBTEhvR1owWnhuNjgxQzdDWHR1TGFvUlluZ0FWRGJPXzV0TQ?oc=5",
+      "source": "vanguardngr.com",
+      "pubDate": "Wed, 12 Aug 2026 08:17:42 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Information Minister Advocates Peace, Unity Against Insecurity",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnJQRlJwUnlHOENrVE5USHRzbjBQa1VLbkY1VkZCWERsa1ZjYkxGMFJkQWF3MnpYZ2U4WnFnNXU1N29TZHBHa2hCWVpkVEVqdlVOYXFSSWxIQWlGd0kzUEctdWVjaGtDazZwdmJfMW9hRWJJVHQzUW5DVWZPT3JFTjdxUHl5S0JI?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 12 Aug 2026 07:55:37 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Police Warn Against Violence, Deploy Security Agencies for Osun Governorship Election",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1ktcGFKaVVMd3pLbWh0T2Q3a1lfcEVRTWs0RWFNWTh0d3dXempSTFVtLTU2enF0NTgxM19hOUNLZ1l2QUdJUnVJY2VlVERQZ2h2NWdsdy16XzEzT1ZualZWWUNxV1NUaGVhb3FxQ3RldzlrYjN0NTg1ci1uOEtFVnNLdWkwYlR3ZVBYbThjYnV3ZG56MTJza3RNeWw0TnJNSkw0eWs4YmI0RlZOeExIN3BtMHVnZzQ0c2NWVDhCNXR6LTJxSGMyVU55V0VMZjVWQ3NF?oc=5",
@@ -31,7 +87,7 @@
     {
       "title": "Police warn against electoral violence, ban non-state security outfits in Osun",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVZtRFhiWGNIeGtoYmVOMnljaFN2d2Q2MEhrT3Nrd005dWNZRjZaSEEyU2VPbFlzWWJISWJpN3Z4UG5xS19pQzdickdQd0VSNFloTEFmcmZkd3Y4NW0wcVh3MTk5RWVMRUtNb1AtQ2hKa1E5Y19lM29IN3k1cU5uSElfVVNhZm5hUXpWU2p6bEY3Z3FrNDB2VG9uSDliNjVyeTM3dkNnd1hrMl81RmRIOW9BWFLSAboBQVVfeXFMTUdaeFlhdmVSaGZFOFBSbW9JRElTQXJhQm0zdEo3bEZSbWs5c0tEcm8wLWlkZlJfd2hfQ0d3UlRYNEtUdDZoYTVidmRWM1FudHJxdEdqU25sOXYtUnMxWVIwVVJnQ2YwRlQ1bVdMa0RsdVBiQ3RxeE96VEdkLTV0cFBRX081b0JlSmZrbE0zVS1ZSWlyQVFGdkMyS1NocVJhdmM2V3ktVnJhSGlTSzBJdzBFZ2NYempzZ0VR?oc=5",
-      "source": "Vanguard News",
+      "source": "vanguardngr.com",
       "pubDate": "Wed, 12 Aug 2026 07:00:03 GMT",
       "category": "Armed Conflict"
     },
@@ -43,25 +99,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Osun Police summon APC senator, Fadahunsi over ‘kill Accord’ comment",
-      "link": "https://www.vanguardngr.com/2026/08/osun-police-summon-apc-senator-fadahunsi-over-kill-accord-comment/",
-      "source": "Nwafor",
-      "pubDate": "Wed, 12 Aug 2026 06:44:32 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Top 5 Stories Of The Day | Tinubu Vows to Strengthen Security and Unity Across Nigeria",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTThfZFVZV3JGTHdXWVVhUFpPY0FOWm1YTE1DMG9HcFV1QkNrTkhHbDV1cTNnLU5SSVNRc052X1JzX19DNVlVRGRDZ3ZuQzZvVGt6TVFjVXpJaGliNWY3NHZoekhmcTlBakZtY19KWXRUSlc4TGllMFo3QU9DQWNjSEZ0OWVITGNrSE5RN3pzSnYzRnpsNkJ0SVExeXRmcmVfc1NBY1cxUQ?oc=5",
       "source": "YNaija",
       "pubDate": "Wed, 12 Aug 2026 06:43:19 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Infrastructure terrorism: How scavengers wreak havoc on public facilities",
-      "link": "https://www.vanguardngr.com/2026/08/infrastructure-terrorism-how-scavengers-wreak-havoc-on-public-facilities/",
-      "source": "olufemiajasa",
-      "pubDate": "Wed, 12 Aug 2026 06:29:00 +0000",
-      "category": "Insurgency"
     },
     {
       "title": "Police Warn Against Electoral Violence, Announce Security Plan For Osun Governorship Poll",
@@ -87,7 +129,7 @@
     {
       "title": "Joint Security Operation Rescues 16 Kidnap Victims in Kogi",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay1qTTQzcWFZMFN5QUZaV1VlSUlEQmxrdmozN0FYUXVqbVRIejhXT0tLRHFQOUl6eVlEaHZZVE4xa3NiR3AyUnA1cFlCY2tOVElsalF5bjA2akw2bE9wc05nR1VhSi0wZWlwQVNrakRRMzQxNHJEVm81NkVxekphaTFOVmg?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Wed, 12 Aug 2026 06:11:33 GMT",
       "category": "Military/Security Operations"
     },
@@ -97,13 +139,6 @@
       "source": "Pajhwok Afghan News",
       "pubDate": "Wed, 12 Aug 2026 05:48:45 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Osun election: Adeyanju writes US, UK to sanction Fadaunsi over alleged threat",
-      "link": "https://www.vanguardngr.com/2026/08/osun-election-adeyanju-writes-us-uk-to-sanction-fadaunsi-over-alleged-threat/",
-      "source": "olufemiajasa",
-      "pubDate": "Wed, 12 Aug 2026 04:41:21 +0000",
-      "category": "Security News"
     },
     {
       "title": "South-West group urges Tinubu to assent to State Police Bill",
@@ -120,6 +155,13 @@
       "category": "Security News"
     },
     {
+      "title": "Breaking cycle of violence, division and crime in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVWYkY2azdNNkxDZ3RrZHktOGtQVUVjRFN0a1djVnZYUFNhX1RaWnVjNEd1Rm5XU0JmbU01bHhKOF83aGFCT2NnRWZ2NzRSbjdrNjR2ckR4b3ZmeU1QaXRBMHFBTVNVNk9DRWFsSUkwSTdMSktfNWNCbndnRmNRQkN0UUo2WmttS2dPeG93?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
       "title": "$14b technical skills gap threatens Nigeria’s FDI inflow, EuroCham warns",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmp2MlRXOWt2SHB1NWtVRzBvTlRwV0VZRFh6TldSai1IYVdmVFM5YkU2M0EtNHhxU0NXWTdrM0JzQ2psMUw2TFRoLVdsSmw0ZTVOczdIZTVuYzZlOW0xcDVuZUtQSS1qZVo4VDJTS2NrcFI2Y3JtVGRuVzBnQy1HUUZOd0k5UDdHMXl6cnFFRFI5bnotbTQ0VlZlUQ?oc=5",
       "source": "The Guardian Nigeria News",
@@ -127,10 +169,10 @@
       "category": "Security News"
     },
     {
-      "title": "Lassa Fever: Nigeria Records 237 Deaths, Fatality Rate Rises to 23.7%",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlo4d25TTFJ2dFRjZW5DelYwYUpLbWpCQ0JvbXF3Q2FBaVhfSkZuS3NVMnBBYTduakxXWDNHdWRGWEZramhmcWNjOG9xeXo2ODJDOEVfSTFrWW9rUVJLQlRQMzJMYmNGaVBtS3NDa2dfdW5NZmJERzlGNWI4Ukk5RFB3ZlRuQ1ljVklWdEJhOWw1d01ycGxJWFhZVWN1aDE2UkpZS082dkVNZw?oc=5",
+      "title": "AANI President: Security is Primary Enabler of Economic Growth, Entrepreneurship, Innovation",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTVKbms4b3U0VkJydXhQc3F6TE1vTnJVTTF4RXlLWHFocnJXWkhmSkpCUEF0RkVOZlFnUzktNW5wVnhrLUFLbFpyTFNxMEhfMlJvWXQyWUdjQ2xXdnhzUkI4ZG8xLUU0WENSYkl1RUhCTU40Mk5FTGJaZFBuNThMdXV0NG5mRlVLb21nV2NhVTF0YUxyNUdFWC1ISUJRdkN2ZkpEZTljdm5CRGJWT2R0ZVRQOVNaUUZmelc0ZjNxTWlzOFdvYXZkdw?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Wed, 12 Aug 2026 03:51:34 GMT",
+      "pubDate": "Wed, 12 Aug 2026 03:51:29 GMT",
       "category": "Security News"
     },
     {
@@ -155,32 +197,11 @@
       "category": "Banditry"
     },
     {
-      "title": "AANI President: Security is Primary Enabler of Economic Growth, Entrepreneurship, Innovation",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTVKbms4b3U0VkJydXhQc3F6TE1vTnJVTTF4RXlLWHFocnJXWkhmSkpCUEF0RkVOZlFnUzktNW5wVnhrLUFLbFpyTFNxMEhfMlJvWXQyWUdjQ2xXdnhzUkI4ZG8xLUU0WENSYkl1RUhCTU40Mk5FTGJaZFBuNThMdXV0NG5mRlVLb21nV2NhVTF0YUxyNUdFWC1ISUJRdkN2ZkpEZTljdm5CRGJWT2R0ZVRQOVNaUUZmelc0ZjNxTWlzOFdvYXZkdw?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Wed, 12 Aug 2026 03:35:35 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Pay to track: Nigerians forced to fund police investigations despite billions on surveillance",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVdBS2tMN1hLblVFRTRqMl82RXpIaXJRNHJDVmpuRWhoWWc1XzVzcGkwQUVteTc5ZUhJLUR1VFN1TjdzVFBreGNydUdpVGQ2YjMwM2k5MWdlN1Y4M2xYZ2RHVkNXMkhVN1lRejNoQmRkQ1huTXhMeUtGaXp5SW5LS2RYanFRYnNWVkRsWnJpYVRpcC1wVXF4eWdvcmUyLUYtazdwODdFMVBsNElzYVNhek16TEJDLXlWSlFkTGRn?oc=5",
       "source": "The ICIR",
       "pubDate": "Wed, 12 Aug 2026 03:35:05 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "NANS urges extension of NELFUND to Nigerian students abroad",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2FmOHEyNF9JV3dqa0RKUjNtMUZqMUtBaGFrWFM2U1ZER3ZhZTNJQ0YzeUNvWjdPbU1BTFd5R2d2c01uQ0JyQlRxZG5MNmd3ejlyeWtYMHRab0xkdmhrOEVLb0U4eWNDanpJc2Qwb0IzMExmS1N2cjVfVDB1RGFpUk9CUE91Q2hRQ1NQejRR?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 12 Aug 2026 03:27:08 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Breaking cycle of violence, division and crime in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVWYkY2azdNNkxDZ3RrZHktOGtQVUVjRFN0a1djVnZYUFNhX1RaWnVjNEd1Rm5XU0JmbU01bHhKOF83aGFCT2NnRWZ2NzRSbjdrNjR2ckR4b3ZmeU1QaXRBMHFBTVNVNk9DRWFsSUkwSTdMSktfNWNCbndnRmNRQkN0UUo2WmttS2dPeG93?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Wed, 12 Aug 2026 03:27:04 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "I Never Asked Soldiers To Reject Pay Rise – Obi",
@@ -204,20 +225,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, UK Deepen Military Partnership on Intelligence, Technology, Training",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MHJUS2VvbzBEVjI5aGdGRklldnNuOVpKUlUxcE5CeXZWUHhqeS1lSWFvYWc3QS1TUHpWSHdFRGttQk95bW51UmktNVlqc1RPblZCaXl1cmEtaHNEUmJLbnZZUzhfaUtR?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Tue, 11 Aug 2026 22:18:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Government Frees Over 300 Hostages Held by Islamic Jihadists in Sweeping Operation",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmJhWGo2NzZlRGVsZzJJR3BlR2tUdzBNeWpjWGRrX3lwSTVfOUJhNmprV1lYeW5ZUmljNEVtU1ZvcmkwaVhPSGNRV3FnRFFtT1RodUU1RTNlVmIwTU9jTW9ZYURNaVJYU0JGenZoUmxWbFk0VXBkUkliZDhsYktZNEFRUWo3YjctTjNWczlaYm9VeDRwSFl2aTJLbDlBUXJvNWtOSVBva1M3NHJMVmR1X2otMWZCVjA0ZVJETGZiVzRHalN6ZVBBMWdJYUtJak1mU1d3RWs1SkE1Zw?oc=5",
-      "source": "Billy Graham Evangelistic Association",
-      "pubDate": "Tue, 11 Aug 2026 21:11:37 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "ONSA unveils monthly newsletter on Nigeria’s national security",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTliaDczeV9pQ0p1Q0pBMmswSzhacHNFNUZLZVZaZGQ3YlpCcWhuVkhBbFhNLXI0UXZvZVpKdWRJUEkxTmQyNzRtQ2RCVU9NaFJxRVpGTjE1Mnc1b21VcTFIQnlLcmdud2t2WWQ0TjkweXY4MlpSclN3dl9hWFFhUEZ6dEs5aWlJOUEwWXpaWGRLdw?oc=5",
       "source": "Daily Nigerian",
@@ -227,16 +234,9 @@
     {
       "title": "FG Moves To Strengthen Health Security In South-East",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUY3WERSbGdfV2pLLTdnbGtnTk1XanNVUG9ub2otN2Yzbkdsbm1VX1llYk9aaWpPajMxcFFRN2R0bXNiRV8wb25mZ3ozdWhUamRzQ29wbjRmb25SX3NfZ0l1ZWVFV2d0RWpnOHZhWDNSelVDMU5yMkE2NUtrS0FzRlhB?oc=5",
-      "source": "Independent Newspaper Nigeria",
+      "source": "independent.ng",
       "pubDate": "Tue, 11 Aug 2026 20:13:49 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Family Demands Answers As Conflicting Accounts, Missing Phone Cloud NSCDC Mining Marshal Agada Levi’s Death",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDZMUkt5OUNtR1pUVFE0NngzeUoxQmVmVlJYSzVQdUh1akhjcDAtNElQSmkzUGVCSEFBbTlkUlFiWXQyQ2VIWWwzMDk1cEZWUmY3TlVoQkVUTmRYOXBRM2ZoeC1reXJ1NktzLWNrbnlKeEViNnVOUEJuR0I0bFJaV0RFSHNiaHhSYnV4NThMUnFVZFlBTXJJOXRCa21Tbl9HT2FkS0VSNkZSOXkyd3N3X1dmTW1rdG9xUE9vMzZ5UXc?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Tue, 11 Aug 2026 19:11:37 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Akume: Tinubu transforming Nigeria’s infrastructure, education, security",
@@ -265,20 +265,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Tue, 11 Aug 2026 16:03:20 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria’s aviation industry loses estimated N2b as unions disrupt airline operations",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc0RwQUVPSlhndWZpMFJ6MmNseUVyNm10dlRWSmFQVm1fYXd2OWVvU3JnVnRONGsyZ1UzUDhRMkhjM1VlNnkxdTBxNFRsSFlaM2FjR0xoY2FPRFdzVU9jM0t4ZDdxdWtUcUh1czZXUFN5M1hiY2Jvdm5kNlVpenVZYk80cnNUeXlManM4SGh0MW5KOTRFMGt0eWxyaUVMSEI2TDJLcXJjaGM5MktFVFB3T0QyYm1pclpWeHVqNWxYUlJYZjFfODNDYUZnWmxUcnR5MThhNGZyVQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 11 Aug 2026 16:03:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "NIGERIA–UNITED STATES DEFENCE TIES STRENGTHENED AS MINISTRY HOSTS FORMER AFRICOM COMMANDER, GENERAL WILLIAM E. WARD",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZVdMdHJKZUpFVFBiT0tZOHowUFJoU1BkM0sxNVQ5RVZ0MjlWaHJpc0xkWDc1YV9PbzBoa3UwaGg3aTVfR3AtRk1aekw1U1BuWlFWaHN4QlRvdElWak9WUzJIbHJaLVRQRkVwdnJSM1BGMGFoYThGclpuX0hxLXJaS0VmMGZOTFFpVENXaVVxei1mempKelkxcWM2RERJdVpQbnJpY3k1Vk9hSVZFVkR3Sktpamk5Z0ZRbEJCRTRNMW5fM2J5eE1OQjhsTUN0Mjg5ZG52SFVQSnhCUUtHYnF5SHA5dkZPRV90UW1Yc1BkTjNyUQ?oc=5",
-      "source": "defence.gov.ng",
-      "pubDate": "Tue, 11 Aug 2026 16:01:20 GMT",
-      "category": "Security News"
     },
     {
       "title": "Obi reveals military agenda, denies asking soldiers to reject pay rise",
@@ -311,23 +297,16 @@
     {
       "title": "Delta’s Peace, Economic Growth Enhanced By Security Collaboration — Oborevwori",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFZTa2JPQUJsMWpDXzhWVU14NEFRMjFxZi0zclNwQ0VsbjJjSG9JRl9zd0x2d3VjRFdMczRyanRObXlkdDFjREIteGhOYUhWYmxQdS1nNy1HM3pHb3NJSGJBUVc1aUJLaWNmVWVYV1ozRTZLVkl0Q25iUHQwWEtWbllLSW43TDdna0Y4alFIR0VJajZ6QVl0UHhhakZOcjg?oc=5",
-      "source": "Independent Newspaper Nigeria",
+      "source": "independent.ng",
       "pubDate": "Tue, 11 Aug 2026 14:44:40 GMT",
       "category": "Security News"
     },
     {
       "title": "Anambra: Commissioner of Police Assumes Office, Pledges Enhanced Security",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHlWNGoyWWFxdGdlLWRfSzJPUTRjY2xyWW5rNlA4Wl9xMy1lYXRPS3poX3BaSkNiT2NQYzMzb1c2MGFTQ2FYZG9OOTFBSDFnODFWTmFCeWlKREQ5VDk4b1VsUmVMc1lZS2twUlRDMUNGZDFlMW5OTmt4M3FxTVZRSl9CTl9XWkl0ckMzUXdia3RySUMxNmc?oc=5",
-      "source": "von.gov.ng",
+      "source": "Voice of Nigeria",
       "pubDate": "Tue, 11 Aug 2026 14:37:29 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "How to apply for Nigerian Army 2027 Short Service recruitment",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnEyZDlvaEFWa2lHdUFWc0xOS2lxR3dHbDRvZVpBS05LNVJlM2VUVmpGNVltNUhJdzkxWHRTYlpHRVNZX2NMNUZSTmtDRU93N09OU09wLWhVOXRCTjM2OVo3SVBjSUVLSFMwUmpwNFp1NWRDSUo4YTgxUm1qNzI4MVV4QmNFY2hqMUE?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Tue, 11 Aug 2026 14:30:25 GMT",
-      "category": "Security News"
     },
     {
       "title": "Peter Obi Denies Asking Soldiers To Reject Salary Hike, Says Report Is False",
@@ -363,6 +342,27 @@
       "source": "Punch Newspapers",
       "pubDate": "Tue, 11 Aug 2026 12:27:29 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Enugu Governor Lauds Security Agencies Over Kidnappers’ Arrests",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUQxNzhwQnNpRy1TTTRZa25kXzF2dWNSOG5JMVJkcEtTQlVhXzc5MXNQN0ZEWXJUOXNBTTRxNXVRZDJSRnVOcWJ5X3B1MDg1NXVOczMwQS04LU5VSjJrUTQta1RCUzdCVXRROVlKczBEYlBqMllmMVBNSWY5dm01OHc4V1JLR2REUVE?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Tue, 11 Aug 2026 12:26:26 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "In Kaduna, TMDK Group is strengthening Nigeria’s energy, food security",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1ZaVDhkdzdwQzZIbGdEVHZZX2RSNm1oTXZzVGY2eEQwMnhXTmVYdTFhTVNmenNMVWdqNlI5TzctRlFmVDZfbGl6RWRkNTZ2N2EwcWlFNGQyWUNLdUJoQllEVlpMbC10UEJTcUVhRWN6bFdVd3FOTC1aQ0MwSElpaUdMbm9Td1V2cGZkRHZTZWhJY3dVWXQyU0o0VXdxalVoQ214Y3BzTnMxX1RWSWVyQUN3elktMG90bDZRUHdraUczQmNydGJoMnB1Y2JnUQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Tue, 11 Aug 2026 12:10:08 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "How DSS DG is changing security-media conversation",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1lZdmp2SHZCQ25oeHZGSVlxNmd6ZGhmU3EyWmFmUzd2ZnM0QlpYeFdneGNCc2owWlFGRks2bUhYT2JJM0lCakthNENBZ09NdVRVWXVDYk52U3g5eWJfbGZiNUI3UTNLaDNJM0xzLTRsZnBfX0dSQ045QnBQUVU2Xw?oc=5",
+      "source": "TheCable",
+      "pubDate": "Tue, 11 Aug 2026 10:35:00 GMT",
+      "category": "Security News"
     }
   ]
 }
