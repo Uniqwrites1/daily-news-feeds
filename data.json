@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-08-22T15:21:11.564Z",
-  "generatedAt": "22/08/2026, 16:21:11",
-  "totalHeadlines": 169,
+  "timestamp": "2026-08-22T18:31:06.107Z",
+  "generatedAt": "22/08/2026, 19:31:06",
+  "totalHeadlines": 165,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 111,
-    "Kidnapping": 8,
-    "Military/Security Operations": 6,
+    "Security News": 113,
+    "Kidnapping": 6,
+    "Military/Security Operations": 8,
+    "Law Enforcement": 10,
+    "Armed Conflict": 8,
     "Banditry": 5,
-    "Law Enforcement": 12,
-    "Armed Conflict": 7,
-    "Insurgency": 11,
-    "Traffic": 9
+    "Insurgency": 9,
+    "Traffic": 6
   },
   "headlines": [
+    {
+      "title": "Nigerian Government Approves NIGCOMSAT-2A, 2B Satellites To Expand Broadband, Strengthen National Security",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTdoT2NTNklQRjQ3aUhEZWhMcFNYYXJlNjFrT2VZS0tyTU9VTFdKSFV6Y0l6VU5VRkx6NDR5NE9vbTNoSG5JX3AzY1B5TjVQUHg5d2kyUzBDQmlJTlMzQ1gtN2dFMW5KdGZ2Q3dfVzNpSGs2azBNMFFOQmtMc0IwYWRtdGRoT2VXODJRZ0RraTBzYzRydTZQcXBLRDRmNzUzOXdQMU9WU3FJbVI2ZGJoaEFlcjA4dTFWYi1qV3luVQ?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sat, 22 Aug 2026 18:22:30 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "IADA Boosts Itsukwi Security With Equipment Donation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejZPY0Q0SDZtMnhuM1d3clQ0NHpTUnA5QmF5X3ZpMi1FdHo5cUZYbmRPRjcxb25CVUpoNHl2XzFhZWdVM3N5ckluak5seUZ1Wm9zV0xDMHhtRkhwcFp1NGlMckxiZXZibDhvcFhWSUlDdFlEQ3V1NjA4dDFTUUloUW5n?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 22 Aug 2026 18:03:53 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVYzV1NYTEV6SG9YWXBFVWpVZ3I3azdraDM1ek93YkhuRFpKdDF0Q1NMWWwzZEZ2Z3lDNUFaNjRSTFpOd2hRQ0FMbXc1ZmlnQmFkQlhWZTJlLW5ZeDQyQzhHMlZ0UVZJX2JRaGJNbGhrS2RaUktGWWc1NVFzbXZtREJ6VWJjMWo4NUVRM0tmam9iWnpHLTVWc1RFaEnSAaIBQVVfeXFMUDNoSWFCRjdhclc5X29IV3hDNVZNUGRpaEg3UVh0aHFXUzZ1MlNsVnZTdlhwbThMTnJnUmFjWnBqa1EtTE5PTW5tUVJMZHVETWRBa0I1TjdfZHdFY2lPeFdqeExOZEhiM1M2TXNWZjZINUxYZEVpck96VmxOUDNwa2JodE1FRDFQV2docDJ1UkJPRm1ZbldpbkRjalJZR2oyZDBB?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Sat, 22 Aug 2026 18:03:37 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Women’s Leadership Critical To Nigeria’s Security, Says Defence Minister",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1hiSWMyNDVUMWxLRTh4ay11QVpHTzhRQ0pQZm50Vm5XWkp2ajV5ODFydFBMTWswY05icHZ1dWRpVGpGU003cGhIZklvWUMtWWpxaUhSZVpKLW5xSVFrU3EyRkFYZXNPWHJWN1NzZnVXVU16cFhZR3V4blpWQjZaV3NNN0VSR0c1d1RDenpTOHlGSGp6Skl5UA?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 22 Aug 2026 18:00:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Troops kill scores of terrorists in Borno airstrikes",
+      "link": "https://www.vanguardngr.com/2026/08/troops-kill-scores-of-terrorists-in-borno-airstrikes/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 22 Aug 2026 17:14:24 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "DSS intelligence operation strengthening Nigeria’s stability, says group",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2ZiRkktOEZ5N1E0X2FjelMwc212WUNwelRma2tOX2tfS2hoOTFBb1NJWnBYNjVublcyWnNqZG0tbkhYcmNJZHBWRmJNMzVxM3pSQkx4M2E1TnFubVR3blgxdUE5UF90b2JKUFZlSkdTTV9rMUVYUlpvWVJJWWFyQjdjdHpGVl8zWjhzVUw5MlRyQXVRSWtQOEgyRG9FcnUydEpB0gGoAUFVX3lxTE9tdnUwR1h5M3k2bDVKQzFMMDhGU1gtM0NrbUNJLTJlVWI5Y3BIallGeWdielplYy03c0U4MzhXdVota082Sm9hYnRSV0toUXpBTWVzWG80ZVVYWW90cGtpX3lCc1kxQ1hsN2VzaTM0RDhjMk1jR2RGeUpLbkhUYUVoNjM4eHlTUTVvczJGMDR0dExOT29UWU9INzA1YjZDME1GZHc4SEpUYg?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 22 Aug 2026 16:55:05 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQW9nN0hab1k5UkN2MVltY2prdHNpMXlUTmVnMVZ4bkV4SFd5MlpKWHRQRjZ6MnlDRTdZVW5MUGNrc1dGWW9fTHBLUFB1Q0xLYVNvNHRHRlA5TkNpOFo4eFVMcG5XeHNxdHJLakxPTy1MREV4SzJVSmV6bXBlTnQySm02NjlyTVNTdlJkRW5BSdIBjwFBVV95cUxOM0tzd19GTEdqUDhvY1FGOUljREZFM2RQamYySVNTaGQ0WENaZkhOMWFuc3VqVVRlNkpJUm43cFNnUlRmWWNWel9xYkd5Q01qbk4wdnBfNks2cFFSNVNmalk0elFPMEJSXzFYVURXYnpMRklQbzZFMG9wS1Y5b1ppQWpBdWpJQWEzaTY3Wlg5RQ?oc=5",
+      "source": "dw.com",
+      "pubDate": "Sat, 22 Aug 2026 16:31:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Desist From Political Violence, IGP Charges Nigerian Youths",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUFPQ1lVekYwWDllMDdFTkFxUXFjTFAtbENVMzhZZV9uRGZLLWhQQU5xX3dpRmJKR1FoWktTbkdJWkpDN0xFc3hIZkU3NmNrcG5OMG1OX2xyRTNwM28xX3FOel81UmV0UDZYYXhJVTl4RHpQT2x5T1BaZkxCcnV6azdqREdiMjJf?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sat, 22 Aug 2026 16:14:26 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Dispatch rider dies in Lagos accident",
+      "link": "https://www.vanguardngr.com/2026/08/dispatch-rider-dies-in-lagos-accident/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 22 Aug 2026 15:51:50 +0000",
+      "category": "Traffic"
+    },
     {
       "title": "Tinubu Campaign Council mission dead on arrival — APM",
       "link": "https://www.vanguardngr.com/2026/08/2027-tinubu-campaign-council-mission-dead-on-arrival-apm/",
@@ -30,7 +93,7 @@
     },
     {
       "title": "Dozens of people abducted in attacks on villages in Nigeria, police say",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93aDFVNW1PWU40RzBsUWFRYnB6Z01XWHlaaXBONFpwemZSSDhLTzNXOTFFSXNFYm1kaFRnNFA2ak9Tc0I4MEJibXc2VkJUZ0dZX09hSHZKNDJ4WEk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsblItclkzS1pXem9FU1lIOEN4UUkwOUZQNDVRbXhLNWNJX3BPbWlpOTMyVGREYnBrcVJDemthbldPMkRrRWdSTHJOZE5OYmZyamJHT2NuYmJCZw?oc=5",
       "source": "BBC",
       "pubDate": "Sat, 22 Aug 2026 14:11:33 GMT",
       "category": "Kidnapping"
@@ -50,13 +113,6 @@
       "category": "Traffic"
     },
     {
-      "title": "relatives of ISWAP terrorists surrender to troops in Borno",
-      "link": "https://www.vanguardngr.com/2026/08/24-relatives-of-iswap-terrorists-surrender-to-troops-in-borno/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 22 Aug 2026 13:40:12 +0000",
-      "category": "Insurgency"
-    },
-    {
       "title": "Military political arm still infiltrating Nigeria’s democracy, foreign policy experts warn",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnlzVzk3X3dYN29VbXAxRU9JWHZGMERpTzNKZTN2VFlURE5kckY2WDJtS25vcW93aVI0MUlsNm9yODZDWkh0ZXVpSG1sUmwydlZZemZoU0RxLUpURmdjXzBRVGZ0dFNXeVFEczExRDJGajNLUk1HMWFuRHh1ak5JY3V3eEJIbzhRTl96eldGakFlUi1XX1Q1OE04ZHcwN1VBemQzZzBkNWFSTTRBN1FnbGoxRVFIRG93NldqaEtic3k5anfSAcgBQVVfeXFMTnI4MnRiOC1zdFVwM2stbW10MDExQXpqQVg3NGU4d0ZkZG41VzlUcXlSWGlxaE9INWw1SzdXMlNQczdnMW5IMWpGWk9Ba0w4RGNMTHQxNnpfcFVvcDROTkNxMlBINGNRVlFTa3hKSm5SNjZMV3hsSFpUUHB2MnJCV09pZE1QQmREcW1QdXRRRE1Qamk3TlVwYmlpMTBLYW9wcm5lZTZNWTdJSERsUGtncjF2bkFIYzRmTTVnVThsY3dZVG1ETXVRcjA?oc=5",
       "source": "Vanguard News",
@@ -71,13 +127,6 @@
       "category": "Security News"
     },
     {
-      "title": "Lagos commences move on construction of Ikotun-Isolo road intersection",
-      "link": "https://www.vanguardngr.com/2026/08/lagos-commences-move-on-construction-of-ikotun-isolo-road-intersection/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 22 Aug 2026 13:16:00 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Ugochukwu Anyiam: Nigeria Must Negotiate With South Africa To Stop Airport Arrest Of Citizens",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYU1CV0QzNGF4QmtVSXNiZWUxelAxZTVqYWlTcDZaSms0TnZqZkRva0NXdjVvSl9sU3pXWnpvdGFXWXRpNHFNRVB0UnY4RV9wWllDNDZOQUZaay10VnZBN1NqSGVPY0F2VUV0N0ZnTVNaek04X25jNDNTOVp0eTJHRjVLV1RnUVNTNVVDOC0zNzZEc2Q2dld1UHJMNUlNekpHUmpVVVlJcUpEWHVqck9acmtSd04?oc=5",
       "source": "Arise News",
@@ -85,53 +134,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Troops rescue kidnapped victims, foil terrorist attacks in Kaduna, Sokoto",
-      "link": "https://www.vanguardngr.com/2026/08/troops-rescue-kidnapped-victims-foil-terrorist-attacks-in-kaduna-sokoto/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 22 Aug 2026 12:15:30 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "FEC approves two new NIGCOMSAT satellites to expand broadband coverage",
-      "link": "https://www.vanguardngr.com/2026/08/fec-approves-two-new-nigcomsat-satellites-to-expand-broadband-coverage/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Sat, 22 Aug 2026 12:14:31 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "Troops nab suspected gunrunner in Plateau, rescue kidnapped victim in Edo",
-      "link": "https://www.vanguardngr.com/2026/08/troops-nab-suspected-gunrunner-in-plateau-rescue-kidnapped-victim-in-edo/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 22 Aug 2026 12:10:04 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Nigerian Government Approves NIGCOMSAT-2A, 2B Satellites To Expand Broadband, Strengthen National Security",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTdoT2NTNklQRjQ3aUhEZWhMcFNYYXJlNjFrT2VZS0tyTU9VTFdKSFV6Y0l6VU5VRkx6NDR5NE9vbTNoSG5JX3AzY1B5TjVQUHg5d2kyUzBDQmlJTlMzQ1gtN2dFMW5KdGZ2Q3dfVzNpSGs2azBNMFFOQmtMc0IwYWRtdGRoT2VXODJRZ0RraTBzYzRydTZQcXBLRDRmNzUzOXdQMU9WU3FJbVI2ZGJoaEFlcjA4dTFWYi1qV3luVQ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Sat, 22 Aug 2026 11:18:37 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "NSIB Releases Preliminary Report on Enugu Air Accident",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DY21zejM4Z0psUEJYRkNXZlREb25nU240WldiendWQW1Yanl6NUE4MzFmTU9KaENBM29sdEljVWZtcVkteWs5VE5rakwyczVLT1hLQVJrVnBfSGtBdzNHMU40b0NvcjZIM1luZTdaQkQxX0NBd0lUYnNHTUp2M1E?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 22 Aug 2026 09:09:42 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "Electoral Violence, Impunity and Nigeria’s Democracy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEJ1cXdZUW5rc0p1Zktac29RSDVSMUJvaDhnR2xDZW9Ha1R4eHk4MVQ4YXlHejB5WVdONktkUDJ5QjNNUktiS19leHVRbGp6WDJoRDNQZURoYUl3RWhiWjk5a1lTUExiUHQtSWdjS2hqZWRaTE9SUXVaNmt6aWZwS0xaY05MZm9OY3kyUkdJRDBQd044?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Sat, 22 Aug 2026 08:31:05 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Police Chief Calls for Responsible Political Participation",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXZDS19uWFp2YkNJV2hKUjdFcXRmWHV2NlQtNDc5dFIzRVA2VDBVaVBDNmhwVmRMT1hBeXhDdldyNEU1a1hIaHpfVUNZUzBYdWxJZUladUhhcWo3a0xRdE5kQ1JLdzlFN3RnbDNEYjhOb2tzSVgxaTc4bkwxZE4xV3VBbkY?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 22 Aug 2026 08:19:18 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Gridlock: Nigeria’s Economy Takes A Hit As Hundreds Of Loaded Trailers Stranded In Ekiti",
@@ -162,13 +169,6 @@
       "category": "Banditry"
     },
     {
-      "title": "Nigeria still safe in spite security challenges — Okpebholo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNlZiNlJ0U2tNUnF1cmQwMERLSnAtUGhxc09DMy11aGZsckFEOVYyTXo5ZGVpMmkyRzVqcFpNNldwSXdaZVZCUk9xV2F4VFdYWEtDUVlnZklRRnE2NXhzZ2EtNWdScDFhbEt5Ymp6UkVxMi1nbUZPa2FvV3N3T3YxUVpKLVFSZ1o4RVdhNXM4MFU?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Sat, 22 Aug 2026 04:56:11 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "South-West monarchs meet Igboho to strengthen security in Yorubaland",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2VGNXRDeGY0Y0hkdjdSZnVhZ0ZxY1JvVmhyclc4WjVEVnBuY2NCQXRWRXpsUWRMenpKRkFsemVKbmY5bUxVbWpZUTlLcUpuVGtyLUJFcFUzY0IwRk9ON1I0cGtudTlmQ09JYmFDS3cyU3BPUXUzSzFVUjNTWGhlRnBuWTRsdGhRd1E4Nmt6aWhjSWhlRHVoTmhlOVI3czg3Y0E?oc=5",
       "source": "Ripples Nigeria",
@@ -190,17 +190,10 @@
       "category": "Security News"
     },
     {
-      "title": "Paramilitary recruitment process to be completed in four weeks: Board",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQem1YSmFJOWw1b3J2c2dnWGlJZmhjbjlmNUVPVnpBQmQtb2NFY09EWTJMc3VGTS13Rzl5OXhpUjdmajhFbzFNSVEyYXFwenRuZnhlYlFYRHNlVmd5NnM4LUY5YU9QYnlJaGYyOFFaYkpCTDJ4ZzhyTnVRenU1cTRZOHlvVE03ZWpIc0s0a3dxc3VlLXdiWjE4?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Fri, 21 Aug 2026 20:43:24 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "UPDATED: Tinubu suspends three permanent secretaries over fresh fake agency, orders alleged promoter's arrest",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR3RyR2dIVFlvYWZ0cllXdzh2WnAtTkU1RlNmRVB2Q2lud2lWM0xpQlpZVGZ5bGZzaU42TG9pSzVKQm1XTnpiT3Y0WnZacXU0X2w0YWVNY1JWUUo2RmVzQ1ZIR1NTOHJKVFBHU1FGU2lhRENvdFpuaTQ4Z2ZhRHQwRDl3T0RleFpBejk4NEJ2Uk0zUXFWXzh5YlJiNVh2b0s5V01MTGIxWWdObmpCV3k1RFVpNU8tYzVQSVlFM2o5RURORHpFQUpEX2JJTFZEZ0hHTl9lZV9keXBQN0xSTUotSENyMTdJMzdNS0RDSHJOWVFPSE9zVmFn?oc=5",
       "source": "Premium Times Nigeria",
-      "pubDate": "Fri, 21 Aug 2026 19:17:30 GMT",
+      "pubDate": "Fri, 21 Aug 2026 19:53:39 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -253,6 +246,13 @@
       "category": "Security News"
     },
     {
+      "title": "Ooni, other South-West monarchs to meet Igboho over regional security",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXpVUGk1NFowWkN0bUcyU1Q5ZWoxa2czQml5eVJRT2k2cU5ieXUtOXJFM1pRd19jNUhpMTFnVnZ4a0ZKSzdzMDRybUh6cEpVT0doWFRKYkMxREdQTk9HbVR1dEFkNlR5MW1aLS1fUFZaQ1ZXQm9hRkhNd1VwYlFUSzJ4eE8xWTJ1aTd4cWJ6RTZLQjQ?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Fri, 21 Aug 2026 14:45:59 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Nigeria, Germany move to deepen strategic partnership as envoys discuss trade, security",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDZ6YmJOazFkWnZ5WEZwbDZrXzg3QlFicjVkbDFlSWlFSXNRb05qQjR4NjRJblpaWlVpTWpnVGRxRDRIbDZhQmFtWEJzX2Z4dHZIRDRNQVVSY1Z6TDREblRUYkdyOER4NXZ4T1ZuMHJvbllWbEp4NzVwVk5aZjBQWGtJRDhmeXRPMFRaN1lIeUFjOXZ3NUFMZzRoNW9NS3dxcFQwWmtWUUFSQmFKVExZUWNYbEVVLVV5UUMzSk5Oaw?oc=5",
       "source": "Business News Nigeria",
@@ -267,13 +267,6 @@
       "category": "Traffic"
     },
     {
-      "title": "African countries remain on US security watchlist for ships after Nigeria’s removal",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmVJUnZpdElvSlV3NTdFNWFicUJvVmkyck1ZSjlveHh5eFFzaG9oUldrQWFyZk9RVm9mMVpqcXdzS19yeExpbHB6akZ1UDhSeHpta3pqTkU3VWFILVkxRFI2VklmMFJkMnpZVHAzTGdYU1BPRGJhY3Nzb005TzJua09RZFVwVEE1OExwZTR2R0NrQ0t6MGRCZkRMOVk0bUxlLTMtUUFrZUFOckdzMk1HY0ZjSlFvX1dqVTh0NldoWEJvQ0dDNVlkUGRZdGlBNHhncXhKOTVtdThzcDBm?oc=5",
-      "source": "Business Insider Africa",
-      "pubDate": "Fri, 21 Aug 2026 09:09:50 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Nigeria Unveils Agritourism Village to Boost Economy, Food Security",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVlQSDhkenhXcnhMMWxLY3MxaHp3OFBZUUtjZGU3aDBvY1VVZ0RWT3lGaHBtN2p0bFdjWk92YW9Pay1DenFQdzlUUU5mNERBQmI5Z2J1UFdXUkprUi01eWhRZjc3cEh6UVdXbXNnOEoxQWRWNk9oS0lLRmhIZXlnT0h6RHdpbUFfVHp2ZFNrZw?oc=5",
       "source": "Voice of Nigeria",
@@ -286,13 +279,6 @@
       "source": "TheCable",
       "pubDate": "Fri, 21 Aug 2026 07:43:00 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Death toll from Nigeria boat accident rises to 52",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXBWTWJqYWJ4cEpvTEhPNldFWVFwcFVMRFhMb0VFV0hLVWhFVHVhcG9mNU5Wb2hXcjNwVmRZWEUwVzZ6UUVqaU9qRDBNN0pMRmNyc1ViZG4zRVZ3SGRObkVGUC1kV1U2cUt6ZkJnbXlRWnhmWjVfb0JCTTV1ZGhfNUVfREo3UEoxc05kNzgyeWxCMzg?oc=5",
-      "source": "Anadolu Ajansı",
-      "pubDate": "Fri, 21 Aug 2026 06:39:45 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Mining Marshals move to cut illegal mining funds for terrorists, bandits",
@@ -362,6 +348,20 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkxuUGJUQmFpMXBpWU1RWHZFQ3dVVmE2YW40ZkhUbFhMdF80VWkxUWh2cnVNYVU5dWNpNFh2QUtYcUMwbDdDSzVCQjhtbllJSGc4WGc2Z1pkdjktWTYtN19MeUtUV3R6X3ZtbGlFMG1MR1JoajZEQzB6TWh0YVE5QkJLX1hoUG9mc3luZ1RsbXdwRE9xVE44?oc=5",
       "source": "Daily Post Nigeria",
       "pubDate": "Thu, 20 Aug 2026 18:14:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kano LG boosts surveillance with motorcycles for security operatives",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGtZQnpEMXQtYkl1b3pkOERnU04xQkxvVVBKbFpya2NIcnJKTEQyczc2by0xSFNpLXFXVXc2SXE4V1BSbTFDWUtLeEVrUXNpeFNHSTBGMkZSSkpkWVpLTWQtRjNLNFk4SUlVWk82M0ttRTIyRWhOdVB6cDNvWjBwN0RhVElOeTFlZzVLVGJSeTBvZlZ3ME1r?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Thu, 20 Aug 2026 17:22:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Osun Poll: Groups pass confidence vote in Tinubu, Amupitan, security agencies",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3lxUTFiYm9qd2tjWEUtbW90aTk5U19Mbm84b1RKZVVmdThYTVA3ZXZsWEJMTWNRMXJPTzBibHB3OWpibTAwVWZTbE5ReFhoYi1QU19XTnFVM1hoQzFvZ2szWmJFd21Rc1N1MFI0b3pibmlWc1p1amlWWXUyNDBzY0d0dEtyakZ3ZW5QczBkSU5tbHdlM19DeGVFcVd6R3VxVFE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 20 Aug 2026 16:35:00 GMT",
       "category": "Security News"
     }
   ]
