@@ -1,19 +1,82 @@
 {
-  "timestamp": "2026-08-22T03:41:49.112Z",
-  "generatedAt": "22/08/2026, 04:41:49",
-  "totalHeadlines": 176,
+  "timestamp": "2026-08-22T06:40:25.582Z",
+  "generatedAt": "22/08/2026, 07:40:25",
+  "totalHeadlines": 168,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 123,
-    "Armed Conflict": 8,
-    "Military/Security Operations": 9,
-    "Banditry": 5,
-    "Law Enforcement": 9,
+    "Security News": 114,
+    "Banditry": 7,
+    "Armed Conflict": 7,
+    "Military/Security Operations": 7,
+    "Law Enforcement": 11,
     "Kidnapping": 6,
-    "Insurgency": 10,
-    "Traffic": 6
+    "Insurgency": 11,
+    "Traffic": 5
   },
   "headlines": [
+    {
+      "title": "Stakeholders Seek More Women in Governance, National Security",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1BwT1JMX0h5MjYyR25LWUVMb1cwTUlaTEFZNE9XTEd1UmlCbDhrbUkwNDdOMzVBcEFzUzBlMjFORnkwVWNzUVI0MGNXRHkyc3FXY0p0S3pZbXlmQ29mbFViN1dBWHFMeldQMFRPamctdTFyX0FldzBQTmN2elg1WEE4UDU5RDA?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 22 Aug 2026 06:33:34 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kidnappers flee as police rescue 75 victims in Birnin Gwari",
+      "link": "https://www.vanguardngr.com/2026/08/kidnappers-flee-as-police-rescue-75-victims-in-birnin-gwari-2/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 22 Aug 2026 06:31:47 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Day Captives: FG, Borno intensify efforts to rescue 44 pupils",
+      "link": "https://www.vanguardngr.com/2026/08/fg-borno-intensify-efforts-to-rescue-44-pupils/",
+      "source": "Oboh",
+      "pubDate": "Sat, 22 Aug 2026 06:13:59 +0000",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Who will enforce traffic rules on Nigeria’s commercial vehicles?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1h4WHlOT1ducnlfN2t0YUZkLTVsN2dPLUx6T0w1Wl9aM0RRR1RoRlZzdnBqRTlBSkI0WXJibTh0LWVENTNDV2VRYXJOUFpaY09yMkg4YzBsdWlrdW1DWmQzMGZtVWRaWm5ZN0VDX05Vd2c1NmRvTmkwOFVCUXB5cFFwSTAtOEpWMXZmNWxneDc?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sat, 22 Aug 2026 06:08:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Informants are major obstacle to defeating banditry in North-West —Usman, Sokoto Security Adviser",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXByZFBiRnhNOHMxOTc3aDh2WHdSNW1abkNub1Yzc29NSDdEQkoyelF1cW1HWnhhNi1DVmVNX08yUkFWWVNpQU55ejlnTlUyWDNLMTd0S2ZPZ2VSNjVXaGs4a01jZEVfUWpDY1YxODVpdzlKT2laZUVZQ0hra25YSVRJbGpjekpJcEEtY1MyYlAxYUNGT1NwN1pid3NfbDIxakstdzU5Vkx4eVR0djJ6WUlkaks4Wk1yeDdCd0xwQ21DQQ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sat, 22 Aug 2026 05:45:00 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "‘Gunmen went from house to house, killing people who were sleeping’ – Survivors of Plateau night of horror",
+      "link": "https://www.vanguardngr.com/2026/08/gunmen-went-from-house-to-house-killing-people-who-were-sleeping-survivors-of-plateau-night-of-horror/",
+      "source": "Oboh",
+      "pubDate": "Sat, 22 Aug 2026 05:08:15 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria still safe in spite security challenges — Okpebholo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNlZiNlJ0U2tNUnF1cmQwMERLSnAtUGhxc09DMy11aGZsckFEOVYyTXo5ZGVpMmkyRzVqcFpNNldwSXdaZVZCUk9xV2F4VFdYWEtDUVlnZklRRnE2NXhzZ2EtNWdScDFhbEt5Ymp6UkVxMi1nbUZPa2FvV3N3T3YxUVpKLVFSZ1o4RVdhNXM4MFU?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Sat, 22 Aug 2026 04:56:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria and the Sahel: A growing security divide",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTndZX051LVhYM0NjUm13cEtWUXdZUWNqWHRZenk0RlFoTndHOFFaR3F2NDBmTkktT2VOdmZUYU1iTXJWcHFxYm0td25WWVFWQm92Z3VhN2RnMTE3ajh4Rmlubmd2ZE1XbWRWYVVqeS1oejg3ZjVkaE1EZGZ5eGJ4bFNWSUJIcGxCN1pMdGNyanFhQdIBlwFBVV95cUxQNWV0NjktM1QtMS1OZkJORXNjSldqQUJBVU5yLWtpOFM0T2d1VFZ2VEVSbXlpeFR0Qlh3OXgxd0lLQ254S3RYZmhLc2loWm0xNVdtQmM2dmxoUU9NRTltdHpYbGR3b3FtY1RWVW5WbGcxX3dJYk1lUnNLa2MzbnQyYXhlb1VjcG54WGNYcFdZbXplNlpRWGJB?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Sat, 22 Aug 2026 04:37:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Road To Death: How Nigerians Risk Sahara, Mediterranean In Desperate Quest For Europe",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHRHRXUtdnpqSGJtZjVzNF9yX1A3TWRjZzFzdzB4UmwxLU5rdXpaWE40Z0tWTk1BSXcycWp6MFVidjNwdUtSZ0FFRUNWUk1nWG5yRkFxeTNjd3dUdzdTRVRQd3JNRTNvZVVBaWdJMktnLU90M0cxUjlFQ2t3WkZZbTlydHRKaDRRekJyR3Z0Smo0Mi1KM0RLWUpFU3RRVWxWZ3JwVXlzVlQtck0?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 22 Aug 2026 04:37:42 GMT",
+      "category": "Traffic"
+    },
     {
       "title": "‘Nigerians should stop allowing threat of FIFA’s ban’",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3JFZzkyR3htZC1Oc1Zkci1ZaFc1cy1lSHptaEZMcEg3SC1WWWVBTFh1Zmk0eFNfNHBFN09XdnBhQU9weURGTkw2d0pVbWE1Rlk2MkFKTzdGeTBEa1NyTXJhZDd1bFcxYjExaFFkc3lEQnhhZlZyYmNWTVdsaWVYQmdFbw?oc=5",
@@ -36,38 +99,10 @@
       "category": "Security News"
     },
     {
-      "title": "Bauchi police launch major campaign to shield youth from political and digital thuggery",
-      "link": "https://www.vanguardngr.com/2026/08/bauchi-police-launch-major-campaign-to-shield-youth-from-political-and-digital-thuggery/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 23:44:00 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Who will enforce traffic rules on Nigeria’s commercial vehicles?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa253OGVrQnhVdnNoR3dfREhqaU1KbEVlMzU2YlpramlzRmVqYUlvbDVQREZBZWtraTlZeW42dldkeE5xT0VZZmxrYWNRMHlPbGZIQXd5RmRtaXcyek1YSW1STjVNVjFGSzZoTFZXMXVnekFlLWFrMzY2MERXTDNsTmgxMDZ3RThDVWVYbW10ZTdDZ3pHN1E?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 21 Aug 2026 23:30:00 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "NDC Commandant Expresses Confidence Nigeria ‘ll Overcome Its Security Challenges",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXZSdnZ0Y29oTmN1U2Vvb2VUNVIxTDAxVlJsbGE2RDEtcVY2eWVDWEZiNEg5WUQyX0UybjBWOU1qWFhKNy1vRHg3eFU3djZfTHdKVTBvMDg4N1ZjQkhOV0tOSFFfX1RUczAtWUlJZkVhOHludm9WUXpmay14dy1LdElMOC05M05VY1Fmd2NaanY1WHBmeHptSFZsY0llMjB4?oc=5",
       "source": "News Agency of Nigeria",
       "pubDate": "Fri, 21 Aug 2026 21:59:22 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Pest controller battles mosquitoes to prevent Malaria deaths in Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejFNNDN4NHpmMUlPejJfLVdsb25MdkVBeGRSd0ZsQVplNktCQ3Y3QmVUWjU3cndfWGM4MEItd0czVnZoMUZEVS1lbTFpTHNsRFZ2d1FCM0txMmRpTmZpd041R3VOSEFzbDdGbUl0VnlSeEpQQjd6U1g5UlkteldIbk4xLXQ5cUtkeXBKT2pHNE9RNmoyMnd6bldwZnNJdDhDSklHaHFPUzl0YUMw0gGyAUFVX3lxTE1ISHRITTZyMzNNdVJhSEFES25BOHp2ZDllSEVITTY3ZEFQVVE4bm9fc3hEUmZRWERPWmxERmZQQ0hIcUNuRjYwRmk5QlRXdGFvaTJUd1BSTUpzM25sSWF6bW9LM1YxYk1TVmVTOW5sRnhwbHhzU2cwdFJsQTVCeVI3ODByTFk2cWdBcThqRWI0aG5wdE9mZEVoMkdZR1VkR3JjR0hyZjJ1cnFWaHBJLW16aWc?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 21 Aug 2026 21:41:30 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "One dead as plane hits car",
-      "link": "https://www.vanguardngr.com/2026/08/one-dead-as-plane-hits-car/",
-      "source": "Oboh",
-      "pubDate": "Fri, 21 Aug 2026 21:36:09 +0000",
       "category": "Security News"
     },
     {
@@ -78,31 +113,10 @@
       "category": "Security News"
     },
     {
-      "title": "Senator Imasuen disowns Edo South poster, threatens legal action",
-      "link": "https://www.vanguardngr.com/2026/08/2027-senator-imasuen-disowns-edo-south-poster-threatens-legal-action/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 21:05:53 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Families protest in Nigeria over children abducted nearly 100 days ago in Borno State",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVBOdlFvVzFyUnFmZ0ZrVXM1blFFU1BlWG9QNzBXUktlQ0dqa0NLSmZMaU12VFUxZ19fNnUyZ0VGelFOR3hDc01aTUZhdkNvdmV3Rk54QzV2SE9OM29SX1kxd3VOTHVpRk9NeWc0T1BUTkdfS3d4cnRfMm1DWmJPZ3RwcUQwd0pzOW9vQjlDbGZLQ3dSZUlGejctNVVJdG1iSVR5T1ZyU25TaDdON1ZxeHdvLXctWTEtRU5YMk1YQQ?oc=5",
       "source": "Business News Nigeria",
       "pubDate": "Fri, 21 Aug 2026 21:00:56 GMT",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Kidnappers flee as police rescue 75 victims in Birnin Gwari",
-      "link": "https://www.vanguardngr.com/2026/08/kidnappers-flee-as-police-rescue-75-victims-in-birnin-gwari/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 20:50:33 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Benue police rescue 13 more passengers abducted on Otukpo-Adoka road",
-      "link": "https://www.vanguardngr.com/2026/08/benue-police-rescue-13-more-passengers-abducted-on-otukpo-adoka-road/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 20:46:42 +0000",
       "category": "Kidnapping"
     },
     {
@@ -113,53 +127,11 @@
       "category": "Security News"
     },
     {
-      "title": "AMSG mourns over 100 miners killed in CAR’s mine collapse",
-      "link": "https://www.vanguardngr.com/2026/08/amsg-mourns-over-100-miners-killed-in-cars-mine-collapse/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 20:16:35 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Osun: Lawyers give INEC, police 7-day ultimatum over killings",
-      "link": "https://www.vanguardngr.com/2026/08/osun-lawyers-give-inec-police-7-day-ultimatum-over-killings/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 20:14:40 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Tinubu sad over Sokoto boat accident",
-      "link": "https://www.vanguardngr.com/2026/08/tinubu-sad-over-sokoto-boat-accident/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 20:09:05 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Intelligence remains Nigeria’s strongest weapon against insecurity- Buratai – FRCN HQ",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTM3NzdPU1h1RzJ2N2Z2eW80YllhUWxJLTRyaW5oUHR6QWhZcWxOajJEM2ZuNjI0QUt5VWgwRmx0eFJDa0I1UTktY2lHSVIxT2kyeS1qUGlzbWphVGI0dE1wd05LTFNCb1RvUUNpclQ5M04wZ1F3c1RFLUtpT1JGbjA2SjBVZVl1UVp1dGRUZDUyY2oyVTBxY3ZkQjVTalZrTldqWGZmdU1HSXVxVDBNbWVtTQ?oc=5",
       "source": "FRCN HQ",
       "pubDate": "Fri, 21 Aug 2026 20:06:43 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Vote-buying, insecurity threaten 2027 polls — IRI Mission",
-      "link": "https://www.vanguardngr.com/2026/08/vote-buying-insecurity-threaten-2027-polls-iri-mission/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 19:59:07 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Tambuwal, Dasuki seek urgent security intervention in Sokoto",
-      "link": "https://www.vanguardngr.com/2026/08/tambuwal-dasuki-seek-urgent-security-intervention-in-sokoto/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 21 Aug 2026 19:56:20 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "IGP to Politicians: We Will Not Tolerate Mobilisation of Young Nigerians for Political Violence, Intimidation of Voters",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTNYYktudUF1SG5JYjRfWEFac2V0OHpydHN3SFdvY1BaMlJrYTVCNTlpUFNxSzRKVktXRnF0QnVJZlN4Y1drQ0VieGMtMlVFaXJhRjl3aVVINEtZcmotWFRsN0tibGhER3pFZS1JamJqWDgyYlpNa2VoV0haNGxNSjdsYjRUT3VkY0Z1bXNyY0E4UkV3cWVTZjdETWs4R1dyVGVXdkdDRGkzd1dPVm9TalowS3ZveWlEQzd5WkNLTktPRWNra2pwSUdKZ3duRjFFQVFSWGt2dVFFcUdhMmpxZjl1MlZxV3Jrc2pzRjZ3?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Fri, 21 Aug 2026 19:08:55 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria still safe despite security challenges: Gov Okpebholo",
@@ -232,11 +204,11 @@
       "category": "Security News"
     },
     {
-      "title": "World Bank targets electricity, broadband access for 90m Nigerians",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUpMb1diTFI3QTZQUEdJbWpuLUZ6Y3pPZGZwQWVmYWdYLS1wbWllVmVqazNMTnRQOWZFS096VmxaTnllS3ZEUzRqY2wyUEhlaGU2MHQxNkxZZkxyQmxqWFljbnhESVhlaXdxNlN5bFV2TElUTlhCZmJxbktoTHNOUFpCeVY2Ymc1Q0ZYNHZwVkczd2d6S0F1ellEaV9vTllK?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 21 Aug 2026 12:05:00 GMT",
-      "category": "Traffic"
+      "title": "Nigeria: Dozens dead after boat capsizes in Sokoto",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGRQaVppVjJpTW5uMzA1UzM0OWN3QmZjeDVGd1Z3WV84MkMxVnZFWWpfU1JkUVpvNkxsTG1ROGpVcm5CR1FXY2x6WDRfU1lqcWcwRE1JX1VsangwZ1pfelhxZlhvNGZWS3BOR3lBQzcwdUZ1S0dMemVIYWdSLVBwcnRUNHBFZDN1eXfSAYoBQVVfeXFMTl95TG9MdVpMdmI4Z3dZd1d6REkyMV83U1ZpWTVLb2NoTDNOaWF1cmZuTDJ3WmQtQkJtU2V2ZWNCdWtobHlyZVZvTHF4SFB0R25lZm1Ndm1CajFVaGFET0pZWmRQV2gwUFUybU1lUWJaVXBHYTI3RmZGM2l6OFZIdDdrSVBrX3FMUnJ3?oc=5",
+      "source": "DW.com",
+      "pubDate": "Fri, 21 Aug 2026 12:07:02 GMT",
+      "category": "Security News"
     },
     {
       "title": "Christian killings in Nigeria ignite push for continued CPC blacklisting despite military gains",
@@ -288,13 +260,6 @@
       "category": "Traffic"
     },
     {
-      "title": "China, Indonesia Strengthen Security, Economic Cooperation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHowWFpxdV9FX2JXN1c3TmlWZ0RyajJPNVpPaWlQMzFlNHNpTHdtaUVqc2tiTmRxaWtoUTh1VzdRV1g2MjcwSmJCMnJmSHV0RHU3dXpGRmxsQUk2V2dQbnBKSldJNDhLMTFVOTVFX1FZYmU1U2t4Tjc0MUZUQ3p2X0dR?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 21 Aug 2026 06:32:19 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Mining Marshals move to cut illegal mining funds for terrorists, bandits",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2QycDJFdDduS2o3NUV5QU1KMFFwUFJhMW1PTkhXLTYzZXRIT3RGUnd3V0k3M0xOYUxYcml0eS1UVVVXVjlDYnlmLW1ER053T0lRTXZOOFlhNmIwYTBWay1zZld4UENzMlEzNUlQY09WX3RPZ3QwU1FKY0thYlJuNmtxREdUZi1zdVBxd1hZZmdRMmRrcUFJU3lFUVlwOF9PREc2YXNaRXhMaHBkRkE?oc=5",
       "source": "PM News Nigeria",
@@ -316,13 +281,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria: Dozens dead after boat capsizes in Sokoto",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGRQaVppVjJpTW5uMzA1UzM0OWN3QmZjeDVGd1Z3WV84MkMxVnZFWWpfU1JkUVpvNkxsTG1ROGpVcm5CR1FXY2x6WDRfU1lqcWcwRE1JX1VsangwZ1pfelhxZlhvNGZWS3BOR3lBQzcwdUZ1S0dMemVIYWdSLVBwcnRUNHBFZDN1eXfSAYoBQVVfeXFMTl95TG9MdVpMdmI4Z3dZd1d6REkyMV83U1ZpWTVLb2NoTDNOaWF1cmZuTDJ3WmQtQkJtU2V2ZWNCdWtobHlyZVZvTHF4SFB0R25lZm1Ndm1CajFVaGFET0pZWmRQV2gwUFUybU1lUWJaVXBHYTI3RmZGM2l6OFZIdDdrSVBrX3FMUnJ3?oc=5",
-      "source": "dw.com",
-      "pubDate": "Fri, 21 Aug 2026 03:18:33 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "No food security without real security",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKczN0dGNlUlFKcnVUanFKTzFvY0pXZ1ZQS3pWaXdCZ2E3Q2RNZU9XU1Vsci1OQ2dncXE2aDRseWgta2JOeTJjUWE2bDJHOGRlSG9WSVRmNDl6TlFYYjVjNEhJYldRQlJtN0J3?oc=5",
       "source": "Punch Newspapers",
@@ -335,6 +293,13 @@
       "source": "Business News Nigeria",
       "pubDate": "Thu, 20 Aug 2026 19:36:16 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "How illegal mining fuels terrorism, banditry, violent crimes – Commander mining marshals",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnVjckRlcmZSMkJ4ZVZoMXBUUC1DNGdDSW1kajl4TndDSmMxY2FEamtoZE0wZU0xd3RjbjBnaGdRajl4bUJmVUZ0OWRYdGxyQ2RsZ0doRW1ndVBmcFdmVkVRemktZlc1bGJDTWxobkFTQXJlcTBqcXdDbi1EQXhjYTlxM09mek5Kd1JveVZIVUNSUWs2MlAxNlAtbk9fTm1faFFEUnNKM2pmUQ?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Thu, 20 Aug 2026 19:21:09 GMT",
+      "category": "Banditry"
     },
     {
       "title": "Illegal small arms major cause of insecurity, banditry, terrorism in Nigeria – NSA Ribadu",
@@ -362,6 +327,41 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc2xRLTUyZzdhZEJ4Uk96WDJSc0REOXRaYmJLUWN0Q3l4NGRKV3BnTnU0dDFLYmZUSkV6Q3p1STVvMnNfWnNkRlNtMUJxS2FnQm9BbDBHamViUHY0Wk9JNllZWWpKX1gyT042Q3hNWDJfRkNSMjhxTmY3WlBYbHlab3YySkE0SC0yZGhkRS1kVllxcGY5R3YxczIxME9NVXFRMXYzS1dpYjNGaEVjR0dZaF9VVlRYbmdtTUpSWTdhaE1DS3F6S0E1WW1UdlJtUFpBRzJMMFBjSEZsVU9CRDB6ajF0YnVpSUowVGU1dnRfVTNWSEhRZ2dvZlQzOUNzdw?oc=5",
       "source": "THISDAYLIVE",
       "pubDate": "Thu, 20 Aug 2026 17:51:32 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kano LG boosts surveillance with motorcycles for security operatives",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGtZQnpEMXQtYkl1b3pkOERnU04xQkxvVVBKbFpya2NIcnJKTEQyczc2by0xSFNpLXFXVXc2SXE4V1BSbTFDWUtLeEVrUXNpeFNHSTBGMkZSSkpkWVpLTWQtRjNLNFk4SUlVWk82M0ttRTIyRWhOdVB6cDNvWjBwN0RhVElOeTFlZzVLVGJSeTBvZlZ3ME1r?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Thu, 20 Aug 2026 17:22:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "DSS alerts on terrorists’ plot to attack Sokoto tertiary institutions",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTM2MlhmNjFYa2k2dmxEM3NPVFVabjNrSnZiR3dCNmNsR3JfTEt3Ny1TU3BpcktaWGxaSmtWV0FKZlZXWEg2RnJZdDBNaW4xX19wRTZHUmx0WjVhQXpYTElaSmRqaDd5S1JydmFkcUVWVWxBUUFveTlwY2FUZ3dqTXJmSVdIX3hSX1cxR2w5aHRVMDdfZC1HVjFhbXZvb2M3bHdhMmJybm9zZw?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Thu, 20 Aug 2026 17:20:32 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Osun Poll: Groups pass confidence vote in Tinubu, Amupitan, security agencies",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3lxUTFiYm9qd2tjWEUtbW90aTk5U19Mbm84b1RKZVVmdThYTVA3ZXZsWEJMTWNRMXJPTzBibHB3OWpibTAwVWZTbE5ReFhoYi1QU19XTnFVM1hoQzFvZ2szWmJFd21Rc1N1MFI0b3pibmlWc1p1amlWWXUyNDBzY0d0dEtyakZ3ZW5QczBkSU5tbHdlM19DeGVFcVd6R3VxVFE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 20 Aug 2026 16:35:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Christian elders back US concerns over persecution, Nigeria’s security crisis",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFFsMWxoR0lMcUhicXpPSFBsbTc0RzRfVmhCNmpaS3pON0RPbU5rVjdPd1gyODNzNkdfMElxTm5rb1lPRERYVzBiWndQVTVkbmpJVnNwdUtyUU1ST25HWG9pT3F6YlE1NmtpQmpUbmxHWk50NTNrQ1J4NW5XT0dXYzNNeHlvXzBPVW9yMzA4NHF5andoaE9YaHZIZHNwNVJuRUJ1TVRBd0FjUDZsT25YVHh30gG3AUFVX3lxTE5hMlVUdFhkckRmcG1zZFNJWGxqd250d0VjVHE4cm16cE5uOHNSYWdXVGdJSHRmWllpVHRfekkxUVhEYnN4MllRNGY3XzVrV0ljV2lFVE5DMlhBa2IyU0l2VGtnRjJfZkhkcjB0emtlTTBOS3l6YkFKUmN5YlN3NjNDZFZsU2VLc0tGR2dYX00xX01KX05GVWpCeXZ2czA1Qjl0ZUZFUVhWXzZuaU5LeGZKLXFBZUpYdw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Thu, 20 Aug 2026 16:34:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Military tasks media with responsible reporting on security – FRCN HQ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUk5SYmNWc3lpZlNjXzlMamxCYnFmeTI2cC1SM2M1UG5fRFlKbF9TU3F6cUd4MzFqd0xFODRrMTNlUHgyd3lDcUNLNTl6X05PTDBQSGg2QUhDMzdvblZhbzhVbjJxaFFGWkNRUVZqVDk3ajZCN2xSX0lQMkh1WEhNU3BZOXd5bnNWTU10SUc0RHJYS01GX09CVUlfTUhxMzds?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Thu, 20 Aug 2026 16:00:39 GMT",
       "category": "Security News"
     }
   ]
