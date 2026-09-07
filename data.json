@@ -1,39 +1,151 @@
 {
-  "timestamp": "2026-09-07T03:22:50.064Z",
-  "generatedAt": "07/09/2026, 04:22:50",
-  "totalHeadlines": 169,
+  "timestamp": "2026-09-07T11:49:18.104Z",
+  "generatedAt": "07/09/2026, 12:49:18",
+  "totalHeadlines": 173,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Traffic": 6,
-    "Law Enforcement": 14,
     "Security News": 121,
-    "Military/Security Operations": 8,
+    "Traffic": 6,
+    "Law Enforcement": 12,
+    "Kidnapping": 9,
+    "Military/Security Operations": 12,
+    "Banditry": 3,
     "Insurgency": 8,
-    "Kidnapping": 7,
-    "Banditry": 1,
-    "Armed Conflict": 4
+    "Armed Conflict": 2
   },
   "headlines": [
     {
-      "title": "Donald Duke: Nigerians Better Off Under Military, Says Democracy Has Failed to Deliver",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWtzMTVZQzluYllxMW4tSTFFbnpNbnVuOG9HV29Ob2I1QkVrWF9NbnRwMzRFTTF4RFZUQkhCZlZDTDY1UkgtaVFWV1hSWjNNZWVYaGJkZGRZZWlrWFQtb3VDRXgyUVJ0UDVBcV8yZ2l6c0w2ejBSU0tnZ1lHUTNvM1l3bDZwaVJleDdJZURxNlpIMFd1Tk5KWWNBajAxb2o0cGwxWDRMR1ktQXJRSk85bjNlbmlJMzlxYlI3cW5GQkFlUQ?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Mon, 07 Sep 2026 02:25:03 GMT",
+      "title": "Nigeria Showcases INTERPOL Gains As UN Marks Police Cooperation Day",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFBINmZSVk1uUWZzQTZFcUhiaTRQUlVWbmN0UnZWZTNNTWx0OGJWT0Z5enRkT1ItV3pTSlNQNmdXNHV3ZG83R09MRE1tR1FzSjVFeER5alEwb3VQZ0NfYWROeFFGajNaTmFlU0lDWFlhYU1VOXlENFd6NFVfWmF4ZUg0bVJ3NVZ1YnExd1M1YWw?oc=5",
+      "source": "thefact.ng",
+      "pubDate": "Mon, 07 Sep 2026 11:24:29 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigerians were better off under military rule – Donald Duke",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2U0NVM0Q0d1UHVLbkF6cXktVWdIUzlKbVpCUWY0eFFwUzd6TmxXazhTTEFMangxZUg0QXlaUVVvNnQtWVRUQzZzVmUzd19HVUxIbWdLOHM5N0dwZGlFRXhjZVpHN3JzWDdkb1pFbXM4MFBTckhCSXZZZkk5dUdMbldoSVk2UGsybl94TWpzM3Z4dkxaUm9HQ1lIMA?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 10:23:43 GMT",
       "category": "Security News"
     },
     {
-      "title": "Nigeria sitting on time bomb over widening rich-poor gap -Duke",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWI1MjVkMmNXakxTTHd2N1JzVmFrRkVYb09rbUhwYjBOdXhmR09yTWRycjJqT3Y3bnZ2WkQ5NWctR3kxMEI3TVFiTjAzQ2dXcFpqQ2VOWXl3VjJrNHRQNVJvcVBVQU5OOGp5eWRpbFlUX0ZaTEl1bmtGQ2FIVUZXbnhZb21EVzg?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Mon, 07 Sep 2026 02:17:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Adebayo unveils SDP roadmap to ‘new Nigeria’ tomorrow",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uLTQ5Y0RHbjhidTViNFpBRmpKNVJWZTkyTWtSMGRUSGpyWV9PbnVYYmxscGE5aW5DLUNOSXZoUHBiak44MDJHM053aWNmUGhWc0pQTEQ5NVIteXBFa1c4UTczbGRzbWY4dDJfd1BRRXhUcmJtVGV2R2JR?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Mon, 07 Sep 2026 02:15:00 GMT",
+      "title": "'Farewell to Poverty and Insecurity': Adebayo, SDP to unveil blueprint, roadmap for New Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeFRNbTFxQUVhSUY4T1FLRUJWWjZ2NmZUSU5rSkFRaUNQS2o5TFhRNTBIdmxWLTlWUjF0SXBuajN4VlVSYWpTSUx0cGxUekJjVXRxREhOTHIzMUxIUi1ESFhtYXRmeTNBWWNlVC1GaE9sWTYzUGpvcHFTbVFyU0JCbWloNHRxMkU2OG9hS1J6M0Z0SkNZT3owc3lxVm5DY3ZjWl9tOEJuSXFUSjNHRGFqM2Rhc2czeFphc29XbUx2SXo4U2lUSjhvWFVmVUFBcTBD?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 10:03:28 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "Nigeria: The Headies begins Road to Toronto ahead of 18th edition",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDVXQ1lMcEhfYnpOSEt0WUdzaDk2ZV9JR0dlV0tJTDNVNDU0b1dSc0dWWDBjVWhJZi1PUDZYbDJCQ2tXMEFjb3RBRFA5WGo1UjdnYnlQX0o3T2w5d0JhZGR2NFNLdFFia3RhMmd6cjFTb3RNS2NpNm84U2ZBVjJJU1M2UTdkZ2plb2oxWmd4REFXS1BUX3diV18zREJ3b3BCc0E?oc=5",
+      "source": "Music In Africa",
+      "pubDate": "Mon, 07 Sep 2026 08:48:12 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Police detain 10, recover illicit drugs in Delta",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVG5IUU1DXzNyZy1YRzBCaS1UcGNuYmtPTzNGS0JJSTFCX0NnUUZWTldCaFFmc3Q1WDNCQ1k1dUdacmFpMnV1TXdIdG9GMUwwRnJVanZkaVBMZjlfcXhHTFNsWGN3eTdKQ2VJWGZQZUFkTUNoaEpmcUN3a09UMkpVV0RhTnQxN2ZVNzNRYVF3SHJhZ1lVR0JSc050STNPRU05MzRtdWV0UGQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 08:27:57 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "August’s Security Overview: Intelligence, Enforcement and the Battle for Public Trust, By Haroon Aremu",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HZXY1SE5yRkowTVl1N3lnTG8xMTFVOTFsT0VUdkdJSDFtS05rSWoxanNzYnRKaGZNRUtKN3FVNmRoc2FXOHNXVWtSMGQ3RE9IM3gzaklPOWQ3VDFXU3FUTGFwYUttYzVuN2lXRldTMkdIdw?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Mon, 07 Sep 2026 08:17:34 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Review: Historian Traces Boko Haram Back to Northern Nigeria’s Islamic History",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbU94ZHpoZk9TU0NVUURIb0dMOGVhcFdUS25EU1F3TUllZ1kwazYyXy1sLW1rc1p3Yms4XzV3NDJ6NUpTdl9KS0hoaXRTR1ppbGRjUlFKTGw2SkRlZ2czUzU1VmY4cEhFSndIT2g3RWxMRlhFemZVS05ZeDBMU3hIUEdYSnFtYklWa2c0ZU9BbURUbTFDcTFaZ3dSMURBTkwzbDZfTw?oc=5",
+      "source": "humanglemedia.com",
+      "pubDate": "Mon, 07 Sep 2026 08:03:51 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Third Quarter National Security Update: Building Security Through Coordination, Intelligence and Public Trust",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSW9abUI3QzZIT1RoNkJrZVdwUWgwb3EwWS11NEVZMHQ3SzRJZWx2Sno1VWdrbU51S2gxTkVSVFhkT1Rob1dIUjNWdFh6WmRIaXZJcFQ2VHRDYW9sMlQ3TEdQdHhyQlRMY040YUlZVFRmdUN6cm5hWEhCbkh2QVNyZHZfVWxGbjlnZ0VlTzdaT1JVekNEUVVJOTQwR2kyZWNaSENtbDh0VDBRMzVHTGViWGV6a090dUVsSnlsbnBwU0Z3Zkd1Q2FqNmw1eVQ1Y0FqcndRRVVOOF9jYmkzMHc?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 08:03:43 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria Records Security Gains as ONSA Pushes Intelligence Coordination, Says Chido Onumah",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DemRvWmVvbXVyZ256QlhHa2wyaDIxUFJMM2xaX2RkMzhjVmZPeWtsMXZDRWF2TXZqVXhxSV9vNkJqd1UzejFmR2xDU0M0ZDdtR21jbnJVRUtuOVh6dUgtVVBkc0gwdUViMUtGYnBjcUxmQQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Mon, 07 Sep 2026 08:00:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Police warn against unauthorised drones in Plateau",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaEh5dGhEM3RmZFl3LTlfMVlXV0M3X0RscXRqMnpuQzRlZnRoMTg1ajBHeTBtOWRzX19VdzhwTzV2X2Q0TWx5X3pNdVpCWktqSlNENTZvbFRZZ2d0TzVOdGJvd29oZ0hEOC0zV1h2X1ZLMGpwMDh2VnEtZmVZWGotTXFRQWV2V2ZBZnEwQ3VkRVozSUphSHhlYS1ldXVsakI4d1hhZFdFQ3Zjb0pm?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 07:54:27 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria Customs Seizes N3.951bn Worth of Illicit Goods, Arrest Three Suspects",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3FiTm5SenJwdnZCcXluMVRSMmdhR3M0OGJkVTJETjJ5c3Q3bVYxREhEYkRRYW1jN0F1R1FDRHNoMW5xclhpVmdsN19YYVN2LXE5Y1ZJYlFZQXh1YlE1NkVaRTZkSEtiOW0xQmNrd2RDSzRoRU9FSW1wRUNiSkIxdkFXVnB1bURpTUUtcW1JY0MxeGEzT2t0OEZ4M3dFeHBZaFR1SmVhNlotU1RjTTJmc2MwZmN4azg?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Mon, 07 Sep 2026 07:48:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerians were better off under military rule --Donald Duke",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjRrbnJkTEJDUmRuOXAwOXc3QU9vSnNMSUFzSkFPX2xpNV85VE00YmN5NjY1b1hXbmFaRUJTNXRURVBVTXZZZGpISkJsZ3lUVVJicHJNQTIzWUNVX0JVWEp3RnUyRjV3YjJtTlQ4eTduU2dmV3hWOTNTRWRCTFBuVi1MX3dyNU80YmxfWHRxRlRYNW8?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 06:54:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Security operatives storm Edo Forest, rescue kidnapped victim, recover ransom money",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObm9HSmtGUTdGalJMV0VUVlpiSXZFT1NfS1pPMWZEWmNDUWZsZVYyZ2J3OHoyVm5fMm54WWpkVUhHUXc3RXhHd0dJaTN4RFVocU9UalNldWtnWnFZRUJVUzJONDdpV1dqVWhKNVFkWWw3OE5hZHVjRnVCZVRlNHYzc19NRmdwTWR2YlF3c3Z3LXh4amJ2bFFYY3ZuV2tKWHg0U1drUHYyYkNvUXRDalUxYnZwNS1kX3o1X1lr?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 06:37:14 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Nigerians better off under military rule – Donald Duke",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmJZZFBiV1hraTlldmI5NDhJVHM4dHZNVFYxSEdxODlEa0Vva2s2SFZPQkZ6TzU0QVEzODNNT0s2S29LeFZlVm5mem55TVdHZWRFemtyNlpYaWhBUmZTcW11cmlyS0RvZWFNSDl1X1dyOFRFcWY2akNDbGxfdjhfdmJjVTV0eEdQMkVnSW5hR1ZLOXfSAZgBQVVfeXFMT0Nsb0kyNVV0bTRUZEcyR0M0LWFGNm1EeGNLTzdscFRuWDRHZzZSZElDcDloQXphdmptbGVQNGN4NVFVb1dwX2FqcW02aFBhYmc0N1lwVEZlWS1KdEFtZWhQR0VETGNOUmhlSDdQaVJFNERRVE45ZUt4clBHdHJwOUE4T01uZWR5aDJKOEZqX2tZTkNvUGlzQWs?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Mon, 07 Sep 2026 06:07:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Threatening remarks by APC members raise fears over Nigeria’s elections",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTJLY28yajJaTDZHTnBaM2dFNlNqMHVsV1FYeGJybXhWdW5KOVI5TnZ2VFhYXzkwcHo5X2I4dXpuREdKMl84UDM3dDZ0MEdEU0M5MnE4LXZmQ3VucXRmOVNXUDVOZHRfbkJkVWJsWk1XMnFPNVdSd3VCNjJnWmdzWS1GNHZXYmZweXZ0Q0pSdGdUNzByS2tRQkdMVjRlSWl3Y0dkMkdDT0VHNm5l?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 07 Sep 2026 05:56:24 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria cannot go silent as 600 abducted citizens vanish",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmNZbWY0WUd1UnB1Zm90NC1pNHdZWFp2SHR0c1FhWDRYQ1hFazJqalJIWV82b29DbWpkRmk1Z1RyaG5OS01ESFd0alV4VC1iY0tveC1lMWp0TzRGTmFQdUlJQ256U1BxenFzZWV3ck02WFVDYmhUSHRxTFE2OEotUThIV2FWemk4am5OSlpJMA?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Mon, 07 Sep 2026 05:02:14 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Lagos rail security gets fresh boost as LSSTF donates patrol vehicles",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGpNNzlOUHFvVlRNZmtSVVNTQm5ObEh6WHluYVhyOWJ0LWhPVHJMb19Ea2s1eVVKcWxYWDgzeHpWaG1sbHpTQ1pETGUxSC1wSWVDTzAxVjdmUG9kM0pJMWs5dUtacGxXV0tZZWpqMVpxVGRmNF9kUkIwcmw5Y2dYeTZ2V01CUzVtN0NVZUUxeFFzV1hweVBzUXJRWEpWUnpoUHFJOUl6N1NwTmlMNVE?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 07 Sep 2026 04:23:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "LSSTF donates patrol vehicles to Lagos railway security agencies",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNE1kNmFKbXFIdEYxYUxFUUpSbjNnek02bldZTXFtUkZVR09iOEVPQ1R2RnVYX3ZBWkc5UzRkWnp1R0drV0dkLTJGaVV0Yzg2SWtGT1RwRTlQbVUwc0xqUDl0MXl1TGx0eE12VzBCWXZBcTdGVlVmX09hUEZaTU84Mm5HN25wLXZwQ3N0emppVlVGUURWTmFVZEdiNlA4Z9IBowFBVV95cUxOT3VXeUpMZk9pMURDMnFOd3FUNnBXcXVPaFZncGdSNThVdHh1QjNOaTNrbkdUR1pzWFVwR19zSzN5MFVsV01NUGFlczBLZDU4YzdWM2dHTGFJM2F5dFhNRXM4M2RuT2p0RVFVdGFyS1lVeWdMVjRCOXRnWjhqeTM3Qng4akc5NmRtMDR4eGMzNTl4Z3E2bC1YeUNhZlplNUdRNmg0?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 07 Sep 2026 04:03:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Economy, security and Nigeria’s future",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1heVZOQ2pOTWNpRWxZd19fRzJDc0VnQ3A5TjV4UktSVWw4WXM1TWNwVDhvY3dxMmpRYzRvNnRaVEQ5VTNIZnBrV29oTEJtTVVMQWdaLUN5VHNCZFdVQ1Q0RlNoRXVLc2dWeC1vVjB2MFpXVThKdmfSAXtBVV95cUxPRkgwcm83WGx3TkNray1UT0ljNm43LVZMUjhaRE52SnF4U1F3WUZZR2xXN1d3SFhSdVFZaFJGczM0X1hLcWFYUGFBREhXOUVnRlRDUW96MEVSWHFIUkNjLVpBTjM2Q250SjJFeW94WmxNMDdaSWpjN2YwM0E?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 07 Sep 2026 04:00:19 GMT",
+      "category": "Security News"
     },
     {
       "title": "Ethiopian Expands Operations in Nigeria, Adds Port Harcourt",
@@ -43,39 +155,11 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Iran threatens greater force if US launches more attacks",
-      "link": "https://www.vanguardngr.com/2026/09/iran-threatens-greater-force-if-us-launches-more-attacks/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Sun, 06 Sep 2026 21:43:55 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "NOUN bursar shot dead while returning from Gusau",
-      "link": "https://www.vanguardngr.com/2026/09/noun-bursar-shot-dead-while-returning-from-gusau/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 06 Sep 2026 21:39:43 +0000",
+      "title": "NRC gets two patrol vehicles to boost railway security",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGlsWDB5ZzNrbFFnMzJidjVVbWRJWkl1dU9aTzliSi1DSmNvLThacUdULTIwQzg2RjJLSldwUTZjTm5ITmM4cTVzQmU2eTdYenl2SkxON2VhQWFEQ0NfU3RUSHh0cW5DZjYwcWpYcU5GVHo5dmc1VWhjYTM5V3lnVWM0Y0o?oc=5",
+      "source": "Daily Trust",
+      "pubDate": "Mon, 07 Sep 2026 00:24:40 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Police arrest 10 suspected vandals, recover cables in Abuja",
-      "link": "https://www.vanguardngr.com/2026/09/police-arrest-10-suspected-vandals-recover-cables-in-abuja/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 06 Sep 2026 21:36:24 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "IGP Disu inspects 23 police barracks, pledges improved welfare",
-      "link": "https://www.vanguardngr.com/2026/09/igp-disu-inspects-23-police-barracks-pledges-improved-welfare/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 06 Sep 2026 21:34:31 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Moment Nigeria military came under gunfire in North-East [VIDEO]",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnhReDk0M2JHUk5RTzc5c1lCSkFLMk1lUFBtNm1GOFpLMHVEUDJoYkpoN3FrNHJ5WENiU3MwWERrNkpwN25jeUdYT0l0bnZtNnYzeVRqaU53UVhva0NjRVdPM282bFBpN2Jhb21kdGU3eW1IUnpaYTVIOGRGY2dFUzFJUzAxNjFOVjJDVXhXelRTNXotUHg0OHlCUQ?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 06 Sep 2026 21:00:37 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Lagos boosts rail security, donates vehicles to NRC",
@@ -85,31 +169,10 @@
       "category": "Security News"
     },
     {
-      "title": "Duke: Nigerians Better Off Under Military Rule",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VMHRNZTZiY0lUN2VoV2JYcGxGLVlqbmJvR21oNk4wWVhXVzNPU2h4dThLM21TbjZpYjVYZnVGQURYT2NnbUVuZGN0LUNwcjR6OUl6OGt4TE1sM2JnR1MwNTh1aG84TEdDUUQwTjlBVERGQk9zMDRz?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sun, 06 Sep 2026 18:44:01 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "From Frontlines to Classroom: How U.S. Army veteran, Oseni, is reshaping Nigerian, West African security",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFZkYUlzcERmTmVyd0lzeUZUa2Z2V3AzaVdWOS1lZFB6NDJGVVJJemtqU2diYm5ZaXJHVFhMX3NHa2poLXprTVhHS2lieDJzcEh2RXN1SEVyQndtc1NvdGs1bTlHZGVxSkpLYzlrUDBwX19NRVlDR0dMdEpSaGc1VUNrT2k2LU9USWVKc01uaTQ2b0tKV2tsVGt0dk1aM25HLUloWmUtb052cTZ3SG1sdzJ3OHZfNWFfeW55R09LV3FGZnJCalNSNWJaUFNMSUdBQnfSAdcBQVVfeXFMTmhzN00zbW94bjhTaXctYVE2bUlGNEo4TWdMdVk2VGJ6Q1BHdmpJVmJUZkxXTXcyeHc1X3g3MUptSERFMWZfMjg2TExNZGV2dFFqbkx4XzIyREdzakdYbS1GY1pHdjVwM0M5RUtrazJQZFhMM29neE0xb2UwOFVwbXQ2ckdHRU5hOXM2OEVyeHhEd25JeWFYYlJwLUJNWld6eWF4SUszX2tEQnBHY1hUQ2JJb0wycE15Ul9KdVE5MVkyUkpVbkhwRGlNQ0J6WFBPLVFtaXZjWWc?oc=5",
       "source": "Vanguard News",
       "pubDate": "Sun, 06 Sep 2026 18:26:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Army declares ‘Gentle The Yahoo’ wanted, offers N30m reward",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVdFU05lQjlDM1NpWk5wak1KRVJZa2Z2cGVKM2F6QTBRdjh1cmlLOWI0aGNZTE1NVWt4S1Z4d1hkSWhTRy0yV0dYRUhqamdvTW1wejkySU1fVWpSLUJORGxGUVV6Ykc5ZXVaUE9xTElPa3hZeVZxeTZOZnNyQm5aaEVkS1NJcE02T05SYV82MmY0LVNpQmstcjRCcVZIMXM?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 06 Sep 2026 17:35:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Death be not proud: Publisher Dotun Oladipo and the tolling bell, By Max Amuchie",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWENKeU9BZl9xLThJU01ITkhmM3VLLXJkMk1HaGhJM0RuNWtKaDBSczhoOFhVSkYzOVE0TE1JSHI3bnFwLWhQY1QtMUZxOFZJXzJURWZBazA4ZzVNM0VEN0tjbDR2d0lQWnE0aFJldHd0c2s4RWVGSzd2Q180dUVvMFJnaWJZTEpEaTNrNTM5RmtkY0pKWHhLR01zMVR3R253Vm5Zdk8yOGN1NUFNTGZqNTEzM18xeUQwNjZXMUw5ZTB0TUxVTjl4Ng?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sun, 06 Sep 2026 17:31:06 GMT",
       "category": "Security News"
     },
     {
@@ -148,18 +211,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria defeats terrorism, congrats Gen Chris Musa",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkdGc1pRVVY1R2J0Y3R4MXNtYm9VU3JzN3NJLTFDdEtzWVEtajhJT3dJSHVPWFhzVjlESXhZSjNJVEtYVHIyQVU4dzMycE1FeV9Zd2JNMlJLZ2JzdEd3aVhRc0xrV0pPVnlDNGF3VEFnNWdtTV9QSnFENFlMVG5OYk1rYno5YXdoOGQzMUdLaw?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Sun, 06 Sep 2026 11:02:24 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Failed Coup: Niger blames France, neighbouring countries, threatens international action",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjM4aUNSZTNYWWN3VjRpNzhraU5zOTlSVDZrVVlnc3BlemozYVRKZXAwZXJWQ3RWUG5IdWh3enJRQUNPSk43RUNNN1liYzY2dDl6eE1uakRSN0I0STRoSlVGLWpNWjJXN01kS2pVRzNRczdJLVpPWF9ud0FPZ2x5V0l0OFZjTWZKdXdxaF9ETGZsVzlnaEwxcVpTTmp5X1JOZHlpTkp6TlFjTnNuY25HdWhCbkstWlo0UzZTazJ3V3A5bGFUdWVnbXUwUF9tZUVxM3NzcXNWNnAyS3M?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sun, 06 Sep 2026 06:26:48 GMT",
-      "category": "Security News"
+      "title": "APM Faults Tinubu Government's Denial Of Insecurity, Dares President, Other Officials To Travel On Road Without Escorts",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzE1eV9PNmhaNlY0Rm51bHZfMEFIZ19zY25ReEt5QnVka0tMYk1PUFUwUmVyTk13SEJIMGhuZ1RRbHdaRjI5VmtsNmN1eVpkRHo3UTh2MXo5ZVI2U3dOM1YwdUM0VWg5NWVLbF95alAyLWJzdUZkVnhkV0k0Y1lXYV9fN2gtOXQ0RVNKLXM1ay1oVHo2anRvbnFqaDgwX1FDWEc2Rkd5MzlzT2Q2U1FnMEZKdHNLUGhkNHZycVRybHFYSDA?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sat, 05 Sep 2026 22:23:37 GMT",
+      "category": "Traffic"
     },
     {
       "title": "Christian youths urged to support security ahead of 2027 elections – FRCN HQ",
@@ -169,17 +225,17 @@
       "category": "Security News"
     },
     {
+      "title": "NCoS, Fire Service Kogi Commands Renew Commitment to Security Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3ZaUWp1bXlHc2Q3UC0wbTJfeHZlWHMydl9YMjdVbFNQN3NYWFFlRnBIcDlkbXFzRDl3RTZSU0FoNmFDNTd0S3lDLV9SS1hYMDJVRjh0U3hjVG91c0h0SG02aWpKUjN5Y2dOTlhVWDY0NFhweHpaUnBJVHhONVJDT0JiQm1SOXlPQTdyQXNfRDBka2pMU2pqN3hDVkdZMTVx?oc=5",
+      "source": "kogireports.com",
+      "pubDate": "Sat, 05 Sep 2026 19:38:00 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Okrika Jetty Deaths: Security personnel challenge claims, demand evidence",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjZxQkt0TzhKY0tpM3NaOVdUdWFvT0gxVmFFMnBLdlFxd25nekZXTVNZTW14enhTU1hXRGt4bmNRZkJqRlBoamtZVnljVTFJbkxWREVBUHlKbTRlYUp1eW9KcFNFYXVDck1tYmI2OW1NaU8zU081OUVSMFdPMUprNkFZTUZjaC02dEduS1BQV2RocTlTcGpORVNMSjZ3b2c1eHNsSkJKV1ZIaXBBVzJwRQ?oc=5",
       "source": "The Guardian Nigeria News",
       "pubDate": "Sat, 05 Sep 2026 16:28:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "APM Accuses Tinubu Govt Of Downplaying Nigeria’s Security Crisis",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVJjR3I2MVhJeWJwQURMQlRJTERnQ0w1Y0dUT29fY1VJb1NRdE45eTE1bURaNGp4NnBJSy0yLWs1TG51U1o0YmxGOWJnckQzdlFJRUVobGtQVmhJNDEzYUtiNmpqSXMxdmNwUHRWaG5zQlplQ253cHpLZ0tpX1FKVGNlcU5zVktVaXZTeV9uaw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sat, 05 Sep 2026 15:54:54 GMT",
       "category": "Security News"
     },
     {
@@ -192,16 +248,9 @@
     {
       "title": "Lagos govt donates vehicles to NRC for operational efficiency",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb2l1ZFQtczRhSlp2c0xqemtfQ29zaXJpZjJlT1JlSENFbFprWGUtaXhnMW9oZXFvVVVsMk1odG82WXF1dkZNWWtKTC1VOFotYk9tVHVwdHVob05RMVBkUmFCS2x6UkdmZFROQ1ZZbGVYLXRkTTR3N3cyWUFBbGJOeEhMaWZRTmtjazJyZW9VSDdRb05o?oc=5",
-      "source": "Daily Champion",
+      "source": "Daily Champion Newspaper",
       "pubDate": "Sat, 05 Sep 2026 13:15:21 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigerians’ support for Tinubu’s security measures key to nation’s economic growth – Igboho",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2M3eUVaNWJ3MElHSTQ3Vl9DMGsyYl9RWW9Va0lMcTQ4ZVJGMkRsWlQzTGo5dmpoZU1WQnI4aHZDSkhLNkZFSmxxajZYaTdldHJFSEgxazgwWXdiWU9QT2I4MUlaM0NHanlxYzE4WFpEOTB1RWVOSGpyN3FadWdoRVkwUGhRZ0stNHNLSjBPU2w1VDhGQUhUM1BHZHh6TzdJNklPRXJ6Zw?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Sat, 05 Sep 2026 12:17:34 GMT",
-      "category": "Security News"
     },
     {
       "title": "NSCDC rescues 15 minors trafficked by 'fake NGO official who promised them free education'",
@@ -225,11 +274,11 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC Rescues 15 Trafficked Children, Arrests Three Suspected Buyers",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdlVjdU84T0hZeVBPX3NoWTVicm0wR0NBcmpWM181b01BWGo3bnZ4THpDcUZ0UXpJMHBGVHpKT3hoZWZ0TmVPenAxVG1DdFZObjlUMUY2bzN3WEh3eGtOblpweVNMRkRQbHY3Z0t5X3pMclQxWmdSUTkzWE13bV9sNW1ad0xkTm5rNlZzZVJtaExldk9FMHc?oc=5",
-      "source": "TVC News",
-      "pubDate": "Sat, 05 Sep 2026 08:40:00 GMT",
-      "category": "Law Enforcement"
+      "title": "Lagos Government Donates Two Vehicles to NRC to Boost Railway Security",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYUtuYVBBdjJvRVEzbjJ6VlBDTWZLbjhzb2xlSmlpY1g5V2trOFJiQ3Z2Um1lUlZFZWpzSlJTbjMtbVJoSnZDd0VRV1FXb2tkMlhDeUVPYjNQbWdUdUxIYUhLUGd5cVFLcXRuTlVoTmZlZXJycmRLVnhXOVlNaDJNYjJ4c1JDTVN1NDZlT0xUUGpMakNNQ0xTbTF3?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 05 Sep 2026 09:37:46 GMT",
+      "category": "Security News"
     },
     {
       "title": "LASG donates 2 patrol vehicles to NRC for railway security",
@@ -237,13 +286,6 @@
       "source": "Realnews Magazine",
       "pubDate": "Sat, 05 Sep 2026 03:17:08 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "NSCDC Rescues 15 Trafficked Children, Recovers Stolen Rifles, Busts Telecom Vandalism Syndicate",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjdQY21zMXBsTzNQYjNIQVpwSHdwSkQ0R3NKb2J5SS1IYnJWclpabWlsc1ZldnFpb1BXdTJ2QnpENkVCeTlWLWdHSV9RZV9WMFBEUU90dnhkUnlGeGhHcGxsYV9sbWFjdV9BbW9nUkxWeG5iYXd5bmtfVk15UDA3Vjlub2FPaVFlQ2ExMXRiN0M5MWdtZnRGVEg3QXZtNnhQVTgzXzNKV0ZFNlkzX0dOS0hnMEszNlhCdjhTN0lXVmU0eHY1RlFVbjdXUFRWUQ?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Sat, 05 Sep 2026 02:02:54 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Nigerian Corps NSCDC Rescues 15 Minors Trafficked, Sold For N2million Each In Nasarawa",
@@ -274,34 +316,6 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC uncovers fake NGO trafficking 15 children",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzVQZ2Z2QnNaU3VaTUVGUDNCd0xpTUFlcGZHWmpuZm1STTVKRU82LTB2S3dzbWFzc0lLdkFCenVSRWMxX2lFYkZhREoyNi1XQ0xzeEV1WUREeHRHbjF3STQxb2tGa3N2aGtBcWhtdFNQZUY1c3c3cVRRZjczVUJhNkpoUjdWNk5M?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 04 Sep 2026 17:45:00 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Tinubu’s security drive needs Nigerians’ support — Igboho |",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTNFRXhIcE1wWUZ4R2JOWWh4X3VCTHlWQkNNVDBkUnlrN29PakhiYzRSQnRfOUpzajhoTm1jWF80OEY2NGZNaVAwQmlfWGNUQjNmZVZES0NPUDR2RHRMU216NXJHOHZld1FuNTRWTWlnb0hQVHUxSGY3ZXp4bnFUR0hHMkd2LVBwMko2TQ?oc=5",
-      "source": "theeagleonline.com.ng",
-      "pubDate": "Fri, 04 Sep 2026 16:32:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xTTk3aEN1R19JeVd4ajVwSEVwaHdZVDhmR0dsUGF4M3FhcU5LTV9oekNvMVItQ1Znbjh4akM1TVZmbjNLOUNvYk85U3AxZExPbzdDUEMwRlN0dC01?oc=5",
-      "source": "BBC",
-      "pubDate": "Fri, 04 Sep 2026 15:44:05 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZdEc1V3dwTkpnbXpCOGx5dlZmN05pSzBHUlN1Y0tOYTdCTFp6aWpqbWxCT3ZrLWF0alZiaGc5TVJOaloxeWtWQUZDbXgxSmpNeXNHVFYxYnR6aWVoZnREYUJ3RjROcHZSNk84dVRZNNIBb0FVX3lxTE1PRzNnYjJIblhrdFVQaTFFVURUWTZ6Mi1yV1IxTnJFRkd3U3RXVzlKbTA0dE9uNXk1Z1Y3ZHpvQ1A0c19iWW80aTNoc2diUXFMMmdES0I3dWJnRkMtZmxFaVNGS0J1QWtvUjFNcVE4VQ?oc=5",
-      "source": "DW.com",
-      "pubDate": "Fri, 04 Sep 2026 15:42:09 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC arrests officers over sale of weapons, recovers AK-47 rifle sold to buyer in Otukpo",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXFjT1FPNEotWVo1RmFWdmEzM2J4RzNSVTE4T1dZTWVLTkk2SDdjZ3NQQ0YyYjBjMmg5M0xra3YzTE5xNmJINjFnRzNiS1JzRTllbGszT09RVnF1OTVKb28tSG5YRWd1QTFyODY0M3M4a2NrOG5lcmlVRjhQVVpCa002bVFTYlRyUEdEN1I5LUhHbFpEODh0OVNGMmJLNWJ2bUo0bGhYTHZYWmplS3JQeUZTZkh1ZXR4LVVBdVV3?oc=5",
       "source": "Daily Post Nigeria",
@@ -309,25 +323,18 @@
       "category": "Law Enforcement"
     },
     {
+      "title": "‘If I Were Nigerian President, I’d Give Terrorists, Bandits Six-Month Amnesty To Surrender’ –Sheikh Gumi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnk1QW5yZS1FUWZGclNvTFE2RGUwMm9pZXJfVUl3V08yQV9PT0ROU084TGE0c19SRy1EcFRVYVNHNWhPZnBsYTB6ZnZraEQxd3BUNnB5bjdHZVh1M1o0NDhLR2tGTzdFZ05mRkI4c3BTNmRoekRCM2hBYkt5bHRFQ1ItRm1vc2hzWGp5bDc5emRyN2RGNlRjdlhEMW9kWmFOajVaV3EwRGJCVG8xV21pWHIwRDZ0MjVCOTg5cGVBcw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Fri, 04 Sep 2026 15:17:24 GMT",
+      "category": "Banditry"
+    },
+    {
       "title": "Sunday Igboho backs Tinubu’s security efforts, vows to fight banditry in southwest",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQU1rV25HSGVOWW5NRnIydFREVU1DbFN5d3pBUkxSUWNrdWYxSklXLXdPM0NxMUFjWlVxYU1LdndZMjZzSmtJTDZnZXhXQnBuekx5UFlYcmtXalFTMWc3ZmwwaHk3Z2pGWlNkUHItRk50aEtPcjl1a0RXRVRjc0d6ZW9jVnNrN2N1dHMwcjhHMi1MUk83RlJ0MzFsSURmMlNBWnNEZXR0THdSeWNCVVc5btIBtgFBVV95cUxQQmJfOHFLOF8tRGlMakpoVU1zZVR4Q3NJWXJxYXMzOU9HQnozNm1SZkEyZDVmME5XYUF0NGdPdFZZVFJYV3ZXdVJjbl9PNG9vQ0hFblluOEc2LURJTTIwZ0VrbzY5TUJNZy01ZWRJM3FyeHUzMVJieDY3U2x3R3Y4V1JWREVHWjhRcXlNdFpGN2x1UDNUSy0wMW1Sc01nNHpWMmR1OVU0OUFla3dOLXhuMkhBR2RJQQ?oc=5",
       "source": "The Nation Newspaper",
       "pubDate": "Fri, 04 Sep 2026 15:16:20 GMT",
       "category": "Banditry"
-    },
-    {
-      "title": "Nigerians' support for Tinubu's security measures, panacea to economic growth — Sunday Igboho",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaldBSW1TTnpxQjlIOU5BRk1FNHA5eklaNkVmcG9nQk9VWU1DTTVENEh3WmYxc0toOW9rVE5NUjRISUkxUTB5X3JMNnM1Q3hiUkZRM19ZSER1QU9meGhBRV9VUk5aOVZNcGJPbHRKUXRHMlNPc2JKU3lZLWROWnpBNTFTOUJvdEdiN0hSbDQxQmp2WUxhQ1hSdTJYa0VOeGpYZk83VDF1YUpKNHI5Y3RPcy1jQkdJZEJU?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 04 Sep 2026 14:52:12 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC arrests officers over alleged sale of service weapons",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnVwQUk3ZkRqT3NMT1Y2LVFhVS1QUHczUXlmVzdFcVBYUjBSN1VQMXdsNDVLeTBhS2kxQnkxckc5UHpPaXBQaTdkV0lIZGplVzVmcnV4Rm9FX3ZPdlMwckxDZFdSYVVSUF92bjFVNEJSZHBIM1BsajlzUTRiQWtKWjdTSTdyV1VlaHllem1WX0ZqZS1jVExXdXAtbmc3UEItS1Nsa201TXRUZkU?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Fri, 04 Sep 2026 14:46:38 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigerians’ support for Tinubu’s security drive crucial to economic recovery – Ogboho",
@@ -346,7 +353,7 @@
     {
       "title": "Motorcycles share by politicians end up in terrorists’ hands – Defence minister",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazNfQjBnWjNZOWQ5eGM0WWF5RWhtTVMybjRqTkpIV2psT1NMdlJxWEZoTTBON05xVEZVSEswUnY1OFd5ek42emctT3Q3NnlOYlMxQ3F1YnY2RHFfYnlSY0RkazFHcXFQSXhiT1doWHYydEtWV3pXWjJtRl9NeDdtcXdaUWFycmZmbXNaRTFZaTJ4cnJkdG1oVVZkSXFsZndiLVFYbXBLbXo4andHVjM4?oc=5",
-      "source": "21st CENTURY CHRONICLE",
+      "source": "21stcenturychronicle.com",
       "pubDate": "Fri, 04 Sep 2026 11:25:11 GMT",
       "category": "Security News"
     },
@@ -355,13 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXB3R21FZEdvMlVGbHJtcFVLeGFPT0ZyM0VNb3hraFBCTGFSdHk1VVVIWWJqT0ZqR3lmeDdLZ3VxYW5qQTlvajhLdVp4Ykt6RFRiRVdYdnRWS2dkTWpwQVBMTVE0UFNldmF3a0JmanVxajlQeFVTTElyelFfQ3dmUi0wM3pXTnRIa3JUR19mTTROV3hxcjU1Nw?oc=5",
       "source": "Tribune Online",
       "pubDate": "Fri, 04 Sep 2026 10:46:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria Must Merge Defence, Tech and Democracy to Secure Nation, Avoid Leaving Behind Empty Shell of Sovereignty - Prof MT Ladan Warns",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLVpEbWdld19tbzZwelkza0FRSGExc2VRVjVlaXJzRnVIWmc4ZXNJQ0NWWUd4SzVwbXNTTlNLOGxYU2tnYjBOd19ENlFBWWFiZ0UwUEdJQmFnNmpWMlBOTzhDa1lnZmRaRW5RMFdQUWt6eWFVWFRXLXE0ZUUtS3NIOWxoUmxxN0FkOHBjWXFwbkVKcGRKWUVLUHdtTnRkSVM3dGxKdVVhdUUtSG1FcTVBV05vcERIOU1Md2NkcTJQY0o2bHBVazZhMFFmYTZrOWFCeXZrUTR0akJwSkRheXdRQ19weE80Q2l3dVV3SnB0TkdxcXBpeUI0?oc=5",
-      "source": "Education Monitor News",
-      "pubDate": "Fri, 04 Sep 2026 09:50:58 GMT",
       "category": "Security News"
     }
   ]
