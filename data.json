@@ -1,39 +1,144 @@
 {
-  "timestamp": "2026-09-11T03:28:33.431Z",
-  "generatedAt": "11/09/2026, 04:28:33",
-  "totalHeadlines": 177,
+  "timestamp": "2026-09-11T10:45:31.921Z",
+  "generatedAt": "11/09/2026, 11:45:31",
+  "totalHeadlines": 175,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 18,
+    "Law Enforcement": 17,
     "Security News": 121,
-    "Military/Security Operations": 9,
-    "Insurgency": 11,
-    "Banditry": 4,
-    "Traffic": 3,
-    "Kidnapping": 9,
-    "Armed Conflict": 2
+    "Military/Security Operations": 10,
+    "Banditry": 3,
+    "Insurgency": 12,
+    "Traffic": 1,
+    "Kidnapping": 6,
+    "Armed Conflict": 5
   },
   "headlines": [
+    {
+      "title": "Nigeria’s security challenges not religious war, says Muhammed Idris",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzRWZXFBRFhiOVN3cFZTckJKem1qQW8xNURUUWNUdHo4eTc3dlBlV0RTRmY5Y3pOY203eGIyTU5hRG9UeUlzaXNqSlBJYmVvWk1WZmlDNG85NmZ3aTdSOXFQS05xUlRIRzFfSHlSYllDWkRKcjJrU0RjdTRONHNPTm91QUpwYVpqejdfOVI3YWl4VFhvZlE?oc=5",
+      "source": "TheCable",
+      "pubDate": "Fri, 11 Sep 2026 10:17:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Violence and displacement erode Christian presence in northern Nigeria, report says",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2lmaDJva0xDb2VYcGtReG5MQi1YTktweGZoUjVEd0JpeHR6aWVXMFhSem1KQmZGZ3ptbXNtSmloTFlwa1NxRDZNdnNGSG52VnFTUkJ2V1NrejNoTHBxVFpRV2thNUc5S0Zja1Azd052RDgzcmRPdXhTNk5ZNTRsbFRVWVlHUEVWQnl6c25nbkhaR1k4SUJFTnRKXy02NDFobUcwYzJ2dEpaZWZBQ1djU3Jja2lLODJUNFE?oc=5",
+      "source": "www.christiandaily.com",
+      "pubDate": "Fri, 11 Sep 2026 10:15:18 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Awimero: Knowledge gap threatens Nigeria’s maritime future",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenJjNmU2bDBBZllGOGdSSGN2bjg2LWlhRkVtME53N1lGMnA4TkxfRUtMQ1JlQVBTeUc2T0ItTW82OWpubkI0c0NGRndDbTlFSXBUTW9qYzZORHg2bTNiM25tUEtzSmNkZWx3SzFRaERYWTkxVFdNTHJKTzdsbHFudENJZnNSdHQwUGh0MmRseVDSAZYBQVVfeXFMTUlvWEROa0pqaUhlSERkdDVCYk5YUzBZanVXN1pUVjNIVGxKUmV2ZWxqb3VTdm1oVXpnQlo1X1BnaG93ZWZHaG1qa1djaFdIMjBXRGVnM0ZoUko1RWpudUY4ZjMtXzhyTnhyYTNjZGxHYU15dE9xNkFMWXNQLUx3MWZyVnp3bUNmUC0xTW56TmFqQTdvOFFR?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 11 Sep 2026 10:15:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Navy arrests, hands over suspected oil thieves, seized products to NSCDC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNak9RRUxNR1JSTlR6WXFCb25veDMwRVZZRF80ZXI0djBWTXZUT1ZabjktX1hHN0ZMYi1IQXktM1F0YS1qQXJ5RkJWcEZxYkRrdno4MkZPMTJFQmN1UW1QWE1obVpfR2hBZmtMMkNBanYzRXhRZ09qa0ZiRnBhai1LMVMydXV2WnZBR2ZwRzBVYktoMmxpa3FzTEswN1M?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 11 Sep 2026 10:12:03 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Police bust alleged child-stealing gang, rescue three children in Ogun",
+      "link": "https://www.vanguardngr.com/2026/09/police-bust-alleged-child-stealing-gang-rescue-three-children-in-ogun/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 11 Sep 2026 09:31:52 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian cleric ‘killed’ in South Africa as six others extradited to US",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkNfWk9hak44OTFsaER1OW5nbzgzamNWOWdFaG9QbEhDYWRiZFJvSC1obWpzWG5EbkdoUl9HV0U4dkgxbGhaNTR3ODJNREpIZ3ZnSVgtSkVaTXJQQk83WjRIb081TnFkRnFxUDlGU3RCRWFULVk0em1qLWtGMnp6amlMWmxWeVZKX18xWm1ZazU3VkhzRVkybkJKR3k0UXM?oc=5",
+      "source": "The ICIR",
+      "pubDate": "Fri, 11 Sep 2026 09:09:03 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "National Assembly Suspends Legislative Engagements With South Africa Over Xenophobic Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkFlSEh2dUVCUGNVV1hETllqUGRTSzRneUhnNnBMS3B3Z1FJTDJRcGk2NzQ1aEMyM1ZtYUNTYTIzbE9rc1F1OXdTYVdrMC1iakd1N1NCWGRmU1NDaFhueEViSTA0UGhNeS1oc3FTZ3ROalJzMldFbC14MzhITTgweXp0TjR5TXhTMWFvYWNnV1JXOEp6OGM0dGhFTTJ0ODZFZnlwRnNuNVpVaFZKbjN1dXdmd0l6RGR2M1BtWVI4M0RyUnN4X1Z3bW12VQ?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Fri, 11 Sep 2026 09:04:27 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "National Assembly Suspends South Africa Engagements Over Xenophobic Attacks",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDhhUEQ0b0hyWW4wdExxNWYzT2h2RmlCTXBJSUdQWTdRVVBIeXUwOTdSSURZNXlZU0xvXzVxOElOLU9jakdVNF9fZEIwLWF1MkR0ODY1SWlXamp1c0dlR3Y0OGRnUENaZUN1Z1lsUlVZaWpkNFBRMnJqd1pQeWNfVTNRTTBiMjFtNU9LYVFyXzBabXlEdkZMSndkaUJ1SHk0Vl9QdW9iM1d6dFBaTlJGbFZ1ZWVBell4QV9Gd3F4SXQ?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Fri, 11 Sep 2026 08:56:07 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "IGP vows ‘safe, secure’ vote despite insecurity",
+      "link": "https://www.vanguardngr.com/2026/09/2027-igp-vows-safe-secure-vote-despite-insecurity/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 11 Sep 2026 08:10:57 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "New York marks 25th anniversary of 9/11 attacks",
+      "link": "https://www.vanguardngr.com/2026/09/new-york-marks-25th-anniversary-of-9-11-attacks/",
+      "source": "Oboh",
+      "pubDate": "Fri, 11 Sep 2026 08:07:51 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Army Advances Strategic Leadership Training as Senior Officers Graduate",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUxvRGlkZU9YLXAzVmh0dk5UUGNUQXd0RFExQTFnc3Y3Z1l2WC1mdnU4a1VXclJ4LXBJQk5vcnY4VDhKSzkxQU1UVXlYcUNqM19mU0lvWXNVcVhaSWp0WjJGMXAwb2tqTlVja2JUYkYxa0x5c3BmTXZvQjVnUWhGYU5nNnpKWlNwOVgtd3ZqSkVBUHF5emc?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 11 Sep 2026 07:27:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "THE INSIDER: Shehu Buba Umar, the maverick senator who is both an asset and a liability to security agencies",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFIwQTRIQ3hqREVDNTl5SWtYcHN6ZVVIZ0xscG5XZEdGd0gwV2R5U2hiSk9iZ3d4TWNMSjBVSXRaUEx1RG0tTldkb2RINUtvTWNMN0M0d0VYZ0xsY016UzYxdGtPVnV3RkFIUGZ2SmlWdkpkZ3ZVMDlRYTVzcWZtbHhsWmNHd3VpaG9DMEtFZnNSRWEwR2tnR005Vi00NWwxaENsNFdFQWw1THprWnNORTFYdw?oc=5",
+      "source": "TheCable",
+      "pubDate": "Fri, 11 Sep 2026 06:00:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "World’s strongest military sends giant C-17 military aircraft to Nigeria as it awaits $346 million U.S. package of rockets, bombs and explosive warheads to fight terrorism",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGE1THBicjJxcndHUXRodUdKbF9zN0E1WHZzdkxTdzgwbjB0bkFrWGVjQUh4RF9PNll0MTZDcXp2X2dHSmctLVZKRjJLNnpOdDhodjdHb3U1eXBkZzByRThIU1FnRWJ3NFRTUDg0NHduZzlpVFVCd1dNRHdILTFPOUprTXpyZ0E1T3lpUWxGNUJLWUFKbGRtejFnYnc2Rm9BNmRLZjBCeGMzTDI5YnlRSTFGd3dzaVo5dl96ekJmY0ZoNVVEemtzbURBVktka01GTDFZ?oc=5",
+      "source": "africa.businessinsider.com",
+      "pubDate": "Fri, 11 Sep 2026 06:00:00 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria gets more U.S. military equipment",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmQ0lnZ19jU1ZtcWNTbExiMWY2SXB1ZEFiSWRTY1haTmt1cUR0YUxhLXd5XzlDMktsQUxGWnIzT3E0RWRwdGFqdzkxangtd2Y2RmdESHFpQjdlX3o4dF9ha284N0wtWWotbXA0eVc3YUZHVHBNbm5oWWN3ONIBgAFBVV95cUxOOE1haF9LN2pBdUpTTmlSTnZWMmxlV2JhQ3pnaTBBWGxOSlNqQVEySEwxTWVBbWRqaWtlSEotMDUyeHMyZ2hvZ0p4ZW1kaXBpbnZJR0VucUFMZGVjNmNRSTFpbDhGVTFqSThYOWcxMUtXTXNuVEh6amZpNndzWVU5OA?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 11 Sep 2026 04:56:26 GMT",
+      "category": "Security News"
+    },
     {
       "title": "Police nab six over robbery, burglary as NSCDC stresses due process",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMW9VT0xIV2IyUEszZVV5bk9LT3lJZlZRUndSaU1vcEF4bzJXX3FNMDhvSmlFeFY3TXh1STdHZzduZG45eWd4bWJtcG0wMzlhaGVXYjlseXZ2QXlHT1gyQWdqeVFmMGpMWTBDYnF2QnlvV0pGbWZzeXhpbjdoV2M3RVlCcC1ualdCcE42NjdxRFMxZGpoODhNZXctMXNOUU53cW9xWllYai1KUQ?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 11 Sep 2026 03:22:34 GMT",
+      "pubDate": "Fri, 11 Sep 2026 04:16:00 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Kidney crisis: Rising cases, crushing treatment costs threaten Nigerians",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGdxbzZ5Q0tjdUZDdXdtVDZnaFhydzBWRGFzejN3NVN6dnFtdmI1SU5ZTkJ2OEdsczVhSkJKUmwtMEVfWWkyTzlqMXo4ZXpUSDRZLWp5UTRoUUxUNFd4SHJrdFAtYU9adHdkTmdnSVdTUmtETTQtMzVXQ3VidDM0ajhaVVI0eTdsM2JLYUIyR19GWlRoMGhlZzBEZXFYTHdSZDltVktCR0hXbHfSAbABQVVfeXFMTzlWTHhpazdEcVNSbEFIX3V3YVFobXN2YlBuSzFUVXdsSzZZYVRiWnZGeE5neENNOHNTdlZQeDFPUkpDRlNSYTc5eEtHcHFoeFlRM090RXBlRHA4cVZ4dWtSQnVSZGV4bWJDc1BHX1hSb1lQSTNRTnAwWEZvOVpYSWppTGhaZzNIbWJGX1o3dTNFejY0X1FNZnFpdG51YUhmcTlobGg0endZb0VjaGUtOUM?oc=5",
+      "source": "vanguardngr.com",
+      "pubDate": "Fri, 11 Sep 2026 04:15:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US Delivers Military Equipment To Nigerian Air Force As Security Partnership Deepens",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXA0S2ZOWXBZZ1hLdVhub1pkbXliYl9VMnA5V1VQcURpXy00NG42ZF9WRGRwYkNXUGo5Z1NHT3FKZXFjUXFRQ1FqWlJUbXZ6dkJkYy1TbWd5blRDaXFpSkIwUUVKeFpLeXJPaXZhX0FBZzlKR1hITTlidXZWWk9rUWZVSl9VS2tDWWZoM0x0REZEZVZSc1NYbm5WNjQza19mbVBja3luZ2c3NnJBSUl6SFNDVXlCckd0dVBCd3VWMEg?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Fri, 11 Sep 2026 03:30:45 GMT",
+      "category": "Security News"
     },
     {
       "title": "US Announces New Delivery of Defence Equipment to Nigeria",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3JNSmFkQWsxY1BnVXVZbjZnZjVGLVo5ZS0xOFkxVGN6NWtmYlNOVTdFdlU3RWRZLXMwQWF2M3NBeHRyRkhVLXRJazhtRVpxaVNRQWw3UUYyWlhFTnBkSjhDTUlzTzNXVlEtY3VTXzlEd1ZVM25xX2doMF9FNWZhTlJJemxXTEdtdDVKVU1YOUo4c2pBeTRCQU52dnROZw?oc=5",
       "source": "THISDAYLIVE",
-      "pubDate": "Fri, 11 Sep 2026 02:43:23 GMT",
+      "pubDate": "Fri, 11 Sep 2026 02:15:09 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Can Nigerian Education Survive Attack?",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfRUpRMkFjTnh1N1dGeG5DTjdQQjBBOE1NRGhyODV2YUdWM01qOHA2TWpqclJvSWl6c0RadC1qOG40WDRENHNoMDU0ZWZqdUpHQjZ1RDc2V1E3a0c4em5rdWUyc3FJanR0elNCYg?oc=5",
-      "source": "leadership.ng",
-      "pubDate": "Fri, 11 Sep 2026 02:35:30 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "US Delivers Military Hardware to Nigeria Even as It Draws Down Troops What the Two Moves Actually Mean",
@@ -43,11 +148,11 @@
       "category": "Security News"
     },
     {
-      "title": "Troops rescue 13 kidnapped victims, intercept terrorist ammunition",
-      "link": "https://www.vanguardngr.com/2026/09/troops-rescue-13-kidnapped-victims-intercept-terrorist-ammunition/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 10 Sep 2026 22:14:28 +0000",
-      "category": "Kidnapping"
+      "title": "Nigeria's security crisis: What's the way out?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
+      "source": "DW.com",
+      "pubDate": "Thu, 10 Sep 2026 22:34:56 GMT",
+      "category": "Security News"
     },
     {
       "title": "US Military Delivery Boosts Nigeria Security Partnership",
@@ -61,69 +166,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWEMtNGRJMjh5VWNiUlpKTlJVQVgzQnUwdUo4bjBzLU5CZjJ4a2ZieEhIUGgtUnZNMXlCMTBFWWtjaFhqTkhZcFVkZFBGallOMUZOR3Fodk1VU1RiZEpnWnBNRDR6ZFRjQXZDWENrTE5jbFFmMl9NUTBhajA2ZjFiZGV1Nk1MdDFHWkw3RVRXLUR0blJiNS1BVjNZSG5KRzRGOHR2Z1BodWZoVkZ5MnhfOFhxdWhfdlhzY3FsbVN1N0VPZFZQS0pNTTg5d1lkcGxURmw2N2hFbzllVDBsRVZVNzByWjBGNS1sbVA4WS1PNUloeXZ0VFNWSDVPOWp0ZEE0Z3cwbGd6RQ?oc=5",
       "source": "defence.gov.ng",
       "pubDate": "Thu, 10 Sep 2026 21:21:27 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "US Delivers Military Equipment To Nigerian Air Force To Boost Fight Against Terrorism",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHY5eFJ2VDVQX0xYRmFaVUk4NmJxTVMzOUw2ck5HWEt0VFU3cnQzRi1rNE44MnVZUWlRSVZLXzlydjBRRkVpTkt3SU1RWlhRcDZwT2JQQl82bUJYX1pPR1p2U01GcGltTXRFZEJQTlJoV0UtYkJoWTNjMDRpNU9VdVdHSTJ3eEpfYUl2M1FHRHRPcHlNRklxUkNDWnQ2dDVBa2NkRlpVekFDYllyVEJlSzVxT1FtYzRzblE?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Thu, 10 Sep 2026 21:01:03 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Nigerian Army Opens Applications for 92nd Regular Recruits Intake",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MzhiZUthT3dtRHNPU0I0dmYyV0xWaE16QnJwMzk3dXA3TE9yd1ZjSlFnRnNlSjd0Y2Yxa2EzZ2F4MXQyYmdRakg4eGdjY2MyVktlQlpyMWFuVkNRV3JnRjNFVU9LZw?oc=5",
-      "source": "prnigeria.com",
-      "pubDate": "Thu, 10 Sep 2026 20:16:26 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Yobe records 511 diphtheria cases, 13 deaths in 2026",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ295S2tmV3o2SG1qQTBfdVNONDdLVlQ5a1V1enZVekMxcEdueGhDVFlsNlNwVVFGZzVtRWgzbEwwWE54Y0V3SjZWaGpOOTNkajRBdldrTEJ0b1JEbWJOcTJMc2ViZzA2REwwaDEzQU5IRjZLSW90dUVFNnZVY1lhRDF5bVdHTzFiVmpyRERiQVhfZmlPQ1MyaGFqVkljejAwRWF6Zkc0RmhkRzQ2S3I0T2gtRQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Thu, 10 Sep 2026 19:51:54 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Court adjourns Anthony Joshua crash trial to November 17",
-      "link": "https://www.vanguardngr.com/2026/09/court-adjourns-anthony-joshua-crash-trial-to-november-17/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 10 Sep 2026 19:44:53 +0000",
-      "category": "Traffic"
-    },
-    {
-      "title": "US Delivers Military Equipment To Nigerian Air Force As Security Partnership Deepens",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXA0S2ZOWXBZZ1hLdVhub1pkbXliYl9VMnA5V1VQcURpXy00NG42ZF9WRGRwYkNXUGo5Z1NHT3FKZXFjUXFRQ1FqWlJUbXZ6dkJkYy1TbWd5blRDaXFpSkIwUUVKeFpLeXJPaXZhX0FBZzlKR1hITTlidXZWWk9rUWZVSl9VS2tDWWZoM0x0REZEZVZSc1NYbm5WNjQza19mbVBja3luZ2c3NnJBSUl6SFNDVXlCckd0dVBCd3VWMEg?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Thu, 10 Sep 2026 19:44:44 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Terrorism: US delivers fresh military equipment to Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN1VkS0piSmFjZEhjdHNDdGIwX1RXemUwQVBNVnhBTWtmbjZhS1pIVEFTNWhFWHBkNnpZbzdWRTRRTjNkS0VOdzFjeTVoX1NrQUtyX3U4bWhqbUZpb05UV3VrUEw0aUFTZjhYRExyZ1N5Q0V3UUJzR1Jmb2E4anYyTTVMcmhjNmNWNGVr?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 10 Sep 2026 19:28:00 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "West Ham’s Alvarez denies kidnapping allegations, threatens legal action",
-      "link": "https://www.vanguardngr.com/2026/09/west-hams-alvarez-denies-kidnapping-allegations-threatens-legal-action/",
-      "source": "Henry Oduah",
-      "pubDate": "Thu, 10 Sep 2026 19:21:42 +0000",
-      "category": "Kidnapping"
-    },
-    {
-      "title": "Insecurity: US Donates Military Equipment To Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONlRUNHhJNldMbFdvOWJ4TF9jaUZrOGVDcDdQTGxaaExnUEViWkp6N0loWV8tVVEySklBcGdsVndyVWQzaU4xR1oyYkc2alYxZkhkM1FyWC0zWVZuVldCaGRBcjJfdzI3ZjJ5WWZoSzVSelVIZWFuRGNfNHZZODVoQ29Xd2F1eXdaRUZlbm5ST2VfbGxRVHc?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Thu, 10 Sep 2026 19:20:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Family seeks justice as butcher hacks 25-year old wife to death in Ekiti",
-      "link": "https://www.vanguardngr.com/2026/09/family-seeks-justice-as-butcher-hacks-25-year-old-wife-to-death-in-ekiti/",
-      "source": "Nwafor",
-      "pubDate": "Thu, 10 Sep 2026 19:07:00 +0000",
       "category": "Security News"
     },
     {
@@ -148,6 +190,13 @@
       "category": "Security News"
     },
     {
+      "title": "Terrorism: US delivers fresh military equipment to Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU5aQmZIUVNFRzJjeWNSbVBPZE9fSC0wQVZ2MnhOZW11T2pobUdSaldyeEJZSmpKTTU2ZWlUY1VkOE9BVkVMV2dlTTlaQjVfQkotV2pCZGR5U3M5YTNjSFlLSWRGazZGQnlEblpuM29qU3UxYWRod1U3aUE0bVJLVExSMGRCcjAtR2hpSXJza1lwNFdOTGdIYndicw?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Thu, 10 Sep 2026 17:30:04 GMT",
+      "category": "Insurgency"
+    },
+    {
       "title": "Rivers State Police Strengthen Inter-Agency Cooperation",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakx5ZHNfa0twRjJCLWRSVEdtbkUtQmI2aUFkQmkyYmwtQ3Z1WjVISE5iMU5Ycnd3UURWeUxzYWtxZ19uNExlYXdFeWptc2VQTGN4MElseDRkb3R0MndyQzhUbWZFZkdhNGdZdzlvbDlFcnljOHpYVmZ2cV9XN041Vw?oc=5",
       "source": "Voice of Nigeria",
@@ -169,23 +218,16 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, Egypt Deepen Aviation Cooperation As Keyamo Meets Egyptian Counterpart At EIAS 2026",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOekhOd19ZOVhDckhyajhYbkh2TG5Fa0l0Q1VTbm9QdE43cWhXZVJXblVDUFZYRndMQk84Mzh2WE0tbFpETmF6RkJETEZMZHZaOXh6MmM0bVBTN1lTcUMzY2NjYWdEcXcxYVJSaG8yUTN1QjJFcU1JYVZ2SHlBUUZ4OG1vaHlNU0dEX29SX0Z5d09TMlZkWGk4NFB2RkVLVjVQU091cWFoVXcyTUtEV3N2WnlwZ25kZEM5WTlsbEtfVHRnaWNqZUFsa01vWQ?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Thu, 10 Sep 2026 17:07:59 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Nigeria’s Senate President Akpabio petitions security service over alleged anti-North post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUE3Q1FkamhuUkNhdzRydWlPOWFaYUE1RWthZWc4WmwyNUZsTG5yU2dqUXl5bExlZWxJa1h2ekpiMUJTY2FzaGRKTFVTZzFJcVBOZnRUVmp1aVNqWGdhckJRbHExT29xUk9XSHk0U180MENGWEY0b3U2dUNqNjN5eTNmTjYySXp3NFNSN0NzMTFDTUdXdV9QMEg0ZmV1X1lYTGtwQmc1cnlEV1pEZUo0X0FsckphT3ZacEE?oc=5",
-      "source": "UA.NEWS",
+      "source": "ua.news",
       "pubDate": "Thu, 10 Sep 2026 16:57:02 GMT",
       "category": "Security News"
     },
     {
       "title": "PHOTOS: US Delivers New Military Equipment to Nigeria for Counter-Terrorism",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeGdTUFZiY2lqWVRzdy1RUTYyeDFKNllqeGRnbndsZ2ZWcHJwNUxRUXQ2ak51X18zWE9zczhVQ1NKVjRtU18wdVJXeTNyZ2FvM3F3MUczbWtldlo4RkFnU3JmNU53OHNoWWRpbXNjSQ?oc=5",
-      "source": "prnigeria.com",
+      "source": "PRNigeria News",
       "pubDate": "Thu, 10 Sep 2026 16:41:51 GMT",
       "category": "Insurgency"
     },
@@ -197,17 +239,17 @@
       "category": "Banditry"
     },
     {
-      "title": "US Delivers New Military Equipment to Nigeria to Boost Anti-Terror Fight",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84MjF1UTV6dmhSY28wQ2EzVWItYjNGUzlQOEpDczZPRk9xdlh3RS1BVXF3VUdGOURDdldZckd2aTNXcnpCM295QVdISm5MOWhES0tpN2RTcU9CNGZqaVRuazV2NHVkQQ?oc=5",
-      "source": "prnigeria.com",
-      "pubDate": "Thu, 10 Sep 2026 15:57:59 GMT",
-      "category": "Security News"
+      "title": "Don’t Portray Insecurity as Religious War, Idris Warns Clerics",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDNteDlaQjlBTTFISFViYkRoTnItNk45b1hnVHlxWHhtTUtmcHFpZXpJYnMtRHJmdTNZVGhoNXFEVXgxZVpUU3dpZVZFZ3g5amV4UVJzMG14TVREdGdhdVhjVTBUNGVwNEN6MGJHd0hRWXFFRnBpNE4ySEpvdm5Ta0tULWlnUmFIbWJEN2tSU0pUOG1oNWZNRHN4WXQ0UQ?oc=5",
+      "source": "Real Broadcasting Network",
+      "pubDate": "Thu, 10 Sep 2026 16:05:47 GMT",
+      "category": "Traffic"
     },
     {
-      "title": "Nigeria, UK deepen diplomatic ties as British envoy commends Tinubu’s security, economic reforms",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkx1Z2dvUzNGWGc0c0I4QTFtRHZ0UGFTeGlqcFB5Q2RFVEd5dFRlOV9NV2FkeDFnR0o3cFlaX3JCUUpHYU5QV1NaWEhlN2Rsa254Q2lVZDlsX1hrV2RxQlpRODJxeFdIUllBcUtzcGlMZnJVeVlKWTlldFRvbFB6TmhkM0gybThibnVTeGtDQXJkTHZjeTV0VHItN0tpcWtlZGpkUUtDRzdodFVLS2JlbTZaaXIwUQ?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Thu, 10 Sep 2026 15:57:50 GMT",
+      "title": "US Delivers New Military Equipment to Nigeria to Boost Anti-Terror Fight",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84MjF1UTV6dmhSY28wQ2EzVWItYjNGUzlQOEpDczZPRk9xdlh3RS1BVXF3VUdGOURDdldZckd2aTNXcnpCM295QVdISm5MOWhES0tpN2RTcU9CNGZqaVRuazV2NHVkQQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Thu, 10 Sep 2026 15:57:59 GMT",
       "category": "Security News"
     },
     {
@@ -234,7 +276,7 @@
     {
       "title": "NSCDC foils attempted child trafficking in Kano, arrests two suspects",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdpTEdhTHFUVmZlYkp1N3Y1R3V5Wk5ubndCOGNCV0tieG1sdVRmZVNXZ1hydUxKZzNDV0hjdXFVa3hZWmJDMk1OMm9SbEpLQXZrZjNTdFc0bHNpckU0VG5tX2VfQ3RNcTdhSmg0M0hRNFNhQjNvZ0o0R29MUjZwdi1hZy1ON0lpOE54elJmYktQYlk?oc=5",
-      "source": "Punch Newspapers",
+      "source": "punchng.com",
       "pubDate": "Thu, 10 Sep 2026 15:14:06 GMT",
       "category": "Law Enforcement"
     },
@@ -253,46 +295,11 @@
       "category": "Security News"
     },
     {
-      "title": "dead, 50 hospitalised after suspected poisoning in Nigeria’s Ondo state",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRndXbU5BZi1uU09zQzZZZ1F3QlNSWVprcmpVZ0J4QnBTemRLcW1ELTNtSlB3ZmEtQ2VTcDBWMVJ5Qm1nZUdSWHJralFrMXlsdUJ4NzB4cE5SMGJHR0JvLU13aFlsYXZHV1pETC1ZTElDaGRuYVYyVkluR1ZYWmFmemFDTG0xSmZybEFsN1V5TDFBMlRoSUlhdE1zUXdqMl9aSFhEY1VkbEV4ZVYtVnU4QktjSQ?oc=5",
-      "source": "Anadolu Ajansı",
-      "pubDate": "Thu, 10 Sep 2026 13:54:55 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Insecurity: US delivers military equipment to Nigerian Air Force",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNU93MGpsaXNQWnBtQkFCSFFGQzgyUVc5eFB3bGJNTy16WEtLY2ZOZHFYN2ZQWDNEdG45RnFabWxUcU9obXdZRnZnSV9vVER1cnZKbmZBMzZsbU4wSy15M3BNQWdPM1VuemViWDRMay11OFN3dmM1N0w1bklBRkZpbmlwb2xWMGtRT09GeHhaUVhOOHZyWlppVEExZ0k?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 10 Sep 2026 13:51:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Diphtheria deaths in Nigeria’s Plateau State rise to 27 as suspected cases hit 303",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRFaWNFc1R0ZjBjZ0xyRWQ1TFNFdTViX3JWeEdNWllubTZCSExMbGpLZmZBNVNLWXAxQzZkNGhHM3dYVVFxQzlPeExQQ2RfNzUzZi1jbW5zVVI5d1loQlI0MlF4T043elRjaUVpcmtaalZEZjVUV3FYUnVkZVNtcC1kcFhPMVRIcXNNeUF1N1U3QXpqT015eS1JQ1kwSkltNzBqMWUzTnQyV2U2S0lGdndNeWszcGFPTjg1OHRqcw?oc=5",
-      "source": "Anadolu Ajansı",
-      "pubDate": "Thu, 10 Sep 2026 13:06:48 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "El-Rufai: Defence minister spoke from informed position, experience – CSO",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZW10VmdKQzVXMTV3TW13aFNOWE1POVp3OVF0TjNIVG11eGRlTk1tTzBsajRwWXN2T2xKWHJIOTdSTHZvVF9TZmR1OGpHVHFSN3F6UDR0bDM5ejNRTVlfSXBYZ3VpellzVnVnQnBzQXB3NUw0OEljaFVLYmhLbmpyLVFHbjRkS3BHRm82UWxrNU1QVVlCdkE?oc=5",
       "source": "Blueprint Newspapers",
       "pubDate": "Thu, 10 Sep 2026 13:02:45 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Broken healthcare links threaten Nigeria’s UHC ambition – AMCE CEO",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDZ1NGI0TEpuUzBnUHJ1eEVsQlRoOUlOOVNtaWdPY0VBX0RJNkp0WUFWaG9iY2ppc2VRR3lQWXZwZEZWcDJkeXNQZ0FwVWpBdjJwSHFpLVM5cU1DZXhFWjlZeW1weDlZNzA5SEZadGw1OTU4ckJfMHRqTXlXWjJiNnhQN0l3b3NEdTh0RmJMcnRDNjBhX2U4OEVSb0N3WWY2ckw1Wg?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Thu, 10 Sep 2026 12:56:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ICC dismissed Nigeria’s kidnapping petition. But it didn't decide what many Nigerians think it did",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnhzZ0RRdFB5TkZ4RGlvUUoza3JJbW0ycHRNMGpoeGlHcnlETDg5U1k2am9KOG90Mk9zNUpYUzFxREdDc2lna2FVMFBFUExFNFY5R2hkTEtrYkZTVWxWWHRJRngxemRNNFJmMmFwX2ZPbEZXbW02Z0lMRVVCaFhaT2RCNEptcVUzNTFiZzBNSS1DbXRBN3hDeGVZdUZqbXRoVThWUXFIVnNkY1p2Nzluc1c3cDBzU0ZCckV5cQ?oc=5",
-      "source": "TheCable",
-      "pubDate": "Thu, 10 Sep 2026 10:27:00 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "Peter Obi: Something Is Wrong With Nigeria’s Security System",
@@ -302,23 +309,16 @@
       "category": "Security News"
     },
     {
-      "title": "Presidency: There’ll be no new buildings or road construction in Nigeria if I’m elected — Peter Obi",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjdueGo0dlRxSVY3SUVFX0JtbngzSzBuano3LS1maVhUbFFGV3JET29JQjZacUxLRkFjQmFpS3pfQWZhbElyaHZUdV9Qby1FcWp2VVUtV01UV3lRQkJRTVN3Z29sMzdEOWJqellnNy1HSHRxamlkVGlsdkk4ZVRQTTlPeVdHWEk2cE5RUTdneWkwVnowbmZGRDFQYWhVcFZfNWh5Y1cweXJvWFZDT3JGb0RUeS03bWN6YkFhMElNbEJydTBCUjJ0cmQ5OXo?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Thu, 10 Sep 2026 10:11:32 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Don’t Portray Insecurity as Religious War, Idris Warns Clerics",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDNteDlaQjlBTTFISFViYkRoTnItNk45b1hnVHlxWHhtTUtmcHFpZXpJYnMtRHJmdTNZVGhoNXFEVXgxZVpUU3dpZVZFZ3g5amV4UVJzMG14TVREdGdhdVhjVTBUNGVwNEN6MGJHd0hRWXFFRnBpNE4ySEpvdm5Ta0tULWlnUmFIbWJEN2tSU0pUOG1oNWZNRHN4WXQ0UQ?oc=5",
-      "source": "Real Broadcasting Network",
-      "pubDate": "Thu, 10 Sep 2026 07:44:27 GMT",
-      "category": "Traffic"
+      "title": "NIGERIA, CANADA STRENGTHEN COOPERATION ON MIGRATION, AIR TRANSPORT AND BILATERAL RELATIONS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHBBbUlsU2dZNzlOek9MakE5MEQ0ZHBubTJDbkpwMFFaRnV5U2lGdHhCLUNldFdJajlZUlJBYkR5MFZUVXZVUlRnaWNUbnZ4dFVQa2tKUWJHZExsNFliMTNOOUFraHlZVWxzU3ZiUEo2RGI1aTJPZHFUS0ItZE1mYnFKZ1Y2QmRHOEtfSE1xWjdhRVNhNzhjYzlTZ1lVQjN1SnFlSU1rcm5RSWg1Tk51LWlzRQ?oc=5",
+      "source": "Interior.gov.ng",
+      "pubDate": "Thu, 10 Sep 2026 09:53:16 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Don’t portray insecurity as religious war, minister urges clerics",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbE9NVWtKeXBZZlBFMzhZQzcxTWN5SGZxNkozLXlSaWZHWUp6SkJIWTZJckpLTF9DenlpOWdCeXBmZzV3VUpBVFQyTUFVRE9vdVp1WnVGNHJ4UjdlZ29ZQk54ejN2Y0pPZ1BtRVlzdHBwRHZmX0JHLWVfSGVGU283bXlYSEl0b09fd01CVC1UY1JaWTA?oc=5",
-      "source": "Punch Newspapers",
+      "source": "punchng.com",
       "pubDate": "Thu, 10 Sep 2026 07:06:25 GMT",
       "category": "Security News"
     },
