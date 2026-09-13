@@ -1,52 +1,122 @@
 {
-  "timestamp": "2026-09-13T11:15:05.109Z",
-  "generatedAt": "13/09/2026, 12:15:05",
-  "totalHeadlines": 193,
+  "timestamp": "2026-09-13T15:45:16.724Z",
+  "generatedAt": "13/09/2026, 16:45:16",
+  "totalHeadlines": 187,
   "dominantThreat": "Security News",
   "categoryCounts": {
     "Security News": 135,
     "Banditry": 4,
-    "Armed Conflict": 4,
-    "Military/Security Operations": 15,
-    "Law Enforcement": 14,
+    "Armed Conflict": 5,
+    "Law Enforcement": 10,
     "Insurgency": 10,
+    "Military/Security Operations": 15,
     "Kidnapping": 6,
-    "Traffic": 5
+    "Traffic": 2
   },
   "headlines": [
+    {
+      "title": "Chimamanda Adichie Says Son’s Death Changed Her Feelings Towards Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2R5eGNlUnhsUFFsZ0EwU3pSNUlUVVlhQ3JMTmhYaE5aSFFzdU1WZ0NZMzZPU3FSaUg4cEUtRXEtY1AybmNEdGw1eE91eGZVNzVvZV9RSVgzVTFuUTdLSWRJY19JMEhmbU1hTjBWNzVmRXhhalI3Qmh4Qnk3ejJqZUZYT19lak9ia1dtQ09YT3JHaVRnVG15enZLUQ?oc=5",
+      "source": "TVC News",
+      "pubDate": "Sun, 13 Sep 2026 15:05:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Fani-Kayode Warns South Africa of Consequences if Xenophobic Attacks Continue",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObm5WYXRGNUVGb1Y5czV1ejA5N3JDZENUN0UweWtRRllIbUEzV056aVpua2lWUlBJUVR4LWxLeURqaHlvUTkyUWEzWGZXN2M3Y3FWMWtzaWJnVzlFdlpTN2hrNXVVa2llYm1qbURUZXM4Wk5QQ2hKTnVJc1ZrUnpVX0Z0cFM5RmdROXl4ZFZiRmtMRzhLcmlfbjZXR3VOSi15cjZSRjJzUGhUdjhnN2Z4Um1NMk42R0ZUNlBTOVRGWWowUVk?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Sun, 13 Sep 2026 14:22:42 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "The president’s health: A 2027 national security question, By Paul Ibe",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEpEdDRHa1l4RmExZldsQ0FVRFdaekxIcjhNRlZ2U0VIRFhXMHQtc0xlVkE0dVdlVkppblZXR3Z2WEJWZlBvUDg5REQwbUN3b3hwX2paazZ5ZWpnN01KMHplempPbnlJdDIzQi1iWmxTWk50MldPcVRxdU5aR24tdUhwTVB6MGNGUXE2elpRWmlKTFJNTWFoa2dVLXpMUmlnNWQxOG9TcDZrMUVNd3RNbkNsQWpMOEhzMnc?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 13 Sep 2026 14:14:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "I don’t want to return to Nigeria, says Chimamanda after son’s death",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzFrV3JiN3J1RXNZNkx4SFZkSFZoOS1RYnNLdjdBcFdMRHg1ajdLRlpud1ozQXM3YXU2dzhraFFpRzVMTURKa1FONVZyNDJWajVRZHFHTnBJOG5xaUVxX3Yyd1o4bUZ6dVpYa2xHOGJhYXdSU0o1ZEpMQWZ6OGFkQ28wR1VQNjZpOHlPbHNqY2s4a0tlWnc?oc=5",
+      "source": "guardian.ng",
+      "pubDate": "Sun, 13 Sep 2026 14:13:28 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger, Kwara emerge as new front in Nigeria’s expanding terror threat",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0FQSm1uMFpuTTNneGRJRjdfaWpEUTNWSEdPUWpXcXgzWjUyMHNKazgxaUdtUDEySzhrakpJenp3cnhVeURZLVZrcWRqc3premp3WkwtMGNUMDRxUmxERmt5SmV0bnN0em5yUnN1Qm5pVzZDRm9rd3pOS2s4TnoyVy1uVlZuQks0S2dudmtTTVFjdjRRUFlhUy04NDd0dzN3b3RsVTVZSQ?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Sun, 13 Sep 2026 14:02:03 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US Commends Nigeria As 12-Year Maritime Security Restriction Is Lifted",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ1FYUmxjbkdSbkVIRm1HMFYxRXUwaFVYdHA2NTMxbnBvamJNakcxbFhIU3pfYUthTVUtdTdHZFg4cUxEVWg0d09RNTJjRWJLM29haG1ZSHQxN05HM3hGdjZXaXJGUUNSbTduYUU0QTRnS3NQbU9LT2pjN2hJci1HTm1RV0tDdENxV2VxUC1PcU8yd0dsRGdKN1F3?oc=5",
+      "source": "TVC News",
+      "pubDate": "Sun, 13 Sep 2026 13:44:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s Digital Economy Is Surging As Fibre Backbone Is Under Threat",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWhXTFBiQ1prcjFBVVhOOUlkS3JaTXZjeU1rS3padVY4SnBOdG1HSkllc1dkY0V6WE5sWU1pLWhPTEdXRWpzMlBKeUUyY0RkU3VMMmh1WGtSLXBXLU1PdGljSk5oUERzc0psNW9wbHFMSnFJOGZmb0xrWDBuTk0yM18zQzNWUkdObUdpWm1LQWs0VktONWNuOQ?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sun, 13 Sep 2026 13:01:24 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Drug Trafficking: NDLEA Warns Nigerians Against Accepting Consignments From Abroad",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmx5SGxxWWtwS3E2ZXViaVRhaTlQT01sejBvM0xleG90QUtrQ1ZTdFFwWDI5RUlDRkZhd2VMX3A2Tmh3blBwTEg1dXNrRkdHaV9CZDFNUnpyM3JwMlBLNEVQSm51V2oxY3p3LThya0l4NHQ1cEMtUm9CQTh0RHRDS2VkRktuUVlkbFZCTlIzQjB4MEpabFlEM3RVbzc2WFRTblhCb1lOTi1kQ0NfZ3ZhOFU2UmRDRTdqSmpyWQ?oc=5",
+      "source": "channelstv.com",
+      "pubDate": "Sun, 13 Sep 2026 12:51:42 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Troops arrest suspected kidnapper with gun in Edo",
+      "link": "https://www.vanguardngr.com/2026/09/troops-arrest-suspected-kidnapper-with-gun-in-edo/",
+      "source": "Urowayino Jeremiah",
+      "pubDate": "Sun, 13 Sep 2026 12:13:05 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigerian Government Condemns Child Abuse, Online Violence",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME9Bazg3dEZZTVh3TlF5b2p5NzRzb0xEQjI4QmdqV2NVNk9BR3dOX0p1OTVaLWxLZlRDaWxRemFMbEIzV2Z4all3QUFhMjhUeS1icXlTX2dGblRjNUt4UW5NZ0tnVHlPVklFWWxtYlYzVGl3T3VQRGVCMXFrNm5TZWV3?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 13 Sep 2026 12:10:56 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "APM Terminals Apapa boost export growth with 24-hour barge operations",
+      "link": "https://www.vanguardngr.com/2026/09/apm-terminals-apapa-boost-export-growth-with-24-hour-barge-operations/",
+      "source": "Urowayino Jeremiah",
+      "pubDate": "Sun, 13 Sep 2026 12:05:57 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "One killed, many trapped, as four-storey building collapses in Enugu",
+      "link": "https://www.vanguardngr.com/2026/09/one-killed-many-trapped-as-four-storey-building-collapses-in-enugu/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 13 Sep 2026 12:05:04 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "I don’t want to go back to Nigeria, Chimamanda says after son’s death",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYi1oODViUTNhQ2pXOXJodExCN3dYNTBmMFVMc044UFpGWDMyUlFIVnhtM3NyUDdWMnVLbS1rYzU2eXR0dnJXVXNveVpNX2MxSUJwTFI3eW51RUJEMjBTSmZkQnM3ZHNnNFlCbHNsR1ZENF9OREF0THRkQ1RRd3F0elpCVlVrTHZEdzVJcTN2Q0pQSWda?oc=5",
+      "source": "TheNiche",
+      "pubDate": "Sun, 13 Sep 2026 12:01:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, China deepen tourism cooperation in Beijing",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWhCNV9MajFkdGJOWVExOS0zdlQwOFFiaGZ4dHEwQ3FhUUd6S2oyS0xHa3pWZ25lZ1ZtbXhUTjFMTmZpRGlLOFRsYzZSR09xZG9TcnRlTTBqOFVBSFhndGdWLUx0Rkh2eVBlaXBHNzVtNHlNdUZ5QXo3MVdRZ3lkV3RmZDJ6Sm9rZS1abkdKdjczWFMzUlE?oc=5",
+      "source": "FRCN HQ",
+      "pubDate": "Sun, 13 Sep 2026 11:55:12 GMT",
+      "category": "Military/Security Operations"
+    },
     {
       "title": "‘I don’t want to go back to Nigeria’ — Chimamanda after son’s death",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0tBblNzaDY2dEhHUll5MDZua213aGV1bnE3MTdQekFwUFhKcEw2OVZCR2drRGgxTmNzak1yM2ZUMEN1aFhla2l1YURHaWZBRnNlUkwxU1F2eUxDdldFaTFWWUw5TjZNZUF5SDBzNmVyTDNLaHZVMjdBUlpaOHhfdTFUZ3pwaVRtTmhValdNWDNocnJQSWVnVWFHMXJqWmfSAaQBQVVfeXFMTU9NcWVITWNMaGJibkpZV0dKWEswOW1EaVBSUHhJU3laSjh2ZUlidkZPajVRUk9RM1dXM3MxZ19KOGZ1aDBKNE1VNDhiU2Zvb01Cc0RSTlI3LWE4OWJTc3d2Rl95bHdPbUs0VW5iWXZhNGZCeS1nRWpHeHNDX3doQW9wako0YnR5d2wxY244RVYyb2VPRDlRTkFxOElJaGpVM2JKS1E?oc=5",
       "source": "Vanguard News",
       "pubDate": "Sun, 13 Sep 2026 10:51:32 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Speaker Abbas Calls for Tough Penalties For Drug Traffickers",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazVRbkJTUVowZy15N1gzb3ZJWkRWQlVlNmI5ZEpIY29EaGttX0N3bV9RV2t3Uk81QmZsLU5nTnhxYnMyWUFLT0t6bERhU2F3b3BVMmpTNGtvdGdBN1JiWS14NUprRlJjd2h0LWktOHJ0U24tbW5ndEhsVC1NalM1cE80bFZHcW8?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sun, 13 Sep 2026 10:46:49 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Experts Seek Community Support to Curb Human Trafficking",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnJOTkNlaDRicENfN2tIX0xNSUI0SjRuV2JGX3FnaEVQODlkX1dzMFhITml1Q3VCRGxuSy1BMnhkcWxzeU5TNkJLdmJkaDc0TVNfWVltX2Njc3FzSzhvN2FPZ0hidmhhLThsY0JiN3VVeWpMMkhtWEFNVjhLemRPYUEweFdoS0FwelpKVC02SEhOTDlneUdMeEY0S3N3MFV2ZUlzNQ?oc=5",
-      "source": "radionigeriaibadan.gov.ng",
-      "pubDate": "Sun, 13 Sep 2026 10:38:09 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Army debunks abduction at Yari’s residence",
-      "link": "https://www.vanguardngr.com/2026/09/army-debunks-abduction-at-yaris-residence/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 13 Sep 2026 10:37:50 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "After Son’s Death Chimamanda Adichie Says She Won’t Return To Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUllzSEtxZGUxTkY1d252dzJfUEEtc0RUd3VxZEprMTlNM1o2WGtOWTVZQVJFQVg0TnJEQmhPUzE0MG1FOEFmcnJ5RHREY0NYWGtxVHBiVnRKZGM3akswWDFFRzN6S2IzYi1pUjFBeGhPZ1lCdHpHc2JwakI2TE85RllyVTNUNzAtUHJwS2NTSHRFLTFy?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Sun, 13 Sep 2026 10:01:40 GMT",
       "category": "Security News"
     },
     {
@@ -57,13 +127,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Ortom defends lending vehicle to Obi during Benue visit",
-      "link": "https://www.vanguardngr.com/2026/09/ortom-defends-lending-vehicle-to-obi-during-benue-visit/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 13 Sep 2026 09:46:34 +0000",
-      "category": "Security News"
-    },
-    {
       "title": "Six imams kidnapped by armed bandits in northern Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EMjlPQ3hmeXExa1kzT21Qa05YMXZxdUJWVTdab0pjdkZQNkpVV1JqSDNkdXVFb20wV0c2TjE4aTNzcmdHYzZvamhyQkhvaHZDSExfLTJCZ0o?oc=5",
       "source": "TRT World",
@@ -71,39 +134,11 @@
       "category": "Banditry"
     },
     {
-      "title": "Drug Trafficking: NDLEA Warns Nigerians Against Accepting Consignments From Abroad",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmx5SGxxWWtwS3E2ZXViaVRhaTlQT01sejBvM0xleG90QUtrQ1ZTdFFwWDI5RUlDRkZhd2VMX3A2Tmh3blBwTEg1dXNrRkdHaV9CZDFNUnpyM3JwMlBLNEVQSm51V2oxY3p3LThya0l4NHQ1cEMtUm9CQTh0RHRDS2VkRktuUVlkbFZCTlIzQjB4MEpabFlEM3RVbzc2WFRTblhCb1lOTi1kQ0NfZ3ZhOFU2UmRDRTdqSmpyWQ?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sun, 13 Sep 2026 09:40:15 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "NDLEA warns Nigerians against receiving unknown cargoes from abroad",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0s2MjNoTjRpZ1FXaEN1a21pN01mVnFCcnAzaHRjSzRVV1NlRThRMjFmcUhNOEI4djVVLTMzMVEzTDFDY0syMzQyVkszc1BkN216UnU1ZUZUcGRWbzF6T0UtMzBrNFdsQ0xqTi13dG82dXBTbTY4ekdqeEdLcVpZME5GVHZ1cGg3UE1rVDJjZ1UxUQ?oc=5",
       "source": "Punch Newspapers",
-      "pubDate": "Sun, 13 Sep 2026 09:12:17 GMT",
+      "pubDate": "Sun, 13 Sep 2026 09:15:25 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "I Dont Want To Return To Nigeria – Chimamanda Adichie Speaks On Sons Death",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3VBWEdUQmNRd3Y3RHMwQk5ESzJ6ODExQm5rNHEtVVE0VmNnbzJEbXF0OUd1OVFXY19LTzJ4VUUzZzN2RWdMazV6WFBVRVJNVVJaRTE3SmN4LTl3RnYtclptUEtObjYtcGFqNUtVLVhranZ1eHZlVG1rWEFTa2pTVVZ3R2tMZEZac1YtVHlUZk1LaV9lNElXQm5UQ0twSzljcHM1UjhzbkJjeEXSAbABQVVfeXFMUFdGdVNWTkdzQUU2bC1pMVBDQjkzYnkyNFVvNDNmTFF1M3ZiNmpnank1eTlHQk1ORmItMUw2a05NSGhKcFVhLS1JQkRpT2l3SWFwT3VpSEcxZ3B5ZlNpaG1LX3A0SGQ2ZGdTZHZKVFdrc2VqV0VpWTJidHNVcThMQkVmNDJoLXJZT2J2MUE1UWlJRzg3Z0ppNFNsVFVnZDN3UzRyd0tkYzYwb3NTYXMzdFM?oc=5",
-      "source": "thenigerianvoice.com",
-      "pubDate": "Sun, 13 Sep 2026 09:04:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Police rescue 3 kidnap victims, apprehend 57 suspects in Anambra",
-      "link": "https://www.vanguardngr.com/2026/09/police-rescue-3-kidnap-victims-apprehend-57-suspects-in-anambra/",
-      "source": "Urowayino Jeremiah",
-      "pubDate": "Sun, 13 Sep 2026 09:02:13 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Troops arrest suspected kidnapper, recover AK-47",
-      "link": "https://www.vanguardngr.com/2026/09/troops-arrest-suspected-kidnapper-recover-ak-47/",
-      "source": "Nwafor",
-      "pubDate": "Sun, 13 Sep 2026 08:16:01 +0000",
-      "category": "Law Enforcement"
     },
     {
       "title": "Chimamanda Adichie says she does not want returning to Nigeria after son’s death",
@@ -111,13 +146,6 @@
       "source": "Punch Newspapers",
       "pubDate": "Sun, 13 Sep 2026 07:49:53 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Soldiers arrest three suspects after 17-year-old was killed in Plateau",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU0FNa2NaZmR4djdVdHh6UThBZ1RZSTluSVZDX2JORVB5NTU5dHp2MEtzSGtZazBjU05DVVZiaEVyS0dkU2lMdy1HbW9KX2dqckpxRjRFal8ydWFaZndjbXdpMHhnNWxJM0I3bjl0UTZpMHhBWmJjbHU0RTM0cHA0dVkxSzUyejFEcG5SaEZTZklhZFo2TFMtTlgwczVrNUF0TWtlaUNjZDNET2tFXzhZejhmd2pQVHF2RFZCU2U1VmptZ0pxWEh3dTEySF9lN0dVWVE?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sun, 13 Sep 2026 07:48:40 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "Nigeria Positioning To Become Africa’s Hub For Defence Manufacturing – Chennar",
@@ -134,39 +162,18 @@
       "category": "Military/Security Operations"
     },
     {
-      "title": "Nigeria’s defence sector emerges pride of Africa at global airshow",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzNZb01BdjdEQWVFVWVlSEV3Qy1PRngtYjZKZ3pUMktnbGlOQTVjdGplNW9zSWxINk40Qk80ZnN0cXpDSnhqTE9LLTZORUZpWnRzdnd4bXdlUkdYLVRZV3RhZld6Yk1vR0o0T1ZqRFExS3d6ak1ZMDB6SzBybVN0eWNmTWdnLXMtZG0tallqbmF4YXZJcjJDZTd5NEPSAaIBQVVfeXFMUHRqQzk1WHkxOWNtbElIaFdLeUY1UWxvbDA0VUhaTmV5dTFTQlpkbnFaV0lpdTZwUkZseko5d0hHS2RVa3dnd3RWTjlIc0xzcHRib2ZFdW5Cd3Bodk9xTG9rUWxGelNSRE5MUm1zNnR4VU9Pc3RHV05ZMDJUU01DUEN1RWZjNlRYX21aOVFBWDV3MGV5Zkg2UTZyZHA1OVRTdlpn?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sun, 13 Sep 2026 07:17:17 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Xenophobia: South Africa should pay R1bn for each Nigerian killed, business destroyed – Group",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc054Z0VjUE9Ka1lueGpaU3pPWWFHNnpFMUltbjRsWkNyRzdKOGk0aGVjWVZHaEctOGlfY083WlBSUlBKMmxSOThZcldHd1JyOW9MXzBTdmIyT1VNMEVRWmdrNWNQZ1VYaWtIY040TW1kM3NZd1FYT1ZlaTB1Ukxvc1ZyWWdiN1VfZC1oTDBWRTlWN0lYV0Q1NUM3ci13REtxSHhkYlk2WGg3SXpjYU5uUVZiV2dVUmxVQkhlcFlyOA?oc=5",
       "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 13 Sep 2026 06:52:57 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tukur’s death huge loss to Nigeria, Africa: Shettima",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcHYyT3hCQ2lobXVtbWtvM293M3Y1WTJOaHBUMGxuTENIV1dkQUxxU01TWThjNkdUMVJjMnBqSHp4XzUyc0xoMjVuSXYtVXo0cERnWXVZZW1rMm1WVFBIcWMta2FNdFdMckZwbF9OWFRjNUw1NWt2blFpeGc0Zw?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sun, 13 Sep 2026 06:39:45 GMT",
+      "pubDate": "Sun, 13 Sep 2026 06:55:05 GMT",
       "category": "Security News"
     },
     {
       "title": "ALERT: Nigerian Army Warns of Possible Coordinated Terrorist Attacks on Churches, Schools and Youth Camps",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTTZZWjNQQlI1Mnc1bHVmeE9vVXJVNXRDYUdMOFpJWXlxWmZMbW9YOFVNV0s5SmQ5cl9pbmhnaUdKeU5fMGFMeVYzc2dLVnd2cmxNbWo0bmRsdmJ4OFBwSzhWa1AybmxyWGluZm5GV0NfcW01QTNiRFdEbEw0WGhnYUM5NS1CQVBubEdxdnpKLXVUQkdMRnpxRVRGN0k1TXBCUk50enB3M3ZaRmNyMk0wTXFYSzJDSm1VdlFaWE9sVTZob0t2b05md3EybXEtcW1uTnNF?oc=5",
-      "source": "truthnigeria.com",
+      "source": "Truth Nigeria",
       "pubDate": "Sat, 12 Sep 2026 21:43:49 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "How Nigerians abroad can renew passports without visiting embassy",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUxnUDFDTmtWMUVYaVVBU1FMWHZicVNRajBEbVRWTFpYOEE1RkJ4ZEpEYmNYMTdDWEpZREl0R3l0bzBwQWJsWlFIOE9vNmdTMDRrWDNfakJISnZSb294Rktfel8yemhqbkZzbGhIQXBWcHdQTGcybUpMdVhnd0lLOVExM3hEMVNINlpoaVZqQQ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sat, 12 Sep 2026 18:30:33 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Nigerian ambassador says more than 30 Nigerians killed by South African security forces",
@@ -176,16 +183,9 @@
       "category": "Security News"
     },
     {
-      "title": "Xenophobia: Over 30 Nigerians killed by South African police since 2022 – Ambassador",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUE9yX3laNlFTOThWdnd0ODFTeXlkbFd4UUwxcFFZb1pHcUp2ZEZpOFVLVk1jLWhrTVFLNWg1eE8zaWQ0UVlISGFpdWxjbk5SbE9fbkMwVEpDV01wd1JpdmQ0cDdiS1NxMDhxak5qNjk4aTZNdVBlZG00YklDOGRwaTYyWXJOb1RKRWVyZEx0ZUViMzZaTXc0dzJRRzdxQjZhTEc5OE9NRUhuMEU5UW5WeVhVRS1oczV4cEN4eDczRV9MdDRxcXBBMmhkeWpVSmROLXVKTHVB?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sat, 12 Sep 2026 16:53:37 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Ogun Strengthens School Security Ahead of September 14 Resumption",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlI5WE9mZlk5d3YwMVBQZGZSa1gzbTFUdWRfWV93QmV5UFhvRERIWlhNRlhYM04tTTBLR0dGbENKbzh0YVVreURwSm9CQXNjY25oZUhSWjUtSjNnMEFieFo4R3liWlQ5azI4RWVHQUQ3ZUlUaEpaWmdwY2FmZTUyMTlSUzJRZFg3eGVITERzYmx5dVdCMnVNY3U2bzQ?oc=5",
-      "source": "The Guardian Nigeria News",
+      "source": "guardian.ng",
       "pubDate": "Sat, 12 Sep 2026 15:28:00 GMT",
       "category": "Security News"
     },
@@ -195,13 +195,6 @@
       "source": "AIT LIVE",
       "pubDate": "Sat, 12 Sep 2026 15:11:08 GMT",
       "category": "Military/Security Operations"
-    },
-    {
-      "title": "Ondo Tragedy: Govt bans production, distribution of local alcoholic drinks as death toll rises to 29",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU05hSURJVDNSTDVDRkliRnFaRDllMWFaRHhBQXhxZm8zZ2V1V0JLUG15cmNSVWdrdGFUM2s5SjYxWHI5cnJfLWp5cHpraXNlazloTEFJTzktblhERGgwU2tLS0VLQ2d5QXdrX19kakY2eThOdkZTU0RjbnVNYm0xWUx1a3QwUmtLalVIcmxUYl85WERSN3BxYmRpQVRDekhYTVQ5eFQ0SzF5eTREVzBaYlVvSDdvSmJvUU4zcExzUVU5MVFCaHZTT0VBYWU3TE1uQ2diZ3V3WGRKZGJSa2w5Y2hUTjEwbExHbFhz?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Sat, 12 Sep 2026 15:02:31 GMT",
-      "category": "Security News"
     },
     {
       "title": "ONSA holds simulation training for security agents to strengthen emergency response capacity",
@@ -227,7 +220,7 @@
     {
       "title": "Nigeria’s five-year defence plan: From threat assessment to capability",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWG1scjg0TWJIblhSS2llc2VMVVJBQW9jaERwdlg4anNWaGNLdmZvWjVsR1FiQmZMZFl2WHk0MUhmdUZlVVNpaU4tdWR3UTBOaTlpX3RRdG5qVURZMHRFN2lYZWNFMURQVVFiWTFQdDZoUUpmOUZyaElxR0lkUmFnUDZrYlF2QkNKX2wtYWJSelNBT2lrRVpGRA?oc=5",
-      "source": "thecable.ng",
+      "source": "TheCable",
       "pubDate": "Sat, 12 Sep 2026 07:27:02 GMT",
       "category": "Security News"
     },
@@ -241,7 +234,7 @@
     {
       "title": "Breaking: Islamist Fulani Militia Kill 7 Christians, 4 Police Officers in Benue State",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3lLeDBCdVpFMGNmOXVlekcwUjNhSGtIMzFJMm5XS0h0NlgwR3dqMXpSanJiaVFrTTBYbG4zLXNqMjF5QkVTRGJ6Y2dCLXo4UjZXbFQ4OEZCeWRmYWJOdWNSeEwxT3htU25ULU44cXU2OW56ZnlSQ0ZlMXpFNmNmZm0ySXZUQlc3UUxNVHA5QVJ6WWU5ZGdkbVRFcUk5NFBrV09TRXppcTE5dnF3ZkxFemN1Z0x5R1Zy?oc=5",
-      "source": "truthnigeria.com",
+      "source": "Truth Nigeria",
       "pubDate": "Sat, 12 Sep 2026 04:04:33 GMT",
       "category": "Law Enforcement"
     },
@@ -258,13 +251,6 @@
       "source": "PM News Nigeria",
       "pubDate": "Fri, 11 Sep 2026 15:20:09 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria suspends official visits to South Africa over anti-migrant violence",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOG1JVWI2cHBBS0I4VnBDdy1UeU5NS2hWdUtPc1ZtMWRpQWlEUjc0bEE2MUU5ZENmN0xFQmhmUHg3OTN5SnpSS3pZcGhWUWxwQkg1OTRfd3JoNE5xYlZfSHMzTlFuaVQwcUhKMWZGS00zNmUwcDF1RFFZckttRG1Ec1FMZHYwVDlCMENFYjVJR0xRZmxKTkhVSDhfQ0RhYVh4OTc1UV9JanVwc1h2Q0wwQndjTEU5cTjSAbwBQVVfeXFMT0tyZzMyTlowcjd1OGJaMURzZ0VwenVEWFRiRzVGQ2VrREl6RTlqenF6TEh0OTlmMHZLRE9PQmN6d0VoaWhpTUFoRGJ4Z3lNMEtBazc1SGxNUldhcTJoOFowTGVGSkxsMnNMazFCSm1mM3NXaXZZd1o0Ui13UXpSTmpKUElHR0RILXU0R3MzZXlpSjFrcWV3SWJJU1BsQU1ZZldnR1R1YWMwZGZ5b2d5T25nRzBuRlY0MmZGTXU?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Fri, 11 Sep 2026 15:16:23 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Kidnapped Nigerian Security Officer Begs For Help As Family ‘Sells All Properties’ To Raise Ransom",
@@ -288,31 +274,17 @@
       "category": "Security News"
     },
     {
-      "title": "Navy arrests, hands over suspected oil thieves, seized products to NSCDC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNak9RRUxNR1JSTlR6WXFCb25veDMwRVZZRF80ZXI0djBWTXZUT1ZabjktX1hHN0ZMYi1IQXktM1F0YS1qQXJ5RkJWcEZxYkRrdno4MkZPMTJFQmN1UW1QWE1obVpfR2hBZmtMMkNBanYzRXhRZ09qa0ZiRnBhai1LMVMydXV2WnZBR2ZwRzBVYktoMmxpa3FzTEswN1M?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 11 Sep 2026 11:05:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Nigeria’s security challenges not religious war, says Muhammed Idris",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzRWZXFBRFhiOVN3cFZTckJKem1qQW8xNURUUWNUdHo4eTc3dlBlV0RTRmY5Y3pOY203eGIyTU5hRG9UeUlzaXNqSlBJYmVvWk1WZmlDNG85NmZ3aTdSOXFQS05xUlRIRzFfSHlSYllDWkRKcjJrU0RjdTRONHNPTm91QUpwYVpqejdfOVI3YWl4VFhvZlE?oc=5",
-      "source": "thecable.ng",
+      "source": "TheCable",
       "pubDate": "Fri, 11 Sep 2026 10:17:00 GMT",
       "category": "Security News"
     },
     {
       "title": "THE INSIDER: Shehu Buba Umar, the maverick senator who is both an asset and a liability to security agencies",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFIwQTRIQ3hqREVDNTl5SWtYcHN6ZVVIZ0xscG5XZEdGd0gwV2R5U2hiSk9iZ3d4TWNMSjBVSXRaUEx1RG0tTldkb2RINUtvTWNMN0M0d0VYZ0xsY016UzYxdGtPVnV3RkFIUGZ2SmlWdkpkZ3ZVMDlRYTVzcWZtbHhsWmNHd3VpaG9DMEtFZnNSRWEwR2tnR005Vi00NWwxaENsNFdFQWw1THprWnNORTFYdw?oc=5",
-      "source": "thecable.ng",
+      "source": "TheCable",
       "pubDate": "Fri, 11 Sep 2026 06:00:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria gets more U.S. military equipment",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmQ0lnZ19jU1ZtcWNTbExiMWY2SXB1ZEFiSWRTY1haTmt1cUR0YUxhLXd5XzlDMktsQUxGWnIzT3E0RWRwdGFqdzkxangtd2Y2RmdESHFpQjdlX3o4dF9ha284N0wtWWotbXA0eVc3YUZHVHBNbm5oWWN3ONIBgAFBVV95cUxOOE1haF9LN2pBdUpTTmlSTnZWMmxlV2JhQ3pnaTBBWGxOSlNqQVEySEwxTWVBbWRqaWtlSEotMDUyeHMyZ2hvZ0p4ZW1kaXBpbnZJR0VucUFMZGVjNmNRSTFpbDhGVTFqSThYOWcxMUtXTXNuVEh6amZpNndzWVU5OA?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Fri, 11 Sep 2026 04:56:26 GMT",
       "category": "Security News"
     },
     {
@@ -325,14 +297,14 @@
     {
       "title": "Police nab six over robbery, burglary as NSCDC stresses due process",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMW9VT0xIV2IyUEszZVV5bk9LT3lJZlZRUndSaU1vcEF4bzJXX3FNMDhvSmlFeFY3TXh1STdHZzduZG45eWd4bWJtcG0wMzlhaGVXYjlseXZ2QXlHT1gyQWdqeVFmMGpMWTBDYnF2QnlvV0pGbWZzeXhpbjdoV2M3RVlCcC1ualdCcE42NjdxRFMxZGpoODhNZXctMXNOUU53cW9xWllYai1KUQ?oc=5",
-      "source": "The Guardian Nigeria News",
+      "source": "guardian.ng",
       "pubDate": "Fri, 11 Sep 2026 04:16:00 GMT",
       "category": "Law Enforcement"
     },
     {
       "title": "US Delivers Military Equipment To Nigerian Air Force As Security Partnership Deepens",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXA0S2ZOWXBZZ1hLdVhub1pkbXliYl9VMnA5V1VQcURpXy00NG42ZF9WRGRwYkNXUGo5Z1NHT3FKZXFjUXFRQ1FqWlJUbXZ6dkJkYy1TbWd5blRDaXFpSkIwUUVKeFpLeXJPaXZhX0FBZzlKR1hITTlidXZWWk9rUWZVSl9VS2tDWWZoM0x0REZEZVZSc1NYbm5WNjQza19mbVBja3luZ2c3NnJBSUl6SFNDVXlCckd0dVBCd3VWMEg?oc=5",
-      "source": "Channels Television",
+      "source": "channelstv.com",
       "pubDate": "Fri, 11 Sep 2026 03:30:45 GMT",
       "category": "Security News"
     },
@@ -353,16 +325,44 @@
     {
       "title": "Terrorism: US delivers fresh military equipment to Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN1VkS0piSmFjZEhjdHNDdGIwX1RXemUwQVBNVnhBTWtmbjZhS1pIVEFTNWhFWHBkNnpZbzdWRTRRTjNkS0VOdzFjeTVoX1NrQUtyX3U4bWhqbUZpb05UV3VrUEw0aUFTZjhYRExyZ1N5Q0V3UUJzR1Jmb2E4anYyTTVMcmhjNmNWNGVr?oc=5",
-      "source": "The Guardian Nigeria News",
+      "source": "guardian.ng",
       "pubDate": "Thu, 10 Sep 2026 19:28:00 GMT",
       "category": "Insurgency"
     },
     {
       "title": "UK envoy hails Tinubu’s security, economic reforms",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcG8yc3h1QmtIR2ZnSzVpVDFEei1XUmhvVzFlM1BXcDJESGk3bEFIWndEbWZ1Z3NxakNsakNmeVExQTdRTGYxRVRsYWZxMlphTFZZRHpfc0Fwdmt1bDNGVUxqejdiM2JTMUEzYVRSREdRLWdMbjdPZjhLM0pSZ0VNbGJxWS1td9IBiwFBVV95cUxPcmZZd3R4Sm95TkFaVmlieUN0SnZqWVBjd2dETzRUeU8xUnBDYjNOYjRTNlZkdFlmZnhJWDZPRkVJeWFDeS13djhTd2RuTVlWcklXSEFFMDlmbUgzY0lyX3dJM1RCUGpfQm5tTjNuNEcwZVF6WTl2STUwbmFKYnhqZkhVdG5PWnpUNTRR?oc=5",
-      "source": "The Nation Newspaper",
+      "source": "thenationonlineng.net",
       "pubDate": "Thu, 10 Sep 2026 18:43:33 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Security tightened in Awka ahead of Remi Tinubu’s visit",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3h6OW1hVjh3NU9VSVI2cU9GSkwwamh3ZVJaVGZDalNOZzNNN2s0NU9halJ3RnBob3p6NU83dUxvbzVENDFmYUJSRzJLRWExQ2V6Y1Z3bGY4emVSU3hXc193TlIxYWVJbXUtRC1uTDJfaWxELVBRVUFfd0VXS2hrRXZ5eHk?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Thu, 10 Sep 2026 17:57:53 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Poland Explore Strategic Partnership on Immigration and Internal Security",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1FybVhHQ2VKQkt5ajFHX1ZtaDliR2NlOTBpY2pZb1RNMk03WVRwOGliYWtTSFRMZ1RQcXFZdmJTYURBcUNMR3I4TF9NU2lzeFJad0JxcmpjRFBwQzF6YWZPTnpuZ1lnRU5ocGdidnhFOFpTVlUyRDV5UzlTMFZYRTA0OGN2VVpQT09NZDg2YnBOVkRGYWMtR3dvd1cwZ19RNzlJX192Vk1OQQ?oc=5",
+      "source": "Interior.gov.ng",
+      "pubDate": "Thu, 10 Sep 2026 16:58:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "PHOTOS: US Delivers New Military Equipment to Nigeria for Counter-Terrorism",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeGdTUFZiY2lqWVRzdy1RUTYyeDFKNllqeGRnbndsZ2ZWcHJwNUxRUXQ2ak51X18zWE9zczhVQ1NKVjRtU18wdVJXeTNyZ2FvM3F3MUczbWtldlo4RkFnU3JmNU53OHNoWWRpbXNjSQ?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Thu, 10 Sep 2026 16:41:51 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Pressure Mounts to Expel Alleged Bandit-Sponsor Shehu Buba from Nigerian Senate",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWFJMVh6aFBIb1ZJbVJmLU1sUVlNdGc3NDZiTXdyVEpXZ2xfLTI1UWhyZWZFalpiZHRrajhtalFNSk15X2NfMjY1U2t6QmtXQ1JOb1pfNG15YUdnSVJPbldMd2RreDhaMEFJOVdrS3YwaWlPUmEySDlobzRJNGNQV05zRGM1dThwUzJodjVNQlJwQmxwM2lLTzRmWEp2cEUteWlyVW5VaWtma2psWFNhSFVfRQ?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Thu, 10 Sep 2026 16:36:41 GMT",
+      "category": "Banditry"
     }
   ]
 }
