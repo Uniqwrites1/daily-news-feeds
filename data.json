@@ -1,59 +1,347 @@
 {
-  "timestamp": "2026-09-19T03:35:29.862Z",
-  "generatedAt": "19/09/2026, 04:35:29",
-  "totalHeadlines": 176,
+  "timestamp": "2026-09-19T10:27:24.528Z",
+  "generatedAt": "19/09/2026, 11:27:24",
+  "totalHeadlines": 183,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 135,
+    "Security News": 140,
+    "Law Enforcement": 10,
+    "Insurgency": 6,
     "Military/Security Operations": 9,
     "Armed Conflict": 7,
-    "Law Enforcement": 11,
-    "Insurgency": 6,
-    "Kidnapping": 7,
+    "Traffic": 2,
+    "Kidnapping": 8,
     "Banditry": 1
   },
   "headlines": [
     {
-      "title": "Groups Task FG On Deaths Of 37 Alleged Illegal Miners In NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3RuMWg2N2hXVktmVlMxblZOX0E1TTQwZDRTckl4M2kzTjQ3YzI4TWNLa0VFR1RqU2JVSnF4YmZOdlFDLTJoMXJ1ZUpjWlFKUUJvN0NaMndjZUR1dlBsclNTUURoMndKdS1hTm1Xa0VVRGhkN0VsalY1S0h1Mk90S1FGZFR2aGVGWkE4dmVqMWZjdm1NVTZnR3FVbXA?oc=5",
+      "title": "FG launches probe into 37 deaths in NSCDC custody, suspends 21",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlo0YzNJZl9jY01GdXhXTmdjZ3dmeVJWalJWTndyVjhUVEJHY0EwWE1qWm9TM3JHQmlNUV9lUy1Ob0Z2R04xdHI3cmI4Z2VzY0N5cy00QV9oQlgya2ptaDhsUnlnRVFGVFEzc3hlZVN6ejh1SEdPSG9KR0J3V1JCV0xhcEpLeXdLT2dfSlpHQWNSV3lPcEwyNkln?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sat, 19 Sep 2026 10:11:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG suspends Niger State NSCDC Commandant 20, others over miners death",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHdLNU1kU2hvNGcwYkVUTG1aakhHZFpPM21jZkJWeWNtMTVEcnNiOWlCMUx6S0EwYnF5MzlmNmt3SFVDckpQY1lHQWs4R0RqUDhaQjhFX1ByOUxDcWdhWVFPZElSZmhlOFJXaGNGWHZEZ0toRXY5a0lrUm5NNjBFQmZkU1J2MWZNbmxhMEpvRkRrMTI1ZDljQjFLMnB5TmdfLXptTGl5M3Q?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Sat, 19 Sep 2026 10:09:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ondo herbal drink tragedy: 48 dead, five blinded, 182 critically ill – NAFDAC",
+      "link": "https://www.vanguardngr.com/2026/09/ondo-herbal-drink-tragedy-48-dead-five-blinded-182-critically-ill-nafdac/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 19 Sep 2026 10:08:03 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "FG suspends 20 NSCDC officers in connection with miners’ deaths",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVFtVlZYRHJpdVcxZXEwMkVBY21qLW5qWFdVdE42dUE1YlFnV25DdTRabms5YWI3QzFDVHhzUkVjdFRfTkRxNVc0aHZjajdhZ00tc192eVYzVHFURUJJRkdmLWV1RWFoek9VTU1VQ3dyMFpaWTlSbWZkZFdKeGJhMmZyUk1qTDRJR2lUVEZURk55cGtrcXdvOF9xT1ExNldvMHJ5Yg?oc=5",
+      "source": "radionigeria.gov.ng",
+      "pubDate": "Sat, 19 Sep 2026 10:05:53 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Miners’ death: FG sets up 10-member probe panel, suspends 20 NSCDC officials",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXRjb0R2bHEydHBEd3NscHk3Rm9ZbkhySndrQm05eWZfZWszY3llX2NoLW1wQUFENW9PQTg4SjlnSjhWZllJejNHQjZKbGdYeVVYUzBpcU5SSGFTYndkWVZBLTZwMXdobU01MnR5Z0JXYXhYWV85WGlQd3d5VzR5ZzVfOG03ZDVUUjhlc1p5UG51Q1MzeDAtX084OGppVlp6RXh3a2xBbVFMTEJmZDZZag?oc=5",
+      "source": "pmnewsnigeria.com",
+      "pubDate": "Sat, 19 Sep 2026 10:04:06 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria names panel to probe deaths of 37 miners in detention",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkpnUXFfYUk5T1BMbjlDSE9hOTl0bHBUWC1BemVZV3o3TWVtdzU5a3gxaDNzWUROTHgzbDVYZVUyRGEwcnFnbi11U1U3MVkycVdvY0hhb2M2djJ0bXV0WW1VZlkwb2NMN2lhdWRpUTJQXzM3UGdGV2hiLVBLMFo1ZjZWYzh6YXItX254VlIwVXUxZHlGUi1kczdJQTkya0lHbGc?oc=5",
+      "source": "Arab News",
+      "pubDate": "Sat, 19 Sep 2026 10:03:42 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Isah Sanusi: Deaths Of Miners In NSCDC Custody Not Due To Lack Of Awareness, But Impunity",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXVzN24xd0FWeXFLb1FEZ3MxUWxCWkpjNlpLTWszUDRSV05JWFFMTDJUVEpmdHNjT1JWX1BZaS1qZ3EybFVLYTlsXzRBMk1Wd2JLTWF5TXh6YjZMd1p2NEZXVFFiS25OVnZXQWpHeUplWjc1N2tELUdsZENDYzJKTkV5NDJKSEZTTzFjWngyeE5UWVdPTFV4QjRPdDhWdDJqX1o1djNxekpNTm5aeEE?oc=5",
+      "source": "Arise News",
+      "pubDate": "Sat, 19 Sep 2026 10:02:44 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "SERAP Demands UN Probe Of Deaths Of 37 Suspects In NSCDC Custody, Alleged Shooting Of Minna Protesters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdndiVFRFU2FqZW40Y0ZPdDhXbFU3bFg0YTFsb2xvSlVkcHVwTWRqTFc5MmxwMjdNalNrSnJGdWttODhZU1pZcXEzODRFUkdIRUhyT1N4WVl2cTA4UW5XMU5vcU1UME05bnhoR3NNY052RFFHN212ZVdoWDJmNzFkdW9ObXA2ZklqbldRdmZuN0pVWk1NbGxHWFE3d0E0U20tQkE5MUFnbmE4eVQ2eTh5LU4wOHFNS2FQ?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sat, 19 Sep 2026 09:56:00 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "FG sets up panel to probe deaths of 37 miners in Niger, names 20 suspended NSCDC officers",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0tDM3ljb1RLT1EwZ3FldkJIdlp1ZEIxX0dkbDNFQmw5enVydlptYWVHTTBnY2s0bE9HN2IyMk1UQ1prWExLOWZzbGJOMHUzSW96NDZYa25DYUdVWjdwQXItX3dwWHFHOTV4X2JLdDUwYmdYYk5IQmk0QlptNXEzN0tfMjVNTUV4Q2xwY1FXZk5CV0wxWU00M2s1MmNlOHctNjdGeXBkWmZLUHM?oc=5",
+      "source": "TheCable",
+      "pubDate": "Sat, 19 Sep 2026 09:35:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FULL LIST: 20 NSCDC officers suspended over Niger miners’ deaths",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQm1odHBfd1pXdnZqaThtVjB4NDg5OFRfSVVYRHh1U0VnalUwWEVUcU9UYlFidFdwYVBEcEZ3b05MODVIWTFlaE00OEdOejYtMHVjbzZJXzhjVkFidG5ZaW5kWE8tb0lNZGtRb1JrTkNIX25ZbW1xOVpDYWdkSXk1QU9KdTV5OEc2cncxQVpsN2RiNHFjRXBYdklMY9IBmwFBVV95cUxNQm1odHBfd1pXdnZqaThtVjB4NDg5OFRfSVVYRHh1U0VnalUwWEVUcU9UYlFidFdwYVBEcEZ3b05MODVIWTFlaE00OEdOejYtMHVjbzZJXzhjVkFidG5ZaW5kWE8tb0lNZGtRb1JrTkNIX25ZbW1xOVpDYWdkSXk1QU9KdTV5OEc2cncxQVpsN2RiNHFjRXBYdklMYw?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sat, 19 Sep 2026 09:31:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Army, PTDF Partner on Indigenous Drone Technology",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0tjUExjN1d0Q21xc2E1VVZ1Wmd3QjZEYVEwQmpaR25pTTZmRThUNlhCaE9vWEZMUTdZWWE3bmlscnVsRnNybVl2ZU44TmU4ak5wRDdpRzBKLV9IMTlxNFZuR09oMUo1RnMtaWJSV0toRi1WeDQzVkJWdVh6TDhudmtpbw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 19 Sep 2026 09:30:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Catholic Bishops demand end to insecurity, poverty",
+      "link": "https://www.vanguardngr.com/2026/09/catholic-bishops-demand-end-to-insecurity-poverty/",
+      "source": "Nwafor",
+      "pubDate": "Sat, 19 Sep 2026 09:25:47 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Miners’ Death: FG Constitutes 10-member Panel, Suspends 20 NSCDC Officers",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTBkRDVEeWVKdGFEeko0Q3EyelBJZGlPUzRmUUpBeUhYdWFxcmM0bm0yOVNuMV9qTU1DR1NRelpXdHFOSTFDT2EzMHZWNlBHV2FIN09LbGdwLVJmT3NHcVhPeXl4SlVoZTVmYnVlTFQ3M1MxTmU1RERlVHg4ejdsMjNSMll6dFE4bjFpMXVqaGhldnRXZ3YtZFNn?oc=5",
+      "source": "TVC News",
+      "pubDate": "Sat, 19 Sep 2026 09:21:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG Sets Up Panel To Probe Deaths Of 37 In NSCDC Custody, Suspends 20 Officers",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3NwM0h6Xy10R1k2bmVwbWVoS2QyRWlmTVh6YVRUY2UtVjUtcko5ekxhdnhENTB3MnlxT3FHTDN2dlBQa1dLaHdmaWt0M011dFJrdlJ6Vm9TTkNVbjRoSXJVY19VYXVhWTZReHJoZjI2QUc2bVF6QkFCdENoZ0pnMXY3Tm13cmNIUkp2Z2pFWmZYV1ZHdVhXZ0VELURIZ1k0TXc?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 19 Sep 2026 09:19:54 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria investigates deaths of 37 illegal mining suspects — Premium Times Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVdvTUdZZDZmRG53UjVwZU1TNFZ3bnlLQ2dyMnpCMTVMNXhqT25aQ1d0NEt1R1NzNndhSmpxWEVWSldKNGhLM2tyVGQwTjJKcThfNk9GNElTWFpydTVwNWxHdUlvVXJ5eFVRQjdxcHJJU2VEX0hhUGdPcTdDSDBOc1ZXbHo3R2VCU2VVYjVZZlAyeXZFakJnZTdRNlV2OWdfWEIwSjNxdGtvbl84MUstc1V2YmI?oc=5",
+      "source": "UA.NEWS",
+      "pubDate": "Sat, 19 Sep 2026 09:16:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG constitutes panel to probe deaths of 37 people in NSCDC custody",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEZybzBPamNreGVQMnFuc3h5bkl6SXNwY3lWMmUwX2w0UXhzWVVmVTdyZlZCbjJPMkdYQ0tSQU94dndvQklIZlZNd3hpRE1DUTl6QXJKV1F5dXFxMHBEdzFfMTNsMVdfOTUzZk9vZVJBcEFoUFE0cVM1YlJtc2lKWlRlbFBFTlA1b21NbUh2RmxsUzZxb052NTJySFpWZ9IBowFBVV95cUxQRHZVNEpLanVGTTJUMkhuSFhPdmF5V2hRR01PaXlVSWEzd1dQX004cUhOWE5mOVB5c3dBVjloX2RZLTlfSldmUkhqTVJFVmRqcVlXN3U3V1RWVEFCcUJXbF9kVVZuaW04blh1Q29weXVWZW96enJJWFVVb3lNR3BkRlRkNWVINXFMUEJkejRBYWhkNlNRYUtNSFA2TEk0SEx3dldR?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 19 Sep 2026 09:11:17 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Full List: FG Suspends 20 NSCDC Officers In Connection With Miners' Death, Constitutes Committee For Investigation",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcDJZbkotWVBXZTVURnUzOVI5VnR2TGczSFhVRmV6XzY1MTZGN2wydmFtSmd1ZDAtUXpsb1NOa1NLNlNxZDNhNUxhLUh1SHBfemgyZi1XbEVSUm82bXBXdUMxdVQzNElJSkRGY3Z3R3RZZTlhR0RqUDU0WEE3Sm9LcGo5WnVqZ3dnRUgtZHNqMWhyeDVmeHBFRHJuQ080bmFQQzZmejFiTkNUODhXX2JEaTJBTXFSSE5ZZzg5M1pDTnFVOE1faC1ZellJNmNvbUJScDNGTlZUWjMtN1Z1SEtqU2JiX1g?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Sat, 19 Sep 2026 09:08:55 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG deploys experts to assist in probe of deaths of 37 detained illegal mining suspects in Niger",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUFNzQlNIcVJSUU5YNFlLNTk0LWtWSG5CNHA1LWliUDRNR1J3NWVmLXg3TnRRemhGclBDTTlPUzNYQnFRZ2pDOWJHWnpSNG93ei1iN3FnMnMyZ1RibUVMZ0d6emlEMGtweHZ6dEczUVh6QW81TmZrdW5aMVFrZFdQNF82Z2ZiT2pFTnNYUEtLTHRWdXVKcHZCYkVKVktab3FadkdOMXhUUTZwd2pIS2pTRG9FZnR6TWIxdWdyemdxTnNaSnR4YWgyWUtXN2xxc1ljeWdiMTJVQWliUy05cFdJblF3OVNQYmc?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sat, 19 Sep 2026 09:04:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG Constitutes 10-Member Panel to Probe Deaths of 37 Miners in Custody, Suspends 21 NSCDC Personnel",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nVnFraHFOMmp4aFBrdGdVWC1PLXh3UFZTM1dVMTU3R1NVdzgwSGxHeHVsWDRfblB5VndaYWZIRFNpS1FEZWI4SjQwU3BjZ2xKN2p6WTBqM0ZCYkFXblZHUDVn?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Sat, 19 Sep 2026 09:02:24 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger miners’ deaths: Full list of 20 NSCDC officers suspended",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUNVNHpRNHFSYmxLVER0NUpBcjB3WjNhT09VX3NpdkFNN1hGNkUxWnYzSS1LSGtWT1VVVF9uRHRZbmFsT3RiaGxNVEdFWjB4blFGdHduZDFKQkVqTzYxU0VYVUs5N1J4akx3VmJtYmVReHZXZ0c1S2VJMmR5eHBwM1hpVHZKVm5G?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sat, 19 Sep 2026 09:00:56 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG Gives Probe Panel Two Weeks To Submit Report On Miners’ Death",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmxGdzVvSzBfSUhOQklkTHRlTmtEb3FZQlBOc3hTVHNmQWJaczMtQ0NtOTBFczRIMEZHZW9Sd1lPak9MdjQ0Y0h0Wk45VURUNk9ldVYzWWlYdXRMZVRaUGhfb25fT1BGZFp4LUlnUDY5WU9wU2xMWnFDeDc0M0J0OUZYN0FzVEh4UEtvT29GcnQ?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sat, 19 Sep 2026 09:00:21 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger Miners’ Deaths: FG Sets Up 10-Man Probe, Suspends 20 NSCDC Officers",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkllM3lJaEwyWjhYV1RTSGdCSzVLQWs0SWE5RTNfVkpQQXhLWXB3MkN0ZjN0M0s3N1k3VVNSSzg2MVZfa3o4MGlHaGZEcFBQV0dDY19pX0xRbVM5LUFlbzhOV2pzUXFLa21vN0lmb2pRRElSTTBZWkJnMGRVRGl0NHptblJUdjBESXl3TmJxMnJyVmMxX3ZNR1dNZ20waUJ4OU52TQ?oc=5",
+      "source": "Real Broadcasting Network",
+      "pubDate": "Sat, 19 Sep 2026 08:57:23 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "confirmed dead after attack at police HQ in Pakistan",
+      "link": "https://www.vanguardngr.com/2026/09/31-confirmed-dead-after-attack-at-police-hq-in-pakistan/",
+      "source": "Henry Oduah",
+      "pubDate": "Sat, 19 Sep 2026 08:44:14 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "FG sets up panel to probe deaths of 37 NSCDC detainees",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkFRbTNVaXNMN1RyS2lLUnh3OGVodVdIWFQwT3pFa1BFSHF2SHVsSHBMWERjMDE2bmxqQWNIYUR1WTdQY3dSUDl6MDZhUkJtTzNoRVJKcGR0R25sa2VpbzR1Z3Z2aEY3bTRRdWcxcUJta25SVEdWb2VlUGtFU2VUOHR2VlVCS0xJYkE?oc=5",
+      "source": "westernpost.ng",
+      "pubDate": "Sat, 19 Sep 2026 08:39:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger State Sets Up Probe Into Deaths Of 37 Detainees In NSCDC Custody",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlNQb1B6OHZWaG1BQ1JZckN2Wm04ZnF3ZHczWjZJTC1DdGQ4QXFpSklTQUhwRzJscUNnWmI1RElyZE40Y0hNaHdJSE5FV216ajJ0QTBLeVpzc251TTlhSHp3YU9OcW9rc2RVLXhTbmZiOWZsOTZvMTc2cU5tXzMtb2p3eGhFbFRhVWE1aEQ0ZW1ZWERRLVdZ?oc=5",
+      "source": "Arise News",
+      "pubDate": "Sat, 19 Sep 2026 08:38:13 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG constitutes 10-member panel to probe deaths of 37 in NSCDC custody, suspends 20 officers",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVJiRkdYWDByMHNRRXV5X0M5UmRDUEhscEhuN1gxUjZpLTZEVHdST0ZxSV95YklhbU1peHFQTktJbmtGWEV6YjJhRTJNdTBVa0xhb0tod3gyaHVaMmQxNkRwcjNOcDhqOEU5a041eW9hbG9HNFBYdEYtMXpPSFdqMHJzZ1BlaVlzekZfMmZUamZUenJwbEVyNm1SWnpQZ1hDRFc2bzAzenBtdlZoNUR6SHJlTFozWEtFLTRIeWdrV1BoZmRJTEJNNzk2WjlYOEgw?oc=5",
+      "source": "zagazola.org",
+      "pubDate": "Sat, 19 Sep 2026 08:36:55 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Deaths in custody: FG suspends 20 NSCDC officers, sets up probe panel",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajRGSXZlMzBocktwTjJleHhoWkhuTFBBQ040NDhIN3FrY0gzQXFmdXJNYlZBMnFlVjlZa2NMS19SRm53Vk9XclA1eGEyMjNzX0hoUlJOX1FBMndDMzR0bUJ1aDFZT3B5UTE5YXFBTmFtQlpicFc0ZnpIaFlmaFlVOE9PdU1uZ19RR2RMOWlESXplUEhHOGpJMnQ0VjFIZG1WalpnWVZIVdIBrAFBVV95cUxOeTVxY3pLY3ZjVFROMkNPM1FfWERnYnl5UXNwTklsREEzWDB1bGRQNkk5a3dyaDZnYzQ5dFNCZ3dvUGRRTVRWNl9oNzRUdndfLUhNNGt2aUJudlk0dUszQnVFbGd2LVZpU29TNVJRZllNNVNlMm9FaTJIc0pLa2Z4bWxNV1Z6T0dvUHp2NFF2M1dJeFJZNjZsbGF2Qk9sYThyQVNUdkw4cFQ2NTFa?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sat, 19 Sep 2026 08:35:36 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "HURIWA describes death of 37 suspects in NSCDC Custody as state-sponsored terrorism",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVRnY0VwZFliWUJVaGN0YTNFTG5EaFVPWFl0NVl6OVZ2RFV3d0ZQOXZ6Y0J3NU0yTUQ2cWdNM1hLVVh0Y2t3Rk4yYlhQRHM3V2pPd3prQXVYMmVkeGI0d09XenhvWF9QeEFMaEJIZ2hsSGNfYmF4bHRRbzhDWWhmbnk1dEg2T1BFUW02MndtQnUxaWZpMHIzOTlGRHhYaXVOUzMzODhVRGlNVjhYTGZsdUo0Yw?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Sat, 19 Sep 2026 08:04:33 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Trump says Denmark to give US ‘permanent control’ over Greenland security",
+      "link": "https://www.vanguardngr.com/2026/09/trump-says-denmark-to-give-us-permanent-control-over-greenland-security/",
+      "source": "Ayobami",
+      "pubDate": "Sat, 19 Sep 2026 07:59:41 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "IGP Disu visits Niger over death of 37 miners in NSCDC custody, pledges thorough investigation",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVJOR3Y0UTU0RTR1Y21QbWZNS0tjNVhINzc1QUVaUkFZS1hsXzItbUcyaFR4dnUtTlVEZ0VuVnduZVR5cXNVQ0R1eFE0RjRteVQwMDJ6b3p4clpzUFFsVFhBMzNHbGZUbEpsYnMtVXF0ZWhNTVlrbVJtSXM1MDR2eEl1bUlrSEJ3UlNrSi1ObDZiekRjeDlJUldSbmwwRHpQcEZNYVVWR1h4c0FwS2ptU01BT2o2OUJoV0tVeG9iRTQ2QQ?oc=5",
+      "source": "theeagleonline.com.ng",
+      "pubDate": "Sat, 19 Sep 2026 07:58:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "IGP Disu Assures Thorough Probe Into Deaths Of 37 Persons In NSCDC Custody",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGg1Q0pkTXhpMHZjRVM0MjYxRjhLTGV1Rk5jTFd3WE1XdGxlWkZHRUpPS0N3Q1V1VTY2QUk3OUlxeTFaUXBUN25LVzE4U1J5T180RjZXYWpmbFNmNEZORWQzbFBZVVpwTzJQWW5xSE5fellocVBRRjhfcGF4alVHcGtRMWstUm1yNkIwbkZsdTVFWjkyRDdTUkRHd2dPT1VzQ1F2VjZienowUUVZdi1aNFh5UQ?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Sat, 19 Sep 2026 07:46:50 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian church leaders back creation of state police as insecurity persists",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3Q4WHhvOUZzb0l6V0JEZ1VjNGU1SHpoY1ZQNFk0czdpSE96M0RSWE1wX2RmMkxjbU9HRF9CZ3EzUWdyUEJCZ1pnSDBfdzBCQXZnMEhGYmVKZ2dRb0E0Y1FtbDZON1B0bFJWY0tOY1QzenFDb2NoTmNuRkxTNXA1dWdsN3NmeDR1MVlYRllTd0ZuRTJkUjFWNF9seUJ5MGpGdGFiYV9EdU9qUjY3OWxvdnp3?oc=5",
+      "source": "www.christiandaily.com",
+      "pubDate": "Sat, 19 Sep 2026 07:23:43 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Gov Bago declares 24-hour curfew following unrest over miners’ deaths",
+      "link": "https://www.vanguardngr.com/2026/09/gov-bago-declares-24-hour-curfew-following-unrest-over-miners-deaths/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sat, 19 Sep 2026 07:00:30 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigerian Newspapers September 19: Miners Death, Sunrise On Atiku, Others",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjMzemZkMjluS05sTDdOU1pUVndsWEYtX0dTS2puWFR1eEhBZk1OdXJjMmFUT2k4V1hGWkM3LVhiRXlDNHk4VG1vYlgyYU1rWWtXaXI1OVl2T2xKOERXMk1XYVFOa0tnTkw3TXBrTVZ5M18tYVRwdjVxbDZGS1NFUkdqYUR1VU9CNzAwTHhUQXdCSFVTOVo5bA?oc=5",
+      "source": "- TVC News",
+      "pubDate": "Sat, 19 Sep 2026 06:53:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Saudi Arabia Keeps Nigeria’s 2027 Hajj Quota at 50,000 as NAHCON Warns of September 26 Deadline",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkhhQkZTWFNYN0lqZVNBczNxRWxITDVsRWlqcEpUaUQzWkRsbkY1cmFsSVJzcUdlV0ZIYkJHNDl5UUlkSzNlM21qT2NuMnN1Z0RYUHJHUk02TTZjY0RrQUtBUTZxZ0toQW1WOUQtb0Q2TVI1enNQX19oTGJPQTVMNUlraVZhQzZ6UkFqN2Fad2JvV0d1WmIwTDZRdHBWb0ItWlVwQkNJY1JOM3M0S2s5Z293S1hDZGZpZy01bVRRa1lJM2dsSUZiT1hucno?oc=5",
+      "source": "muslimvoice.com.ng",
+      "pubDate": "Sat, 19 Sep 2026 06:48:41 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Abia policemen arrested over extortion of 200 victims via ‘sting operations’; 4 at large",
+      "link": "https://www.vanguardngr.com/2026/09/3-abia-policemen-arrested-over-extortion-of-200-victims-in-sting-operations-4-at-large/",
+      "source": "Oboh",
+      "pubDate": "Sat, 19 Sep 2026 06:46:10 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "We watched as our colleagues dropped dead one after another —Survivor of Niger NSCDC cell tragedy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFR1MnBCQlRsRURFTUZTWW9WZFlzUU00RzNOdXFZZFZENE9lNm5MaVIxbnowSE5sREtjWGt3RlZtRTZhRk1yeldzRXdweXZlQWtMMEloc3FhNWVYakxlSFZkeUktRm8ycTBaVUdpN3dyLVBvZmxLdkF0UzV6REgyVlFUYWExSmlwWk8tclVyU1Y4SExUM1AtcDJ5eUQ1UjV1TndMd09uS2I2bkNodk9SWEdmX0g5emxTQmpqR1F1WjU3eW5YWVdUMw?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Sat, 19 Sep 2026 06:35:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Gov Bago Declares 3-Day Mourning Over Death Of 37 Victims In NSCDC Cell",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNG5PU3ktcmNKWmpVRnJqMGkyX2xDMWVNVUFzakNSS3RFLVQzOGNDamZSRklBMkNkUDZzV0JlRkFKNDZINk53VjA0T3o0WDA0SV96LXJ5R1k3c0I2WlcxTUJhN1dZRnVOZkhzM3FEQVhXX1hULVY4MGxqMFoyNThPVFBZOXF5bFFsQzdUdDFmcUJZczJfUXZ2bUxhaw?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sat, 19 Sep 2026 06:28:05 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Google’s Gemini AI carried out cyberattacks, guessed passwords",
+      "link": "https://www.vanguardngr.com/2026/09/googles-gemini-ai-carried-out-cyberattacks-guessed-passwords/",
+      "source": "Oboh",
+      "pubDate": "Sat, 19 Sep 2026 06:26:28 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Bayelsa Missing Baby: Police deny inaction, arraign eight suspects",
+      "link": "https://www.vanguardngr.com/2026/09/bayelsa-missing-baby-police-deny-inaction-arraign-eight-suspects/",
+      "source": "Oboh",
+      "pubDate": "Sat, 19 Sep 2026 06:20:06 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "How Climate Change, Insecurity Is Rewriting Nigeria’s Farming Calendar",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnp2Z3hPNUVQeE5IZTZIQy01WXVTMVRmakRsVEkzcXRVWXF3RDRySTZrTU40b1BxcXlFN25abDJYR3NjNE9hdVd0djlnQUowaWFJalVSUVI1ZGUzdC1fb1hOQ09LTzZqc2xPWDBUQ2VaWUNkWUVENVNCcGJNSHlMVGQzS0lBVU1pM1NpV3VNVG54RWcyeUZCMlNR?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 19 Sep 2026 03:31:44 GMT",
+      "pubDate": "Sat, 19 Sep 2026 06:14:00 GMT",
       "category": "Security News"
     },
     {
       "title": "Again, Nigeria Threatens Licence Revocation In Push For More Oil Production, Revenue",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGRnQThYZnNuTmFUTVQ1bEN1TDdfUlRTb18waXZ1UU5EdGIxRk9OWXlhNHZvcEVhZnpnRlFJS0kwRXVKY3B3ZGJjNXJZcHJrbV9ZV01KSkNiaVRCOE95TXJra2hmMHJZNGZmaEZrZURpVkZzNnd1bmpXUFh6Ny1veEZfWF9SbDgyMVhnWUpVVzNEWFM1RXYzVXotanlwTHEyVl9uRFdVbEhWal9l?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 19 Sep 2026 03:25:28 GMT",
+      "pubDate": "Sat, 19 Sep 2026 04:05:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tension, Outrage Trail Death Of 37 Miners in NSCDC Detention",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3d2SUhtbDlNQTlpQWktV0ZZakk2aDF4OHE3R1lHbGYzYkVnMURlX0t3aXlNdVdveHY5aWw3Z19nWFhDUzBjLThLNjd3NDVzdDRCMDdnODNFWVV0OVZTOFRfVVdQYXJLU3dVY013Ty0ycG5rNFlBdjZWZUh5a0huZjVETGZmODVZYXNfbnBITi1ENGl3LUVVMVpDR3dSeFln?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 19 Sep 2026 03:55:48 GMT",
       "category": "Security News"
     },
     {
       "title": "Death in NSCDC detention: Survivor recounts ordeal",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WUVhLSzItVnZ0eGt0Sk5mME1KelNfTWt1SFdsMDdWLVkwQ2Y4b0RJNmpHWWlWUEJoVTdpZV9iYTZqVzVtYmQxNS1xUWdOOUZ2d0V1QmdhRm5nVC1rT3pkamliMEtQUk16RjhWUi0yR2dnYlhEU1lHZHZKZnlVQQ?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Sat, 19 Sep 2026 03:21:59 GMT",
+      "pubDate": "Sat, 19 Sep 2026 03:23:05 GMT",
       "category": "Security News"
     },
     {
-      "title": "NSCDC suspends Niger commander after death of 37 miners",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0JYOEpJbVk2VlVib2tuV3pfZFRRcjBYdVFrWXRNODdnVS1MUmtHaGZSaUViQmR2SEdPOHlldFlhc0ZJWV8tXzBHd0I0VjQ5UmtiRzdvRU1fUlJPV0N4M2p0eEdxTXVyNVdBR25TU3JJajQ3S09WeXc1Z25IVWphOFZ0aFZjdU5lT0NKc0hlV3JHb1k?oc=5",
-      "source": "21st CENTURY CHRONICLE",
-      "pubDate": "Sat, 19 Sep 2026 01:01:51 GMT",
+      "title": "Nigerian scholar found dead in S’Africa",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WVDV1WGZfNmpsNmw4bVlPVUt4ZGlZdlJaV1lCZUc1UVNJc1doSkpOQzdud0pVczlOSkhFVlBJYUVPbjhZbHRzc3Q0dlozWlF0NHROQjVUYjNVR1dvTUVEeXVvaWl0UDhnN21z?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sat, 19 Sep 2026 01:00:08 GMT",
       "category": "Security News"
     },
     {
-      "title": "Tinubu order prosecution of officials wey get hand for di deaths of suspected illegal miners for Niger State",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MzVNTjdqX3pVVzUyMjB0Q2V4ZTNyREIwZ2Z3Z09JUUV3cER1YS1GZUlJODVOSzhJN1hMSlZvcnJRd0pJSFVDM2pRUFVtcFVGdmZhVUFpRlMyTG1wemc?oc=5",
+      "title": "Horror in NSCDC cell of death in Minna",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMDVyVENuMnpQOGVuRzFkSVROMmlZZU5va0xWa01LTWh0RU9hc2k4MGQwOWFMNVB1NExwYTJteXFCbWl0bUljcXdreUh5d1lKUDhudXJuVlJGREx5Nlk0?oc=5",
+      "source": "Punch Newspapers",
+      "pubDate": "Sat, 19 Sep 2026 00:18:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Illegal miners death in Niger State: Tinubu order prosecution of officials wey get hand for di deaths of suspected illegal miners",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MzVNTjdqX3pVVzUyMjB0Q2V4ZTNyREIwZ2Z3Z09JUUV3cER1YS1GZUlJODVOSzhJN1hMSlZvcnJRd0pJSFVDM2pRUFVtcFVGdmZhVUFpRlMyTG1wemfSAWNBVV95cUxOZW1ocWpuV2pEN0xDSnUzbDJBbXJnUXdLdWItSW9GMzZGb2MxMWd3eXl2SnZ0TjZZRkhOWWo5ams3ZXJsRVoycDVBZ3JnUk9SYjlrUUM1MXJzclRvMHRVVjUyZVU?oc=5",
       "source": "BBC",
       "pubDate": "Fri, 18 Sep 2026 23:42:45 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Breaking: Scores Feared Dead in Market Shooting South of Jos, Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREJkSElxRDlYVmU1RlJDTW5mbFYxdlJXVFpEbmxHb1pRUkZSdmVLUmptSEMtMktESE10QkhITW80emoycG1ENU5lM1NEZ0VvWlg0OWdWRVI5Z0tteHpwYlhLNXdtQ05NWHhMb0hNbUpMUzlPbnE0bUVQeFAxcG8taEVYYTVnZnNSMVNNLUNGNWNXU1pUNEpORWFuUkNPMllEUWJj?oc=5",
-      "source": "Truth Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 23:40:53 GMT",
-      "category": "Armed Conflict"
     },
     {
       "title": "Niger: How 37 artisan miners suffocated to death in Civil Defence custody",
@@ -63,25 +351,11 @@
       "category": "Security News"
     },
     {
-      "title": "SERAP urges UN probe into 37 deaths in NSCDC custody, Minna shootings",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGlSV3MwOTR5OF9nczFENjNneVJWNWF6RHM0SVlQM3FCenNmdGJKYlVYZnV3N1RFTjJiZ2J6dEl6RlJPQ1REUXZrVWJKcDlVZnlOTi14T3pOZ2tLemNmREdpS1FzV2RjVFZaVEFrajhmRjRyc1l2N0RiZU5qZWJHSFVqamRDN1pydkpERVdYaTZPbk9MRXFLcE13QTk5SjlnSUV0X3Nidlhudw?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 23:13:08 GMT",
+      "title": "Anti-migrant protests in South Africa: University of South Africa condemn xenophobic attacks on oda Africans as Nigeria evacuate more citizens",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vcXplZVNjbm8tTmFTT2xCQjRHZjExaEUxMUxfT0dpUXRMRGVkazZackRsTG5oVG5zel8yY1hHaWExZDNLemFZbGdmRWRadGoxd01mUkdwUGFlX3V5OGfSAWNBVV95cUxObGxDSkZCSUxHNUk2U2dsZ3ZHLW54Z1h6M1ctVDNiVWFZWEEtaFpYUENSbEpHaF9lZVRJSk85Q0J4S3dXVEoyVk1YdWczOXU2VGdXUU5hdDZhYnN6N05RSy1kTW8?oc=5",
+      "source": "BBC",
+      "pubDate": "Fri, 18 Sep 2026 21:32:45 GMT",
       "category": "Armed Conflict"
-    },
-    {
-      "title": "Nigerian Embassy, Afro Euforico strengthen cooperation on consular services, community development",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLU1ydUFJYktaNHVQQS1oQ3ZsU1I0RnUyQmVoZ3VQNTdqek04cmlyVVhaeGZyV0pDMVF2eTBoVmk1bTFTdWUtd3dLVjlQVFUtOXhKVTZiTXNCOVNzcHVab3Bjd1VjQzd4Tmk4NlRrdXR2Vmlac3QzOGRtSkxFa2ZSa3hEYmVXdEVObUdWSEFQZV9nUVFpQVBCS0U4b2pXVktGVXVuNGdhRHZkYjE4bUkzd2hldWNCdE5PVHFNV1h6TQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 18 Sep 2026 22:13:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Niger Miners’ Deaths: ‘NSCDC operatives locked us up, sprayed substance like perfume,’ survivor alleges",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWxhbTF6VlY1cl9ONkdEemxnZHU5WFVIZUZEMmx2TkF6YUI0a3dFUzFBS3JVa1dXM0kxMFJMT2owbnFJVmwxdW50ZUFzLWpLQzRsXzhwN2JjYlFQVG56Ujh5azZpRVkyclNOTWwzUWdjNjJxRFhLQlpjZDZUdWFwNTE4LWxHbFhRaF9QN2hNNnhadTN5S3Jua2ViazJDRE5zUXMtTncxN21HcEVzQXZXM0FySDhoR1V2SG9JZXR3?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 21:48:30 GMT",
-      "category": "Security News"
     },
     {
       "title": "Ex-Military Ruler IBB Denies Ownership Of Niger Gold Mine Where 37 Suspects Were Arrested Before Dying In NSCDC Custody",
@@ -89,279 +363,6 @@
       "source": "Sahara Reporters",
       "pubDate": "Fri, 18 Sep 2026 21:31:41 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Curfew imposed in Nigerian city after protests over deaths of detained miners",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh5Ym5aOW4taU85VGpHcGlsV0p2N1FzUEo4bm1IZFZzaDAyNlA5aDh3NjZKek9uYVlhRHdRd2VVOGprSEZucjBvMmNIdjFfMHFZTGQwT3VXMVBTVTUxRHZXam9qSHVEeGZ0Uk9IbkJxWExLb3RpUXMxd1F0OWI1ZzhUNlF6eGFoZWI5UFV4bkZlU2w5MDBjdGV0Y0MzNUN3Q3JMT1Y3SG1tRFhSUVpHSGRIUFFoX205eUE4?oc=5",
-      "source": "Reuters",
-      "pubDate": "Fri, 18 Sep 2026 21:13:46 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "The Minna Deaths And The Limits Of State Power",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEZBNWZkd213TnNQS3hlZkNBOHRzbzdoQTBzTE5TNDE3SVlqVjRwVldPZUU5b1ZQb3ZPbFlzMXU0VGdNSFVkQjlnNlpqenl1OGoyV1lRLWJLYTRKYnpNZGVUOXA2R2F3cDBJbVEzZURjZS16WDJOZEFudF9RUW5MQlhZdVNsODNjZkdGX3BR?oc=5",
-      "source": "channelstv.com",
-      "pubDate": "Fri, 18 Sep 2026 21:10:51 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Intervene over 37 miners’ deaths in NSCDC custody, SERAP tells UN",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjJ5Z2Rkd0Zja3QyM2J0TEFHNmxZTWdHN1R0QXpHUUtydFNFVHBGNms5TTlTNjJqOEJIRXdIRkZtN3Y1YUFJR3ItVjVaX0NvY2lLcEItYkR3b0lLRmEzLWlObVExNXlpOTRKdXlIZFItTUhTbzFfX29fbUpKa1RWbW5UdHdiZHV6Y05LSA?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Fri, 18 Sep 2026 21:10:35 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nasarawa governor pledges support for security agencies",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWU5TSTdtRnFWNFVzekFIWE5kT1YtQ3JIRzlObVZSQTNQZzhUMzduWEtHaUxJT3BTdEpUX3pHaUFEYkE3aHVfY19mX3MwQlROaEVNVVhld2RCMmpwempuN2d4WURTdEg0N0RmbWxkTDgwX3dFa2FfSEZETGxhbGZ4OG01aFVnU2NlM0tIeQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 21:01:18 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ADP demands probe, compensation over 37 deaths",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMmZzTkNtR1RyR2p3cGo0TFNaWmpPTndlUmlEVFRTQ2VjX3JFdWpqNmRyOTQ1OVB6WjY3bkZVUWRvUUgybjhBQWFqcW8ySGhIRXo4SDFVSmdUQTB2TG5LMHVZeDhyQ1hJa3M2WFhHSGFJaUk3ZklZTDhucHJYS3FxeE5VUHAzOVdaRHfSAY8BQVVfeXFMTVEzVG1UVmxlS3FoWTlpR3ZUbmdQczRaUFJ3YmE0WjNwTWU1Tm9tN3k3WjE4UEZUV2k0Y0RCREhkVU1BdXV2TnVTWDhZOUl1b3RmQ3dCMmtYek9VeUhtU0FFbnlteVE4T1ZFcnlpQmJqTldYYXBxUDd6SjhnbmkxbUhPRVNSQ2RSN0lWVjV5ekk?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 18 Sep 2026 20:22:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "From Nigeria to U.S. Cybersecurity: Rise of Dr. Stanley Edokpolo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWNqTHNVYjVXVmtka0pYbGMydnZMNjl1dWxjZG1jZk1UZkUtOWVmVWg1bVdvdVp1d09OamRpZkp3MGNlZmJ5NC15MVNCUzJ5dWhVVlRlUG1KOWFyNGhqaEhHcmhaTDVRMG10b011RzVLWGhMc1ZiN0RoS3hrenFqX2M2a0FGNkczd3Y1cklLSEtOSjBnRkhjSXRyWnlBeGfSAaQBQVVfeXFMUGlCWmxfR3dqZGdKY0VZRkt5Z25EYlhUcEU4T2d1aXpMU2N0QlM2Z3JxYUIxUk9IaUVXeGdnb2IxY2wwbnRBM0ZBZ3doZVR3WEFSWHktQV9UZFYzam1zeE9xTlZUcUptZl9aTExTV3AzSVpwWFJyR0JIU05MMnpDUDZ0aHNNOXVDMTY5bUl0UFIzNUo0eDg5QmlBZ081RG1lRmxVUkk?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 18 Sep 2026 20:08:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "SERAP to UN: Demand answers over 37 deaths in NSCDC custody, Minna shootings",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2w1SU4weDMyOHZkUTlkODJZSC1wcTU0bFNlUFBtTF83T2tkSWJac1pqbnFlNFBCMU4xVjlRVE9OTlQ4cnBiazMxa0xGUkVOd1JRd2QzZlJUYnlrTThQSENtb1VLa3FvWHlIRzB0YUpqdnRQc1ZUUFJqcjVIOTk2dGV0STlrVlpqY3FfYkZ5R1JwNTFYVE1DdjFBRkVzTjVBd1ZRN0JlYXRpazJCTkkxMNIBtgFBVV95cUxQN1FCZkhkVWFMNG5vcGJBeXdOd1E1S2xvMTJTNHoxcXVNY2lMTHJxS3c5UzdZdVBYby10ZnBzSkdOWU9IMV9qZHhFNnlWRnRuUWhPZWFTdm45M2t3MHV5RzlfSUJZUHZaWWtOeGktWEdVbTAwUTl6T2U5dk9QVlhsZU1zakhPNWNuLWVJdS1TYlFGSi1SdDEtYUZxSmFmR1A5bHZnZzVXdnZzWWJ2VkJ4T3d0ZzRkdw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 18 Sep 2026 20:04:24 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Miners’ death amounts to grave failure of state – Group",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWS1FZG9seUFiSVZqdFRLNnJaRlVQOUVMN2RyMlc5OTRqeWpQeE5VUlZHa0d2Mi0yWVRUakhXaHlpWmt2UUJpdEVIU2I2dDE3UFJKVzhmZmVYTVc1ZGlyU05sUUcxYTBFdTNvbG50d0hjQkNnY29VY00xRWtUeGxma29aNGk3MHIwUFpzU05xRnBrQWdMbHcw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 18 Sep 2026 19:55:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Obi demands probe into death of 37 suspects in NSCDC custody",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlZhbWZnLU90REF0c0RGWGxNODhPR3JkMUNlaEJYR0phYjlrT3JQanpVTURNSGpmVXh4TGh3ZUQ3UVNqUjJUTnIydHFTS0E3WnpOb3Q3bXpoNkdRUlRNR3BLWlRrS3pLSlNVaXVqV0VsTG1qYXJqcWxEVTRHSG9XclV3NnE4OFNYZVp3Q2xiRUdyX0M5VFEwcNIBmAFBVV95cUxPQlZhbWZnLU90REF0c0RGWGxNODhPR3JkMUNlaEJYR0phYjlrT3JQanpVTURNSGpmVXh4TGh3ZUQ3UVNqUjJUTnIydHFTS0E3WnpOb3Q3bXpoNkdRUlRNR3BLWlRrS3pLSlNVaXVqV0VsTG1qYXJqcWxEVTRHSG9XclV3NnE4OFNYZVp3Q2xiRUdyX0M5VFEwcA?oc=5",
-      "source": "Tribune Online",
-      "pubDate": "Fri, 18 Sep 2026 19:26:24 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Peter Obi, Kwankwaso Demand Independent Probe Of Deaths Of 37 Suspected Miners In NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2djN05VYmlvS1RRcjNMVTluaUxpUWZ0UXd3RHJVa3pGd1dQZ3NTcUZkUlhZdEUxV2pUVF9jRUg1T1ltWFBQTHVuRER4M0F1QVdLd3M4b3RXX0l6a3MtRFBsZTBjM19rQWtxUE1YZ3Y0amRsN1ZORm1iSWwyaV9HOWxZNm8ySHN1SHA1Tm9FYmVtYzh5TXZvNlBwa2xsNUdLRmtNNWFraUJlTGJlYldQejZKd1FfWkxiSmxvb3RZcm5UQQ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 18 Sep 2026 18:50:55 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Sowore Demands Arrest, Murder Charges For NSCDC Officers Over Deaths Of 37 Niger Mining Suspects",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODEwM0x1Z3lRbUJZUG1rUFNFM3dudGVMVnljQ25XYzN4M09wYmJkZkhySzZYR1VlZV83M2hQc2Q4NjFmMzFNaFRlVUVhbE5VZkVNNDJERkVjTDZfRC02T0RNczZWQ0dENlNDNEhTdTBqQkpHT21uNUNSMzFaSXp0UWZsdlF6T3pKYk9DWEtrcGkzTWxCZGpIYXA3RXRoTExHcjNFbkFuaTZSenRXdElidnhsa0l3ZjdJenVkRnJVQ0VjR0lWZXc?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 18 Sep 2026 18:27:53 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Miners’ deaths: Peter Obi demands answers, accountability",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGZPa0t5aWp5RFZUenpZSlhaYnRJOHo4b3hLQlBZdW9WQ0tSYlZIeXJ5RUNzNngydmRfMWhlS3VMcERQeXV5YW5Wak9LamdnSlhRZzhOQm01Ykt4NjFPQTdMOFdfakRaTEdnVWJQWnpKWGlSajlqRVhMRDUwM0RMY2hMY2hmUGdMT1J6NHp4SW9VVlBKX2fSAZsBQVVfeXFMT2lzSTludGVTa0paWVhLcDRVVzF5ZVdjX2ZUZ0xGZEQ5MVQtZ2ExVTFJUmMyY2dzRWhSQmxoQjctY1RXdnNfdHlOQk5Cd1FLblB0TU5GYzRUbGM4bTh0aWJHSDJwQmttclFIX3h2QzlFUVNSTk9FeXAtOEs4YkpXWmtQREtZd0pGaTVVcTlGYzFPWmk0MlVmTXBhSU0?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Fri, 18 Sep 2026 18:24:03 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu orders ‘full, transparent’ probe into deaths of 37 miners in NSCDC custody",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWNCclUxY0RpOEpYQ0w0cm00UlRha2oyY0VpWFJQY0JhMGRZSjVhaV9yTkw2c0xrSW45VUNoYk9QUmNOQk9MekhCTVA3ZzJoeTlORDZQY3ZRbXFHV2VSb1Q3dzI5a3Q3d1gzRUFIcmJVYkVnMU5yVWdhLUw5eUx3eFFNcFozcVFiSkdnT1oyZjd1ajlpYzZmWk8wbkhfcjdraU1mTFlR?oc=5",
-      "source": "TheCable",
-      "pubDate": "Fri, 18 Sep 2026 18:24:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Miners’ Death: Niger Govt Wasn’t Informed Of NSCDC Operation, Says Gov Bago",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkdaWU83eWo5X05LVlhNUWx3eUNzcmxiekI2WkNKTVcwZG5zQ1pNNUsyUVBfYml3aDNXMGk0aWpDMGxiSlVTVTRvOUJ3bjVveGJrUlh6U0NCR0R2V1FSWnJURFVwUWp1bGl3VmN6MjVsRTNxanAzNThMWVRUbDMyNDBsOTVQOC1XMXI1cWZ1alFzMUotRTVNVHdZdw?oc=5",
-      "source": "tvcnews.tv",
-      "pubDate": "Fri, 18 Sep 2026 18:17:00 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "TIB, Lawyer Demand Independent Probe Into Deaths Of 37 Miners In NSCDC Custody In Niger State",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2xrc2VvcW10WUFlWkw0SVhsWXdpUFNuekRQYlFhNlJhYWFoTjZxSnUzcDdTbnRFWmJUcmZ5TEFZcUxvbTJqeGpaaGhBM1VJWEYxR3R2SW41SXpadmREbDN4YzZISTVRRC1aUVBVdVNjRncxTUxPLURva3JXUUR2UEpKUmtlX1hxQUcwTXJaYWlzSDVMengweE44ZmFVMEMzbXd4eVBQVS1VNmdWcHAzV0ZuLWttSW9H?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 18 Sep 2026 18:02:52 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Survivor Identifies Ex-Military Ruler IBB As Owner Of Niger Gold Mine Where 37 Suspects Were Arrested Before Dying In NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDRscHkwOUpEUy1rQjhaXzdYVU1yTFcwRGtKMDlrd05pV09IWGhUNGVWaFhsMHFOclBUaGhNd2dOSjZ4REpWOFdNWWhKUkY0Xzd3Y0M2Ykd2SDBxblBaRkdtdzlXMU1Ocm5ySExJMGw3ZFpfeXB6UGFSb09HekdINHBJLUlVSXc3MmQ1T0pfNDFZYm5PdXdrMHZZdjQ3di1qRWdORXJtWE9oQnN4VGJqMlJJckZVRnlEdldsbTJYM25tT3M?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 18 Sep 2026 18:02:41 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "‘There Must Be Accountability,’ Tinubu Orders Probe Into Miners’ Deaths In NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWM1TlBUWGlxZ3FXS0llU3RLcnFzQVpCLUFoLVdPNU5XVzdWdi1GeHdyOEx6MlBtNWxhRmFhZHFVU0FjUl9WWFlVd1VNcm9uajVObDJMZ2N6X3FvYW9EdlFNS2hLOE1mdFNEV0dTcEJraGd6M3dQaDV2R1FVWExpMkV0X1Mydl9tWGtXWTh2U0VPZ1NaVXp5NnpEaVkwOS1NdXJyU1pFakR3dkVrVDRlWEhmeFppeWNPQjFrVUdha3Y?oc=5",
-      "source": "channelstv.com",
-      "pubDate": "Fri, 18 Sep 2026 17:59:38 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria custody deaths spark Minna protests; Ekurhuleni victims identified",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb0h2eVFTVWZVcC11RWRtMDl1QUhUbFpSZWppemZOVFozWmZ3TEVrRUFOMXFKUjVQZGhwSU9sRW1RMW1nMU04SnBZZENHTGswMXpnZFRMeWw3V3FiZjl2MF9zUW93Y0dqMTRBVDVlZmFpbjhGNnFtMHB1VTJvZmo3ZUpwZEhrWlhrWFRzZk0wNUxacHNHREVxcGlucXg2M1hrYkl1eXJmWld1eEdra1hCYUhfSnJTNTQ5V1lLaU0wbG41VS16UmxzallYNzFISDNuR1R4OUxkS0ozRXNyekNpM3h6LVJ1RVZDMjg1MEJ3ZlNpLWRkUEtKMENQUDg1elk?oc=5",
-      "source": "OkayAfrica",
-      "pubDate": "Fri, 18 Sep 2026 17:49:36 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUdTTEFqdUNZa1ZwenpSMkNCSEhDY3o2T2hpOWJWanRYXzBkUldjT1JBOTFLQkhiLVlPUXVHNHBjWW96R29MWmdUSklNdU9PalRwYUJhN05UdjdpVG1xV3hlejR2Q3FieGp3LUlPN0t4RGprazlsbFdRY0ZWVmlJbW1QR3dmc1NLQVNyLXVqanJxT2ZmNkNpVHMzZzBmcUJoeGZKSU5qN2JOMGhLdTVJb1RmYXF6Z9IBuwFBVV95cUxOeFowTDVtazVnLUJpSC0wY3NuVXFjMnhuYkhSUDVoTE4xcjMxRzhpVkxoRzc5WVg4QXZoSVFuU3h3dHZoRjRRTThqWlJ3a24yLUdxRkFRRUhHVTlJLWRRUmludDJNczFyZHdoUDcybmRYVUExNkxYb2pmYnBOUFUtc1lXbmRyTE5TTTRrc1VRMzhORUE4Rk1vanpNV2hIRnRmaEZzdE5zdW9CamtYbDVwOTJOMEFaeDhnZG9Z?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Fri, 18 Sep 2026 17:49:07 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "PAN Lauds Oluyede, Troops For Improved Security Nationwide, Calls For Stronger Citizen Support",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1RRY25RY3FqamFOSHBjY1BXdGFVMlBsNDA2Q3hnaTkyZGgxR01INU8wMTJYbWlfUmZ6c2g0TG9kLVRNejE3RkJHM2YzRnJRdjRrQVJIVDh5SHhvRDBpNWNfQUx2bmpJRHNDOC14OTU0TmtveGZJdEJoeTRDVGQ4bUdkTmRXblc3VFVTMEUxeFBQYlVxcDRWT1Y2M1lCUGRhbjFCYkZkbXhKbG9PdWxRMFFSZTZURnZiems3WExIeUtoUzhoN2IyaWFB?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 17:28:15 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Northern Govs Demand Probe Into Deaths Of 37 Miners In Niger NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQkYxZTg1Qm42TVRmcTl2TkVuc2NaaTdpRzJZUWx2c3VaU0JEQVBUQmlJTnE3b0s1cWZ1SFBUNlZWMklFOExxUFZPT3M1UE9IdThhWURMZHM1STVaa0NSUF8xUXVfVzJ6SnVoSWVEaEhxUV94cUFNMGJSaWVKVzJEV2RFVVJ5Uk5GY3U0X2tiVnBibnJXRWtKSVQyMXo1Zw?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 18 Sep 2026 17:26:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria joins Interpol operation as AI identifies 126 terrorism suspects",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY24xSmxfb0paNkxONjJQSU9FZE9Wc2NIdGxfblhXazJWNVdUOVlpYjRwYjN3LUM2NEUybWVQcGYyRUNDVmJtOWF3blMzbHF0d3I0UlIxaFRZVlU1aHZKaFIzeG1sRFBNN0RNZ1NDQjZBc3pwenpQd0RXN2E3ei1oT3dXYXR1SnY0QVpGWFlUSTI0SFF1ZFJocE92amZqQQ?oc=5",
-      "source": "TheCable",
-      "pubDate": "Fri, 18 Sep 2026 17:25:00 GMT",
-      "category": "Insurgency"
-    },
-    {
-      "title": "Miners’ Deaths: Suspension Of NSCDC Commandant Not Enough, Says Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEZwOTM5TzhMT2Z3YXVET0xwOGdlbUwydm0tWjUyQV96SUt0ZXFwN1FDOGZsWG1YOFN6dC04dzNHdHY4YU1sRnAwYkpCaFQ0b25iOGdfMFNIeE5sTzdwcXRYS2JOT3ZoTkx4REFGX0x4Z28zOHpxUjA4djgxNmFQTjhnZ1VsYXAxM0M2QWRFMVh5MGRKSHc?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Fri, 18 Sep 2026 17:23:11 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Niger NSCDC Deaths: Rights Group Demands Independent Investigation, Autopsies For Suspected Illegal Miners",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEM4UU95aGxKSWxTX2FVUWdxTzFjNGhnNVkyeFpXdlBWWHJFWktCeVVuemRrdlhUdWoxREFzQXVqSHprMFg0R1hRTjVCdGN0LU5iVUR3YzFZX21JZy1KRk9KT3Y5MTdqc2R5VnczYmhqb0NQNDg0MEIzZ2s0M0hhNU92Y2RBS1pSeXFRemxVZTNmNzY5dHBDM3gyRVBxX0ZVLXVaWmprNlZJSlFfMG1qRU4tM2JwY19vNHV0Qjk0TWFIQQ?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 18 Sep 2026 17:17:51 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "IGP Disu Meets Niger Governor Over Death of 37 Suspected Illegal Miners",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmdpRWhCeUpJUVlKTTVZWGRrMTlhcVBmenhueHJTYl80NDdkT3h1dWpVUHFBcW9oVWFYX0VQSlRENzFyTmp6UUVibHB0cUQzdnl4QkotSmdQTlBNeTJnSkg0QjBadVIyVUpOVnNHX2RoQm1BR3lkbjM3a2xMSFdQZHAtaUFGazdzTHZSUDVFVV9sbTRoOUFxS0xjWQ?oc=5",
-      "source": "tvcnews.tv",
-      "pubDate": "Fri, 18 Sep 2026 17:00:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu orders probe, prosecution of officials over deaths of 37 miners in NSCDC custody",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSi1HZE5mUlBuV1RUbFFleS1yVWszUjNCaW52andyRGFwaW5td252bGJKM0IxTlZQNDRPMGFXb3ZSZTBqR1FRYjVEZ2VHeUVDMXgwSXU0dkdKdVhwU2VLME9WYndsbEEzM2RnbG9DUV9yVDFLaFpOTHRSU0xJbGYwUlNwTU1vbWN0N3dqOHlaWkk2Ui1SYmRVRHE2SWY2bTIyaG56aDkyX1d2NkpVVUFWdmp1cWphMHVzNGc?oc=5",
-      "source": "Ripples Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 16:59:39 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Deputy Speaker Seeks Concrete WTO Outcomes on Food Security",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN1RHSHRLdlVjQkZsbVFTbDRUNmEzNXZGTjZFZzRNZzZTUEVfU1lhY29wdXZ2dGtHT2luU0VMRnc0SDVNRFRkanNhRkxscW53eTlNYTJEUXp0MDF2TFNiQ1hwTWJhVVkyUHVGVEVVV2FQQUY0eFFGMTk3dUhwc19UZ0lQcXlDdw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 16:51:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Niger miners’ deaths: Survivors recount suffocation inside NSCDC cell",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2JjWktPYVhZVXV0aTVmQlpnZU1mM0RTc1EtNmpwQVZNOU05Yk43TWFmRHl1VTJlS3ZPQzg4Z2NfcWVBRjNYazlydUVXSHZYM3poLU9vdkNvTTIxZEF6SDdMSkhGMXhCUFdTaC1aekxNS3gtczRkdWloT3FJVlFseTBhaE9VVTFwVUtwMENkbw?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 16:46:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Akpabio lauds Nigeria banking sector, says end to insecurity within reach",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVU1EYkxrZmZYcEUzN2VZSWZuZzdrbE9YcG1oSGgyeTVSYXNpSVZaQnVnNWlGVVBCbXc1Z0UzcGx4VlBidXhXaEp3NHNMdFJMU2Y5WjRGVlJpSXdmWkZSMkk0WHBYSXlGVzJYV0dNTjBMVUFrU0trOUZRd2hKNHZJYTNOd0hLOWhldkdLVW9hUUQzZno3UUtaVDA0M2dBMmM?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 18 Sep 2026 16:26:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Atiku demands independent probe into 37 deaths In NSCDC custody",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkVJeWN2U1RUUTdkd0ZwanpZcFZDWUxPR3o1LU5WR2VCMkZDWkJjbmhjdEJnUDVPWGkzeHhERFFwanZTWEllVUNjalR3YWwzVy1ZaTlmcVdqaVlfdmhkeWtrNGVBUkNfR0tieGJNR0R4cGRBU3k5aW82cHdOaGxka29YeG1JM3haMmNRTmdDRE5oZE0?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 18 Sep 2026 16:22:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "China, Nigeria Explore Fashion Industry Cooperation",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wNXdkRmpvWkVFU29pM0xKWlFaaHh3RHZIYnpMZnhMLV9TekctaktvVndFQUVNVWNKTzFYcFJzVDhwNHg5S29oNUJNUUlGVHhqOUJ2SGxkYjdiR3RzTV84bDZib2s3OFR2clZxbmVDNjIwdUNSei1rbEhn?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 18 Sep 2026 16:09:27 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Tinubu Orders Probe Into Deaths Of Suspected Illegal Miners Detained By NSCDC In Niger",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOG9VaEFTcFNtdkxRcFUzQnJKR29Nb0pmSWRQWV9PWUtGZjJ2cTBWQ2lkaWJzTjJoRDltSUVzWU0wYkhrbndXZWZoT3MwUzhvenBVRDh5X3dTUlZLQ1lrSjhhUTlrTjcyOENwZ3ozdkZmeDdQSmNnbHZCaTRCdW1PeHkwYUpNYWRFWjJ6dTBWem9CdkVPNE1mS2tkUS1fSE41WUtUenFEWkxZMThITDFnMXM4ZHZMVS00RkZ6V05LSmtCMHRa?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Fri, 18 Sep 2026 16:00:20 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ADC Calls For Probe Into Mysterious Death Of 37 Miners In NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHpMc2tKZGFDUlBodmZNZlJULTVvblRfOUR1RnlTVGlYRnc2WlBjdWhVWHJGSl95M1p1a2tPNmxyaWgtaU9QSzZyQXlxa085bnBVbnBfYnFBVlB1YkJmdUdCZUMyTEFxOHZQdUtiVWVtRkliUGczaUtfSUs3a1JVMkJpQlREQUQ2b0ZJZWNDa2dhMTI0M1E?oc=5",
-      "source": "thefact.ng",
-      "pubDate": "Fri, 18 Sep 2026 15:59:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Armed security deployed in Minna after deaths of miners",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3psQjk4NW5yQk5jSmEyNy1oNzVJTVZXSVpVZENSYkhNQnNxZW9XcEJVaHZCQTdsbm1KcURORWFDbEJyUnRqbkpuTHBwcHFnSUVBNXVMZXdiVzRJZVlzZnA1WEViMDVlRml2NnVEcnotWF9SckYwOHl2OUFVM3hRRnh0NFdPdnlEd2x3czFwY1FkY2FrU2N2d2NzSjBmUDlXOG45eNIBqgFBVV95cUxPaGw4ZzJnWWlSRGtIYmM2enh4SldCUTlnUGFmU3F3R2d2WVhZU19uMThPeG05ZHFsMU9tdkloUmNhUlpWWFM0ZUVVRnhlcF9zNURCSmlLTm90dTBjdl9xWFdDRVBncjNtUkJjbjdrc1dMQS1PVnJ2eHF5VnFDeUdBN3loekxIN2VCaFU2VFNCeXVIbEFWQ1VQdEVhSmpKOTl4YXhjSktsaV9Rdw?oc=5",
-      "source": "africanews.com",
-      "pubDate": "Fri, 18 Sep 2026 15:56:05 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tension In Minna As Youths Protest Deaths Of 37 Miners In NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1h0ckVCejFzTDBwZUliRHhvWmZkS3QxSE93R09qekxDMkppU3VuUHVHcnlMdU9QMUFNVW5VckJ4cE5SVl8zUVZoajJWS3FGcFFuQW9nZ3BwVl9USDJWTFR2SWZTOE1kQ1NuSWFzVHpzMGtyOUw3VW83OFVOQS1FdWJ0LTE0TnlldjdvZWN4bWtwcm00ZDQwa1ZB?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 18 Sep 2026 15:55:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ICAN Northern Conference Demands Tighter Audit of Security Spending, Agricultural Funds",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTW1xZHhjQ0VQTmlyZjE3d0MwZXRGT2g4c2VXaDVEWm83MjFJRDlTZU54QkdhQUFQcDBzQXptckdLNGd6ZkZyQUM3S1hCRmkydDkzVFNYamJyWjh6QXFYRUlQR2RIRUF5LUhUbUxGeGNMT2IzRm05cHFQamxnQXB1aVZCZE5JNllLSi1JdkRMWjVhbjZRY0N4cUxqb2phTFpDTEN5SXg2UW91SVl1clpUZ0tQa3RvaTJ2U3gwR3B3X2hGRHhPM3ctRWtmTENQRHln?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 18 Sep 2026 15:54:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu Blows Hot, Orders Probe Into Miners’ Deaths in NSCDC Custody",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jY1VsZWEyNmMxTm9GYU11V3RlTEtHOWxrWjVOeWZER3dKX2YyU0xzOHVCSG12ekFhY3FmS1FzaVlOVVNHZzh4RTJOeVVEcFFjampnYXpNUm1EZGxKVzQ2YkhZdHJZSDMwOUI0?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Fri, 18 Sep 2026 15:51:58 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Xenophobic attacks: 33 Nigerians evacuated from South Africa — Ojukwu",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXFVeEhRS05aaVRmTmJBeUZZU3hFeTFtcWZPMXF0cE5BVFl2WEllNDlQTmJrWkUzcjJZM1RZTFVPeU93T3poOHhkZEpnVFltcF83OF9PLWNvRElEZTN5MWNYazNWdWV6NkZiN3ZKMktXRGR2Zlo1a0Exc3BpTThITmZ0SDRfZlZmZ3NrRzNxSkFGWEg4RGdHRnRidmR1ajVpSnc?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 18 Sep 2026 15:51:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Niger Illegal Mining Deaths: Interior Minister Suspends NSCDC Commandant, Orders Investigation",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSURDTUtEcUFLOWZUZ3R6UC1jVThDLTRMSlFHYWwzMFAyMjRKSDNUMEdfQWZqby1zdHJxUUJFMjZ5RGVYaC1GalMyTkJLSlBZNDFTdFNOV2VxYW43MUNRV1Fic2cyRm5NR3JTbXprZ0pmeXZwQ24zbW9PeE1QYTRBVW5mTUJ2eGFOT19FMmZEMTZJMTEtQWFGclRETGFzTGNxcWRCNnFRcURGU3U4d3pDS09TbmNGLXQw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Fri, 18 Sep 2026 15:42:51 GMT",
-      "category": "Security News"
     }
   ]
 }
