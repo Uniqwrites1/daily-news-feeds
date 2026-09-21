@@ -1,19 +1,278 @@
 {
-  "timestamp": "2026-09-21T12:13:18.819Z",
-  "generatedAt": "21/09/2026, 13:13:18",
-  "totalHeadlines": 172,
+  "timestamp": "2026-09-21T19:52:57.292Z",
+  "generatedAt": "21/09/2026, 20:52:57",
+  "totalHeadlines": 174,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 127,
-    "Law Enforcement": 14,
-    "Insurgency": 6,
-    "Military/Security Operations": 7,
-    "Banditry": 2,
-    "Kidnapping": 7,
+    "Security News": 119,
+    "Military/Security Operations": 12,
+    "Insurgency": 7,
+    "Law Enforcement": 18,
     "Armed Conflict": 5,
-    "Traffic": 4
+    "Traffic": 3,
+    "Banditry": 2,
+    "Kidnapping": 8
   },
   "headlines": [
+    {
+      "title": "YEEP Alumni Nigeria calls for greater investment in peace, violence prevention",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGgtcmFrOGNzWEZ2M09LbC1VNjgwU2JSOHVNR0pOLUd6bTN4WUpIMFhRUUJpZ09Zd0E3bkhLMjFvMHNUS3kyUUtCR01aMVg3RDJ2d2dRbDcwUEdvZDJBRExTaURlcDU1ZFZwNmt5YTJ0eUswWG4tY09RMTg4TWpuYTljUVYyb2c3bzZBcnFkS1lnVkRpS0N5eUxXQ1cyeUh3S1BhdFRuUTlCZ9IBrwFBVV95cUxOWTZsMG5JQWFnWWE5d0IwTVVHTF9qTUtJR2ZNc3drUllfdVhISFZCOXh3U3lYSnZFX3FJSFRkanNWVWhYSEVpNzdiQ21GclZmMVZrcXFlaThtcm9OOHJzcWwtcHdjaGtuWkszOEVwdS03b1BVUVVUVmVCZV80Q1lRUzAzNUd3TjlCWV8wYjBEV19hbmNJTUdaOERYNG1lR1AycFBWdnk4OGJUVmFhMjZN?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Mon, 21 Sep 2026 19:00:47 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "NLC demands independent investigation into death of 37 mines",
+      "link": "https://www.vanguardngr.com/2026/09/nlc-demands-independent-investigation-into-death-of-37-mines/",
+      "source": "Urowayino Jeremiah",
+      "pubDate": "Mon, 21 Sep 2026 18:58:56 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Insecurity: Ekiti distributes 100 operational vehicles to security agencies",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnN1eERqb252NllNcFV6bXYtRWRoTG9Ec0U1SGNSQWRpdU00T3F2Z1dpNzZ3MDVrbGtzQU4xcWx0b0hadjRQVzlMTk51dXB4U1RaT3ZrVWpIb2hqeHhUSXlSR2pkeG1CWXlNMWF0M3VBdjBscUJ6a3EwWFVkdGgwb19qS0xFSzNjMUJoRVV2djRhOEdrazhXakllaU0zZXpNX0E?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 21 Sep 2026 18:44:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "FG threatens to shut Lagos-Calabar highway shutdown over violations",
+      "link": "https://www.vanguardngr.com/2026/09/fg-threatens-lagos-calabar-highway-shutdown-over-safety/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 21 Sep 2026 18:20:46 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "FG suspends 20 NSCDC officers over Niger miners’ deaths",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmFCMVhBM05yamNFUVpPZFVpckVnZ1RGRXM2cURYUHJWeHQ3RENJa01yNFJ6T1h3dFhSNTkteFdKVV9BLUIyelE1NmljcERzZzVXQlNwN2l5Y084bkFscHNuZ1JzVjE3YTFPLTNNZ1RaYjdRclVfVklIUHhMLXpRSDV1d2JyeGlnOU8xcFlB0gGTAUFVX3lxTE9Wc29MdVRsR3JId3VwU0RKaXZHSXU1UU4yRW9ZcGU4WDlaMmRISG55R2ZaSGZwQ1RRR0o4cmtYbjJTU3cxdHlsYmlsM09NN0R2SEtCNjIwQWZpU2FGa2RsUzBRdEg2VXlYLTVCdEVaNWhXN3RNQUJXX1RXVDRiNzVUT2Naa0l0SzNIT043OFlySXRQSQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 21 Sep 2026 18:19:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "AI‑Driven Disinformation Threatens Nigeria’s Security Operations, Expert Warns",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1UyQkRvVXh0dk9XcHZLdi1Da0VhX0ZMcmhtWU9FbWdDNmdZRHIta1hUSjBxRC1MVlVSX1MzS0dZa0NkT2Y5c25VeXJKRXBhd3M0a2RpWTIwQW8yOGI1aURvbDV5ZmVBQnltTmt2TG1tY1ZuZ19DazMyRVRNcWUybDF1TmQ4OWZnNnlCNDdFMTA4QTM3U1NWcGd4NEYtRkVzUWJkOVVUeHJwcmhqeXNiZjFzanYyRGtIN2lPeWQxMHFTUQ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Mon, 21 Sep 2026 18:05:44 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "South Africa arrests three more suspects, after nine women murdered",
+      "link": "https://www.vanguardngr.com/2026/09/south-africa-arrests-three-more-suspects-after-nine-women-murdered/",
+      "source": "Henry Oduah",
+      "pubDate": "Mon, 21 Sep 2026 17:59:06 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Baptist Pastor, other Christians Killed in Plateau State, Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWpjbWM3NkhES0YtMGJzcDA0T0RnaTJlODRoWlBsTUtFUVJjaFhyQ00wWHFFYkRRYzczcEhqR0pmdHRFYk93U0RWQmJZaDV5anNvTDV1el84cVowX1VFUGxxcWg2QlplQ2Z0U21qalRxTVRMVmo1bkpZVkN1al9iaGhvX2U3WUxiQ0tzS0diYXgzOXNXekhlM1NNRmVNNUdrT0E?oc=5",
+      "source": "morningstarnews.org",
+      "pubDate": "Mon, 21 Sep 2026 17:52:12 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Borno NSCDC Intensifies Security, Protects Critical Infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkJvdnB2T0MyRms0aDY5MHVodkZBbWN6U0pIeHlfaF9Ua0k3RkxRRnJVdzhyNUZHaUJ3NEJaeGNaaEUzbE5lZlJ0YVJlVmRRZ2htRDUyd0ZiUFFsdHVRSzN3dzctdE84YlMtQWt2NWc4ODgzeFNoVHZJSklJVy1JUkQ1SUFOcjBrUDNMNnhR?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 17:47:46 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FG advances food security through ONSA AgriShield Initiative",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmZvMGd5MHYxMHhxaFFKNW8yS0JVTERtajJva1N5NHllWU9WSlFkUEhJY0l4LW0wY25DR20tOUVSUGd5ZjJhZzRVZmdxQjlIUkthX3ZGaldLT21jaGtCSXRheFVuTWpMZk9wSW5EcTFBS1NNbERsaDVjaEtDMTN3RmxYYW1EQVpwZ3ZoMg?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 17:47:35 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Miners’ deaths: NLC demands full investigation, punishment for culprits",
+      "link": "https://www.vanguardngr.com/2026/09/miners-deaths-nlc-demands-full-investigation-punishment-for-culprits/",
+      "source": "Nwafor",
+      "pubDate": "Mon, 21 Sep 2026 17:46:42 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Forensic Experts Probe Deaths of 37 Niger Miners",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0dFZDOHpVV1QyRnJEbUdTVVRjUTNsZS16WG1DWkRaYzlMQXBGSjlqMkt4NjZVeEhWM0dPVXNDT2VVNTBPcEhHTjhBMUFPckExU0RpQ01XT0VycW1CUzBiOGZKaFpiU0ktbWNJeFdTcHRvX29GSXhJ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 17:26:33 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "IGP Unveils Six-Pillar Police Plan for Election Security",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEd6eDAzQXBRMHFFdjZkdElyUUpMUVpuM1hmQ3hTNUU3QzZsQWVnMG5hamJkV21vR2VPQkMyaUdseS1LMUp2NjM4VEdvUGMtaHRSQzhMR3c4QWt6Tm4yZTZEVDJsb3BpWDNiVTlicFZsNkxTNG5aUnJ0Qi1oMGllWUJYd2VPTUFwU0xvRXc1Z0dWc2xaeXJuLWRXMVZJc2hMV19KZDdCX1IybkZ6YTJjN2FWV2s?oc=5",
+      "source": "Nigeria Info FM",
+      "pubDate": "Mon, 21 Sep 2026 17:15:25 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Death of suspected miners: Anambra NSCDC flies flags at half-mast",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1JWRVBiSnB3MWVKcEI3cnNYQ2lkc2xjRVYwQWlVZ0RPNFUtNUxrUWFpUWc2VzdXYi1OSmt3YnRJS2hEUE9MejN3YlZ3TkIzSE11dG13TGdLcUtyTmpMWXRMSWJaSk9SdHB6bkF1TkVpVEFUVFlrQ3dxLTMwUlZMejZBR1hpRGlDZ25fWE1kV3BNNkhabEw1N0FB?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Mon, 21 Sep 2026 17:12:29 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Spain deepen agriculture cooperation talks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEgtbnplczZOMDBEZXFEODRkOVR2emY5UlV5MTVERWstdWpzcFpsVnRtSGpQVkVMV1VqejZIRnRRSG5KQjVhYWViZ2xxNy1UbFhjenVnd1FHYXVjbHduYUFCdWY3NGVKQ1RKcHlkblFLWWR5Mk1xNjZlakxBR20taGJwd1oyVEM4cktiX0dua2E2Q2hoWElhU3FVaTE0czc0?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 21 Sep 2026 16:49:37 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria’s Insecurity Requires Interdisciplinary Approach, Says Adogame",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNm93WWRiWjlxZ2pQajFsRlVKUkNiaEFJX2N1SXN1ZjJ2emxSTjgtT1ZuSmRpMEJCeHIwMjhqQmhLV2hNUU9XQ0RFd2YxNWU4UmIzam1ZSFlnMDl3a0huVVBkMWFmXzMtQnRPbFRCeWFXOFdPQ1dtMWt5d2VYR3VnSTJpNlQxMVBFaFlXTUFRcU55X05TNE1IVTVNdzg3aFhTUF9mYThYcjBRNzY0?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Mon, 21 Sep 2026 16:42:48 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger Deaths: Mumuni Urges Restraint, Thorough Investigation",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFlvU0tyMVViaFA3aFlyNm1LYWZ3WDZkNU14UlFiMERMb3V2TndIU3ktUzlfWnVNVmRGX1VMSXpMYWIwT1ZYS2VMbTNyWUxGekJBdUQwMFFQUVl3dHlfaF84ZnpKbFZmMUpvbzFYQWhoT3ZIWjlqa1dhTVJmLVpkdkRIRFYxYjhJZHc?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 16:25:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NSCDC Tragedy: MSA Calls For Arrest Of ‘Bigwigs’ Profiting From Illegal Mining, Calls For Nationalisation Of Mines",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUxJNFBRdS1ZUTRlRHc1NTBtQ3FORXRzVjF2dnhhUEJCSlZWcEhMWE9KUmhuOU91d2ZHWDB2ZFF0aFhQeHp6YS1nNDQ0Z0hmMUVmRDdDM2F5SUZpTkwtZVBRbVVZZC1ubDFJOVJ3NmVObXZfNThQTHdEa1hZbjNQcEstcHduU0xHTHFVd1B3NGtQZzZrYXp3bzBCUzUwSHBwUE1hc2hGVE84bjlKLTQ5MDVkTUFtdkRoZXdtUXR2Uk9qdw?oc=5",
+      "source": "saharareporters.com",
+      "pubDate": "Mon, 21 Sep 2026 16:18:45 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "FG outlines Nigeria’s foreign policy priorities, seeks stronger diplomatic cooperation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXBIbThWS24tQ3liLXZkSTlLUVl3M1NxNkVyZDZGMTZDSFBiS19WRFQ0dVRVMTlkbmJObGlGNFpfVU00WXNDbXlqdzZkdzRCcHFlbnpDb25GYXNtN250c05PeFh4RnpqQ2FqT1JSd0ZIeVNqaDlOQldoR2UyZ3BsXy1GVDc5SVVpUTZocGdYZnU5VllPYVE5QU56OXNXXzlHUjhKQkd0Mk5TSVUtRk9N?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Mon, 21 Sep 2026 16:14:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "NDRA Backs Arrest Of 24 NSCDC Personnel Over Niger Miners’ Deaths",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd05rOGxCWEFGZHhqLWRaOHhFUHNmS09ibTJvcVZQd2hIWko4TkJ5d0pxX05ISGNvNHZoV2lFZjFYczc0Zlhfd1JVZ0JSY3F4Wi1FUDRvWlh4dVNGdjJQUC1OWFFVaFJLV2tGRG80a2JTT3JvRVozUVFoY19qUXpoTXFmcGYtSXZPR19LcDY5MFFadw?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 16:13:53 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "ADC Raises Alarm Over Political Violence Against Opposition, Faults Security Agencies, INEC Silence",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1Y3ZWdhUHotdmEtVldSczIyc3RWOHpUcDBKNWhxOUk2THlKZ0RSYU5jTUdkVnpZZU1lRVFiTmpmVkFIZzJSTHBJWUVNQ0tfcDE4S3hJU1c1ZkhLSUtKTDg4elNRV20zbjJYSzlYNmdkSHZTcVJ2VTU3Qmk1dUEyMHZIMG9xdWVRT1NkUHZOakc0UlMzQ3ppNmVuV1E2MG1MdnBLanJOUGNSZFRPUUhQY1p1YWFvQThZVDJxNm9R?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 16:07:21 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Buratai Commends Support for Documenting Military Leadership Legacy",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2hwcUlUQVZPeS16dGFONjBlREVFbW5JTUlFZEVldVBfdHJ3Y3hoc0FxYTNFeWMwM2hMbk9FaTZ3dGtfZ2E4UTA1T3haNUdwc2F2alVXZkpLblYyT3JyMjhIcU1FT3B5OXQwWjJOd3gwVmZrNzA0Wkw4VXI5YW90a1BFdTBsd2NjZ0o3N2R0a0g?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 15:59:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Miners’ Death: Rights Group Backs Detention Of 24 NSCDC Personnel",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG5uRG5HbER1VlVYZkJhQmdldWhFNl91US13OFVLZ3F3RTAtUmc1WkdXcU5ENzZCWGNpWkVZUXAwM01Bc19OTHdTbzRtZ2xRTkJTYnZuOUxzUFBXOU1XdUI2N2gxLU1FSF90cUpyOUxWOGNsemU1bXRUeF9hS2M4c1Z1MnQ0bk0yaTVPcEhlMVQ?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Mon, 21 Sep 2026 15:56:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria, Qatar Deepen Development Ties As Charity Expands Abuja Operations",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2o2TDRFYlQ3VHlyVlRCeFl5UFFkaHZzUEg4MjVhUDh5WVZjV2djU2VHV1VmNEpwLUJKN2lvMGhoQms3blVzQWxXNXdTQklwOHRWeUtLRXp4WFJScUZFck5KNmNhRlhrWGhqUkg2Vnhxa1Z1Tkg1QlhFX0F5TnpUdWlua0ozRGVOYmNlS1JscDhicEZWdWZ1SjJYOFJxdw?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 15:56:36 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Killed, 100+ Abducted Across Nigeria as Plateau Endures Weekend of Deadly Attacks",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnpTcGRRblpQYUVJRzVGb1lpMEZLNEJZRU1RcExqLXlueGc1S2M2dTc3bDFpUldLZlNXek9WdjMxSXkyVVA5RTZWNFZpMXVrd2toSmFMSGVpTUlfTkxkQWJ6M2lFaDJrWmNjWlFzX1lrTzRXeThIcFFJbE5XMEhRaDRCTTdJV25vSVB2WnlmRE9GclBaUnN0Mmx0YlVibXJlZWZ3ZmM4Z0RJZjE0S3JYZjByZlFtb2c?oc=5",
+      "source": "truthnigeria.com",
+      "pubDate": "Mon, 21 Sep 2026 15:29:03 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "Election: IGP Unveils Six-Point Security Roadmap",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb2U5bkkxamJ4TFBjOEhUSWNiZmlGVFZJX3FYX3Z5bnEwRDVVVGNIcExDdkt3czdNYmtmZWJid3kwY0N5LUlzOFRtMWhiSXJweG9rRXBSX0FvekFvV3RFU1JNQ3NBZ3E1djBNem1mZHd4MUhBU05mS2Jxdk1nVTg4WXFR?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 15:27:28 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Suspected Boko Haram Fighters Attack Security Base in Southwestern Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlprcExsXzZlWlVuLUJSRDFnV3FGdzB3dmx2S0NURUVJQ2gzUERtU05TbFFLRlB2enZ5cnZXVXVCczNDZmlOemM2SlZRVVF4b3hkV1BlTFBneTZ2cVVYSXFaWklpZFRxa3RlYkZxVFJ4aFk0R2txZW05MzNlaDJVNkRsamVfTkdIcS1xenBlcU5FQTRadUNUYXNVYngzTU1RY1F4TmVmZmFqQ29T?oc=5",
+      "source": "truthnigeria.com",
+      "pubDate": "Mon, 21 Sep 2026 15:24:50 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Oyebanji distributes 100 operational vehicles to security agencies in Ekiti",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSVlPRzJwMXlTSlVYV2o1c3M5MFdaUERuSXkzYVZCbXd0SXMxOW9EclUxYkVLbmlBbl9hV0Y5eEVYak5mVEZScEpxWXZNNGEwX3c3Yi1aNVVMNTJCbWVBWlp1bm5WVTZMd2tINkxHZVBNUUxTWnhqZVBQaGNVS0puM1l2Q21pMTFmU3ZhX0xrSnhwVTE4UUxhb2ZFcnVPOTdLX3E2MjZSWQ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Mon, 21 Sep 2026 15:22:52 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Miners’ Deaths: CSOs Say Call For NSCDC Boss’ Sack Misguided",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnVzOXhZMGI2aXpoemg5R2NtQ0RUbXY5S0NwY2ZyWTRiUm45dktPeDg3QXhBSVgwSE1yM0hNRndpdHg2YWNTekcxZ0VVR3ItSlVhb0VZNEJJR2tXczNXY1hBVmZTd0E1aW5xTGFZTUl5OUFzcEtpeERaVGpwLUJuWHBWV0MxeXc?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Mon, 21 Sep 2026 14:47:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Okiro, Baba, PSC task police on 2027 election security roadmap",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUt2UmRRdWo5WDZ2aGptZEl0TXM1UzZxbGROaWdYU1FPaTJzZjZNMm1Fbl9zejdmWUJFaVRqS2lXN2VocWM2d2twSXUwdmpPdk5vWXl2RjdFSE5IMFRwaGpERThBeGVLVVF4YU5hQ3VPOUxJdG9FZ3p2Vk5QSFh3NVNBWmtMX3dDbUpEQ1dqYUdDYnZDYVHSAZsBQVVfeXFMUFJNNjB5cERVQVJ5UmJza0VKVFAzRUZlWm9KSExDTHZDUkptTld3TExNLUxsVnBha2FpdVZDRDhqcGpnMDBXQ1ZyQkx4d2ljN3F0WDRYUVhrXzdpaTU1NVBKREJIeEVpN2pPZmhPa0FfMFBicGlCNkttRDlORS1RZkgtMUMzV1J0NUJZMXZ3YzVjOG55eFZWOFFSZWc?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Mon, 21 Sep 2026 14:41:02 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "The Nigerian police and the fire next time, By Cheta Nwanze",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWtSNlVmTVdFM1pUV3VITlFsVHVIZ0N2Z3JlWTVXeEtoQzJISzRRci1hSEVqNjZTR2V5WUxmZ0czWWZmQ0FIeEg1NVFNR2tHZ1FTWnA4VEctb24xZjBETE01VWF6THFhemdPNkVzVVhsYkdOaFdyeDFtV2FEei1ucVNwdzdyZHZQb3dtS0dkcy1sSm5LN0lRVUQ1blpBSGdfRGpvMUFSM2xTSG90clE?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 14:29:59 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Miners’ death in NSCDC custody unfortunate, avoidable — Speaker Tajudeen",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUNzTThMRTd3R1FwQk5YeWU5Zm9GR0w4dENJVnhIOFhYbXlKdTVJTjJhbmFaZWtUZEtBQWNsZ21ONW1IbWp0R2g5ZjZhTGI3b3dndi0xR1djQ0R3Q0NTdmo1cUpVVWFHcm9ZSjd6S0N6cFk4eGhFRm1vMEdlZlZCOE5randVb1hMTk95Zk0zYWNQZU9wYjJ0alNoVmpCUQ?oc=5",
+      "source": "Tribune Online",
+      "pubDate": "Mon, 21 Sep 2026 14:19:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s Image Abroad Doesn’t Reflect Reality- Prof Okonkwo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFRCNm5VUFdTX3VYM0pXNHNNVVBIY0NKMFRBeVRvSkpEZW83RUxrdTN1eU4zcmt5VzVxZGdrUTVULVlONWo4dDQ2N0V3TmExQWV4YjV0OGxTWXBTUG15TWY2SXRGNlNHVTBiNE5ranBNaWs3czRMVXRyb0lKNUNYRmhuOEZ0N2pu?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 13:27:07 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria’s Renewable Energy Fund Begins Commercial Operations",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVRVdXJWRXpEdFVldXdJU3pHZWhjWFVEQ2dqaFZydUROZGxJSjUtd01CRkprbEI2cTNXYmhKeWFJQTRTaE5Qdlc0dXBiczJIc1pCdmIzRWNKR0Z3S0x4SEV5d09wWnNacWh0N0ZfbzZHcHpucmxxajI0ZGtnVzEwQ2dQYmNfZw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 13:06:30 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Speaker Abbas Condoles with Families Over NSCDC Custody Deaths",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNczItZFZuTmROZkxnbW50bzN1M2ZialdGVUR1WnpFYjNTTV8wdUFEWkhabjhJV3Bva3BSS1JNaUoyR1hqRFM2YzBTYzJlMkVYQThRbUVYQ1o4dmtBQkIxVHUwdDBzeVRDMEhFNmhwTkZpN3FJTkE2YWRTRk1DRWJwbXdBY0ZPVlNHZ2c?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 12:55:34 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Death of 33 miners: CG orders NSCDC flags flown at half-mast",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmJNR05jMXVYdW5fUXdNLVZ4ZWxNLTBnSE1TRzg3QlRuRVVBWWFPMUdraVdGdnlPUFdZbmlLb1Y0NmRrN0l2RFpZVndFcWRMRmt0anNUV3I1LTFEYmhZNTk4akxmTGd6MmlyUXVEZDZjZXVFMHlPRjJlRHdPN1pyTlU2Vno?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 12:20:57 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Niger State Miners’ Death: There’s No Way NSCDC Won’t Be Held Responsible — Deji Adeyanju",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORU01ZlBSd1ZPRE9jNWp3SUZYWFFJOXRfaUh2MVRabkItOGV2Z0x2ZE1sYjNRRkxuSmt1Y2d1RmVWVkVSc2VTTlhib2ZhUjdhNUNyQnFjMUF4RHhjcmszTUFBaUxmWFdCYTZnbXl0ekgwb19BaGZXVDN6bWg4QzZ1bWhyTHA4ME81em5Ba1dveko5bFhKR0hia2pDUDd1eGlVRU5kV3BtRTdvWlNWY1V0azczR29zT1NaMmFTd25aMA?oc=5",
+      "source": "Channels Television",
+      "pubDate": "Mon, 21 Sep 2026 12:15:39 GMT",
+      "category": "Security News"
+    },
     {
       "title": "NSCDC suspends three employees after deaths in custody — Premium Times Nigeria",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTNYa2tIcGNKRDRLNGw2VWFhU0REOVVqdWlDbHRNVzJBSk9BbTFxUmVoU2wybDZRaEEwajJOVXRRc18xaTFXUTdwVy0yZ0pLSndGaml1ZUJWbTU2dFdONzB1YV9NMHNGdDRwT0ozZXV0SzkwTEtROFljSWdzdXNtcVNJMnNLMXdqTnNlUzRyNWc5Y0ZYOUplVkVjbktBOGJrU3dWT0dwcVpvSmg1LXdj?oc=5",
@@ -22,18 +281,18 @@
       "category": "Security News"
     },
     {
-      "title": "LASEMA clears truck incidents, restores traffic on Ikorodu Road",
-      "link": "https://www.vanguardngr.com/2026/09/lasema-clears-truck-incidents-restores-traffic-on-ikorodu-road/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 21 Sep 2026 11:57:37 +0000",
-      "category": "Traffic"
-    },
-    {
       "title": "Japa: Nigeria’s image abroad far from reality – United Nigeria Airlines chair",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclFKcjBJNEo0OUl1bnBpb3FPMk5kMDBPc1VqdTExdVh3VW1mTXo2clFlbzRjVFlMR1d3VUFvbkJkb2puN0xDNWp4a29qRk8tYzVDcmZ0RWdXVk5sTzJYQlcyYnN6OWFfek43VzVDaFFQTC00SnhlT3gwSGVqX0dvWXBUT2FvZXpwQVBlTUlTdE5Lbk5BUkdCdUtB?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Mon, 21 Sep 2026 11:56:03 GMT",
       "category": "Traffic"
+    },
+    {
+      "title": "NSCDC suspends more officials over death of miners in custody",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORk5kOHN0eWRPSHNiUmVDTVoxYzc0TWNJS3Q1Rk1DLWVDa0xZcDMtVGRUVTF5YUsya0NCd1ZSNnBpRERxeVZNVG5QSHp1bGZfal9IaDVLMTg1QjdZS0lXbTU5SGViN1JlTjFFX0R3b1h4cjZDMXBsQkVYbGtmQzhGZXpaWWJLa2VpQkRyM0R2eUhzQU9jbmREZUViVlk4ZXl2NEVoOG10WjJad0dYMzl5WVN0cTR3ZVVfdE14U05ORlhMU1M0NUE?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 11:52:21 GMT",
+      "category": "Security News"
     },
     {
       "title": "Action Alliance Laments Death Of 37 Nigerians In NSCDC Cell In Niger State, Demands Justice",
@@ -50,20 +309,6 @@
       "category": "Security News"
     },
     {
-      "title": "Tension as labour accuses Air Force of assaulting JED workers",
-      "link": "https://www.vanguardngr.com/2026/09/tension-as-labour-accuses-air-force-of-assaulting-jed-workers/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 21 Sep 2026 11:40:50 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "Troops rescue 23 kidnap victims, arrest four in Sokoto",
-      "link": "https://www.vanguardngr.com/2026/09/troops-rescue-23-kidnap-victims-arrest-four-in-sokoto/",
-      "source": "Nwafor",
-      "pubDate": "Mon, 21 Sep 2026 11:36:28 +0000",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "miners’ deaths: CSOs fault calls for NSCDC CG Audi’s sack - Tribune Online",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODVhQ0xZWnpVUVkwV3d2X1JkbFZaMTRxcEtiZmhBZEh3cjl4OHc0bi04V2lnM3lTRXRLVnZLT2ZtMXRDcWNuNThNcDBWMjg3dGlGUjI4M0c4Rm11T2J0TFhEUFJ1S1YxcEdGOTd4OG5jb0ZiVlI0Vzlxd1RYLWY5cFpXLTU2SzlmMGhkZ1RBVdIB6AJBVV95cUxNWEZFSjAyczRlZnFwRks2SHB1VDBBV1UzeEF6N241ZWtVQzVuSTlwenZWVEdMZkZOTVJpTndPbDIxUldjTmZINC1aZ0lOVXpIeVVuX0JLOFBVdEhmSnhUUmdMQjBLQVZweXB1dHY4WjdPQTFHVHd4NnVUUXhaNGE3WHlmTS1VYUYyNjZLdHc0SEkzcVd2T0xBNEttYWp0WXAyVWRxVURzNnRUT240SGtpRENvM01IM1hvenF5YXRnTDRsNk12TTg4d0dUcmZkdWhCS0JYbXo1b3lCbXBRdFN2cDIxdVJfaEw4dllZYWN3OEZNemFyMDBZZHVVdDlTSkZQM1Q3cC02ZjM1eDZXSVdETzNaZzhoZ1ZFR2JWaGZfODFjVzlMZEt3anpNcWc2LXZlVGp0VV83V1FmWEhyRzlMd3lVMEs3X2FsOU5EQlZrdlM5NHljck41X1JOU3pVYW9OM3Q1bnptSWU?oc=5",
       "source": "Tribune Online",
@@ -71,24 +316,10 @@
       "category": "Security News"
     },
     {
-      "title": "CAS Leads NAF Delegation to US as Nigeria Advances Acquisition of 12 Attack Helicopters",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yNnJHSkVyc3hhYnhkc1hvSDBLUmlRSHhfV1VEMlVqekd0T0tMenNSVHFXN2VDTzFfV0puUUFUV3RDOV80d0hlcjlkaXRYMFhkUF84V2JJYnVkNC1OZDV2MWpHaktpdDFtbXc?oc=5",
-      "source": "PRNigeria News",
-      "pubDate": "Mon, 21 Sep 2026 11:00:11 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Can Nigeria’s Digital Free Zones Stop Tech Companies, Talent From Moving Abroad?",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVbVlSM2hWY3ZnQnRnZzJkM3RUNVd5RWJrSkoxWHFTX3RQTkNvNk9leUtGbzdvanc1UTF2OEtTQ1BOUGNtZ2s0aURmR0NweXZFcThLMnVxVGlLNjJLRlczSlQ4WW9pUkw4SGpmallGQk11aTh4enBZ?oc=5",
-      "source": "Techeconomy",
-      "pubDate": "Mon, 21 Sep 2026 10:43:05 GMT",
-      "category": "Traffic"
-    },
-    {
       "title": "NBA Minna sets up committee to probe deaths of 37 miners in NSCDC custody",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JPeEt0cDlBT1lnVkpQT3RYRlgzTWlfWkw2dkcxUnNGSS13X2xsd0o2LTNaTzhaVGNmdVFDZ1JndVJjTEhqaFFSSjY0eUxWS2lJam41R2NGRnIzOWNaUEZrTWVzMk9vZXVfTC1YSTJkX2RodW9zY1hwRVlRZ3NqVTduVUFYVlFWQUJuWUJzekx1djk2QTdVc0ZMenF2RHY1THFNcTc2Q3BZQ1p1M2R3?oc=5",
-      "source": "businessday.ng",
-      "pubDate": "Mon, 21 Sep 2026 10:32:16 GMT",
+      "source": "Business News Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 10:32:45 GMT",
       "category": "Security News"
     },
     {
@@ -99,13 +330,6 @@
       "category": "Security News"
     },
     {
-      "title": "FG suspends 20 NSCDC officers over Niger miners’ deaths",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmFCMVhBM05yamNFUVpPZFVpckVnZ1RGRXM2cURYUHJWeHQ3RENJa01yNFJ6T1h3dFhSNTkteFdKVV9BLUIyelE1NmljcERzZzVXQlNwN2l5Y084bkFscHNuZ1JzVjE3YTFPLTNNZ1RaYjdRclVfVklIUHhMLXpRSDV1d2JyeGlnOU8xcFlB0gGTAUFVX3lxTE9Wc29MdVRsR3JId3VwU0RKaXZHSXU1UU4yRW9ZcGU4WDlaMmRISG55R2ZaSGZwQ1RRR0o4cmtYbjJTU3cxdHlsYmlsM09NN0R2SEtCNjIwQWZpU2FGa2RsUzBRdEg2VXlYLTVCdEVaNWhXN3RNQUJXX1RXVDRiNzVUT2Naa0l0SzNIT043OFlySXRQSQ?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Mon, 21 Sep 2026 09:16:15 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC Detains 24 Personnel over Miners Deaths",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ndVI0djExNHEzQ1NWRGFidjMzMHlzV09LV1gtdjlDLS00MEZGSUpZaEdWQWo1UExxRmpuUFZjZmNfODk2bFpOUk5ycHAweHdSdUlPQ0NHLWE4cTltbVJKVmNQTFlYZmJKWTAtZFp4b2ZBc0U?oc=5",
       "source": "Voice of Nigeria",
@@ -113,45 +337,10 @@
       "category": "Security News"
     },
     {
-      "title": "NSCDC Tragedy: MSA Calls For Arrest Of ‘Bigwigs’ Profiting From Illegal Mining, Calls For Nationalisation Of Mines",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUxJNFBRdS1ZUTRlRHc1NTBtQ3FORXRzVjF2dnhhUEJCSlZWcEhMWE9KUmhuOU91d2ZHWDB2ZFF0aFhQeHp6YS1nNDQ0Z0hmMUVmRDdDM2F5SUZpTkwtZVBRbVVZZC1ubDFJOVJ3NmVObXZfNThQTHdEa1hZbjNQcEstcHduU0xHTHFVd1B3NGtQZzZrYXp3bzBCUzUwSHBwUE1hc2hGVE84bjlKLTQ5MDVkTUFtdkRoZXdtUXR2Uk9qdw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Mon, 21 Sep 2026 09:12:49 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria’s natural capital under threat as businesses urged to act",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajAzaVhTQjRxWmZ3RjJ6cllZQV9jSlIxRExKVXRpc0tqdFJ4N3h1Q2stU3NwbVpVSEdjZV9venM2Mjh2dEk0Y195LUJGaUhkRHhMdFNjeW53bWczQTZNcmdOUEJPOHYwQXRWNU5YMnhkcmZYeHlTT2hZVm0telJuWFppVGVuYkVxUC1KMEp6eFpHSjc3a0ZUWGlIeHJVVTFJbzQ0?oc=5",
-      "source": "businessday.ng",
-      "pubDate": "Mon, 21 Sep 2026 08:45:45 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC Suspends Three More Personnel, Parades Officers Over Niger Miners’ Deaths",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUl5RUMyajJmVnhfMzhGLUlyNnpWeEtld3N6WUdnV2xYZTExRkJLemlGa2V3UHZZVmRJRUsyNEtmNEU3WVRRQ1hxb3dGRm1PcmZ4cEt4dkp0SE4yTW5KaG1xSlBIcVBSTG1scDZsMVBTSmRSZmdIV2t2MWhtcUVXcnpqNEZxVlQtRUlCWUMzNWhjd05oZGJaR05FRVZYUlJxRnE0UXJhcVBubVR3OGZLeUtUdHVOczZiMlpBejYxZS1KQQ?oc=5",
       "source": "Nigeria Info FM",
-      "pubDate": "Mon, 21 Sep 2026 08:11:49 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigerian Troops Rescue Kidnap Victims in Nationwide Operations",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjdOZlQ0UDhVSVQ3OWZrb2RZNmZ6ZzJGOGF1bEUtbmxPQ2FPWXh4SFRtbGRVODdnbEYzUTZsb1d5dDNENU42NWNCeFlzbDhGSzJHNlJRbUJPWHpPVVlMd2VsSzlYblBDb1I1QzdZbkxLVjNEZ21mLWg1Y3k2aHNwYzZSRW5MWEQ3d1E?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Mon, 21 Sep 2026 07:49:23 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "NSCDC Parades Suspended Niger Commandant, Officers Over Deaths of 37 Detainees",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHIxNWYwR2JSaXEtemlmNDBnb2JZU2dYYVA5S2xodUxkOGhxdzh6T01lX0hPeU80LVlnV1hDUWV4Uk9LX1VSVlgzdTRxTHVUbk9lQXFEYzNYY0V5Tm5HWGx0cGQtWXlLbTJwa1FKbGZ6REJqUmFvc3RPV1poSlpBUnQtZzhDaFJBVW1SZzdSYThSb2hfYUxNbUtWazZ0NGYwUUgtcA?oc=5",
-      "source": "Today FM 95.1",
-      "pubDate": "Mon, 21 Sep 2026 07:46:16 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria disputes terrorists’ defeat — Premium Times Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczNUOUQ3Q2VrYkkyeVozQXlLeDNOdTNWblhMM0hpU2pTQTFpOGU5eFJTMEVuaFNMdW1DOGoxVGlSZWtldC1PVXdIb2dGN1JHNmxYY1lfdDZtVXBGbGxLRmZLYWZBUHR0Y291ZlVYb0lNd1d1S3BVRHNXczBab19DWXNmREI1cVQ2YXFKRGtpQ3J3dw?oc=5",
-      "source": "UA.NEWS",
-      "pubDate": "Mon, 21 Sep 2026 07:35:12 GMT",
+      "pubDate": "Mon, 21 Sep 2026 08:13:14 GMT",
       "category": "Security News"
     },
     {
@@ -162,206 +351,17 @@
       "category": "Security News"
     },
     {
-      "title": "EDITORIAL: Defence minister, terrorists not yet defeated",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnlWTFRNd1Q4bS1ZaXRYeno1ZlowRWZENnRVZ3o0cExVMjl6SkIxbDRiM29OT2V5RldHVUJBcjY5NHFUVlA1aVQ3RXdhS0lNSUpHd050VU8zMmNzVGNqNVFZOFpZWDFiZ2ZTYXdUN2VZUkRJUWNRaWw1bmpyN1BGejRsdGFhWno0WjVYSXFqRFhPUnBfOGZ4dmZBZE9qWGRadndaRkRsbDBaYzZaMzRna1hjcXR2QQ?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Mon, 21 Sep 2026 07:22:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NiHSA Warns of Flooding in 8,000 Communities, 4,500 Schools",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMllheXdTc2Jub2lmTTZQMEVqYkpZdVZOWW5oZlVnZXJ3eExVeHdhVnJ4a2h4UVdYMU0tM2NlVGRLaE8wSXRWYmpsM19tOGs1aVFMWTFNeFFrQjFMZElGc2xKNVFVamVaMWNpMVp2UkZodWN6MmFEbVdiUUR5Ujd6UDh0eVhObU5raDAyRTVHRzM2NjJnb28yZHJ2VGdGZGc1Y2FuVFR3?oc=5",
-      "source": "Nigeria Info FM",
-      "pubDate": "Mon, 21 Sep 2026 07:21:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria expanded broadband but missed its 70% penetration target",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdU9lMG1HRm5oUlpRRC1zY0g0SGRVeTZEUmliLW82Z1ZEUWxJeGZlQjA5aXI1OEY4SWRBNGFZMkhKdklmampqRDV5dXFSQUxLZ3RWMHhCSUlDcVRSdUhyRThPcXVudHpQWjItUU0xcTVycWpBdjc1WF9Tai1PbTl3eUJweDY2XzRaYnNTZ2xRRWJ2X0pzUll3VkVTbWgwNlVN?oc=5",
-      "source": "businessday.ng",
-      "pubDate": "Mon, 21 Sep 2026 07:07:30 GMT",
-      "category": "Traffic"
+      "title": "NSCDC arrests man over alleged cable theft in Jigawa",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnVQMkpqLVZuTk8zSkdSYmpFU3VQZGJCdVRzMDl3cHlkWDltTXhqZTAzWjN4NGhUUFRWa1BqbUdPVU40VlVhOEtKZWhCZ2prcDBHVmY4cHUzeWJPaVJqT3F2VlVaSzBxUjFxamRTeXBLSkNleEJpc2NqaW1vcHJKWnpBRG0xZTJQTU1JMElB?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Mon, 21 Sep 2026 07:02:13 GMT",
+      "category": "Law Enforcement"
     },
     {
       "title": "Northwest Takes Peace, Security, Development Framework to UNGA81",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hdHNXNXJhdnZuTE9tV29FYVRMWll5SklCT1ZJTHJOSmJhRzkzWFFkYngtT01ZaVhKZUhlS3hFVzJKWENoS1RpcGdvZ2Jrd3E0VEtVTUNacUpOQUljVmlXYk1jdHVrUGNscWkzS0RzakZsYmpFNnhLRktCVFcydw?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Mon, 21 Sep 2026 07:00:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC arrests man over alleged cable theft in Jigawa",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnVQMkpqLVZuTk8zSkdSYmpFU3VQZGJCdVRzMDl3cHlkWDltTXhqZTAzWjN4NGhUUFRWa1BqbUdPVU40VlVhOEtKZWhCZ2prcDBHVmY4cHUzeWJPaVJqT3F2VlVaSzBxUjFxamRTeXBLSkNleEJpc2NqaW1vcHJKWnpBRG0xZTJQTU1JMElB?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Mon, 21 Sep 2026 06:58:38 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "WIMIN condemns death of 37 miners in NSCDC custody, demands independent inquiry",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkRWMThvTzRIak1aajlaNHFScGt4OE03Y0dlUU1CNmlNQXNpZF95YnFablFESDB3dWt3Qlg4QmlsclpfM200WnlTRHA2Sml5bGk5VDZWUkhZcVZwbzNNRGh3OEd5SVVjQ3BYQVpOSW0wMUVYSURZdGxTVkhocTZULW5ZQ1ZjY21iSm1ManlPc2d2cjVwZHFsVTNKUndnVHhKUHJIbTlpMlo1bUtYaUY3LVZlYks0QdIBuwFBVV95cUxOWGR0V0UydnJ6WVFrN1hOWGRXN0wtS0ZtOUw4TE4yQkRJTlBndlVJNFpiZjFLaUFYUmg4dFd5ci16Z2J0MjItY3pNQ1JfcTNlUXlIZHFMSW04MHdUWmVaZE90X09oRzdwRE1MWHFYdmdsM0pud25xOVNQanVKbktldjEtRzdsSHBGamlFb1hrZ0xHVkFQTGxHZmtQYktrY2hvWVI3ZVZmWEU4QXRSX0xvamE1VmliWU4tTGQw?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Mon, 21 Sep 2026 06:44:14 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Military clarifies report on death of detainees at Giwa Barracks",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVg1bEpacnliSTNOdXhKT0pEUUZwc3JaNmdkMmFjN2RkUnF1b1FWbTE2amluTVFQY3ZyRXRVRkdES0VXY2VYTWp3WWRubk5RSlhBdmE4cXpJblBqRXo5QlVFT2NNMWg5b0NwQmRfdW9jOElMWUNOZUdXXzJpUFp4Mm1LbkN4Z3VnR2xCMGFvV2dNNUp5SWp4YjQ4TEJIUVEwclk3Zw?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Mon, 21 Sep 2026 06:38:50 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Top 5 Stories Of The Day | NSCDC Detains 24 Personnel Over Niger Mining Deaths",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeG1IQkpzM3ZzY0w1eHJIMzZXd1dEM01SclUxbkZhNHBuTlZCVkZIOWtVZzEzVkNha2tFNUQ3NS1UMWg2cWV2UkpLYnZsUFNycDYzRDhxdWlVWmpVOVFvWkhma0g5U2FjUXpROVNudkg2eExSemRaM2s2eUNxdHRkOTBEd2dwX2hVTmRfZ1NxMnRfUnpyUDdWc09Mbmk?oc=5",
-      "source": "YNaija",
-      "pubDate": "Mon, 21 Sep 2026 06:35:29 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nine killed as gunmen open fire in Nigeria’s Plateau state",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81YWZlal9od0htdDFqbkFMX0lGSkxJa0tlQWhVaGxsMm90alBJSjJucUxRTENzZTFycWlqZ0RUNXNhSUN6R0Y1NTg3bVhDZkN1NHVYZy1FV3c?oc=5",
-      "source": "TRT World",
-      "pubDate": "Mon, 21 Sep 2026 06:26:37 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Govt Probes Deaths of 37 Suspected Illegal Miners in Minna, Names 20 Suspended NSCDC Officers",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CNVVMN1NSV2xoRGZIOGVYM2hCQUk1VlRVTEZzNkRvbzVUNGhreFRndUtOZks5bW5qb1VaSUNoRUs3NnFVbmRhdHhHWU1SVHdnTmZJc2Fma3YtQ2s?oc=5",
-      "source": "allAfrica.com",
-      "pubDate": "Mon, 21 Sep 2026 05:32:18 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: 37 Miners' Deaths - NSCDC Orders Flag Half-Mast, Arrests 4 More Personnel",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Td1M0LXJybnExbkgtLWJBVEU3d2dCUWNOMDFWQ2dNYzY0Q0E5Q09rQkNYYXBLMDRLMmJ0MEdPaEdTVmU3c04zZWZaRjMzU1pNeXlIQ19jak9Vcmc?oc=5",
-      "source": "allAfrica.com",
-      "pubDate": "Mon, 21 Sep 2026 05:22:18 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "From force to partnership: Rethinking security in a federal Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVlfYnhWd3RDMmZxNzMtbVNUOU9YNk1WR0JiSFBQSVBZOXVIM252bFRQdzZYcy1RdTZ3SHd3MU9XVDJuNHhxbHZYaXlXakVjMVlWM2t0aVdlQmRSd2dyS3VzTVl1VVcxMVAtWExNVGxWek5tWm4xLWRHck0tOGdUWkVTcFQ0V1lzcHNCbi14YUJPNzZFbUJwREpKN2p6c0FDWl9NOEJn?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 21 Sep 2026 04:16:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "CPPE accuses foreign traders of threatening Nigeria’s retail sector jobs",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcE9IOFpxMmU3WVBiYUI3YzFzVGpfRHBZNFUzQmxrZTAzcmQzOUQ5TWVVSU5xWWlCTEVpS19JZGgxaDBaUDJ5SnB0Sm5CQ1c1UkhfVHNCa2ZYVFRfMTczUHZfQ3lyRzRVdTRhYmpCczJhaGJhaTU1YnhZN2JUcDNwRUVxeVd4RERoaG9BdTdZTTZTak5MOEp5N1hteFV0Zw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Mon, 21 Sep 2026 04:00:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Local Production Of Drugs, Others Key To Nigeria’s Health Security – Minister",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDlGd1c2T0hIUXpIaUtYNXpPZG9STUpYaVVaX0NvYVN5Y3BjZ214NnFiUVBQNklhcWhIWVZvaElubDZCOFJfUkI5NG10SXNxeDdfck9Pc2NmWERXY2JrWFp4dU1fTnFXcGpOejVQeGdnQVNTVFZSLWFBR3JsQWtsYlBEWTZZckp2cEN3ZkdiRXQ2dzBZLXNSRUVzY00?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Mon, 21 Sep 2026 03:21:49 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC personnel detained over miners’ deaths",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10ZTN2Zk1TTzMtZmFyajYxcUhRVVFSMXRrVUw3LTBDOUt6ZkI1ZUNRVlZ1VC1jamVJZFJMd01vQ0pDcTNxdnJXYXdUZWc1cDlNaXc3dHlTTjJOUmpfeGZ1VWlab01McURHUTBqVVJ5QUxpcFB2ZGpibWt3?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Mon, 21 Sep 2026 02:13:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Niger Govt Unaware Of Miners’ Arrest Before Deaths In NSCDC Custody – Bago",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2FTWjhRTXUwWkE3V3FIeEZpWWcyMmJseWlIYS1WZjVVU2pKNnlUV2lxaWs0X1Jkd2FTbi0teDloNDRwWFdEaEs4al90RzNzOHcxTzFwWlNreGU5d2gyS0lwdzFBS19NRy1YcjRQa2NkbnA3ZzBMQ0ptSnItMVd6WlU4ZC03dlo3ekZ5azdDTGhWWmRmTW9ucXhBamh1dTBQU3J5a2dzbDF2VkhTMldV?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sun, 20 Sep 2026 22:18:08 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Niger deaths: Mumuni urges restraint, thorough investigation",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSS10SDVFd2RPVlU1YkZMclE3UmV2YlJ2RFphbjhCNnVDajAyLV9VYWc2QTZlcm5CWFVCeTlEU0pQNWROdElaRTAwSnJlVnJpZlNLa0JuTTNxSlhEUE9PTmhwSVhwRlIwVEtLQXRuWUVFVmlUVWVZT3k4eDduUzQ4dFZPdzVnUk0tN1NaeDdEZDR5N2fSAZgBQVVfeXFMTzd2Skg2dDYydmtPWndxM2ppbGVPdTBrRVFXSjBWdzNibjBvY1JXekhIWUlhU3d4OWtPQkdkcFNpY1E1OU0xWHVjWENuT0ZFMHkzcjVocUlMYWV2WTl5RDRCT3duN0h1R2loUTlIQkxfcURCRWlwLWh3R1BBN1AzUmZLb3FxSlZWUWtCUEJCejg2ZDNoQk1FRlA?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Sun, 20 Sep 2026 22:04:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC arrests three more officers over Niger miners’ deaths",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdzJEOUFxb3BRNFJsYkVHemFQZUJGQUd0ZzR2Tm9maUl1bjctVnpzM2JjNkpoV0s1TEhIWXJnV1lPUHlOU25iMXdlckZnNW1lb2FCS3NsbWxJeTNxNEJlNVBfMVFSN0lVT1Z3dGpIV0lCRjk3TlRLRGl2SGdpSVhMZ3pUU2ZGQQ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sun, 20 Sep 2026 21:54:04 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "FG Advances Food Security Through ONSA AgriShield Initiative",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM01MSDVnQXI1VXBmSFZSTENtQm5fWVJMUkhweklMMFJNUy1wTUZjWmhGeGtKNGlPZnhWNHljR0pXRDdHcEhEbmpJSDNfQ0JRemFmVVdfcE8xN3FwRGhfUVdBcW5vaEFTaF9WT1U4eV94UHpJVDhJcF9XcUVqY2pkN2ZUa0ZPTHdvS1lYM0xsTE13YmFtUW1pYU5qY1E2UTA?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Sun, 20 Sep 2026 21:23:23 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "miners’ deaths: NSCDC parades suspended commandant, officers",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXFxQl9KdFM5R0w2WldXN3VhQmV2Sk5YNERuLVdtejUySmhXclRkQ3NYSGk4Rm8xbkd2aHJ2NUt0Y2VGOHJoRUNNVlA0Wi1hTE9ma2V0SnJGWFRKVHdObm5CcDMyczRGaDRCUEQydWJFWERmWVNGblA5VHBZMlhXVkNSWHlheDdhODJYS18xQ1JkUzVHSUtoWVE4ell3d9IBowFBVV95cUxOU1llR20zdjZqaHdvZ2o4ZE56d2NKZGpvMkhQS01XUXhaWkVoOXpnOWZDQ3N0U0hzTFB3bjZGMHlKdG9NeGtiSFRIRG9MTWRZdkRBUUZxck5qRnJIb1d1RXBnQUtEa3FpU2dkSVZoUkRBTVI3YTA3SkdJSmx6RXZaRktGeXR3ZF9PS21ib2o4ZDNNT25LYVBncW1WcVlGcnU3RFdn?oc=5",
-      "source": "Vanguard News",
-      "pubDate": "Sun, 20 Sep 2026 21:20:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "miners’ deaths: Mumuni demands accountability, stronger detention oversight",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjMwZWVTdGxuWW9aWUtZNHd1U2FaMWpBY015Z0hYWVI1Vl9ndDFRejU1QUJTZzFmVW5yeXZvdXVqbFM2UHVqMnpxS3dCOWEyUWEyaFpYUEpwSEl4UkRhdFV6M010el8wMG9Ka0NjWEJpWlZMTTJXbnV1Q1NYdS1jREhpS04wczRiajREQ1lGb1lYc01sRkVhLXp1bERBNXB4QlZJ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 20 Sep 2026 20:55:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ASF France urges independent probe into deaths of 37 detainees in Minna",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd2MweC1UbWR2T0lDSXp4NzJ6M1VOV2ZtemN4d3pydkVCUnNNejdhR295c2hnanQzMkxyeHpoU3VwZ2RDXzVFR1BHRVF3Mm9VTWE3Q0wzcGw1cFJ1YzQ2akI0amRXY2kydGJPY2Yzb1lZVDNlVkNaVDJRbWF3Zkc1a2ExYmx0RXNGWk5aZEhiMlhLamQ5RzF6Rko1cVFxUQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 20 Sep 2026 20:51:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Niger govt unaware of miners’ arrest before deaths in NSCDC custody — Bago",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHdCazlZUzJpSTc2TTI3ZnVLZ25nVUhLajZ3NG01M0l6XzRBbmVFUWpTelZDWHR1dzBiNHVWdW0yanp6LWx5bU9tdjJ1ZmdpZjRqMjA2S1h2V3k5am9FckRQcjg4SjRkQlNtc3M0MVRkR1BnMWxocC1zLXZJYUlEdy1iSExYeTlKeHI1a3F2Tk93eHVGV1hJ?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sun, 20 Sep 2026 20:46:06 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NSCDC arrests suspended Niger state commandant, 23 personnel over deaths of 37 'illegal' miners",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnVzeGZmR1RHMUhnU2w0cFlDWWdObHF6UkFES3E3ZjRwaXA3N1BXMTd0M1Vwakl2ZnV6V2xwUkxJV0NNVmI5TDYxSWttNjExQ3ppcFZONjE1Y1QyUkdJbE9mdk9FZ2hYTnhIa1c1ZlJsa1U4RmQ2SXlyZUFiQmhYWTZsVUMwMVVXa0hEOWZ3YnJ4b0lQZ25wTmhlZXY1Y3BuNDFUa2sxRGNhWDJFM1drOVpuR2IxLVZL?oc=5",
-      "source": "TheCable",
-      "pubDate": "Sun, 20 Sep 2026 20:39:00 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "NSCDC detains, parades 24 personnel over deaths of 37 illegal miners in Niger",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3o3VDIzLWJ2NmhZWVA2V2NiZGtBNDB3d05USUlJakNnTFRlTHVndEdiX1AxVXhrNldNNXE5VFhPTUgzbGJwb3NKODNCMU9zTjZHWE5hZURTRDRwOXdDRE54NjB5UWtfOE11ekdBM3YzWEg2d3ZUakpzU1o5SkNqTkxHV2xHVm5KSlBBZkdxaUpoMVF4WnIxOFMyQVRES0k4RE9may1yUmpXbWxBQmc?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 20 Sep 2026 20:37:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "FG Advances Food Security Through ONSA AgriShieldInitiative",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGWkhlRnV3c28yRlhZN2ZfWmRXd2tlTUl0M2dVX1hKQkJKTFVCYTBOX3Bua2hMZWhvTkREWjRNWUJpS3lMaXpuOGhsMk5oRjcxVVZnZmRZeDBEd2JfaVlRdzJsT3E?oc=5",
-      "source": "Politics Digest",
-      "pubDate": "Sun, 20 Sep 2026 20:31:07 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC Parades Suspended Niger Commandant, Officers Over Miners’ Deaths",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEpZYldLS1V1ZFJIUUdSbFdXMFc4akNMQnRzWE43Z2JfQ2J1U1IwcTliaHZJZy16ZG51d3VhaEhNcXNaX1ZwaEV4M1NCbHZIakRGLVRsSG55SWtkTGVRN2NXQVFlTk5QWkNfOUEtT2VaMVJlSWFYWGpjM1FZM3RGRFhvQzNhSGdFWm1lNmQzMTJsSlRqdzZXS3kyQzdmRkc2dUU5R0lOVGhPNVJpbjdBSkdtT3V1UQ?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Sun, 20 Sep 2026 20:17:54 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Bago vows probe into deaths of 37 in NSCDC custody, says findings will be made public",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdDeXh2YXY3bzF5NDFJX1hkY1Y3LTBrYlp0cmtsWGM0X21PaVNzU3J6V19OQ3NSb05jVWZKVmlNMjBkV3BJdW5HaXFscWtNWkZkMERVTU15djNkVUNsTDZ4b2RLckQ2UDc5YVQzUmg0bUEzcXJSVmZvYlZwRjhNZ0VmVE52Q3pYN0x2ZVQxUG1HdVI4Q3FudVYwREM3Z2c4bDZxS2VFUno2NUE5TmR4azlkRWU0UlND?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 20 Sep 2026 19:47:01 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC Woos K1 De Ultimate for Youth Security Awareness in Ogun",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHRfZ3pIQkl3OEdLYzJtelRPUFBzUlBaMlhNR3oycVdEMloyNGo1a0FacnZJblZ3SGxtdDVXS3dHSmdjNFJibGszZ1A5WGxscHg2V21oTXlVMEJnSUlSMlpadm5HOUNBUG5uOVo1SVgxZFl0M01qb2NEQXAxV25kVVFMTDhaU3BUUy1YdEZFaDU3S2FLU2ZXV0FUWFBZWnM5cG9vMzZ4WQ?oc=5",
-      "source": "thenewsnigeria.com.ng",
-      "pubDate": "Sun, 20 Sep 2026 19:15:04 GMT",
       "category": "Security News"
     }
   ]
