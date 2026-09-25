@@ -1,46 +1,102 @@
 {
-  "timestamp": "2026-09-25T16:45:05.251Z",
-  "generatedAt": "25/09/2026, 17:45:05",
+  "timestamp": "2026-09-25T21:12:05.587Z",
+  "generatedAt": "25/09/2026, 22:12:05",
   "totalHeadlines": 163,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 123,
-    "Law Enforcement": 10,
+    "Security News": 121,
+    "Law Enforcement": 9,
+    "Armed Conflict": 9,
     "Military/Security Operations": 10,
-    "Armed Conflict": 7,
-    "Insurgency": 4,
+    "Insurgency": 5,
     "Banditry": 1,
     "Kidnapping": 7,
     "Traffic": 1
   },
   "headlines": [
     {
+      "title": "NSCDC officers to remain in custody for two weeks over miners’ death",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2pVbkJtSnA4NGx2SW91VkJ4WTk2MG1xUEl5bVFGWFd5em4xZEJaazNSZWFUQVhicVVBRzE5NmNaMFdMQmtWWGlESFhPRDA3NXhrcEx6cWx3MW9rTGljT0NudXo4b3ZET21yMWlPa0VfNmxSeC1lZVFNVWIzT28xUXI4d0RncV9NMU9jVU1FTU01X0RqdGpMUFJ2UlZITHJnY0c4LWFzazVKRGM?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Fri, 25 Sep 2026 20:55:11 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "More Christians Killed in Previously Attacked Area in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUZpLW1VR2RTc1pRVU5ZRDZPUGF0OFk3VUVGQ25fMzZsLWk3TWNJS0g0OEtZUDV2YVVGdTVxdUZVUzVFTGZuaHFuQTVGZTFUNW1jSGFES2Q3a2VDbENJSEVCRHMtWTRyR1dqWmx3aDd2NXVWc3VlYWpSXzRlMUE4WDVXeDB0TVgxSFRfZkUzZHpYdVN4LUtGU0F1NlkwQ0E?oc=5",
+      "source": "morningstarnews.org",
+      "pubDate": "Fri, 25 Sep 2026 20:44:02 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "UNGA: Nigeria, Mali discuss Sahel security, regional cooperation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0F0MkI5Y25ISTNVR05RRVNUWS1hS0dNVlh4a0tFZkU5T3h4R3gzYUh3allzV2c1QUtwWWdzSGRtVHpsT202Y0M3LVZMVF8zWWtiQWZjTURCS2F6cFltaHFXNkVLWjIwVXNqWlh4TWFXWWYtWVVSdTNxVjFGYWlDa3hLYlZ3bm1yNnIxY09CZ2ZfbG5SUTg40gGcAUFVX3lxTE1oMU9TTW84cldlbnFWazdzX3hyOEtwcm00T0ZST01MRjhvTjIxV0FqdnRWYjduTnpDSUs0dEFOMjhuT2NEa09QZnhFMWVodkd4bHFHc3owbHNyTk0zZXZCMDNrdWFHWTdGZi1LQWpnNTBUbjJNMU5DeWZyQ280NUwyT2ZFeWRDYmVjZ1JGd0s1NEpaMUxQdG1wYkdITQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 25 Sep 2026 20:15:00 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Rivers Assembly orders PAMO varsity VC arrest over N29bn",
+      "link": "https://www.vanguardngr.com/2026/09/rivers-assembly-orders-pamo-varsity-vc-arrest-over-n29bn/",
+      "source": "Oboh",
+      "pubDate": "Fri, 25 Sep 2026 20:03:07 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Gunmen kill four in Niger",
+      "link": "https://www.vanguardngr.com/2026/09/gunmen-kill-four-in-niger/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 25 Sep 2026 19:14:35 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Police detain Enugu building owner as overhead tank collapse kills 5",
+      "link": "https://www.vanguardngr.com/2026/09/police-detain-enugu-building-owner-as-overhead-tank-collapse-kills-5/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 25 Sep 2026 18:51:04 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Russia not preparing for conflict with Europe – Putin",
+      "link": "https://www.vanguardngr.com/2026/09/russia-not-preparing-for-conflict-with-europe-putin/",
+      "source": "Oboh",
+      "pubDate": "Fri, 25 Sep 2026 18:42:41 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Court rules out suit seeking fresh police probe into Mohbad’s death",
+      "link": "https://www.vanguardngr.com/2026/09/court-rules-out-suit-seeking-fresh-police-probe-into-mohbads-death/",
+      "source": "Henry Oduah",
+      "pubDate": "Fri, 25 Sep 2026 18:42:01 +0000",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Tinubu Calls For Radical Shake-up Of UN, Restructuring Of Security Council",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEVrckhxZV95Q2s3NUdIdXBUMWVIYTZxNUZ1emZ6cmVPTVc5WTRlb1ZYU25jVllaYm10Vkg0cnpWRGJZNFY1aEVnMW9vQThHaUM1dXgtNWlSUzBsTTA2bjcwQ05zR2FJRXRRdUJuaXR4Uy15T0ppZXZsSE12ZXlNN0pOdHY1OEFmUEN4S0d6R1pIUlU3ckxleQ?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Fri, 25 Sep 2026 17:19:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "What Is Happening In Nigeria? – US House Of Reps Member Decries Attacks On Christian Communities In Plateau",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblV5eVAzaERmY1IwZk9kODVGQnBUY0ZoQW9KVXVyc3VDMlFtSGdyaUF2RE5EdG15Uy1nYkFncWN2U0VpTy1ZNkNlZ3F2WkstWktmcG43b01Cd3NuUUlVcVF0LXYwWTgzMDNWdF9DcFk2NGh3M0lqV19NUVdONFNwNGkwTUVCOG9Iak9URXpWd3h4ZDRLaThuZGd3dmt5MWM5NjhhczNTSHNNNi1HMlBlMFFma2I4OFNESC02Uw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Fri, 25 Sep 2026 17:16:59 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria seeks stronger global partnerships to tackle security threats",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHRsM0toUGlQTGhJLW5xTmxteWxlSkoycl9sVGdTcTFPaDZyRGJYR2pjRzdFMWR3RDJBSm1Qc0tYdG9LSEdQSVRtdDd5OGNaN0x0eW1kSk55SXdaX1hxejItc0xzYnBJaHNoT1lvQmdtaTVacVZudFVQbVRCTTdhZ281UDN0NVBDb2gzdWUtZlgxVXdDX0tXV2RYMkd5R3BTdlNSOURQTEJYdw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Fri, 25 Sep 2026 17:02:37 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "ANALYSIS: Why Nigeria, Africa Need Permanent UN Security Council Seats",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjJubzB4NDhZSGdqdkFSVElSbjVrdHM3UHBlWlFVMVREd2UxalpfYXB2blk2X2gzS0l4Zm81QVpKdWV5WDY2d1BUWUk3UUlDTDBPTUZvTWhtbUxvanJYS1NaOWVHQVo5OUFyWERKRXQzeXp0LTFkLTA0cVRpaEdzX2ROZjFqSlFrcDZxdEYxbXhidw?oc=5",
       "source": "thefact.ng",
       "pubDate": "Fri, 25 Sep 2026 15:42:54 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Man arrested over death of university graduate in Ogun",
-      "link": "https://www.vanguardngr.com/2026/09/man-arrested-over-death-of-university-graduate-in-ogun/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 25 Sep 2026 15:32:56 +0000",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "Nigeria XI vs Madagascar: Nwabali returns, as Adams, Ilenikhena lead attack",
-      "link": "https://www.vanguardngr.com/2026/09/nigeria-xi-vs-madagascar-nwabali-returns-as-adams-ilenikhena-lead-attack/",
-      "source": "efosataiwo@vanguardngr.com",
-      "pubDate": "Fri, 25 Sep 2026 15:16:12 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Kebbi police arrest Nigerian wanted for murder in Niger",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGVpUmZuS3FMMWI4VHppWjBPQUdRWDQ2WERsWjhLUDc0NVJ2REh1NFF2WUM5eGhCU0pzVjhVRXU3dVlMYzVEazhiVXEwOWRyMGwzUjcyR1UxaWZuWVMtSVVwWHU1X01SVWhMcmw0dlNvekRQUzYwWXEyQVpORzhZc1VxdjJ3T2pOLWRoVVliaVg3Zw?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 25 Sep 2026 15:13:32 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "NSCDC CG Condoles Minna Emir Over Custody Deaths",
@@ -66,7 +122,7 @@
     {
       "title": "Over 7,000 abducted in Nigeria in one year as ransom payments rise – Report",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2xsbGxnNWtrTEw2Qlh2ckd3UWxnODJrYTRDN1BsN0JMM3FFYzZFay1XalNwMUNSb2hMWXgzQ3VtczVJUmhXcm5sSC03dEhCV05JYWJzaHBWamdHbmpZZklydklqT1VxcVBUY3pZcEFKcTYyMGtCSld1LWt2TnNDS0IwOEtUdkFWNVNsZzRMcEV1ZWQ3bkRuaFpiQzQ1REdKdGpj?oc=5",
-      "source": "icirnigeria.org",
+      "source": "The ICIR",
       "pubDate": "Fri, 25 Sep 2026 13:05:18 GMT",
       "category": "Kidnapping"
     },
@@ -85,17 +141,17 @@
       "category": "Military/Security Operations"
     },
     {
+      "title": "Navy, MARCON partner to strengthen maritime security, reporting, economic growth",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXNwWHJ0cHhlQmZEck8xc0E0M0xXUWtBUWQ2Qmp3RUtVdXVYRHdTTW5DdWlLUjZidFNGVWdIZ1lDZkhpU0F4TlJzMkU3c2YwX3dGUUxVRTlYb01FSEQtdFZQUWZXdzZLS3RLSmZtOW5Fc1M5T0stTG5rQVp0XzFyRXpHYVEyeWc5dHp5ZkNDTkwxQzhOTGNrRV9fWGtVU0NYOE9sNnNJbDlJamZz0gGyAUFVX3lxTE1BNVFCYTBVQjJqT0lMWXVvMzRHdmhGc3dNS3R2aFdBLXhfRnJ6XzVXbHRLWEhNUVdUT0FsNG5jLVZjcFBTWEJiUFJPVFRTemF0QUhITHdfaUVmMUtoRm5HaFJLN3ktODc5X19sTlkya19MbFRMeEhKelRVeWFhVHBDZUlHekNQazFobDJXbTVDVEtNVV9aeFRyWWJXem8xdXR6dWIyMHdYTlNMMm0xOURQekE?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 25 Sep 2026 12:42:35 GMT",
+      "category": "Security News"
+    },
+    {
       "title": "Cross River Highlights Security, Infrastructure Gains",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZEd6cjNFU2M1T01iR2tPZWtsWEc4LWltMEFEX3dKblZuS0FzTTZsQnJvQUlBaW83Z1FNQnN0N3RDekhqb1RCYmNpM0xIZlZlakNSN0N2NU52dU5YNlJlQlFyV2czSG9FQURjTGNzSFZtdGx6VHlQaHFVSU8?oc=5",
       "source": "Voice of Nigeria",
       "pubDate": "Fri, 25 Sep 2026 12:42:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Navy, MARCON partner to strengthen maritime security, reporting, economic growth",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXNwWHJ0cHhlQmZEck8xc0E0M0xXUWtBUWQ2Qmp3RUtVdXVYRHdTTW5DdWlLUjZidFNGVWdIZ1lDZkhpU0F4TlJzMkU3c2YwX3dGUUxVRTlYb01FSEQtdFZQUWZXdzZLS3RLSmZtOW5Fc1M5T0stTG5rQVp0XzFyRXpHYVEyeWc5dHp5ZkNDTkwxQzhOTGNrRV9fWGtVU0NYOE9sNnNJbDlJamZz0gGyAUFVX3lxTE1BNVFCYTBVQjJqT0lMWXVvMzRHdmhGc3dNS3R2aFdBLXhfRnJ6XzVXbHRLWEhNUVdUT0FsNG5jLVZjcFBTWEJiUFJPVFRTemF0QUhITHdfaUVmMUtoRm5HaFJLN3ktODc5X19sTlkya19MbFRMeEhKelRVeWFhVHBDZUlHekNQazFobDJXbTVDVEtNVV9aeFRyWWJXem8xdXR6dWIyMHdYTlNMMm0xOURQekE?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Fri, 25 Sep 2026 12:38:37 GMT",
       "category": "Security News"
     },
     {
@@ -108,29 +164,15 @@
     {
       "title": "Anti-migrant protests in South Africa: 105 Nigerians arrive from SA ahead of September 30 deadline wey anti-migrant groups give illegal migrants to comot",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EY2FHQmtqMUN0T2FuYlVMMDFCSF9lelRYOUdjeHZEeXdaaGp3Tl9pT1VVa0hfMFRkNUMtclZ2c2VQM1N2RXJkS0RoclA2N0JEb0JPQV95bERWU2p0TnfSAWNBVV95cUxPS0c5OERTMnJvV2xxMldhdGtaSWhOVmhRVnVEeEhsMXN1NjhCUjdZWjZUclhxQ3VjWkpDWHJ3Q0NzRGlyQnlqaHpSazVzX0d6cUg3ampYS0JJcU5jOVdZOHByTkk?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "pubDate": "Fri, 25 Sep 2026 11:50:12 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "NSCDC Pledges Cooperation With Presidential Probe",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uRlNha09mRG1rcHR3WEgxYUZpR2xSaFdsWGkybXJ6a3hlVUVMQWZoZDNSSDZOUklsUlFUeW1PTXFxTlVGaHNoOGFzM3NXdlpxZXFIZDJoQzBqTFZFbW96eEpCVmt0SzZKRDlDRVVLdHpWUHgwS0o2bQ?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 25 Sep 2026 11:46:13 GMT",
-      "category": "Military/Security Operations"
     },
     {
       "title": "The Ulama Forum in Northern Nigeria has called for an independent and transparent investigation into the deaths of 37 young Nigerians in Niger State and the reported killings and displacement of residents in Mambilla, Taraba State. Read more: https://dailytr",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sR3lHNFlNcjZqQUJJT1hHTGRjTE12SjJGUWR6c2ZYSzBGZUxRMzA4S0ZON1hJVC16Tk5xXzhSbnNkNTN4S3dVX2pfRUdMeHRha0E?oc=5",
       "source": "instagram.com",
       "pubDate": "Fri, 25 Sep 2026 11:32:53 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu Calls For Radical Shake-up Of UN, Restructuring Of Security Council",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEVrckhxZV95Q2s3NUdIdXBUMWVIYTZxNUZ1emZ6cmVPTVc5WTRlb1ZYU25jVllaYm10Vkg0cnpWRGJZNFY1aEVnMW9vQThHaUM1dXgtNWlSUzBsTTA2bjcwQ05zR2FJRXRRdUJuaXR4Uy15T0ppZXZsSE12ZXlNN0pOdHY1OEFmUEN4S0d6R1pIUlU3ckxleQ?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Fri, 25 Sep 2026 11:19:20 GMT",
       "category": "Security News"
     },
     {
@@ -178,7 +220,7 @@
     {
       "title": "Speaker Abbas Outlines Roadmap for Deepened Nigeria–Saudi Strategic Partnership",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjhQd3p4b1Q3YnhPZFJWbFhmbmxqWGZxRElqWkl5aVBxT3JHQTU3RHRIdzFlVnlYb1Z4cFBiM3RCOFRNSGUtNndHaVRSTjdaMG9uMmlaUkxIOWtrQ1FjdU1oT0RWNUlSMmJEVzdxWUJlMjhiLXMyWWlMOVlfaVVvcnVVZWlEUmh6RjhoeFdBZUwza3NuWkg5VU1vd25Lb0I4TExz?oc=5",
-      "source": "naltf.gov.ng",
+      "source": "NALTF",
       "pubDate": "Fri, 25 Sep 2026 08:55:46 GMT",
       "category": "Traffic"
     },
@@ -187,13 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1cxSzlyQTBkdzBvOGxiN1YxOUVyZENBY044NzZlNXB4Qy1qczBsbXFwc19jb1lVd0RFbng2Q2V1aXNsOW9pU2hFNy01ekZEazh4aENOdTFOUDZKV0VINGVRTE9Ja2lBc2hSLTFielVFUjY0UlVCVUJfMVFyRXRyeFZvdlVsbGpkS05DWllvaDFnUQ?oc=5",
       "source": "The Sun Nigeria",
       "pubDate": "Fri, 25 Sep 2026 07:59:43 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Some public officers take Nigeria’s money ‘every minute’, says Olukoyede",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSks0Zy1zY2lJb1hiWlBzalRfdlh4eEVUa2VrQ1hhelJUOXJUTkhwY3pQaWVkTy1yVUtOUURWcXo0dThkcDZxc2NMbEVTN05CSWswQ0ZmZEltSVQ2UlFEb3A2U1A2QVpUekVtaDUwT0lqOE9jM1F4aUl5aFRWcDhjMkdhNkF2dENJa3lZZGY1eG9tTVE0bWxJSA?oc=5",
-      "source": "TheCable",
-      "pubDate": "Fri, 25 Sep 2026 06:49:00 GMT",
       "category": "Security News"
     },
     {
@@ -227,7 +262,7 @@
     {
       "title": "UNGA: Nigeria seeks whole-of - society approach, international partnerships to end insecurity",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEt2MmZCRkZHdldOUUQwbldYSmV3ak56eC1tOWx6TDFjcEJycEJvOWVsdlVoV1hOTHVPZmtleEY4SnFLSWZIc3VkOWtnVEpCU1dOdExidTVXMmY4bnRXYnRRZm5WV1h5NHpydFZ6OXgtc2RYT0lneWJ2d0ttelFBaUFocmh5ZXVuQ09ZWU1ZSjV2elJDei0yck9HSV9VZ2Z2TnRZSXI4eUdXcHN4VENCWQ?oc=5",
-      "source": "Blueprint Newspapers",
+      "source": "blueprint.ng",
       "pubDate": "Fri, 25 Sep 2026 05:06:02 GMT",
       "category": "Security News"
     },
@@ -276,7 +311,7 @@
     {
       "title": "Atiku Donates ₦20m to Families of Minna Custody Death Victims, NSCDC CG Visits",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmV0d2FDb2hvRFB5ZEFNcDhIcUFTZjc1RU1fdWdiWUdnQ1NqNlFJZzNUOC1tT1FLc25aQy1IcThlOXRTRVg2OHVBWUhYcVhXcUtzcU5oZE5nbHJLdmo4NHNOUG1mYm5oVVlrdWk1U3lsRXhTNDE3cDNTMTFnelJwTkp5MlNYSzU2OGRMWlJncGRyejRxMjBmbWtzNnFFdU13YkowSnp6M2QtdzFGN2I1YTNaelFqOHoydXQxUjUzUUt3Qnc?oc=5",
-      "source": "thisdaylive.com",
+      "source": "THISDAYLIVE",
       "pubDate": "Fri, 25 Sep 2026 01:44:56 GMT",
       "category": "Security News"
     },
@@ -304,7 +339,7 @@
     {
       "title": "Nigeria seeks global partnerships to tackle security threats",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTktNjdOUjhmTEg1YWdVaFUwNnR1NHU4UEoxbTM2SHBGZnR2TVpfSlVSaFpIVWVxbWhoRk1nQkR1dmRwVHFZSU0ya25GU0owODlNcUVCSzU0aUxnRkZJOTRYTVBkdTd4bm1NVlVpeVRYOVBqUFp1d21WSHVUYnRKY1dYVlVwRERwUUJnOXFKN1l3Y1BCWXZpb3d3WXBDVUp4Qzgw0gGjAUFVX3lxTE5xOS02N05SOGZMSDVhZ1VoVTA2dHU0dThQSjFtMzZIcEZmdHZNWl9KVVJoWkhVZXFtaGhGTWdCRHV2ZHBUcVlJTTJrbkZTSjA4OU1xRUJLNTRpTGdGRkk5NFhNUGR1N3hubU1WVWl5VFg5UGpQWnV3bVZIdVRidEpjV1hWVXBERHBRQmc5cUo3WXdjUEJZdmlvd3dZcENVSnhDODA?oc=5",
-      "source": "Vanguard News",
+      "source": "vanguardngr.com",
       "pubDate": "Thu, 24 Sep 2026 23:47:49 GMT",
       "category": "Security News"
     },
@@ -323,45 +358,10 @@
       "category": "Security News"
     },
     {
-      "title": "FG begins review of Nigeria Agriculture laws to improve food security",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaS1fSFhIUGNheTREX3A1eVJDRFkxVTdDVi1rOF9vVXFIN0J5bFVKRFdoTkl0Y1VPY1g4QzVwUnNmaEN5cGNvdlQ1bFczdHdvMlI5WHdvczBJblg0MW83OWpPdGQ3cHlTSFpJMVdzVWVEczRra25SQ1VQNlJKYU1JdEN0OWJEWFJua3dlMlNYM1dILTd1d1V3ZmFYSW5YNi1fcU9wc3F0VTZwS05ZYzNveDNrSTljNXhFQUE?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Thu, 24 Sep 2026 20:56:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Families Of 37 Dead Miners In NSCDC Custody Reject Niger State Government’s ₦100,000 ‘Blood Money’, Demand Justice",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHJFS1BMMVJ1T3JRbktIY0doeWl5ZGNUZkJkMk5IRDNEbUQ1cHdiaEhWRzZBR3VwNjZwOHl3Z1c0R0FrOUpTLXVmM0Vad193X25uSVBOQmxtb3NDVlJWUmcwUzRaS1RhcE5nMUdxVFpmMjV2S2dWR3BsdG1pY0hrR2FSTHFxLUNYSEhPdVc0aXBLZ3JOYWRtT3JHbkp1Q2VZVzhoWC1pVjhna1hjaVhvamdLaUFYMi1iM2NzQnZrX0NPUS16LWc?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Thu, 24 Sep 2026 20:06:56 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "One shot as NSCDC operatives, traders clash in Jos market",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEJzd2hNY1JKUXhYODNCNGZnVDllMDJhX1FVRUx5bjg5WXJBX0hBQk1kUEUwQll6dHZPbWhQZ1FnaEZOaFJibng1M0Jwa2JRSzlYQXcyc1BJNUZ5YkZYNV9fdUFXT3dvMXFTS05HSVZnMEhzbkJDZDVoTHdGdGZuSGtBLWp3ejQ?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Thu, 24 Sep 2026 20:02:34 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Miners’ deaths: NSCDC pledges justice, says no cover-up",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jTnp1dVExRGZUNUt4ZEhYWUo3eVpWekxwV2NSVy1MVVd6M09RbUhlTkxRaDZDTjZMbnlQaHh3OGtqVEdaOFAyZHZyX2EzVmxZclE1MnRjb3g5YW9BQTlvVXZpdmxoSVp2Sjc2aC1DY2VLVy1lSlRRWTN4aW93Zw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 24 Sep 2026 19:53:31 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Death of 37 persons in NSCDC is deeply troubling – Peter Obi",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM04yRTNQakQ0bjVvckRraFVqZ2lyMUJiS1J5MzZoSDIybFkyQnpJRUNIQVFpT3BrRmtaN2RFQnVPU0k5alFsbzdoVTRYNVR2OVVZVzVZMVpRTld1a2NNNmpyRmVYcDBWSkNZdml3SDFkY29MZmYyYjVESGpsSlFRMDFIMTVTUWgyVXNOa2lQN1lvUQ?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Thu, 24 Sep 2026 18:51:24 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Medical experts begin investigation into deaths of 37 miners in NSCDC custody",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWko2amJoSmcxekNzZ2QwY21QbHZkbGluSkl6cXJ0azU4TUFXTlduX2hlbnUydl8tMVk3a05nU2JadWhGUU1LYjBjTkN1Wk82SnRqTmNJZk55NElwaU5HbUpNaFc4X0tvbTljOWh5LUtsOE44VVBwWTJxbnpBcnJQM1B3TE5JV0d4dndNcU1uSk1yLTYzV1pNQzBzUE9Xb2NCMEpIWVhJTmRFeEJfT1E?oc=5",
-      "source": "Ripples Nigeria",
-      "pubDate": "Thu, 24 Sep 2026 18:24:52 GMT",
+      "title": "Tinubu demands radical shake-up of UN, restructuring of Security Council",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2RvLWd3SGpWaEFqTXVZczhmUlNKNVFnMlFJeEhEMEhJNWlCWkkwSENfUkgxR0o1bnJmR2Frc0I1OERWUmhwOXZ1ZE9zTFhtMzlCLU1YWVRFZnBoQU9SZlJRTTNaQk8zRmc1UHBUa0dwNS1SSVlFN3JCOF9BQ09Oem0xUDlYR1B3d3I5UGJHUXBaTEpET1VUWXVINUsyQjByMjFLeEp3Q012TzNxQkE?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Thu, 24 Sep 2026 21:57:41 GMT",
       "category": "Security News"
     }
   ]
