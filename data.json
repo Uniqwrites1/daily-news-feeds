@@ -1,21 +1,77 @@
 {
-  "timestamp": "2026-09-26T23:23:43.290Z",
-  "generatedAt": "27/09/2026, 00:23:43",
-  "totalHeadlines": 155,
+  "timestamp": "2026-09-27T04:08:43.752Z",
+  "generatedAt": "27/09/2026, 05:08:43",
+  "totalHeadlines": 161,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Military/Security Operations": 10,
-    "Security News": 117,
-    "Law Enforcement": 4,
-    "Armed Conflict": 8,
-    "Insurgency": 5,
+    "Military/Security Operations": 11,
+    "Security News": 122,
+    "Law Enforcement": 5,
+    "Armed Conflict": 6,
+    "Insurgency": 6,
     "Banditry": 1,
     "Kidnapping": 5,
     "Traffic": 5
   },
   "headlines": [
     {
-      "title": "‘Lagos traffic not a problem; it’s a lifestyle’ – Hamzat",
+      "title": "Miners death probe: Commend President Tinubu for empowering Interior Minister",
+      "link": "https://www.vanguardngr.com/2026/09/miners-death-probe-commend-president-tinubu-for-empowering-interior-minister/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Sun, 27 Sep 2026 03:24:30 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "How Niger Delta was underdeveloped by its leaders, by Dele Sobowale",
+      "link": "https://www.vanguardngr.com/2026/09/how-niger-delta-was-underdeveloped-by-its-leaders-by-dele-sobowale/",
+      "source": "Emmanuel Okogba",
+      "pubDate": "Sun, 27 Sep 2026 03:16:14 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "A Review of Magnus Onyibe’s “The Imperative of State Police in Nigeria” – Prof Anthony Kila",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEdjVGc4SWl5MERRVnMwZzBGd1ktd01tSmp1d25Yd0t1MEdWQnZfeWo0WXBIWnNOdmoyS0JWQVBSVy1ieU5ldWhrci1KcVNSdlBSOUdJakowbE1pZGNmbXh3aFUwaDgzX3c5eF9YSUpaR19YU1laQlVFMkdJNFJkWmo4RFV4OWNhLWxrSjRFSGhnU2h1LW9tTnRtXzlJQWpvMTB4aXdtRUpDS2E0LWpYN283Yw?oc=5",
+      "source": "The Lagos Review",
+      "pubDate": "Sun, 27 Sep 2026 02:34:46 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Mad rush into deadly pits for gold: 374 illegal mining sites in 17 states uncovered",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQW8zTnY5V0hKeXFnRDVvM0VZTkFBTjd3NVNfWlZ3azZ5dWMydjFGa25ZOGZSSHJaYmZkMFY1anBrU3VDdEQ3UWMteFZIZmpUQ19qVGNScUZqek51VkRSUThqVms3SGVBZkZ3SXduWEplek1SY1d5aDlSQlZLWFljVmlxUm81ZzBoRnBLMzhqaU5qUi1wX2pEZjR2Rno0U0hfQ2NWTlNPOUxfaHAyRlo1eUZWaTkxUTBfRndB0gHAAUFVX3lxTFBFN1k0d1p0YVVacURiZUZKSEFwdDVPNHkxNlZmTUZOQjBLRjlXOXlmdHRQd2lrdnVRTzdzb0JFWmtWT0FnWUNXbjhVbVpKYzNybnROQllrSmFGMmdNbnh2cDRpcEZjX1lVclN3NS1EMVppZ1lTQURQZEFqbEdDU3VGQ0RzSUVTbFF4MDhrNHRMVkVUdFpvY0JXY2hYV3VtV1hfV0VoUDdXT1UtTjNJT0hTOWh5WldBVllIU29LTDhLeA?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sun, 27 Sep 2026 02:05:39 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Foundation Unveils Cenotaph For Fallen Heroes 34 Years After C-130 Crash",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbVJ1Z01NNFd2MzMySmdQaFhIS1N5cUFHTFJJOWVFN1E3YUdGTldQZC1BSE1RVjJJcnJIc09xYUxuUUNNRzB1cVVFZVM4azE4X2tWRUR0V1pOb1V6U2V4Z2UyZUVRcXVjRW8xaVpWYUtPcGs3NmxaSXpGa2RGY1MtellpV01HY0VFTndRbDIzQi1BckJqYmxV?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Sun, 27 Sep 2026 01:25:44 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Dozens of hostages rescued in Nigeria during security operations targeting terrorist groups",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUVJkOVVkNV94SHF5VFIyWEFzYzhHaTJnQ0ZFZGxBaXNsS2xQVDhQcnhoNU1RMjRvbGQ4djhLVmlONUJYeldTdjJSa1BpOFpHZ2Rqa1lEMFFRLTFrM1oxeFEwdmxhOG9JMV94TmR4VDNJSzYzVmhPZmxBU0Njb2N0WkVBVk5sQ2xLenhiNlRLaEMzUzdiRmlGLWRSUlJJXzJfUy1WV1FQVHZpUm5fOURkQ1FpTjAyNkItX0tuOUlSWklmcVFPLVlPYUZWNGU0SHhUZl9xMEVtanEwZW8?oc=5",
+      "source": "voiceofemirates.com",
+      "pubDate": "Sun, 27 Sep 2026 00:16:03 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Nigeria At 66: Beyond The Flags, The Road To The Nigeria We Want",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWxYWG5MdWE5dWRzVE9IS2FvV0NUQjE3OXNBVEJrM29XQ3lBcGVxNmZMTVhkR0xGaUd6NWlWVm9WTXdYZk16V1MyX3Jfbi1nbXM0bjZNanRnN1p2QnpSNTdwb0p0dEllejZGRGtScFhTOE5CRlNFUWR1d0ZBVzVJLUFmcFBaTzNDU3AxcXA2MA?oc=5",
+      "source": "independent.ng",
+      "pubDate": "Sun, 27 Sep 2026 00:00:00 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "NIHTE urges AI, intelligent transport systems to curb Nigeria’s traffic violations",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlQxTF9fNUNpMUxXVFBLRmxNaDVDbkJnelA2QzBMLUp2WDhwb1JTancxUjBZT0tPMEtTWk1PdnFoYlN0cXlGU2U1WkZPTk9zV0VHVjBYN3ItVkdpdTIwellUaGIzQm1tRlRRSmszTF9IZEFfUWFoTGl6V1Z6MzQ2Wk8tMWE0OWJGSFFlWDBnanQtejk5aU1SXy00VW5TOHZzSWpRbDNyUQ?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sat, 26 Sep 2026 22:11:30 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "‘Lagos traffic not a problem; it’s lifestyle’ – Hamzat",
       "link": "https://www.vanguardngr.com/2026/09/lagos-traffic-not-a-problem-its-a-lifestyle-hamzat/",
       "source": "Ayobami",
       "pubDate": "Sat, 26 Sep 2026 21:52:06 +0000",
@@ -29,25 +85,11 @@
       "category": "Security News"
     },
     {
-      "title": "NIHTE urges AI, intelligent transport systems to curb Nigeria’s traffic violations",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlQxTF9fNUNpMUxXVFBLRmxNaDVDbkJnelA2QzBMLUp2WDhwb1JTancxUjBZT0tPMEtTWk1PdnFoYlN0cXlGU2U1WkZPTk9zV0VHVjBYN3ItVkdpdTIwellUaGIzQm1tRlRRSmszTF9IZEFfUWFoTGl6V1Z6MzQ2Wk8tMWE0OWJGSFFlWDBnanQtejk5aU1SXy00VW5TOHZzSWpRbDNyUQ?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "pubDate": "Sat, 26 Sep 2026 20:12:29 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Foundation Unveils Cenotaph For Fallen Heroes 34 Years After C-130 Crash",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbVJ1Z01NNFd2MzMySmdQaFhIS1N5cUFHTFJJOWVFN1E3YUdGTldQZC1BSE1RVjJJcnJIc09xYUxuUUNNRzB1cVVFZVM4azE4X2tWRUR0V1pOb1V6U2V4Z2UyZUVRcXVjRW8xaVpWYUtPcGs3NmxaSXpGa2RGY1MtellpV01HY0VFTndRbDIzQi1BckJqYmxV?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Sat, 26 Sep 2026 19:52:28 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Top officials among 17 killed in DR Congo air crash",
-      "link": "https://www.vanguardngr.com/2026/09/top-officials-among-17-killed-in-dr-congo-air-crash/",
-      "source": "Henry Oduah",
-      "pubDate": "Sat, 26 Sep 2026 19:41:44 +0000",
-      "category": "Traffic"
+      "title": "Germany, Nigeria deepen co-operation in cement, mining, steel technology",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGMtaDVFNnV3c3NUc3JFVDk2dEpxT1FYZEtpMXNBNnl0Q3FnTXVkdHZicVY1ek1wc0lVRVViNkVMLVppdXNDeUp1WXYwOXJlQ0d5RVVaTl9JSHhTdUZRdkZFek4xVjQ0MjZPUWl5NzRMdzltRTFTbTRRWllOcHVKWGV1R2paQl9POHNlQnVVVThEdWVJbWdYNUpHRQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 26 Sep 2026 18:48:00 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "NSCDC arrests man over alleged defilement of 8-year-old girl in Kebbi",
@@ -57,11 +99,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Germany, Nigeria deepen co-operation in cement, mining, steel technology",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGMtaDVFNnV3c3NUc3JFVDk2dEpxT1FYZEtpMXNBNnl0Q3FnTXVkdHZicVY1ek1wc0lVRVViNkVMLVppdXNDeUp1WXYwOXJlQ0d5RVVaTl9JSHhTdUZRdkZFek4xVjQ0MjZPUWl5NzRMdzltRTFTbTRRWllOcHVKWGV1R2paQl9POHNlQnVVVThEdWVJbWdYNUpHRQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sat, 26 Sep 2026 17:56:25 GMT",
-      "category": "Military/Security Operations"
+      "title": "Nigeria's security crisis: What's the way out?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
+      "source": "DW.com",
+      "pubDate": "Sat, 26 Sep 2026 18:16:23 GMT",
+      "category": "Security News"
     },
     {
       "title": "NSCDC CG Assures Full Cooperation With Probe Into Deaths Of 37 Miners",
@@ -106,13 +148,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria Extends UK Special Passport Intervention Deadline",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pOaVZvM1FYMk9rUFNUbFZ3M3JkR3JKYzhqMTJvMmlhRkl4TWNKc1RnRmRqUTFxRS0wV0lsbno0STdzSjY2Rjk5QjUtOHB0ZHRKN0xTeGhva2lIb2dOTTNpUlZ0RFVXWEVINmVzeEtBaHBDWmVqenJ5Zk5KcmtHY05lYw?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Sat, 26 Sep 2026 11:29:20 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "NSCDC officers to remain in custody for two weeks over miners’ death",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2pVbkJtSnA4NGx2SW91VkJ4WTk2MG1xUEl5bVFGWFd5em4xZEJaazNSZWFUQVhicVVBRzE5NmNaMFdMQmtWWGlESFhPRDA3NXhrcEx6cWx3MW9rTGljT0NudXo4b3ZET21yMWlPa0VfNmxSeC1lZVFNVWIzT28xUXI4d0RncV9NMU9jVU1FTU01X0RqdGpMUFJ2UlZITHJnY0c4LWFzazVKRGM?oc=5",
       "source": "Business News Nigeria",
@@ -122,7 +157,7 @@
     {
       "title": "Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUdGbWRGVDdsZ2FERklHUWxIQVBUZ2tvb1BOTllJeFVWUlBTdGVvUDJ4SjN2N0V6QkZFSUJfS1VwRUp2SEhjbVhRbzdOeFdOT2lvX3hPMDBCWU5ueHJZV2RkdTEwcGpZNU9HTXdzME80cVVGOEc1QXBzWXNkeHFLazNZOThCLUF0NnFxb1Y0blJ2TnVIZnR6TUx1YVNfUGJqc052TWlhdTI1UEU4Xzhfb2N3TznSAboBQVVfeXFMUGFObzZzeWpZTmZUR3doM1J6VXJTNEMtcHRhOFd4ZjUyODVwWDlUQTgzWDl5MWRJWmVOSXBpcU1kR0pQN3BfTGZLLWFmVGtwQkxqWm5wbXRfcVRKTlNPMnYyNUd5MG1Qd2dfcEpCZEZqMUg2bjdXbUdadU16dTExOWhFblhVMHRxQUFvbnplcFBxTVhEazk3RlFQT2RvS0VJNnJ2T3Y4S3VVZ1JrdWxlMFhSVG96Mm9UbHln?oc=5",
-      "source": "aljazeera.com",
+      "source": "Al Jazeera",
       "pubDate": "Sat, 26 Sep 2026 09:09:40 GMT",
       "category": "Traffic"
     },
@@ -164,7 +199,7 @@
     {
       "title": "Ogun 2027: Adeola unveils blueprint, pledges jobs, security, healthcare",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUpTNmJIOUROWk41d1JyWVJIYUpxTzZqZ3RGNV9HZ3I4TWllT0s5dVFUUkl6b2dYc01lX0lzMkltbFkyTFRuTkNjdVFqa3NXZXhvd3dLUGdCWk5tRU1YaHp4WXhQelRHaWthS3RDREs4RFZhNlRBaG5BMzE2TGdaYlpCMFRRZnlwSFBuMDdJak03TUtHeHFyMDNENFdGWm9MY3lSN1p1VzU?oc=5",
-      "source": "PM News Nigeria",
+      "source": "pmnewsnigeria.com",
       "pubDate": "Sat, 26 Sep 2026 06:29:56 GMT",
       "category": "Security News"
     },
@@ -176,10 +211,10 @@
       "category": "Security News"
     },
     {
-      "title": "ECOWAS Lawmakers Seek Stronger Powers To Tackle Climate, Security Crises",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXFaZlNackZHTFBBcnR3YUJRZW9nWWYtbXhhRVg0U0dGMENjTjRWU1JaR1d2Q3RQYXN5ejhlRFFodU9vcndXeXp2WWtzZXEzREZfZV85YWo1Wm1OU1NUUXNPMi1KbXJsdGFBTHM3dFRxMHUzOTc5MDFzU3NacGRSZENoS0FOQ05qbUUzU04ycTlVdUZzT0E?oc=5",
-      "source": "News Agency of Nigeria",
-      "pubDate": "Sat, 26 Sep 2026 02:28:45 GMT",
+      "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemlQSDkyZEJhcE9SOXpETl9RcE1hY2hBY3ZKaVhNX1BCUkFDTHJYZWdnOEsxOEJ3U09tWXNWNVo2UDBMYWZPYnFhRGJtZTRYaXdBVnZXUHgydGpXdWVwb2xTRldwSnlIVzhkT0hkUHFiZ1F3eXpOdWhzRUZyN1ZMN3YwTF9IdGhrbDRlaUstTWY1Q01RQkMwNEtpR2hsd0FOcVRtNDdEdVdia1R6YkZKWV9R0gG3AUFVX3lxTFBtY2NIaDVUVk00bzNhYkd4LTBMVUtQTTRBUWVDTnhyLWtPSW1GZWNHLWlxV3lEX1FSVUdlREdTVFNvWDBObkxwRlVSTHR5Wk9qcTFUX2pjWHU3eXE4NnBvMnY1WmlWS21pWVBEOW5Fd3EtYnJsY3FSamdHUE9IQmtNNjM0RDk2NG5Qek9mTm5NN2hldXJRZkp3NHE1dHozaVFrTDZGcnhyMThHYTFubVBpZGFBcGpNdw?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Sat, 26 Sep 2026 03:15:10 GMT",
       "category": "Security News"
     },
     {
@@ -197,13 +232,6 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria seeks stronger global partnerships to tackle security threats",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHRsM0toUGlQTGhJLW5xTmxteWxlSkoycl9sVGdTcTFPaDZyRGJYR2pjRzdFMWR3RDJBSm1Qc0tYdG9LSEdQSVRtdDd5OGNaN0x0eW1kSk55SXdaX1hxejItc0xzYnBJaHNoT1lvQmdtaTVacVZudFVQbVRCTTdhZ281UDN0NVBDb2gzdWUtZlgxVXdDX0tXV2RYMkd5R3BTdlNSOURQTEJYdw?oc=5",
-      "source": "Business News Nigeria",
-      "pubDate": "Fri, 25 Sep 2026 18:59:45 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "Tinubu Calls For Radical Shake-up Of UN, Restructuring Of Security Council",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEVrckhxZV95Q2s3NUdIdXBUMWVIYTZxNUZ1emZ6cmVPTVc5WTRlb1ZYU25jVllaYm10Vkg0cnpWRGJZNFY1aEVnMW9vQThHaUM1dXgtNWlSUzBsTTA2bjcwQ05zR2FJRXRRdUJuaXR4Uy15T0ppZXZsSE12ZXlNN0pOdHY1OEFmUEN4S0d6R1pIUlU3ckxleQ?oc=5",
       "source": "News Agency of Nigeria",
@@ -216,6 +244,13 @@
       "source": "Sahara Reporters",
       "pubDate": "Fri, 25 Sep 2026 17:16:59 GMT",
       "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria seeks stronger global partnerships to tackle security threats",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHRsM0toUGlQTGhJLW5xTmxteWxlSkoycl9sVGdTcTFPaDZyRGJYR2pjRzdFMWR3RDJBSm1Qc0tYdG9LSEdQSVRtdDd5OGNaN0x0eW1kSk55SXdaX1hxejItc0xzYnBJaHNoT1lvQmdtaTVacVZudFVQbVRCTTdhZ281UDN0NVBDb2gzdWUtZlgxVXdDX0tXV2RYMkd5R3BTdlNSOURQTEJYdw?oc=5",
+      "source": "Business News Nigeria",
+      "pubDate": "Fri, 25 Sep 2026 17:02:37 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria pushes sustained dialogue with Mali on Sahel security",
@@ -260,10 +295,10 @@
       "category": "Security News"
     },
     {
-      "title": "UN Security Council: Nigeria demands two permanent seats, veto powers for Africa |",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRFBpR2p4UFUtaVFNXzh4Qy15a1prZENMS1ZSRGNyckhwSHE4bGdfU0FlWG83OGcwaG5MTTZETXFFLXFtYXQ0YkxHX3A2QXVCdldjN3VCRnZwaHRpQW0tQjJuY0xCdXhmZVZQdXNodU9UT3NacE8xazNDMHhqQ3lBNjBnRmRKOExJR29OdzBwYzA2VXJLV1gzUHVrOXZVcjVhc2NKMEszS1c1SVkybnc?oc=5",
-      "source": "theeagleonline.com.ng",
-      "pubDate": "Fri, 25 Sep 2026 12:05:31 GMT",
+      "title": "Anti-migrant protests in South Africa: 105 Nigerians arrive from SA ahead of September 30 deadline wey anti-migrant groups give illegal migrants to comot",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EY2FHQmtqMUN0T2FuYlVMMDFCSF9lelRYOUdjeHZEeXdaaGp3Tl9pT1VVa0hfMFRkNUMtclZ2c2VQM1N2RXJkS0RoclA2N0JEb0JPQV95bERWU2p0TnfSAWNBVV95cUxPS0c5OERTMnJvV2xxMldhdGtaSWhOVmhRVnVEeEhsMXN1NjhCUjdZWjZUclhxQ3VjWkpDWHJ3Q0NzRGlyQnlqaHpSazVzX0d6cUg3ampYS0JJcU5jOVdZOHByTkk?oc=5",
+      "source": "BBC",
+      "pubDate": "Fri, 25 Sep 2026 11:50:12 GMT",
       "category": "Security News"
     },
     {
@@ -311,7 +346,7 @@
     {
       "title": "Shettima: Strong national defence alone cannot defeat terrorism, cyber threats",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEE2RUM0WWNfdEkxbWpMT1U5NVJJS19lRl9ReWdBdHRKbmpWaVB5Mm1ReWxoYmJod3k5eGZpUHFjWWNFS2FMU09IWnF0dzJNYmxmUTlUTWhMUlMyNERUbmc2RXluQmdySE1ybjJiaE1mRGduQXZWWXZ0RGoxRm96QjVpd3p6LVlJcEVaNTN5Zm9pMmxZbUlOWUxBZ0psSkJMRjJrS3JDc3JibHF6TWZoR2NtZkY?oc=5",
-      "source": "PM News Nigeria",
+      "source": "pmnewsnigeria.com",
       "pubDate": "Fri, 25 Sep 2026 06:37:41 GMT",
       "category": "Insurgency"
     },
@@ -327,41 +362,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX0p6dW0zZlczS3NybkRNN0VSU1JnM3JrWDdkLVMtMHp1T1U0QV9URmNSdXlySU9vYVZybm01VVJRTGZySlpLQktIZXBfcmRMZWJOdDRVLWtxVUFtcmJYWHJ3dTJHb2ROMlVVV2lUbE1jVVZEdkMwc2RONHNFUjhRaV9TWnJiNjlrcVZCSmF2MFNCMmJ6NkpFanhWcDh2Z1NTbzJKNVlueDF4Q3RwS0puMXZxM0pWRnNMa09sNGZqbzk1S2pDcndOb0FweXowa0hOMThjT3lB?oc=5",
       "source": "News Agency of Nigeria",
       "pubDate": "Fri, 25 Sep 2026 06:22:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "UNGA: Nigeria seeks whole-of - society approach, international partnerships to end insecurity",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEt2MmZCRkZHdldOUUQwbldYSmV3ak56eC1tOWx6TDFjcEJycEJvOWVsdlVoV1hOTHVPZmtleEY4SnFLSWZIc3VkOWtnVEpCU1dOdExidTVXMmY4bnRXYnRRZm5WV1h5NHpydFZ6OXgtc2RYT0lneWJ2d0ttelFBaUFocmh5ZXVuQ09ZWU1ZSjV2elJDei0yck9HSV9VZ2Z2TnRZSXI4eUdXcHN4VENCWQ?oc=5",
-      "source": "Blueprint Newspapers",
-      "pubDate": "Fri, 25 Sep 2026 05:06:02 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Tinubu, Guterres, Ruto renew push for African seat at UN Security Council",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVpzTWUwWnpuS0FIdVJtNkE2OXI0MGZHd2xXR25KSlpMc3FSb0FKdmNtNkdVOXRaa0FPcnk5cUVMOXEwakROVkt0bEtOb2RjY1l3MFFSd1pKMmNJOHZfSl81dUJzRExzUGpXcmZwb2VzeENFckpTV05OVlNNTHBzbDRiUXloVy1HU3o3SkxPYXRGNXhwWjIwbkJKY1hnUQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 25 Sep 2026 05:04:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "st UNGA: Nigeria Demands Two Permanent UN Security Council Seats For Africa, Veto Power",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ05UcEwxQUYxWFZXeXY2OWNnWUg2NkRSa2RjSmZBSXBRbjJyOUJiU2Z1NEMwZ1hoUVlXT21hSUpsTWhBSTh4aGZDam9oNUt3VDB1SndxbU1pckY3aEx1d0tsYnppTk42M1V4VWdHVGdaWTIyUWxhTVJRRmhiSjBhc08wR0p0eDZjYVE?oc=5",
-      "source": "Channels Television",
-      "pubDate": "Fri, 25 Sep 2026 04:55:54 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria to UN: give Africa two permanent security council seats",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUg2RXFIdHBNRktwdHVJYXJJV2d2TUVWQXcwbnY5eGpxQXpPRU1aTEdGdzZXblprbE5LdmFaV0JMaDdXOVNTRkNNSEVnQVVobDc2OUdNb21yM2NyX29yUXF2QWVrLTJSbllMU3RKME1OSFFqRFJEdDdtY0N6Q19WVXc3RlZvY3pTdFMydGxrb3k5U3AycTgyMNIBngFBVV95cUxNcGswTXU2eUhtR2ZtNDdwUlhaQnpJVFN0MFhNdENRY012ZUJMbzJIRlk5LVJLOW5pWFdQaTlJSklRZHZjeUFpRGZVckUwNmg1TGtheGhvbENNZTQyVS1HRGNEaDltWTVwUGduWm90dng3ZHI4ZmZESXlqdGlsMnZZaWVYLVVma2Q1c2JmRVBIdjhTTGZuOXdLYzF0a0Z0Zw?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Fri, 25 Sep 2026 04:46:09 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria demands 2 permanent UN Security Council seats for Africa",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3NBcHh1enVwUzhWU0JxVGJxSXdIZ1R5UFlfSzZCd0xnQTdJclhMQnY3ZHpoclAzTmpzbXNoY2NuaUVEN3ItMjh0TGlSU0ZlM0prUmlTV0JSMXBKa1lUU3VGdFhQbE1FMHAzVlhMbGt4cEh0eVExbkMzOU5CWnEySnlIM3FZZlRNS19xWV9qT3lKUQ?oc=5",
-      "source": "Daily Trust",
-      "pubDate": "Fri, 25 Sep 2026 04:11:16 GMT",
       "category": "Security News"
     }
   ]
