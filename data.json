@@ -1,55 +1,368 @@
 {
-  "timestamp": "2026-10-04T04:45:17.741Z",
-  "generatedAt": "04/10/2026, 05:45:17",
-  "totalHeadlines": 6,
+  "timestamp": "2026-10-04T11:53:55.105Z",
+  "generatedAt": "04/10/2026, 12:53:55",
+  "totalHeadlines": 171,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Law Enforcement": 2,
-    "Kidnapping": 1,
-    "Security News": 3
+    "Security News": 110,
+    "Law Enforcement": 22,
+    "Traffic": 4,
+    "Kidnapping": 9,
+    "Armed Conflict": 7,
+    "Military/Security Operations": 12,
+    "Insurgency": 6,
+    "Banditry": 1
   },
   "headlines": [
     {
-      "title": "State Police Bill hits roadblock in states",
-      "link": "https://www.vanguardngr.com/2026/10/state-police-bill-hits-roadblock-in-states/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 04 Oct 2026 03:21:13 +0000",
+      "title": "Army Honours Late Obiakor’s Peacekeeping Legacy",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9peFFIc0JpcERzalV3YWQxQ2VSaHNzRDVVbFlrZFJiWU5mZm1wa0dTY2dJNmFYbEc3UmQ2NFRlS011MXN6MlRKSDZvZDFOXzdoaVRTMmhPdGdaQ3V2TmMwNEp3cHVrUTYyaVJXU0lqQTBXakhL?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sun, 04 Oct 2026 11:50:04 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "footballers who served in military before football fame",
+      "link": "https://www.vanguardngr.com/2026/10/10-footballers-who-served-in-military-before-football-fame/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 04 Oct 2026 11:16:00 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Police arrest two for alleged assault, obstruction of officers in Bauchi",
+      "link": "https://www.vanguardngr.com/2026/10/police-arrest-two-for-alleged-assault-obstruction-of-officers-in-bauchi/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 04 Oct 2026 09:59:01 +0000",
       "category": "Law Enforcement"
     },
     {
-      "title": "Parents of abducted corps members beg Olubadan: We can’t raise N1bn ransom",
-      "link": "https://www.vanguardngr.com/2026/10/parents-of-abducted-corps-members-beg-olubadan-we-cant-raise-n1bn-ransom/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 04 Oct 2026 03:14:37 +0000",
+      "title": "Tanker inferno kills one, razes shops, vehicles in Cross River",
+      "link": "https://www.vanguardngr.com/2026/10/tanker-inferno-kills-one-razes-shops-vehicles-in-cross-river/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 04 Oct 2026 09:54:29 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "South Korea captain ‘deeply sorry’ for gloating about military exemption",
+      "link": "https://www.vanguardngr.com/2026/10/south-korea-captain-deeply-sorry-for-gloating-about-military-exemption/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Sun, 04 Oct 2026 09:22:33 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "NYSC Abduction: Insecurity mustn’t become a norm, says Obi",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN09OUmlYTEVrVHRkRVJlaThNZUJodllsTHNkM054UTkzdGE4bUs2YWFzWjNXR25pTVczTnY0Q0FCQjlMNWlDSzRJRXR4akplSzdoYlpaNnA3TTJ0dE15ZG9HcEt1YXFmTWZ2LWNNYnFOV0RPYUJfVS1GSXFaYTJjQ3NxZnhubkhfWkFWUW13?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 04 Oct 2026 08:51:16 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US Congressman Hails Reported Arrest of Plateau Fulani Leader; Nigeria Yet to Confirm",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUhhdmRzZVl4N3lhOU94N0pVbWdpZHNxaExaQ1VQLTJWOHk2ak4xcDFZdzBCakFCdkpJTHVfaUZhcU42RGR0U1M0NkVYMVZWdGlmYWt2UTR6Q0xUcC1HRS1HdkdrdTU5WE9KaW9PaHhRbXptQzhqWjJRc29rVG5NNEhZU3FlTzJmcGpWaTJsS3cwVU9RYzNPVg?oc=5",
+      "source": "Modern Ghana",
+      "pubDate": "Sun, 04 Oct 2026 08:48:58 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "How Tinubu ran Nigeria during four-week trip abroad – Shettima",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGRuanV5TTByVUJZREFOR0tYVFVhQnoxSkdrT2ZmV0RWNGhvMnFEMWQ2N1FGc1VzQ1FGaXdocDc0YklhRWh1X082ZlRuazhoeDJwVmdMTE9mdDRCcG1SWW9FODhHWDVDLWhPS1FwcTY0cUlBLXpNZ2NjM1ZxeDFrQXB0NHJMd2Zib3V1ZDRmSEh0Rlp5YWozNEdjaHcwTnRYRjVqOEdibnFKLWJpeFRWVGE1MnFxM1ZX?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 04 Oct 2026 07:51:52 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Imo police locate abducted NYSC members’ camp, IED threat delays rescue",
+      "link": "https://www.vanguardngr.com/2026/10/imo-police-locate-abducted-nysc-members-camp-ied-threat-delays-rescue/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 04 Oct 2026 07:29:50 +0000",
       "category": "Kidnapping"
     },
     {
-      "title": "Benue Boat Mishap: Govt arrests boat driver, suspends maritime workers’ union",
-      "link": "https://www.vanguardngr.com/2026/10/benue-boat-mishap-govt-arrests-boat-driver-suspends-maritime-workers-union/",
-      "source": "Oboh",
-      "pubDate": "Sat, 03 Oct 2026 21:57:31 +0000",
+      "title": "LP to Umahi: Stop attacks on Obi, focus on governance",
+      "link": "https://www.vanguardngr.com/2026/10/2027-lp-to-umahi-stop-attacks-on-obi-focus-on-governance/",
+      "source": "Nwafor",
+      "pubDate": "Sun, 04 Oct 2026 07:12:56 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nwani: Fix Energy, Security, Roads and Nigeria Will See ‘Exponential’ Change in Six Months",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm51RmcyRGMzSEhuTG1hQ3A1clRwdDhfbmpRZGg4SHF4bGwxOFZUSGdXczh3aHJoNWtOQ1YwSS1YVDlWdXZyMmtIcVpnYWJHT3d0RHFRcEdNNmlkbDByRkhiX3dsajczdHNqSGQ4bG44ZWIwdHBnZm9QNENLbGVSSTJPVVNUWXlPSno0Sm1Hb19LUm93MGVneUxGOE83d1NtVHIzdHJpQjlHVjA?oc=5",
+      "source": "Arise News",
+      "pubDate": "Sun, 04 Oct 2026 07:00:46 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Boko Haram weakened but not defeated — Gov Inuwa Yahaya",
+      "link": "https://www.vanguardngr.com/2026/10/boko-haram-weakened-but-not-defeated-gov-inuwa-yahaya/",
+      "source": "Akinbayo Wahab",
+      "pubDate": "Sun, 04 Oct 2026 06:44:14 +0000",
+      "category": "Insurgency"
+    },
+    {
+      "title": "US Congressman Moore Hails Arrest Of Suspected Fulani Terrorists Leader In Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2V0SDNsS3BaYVppVGF6bFdxMG9uTDN3SEg1MHlmYXRCN0RWZG9FaXZBRklLZVQzS0hza2NZdWp2OHE0TkRVLUo3cUNmaDZ3SThIeG4zb05zOFV0YkdNbTZUOG9YaGtRSHpBQ3JneGs3TlZpRFNOcGZqMXdHUlp2SWRvTnlqSGEyVkVVR3l3QTJ3bTNrMS1LLVpYQ3lCSGRJVTJJanJwVXFkWXF2SnNndldvOGNydw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sun, 04 Oct 2026 06:33:45 GMT",
       "category": "Law Enforcement"
     },
     {
-      "title": "Israel targets top Hamas leader in deadly Gaza strike on anniversary",
-      "link": "https://www.vanguardngr.com/2026/10/israel-targets-top-hamas-leader-in-deadly-gaza-strike-on-anniversary/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 03 Oct 2026 20:54:37 +0000",
+      "title": "Insecurity: NSCDC warns Nigerians against fake news, inflammatory social media posts",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWlRaU45Q1pNbFh1ajFPblNicG5tX2tPdTBLLVRfcmhlbGJHa2x6cXlEY25QdExSZTdoWGo4S2FQYU85QkE5MWpWNXVZb2xSb29BVVZXblNONVVsVktNNVhjd0RGRTNaRlh5Y0psZkhMZ1ZlcnYzZnFMUjVwMDRGRWFHR19ZUm1yYjVaX3RsOVdPZk9EclAtd2xELXBTTVhpMllucE1hQXRWdw?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Sun, 04 Oct 2026 04:33:10 GMT",
       "category": "Security News"
     },
     {
-      "title": "Ajadi urges Tinubu to resign over insecurity",
-      "link": "https://www.vanguardngr.com/2026/10/ajadi-urges-tinubu-to-resign-over-insecurity/",
-      "source": "Nwafor",
-      "pubDate": "Sat, 03 Oct 2026 20:33:32 +0000",
+      "title": "Elections: Amnesty International Accuses DSS, Police Of Ignoring Edo APC Chairman Who Issued AK-47 Threat",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFZNTS1uQ0Q4OUg3TTB6dG1hSXJMczZHR0tJdlJFTkRDTjViRXFQTTdtZ0lPOEkxU19EMU9OVnRGTXEyYTdwQ2FILS1Ob2hJaG9oVGZ2ODU0RzhxbzRKdk1pOV8xSDFYMVFBVERIM25PRm1xMFhweDFxSjJJODFEXzI3ekF6RTc2bmZaalRaUEFVT3lOSWlDamRsMWxmbzlXT0V4X3RkRHo1WS1nR1VHZEE0T1d1aTFfdmVtem8ydkNOZw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sun, 04 Oct 2026 02:33:21 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "TINUBU’S ANNIVERSARY SPEECH AND NATIONAL SECURITY",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0ozQmtCbm1mNlFQOEtfMXcyM3FCRmR3VGJGZmV6LVE1bDhJa3pUbTE4VGt1UmFMUlZmQmZWbTFEOTNrTl9BQ2NVd3lfSGE2WmFmNEtDWGZzdDgzWmZYOWNuSGJRMG9YaF96ZjAtX1NLWEh1a3lSVEh2bGJOS01pX054RUd6NGVIcXJmWk9ORzNVUQ?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sun, 04 Oct 2026 00:53:33 GMT",
       "category": "Security News"
     },
     {
-      "title": "Wike accuses Amaechi of using mother’s death for political purposes",
-      "link": "https://www.vanguardngr.com/2026/10/wike-accuses-amaechi-of-using-mothers-death-for-political-purposes/",
-      "source": "Ayobami",
-      "pubDate": "Sat, 03 Oct 2026 20:16:02 +0000",
+      "title": "Nigeria’s disturbing maternal deaths",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUWpqNWNHU3ZnRUc0cDZDdUFjSE1YNnJGQUtyRVpUUHBiNUlsZkhmQXNHQzRfbDFXNWdjMVpXaW5idVZVNzI1SU1mWVBTdlM0bVZqQlFlVVJGQXREZ0Y1aURyaGI4RWc?oc=5",
+      "source": "punchng.com",
+      "pubDate": "Sun, 04 Oct 2026 00:29:13 GMT",
       "category": "Security News"
+    },
+    {
+      "title": "Irresponsible Use of Social Media Fuelling Iinsecurity, Say NIPR, NSCDC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlZWTRmbEhyZmk4OThfU3JLYWVLSDRSQWVyaThlS1dqdGRfMFNOQTBfTEE5My13SVR6WElqY3NnOW9EYWFWeVM4YWdpUHYydTBrN3BaTlA2bU53cTBzaGVaT3pXOU8yRFgzNHhMWFhYUEU3ODE2S0lZaG1uV1JWdGtnSTVmRk85aEZ0SDVFd184M2NGRTVDTGpzN0ZKSXVva0YxUEIyOXVKdzh2X2c?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Sat, 03 Oct 2026 23:33:37 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Groups caution against blaming NSCDC boss over Niger deaths",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRzMwT2QwU1dDMFRCejF3OGhXSkFNcXBSalZzby1wS29yTUZwek5XMXhLN3pSQ1RzcF84T3RuX1pKanc3UjlPWUpxdmdXTFo5a3N6Q3E3SEEwb3Z5cnpUeW9rWlV0eXVDZHp2dWRZRExERkM1cXowZ29CbXpNeFdyeHpmVjVzTW93S0RiblN2eVBibFBONm8zMkhUWHdJVkZOYTBoNFUyWjBXeFV1VG1CbEt5b05TMXYyLTdXdEZwdw?oc=5",
+      "source": "punchng.com",
+      "pubDate": "Sat, 03 Oct 2026 23:13:49 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Army, Police, DSS launch aggressive operation to rescue 20 abducted NYSC members in Imo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQckd0N3E0Y1IwZ2xfdzhLNUUyc1VRMndmSC1WOXcyRnJoQnptUXdnSGlkTEZ0N3ZlanNOT2NNUU5VcUFKSHNubFp0WlNwWm9tWEpxdTZlSnNfT1ktSC1jaXcxT2dGLThTZGJ4SlVDOW85WlUzdWJYblpldUEzbzNCS3JIdXZvZF9LbDZzOTVSN1pwZjNia2lWMnk0TnNSaDN6UlhnZ1lQM1pfYXFUdDVaT0F6dVhmMm5lNS1fWTJQVHV2QUFCSENXa21LVDI?oc=5",
+      "source": "zagazola.org",
+      "pubDate": "Sat, 03 Oct 2026 19:42:56 GMT",
+      "category": "Kidnapping"
+    },
+    {
+      "title": "NYSC Abduction: Makinde Campaign Faults Tinubu’s Security Strategy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlBMWVlJd1Y4VjZ6SWYyTjlpNzA4OXNzMHF2SzczVnZhZTBoSEg0UGhZNTVONm1SeTUxc0lsV2FldS1lNUZfSml1TDNoeV8zTm9WOTkzV1RGZFAtNEdZVm1jSHMtWklMaW0weU85MDM2dE9WemFmU0ttSk5uUkRuaDN2cWVUbGozOThoQWIzSlp2Zw?oc=5",
+      "source": "The Whistler Newspaper",
+      "pubDate": "Sat, 03 Oct 2026 17:48:19 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "DAWN, Akeredolu Foundation renew calls for state police",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTJqQ3ZRZkJTYU9aLU1WNFlOMW5TSnQ0dXFPem9KcmFXRHc2STJsTXh4Sk9DWE1xYjlhZFVQSEkwdkxISjFTWDZudExDaXQ4YjQ1TEtNcGYxVzVEdFpuNGg2SWp1ZmZjaVR4XzhMRTBPSUYyZXZSZThoT1RwSUFtRm90WjloRWc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 03 Oct 2026 16:24:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria's security crisis: What's the way out?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUcxdjdpdzZOSnBNZnhzRGxWQS03c1Qzb3d6V2ZIaUh2dnVVbkE4M0RFTzBINWk1dmFhMFE4YVRBZ2oxanVzaEJKeXpsYTdRem1wcXk0Znp1UGRmRi1MdGhPRW5SeDRETDV1c3ZMOHZMcGJQdVNONnJKclgtY2tqUXBrSTRXUQ?oc=5",
+      "source": "dw.com",
+      "pubDate": "Sat, 03 Oct 2026 14:04:26 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "WPRF 2026: Misinformation on social media fuelling insecurity, NIPR, NSCDC warn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlZ0Wmh6aGt4WkxGUmV1ZEhRVjQyVFFyU0ZJRGJwb1g0bDFPNWhzeTd5MGJsZlhsWjltWDFLalU1NmhZN1JlbU1PcGE4bllzbHhrNnlwTGtoMlRhejNoRm1WdG9pemRSS0h5TkFCWFp0d010SHMwamEwaHNNaF9ZQ3BhZ3g0X1UzVTQtdDR6Rkt5eTc0NFF1RTBYcThBSGRkWFg1Nw?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sat, 03 Oct 2026 14:02:00 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Road crash kills 20 people in Nigeria's Plateau state - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlEyMHBhMl9XaFdMb2JzQTBRVm9DQm5XQUJ1OUw3QmNxMWpybXYzMjg5OG1ZNjd6YzhZRFBhRlVVYmdPV3hObFd5TkxHN200aGU4MlB5UlQzbDU4X1NOZXhYTVNUTUo5cnk0VmJVcmZEUlh2WjFaaE5sTXVkeC1EcDJXSjYzWmVxVW01bDFyMjBDd0ZGOFRsd2ZlYWNPUURSNHd6TWtR0gGrAUFVX3lxTFBRMC1hV0FoRXJNeEV0N2wxSklmYWJEQW85bG11ekh0Nmt3UHVSa1pEbUNmQ1c4LWlwODRybzJNTm5zcWx2amlSaTc1bmdLQVExcWRzUWhvTDJSVExRNnh3cElJVXdkbHVCR0szREQyRXFHQmV6cDByNUZVcmpkZjlmNkc4SXBIREM5UTEtdzhzcURqNkZVRllSa2dDQVRybXRxTmMxN2pnVHNkaw?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 03 Oct 2026 12:10:03 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "US lawmaker hails Nigeria over reported arrest of terrorist leader",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0J6MEcxc05qWmMtaEc5bDZ3XzE0OFcwOFNDeGVTbEkwajQzUjVVNG9PelFScFhmM1ZuLS13ekhWY1JZOUhKVElrem91d1pJM0l2U2NkUGhuUy1XZko2ODdiNUlDQlJ4WWtqZDBic0xnNlVCQk5PS2ltWXpfRjdjWi1mQ0hIdy1fMjNaTWtIbG5tckZHNVk0UGpqdl9DaEty?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Sat, 03 Oct 2026 09:08:58 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Youth Confab Links Social Cohesion, Peacebuilding to Security",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUtzSWhQVlNvcUJYT2o5YVZla29Dc3ZoblpqYVI4dHFfRWVuUlBmckg3andrdGdURGtwbGFsMnRobXplU2Z6Y1dZTGpqQV9TcW82cEFMbHFJT1p3MnJBT3cyY1hRWWpOMHN6MXozeU1jTFhBOFBVMHhVZjlqcV84Tlk4cm8zZTQ?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Sat, 03 Oct 2026 07:38:52 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "US lawmaker Hails Arrest Of Alleged Terrorist Leader In Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDFHNXVkY2c2akt3VU1OeTczeGdBME5FSlQ1RE9sYW5YSU9ZZDh6cVZXdHZZUGxNWTVJSUxNZ1VkbnoxbVl4Vi1nQWRDU1RSaGZoVng0UFJCTnV3VGQ3UnJLRE1mM05YUm52dUtHdTg3RHRTbzFFTXFrSmdMNlJwWjF6SEd2Zzg3cm5yMWxxSWU?oc=5",
+      "source": "TVC News",
+      "pubDate": "Sat, 03 Oct 2026 06:55:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Criminals evolving faster than police, Nigeria must upgrade security architecture — Frank Mba",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0p0OUZ0OFVHTlV6TGpqNXNhTmx6X0NvdzhRb1o1SkRfQTdGRk90Y1o2M1hOXzFXRGdVMnNLT3JqRlRPak1Hb2xhU25sd1dCTnFfNHFpRzU1ejhZT2xSMmJxbXdwRFhydVlHb19XV280RWdDYmtvZC1BMzlFbEt1REFOckJod05Rdzh6cGhhYVlxcUdRbjBsdVppUktJNmtibFhrc18yX2hkRUJES1NQT3Y2Y1pDNTBhYWM0MHhR?oc=5",
+      "source": "theeagleonline.com.ng",
+      "pubDate": "Sat, 03 Oct 2026 06:25:17 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "State Police: Bago, Tompolo, Moghalu to lead Reps debate",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlpxSEFidGRzekJ5LXVIZmpVeVZZTV9RYm0tOFRHczdKNngxQ3U5bS1HUVR2Mng4TFBMMWRWOTVSSlo3cnFsUTBzSHRrdkVkSXFBcXE5Z1lwRDBKUkpvUWRxUlktZm56MDYzZjRfRUx2MDVvUUpvUWhmRnh1ZUhUSXl4VVhzYm43OWNmNNIBkgFBVV95cUxPYVFHejRlNXhZSjg4czAxQ0tGaFNxTjJUS1hjcXp5OU1oVXVYTk5lSnoxcjVtX1JlZU1SVlFoR2EycmVtRVBWbUR1aUlrV2V4cnQ2NlZRQUVEeDJBWTlBZHoyVG5la3c2Y3RlcDRoQ1lheUlLVTdwYXg3ZTAzSEFqTTVaU0RhX3pZQl9uWFZrN1NGZw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Sat, 03 Oct 2026 05:11:05 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Who can explain NNPC’s N11.2trn security bill?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWxoOWFFemNKWFBGcGdYcllkeHVqWVEweHNvQUg2Q25QMktlT1VUR1Bub2JJYkJCV3JPTFJJU1RSZjV6VE11aUZnZWVsZmRPTVNVcW84dG5NUW5DcWZSVnFrRnhIbUR0MTVQSXlBUGFzM2wwSkRwa3J6eDV0ajFWczQ4c3JFZExF0gGOAUFVX3lxTE5JQ2RWQ3hsWjVJejh0N2V5TXZNUV9Tc3d0S0hGS2xzZ0o0dlh2NUVCWDNpU2dybVZmSDYzNUpHRGtzMm04MVhYX3pXdWw4bFI4QlJPQXdNM1dETXRIYTRuOTdMZFNhU3ZOSjhDNWctZjVibE13SjBQV25YZlBNQW5WNEctOExjVmU5TlZSTEE?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Sat, 03 Oct 2026 03:55:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Edo Security Officer Warns Against Political Violence Ahead 2027 Campaigns",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBzUnpLSHllWV9qYXFPYThCSElYSGdFNGg1VjFnTTFEQlhiODJhVWNUbWp2R1oyd0E2M294UHVaTVYyM1dv?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Fri, 02 Oct 2026 23:07:55 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Mining Marshals Record 700 Arrests, Recover Over 100 Mining Sites, Says Commander",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SMzNHcE9JUzFDaTVPQXJndm83eVdYWWxjbF9kSE5zRHNuSS05N2EtUFJWa3RqTkswRnlySUl4aHZGVUgyMjFjQ0ZjemJGY19DR21TLWt1Q094UzhXejN0eXNjWlpSRHM?oc=5",
+      "source": "PRNigeria News",
+      "pubDate": "Fri, 02 Oct 2026 19:12:31 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Civil Groups Demand Transparent Probe Of 37 Suspects' Deaths In NSCDC Custody, Justice For Victims",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTDZjQVZCQVQ4bXlzc3R6NkpGQnJmMmVYY19DeHNZam0wQkZ4QWF5MmFfLWN5X2ZBcmxSZXNLZlk3Y2RNU0FDVzg0dWMtQkRPaWZ0MEUwQmNnb2ViOW0xT1ZxcEVzOEhYdzJRbUxuR2F6QTRBMFJMMGFPcFY2NkNyMnc5T2YzRTUxSnpocXhEM0NxeVBSdURrbzdUVHRRQkNURTZTaWMtUU1UeDRIM1k0NE1RUzBZYk12QTNtRDVOdURUOFU?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Fri, 02 Oct 2026 18:08:22 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Burkina Faso seeks deeper economic, security ties with Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEdTelA4U29ldW9rczRDZENKNHZNRmVWNlJFYURqN1duZ0djeXVvQ20zRkF2ZnpCOHVmSGlGdVBZR3V1Zzg1eXpvcnpvQ0pfZU5iRVBtR0g4VC1Cd3Jscm1ISnJDQkY2YWQxMElUakJTcEFfZ29zeEMwMnZ0RGJyQWNIVF9jS29EOXFNSE5WNGh3b2pxcjVJ0gGcAUFVX3lxTE9SLWI2dGozSXJyTVA5Z0xzTHRnYzUyci1ENVgtLWlrT0RXOTBVcXN4ZkZFU2daNGdUTXBtQXpkRERpS3JrVUtfZUc1enAzbVRUNExYVHNvUGhSZnFqYjBwcFRycWhtVWs3Tnl0UzFPRVhxcFQxVGM2dXdBaDV2ajB4WVQxd0ZNNlpxTm9MRUFMRHc1LXFUT0JGZlgydw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 02 Oct 2026 17:17:20 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Groups caution against condemnation of NSCDC over Minna custodial deaths",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjUyWWEtcGVJSEYwbm82LUFPUmZPVTVackRZUW1waWxfZl9xTTNkbWUyYWVFSmR4Q2VCZWh5MW9ZMnhlR1FDQXYtaHBRazAycXo1TER4RFk0MlBaUkVNSnFrNzIydHBuQkxqOExqeDBuU2NZcTUteUYxNnlKclBYNGNMTEFPZEtzR1QyU2ZXYXJMS0c2dFpqTmhCWkFkTmQ0ejQ5bTRB0gGrAUFVX3lxTE9ra1RtX0w5QVU1V205SE1LaWh0cGQtb3E3Tmd4VTdZUm9VZlpQM3lodUNjVHM1N3ZfRGhHM1UwTkJKQ1ktdngxRU4tMG5ST21Jd1BSMDRnNzJ5X2dkX2E3SEdFcXg5dlE2TVFYSFNYU24wOXpVLVZSM19PdU9yeThZNUtsNzJibF93YlZoX1dEMVZlUFVDYW1QLUdtZnBwZ0M2a0UtNVVCZWJIYw?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 02 Oct 2026 16:59:58 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Kano Police Tightens Security for Horse-Riding Events",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VbzFXSnJpRnpjTXJsYlVMcmFSTEVKSjAyc25Nbkh6RGc1XzJXQXp0bHZ3VGh0Xy1MTW1EczJ5ZEItUElicmxxUzB0bS1FdFpPSVdVVEZEU0NTWUpVaktNTVhFZXVNY0w5VnFGNVFZWVFIUENpVXhGT1pmQmdPdw?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 02 Oct 2026 16:28:52 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NSCDC operatives arrest two suspected car thieves in Kano",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczU1TU1PTGtfeWFCUVE1cUNOS1ZaSmNJdnNLUE5EbHZoTTJNaEpLRXRmR2pndTZKY1dmVmdkUnkwbU5qTDdqdGJwdGE5Ul9KSFZmbC04U3NDS1dWanlqSWtIaXFmcmFPSEpXNG8wR2RTQ2R1bU4yVHlzZzlNQjBXZDc0UEY?oc=5",
+      "source": "punchng.com",
+      "pubDate": "Fri, 02 Oct 2026 14:27:24 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Nigeria to strengthen food security under AgriConnect by 2031",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMU5BMTFIVllURW1CaE9FenRJaEtKdkN0VUNlVlFrZDQ3RVA3WW5EQTBmVlcwWkdvNHJzelFvd1VFOWlEU0RQbkxWLVlEMVQtRk8xYnQyYUI1Rk53ZlZXYzZhRTFRTGcybzQ3MTNvM19ZUlpTV1hmcVpUVW53R2I1NDhOZmhjSzc2MkFhLUV3?oc=5",
+      "source": "Milling Middle East & Africa",
+      "pubDate": "Fri, 02 Oct 2026 13:00:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Gov. Bago, Tompolo, Moghalu, Elumelu to lead debate on State Police",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlp1dUFmQ1ZRRE52SC1lTDNRakdXdFA2VVhjX3pyMVBkdmU4Q0JvdnF0WEMxQkNSaEhVOXdGWThHVTIwVmdGcDlmTGF0WlFVQi0ydm9tUzFyNHlNVFVFZ2lrZGFYdnpNeWFqUGtUVVptUlJMeHpoZk13aWFxdmI1d3VYcW9uMjFzMGI3RUZubUdHUDVyWXFleS1R0gGfAUFVX3lxTFBISzkwYVpXTC1waEp4RlhNNkJDZlZmV19aazVQWnVBR21SODJhVVk5aXRRRHFqOUJNSXoyM1dTZW9Ec2RuaEdrbnBhWk1zMjFicFZWUG9Lem9UbFVSQzQ5dHlXYnlGTW5NZEw1TnpraWZEY21hYWZGWHMtZnZ1Z01lN0VWQl8wZjUwTWtRMTFtXzNsR0c4UFBSN1U0aG1TWQ?oc=5",
+      "source": "The Nation Newspaper",
+      "pubDate": "Fri, 02 Oct 2026 11:59:28 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "As Violence Escalates in Nigeria, Christian and Muslim Leaders Unite",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTZmeXBSLUhMeUYtSlRncHdBa0IyWHVOTy0zamEwclpVSU5sTXFub3FsaGlpM016ZElkTm0zOXYwMlhKZnNhX3VZc2pheEd2ZFRDcjdxYjNtWmxkSjMtU0dPRmctWEp3U0hhV2pTSkZQNlBYSWo1RG05TjUxYTJtQVAyVFdmS2ZCcVdTb0dSY19uRllCNmc4QW9vaWE1dWk1TGRIUWRKSjNUQQ?oc=5",
+      "source": "thebanner.org",
+      "pubDate": "Fri, 02 Oct 2026 11:20:46 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Police, army, teachers strengthen security partnership in Taraba",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQalpIc2NEUnk3Y3UwSGREOWhaZTJ0M0wwRmRkSEtOd0xSWHd6dEQxemNzU3BvdUtvUDNXR21rU2NKVGlJRkZsclktcnB4d2Y3aGM0Y1ZDcnJYbFRVOGVsYmNyMG9KNE5MZE1HS1c5NXhUcFBid0V1U0V1eHQtWDZBOGIzVnJDbDNCOVZzTTFpWXNvZEw4Vm43T0ZVYw?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Fri, 02 Oct 2026 08:43:37 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Owerri-Onitsha abduction: Police rescue 10 victims, begin hunt for others",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGEtVmFNSzY0aFVjWGtaNWlQd3liZ2N1NnUydHp5TG1qc1FfTVZJZnJiNllZNGJYLU4yLWxpaGNUdVI5TEJSRDBSbGVUVlNqazBQMzN5S3lxZjFaamFaMFQtZkxHdi1wRzVUcGFVYVF3SngtM2dtb0FoeWIwTDVIWjdpTS1OR0JBdXV5YVR1OWFXOWNw?oc=5",
+      "source": "The Sun Nigeria",
+      "pubDate": "Fri, 02 Oct 2026 06:33:33 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "NSCDC arrests telecommunication mast vandal in Anambra",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3FjN0FvTy1ySG5yTmFDU0FDbGZZRlI0ODM2SkZGN25lTVAwYmx2d0Jyb2poY1M2XzQ5YTVBTm1ZT3VuWmtkNUU5N3JEa1k5ZFM1Y2I1bDVyamdXZDJCa1RZYlVxM2tfcmdsaDJpdFNpakV4UUpZT1QtVVZxOW5wMg?oc=5",
+      "source": "punchng.com",
+      "pubDate": "Fri, 02 Oct 2026 06:29:17 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Kyari: Nigeria Can’t Achieve Food Security by Solely Expanding Farmland",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHk5bjBOV2htc0pndW5IYjA1V0g0QzZhdlFERGlyQ0w5YTUyY09QTG5ob1JyOS11THMwV1k4bTF6cW5nakF2TEtwSkQ5eGx0c1Z6LUJKcXJ0bVpVLVlpOTlKTkNESDNEU3pxZG94NFJjLUVkZDRJOWZ0SWUxZzk3RExkR1J3YWNVcDh6QlMtOWY0R29TTmVWa1VPaTFsQ1lCTUJTMHFwTkJLMUlSemc?oc=5",
+      "source": "THISDAYLIVE",
+      "pubDate": "Fri, 02 Oct 2026 04:20:51 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Atiku, Makinde, Lawyers Slate Tinubu’s Speech Over Economy, Security",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaExKeWJGUlV1S1M0SlEzUFR1N19ETWxaQlpZbWF4UUZ6aDB5UDdDMVdNRFB4Z2VJbTI0RVVOZWUwUXVhMjBlTjBmZ09taGpQcTl3VzNZTHEyYzRwQkdFeUlDVFJNME1qejVNVUt4LVpITVlQSkk1eWo3VENXalZFalhSdnBCUHJ6QXVaMkJHejl4QQ?oc=5",
+      "source": "independent.ng",
+      "pubDate": "Fri, 02 Oct 2026 04:19:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NNPC’s oil security claims rise to N11.2tn",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85YnZTSExwRDU5d01MeXA5cmEtLXl3NGNNNGtkRm9mdUphU3RsbUl6UDd1Qmp4TUtLOWZOTUdVc0xvNkgtVnEtRGJWYXgtSFVUa3JMVjc5ckVYcW9tc3FERUhSQUNnTHpGRWtzX2RqWQ?oc=5",
+      "source": "punchng.com",
+      "pubDate": "Fri, 02 Oct 2026 00:34:14 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FRSC Urges Special Marshals To Embrace Data-driven Road Safety",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHBMMFVGN19CSE53RWdzdWxPSXAtMkt2OHdVWnhaNG51QXBERFBhaDVSU0d1MjJ5cHVCQlFQdWJZbmZnejRLek5LUXRTbFpvS0wtWkU5UnIwb3d3S2c4Y24xZGwzdG1VRzhPTHhYQW03VzJKWW1nM29pVC1hU3RNNUJnNGNZbnA2Snc?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Thu, 01 Oct 2026 18:45:57 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Nigeria At 66: CSOs Urge Tinubu To Sustain Security, Economic Reforms",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ3VhWWRPaEFsUXpGZmFWN09mYU05NWZPTW1EWVFLTVV0RG5mZC1saHhNNTJkMFdBRGxFckU3dUZremUtbUE0X2pOQ3ZPWVhmWGF4SXNjVDBtX0pteDF0T2dOWjR2d05zUkhxUHY0UHRDdDNBVXZrbTNKcGFCY0hDUGh0TEEwWjNlOWYzVjlkbzRHNEpBYXc?oc=5",
+      "source": "independent.ng",
+      "pubDate": "Thu, 01 Oct 2026 16:49:30 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Bago, Tompolo, Moghalu, Elumelu to Lead State Police Debate in Abuja",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0F1eXhWcFp4U3F0M0tGb0d1NEljUmxPZkcxZGhYVTJRcWM0WV9DYmJ5Y1NZLWRONDFyXzUzNkJpY0NvUGM1TC1IbWFMUGJxa2FhWTVkdTZhZzNqSnQyN3FCYXlvN0dRQjhlXzJRVzBOU1pfYXJ4a2IzWThoLUdFcG80RkN4SnJRQU00TVFwdmpPczhLVXc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Thu, 01 Oct 2026 11:23:00 GMT",
+      "category": "Law Enforcement"
     }
   ]
 }
