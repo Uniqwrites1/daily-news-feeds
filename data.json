@@ -1,81 +1,158 @@
 {
-  "timestamp": "2026-10-09T10:10:09.875Z",
-  "generatedAt": "09/10/2026, 11:10:09",
-  "totalHeadlines": 195,
+  "timestamp": "2026-10-09T18:04:28.844Z",
+  "generatedAt": "09/10/2026, 19:04:28",
+  "totalHeadlines": 192,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 119,
-    "Law Enforcement": 19,
+    "Security News": 125,
+    "Law Enforcement": 21,
+    "Traffic": 8,
     "Kidnapping": 13,
-    "Traffic": 15,
-    "Insurgency": 7,
-    "Military/Security Operations": 14,
+    "Insurgency": 6,
+    "Military/Security Operations": 15,
     "Banditry": 1,
-    "Armed Conflict": 7
+    "Armed Conflict": 3
   },
   "headlines": [
     {
-      "title": "Social media distraction can cause road crashes — FRSC boss",
-      "link": "https://www.vanguardngr.com/2026/10/social-media-distraction-can-cause-road-crashes-frsc-boss/",
-      "source": "Henry Oduah",
-      "pubDate": "Fri, 09 Oct 2026 10:07:18 +0000",
+      "title": "Fulani gunmen kill, kidnap Christians in Kaduna state, Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBueUlPajJLcmZobUxaZjFNcThUSnBpU2xKbElWTGkxWDRzVURWX3J4dUZEYUREYUxZT0hEQ2U5LWFfX2pBTmlMX2pPbk5QRVpCVXZqU21TVklNaDhwdmNhbUZ5bW9Yc2dQdUVmUEdhR0RtTEx2WHFQNjhsQm5YenlZWDRxdEk2eDc3MDNUUDRNV0VkMlFDcXA3U2s?oc=5",
+      "source": "www.christiandaily.com",
+      "pubDate": "Fri, 09 Oct 2026 17:49:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NHRC, foreign embassies push for abolition of death penalty in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjlIbE9fMkJnYzlGQnNTNEFVNUgyY0ZjTm1oN3dmYktoMUFELVRCWXVHQklYWlpwcXpTWFNlQ0N6QmhDSnlGaklFaVppWV9fS2ljV0NrbVl3bEY3U0RvWkU2Q1ZTSGNKZ2d1MVQ4bkNxQi1TVV83QXhBSDlMXzYyVUpaV2RDVTB6QWZxbl93V3dpRDQ0WldCX3YwckNweFBhQUhuWFh2LXdLZFY4WWs0aFhGRU5WdXVUTUdGa0hRN1BSU2dW?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Fri, 09 Oct 2026 17:47:08 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Outrage over plan to livestream US military firing squad execution",
+      "link": "https://www.vanguardngr.com/2026/10/outrage-over-plan-to-livestream-us-military-firing-squad-execution/",
+      "source": "Ayobami",
+      "pubDate": "Fri, 09 Oct 2026 17:39:33 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "A Month After Uber’s Exit, Moove Quits Nigeria, Gives Customers ₦35bn Worth Of Vehicles",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHlVZURlSEVxWnRWWkc5MTVha0N3enZMYkxDdUdfNHUzQkZnbmxoS1ZOYUduVHFZc1A2NzhDTGVxZjJZVzI4WWZQcjE1akplVTVuQ2czRTBKVHc1U1hQN3NhdWxuZnhrUFZEblRvRU9IcGlCV3JQRE1TM1BtWXF5ZlNOdHlxY3NiNjJ2eGlR?oc=5",
+      "source": "AUTOJOSH",
+      "pubDate": "Fri, 09 Oct 2026 17:09:01 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria First Policy cut locally assembled vehicle prices to N35 million: FG",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWNnYmp3dFBMWjJwWGtiWlRGUDBrTmxDdGQxYzNHMThpbl9jb0txcDRoamZ5bFEtb1V2am15MTlFSVpKUVBRSmhyTmN2T2toa2JqX2hEa0pfTzV6b3YyQkx3MlVJY0lVT1AxempmMDI4SmRORkYtOW1hdTg2WndIS21aVFNxTDZ4aEJTTTdGTjJPYVN0T1hka0xoVHU0RENz?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "pubDate": "Fri, 09 Oct 2026 16:25:59 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Ex-DSS Director reveals why military planes keep crashing in Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVS0yZFBuT1F2T1I5ekxKUEhpUjBrOEUydVd6VktJWFlWMnlOLXZqd2xITDRKS0xYYUxFaHQxZEl1OTBkM0FtM3B3T1I0dXJRUFRJWUpIWmo3VUNSMDhzVXNmZDIyWWswWnIyNG1KenpkMEd2UWlsRG5fOVd5dmk4Y0JCZVA2VVFtaXJqN2V1WTB1a1Z0akxGcFA2cS1HTFB6VjZ3?oc=5",
+      "source": "Daily Post Nigeria",
+      "pubDate": "Fri, 09 Oct 2026 16:13:13 GMT",
       "category": "Traffic"
     },
     {
-      "title": "Terrorists using new technologies to expand operations, FG warns",
-      "link": "https://www.vanguardngr.com/2026/10/terrorists-using-new-technologies-to-expand-operations-fg-warns/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 09 Oct 2026 10:03:21 +0000",
-      "category": "Military/Security Operations"
+      "title": "PDP alleges plot to disrupt PVC collection in Ogun, urges tight security",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0FxRVczb25NNEcwMkRXMzlRcFl6Y2UwVmZ2cnlDNHNKTmNzbUFrYkx6S24td3FobVd1NFFUTjJ0TER0NGVmSzlfc1pPTElhR3FUVDVVZzFET1JuVjZ1cDlrM0w3QmFQaUlkQTZqYk1xQzJkY2F0dndKQ1BNZDJHQURrN3lZM2ZJYW1WX29MWHNJaUZuTENYX1NPM3JfbGR1R2VVLU5iM0FxUHo00gGyAUFVX3lxTE1mbGlHeW51R2xNbllPcWo4XzJMaUY0Vy1aNUZZdTZxbjlfamQwajllelVaZGRBNDdSSHY0bkNKWjI5dzAyLTdWYk85a09saGxFVlltWWtKOFlIaHp5ZU5TVmdMUll0TTNoR0V1dEFPaDNwNDdpSlZNMVFNdWRnZWpPTU95b09kU0syS3JCR1NqWjZ4MGZEbHdmejQxc0pyQXB2UTY2NW1oUlJIN25VeDNzcEE?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Fri, 09 Oct 2026 15:44:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NADDC Targets Three Million Vehicles Annually Under Policy",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEVtZWhuUkdwblBVOWQ2Zl84RzJSQzVzc2RHVG45ZFZWdTlTSmZGZVJ4WWFTbTNGd2JmamZZSk1EbVlOTTJkdVhuS1Z2SUkxNHo1VGpfWi15ak5xX213SWl5OFJoczk0TmJxNllHNVd0c2d3TGpIVVZTRi05MGhhLWV2d0U?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Fri, 09 Oct 2026 15:39:34 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Italy, Leonardo to showcase defence ties with Nigeria at Lagos expo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmtvdVZyaHgtRmlicGN5el9sdXZkTHlieVlHNVMzbEZUWXZoZXJlSXZ5ZmxWc1FOdVB1bUJYZ1kwckt6UGZYUW5fY1VKTl9SanR3b3hCbDJBa1hTc2dYT2xBTy1wa2FrTEFSaXh5c3F1TFJBX2RoTmlzR2tWSmE3aFMxb2ZZMGdXdXEwZjhuUTNaWUplTjA4?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 09 Oct 2026 15:12:38 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "FULL LIST: 5 Military, Civilian Aircraft Accidents, Incidents In Nigeria In 2026",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRWZVVW9BRXRzaFpVQVlNVnF0RFhBZkxZWDU3LTV2a0M5MENnT21FekQ3dFpLMVR0aXdDeGJwMW1NekR2Qmd3d0E4bHlJbUYzNXlEZnQwV1A2ZlZqa25WMUhjMFR2QWxKUFZuRDM5SDZVbDljbmNxSXZ6R0V0VUUzYVRieEk3dnBtdWhyYnFsSHF0dU9taEVlY2pYYnp0eml0akE?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Fri, 09 Oct 2026 15:11:25 GMT",
+      "category": "Traffic"
+    },
+    {
+      "title": "Perennial Power Sector Infrastructure Vandalism Forces Government To Convene Urgent Security Meeting",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkNuQWRuQ0h6RmFJZVh1M1ZNMjhiUEtTQldCZ2lKSmdJcTVhcTFfX1pOMWV3c21zZVNIWGE1WXRyVldqdXJMZndoU2tYdW9fTExnNU5ieTJ2WWVrWnlwV3NBMkNoRjRPOTEwZFYxOXJZOUhnaG1obkZZMXhQN1BmVTFTbkhaanpUYnFKd2s1QXp1WEVMSlgydDk4ZUpnNkRFVUg0Zk1fUTV4cHZKa2hSQXJlNFRrZThra01oV0tWRHc?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Fri, 09 Oct 2026 14:53:09 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria Records 263 Lassa Fever Deaths, 1,115 Confirmed Cases — NCDC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3BaRDJzWDhuVG1fa3BDbEE5SEEyeWJEU2t3ci1aZDNMaTV4LUxSY1k5SGhJSzU1eTllUUx0R3ZfTkhnNjFUTnQxQWRXaGpUY3Z6UHFMT3lORUhYNkJvcm15N3Rfb0YzSGFqZWk0eG1yM05NT0h6WDlPeGJHWUcyUnpIeFhzWEx5ZzlldGxKM3VpYzNZSkl1S3QxejZFTkRZbEZ1V05n?oc=5",
       "source": "Channels Television",
-      "pubDate": "Fri, 09 Oct 2026 09:38:57 GMT",
+      "pubDate": "Fri, 09 Oct 2026 14:51:48 GMT",
       "category": "Security News"
     },
     {
-      "title": "Motorist escapes death as train collides with car at Lagos PWD rail line",
-      "link": "https://www.vanguardngr.com/2026/10/motorist-escapes-death-as-train-collides-with-car-at-lagos-pwd-rail-line/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Fri, 09 Oct 2026 09:33:42 +0000",
+      "title": "Experts To Deliberate On Nigeria’s Energy Security Amid Policy",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGdRMnpKaDYtUlc4Q09kQS16R013OVpWd0hraTVzaGdIWTNlSVJkeFpfRmZYMTZLTWV3Y3JSbDlWOGtiR2xFZ2g2RXdNM2M0TWZabkxnYXpONTlfbU54RlJvcUZHd3V0dmpiWXJmUHkyYVJ2TmNUWTJ2Wjl0b1Jid2dvdU9yZnNSV0FKcQ?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Fri, 09 Oct 2026 14:21:55 GMT",
       "category": "Security News"
     },
     {
-      "title": "Troops Repel Lakurawa Attack in Kebbi State",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMnEwQ0VFVllTTEFPNVRndjY3OC0zbk02ZDJpLU9od08xelRfc1FobVI4Qno0UnpjWGVLRXFsUlpHTG9qeS1fa0VkOGZYOHZrTE5MWElHc3FBekt3dHBIZHdiRkFoaXBYLWZ4V3BzRVA?oc=5",
-      "source": "Voice of Nigeria",
-      "pubDate": "Fri, 09 Oct 2026 09:14:22 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Russia-Ukraine conflict finds new battleground in Africa’s Sahel",
-      "link": "https://www.vanguardngr.com/2026/10/russia-ukraine-conflict-finds-new-battleground-in-africas-sahel/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 09 Oct 2026 09:05:04 +0000",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "Igbo youths’ apathy may leave military without Igbo officers — Nwachukwu",
-      "link": "https://www.vanguardngr.com/2026/10/igbo-youths-apathy-may-leave-military-without-igbo-officers-nwachukwu/",
-      "source": "Nwafor",
-      "pubDate": "Fri, 09 Oct 2026 09:00:44 +0000",
+      "title": "Bold Christian Evangelists in Nigeria’s Ungoverned Borderland Fall Victim to Kidnappers",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEhYM21WY2l4S2J6Z1JrUXVlYjhwdmU2MnFUck1ua2twdGVWWTBuUnhIdWNRSGpqbUwwaTM0Y2ZNQVNwUHNjamFMN0h1QlN2YU80WS1vNkk5c3l5dTdKNWpIdThiTWZWdHlrOVp4eVpkRDJ4VmxDRml5NGtKLXJ6NFJ1LTZycU83dWdpa3BCcmhIMkg0TlNkZzR6a3k2eU40eENsTlR4UTVGVlN2V3J0ellFcjNoaHJpNmI0cQ?oc=5",
+      "source": "Truth Nigeria",
+      "pubDate": "Fri, 09 Oct 2026 13:40:57 GMT",
       "category": "Security News"
     },
     {
-      "title": "Marwa Applauds Security Agencies For Rescuing Abducted Corps Members",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0VqNUpCVUJsUjhLbjJjRFV1emZJcHVuaHF3RjdfVF9LWFo2eG0yYnRCa3ZUOEZKekJ6aXdvQ1BwN0tfUkhzVmtkbWdUVEI1aU9NZUdTZzBTQmtLVWl0OHVlbWlPd1BEaUNmV1N2TF9RMTJ1aWZPZ1BHR0hXR2JwNTZRbmhEdjJGUmZkeWt2bUVhZw?oc=5",
+      "title": "EFCC Arraigns Nigerian-American Over Alleged Vehicle Import Fraud",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTBHZmNXZlZic1ZhczFEdTY1R3RjSGRyMnc0V09LVm9XV2VrU2RBYjhyczA1dkdkendQVFFOeTdXUzdoVW15dXVadklXT29NTnBaeVF1YUh3WDJ1cmdZMFlOYW9IUGFlbnZXdmlNRUtwc3M5YWJkZUlqMEV5UTdZQ3U2NVJCUkdJZWZKbHFR?oc=5",
       "source": "Voice of Nigeria",
-      "pubDate": "Fri, 09 Oct 2026 08:29:23 GMT",
-      "category": "Kidnapping"
+      "pubDate": "Fri, 09 Oct 2026 13:35:08 GMT",
+      "category": "Security News"
     },
     {
-      "title": "Governor Otu Urges BON To Promote Accountability In Broadcasting",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUVuaHo4ZW81R05jd2NNUmE5Q2tIak5VSkJtVHg5enhJZDRYcUFmQVJPNHd5dU91TDJhbVpDWTg4a0NVU0hwVGgyY05Pc1J6SkdNNW1INHA5NkUybGRqQ2pWVzZuY0JXemo5cFdieGlQQWRKNWpoc29JTDZ3ekdBb3VVVmFLaVIxVFEySQ?oc=5",
+      "title": "Nigeria moves to boost military operations with space technology",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEV3aS1WVHo3ZmNjMW5Ham8wZ2pEdXVPMVoyaU1VN2NlUDBzUWVFRXh4bzFNS3g3MXgyUFNLVi1Mb01pbVFEOWdDak0wTEgwWng4a2Itd0RVN3hWQlhwMUd1X2dYdHpxUWoxYy1LVl9ybGNlT0FJNUNMdnhoNF9BTjBqWU5WdHFWU1FhMXhHbHpYWmhlVDZlcERB?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Fri, 09 Oct 2026 13:18:24 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Politicians more concerned with 2027 election than Nigeria’s security crisis, ACF laments",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlLTzRJYWpEbzlXbWZYTUU5ZEZMWDBnSU1penE3UTlacjRKSWRmQWNaLTU0eXo2UThfd3lrM0l1NXludWlQNHk2NV9GMTRrQUFjZFdqZHRveTA0aE5ub1pZTGVBTFlXelN0eENRN1JXVU1DTGxsRUZ4RUY2VGI0ZFBJVWxsWUxXSzhRUHN1enVud0puNjYzOTVVd3VBX1RKMzh0QU9hNFZXY1ZoUURsbXhlQXo4V0RVQ0lr?oc=5",
+      "source": "Ripples Nigeria",
+      "pubDate": "Fri, 09 Oct 2026 13:02:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Sobowale’ Death: Nigeria has lost distinguished media scholar – Amosun",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjRMX09kNHk4RkJrZVhMYlRSbHYyejYzM25WdDN6U0FjZFdXdGdVY3hERFdyS2pGU0g3a25UYjZfNnFGeDhwU2h5VnNNeHVPd1drb1Q1VG1lWXMwSE42NlRoWnA1Z1Q2QXRZTXR4aldYWERYa2p2MGE5RjdvQmV1UW5JbDRaYVFfdHJRVUh2enk2cGhkNUliMlRVdVFQdnZISFpmeUlB0gGrAUFVX3lxTFBGYXhEMFBTZEduTWxMYmdhOUhZQ1ZlODVTbHNxNkl6R1hBeEJBa3ozNjRJVEVRZEVGQnVwX3RhWnM3bTdBMVkwbEI4M2ZNZjFwcWw4UmFRZk5fX2l1eE5laFBmamdFeE9BNC0zTU5qcVpKdEhzNlRVeEJJYUZ4UkVPQ09JNXlrNV9FZ3g4aHNKNTg2cy1QaFZ5d2czdlVwYU5kRHo4M19tLWx5TQ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Fri, 09 Oct 2026 12:45:17 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Akeredolu's state police advocacy now central to Nigeria's constitutional discourse — Aiyedatiwa",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXdzTjRiQ2QtTGczX194OG50YkRvc3JRZXZJTGNvT2hxR2VQRUF5eUUzQ3pnN3A4Ni1VaHZOdUNRTC1wMmVkdnNTd0JZaS01dzFLOGs0blVGVTA1UFpTNmxtS1hLcmF1NWpaMHB5cklqTkd3OS1FbGhtY3J3eXFlSHp0MXpYY0cxVlhzZjFDZFowQ25XTndZM19VLW9XUlRVa3NqQThGcjBVU0l3R3NtWFI4RU11WVhfLWc?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Fri, 09 Oct 2026 11:30:00 GMT",
+      "category": "Law Enforcement"
+    },
+    {
+      "title": "Sokoto Donates Operational Vehicles To Nigerian Army",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3dnFTREVwMC1mWHkxVWRVd3FkSWw4LXJGaHNnclM3U1J0SWd6TkR6YXl3b19vSnFzN3B6UFJCdmZGYTFjR1BMSHVLUFk0UHQtMUNCUkdGeGFnNWxPNnlUR1QxZlJiYTVlV21hSV9zOVhaODJSNU4yNEROSTc?oc=5",
       "source": "Voice of Nigeria",
-      "pubDate": "Fri, 09 Oct 2026 08:19:02 GMT",
-      "category": "Traffic"
+      "pubDate": "Fri, 09 Oct 2026 10:10:40 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "Nigeria Calls for Stronger AU Peace And Security Architecture",
@@ -92,39 +169,18 @@
       "category": "Security News"
     },
     {
-      "title": "Moove Quits Nigeria, Hands Over About ₦35bn Worth Vehicles To Eligible Drivers",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVJ1bzhMVWVfOTJKQmZ6QTVuVHBoUjk3blludlpsaWh5MFlNa0VpV1BlSWYtUGUyTlVraHJqc1JMSkthSjl2bFRvVUtMcGlYMmRDUFo0bXJNWEdZLW54RGk2VFFfekt5MjhNVlpDOXN0OG1XczBwajFHaFFSMjJuRW54M2MtUUYzQW9YbHpMLWQ1WXg5UWo4dU16TTRyb2plLXBieDNCN3QyY1BiVm5zVHg2NExENTdS?oc=5",
-      "source": "Brand Communicator",
-      "pubDate": "Fri, 09 Oct 2026 07:56:34 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Why Insecurity Still Plagues Nigeria In Over A Decade – TUC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjVweXdvTE5uYk5tenpiZ0l4YW9ESUVUbi1mQkpxb3BzUnd0Ums4RER2R3ZyT2lWLUxvTUs3ZENMWnZfX2RHYUtYNUpJMWF5REN4NjlSMFlkQ0I5UnNqRXpCbGU1LVpwRzFXc0dQMXRielVnTklxY1ZEcGVhLWc1S2VMRzZObGRm?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 09 Oct 2026 07:51:42 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Trump rules out new Iran attack before US midterm elections",
-      "link": "https://www.vanguardngr.com/2026/10/trump-rules-out-new-iran-attack-before-us-midterm-elections-2/",
-      "source": "Ayobami",
-      "pubDate": "Fri, 09 Oct 2026 07:48:31 +0000",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Akeredolu at 70: Aiyedatiwa says late governor’s security vision shapes Nigeria’s future",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXFGSFQ1dEt0LVZ5VS1PNDRDMzNFYzB3S2kyQ0tGd3hWS29VazU1SHhXRnY1aWlfdFo2MDFCalpzcGFvMm83Ujd0R1JDQjNOZ1pRUW52am1sTDVlclY3QUVtWlBKU3BkQ2FZcFhuRFRpZzRHbjNVdGRXRU9aUms4VGFfbmxURjBXWHktS1AyM2djS3RMS19meGJUMHJjY1RGZDZYbjZVZmhSakFPUEg1ZXFlVGhDQkRqM0hJUnpMb9IBxAFBVV95cUxNSDEzY1g1UlpWcW9DUkJuaDNhamJPd1J5MmoyQU9Takw4X2kxSXFpaGt2LU0yMVRNcTdjRGNSMTNpODlBV1lsSW5RTG90N25yaDctYnY0aDVleDhZeWJhYmlpLWFwdDNYaWkxOUdPc3k3TUo0cVQtRXkxSHRLWWJHeHdQeEFiVl9qWWZNQnJlcnRGaThKaWZPbGQtZC00a0NBa3RvNjdXdlYxdnhEUHhRZmxxS3JTMFJjY2Q4TmNrUjhWODV4?oc=5",
       "source": "Vanguard News",
-      "pubDate": "Fri, 09 Oct 2026 07:41:15 GMT",
+      "pubDate": "Fri, 09 Oct 2026 07:46:25 GMT",
       "category": "Security News"
     },
     {
-      "title": "Lack Of Justice, Accountability Threatening Nigeria’s Democracy -Okutepa",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXNmTnVvbmk0X0FpSndROWw5WTU5c0xLdFlDeHBIMEJ1b0d3Ty16VUdab2Y1MVZCVTFYYlFzMjJVbmJTNDQ1MmYyS1VVdGlIbUdFWWNRRk1CcDFlTDFDSGZpMHZvaUM2bGhaUDVBRWNLT3Q4ZXUzcGcxZFl0aEt6bXpXX0lJT0tWd01MX3RZaXNtMVk?oc=5",
-      "source": "https://thefact.ng/",
-      "pubDate": "Fri, 09 Oct 2026 07:37:51 GMT",
-      "category": "Security News"
+      "title": "CtA Monitoring Framework Roadmap 2026-2030 Call to Action on Protection from Gender Based Violence in Emergencies – Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk5iaXJaZXFKTDJBRk15OUw2S1dpVm9tVjhGTnNMREZYUmFlNVNyU19YVlc5UVd1VDg5dGlfRWJvYnBOemxQcDQxcF9Ud19adHZkelRNcF83LWVldmVHQi1YSjRxcTUwdzlHTWdsMC1uSmp1bi1CNEdIY0hHME1BLUtjZ2REZlN5RF9iQlZCbUJ2bk5BMGVHOU1xTkRrR1Q5b2FQTmh4RXFQNDZWMURXbndNMnhYVmZHOWhKYWgwbTV4YUhicThLOGlNRHVTNWVZVHlubjdXVVdGUEJH?oc=5",
+      "source": "ReliefWeb",
+      "pubDate": "Fri, 09 Oct 2026 07:29:08 GMT",
+      "category": "Armed Conflict"
     },
     {
       "title": "Nigeria’s events industry needs skilled technicians, not just equipment — Tunbosun Kola-Daisi",
@@ -134,24 +190,10 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria records 263 Lassa fever deaths, 1,115 confirmed cases across 24 states",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHNYQjFpTDJ2djV5S0VjMUYxZ0MtVDlfSzR5TkdaWnRDeGF5QXktMkx1RkNpUWgxVnZYeG5VRlo1UDZWakxVa213THJ5NDYtYTB5Y1E1WE1OVmpqZ2xILTI3WWxrSHU1dEhXbFhWZ0piRU01UU1TRG93ZHZXMHJvcVFRY202Qk1oazk4Qk5QOEtuY3lYaFh5TkVoQ0lzVkt2dTVyV2F4eW9UWDdYWEE?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Fri, 09 Oct 2026 07:03:06 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "JTI Nigeria Reaffirms Continued Operations In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnNoc3FFZ29HVzA2OG5zZDJRY0kwaUlMcXVMUXlyY2d3MkFtQkpTUllNUG43NTcwcXpwclNwOVlYczg1WU44NU90LXJjQkJpRXZXcC14OHNDc0RwRm5KTGdSdnBmUlpPRHI2T0Z1TERETldyZFktTkpveHRDRWtGVHh3?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Fri, 09 Oct 2026 06:52:27 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "NSCDC arrests suspected cable vandals in Kwara",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zeFZlZURjU0NCR0xyZm1JdGFkUkFCR0RGaU8zR0RjNTFiYk9lYlhpdmxGSmZubmQ5Ykd4bUlCRVJtUFVPVGF2bmJPNVFkem5CemFPNXFWNlcyQnJUSi0tRUpGZEx6cjFGYTBJVFBXWnJSc1RMUGkzV0V3?oc=5",
       "source": "Daily Trust",
-      "pubDate": "Fri, 09 Oct 2026 05:44:28 GMT",
+      "pubDate": "Fri, 09 Oct 2026 05:52:47 GMT",
       "category": "Law Enforcement"
     },
     {
@@ -169,25 +211,11 @@
       "category": "Security News"
     },
     {
-      "title": "Harmonised data warehouse as solution to conflicting market figures",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGJvOXVkTXJJc043VFRrdTR1ZFFHM0dldjBXWWZERjJFVmZRLUhqeW1oQmRhYWlDb0Voaml1NTBjbEU5dEJndzBVLXJwSGZtMmlOY2dRTkYtRnRrRTdBQlV2MGJkVlY1RFJtVnhNWHlnbC1PcVZEVlUycmRweU54eEVmeTBha2ltZ0hmSXEwckRRVHRIVW51YzMxVGQ2RnlJazM0cXgtTUlIajE3NUxrQWVYbHRCektqOW8zQW13bnpmdw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 09 Oct 2026 04:58:00 GMT",
-      "category": "Armed Conflict"
-    },
-    {
       "title": "Lagos Deploys Innovation To Boost Food Security",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oc1E4T1RWWEgxUWYxYnRwUnRmWUhmbjBUU3pXSDdnSVlNSzVwMXQ3dkxPQjRpdzZ6dVF1WGdtbVlvQ2czTHhLQkZNQnJYVkFnbk5XS1p5Um04cVFvTHN1bDg3QTRWY1hUNFJualhkOW1DZUpmdDVYVGhhMA?oc=5",
       "source": "Independent Newspaper Nigeria",
       "pubDate": "Fri, 09 Oct 2026 04:53:52 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Nigeria’s Broadband Boom Gathers Pace As Data Users Hit 157.7m",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2d4X1ZWbzI1QkRPMGZ6X0k0YVcwRk9nWF81OUpDMEVFZW02MV9jNGV1OHFJSDFuOTF5WXdscFNlQTRES0VZLUVpTklvSmo0ZjZBZzg5SkZtZ3IyNy1WNjlkLXFwd0dxNGItV3pCY2NmOFRqbXIyUk53QmNRb1p2NWhBQmdGYnJqSFA4M3N3?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "pubDate": "Fri, 09 Oct 2026 04:36:40 GMT",
-      "category": "Traffic"
     },
     {
       "title": "Govs, Fayemi, Afenifere, NBA, others laud late Akeredolu’s state police vision",
@@ -204,11 +232,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria remains Tier 2 country in U.S. trafficking report for 15th year",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVdEUi0zNFVrNkVpMkRZZWJaVjRKbWpKbXlYZnkwZ2E2QjYxb00yZmJuQTV2UDNwTV9DbDZOWmx2YmhzczZJYjl3RWJZQkVxdnE0Q1RFN2ZPV2ZTbUt5VmY5NWJvUUZ3bTFmN2tsWnVjYnVoN0M5R1k4NENxNlZEZVh0REVHU3FUSmJBUDRjVFRldTlfNndkekVHNnA?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Fri, 09 Oct 2026 04:00:00 GMT",
-      "category": "Traffic"
+      "title": "Families counter police, say ransom secured release of 20 NYSC abductees",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWNRN0xFOTdfNVhwMHNySVAwY01DUlpTZ2NzSFhsakFHNVFCanZIWXV3VDlWYjNRVF9WQ1NQYWd5Y3pMeTJMVHZMeXhNb2hTVFlHN1dacUlqMDNXV0J4TlluQ3FiYUVfQlNGSWk1U0ZQSWxIZ2Q3TFl6bHQ1aG1GTVZTZjIzS0RmYjJyLXRDbUJwbFplN3A0eUFYbVYzVnZ3cUQ5YkdadGRYUTRl0gGyAUFVX3lxTFBrcVpQLVBxeFprU1JJZWVqQVlONU50WmluLWhNS1hRbUtkNXZBWS1KQzJLTFI3SWM4UE9LeXQ0VjVrUjc5YkRhRkI5a2pwUktuRzNfUmhKQ1lIMWF2a29yZE5qVzNsRkZDc0xsV0IwVS1oTXQ1YkVrdGtYNXpIREhTNW9HWHhmRlNBbXdlVWpNdG5YbFRlQmpnQWRObjg5LWc0S05yOWhsbnJodGlFWERCVmc?oc=5",
+      "source": "Businessday NG",
+      "pubDate": "Fri, 09 Oct 2026 02:05:17 GMT",
+      "category": "Kidnapping"
     },
     {
       "title": "Nigeria needs 554,353 personnel for state police – Abiodun",
@@ -218,11 +246,11 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "Bigger burial grounds will curb Nigeria’s air crashes",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45VG9RUmc5ZTRTb05CUENScGw1ZkV6WU9BR3AzaGRodVRtbnpudnVpLXBHOUtKVnQ2cWMzWEk5bF9jZ1dSb2g1alZVR0hpT1JTOHlOMWNQQ19UZ3RRX180bllqSF9XREFlblF1WnUtc28xYWtfbHVUb3htMWJfdw?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 08 Oct 2026 23:30:03 GMT",
-      "category": "Traffic"
+      "title": "Marwa commends security agencies over rescue of 20 kidnapped corps members",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2hXTDA0TVBUVmV6Z0pyMnV0dWI4ZzRocXpHRVhWckQ3NmJzRlI2RFlXNHhjQlZBejctdHg4WnlsTnJRQkZVd19UdjFVWENTX2FDOF9lMTE0eHZTb01vXzE5djN0djVOTDdWa2c3VmZRNDBhRDlWT09uM1RVVW51anh0d281M2hfc2tuN0JpNl9RSHlZd29rc093aFhhaTNOdmlnZ3JnQQ?oc=5",
+      "source": "Realnews Magazine",
+      "pubDate": "Fri, 09 Oct 2026 00:11:43 GMT",
+      "category": "Kidnapping"
     },
     {
       "title": "Military Disrupts Kidnappers In Benue",
@@ -330,39 +358,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria, Bangladesh deepen military training cooperation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLThlQXhIeVNZT3BRWUo2NmdYdUNCei1EaGRTbHBWY1daSldUUXluN2xfdnlrZnB1cmhvTy1XZVBaeTlNSTVkWGZIaWlaSTFuMTB2ZkpxYU1NRmM0OEJ4cXY2bWRXNnYwQ09McUcweHdpbXI0Y0k1WFAtMUFCZkdnd0hB?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Thu, 08 Oct 2026 14:44:19 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
       "title": "Lakurawa terrorists kill two security officers, foreign workers in Kebbi – Police",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ2FqQTdHTWE3ZHlOVzNwRnFoaDNuam9xTUl6eW1FZmFGa2hDM1c0dnpwMmtnRW5HTUN1MkI4a2FjYWVfS19rZ04tNnFoQnc2bWpuZkJmMkJ6UDdtUVRyT2xsS2hNWmIwa3BkaEFycm83X21TRkNvR0RQbzh2a3VBSTNua0c2YlBJUWVRTnQ1V0x6dS1pdnA5ZHFiUHpMWEU3anRJMW1DM2xkNGtjbi1rSVFMT0o0RHdXSlQ3b001a2pMQ0U3X3pJa3NtQzdjTkZJ?oc=5",
       "source": "Premium Times Nigeria",
       "pubDate": "Thu, 08 Oct 2026 14:36:19 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Ex-DSS Official Raises Security Alarm Over Influx Of Foreign Agents In Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2FIQW1zbUcxWndWajBsQllia3p2UXh5RlVEdnRyaUo5VHM1YjJHRlpCVjNISzVNWVZVeF9wek1xbnYweWNLYjk1aXp4TllXRzlIdmtwSzRWcTZ1Z18tdmE4VVNBekZIT3M0WkpMOER3TmRwcHBwQ1RfMVg3ZUwwLVRYRXVqUkNMMzVhVDZLQjRnSlcwRlQ0NWM5aElHdE1VbkZoekZmQnI4cS1rX3FR0gG0AUFVX3lxTE5NcnpfbllBM2g3ZXJuRFhrUk9RX01OcmZ0cC0yck1pVzc4TC1pclU1amNXNzh0QmtFVW45R0VoVFhERDNGSmRFdU41THprTnMyQ2J2VEtJU01JM2FfcGZLUjA5VEJQTEc2NUtDdklJNnlwRzBYc1J0WUNuYWdLT2J3b2J0ckJiYjRPRG1hYlpjMVFKSWxwOFhzUlJ5eno4THlEc3REWGJMX0JpeGVZT3RHQUEtMg?oc=5",
-      "source": "Nigerian Voice",
-      "pubDate": "Thu, 08 Oct 2026 13:32:17 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Nigeria: Conflict - LTS Situation Report (Telecoms Area) #117 - Reporting period: September 2026",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXRlS2tTUGNBeC1iUnZxUmNwNE1SX2VJRkxTOThJZ3h4TWg1cG11MFVxQ2VJV1ViWGNfYVA3TjA1cVl2Sm5kY19pODNESlp4R1lkUTA3YXVPZUVvV3FnTFJjcW81bFRObURuWW9sc2VzMTlTeldkOGYwbXlla0J0Y1JNOXltUHZWX283cE41YzJoZ2FKWFVNQ2tlZENyYi16Nkt0aEpvNlkzQ1lnVGxBYU9fSE1JUVRVblV4M21KQmJudw?oc=5",
-      "source": "ReliefWeb",
-      "pubDate": "Thu, 08 Oct 2026 12:33:15 GMT",
-      "category": "Armed Conflict"
-    },
-    {
-      "title": "FG Launches AgriShield Initiative to Strengthen Security Interventions in Farming Communities",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0FtekdzWE5mU1JjZ0F3NG9oVDlya1BVa1ZzUjZhNHVaQTlxaWZuZ0tNWTBTdlpfSVotOXF0bHdTb0pIajFSXzgzNl9hVmtMYkpvcTBFQlM0TzBHdk1YLUw4T3lobENDSGotQUVIYzhLdTFEOGdSZ2ZCdXhKVkZsaU5fSldZSWl1WEdzN0kyQWkxOV9WYmM1UHV0aHlQYk9LYzR5MkdxTGxmaXh2YmJlZkkzWUc4aExC?oc=5",
-      "source": "AgroNigeria",
-      "pubDate": "Thu, 08 Oct 2026 12:31:35 GMT",
-      "category": "Security News"
     }
   ]
 }
