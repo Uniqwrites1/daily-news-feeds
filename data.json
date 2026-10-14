@@ -1,19 +1,131 @@
 {
-  "timestamp": "2026-10-14T00:10:25.436Z",
-  "generatedAt": "14/10/2026, 01:10:25",
-  "totalHeadlines": 165,
+  "timestamp": "2026-10-14T08:27:08.252Z",
+  "generatedAt": "14/10/2026, 09:27:08",
+  "totalHeadlines": 163,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Security News": 114,
     "Law Enforcement": 13,
+    "Security News": 107,
     "Military/Security Operations": 13,
-    "Banditry": 3,
+    "Banditry": 4,
     "Traffic": 6,
-    "Armed Conflict": 5,
-    "Insurgency": 6,
+    "Armed Conflict": 8,
+    "Insurgency": 7,
     "Kidnapping": 5
   },
   "headlines": [
+    {
+      "title": "Umahi seeks four more years for Tinubu to complete road projects",
+      "link": "https://www.vanguardngr.com/2026/10/umahi-seeks-four-more-years-for-tinubu-to-complete-road-projects/",
+      "source": "Nwafor",
+      "pubDate": "Wed, 14 Oct 2026 08:26:21 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "Defence Minister Emphasises Intelligence, Technology in National Security",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTdOXzVpa0w0ckpfNGtiNm9NdkNpbHNZU2hlVHJDSVNZUFlrM0FabU5TSlp2WnExaGpPOFdsTWxkMlJIUUFKWmxmNHU0cTlLWHBoTGJKczk5R2ZUb092UkJZYXFabEgxc3lISTBtMVNDN1JhTjRLbmwtTENxbXFVcElOc21RWUxhWGZYZW81TVZYZWVfdG04?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 14 Oct 2026 08:12:31 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Lisandro Martinez attacks Man United hierarchy over failure to strengthen squad",
+      "link": "https://www.vanguardngr.com/2026/10/lisandro-martinez-attacks-man-united-hierarchy-over-failure-to-strengthen-squad/",
+      "source": "Ayobami",
+      "pubDate": "Wed, 14 Oct 2026 07:34:42 +0000",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "US Supreme Court to hear case of Nigerian deported over cooking for terrorists",
+      "link": "https://www.vanguardngr.com/2026/10/us-supreme-court-to-hear-case-of-nigerian-deported-over-cooking-for-terrorists/",
+      "source": "Ayobami",
+      "pubDate": "Wed, 14 Oct 2026 07:26:46 +0000",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria ​‌‍‍‍‍⁠⁠‍​‍‍​‌‍​‌‌​condemns attacks on fellow Africans, demands action against xenophobia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWhmNkduMlVheE9PNy15Nl82UGUtQXI4cUNuSTRHbFFKRkk4Vno3dnV4RDU5ZnU4ckN3czZyNWRiRktuSzE1ek1yUjVWcHVocnhrYS1tRGJ6Y25INEJ0bzdYTU9TUGRHRW90MnE2TXp2czVSeWJRTklYc2xodGxYZ3FDTmROSUVQcTY1bdIBkgFBVV95cUxPVGZBX1ZRY2F2NlR5alJ1UmJDTk9zNHhvQks3aTctQ1V0Q0NFWlp6Um5ucE1weUpIY3p2T2ZWZGdEVjgxanR2Z2dMUHM0OFV3WF9JX1ZHNE1kNjhYeVRHX0I0WVY4RE5GUm54VUZhbE5rTGJHcDVJS3I4VHJZQUtwUy11XzlGdER2Y2ZlOFhFNVYtUQ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Wed, 14 Oct 2026 07:22:32 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "House Backs President Tinubu Over Pipeline Security Concerns",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1l0YnJrMFdWb0UzU1padEpuU0hzZC1aa0dHWmZSbUM3elhwWW1sQUpldlJ5aElLWUtFY1BYNVA4U2tfS2JucW8tTjhIMk53bHIwUXVYcl9LdzJpMnNfWTZuNDNsQnJRNEtyZkpWVVptYkhKZVV3cENmN0tfZ0FEWWRCYjJpaG8?oc=5",
+      "source": "Voice of Nigeria",
+      "pubDate": "Wed, 14 Oct 2026 07:13:56 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Pope passed a ‘calm’ night after lung operation: Vatican",
+      "link": "https://www.vanguardngr.com/2026/10/pope-passed-a-calm-night-after-lung-operation-vatican/",
+      "source": "efosataiwo@vanguardngr.com",
+      "pubDate": "Wed, 14 Oct 2026 07:13:03 +0000",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "CFTZ, Customs Command seeks stronger ties with security agencies",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON05VQVlpVVhQbWNxWEZpbHdubjk4aG1kVGdFeFMyNjQ0SzZBeEIyMFhKM2o0QmZibWVVdHdkMzBGY0M3dlRqaWNYUkNDOWtUSnV5VDluMzR1dmFzRHA1U0lCcURMVlRtNG80WmF2SFhHSTlUcjEwN1JVLXpMSGtVYlF1dkxEaUdQSEpXM1NBZ1FjTnRwZkx6b0hmTnN5SW41cHfSAacBQVVfeXFMUE9CQ0lCQlFkUmxGemU0Y0Fja3Z1Z0hQdzdCeTNlamJRMV9WWndEdHNFZ0RSWEZaNUJGaUpwTEpJbVM0Y1Q4dE9qS1otZFlrcGl1ajVEWmhjVUlrTUVoRUhZUm0xSHF5UHNTSk5ScVZpbDZZUVpyc0pFenBNLTFHek4tQncxVGdGQ1lGWWRLUWN5SUdSX1J1bV83dzZ0NkJMcWJnMG1iMDQ?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Wed, 14 Oct 2026 07:05:09 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Customs Deepens Security Collaboration To Promote Legitimate Trade, Border Security",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3duUzh3VTNlX291aWFvYnJTZ0tFRFhEMFJLQ3pybXF1cEdzRUhNUEd2RnhQZkxqc3gwc284YS1kS0J1dGpCRmpxal9Mb2lEcmNYQ2RKRTBXVW5aS2FwbnJXaEpNbjRRanRraVlLbElMWnNZRUNkUTQxdVR2SktLQlRUYktNMkoyVmd0dFVzMzV4R2NHcDhtVWdISEpaTEVFQ0ZlS2RPbjM?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Wed, 14 Oct 2026 06:57:25 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "NAF Plane Crash: Igbokoda residents lament stench, fear disease outbreak, as body parts float",
+      "link": "https://www.vanguardngr.com/2026/10/naf-plane-crash-igbokoda-residents-lament-stench-fear-disease-outbreak-as-body-parts-float/",
+      "source": "Oboh",
+      "pubDate": "Wed, 14 Oct 2026 06:35:57 +0000",
+      "category": "Traffic"
+    },
+    {
+      "title": "NEMA RESPONDS TO PARTIAL BUILDING COLLAPSE IN PORT HARCOURT The National Emergency Management Agency (NEMA), through its Port Harcourt Operations Office, responded to a partial building collapse at No. 8 Club Road, Lagos Bus Stop, P",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGFJSnhfMnVqNXAtdGpZSU00RHFXd2wtTEJKT3JlTElkOTM1RHExUjFMcHExWWxqM1lEOXJXSHNqaG9lc2pkeC1NWE1pTGJzSEZIOENMQTVoMEhVQ3IteG5VTFVPVUR5ZzA0dklNMGJwMDBwaHk4VkFJTTNEb3hINmpFWVkyeUtIR3BzU1hxTHpTYXBtYTBVbjNSMHRhY0tMckIyS2VHRWpLUHI1Y2NfUnJtY1V3QS0xWkZXRjkxck9fcUUwZ2lIWUNYcmJIZFpldzI0eXZCN3Y?oc=5",
+      "source": "Facebook",
+      "pubDate": "Wed, 14 Oct 2026 06:23:15 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "NEMA DISTRIBUTES RELIEF MATERIALS TO BANDITRY AND FLOOD VICTIMS IN KOGI The National Emergency Management Agency (NEMA), through its Abuja Operations Office, has distributed relief materials to residents affected by banditry and flooding",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPay04RDE3YVlsQ3ZCdjMwVS1tVVg1d3A0ZXVZNHdmSVdfQjFYeUtVTXdualBMNkxBX2dGU2V5MjlWZDJjRGxuWGtBdE5WVi1oYlBmckJXMW8yTlRzeHloanBRbjlJQ3BEcmwxY2t0akx0a0lyRXB6NExWU0Rnb0s5UXREUWdXc0lxUzlYLVFxcW91NExKZkVnMEI2RkMwNkNScnF0VWMtUkdYa2d3RWZQWkF1Qkx0dnR3bXFiTzJFZ1UzQXU4aGpSMFNNeDZXRmlWMmFWNmFKWnM?oc=5",
+      "source": "Facebook",
+      "pubDate": "Wed, 14 Oct 2026 06:21:48 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Oil Theft: Ribadu Tasks Security Agencies, Contractors On SOP Implementation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUhac2Y2OTBhbEFYS3E1Q3hCdlJrdl9QVUFIYzRUMkExeWFTOWgtOWY2RzJBNFdXa2pZYWZ4NWE2NFBpdzdsdXh5WjBCNS1qbHBtcW9LblBTUnoxRmphd05GQ1RWcHhFMUxlOUVHbEFvV1JMOWlDN01FNUo4NHh6akdLd1R4MEg2aERvbXhLRFo5b2N2OGhUVnFB?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Wed, 14 Oct 2026 05:40:46 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Gunmen kill 20 traders, security personnel in Zamfara ambush",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenJCMTg3QXh5akVLVVlqWVRnejd6VEVCcmpMa3BpYlY1bTVLZm5MSEZjazlMUTdqU2RVZkNZeXZvWlliMGtkdzhDTUw4S3AxWlZkeWNSUS1sY055U3JHcm9ReGVZQ2FjLXVhRGt1SlA4dVpQRjlNc0h2WFoxLVBhTmZVYVRTZzJp?oc=5",
+      "source": "Blueprint Newspapers",
+      "pubDate": "Wed, 14 Oct 2026 05:02:52 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria Says the War Is Ending. Boko Haram Is Building the Next Generation to Fight It",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3ZHRkl5UWN4NFNmdnhTTk5RMjFnTDlxSUxHbnJuU0lFMFQ1cUZSWko3Znc2Z3VwVnVCUlJsTjdYWUVHUG51VkNHdVNCSGwxMzZveGp4MkF3VVF4UGJfdHRVeUl5eUlndlBDN2pqYndHWnNTQ2lMX0VtVExPQ1Y5ZTNNdFdMRXg0SjA2am5NckFJREJuVHJ0TmVQd05PLWdXSGVkcnl5SDlOUWNzc1ZUX2stOFhQZw?oc=5",
+      "source": "HumAngle",
+      "pubDate": "Wed, 14 Oct 2026 05:01:06 GMT",
+      "category": "Insurgency"
+    },
+    {
+      "title": "Nigeria Seeks Action Against Terrorists’ Use Of AI, Drones",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOGM0eU0zWkZxQ0p1T2dKWEtlY0d0OUl2b1B1c2VTQklWRXlGdGY3ZTJjYlV3amstb2pqeGtZNFRUYlIzTWxBTERZYmpXSlkxUWUyOXF6NThsREdDd1Y1YmVXNjZkQXV0Z0pQbFA1ZFR1V0k0c3AyRXctS01UX0xyU0J3?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Wed, 14 Oct 2026 01:12:15 GMT",
+      "category": "Security News"
+    },
     {
       "title": "NSCDC arrest suspected human trafficker and fake doctor in Kwara",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2FtWnpSMV9FR1h6UndJNmtEdUNxaEZSRHN2cGpTeHRXRXFPVkZEWDBrVW9OY2J0TGVKZlVfSjNZM3RnRVhKa2p6eVZIZFFZM3AtS3hqb2p0TE9pUDRBWTlhQUQxczU4amQ3bkUxR1F2T18tUHE5NTB0UzZKZTBxYjBmUEItM0VwODJTTzhCM2JqV282SGpiVGROcWgtRmNpVVk0cVdvTQ?oc=5",
@@ -29,18 +141,25 @@
       "category": "Law Enforcement"
     },
     {
-      "title": "UN General Assembly adopts pandemic declaration, urges stronger global cooperation",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3BBWWtvRkJaTFRGY0pIekNmWUNQcXdfUURnZGdwMHUxb1R3dVdPenlrSW9MX0Y5dEJ3NE9KdG4tcktzWVFzY0dFSHN1R2lGamN1eThsNkJ5U3VDakVVdFRLc01qV2tncXo1VlluV1RiMU1KRUJMMzNXM2NJWUoxazE5Y2I3NjFLMUo1X1JZNHZfWVpNQ0QzeHlLU1ozOXE2a042emFCTE54RG5XTkswaFFCV3U5UEx2bExQSm9nUmlsbDh1R0cwcXpnVUttNV9zSkFSUFFLT1lsVTA?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 22:52:15 GMT",
-      "category": "Military/Security Operations"
+      "title": "Wike Assures Qatar Of Security, Eyes Doha City Concept",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFhsZ2xzWGEwX2oxdThMbmNvYmtGUVM0X0c0aS1aWWxkX2w5VUJkQzhVZ1o3M1ozS1RBU0huZm9QbGhSdktTQlNTRlE1YnNKbHRUbmcyb2NRYndvMDJPeWRkcFdlQVZfRVRIZTgtaTdtcWZqNC0yZlRjOE1TUWZvVA?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Tue, 13 Oct 2026 23:03:48 GMT",
+      "category": "Security News"
     },
     {
       "title": "Nigeria Demands Probe Into Nigerian’s Death In South African Police Custody",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGRCYVUtcUZkbHBON0c3U20xQ2NmV0YtSk1GMV9jOUtDSVlsYmNNbnpKQVp4S1ByWTBJRExCTjFnNkl2M3ZIdHdZcWRNZHpmZlhmSkJzLWdIQkZ1N2UxOXdOY24wY0xhLWlxeDNuajZwU3FYa25RRUJJZW1ZUFhOYjdOczZTOWVpaWpfRXo3RzlCR012VmtUSFRXcjI?oc=5",
       "source": "Arise News",
-      "pubDate": "Tue, 13 Oct 2026 22:39:05 GMT",
+      "pubDate": "Tue, 13 Oct 2026 22:37:37 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "Military Pensions Board, Veterans Seek Common Ground On Pension Adjustment Dispute",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHNCaFVTS3ZGZUZ5VEk4WVdRbWNYS2NUcFVOcmlJRGNCdmRsdWJYdWZ0RkF0azhIdTNJaGFpbnIxSnc4MDdPMUFrOEpYM242S0RUbktvckJadnhUMUw0X3BWNDBQTnJGZU9UdTlFb09PQVNNZ3cyaDJaUWFzNXJmMTA4QURPYTVkMWE1bDRtaU5lcHF3ZHhyT2J4UEk3NE5RODB3?oc=5",
+      "source": "News Agency of Nigeria",
+      "pubDate": "Tue, 13 Oct 2026 22:37:09 GMT",
+      "category": "Security News"
     },
     {
       "title": "Mining Week: Investors demand clear rules, stronger security",
@@ -48,13 +167,6 @@
       "source": "Vanguard News",
       "pubDate": "Tue, 13 Oct 2026 21:39:27 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Pope Leo has cancerous growth removed in lung operation",
-      "link": "https://www.vanguardngr.com/2026/10/pope-leo-has-cancerous-growth-removed-in-lung-operation/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 13 Oct 2026 21:25:54 +0000",
-      "category": "Military/Security Operations"
     },
     {
       "title": "NAF Constitutes 12-member Board To Investigate Aircraft Crash",
@@ -65,9 +177,9 @@
     },
     {
       "title": "ECOWAS Defence Chiefs seek sustained Nigerian support for regional security",
-      "link": "https://www.vanguardngr.com/2026/10/ecowas-defence-chiefs-seek-sustained-nigerian-support-for-regional-security/",
-      "source": "Emmanuel Okogba",
-      "pubDate": "Tue, 13 Oct 2026 20:33:00 +0000",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0VLRm8xMGZoRjY4VVRBZEtFY3JoMVFMaVJqV0RyLWEyLXd3NkxFZnVfQXNRak1wZTVqRVdlTGFWcEpyZXBnMmJGSTRnZDFVRDk2YWFzckFqRGJyWmE5Z2N1bVhOUGF0NzVxTzJMMWJzb09WZmRpN1JxeGV5ZlBBTWNLbjZ5M1hTZHBNTkdhNjQwY1lPMUZMZkVmc3ItNWtJU19LRFlNUzJSMmJNVFpiRnh30gG3AUFVX3lxTFBCR0RXQUJnZW4zVGFJTnphcjEyek1RdDBPMlo4ZjJ0R0UySnFtbHgxRzlqOTNYalZ5Z3VNN1BmbDZ6ZFNYRUhZM29DeE51cUlGMVBrV2ZDUzFPSmh0T05VMXRsMVNxWVQyR1k5N3oyU0ZFclpIdHUwdE16U0JPWjU1dHdtZjRpN1daYmljMzl1MXdJd3BleXVOT05VZV83d2xUTVYtYjB2R2lEbkMxYUFSY1dMQ1B3dw?oc=5",
+      "source": "Vanguard News",
+      "pubDate": "Tue, 13 Oct 2026 20:33:16 GMT",
       "category": "Security News"
     },
     {
@@ -76,13 +188,6 @@
       "source": "Premium Times Nigeria",
       "pubDate": "Tue, 13 Oct 2026 20:22:35 GMT",
       "category": "Law Enforcement"
-    },
-    {
-      "title": "Hamzat unveils policy agenda, promises reforms in transport, housing, security",
-      "link": "https://www.vanguardngr.com/2026/10/2027-hamzat-unveils-policy-agenda-promises-reforms-in-transport-housing-security/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 13 Oct 2026 19:57:15 +0000",
-      "category": "Security News"
     },
     {
       "title": "Children in the military: America arụọla Nigeria aka dịka mba a na-azụ ụmụaka ịbụ ndịagha",
@@ -99,39 +204,11 @@
       "category": "Traffic"
     },
     {
-      "title": "Nigeria seeks action against terrorists’ use of AI, drones",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNndRZXRxMDRsUUdHdG1rTEpYc1FmSkZzM3VnUnlqRUs0SEZtbDFSTmtDU0RDVS1vaDdtdWZhSDQwRzRaZDF3bzRiNmlfOVFFWXhxUWZFRzZoNDFtUXZJdW5iMkpkTGdrUmxwUkY1aHhwUUEta2RGTE5Gdzl4bWkzLW1ubHNMRnQwV21jV1RjWTJfU3FiUmt2MUNB?oc=5",
-      "source": "PM News Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 19:04:34 GMT",
-      "category": "Security News"
-    },
-    {
       "title": "AI-Enhanced Terrorism Already Showing Up in Nigeria",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVJ0dTF2RllOWUZqenVaTW83ZV9fQlZuRjVkS0xaM1N6YVBMNGVzQjNheDU1cVBwWHE3TExaem5sQy1wRWhPN0s1ZlhzcTFockdTTVdHRXg0TmVPMHhhM2tUMkJ0ZTIzOTVpWnRKS2U5djRCbFV2OGNvT0l5NHJSZmdYajdja3kyLUVpVTB3?oc=5",
       "source": "Africa Defense Forum",
       "pubDate": "Tue, 13 Oct 2026 18:44:00 GMT",
       "category": "Insurgency"
-    },
-    {
-      "title": "UBA commiserates with Nigerian Air Force over NAF 931 Aircraft crash",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWxmTzBTZHk3YXVrdTlrVTFXektuU0VRS21MVmtCV0hkeVd2TVVxRlpmWVRTYXFXcVJqc0hKZmp0SXRHcUQ5N19mVE43eGs2Q05vcmcxVlQyU2tDWXoyU3Y3R3dzWHN2a0NxdUctM2FMV1AzNWhEWGk0cXRRc2lIaHJHalY4OFRqZWJhNkhVVDQxSE9lR1k4UEFHQWFBNklaVWV5ekE0VEpCQ3F5bzVORVhBVVZIVW9xa3FwMg?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 18:32:08 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "NAF sets up 12-member board to investigate Ondo aircraft crash",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzRZWnlUSFd6bjZFTndlUUd6U0VtelkwZ2JCUlFLaUt1dmtsN2VtR3ZZYkx4cExYS0prU0theENzSXNBN0pjX2FiLW9rc3ZGZ3dlU1J0Q1dJTTZCOVFrWHRNWW5pSWNMSzJQMG96UDVMakdHMlZRbm9aQW1qVDcweXZ3V0xuZU5ObUtqeENqNVVWME95VHBDcnhiemdSc3hPdk43QXpqbW9ySzN5S01OcXNkVkVyQ0pESy1R?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 18:09:33 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "INEC meets security agencies, party leaders, others in Lagos",
-      "link": "https://www.vanguardngr.com/2026/10/2027-inec-meets-security-agencies-party-leaders-others-in-lagos/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Tue, 13 Oct 2026 18:02:01 +0000",
-      "category": "Security News"
     },
     {
       "title": "US places Nigeria among countries allowing recruitment of child soldiers",
@@ -145,13 +222,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVndNaS1lUGdRRWFBVzFmSFlhZXUtU0FKN0Jrc2Q1czRTbUxFWFdlU3NoSXFCZThtZERiYjdaVGM5c1JTcS1maGtzOVNqcHE0Rjl2dnNxUGQ5UkV6U1FsMmdLZXZKa1JnXzNfMTM1Q0tWLTFnZFBpTThWU1pmczhJVy1aWkJGcWtYbDlpLWREUHUySUVfM2xxZHN1WjlaUDBVYzJsdXM0bXY2aHNnd2daQXZSVFZaTGdKOVJIbFJTc9IBxAFBVV95cUxQRENjenotYjZFRHlkQk02ZGtWV1E5NUJNTzNCRTJxYnd2UDZPQnVSZ3ViRGJvbld3d2pwOEplb2hkYUhvUXlRemhCdG55cEYzTHFsZ2haTml2WEcyeUpPSDNVcXF6RWZQUm9yZXV4X2JodV9MRGdiU19sVHB4cHJhZGtEc0ZFOHlCb3JfTkQybFlNYTFicl9kbFdreGEwUGhQTHNMUGRtNkNnNmpqVnFhcWJ6Wmwyd1lueWZRcWNEbzNtWVZz?oc=5",
       "source": "Businessday NG",
       "pubDate": "Tue, 13 Oct 2026 17:38:33 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "$131bn Funding Gap Threatens Growth Of Nigerian Businesses—Report",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUhheDBycEFiUkxvRlVoNWozNmxZc3d6dmJiRUQxMm1Sbm9acWRfMENHQ29nTVY0aG9KdmZrYnZZUThnUmN5WDdLcmc1ZGt6YXpBTmU5a2F3aWZnNTJrQXVZVUJ5OVp2cXdKU1ZrU2lVTzJnbU9mS2pXeHFseXl2eHBtTmZHdXUtVDdJRDJabHVldw?oc=5",
-      "source": "The Whistler Newspaper",
-      "pubDate": "Tue, 13 Oct 2026 17:27:51 GMT",
       "category": "Security News"
     },
     {
@@ -197,13 +267,6 @@
       "category": "Security News"
     },
     {
-      "title": "Q: What is the motivation behind these bandit attacks? - security expert, Dr. Okorie weighs In Watch full interview: https://youtu.be/ZmwOjw1spl4 #trusttvnews #insecurity #insurgent #zamfara",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qenBlVE9fTnRoZXZNOXdLS3lYbENuMTB2SkZTOEpmZGx5VDB6OGEzLTVUMF9DcnlraUtpbEpobkNmTkdEMlhjeGhQS0dXeDBWVmlzWDZ3?oc=5",
-      "source": "Instagram",
-      "pubDate": "Tue, 13 Oct 2026 16:00:28 GMT",
-      "category": "Banditry"
-    },
-    {
       "title": "Tinubu submits drug and security bills to Nigeria’s Senate — Premium Times Nigeria",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG1iWHdBakJaNE13NGYwZ2VVcEl0RGJtSlZSNnVBTDkwZUxHVVpub3M1d29CRHJ3RW9mRnVLSll3SXl2aEN5X3NMVjRoaElBYXFVVndRUFFGNmhiM2ZyMWpGZWpLWU81dVdsRk5MYUdvRFFHdTVCRTRXZU5yRU9vbFVFUjA0QTBZMjctOTM2QVN1NzB4OW15dUd3MEFhUi1hUmpRSm9kVFJCX05ndFhuQ2Z0bTM?oc=5",
       "source": "UA.NEWS",
@@ -223,6 +286,13 @@
       "source": "FRCN HQ",
       "pubDate": "Tue, 13 Oct 2026 15:12:12 GMT",
       "category": "Law Enforcement"
+    },
+    {
+      "title": "DECAN Honours Mining Marshals Commander with Operational Leadership Award",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1JPTWhVUFZrNWtDTEQzTEdzbUkzbXI5YnNzR1NaSXNYS25Dc0txN2FvVDl4N2dDUXBjRlA2blU1bXNOb0NHdmdMakFNWUhxYXEwc09oVDZISWFnNVIydGhjRGtGbUdOZ0l1TF8wOHZpUEVNdTZORnRaczFBa0ZkZFlIU2FsSEZ1TnUwOUF5dld2TFhNR2VFZk0zOUtYUzVOMUVTbmU0YVpWd2xBbEpQZg?oc=5",
+      "source": "PM News Nigeria",
+      "pubDate": "Tue, 13 Oct 2026 14:01:38 GMT",
+      "category": "Military/Security Operations"
     },
     {
       "title": "IGP Links Illegal Arms Trade to 2027 Election Security",
@@ -260,11 +330,11 @@
       "category": "Security News"
     },
     {
-      "title": "IMF increases Nigeria’s growth forecasts to 4.2%, warns higher prices will aggravate poverty, food insecurity",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeF9qenVkX0xwcWRsSmlWOUJfUnM4Y1dTWWpnR0ZHQ0djQjZmMm9JRGE2eEVheUtXYUJ6b3VHX094akM1amxnS0dGMENqRmJuRFdSRmNUZFNJMndFLVgzQU43c1Znb0U3MHdKMW4xa1N0akFtbnEzV2xzclMxNzA2enhqc04zbVhTVWNvMU5OMWJQY2I1MjBubVFXYnlOTFJMdTQxVXZtTUl1dHR3ekZQMzNVUS05cVBzMHBBbHhIcHg5MVBqbHpSS1BQT1BSeGJyYk5jbGdma3VaTFNpUW9XTEF1YUJKU0ppNjhGV1htS0FYTVZ3czIwRVdJM3R4WmJf?oc=5",
-      "source": "Premium Times Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 09:57:08 GMT",
-      "category": "Security News"
+      "title": "Q: What is the motivation behind these bandit attacks? - security expert, Dr. Okorie weighs In Watch full interview: https://youtu.be/ZmwOjw1spl4 #trusttvnews #insecurity #insurgent #zamfara",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qenBlVE9fTnRoZXZNOXdLS3lYbENuMTB2SkZTOEpmZGx5VDB6OGEzLTVUMF9DcnlraUtpbEpobkNmTkdEMlhjeGhQS0dXeDBWVmlzWDZ3?oc=5",
+      "source": "Instagram",
+      "pubDate": "Tue, 13 Oct 2026 10:10:55 GMT",
+      "category": "Banditry"
     },
     {
       "title": "Experts Highlight Role Of Intelligence In Nigeria’s Security Operations",
@@ -293,76 +363,6 @@
       "source": "AIT LIVE",
       "pubDate": "Tue, 13 Oct 2026 07:36:10 GMT",
       "category": "Traffic"
-    },
-    {
-      "title": "Don't weaken security architecture for pipeline protection, oil theft fight - Atiku's camp tells FG",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDd3ZTlLdlJwT3M2Sks5NFhCd2JZM3d2Umh6TjhZTnlfYlJXTGNVblZFVHBUYkVNdDNOYWFhOExwNTFhTGM0dEFXOHFyWWd5alkyakJsUUJ2UkoyUFo2eTVoamRXckJxNUlkbVZkcldrRXptaUFZQUFfQy1DVGFtQk9XN1VtbUJaempfcnFsZVU5TEFFbm5QWVBwWTJ0bTZ2em50M3c0UjNBMERzN1l1bU5yZw?oc=5",
-      "source": "The Sun Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 07:25:38 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "DECAN honours mining marshals commander with operational leadership award",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWJlaENQVWZsU3RNOXh4RzNfdmFjT011N19XNWgwcmxVS3h2VjZxQ1EyTWRFUE9TMXd5ZWpSSldwMEpmM2dzUlZmMGNMUE9ta1dndWp4MFlhM2FVOG5tYlRHV2p2NnhwZlE5bmIybFZOUU1FUURZNWJTNjZJcUs4RTdlUlRRYTZlYTJfVUFkUTk5N0VPZE1Hb3NqTEthdzVMSWRIa0lBSdIBrAFBVV95cUxQQ0tUUGRvRE1feHNzM05tSS1TSWFhWEVScUdWWXJXVFRpS0NUa3dmU0RZcUs5SjJXVlZKeHJ5WWRzbE43ZXFJaVRRY2Q4OVNjN2d1a1hzckJNenNiUXJ1STBMR2h4VjBDNWxUTzJWbGFIVzg4SDZBU3R0VHRpel80eFRlVGQ3MGFEMkw5OHhNa1JqVXFSS2ZMbmRETi1mWDhNZ1lyaXR5TWI4WHdL?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Tue, 13 Oct 2026 07:07:30 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "Nigeria Launches Unified Security Rules For Oil Assets, Pipeline Protection",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXNqTVlERkNnVDkycDhRSkFaejdqNWRXV1htSVFuUzlEODV0OS1venR0TVg1bC02cERDU0cwRkppNE5fdlJiRGRSNmp0OEM3OTk5ZDE4ejZZQW1rYWtlSjEtLW9aUEdhVUZrM0NET3NQRFBsUmc5aUFtT2pzUHpBb3pwWmVEZ0FGclJJWUlyb25vcGlCUHhsNlhYMWxyUQ?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "pubDate": "Tue, 13 Oct 2026 07:02:40 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "NSCDC arrests two suspected cable vandals in Kwara",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekJxTjJ6cVpoTmRYZVZYMzRUbWNUR1IydEhRc3pLUVd0RWVzUURJRXJQQUxQMHZ2dDNPaGJkS1BYajQyVUx4UVVadjBBbHNGcWNCRjdraDFQTWRlSWl0SG9aS1ZxOFZfOG1QR2ppbnAxanRvU1VkSDRVZ1NGRlZiTXdwbjhvb2NBaVlZ?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Tue, 13 Oct 2026 06:43:22 GMT",
-      "category": "Law Enforcement"
-    },
-    {
-      "title": "New Gombe NSCDC Boss Cracks the Whip, Charges Officers on Proactive Policing",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0Jfdncya1pkY1dXY0NfY3pOZUpGWFVvLUFBYUkzMFJVVHNJUHcwdkN1WUtwcngwNmR5c3FYZlJJMjJQLS1IemllaXU2NGdiSGh6c1R5b0tBbEpGSWZVSXdyWUw4ZlRGbktrRXVaTFc2aFhTRjVpX0E2c0RPY0JHTG9vTVp0NWViZ3NwY1ZYbm9ZQ043MVV4VTdHRERhNTUzNmZmeFVRaTZIMHhkbE5lVW9WaHllQkYz?oc=5",
-      "source": "https://thenewspointer.com.ng/",
-      "pubDate": "Tue, 13 Oct 2026 06:15:24 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "KANA charges media practitioners on responsible reporting of security operations",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnVpWEZUbmIxWmtIc25GVFVXc3gxWUtaQ2ZRd0VJZFhHV2drR25MSWtNcE1LTHl0OEdmQjVRNWdRaFJ0VG1peHVackdtWk9nZXppa1dkb2pBTVoyZ2VZaE44TG5CMk9RY0ZreG1CMzlydjVHVHlYSkd1eFNwM09RNHJrdy1qSThvWGdkM0tHT1NHOE9GWGd2S0ZFQTJBM3Z3Q3dMbFRyNXFkQWhDZy1R?oc=5",
-      "source": "Realnews Magazine",
-      "pubDate": "Tue, 13 Oct 2026 05:04:03 GMT",
-      "category": "Military/Security Operations"
-    },
-    {
-      "title": "NSA: new security framework will tackle oil theft, pipeline vandalism",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVl9td1RUQVJPTmVjMmFGRFBFWm9qMTh0YkJtVlZiOVZ4T250UUx6cE5XV2ZpUlFQTEQzQkppR3N2djkxcVY0TUhfbThSVkRMWjdETndWLUhlOVNlM0RHcFRmTjJVR1BURTI3ZXdaNVFXUDBEdWQtZUptc3FqQVNLbmpPYmFldGlFSmtYcHVtUnM4LWxtdmdiVDcxZktlbFHSAaQBQVVfeXFMTV9WRWpxbEhCMjdvN0lsNHpnT1NrRXVHZkpjYi12bG4yalB1YVZzSXoxeHdhX1pOQUd1V0tMcEFWNXpodVVvVXpJS0laYlJRaHhyQkN2ZHlPcmxNYUJweFcxTENaUVhMdWQ1cmNVOXZ3MUJ4YVN0UVJQS0x0VWVLQU1JM1h1Umk2dkljUzB0Wmd5N0p3Y0FGc05kZ1FFLWFnRkNjU2U?oc=5",
-      "source": "The Nation Newspaper",
-      "pubDate": "Tue, 13 Oct 2026 04:57:53 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Sanwo-Olu, IGP Disu, security chiefs celebrate LSSTF boss Ogunsan at 50",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFNiQXBkMjk5ejZUY3cwb0x3S3ByTFZnV2Foak5MQTktZ3g3N2hRc0VWTGhqQVJUck91MUhtNnc4Q2JrZTFlNWZVbGtISWgyS2tEQVg0VWJ5azdqWGx4ZTI5UXZmZ3VpSTVJampVYXJKUl9SNVhWVWdWN3JZQV92a3U0ZzY4QTNMVDZ3cTBIUFF5eGVUaVpqYlpPaG51MzVNd2JaY3NMd213Z2RrLUE?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Tue, 13 Oct 2026 04:31:00 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Confronting Nigeria’s Multi-dimensional Security Challenges Through Whole-of-Society, Partnership-based Approach",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTjhURVBCb21Ka2JGT2lvUGd6aWh5Yi1sblRPMTdSRFR2YWZRWkl2QUFXaGxxcHB5cXI5dmtZWnYxbkRTNVhMRUsyOFR1WWViY3FKcmJNaWR6cEt4b1VITDFLUkFnY29TMldGcE5LVU11VEtvdUlSeE5COC0tazlxZWpBRDVQMmVleDJ6YkkwVnJDaDRhczhFcHlaS21SakFjeEpsSGNIcEVyWmd1R3liNkhyWGwwOVk5RVpQd21GdUtvWmQ2dW1sVnh5azBlLVNRU1pvRENmeG5ycjI1cWQzWlg3dmo?oc=5",
-      "source": "THISDAYLIVE",
-      "pubDate": "Tue, 13 Oct 2026 02:15:19 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Kwara NSCDC arrests two suspected cable vandals",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aMEs2ckdXZFU1Q3lXQ2dnVGlaaDlrcHI1Q2JkdHUzal9OV3liZ1kwSnZpX0ZNcEFrLS1LMmRxY1g0bk4xRkU5MXpJQUVKQmFUMnh4ZjVCcms0UExGbDhfenpjRXJ5N2NKX1JwelhkRUM0S2xIT1VR?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Mon, 12 Oct 2026 23:30:06 GMT",
-      "category": "Law Enforcement"
     }
   ]
 }
