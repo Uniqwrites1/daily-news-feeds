@@ -1,19 +1,68 @@
 {
-  "timestamp": "2026-11-01T19:23:20.578Z",
-  "generatedAt": "01/11/2026, 20:23:20",
-  "totalHeadlines": 172,
+  "timestamp": "2026-11-02T00:21:02.127Z",
+  "generatedAt": "02/11/2026, 01:21:02",
+  "totalHeadlines": 149,
   "dominantThreat": "Security News",
   "categoryCounts": {
-    "Armed Conflict": 8,
-    "Security News": 118,
-    "Law Enforcement": 17,
+    "Armed Conflict": 12,
+    "Security News": 94,
+    "Law Enforcement": 14,
     "Kidnapping": 8,
-    "Military/Security Operations": 7,
-    "Banditry": 4,
-    "Insurgency": 7,
-    "Traffic": 3
+    "Military/Security Operations": 5,
+    "Traffic": 3,
+    "Insurgency": 9,
+    "Banditry": 4
   },
   "headlines": [
+    {
+      "title": "Bandits kill Kebbi security guard, abduct woman",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnBXdG9FeUl4U3BHMTlJNkdfd0tSRjl6VEFrNjJXUXZSVERsTG4yWnFFYXVzMi0xVUxObzlOdFdFUm05MlFaa2JHSjhtYmcyTDMwTWlIUHlsc09Ickl4cHZsZW1mc194UzdGeklsTmJsU2RoOS13SGdkdVpjVmN3eV9NRFR6cDRfSlFYMTJlSQ?oc=5",
+      "source": "Head Topics",
+      "pubDate": "Mon, 02 Nov 2026 00:00:45 GMT",
+      "category": "Banditry"
+    },
+    {
+      "title": "Campaign Safety and Political Freedom: Nigeria Must End the Culture of Political Violence",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnhZM1BDQS03eDk4M05OQnpvcElNcmhSRHJXRm5nYlRYeVJMZmlzcE9CWHg0X0llY3hEOUNvb0dUZ3dLaFdSOEhDNHlGWVhEUDM4dWJOdDBTcGIwOWhWc1Q5Z193dmc0d3ZjbHluZzV5dUtiVWUwc0E5QmZPVktrNzZMYVZ3X0lGQi0tMVpKN3NaaVRTbDVLSjZMTGRsaml6YVVEdW95LTA3c1d5TGtraDZ0bw?oc=5",
+      "source": "Kogi Reports",
+      "pubDate": "Sun, 01 Nov 2026 23:36:06 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Nigeria Ratifies African Medicines Agency Treaty, Strengthens Continental Health Cooperation",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1lZcnhMdTlFUHhfNS1YQi1YdDZtaThUbG1vLTNITXExUFVLRkk1YlZLTXFhektadEZnSHlEaDVYbmQ3TGFMX2Q4NWNjY3pFZFJRZzNzZVdrSmktY05fcWlPY19IdVFic2FfaG4teWhvUkNYZ1BpS1hIdmtuQ29yQzY3LWhUYTh6UmJDblpkTnZKbEhVLXBOLXVldWNHRTBROFlpYm9jaUM2YUlESUdJV2k3cENLUlQtdWNVanZjTkNTNUk?oc=5",
+      "source": "Radio Nigeria Lagos",
+      "pubDate": "Sun, 01 Nov 2026 23:20:31 GMT",
+      "category": "Military/Security Operations"
+    },
+    {
+      "title": "Why Food Security Remains Intractable",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBTmYtbW5HbnJrRXM1NTR4RlpuWlRXcVhKZUtXTjdXeGk2Z25Jc0ZoRmdaMGZBM3F1WWVuZ3I4X1JhSzVNeU5TZ05DYmk5UDhZaUp1Qno0Z0QxV2xRYmdRZGdaWmF1RHBsMTgwMm9R?oc=5",
+      "source": "Independent Newspaper Nigeria",
+      "pubDate": "Sun, 01 Nov 2026 23:09:45 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Nigeria’s Digital Infrastructure Exposed As Cyberattacks Hit 4,361 Weekly",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkZSSzgyT0d5ZWpld0EtdC0yTk44eEZXLUFrb0NCY0ZVUnBneXZURHNvWTJYb1JicTVjSFRoMzJWQVRONDNQMHVSSktKRFkyU0ZyQzlDNmhGdVlKalFmcXJjcTBvVVlRZVlYR21OSWxvS0tFWHRZZjNZLVQyTHBxXzdQYXFvR2V0WGNkbzhBRVJ4UUdtb3QyUFBR?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "pubDate": "Sun, 01 Nov 2026 22:04:28 GMT",
+      "category": "Armed Conflict"
+    },
+    {
+      "title": "Opposition Politics Must Not Distort Nigeria’s Food Security Crisis",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjdtYVFXTVU0aWZad0xLVHhHSkEwSFZxanA1M0FlbXMtR3cteU9QWVNpR0UxVHF1RXZTc0N4Y3dfNThVR3ZfMzFlTGxrQWxQT0VjOGJXU1J6QjFlV2J0MUN0WnhGWVg0ZmVLTHlTU0VwOUpjM2o4aWh2UExFRUhMYVlBNlJiS1BFOVNIS2h4STIxcktET240dFE3TksxUEJpX0dZVER3?oc=5",
+      "source": "The Gazelle News",
+      "pubDate": "Sun, 01 Nov 2026 21:08:04 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Pat Utomi Challenges Nigerians Abroad Defending Tinubu Govt, Asks ‘Why Isn’t Your Family Back Home?’",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmMyR053Mlpfb0c0QUpSN1BTbkY5QjU2TVpYdHZobDgtQ3JEbkdMVURyQmE0dzNxRG9pcEJ3eEtmNmw2LTM0WlVsSTV6dVBfbl93SU01RWExeFJlZGZrWm0zM0VSNXJxenJ5WERPZ0NTR0dudTJJSU4wcE82ZGt5OC1wVHJwckNWU0hzYlhpYmNIRjFBQkM5WEt3QVlZaUd5eDlZRktWNThjeE5GOXZEZlU0V3l5X1ZMdlZObUl5NU4xdw?oc=5",
+      "source": "Sahara Reporters",
+      "pubDate": "Sun, 01 Nov 2026 20:55:01 GMT",
+      "category": "Traffic"
+    },
     {
       "title": "Gridlock At The Docks: How Bureaucracy Kept Nigeria In The Dark For 20 Years",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0E5V1ZCR0JZN04yb2lqYkg0WHVrRUk1R0NGTnRJeER1Q2Y3UWZYT0FOcEVOTEowakdSM2p0WWtaMGNIR0Vid09OZkRzb1NYalhlb2c5MVJSVXJLMFFWdzd5NTl6MFpaRnd1NFBNbVFPd3dxc3ZGNDZmeHk4SlVUb2ZYS0QybGhIaUl4WW9WLVhQOUJtM3BDTWxkQ1BpX2c?oc=5",
@@ -25,22 +74,8 @@
       "title": "Mahan urges Nigerians to consider total cost of vehicle ownership",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmt4dHBQWnFmcTYzdEs5cWwwSlBNQUdRczYwYi1ZbVdxOHRONzdGSmhyek82ZHRFSFBUTFJpamU1SkFGaXBFTE0zQlJyTm9nMWNhYW5wek90OUlLSExhbUI1YlhlOW5kMjFCNkdPeGlVb1g3OEROWWVsd1FSMWR2STZxLWZfM1JkdFZPQjRib1ZjU1Y3UVE?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 01 Nov 2026 18:08:02 GMT",
+      "pubDate": "Sun, 01 Nov 2026 17:58:21 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Pat Utomi Challenges Nigerians Abroad Defending Tinubu Govt, Asks ‘Why Isn’t Your Family Back Home?’",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmMyR053Mlpfb0c0QUpSN1BTbkY5QjU2TVpYdHZobDgtQ3JEbkdMVURyQmE0dzNxRG9pcEJ3eEtmNmw2LTM0WlVsSTV6dVBfbl93SU01RWExeFJlZGZrWm0zM0VSNXJxenJ5WERPZ0NTR0dudTJJSU4wcE82ZGt5OC1wVHJwckNWU0hzYlhpYmNIRjFBQkM5WEt3QVlZaUd5eDlZRktWNThjeE5GOXZEZlU0V3l5X1ZMdlZObUl5NU4xdw?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Sun, 01 Nov 2026 17:39:44 GMT",
-      "category": "Traffic"
-    },
-    {
-      "title": "Two Europe-Based Nigerian 'Businessmen' Arrested At Abuja Airport After Swallowing 200 Cocaine Wraps",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWTEwNEhGSElHOXAtR1VMdjNicUlSNDRSaUdLdlUydmcxUUxWSnBQMDN5aEFpdFRlLVQwTExma0pURWlqTEJxOGx4ZU5lYllBem9nak1DNTlBeWw1UUQ0TWYtZHpHanJES0R5dXh1N0EtQVd0RE94SUtXcWJxbENDTTdUWEhrX2NkY2o0TTVNUktDdnFZYVJ5ckNwVjVWYWZHeWloNS1UMURHOGRrdS12bkNEZTZmcU1xd1czcA?oc=5",
-      "source": "Sahara Reporters",
-      "pubDate": "Sun, 01 Nov 2026 17:39:44 GMT",
-      "category": "Law Enforcement"
     },
     {
       "title": "At least 12 children kidnapped in central Nigeria",
@@ -64,25 +99,18 @@
       "category": "Security News"
     },
     {
-      "title": "Revive Nigeria’s dead industries to tackle unemployment, ICAN member tells Tinubu",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWVja24xOF8xR0E4ZlpmN3Q2ZnZ2YS1rbTctc2dUcjFhRTNEbHBXalRaN0ZWaFJvNWdkX08zTGd0cUQzM0V5RWZLVlFmMFJ2UU9Ndm5aZzk2Z1JXOU55Z2ZyblJNYURZa1BvWkpXOEFkNVdhZkRIZE5RVzVMNFc3YUFkRjh1SmM5cVNudGhoQkw2UXpVR0Fya3N6UEtYYVZUcGs3bmFOMXA?oc=5",
+      "title": "Police kill two suspected kidnappers in Delta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbmpSbmo3a1ZuUC13ek1fTVNNM1FHQXFYUTJlRFJ6LS1YZ29zbHBnZ2NIU1plaS0tRlRlRWlOd3paYUp2Rmd2VTE5b3pkM09WN1Q4VnFON3hMSGZOYjZGeDFIOEc2bGtmNXpkQlJHb0g4Y0F0Tnp2eV91cEFub3BCLXl1ejdRclZaSWc4SGNGeUg?oc=5",
       "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 01 Nov 2026 15:36:00 GMT",
-      "category": "Security News"
+      "pubDate": "Sun, 01 Nov 2026 15:55:15 GMT",
+      "category": "Law Enforcement"
     },
     {
-      "title": "UNILAG VC threatens N1bn suit over alleged financial impropriety report",
-      "link": "https://www.vanguardngr.com/2026/11/unilag-vc-threatens-n1bn-suit-over-alleged-financial-impropriety-report/",
-      "source": "olufemiajasa",
-      "pubDate": "Sun, 01 Nov 2026 15:16:00 +0000",
-      "category": "Security News"
-    },
-    {
-      "title": "REAN’s visibility gap threatens Nigeria’s clean energy scale, expert warns",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlhQVGFWcWE4cEU1ZWVzUVk5a1N3bGV6UGszOWFYVl9hVkdzYkREY21lS3hpUXdSeTJhUHRyRU1WbDc0dGw2MG5nYjFGeWFVeFIzcExMZHg5UWwwQWdjLXozRVRWS0FOdUtPekhPNG1UYXp6bmdhZ1hxOENIMVlONWZNTDRRVHNTNTJXTGtwMThaWUdCZWx3dHNSSXNSUQ?oc=5",
-      "source": "The Guardian Nigeria News",
-      "pubDate": "Sun, 01 Nov 2026 15:02:00 GMT",
-      "category": "Security News"
+      "title": "Tinubu ​‌‍​‌‍⁠⁠‍‌‍‍‌‌‍‌‍‌​Inherited Insecurity – Dogara",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHJNWjJWQWNDVk5MNTFUU19FSXgzOEVILV9FR0dwcHBhNzRaUVhBRTlQUXJ4UWsxcWNxMTEyS3ZZakNGa3o3OURKQm9KVXVqT2tabDdtLTNDUXJEbUFCQTlWcGtsZTltbUdPUlM3VmxCN3pISUE5dVJBVlBXUTRuMzhhUQ?oc=5",
+      "source": "Real Broadcasting Network",
+      "pubDate": "Sun, 01 Nov 2026 15:55:12 GMT",
+      "category": "Traffic"
     },
     {
       "title": "Over 30 bodies recovered after police repel bandit attack in NW Nigeria",
@@ -92,11 +120,11 @@
       "category": "Banditry"
     },
     {
-      "title": "‎2027: Promote peace, policies, not personal attacks – PDP tells supporters",
-      "link": "https://www.vanguardngr.com/2026/11/2027-promote-peace-policies-not-personal-attacks-pdp-tells-supporters/",
-      "source": "Akinbayo Wahab",
-      "pubDate": "Sun, 01 Nov 2026 14:06:54 +0000",
-      "category": "Armed Conflict"
+      "title": "Joint naval, army forces kill 34 insurgents in Lake Chad region",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1NaVlZOamhDSm1sOFNkZHppalhUSE52aGZ2eFloOHhwVUctN0htVU5BSE82TXVfdlFUZmhMaHFuU0gzUERYTHBBV2JqZGVZV0hQNUlzZ3dRQTgtYnl2ZHZtOGFFZEZNVTBNcnpJNHIyWFFfVXJqelY3MmdXNXNoMmJxajNURXZKR2wxekJxVHpSWmFnMWI0TXliWGVMZjlabkFaaXVZbWN0X0F4Y2pSZHBaRUdHREFYdXdxeQ?oc=5",
+      "source": "Premium Times Nigeria",
+      "pubDate": "Sun, 01 Nov 2026 14:50:14 GMT",
+      "category": "Insurgency"
     },
     {
       "title": "Katsina govt denies violence link to Radda’s campaign rally",
@@ -106,11 +134,11 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "Sodipo Olawumi: Tinubu, gridlock at the docks and Nigeria’s power sector",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3VWT0h3bWhWUDZablk3T3lacVc0YTF0M3RwSnJsUTlvSHQ3RUNYaW9ZMmxUOFdEYl9NUkI3S2JoUWlJUlFEUnBWY3FIcllNMVhZeTdOWmtoUGlvMER0bHh0dVhOZDFYdEc5bkZKR01MbmRGbUhxRXZXN2tablNSeDNycDlzY2NDMVM1bGp5NlVZNGQ2SnNYd3VFa0FPMlJuZ3djMw?oc=5",
-      "source": "Daily Post Nigeria",
-      "pubDate": "Sun, 01 Nov 2026 14:02:29 GMT",
-      "category": "Traffic"
+      "title": "REAN’s visibility gap threatens Nigeria’s clean energy scale, expert warns",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlhQVGFWcWE4cEU1ZWVzUVk5a1N3bGV6UGszOWFYVl9hVkdzYkREY21lS3hpUXdSeTJhUHRyRU1WbDc0dGw2MG5nYjFGeWFVeFIzcExMZHg5UWwwQWdjLXozRVRWS0FOdUtPekhPNG1UYXp6bmdhZ1hxOENIMVlONWZNTDRRVHNTNTJXTGtwMThaWUdCZWx3dHNSSXNSUQ?oc=5",
+      "source": "The Guardian Nigeria News",
+      "pubDate": "Sun, 01 Nov 2026 14:02:25 GMT",
+      "category": "Security News"
     },
     {
       "title": "NDLEA arrests two Europe-based Nigerians with 200 wraps of cocaine",
@@ -134,13 +162,6 @@
       "category": "Armed Conflict"
     },
     {
-      "title": "NDLEA arrests two Europe-bound Nigerians with 200 cocaine wraps",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTlNTkQ0WFZSYTVHSU9tWnd4RkFZT1hHTVF2NjY5OVAyNDNQakEzcUFZZDRBQVRwV2g2VHA2X2dScVpWMk15VDdFdlMtWXNqSl9iWENQbkdmcVVIRHVtcUlWQS1OUHRvMUdBdmxhR2I1RE1PYmNGVDFVeXJkOWVUQ29PYW41ZWxqc09Xdg?oc=5",
-      "source": "Punch Newspapers",
-      "pubDate": "Sun, 01 Nov 2026 11:18:10 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "Emir of Gusau calls for sustain prayers for peace, security – FRCN HQ",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRhNk9iNHhjdmRPOE8yRnN3bDIzLUFMNGVZRC1wQjIyaXR4QVpkdUpTUFVVY19VZWIyU1ItVTUtSFN5OFpoaDRyV0hITzVJUmRraEg5eVNOVHFTLTRwR0V3bS1YYmlRZ2EwUnZEOEtQTm9sc29uQVhhdzR2dVFCMFVoNzdzSm1XcTJGR1JqV0dGYm1kX1ZNUFlzWE1tdUU?oc=5",
       "source": "FRCN HQ",
@@ -148,25 +169,11 @@
       "category": "Security News"
     },
     {
-      "title": "Nigeria security forces kill dozens of criminal gang members: police",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UYmg5U1hZNWU3bTh6dWxpWWFaR0E4UkxKdVhrQnRKM190NFFqYUxyN2xXOURvSVh1Z210dlZzeVpxa05wSGFTMERCSWRhanFaX3JYWEd0UEdEZw?oc=5",
-      "source": "TRT Afrika",
-      "pubDate": "Sun, 01 Nov 2026 10:46:16 GMT",
-      "category": "Law Enforcement"
-    },
-    {
       "title": "NIS Deepens Cybersecurity Measures, Partners DSS, NITDA, UNODC on Digital Protection",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Q29fbnczc3ZjcU9HZVdnMnFzVW5IcGtTU3NvR2hsZER3TDh2VFlIWUZBdXlpLVFkek1QNGhnaF9TNDhvUkhTUzZLTjRTczdVd19ycmFmc1Q3dXpUVkJieEtWczRwM1VKOUJV?oc=5",
       "source": "PRNigeria News",
       "pubDate": "Sun, 01 Nov 2026 09:15:26 GMT",
       "category": "Security News"
-    },
-    {
-      "title": "Troops Rescue 11 Kidnapped Victims in Kebbi State Operations",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0xrcFFjSGVyOXVjRXlHZG1vcFk2OVNDeDVGRGt3U2xQSS10b3ZhWnBqeHl2Tlh6SVUzUTVnODZLTVlIbU5haVBUZmdhRVg0YTNMd2FpY2hCVWdxd1A1TllROFlCMDQ0S3FsdXFqd1NPckhLQ0xmZWFNcDBibHpBclplMms0SFgtNEQ2aWpJMnUySTJlY3l1bmE2Y3NicUJvLXc?oc=5",
-      "source": "Head Topics",
-      "pubDate": "Sun, 01 Nov 2026 08:04:00 GMT",
-      "category": "Kidnapping"
     },
     {
       "title": "Tinubu Offers Prayers for National Harmony, Security and Prosperity in Makkah",
@@ -215,6 +222,13 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FWTAxU2ZwV0VSLUszMFNTeGw5c25YVEk1NHFSUkstZEl3c0h5TEJaYVdOVlRDS1dqalM0VGFpY0UtWEVUSmJOVjMwb2NoMWUwcjk2OHR6TQ?oc=5",
       "source": "Punch Newspapers",
       "pubDate": "Sun, 01 Nov 2026 01:36:40 GMT",
+      "category": "Security News"
+    },
+    {
+      "title": "Tinubu inherited insecurity – Dogara",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OaDVBMi1zaEk2ZnJRbUNJdWJINzhVVTZxLXMzbVpIYTc4OGhVckFFUDU3a2VUanZ2OGc3TDFLaF9XbXp4a1RXd2N5YjkzTFZQcHllU0I4TG01MXdsTU1ZcUUxeWc1M0hKb1UxZTB0MUNSOVBQ?oc=5",
+      "source": "Nigerian NewsDirect",
+      "pubDate": "Sat, 31 Oct 2026 23:52:47 GMT",
       "category": "Security News"
     },
     {
@@ -292,20 +306,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTBTbUpLRk81dm1BZEFiMGhFUTNmNlA5NENnN3pUMHgtcVIteEdTMUplTlRxdnBSd1FLcGZDY3A4b0NRZXVjU21CREcwRlY4M3JjVWFNMU1SRWJZTEJyajhRM2V1dXBIVlRmU0VvTGNMUzNtMEw5TnlNeUduOTRNNl9lZXozc2U1ZGtETE9RbHlmbl9xUXc?oc=5",
       "source": "Western Post",
       "pubDate": "Sat, 31 Oct 2026 12:15:47 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "ECOWAS ministers seek sustainable funding for youth, security – FRCN HQ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTZtc1Y0S0JncnZBSGRsRlQwQTVqQXV6cGxRaEZNNGdxVWRCdjd6enVROHVabl9KVHhxZlZyNG1Vdkk0VHpXMnB1WXhkZFdRd2d0ZDFKczJNVDhSQkVqVmhTRDI5SlMyWU9XcXFuaTRqTG41bFJ0TkIwczRjd0FYUG55LUF4QTJ1NGZ1YUtQZFp1cTRZUld2dzUtMkREcEFZSlE?oc=5",
-      "source": "FRCN HQ",
-      "pubDate": "Sat, 31 Oct 2026 09:38:25 GMT",
-      "category": "Security News"
-    },
-    {
-      "title": "Law about burying dead in Nigeria: Wetin Nigerian law tok about burying dead pipo for residential areas",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtSUVUT1gtOXJjSm4zanF4MHhyOXZsTU51eTl4ZFhaeEJ2YzNycGVEZDVwZDZMTzVyR3cyTW1IM3RtamswUWN6NWVuX0pIbnJ2RkJBLUVVeTVHTW5selHSAWNBVV95cUxQd3A3d3J6TEMyaWNrS3NmT3FmRWZVOWE1MC1OVG5fa1NHMElBdEhRYk9xTExlTjlBNGpiZmo3YnVzRjRIUXJhV0lZWWllcUdHeTlDdlFDYTl2REkxTXdtVlpmd2s?oc=5",
-      "source": "BBC",
-      "pubDate": "Sat, 31 Oct 2026 09:24:11 GMT",
       "category": "Security News"
     },
     {
